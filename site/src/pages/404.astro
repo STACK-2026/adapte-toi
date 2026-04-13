@@ -4,26 +4,268 @@ import { siteConfig } from "../../site.config";
 ---
 
 <BaseLayout title={`Page introuvable | ${siteConfig.name}`} description="Cette page n'existe pas." noIndex>
-  <div class="max-w-2xl mx-auto px-4 py-32 text-center">
-    <p class="text-8xl font-display font-bold mb-4" style={`color: ${siteConfig.colors.primary}20;`}>404</p>
-    <h1 class="text-2xl mb-4">Cette page n'existe pas</h1>
-    <p class="text-gray-600 mb-8">
-      Comme 27% des emplois français d'ici 2030, elle a peut-être été remplacée. Mais toi, tu peux encore t'adapter.
+  <div class="max-w-3xl mx-auto px-4 py-16 text-center">
+    <!-- Header 404 -->
+    <p class="text-[120px] md:text-[160px] font-display font-bold leading-none mb-2" style={`color: ${siteConfig.colors.primary}15;`}>404</p>
+    <h1 class="text-2xl md:text-3xl mb-3 -mt-8">Cette page n'existe pas</h1>
+    <p class="text-gray-500 mb-10">
+      Comme 27% des emplois français d'ici 2030, elle a peut-être été remplacée.
+      <br class="hidden sm:block" />Mais toi, tu peux encore t'adapter.
     </p>
+
+    <!-- Mini-jeu : Quiz "Es-tu IA-proof ?" -->
+    <div id="quiz-container" class="bg-white rounded-2xl border border-gray-100 shadow-lg p-8 md:p-10 text-left mb-10 scale-reveal">
+      <div class="text-center mb-8">
+        <span class="inline-flex items-center gap-2 bg-accent/10 text-accent text-sm font-semibold px-4 py-1.5 rounded-full mb-4">
+          <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M13 10V3L4 14h7v7l9-11h-7z" /></svg>
+          Mini-jeu
+        </span>
+        <h2 class="text-xl font-bold" id="quiz-title">Es-tu IA-proof ?</h2>
+        <p class="text-gray-500 text-sm mt-1" id="quiz-subtitle">5 questions pour évaluer ta résistance à l'IA. Zéro API, 100% local.</p>
+      </div>
+
+      <!-- Question area -->
+      <div id="quiz-question" class="min-h-[280px]">
+        <!-- Filled by JS -->
+      </div>
+
+      <!-- Progress bar -->
+      <div class="mt-6">
+        <div class="flex justify-between text-xs text-gray-400 mb-1">
+          <span id="quiz-progress-text">Question 1/5</span>
+          <span id="quiz-score-text"></span>
+        </div>
+        <div class="w-full bg-gray-100 rounded-full h-2">
+          <div id="quiz-progress-bar" class="h-2 rounded-full transition-all duration-500" style={`background: ${siteConfig.colors.primary}; width: 0%;`}></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Navigation links -->
     <div class="flex flex-col sm:flex-row gap-4 justify-center">
       <a
         href="/"
-        class="inline-flex items-center gap-2 text-white font-semibold px-6 py-3 rounded-lg"
-        style={`background: ${siteConfig.colors.primary};`}
+        class="inline-flex items-center gap-2 text-white font-semibold px-6 py-3 rounded-full transition-all hover:scale-[1.03] active:scale-[0.98]"
+        style={`background: ${siteConfig.colors.primary}; box-shadow: 0 2px 4px 0 rgba(255,255,255,0.3) inset;`}
       >
         Retour à l'accueil
       </a>
       <a
         href="/metiers"
-        class="inline-flex items-center gap-2 text-gray-700 font-semibold px-6 py-3 rounded-lg border-2 border-gray-200 hover:border-primary/30 transition-colors"
+        class="inline-flex items-center gap-2 text-gray-700 font-semibold px-6 py-3 rounded-full border-2 border-gray-200 hover:border-primary/30 hover:text-primary transition-all"
       >
         Explorer les métiers
       </a>
     </div>
   </div>
 </BaseLayout>
+
+<script>
+  const questions = [
+    {
+      q: "Dans ton travail quotidien, quel pourcentage de tes tâches pourrait être décrit comme 'répétitif et prévisible' ?",
+      options: [
+        { text: "Moins de 20% - je fais surtout du sur-mesure", score: 3 },
+        { text: "20-50% - un mix de routine et de créativité", score: 2 },
+        { text: "50-80% - beaucoup de process standardisés", score: 1 },
+        { text: "Plus de 80% - c'est très procédurier", score: 0 },
+      ],
+    },
+    {
+      q: "Si un client ou collègue te demandait d'expliquer pourquoi il a besoin de TOI (et pas d'un outil IA), tu répondrais quoi ?",
+      options: [
+        { text: "Mon jugement, mon réseau, ma créativité - l'IA ne peut pas ça", score: 3 },
+        { text: "Mon expertise sectorielle et mon expérience terrain", score: 2 },
+        { text: "Ma fiabilité et ma disponibilité", score: 1 },
+        { text: "Honnêtement, je ne suis pas sûr", score: 0 },
+      ],
+    },
+    {
+      q: "Combien d'outils IA utilises-tu dans ton travail aujourd'hui ?",
+      options: [
+        { text: "3+ outils (ChatGPT, Copilot, Midjourney, Make...)", score: 3 },
+        { text: "1-2 outils, régulièrement", score: 2 },
+        { text: "J'ai testé mais je n'utilise pas vraiment", score: 1 },
+        { text: "Aucun", score: 0 },
+      ],
+    },
+    {
+      q: "Ton métier implique-t-il une forte composante relationnelle (négociation, empathie, gestion d'équipe) ?",
+      options: [
+        { text: "Oui, c'est le coeur de mon travail", score: 3 },
+        { text: "En partie, mais pas uniquement", score: 2 },
+        { text: "Peu, je travaille surtout seul sur des livrables", score: 1 },
+        { text: "Non, mon travail est essentiellement technique et solo", score: 0 },
+      ],
+    },
+    {
+      q: "Si l'IA automatisait 50% de ton travail actuel demain, que ferais-tu du temps libéré ?",
+      options: [
+        { text: "Je sais exactement : plus de stratégie, de créativité, de relation client", score: 3 },
+        { text: "J'ai des idées mais il faudrait que je me forme", score: 2 },
+        { text: "Je ne sais pas trop, il faudrait que j'y réfléchisse", score: 1 },
+        { text: "Je serais inquiet pour mon poste, honnêtement", score: 0 },
+      ],
+    },
+  ];
+
+  const results = [
+    {
+      min: 0, max: 4,
+      title: "🔴 Alerte rouge",
+      text: "Ton profil est très exposé à l'automatisation. La bonne nouvelle : tu peux agir maintenant. Commence par nos fiches métier pour comprendre l'impact sur ta profession, puis lis nos guides de reconversion.",
+      cta: { label: "Voir les métiers les plus menacés", href: "/metiers" },
+      color: "#E63946",
+    },
+    {
+      min: 5, max: 8,
+      title: "🟠 Zone de vigilance",
+      text: "Tu as des atouts mais aussi des vulnérabilités. L'IA va transformer ton quotidien. Ceux qui s'y préparent maintenant auront un avantage massif sur les autres. Forme-toi aux outils IA de ton secteur.",
+      cta: { label: "Guides de formation IA", href: "/guides" },
+      color: "#F77F00",
+    },
+    {
+      min: 9, max: 12,
+      title: "🟡 Bien positionné",
+      text: "Tu as de solides bases. Tes compétences relationnelles et ta capacité d'adaptation te protègent. Continue à intégrer l'IA dans ton workflow pour rester en avance.",
+      cta: { label: "Découvrir les outils IA", href: "/outils" },
+      color: "#EAB308",
+    },
+    {
+      min: 13, max: 15,
+      title: "🟢 IA-proof",
+      text: "Tu es dans le top 10% des professionnels les mieux préparés à l'ère de l'IA. Tu comprends les outils, tu as des compétences humaines fortes, et tu sais comment évoluer. Continue comme ça.",
+      cta: { label: "Partager ton expérience", href: "/temoignages" },
+      color: "#22C55E",
+    },
+  ];
+
+  let currentQ = 0;
+  let score = 0;
+  const container = document.getElementById("quiz-question")!;
+  const progressBar = document.getElementById("quiz-progress-bar")!;
+  const progressText = document.getElementById("quiz-progress-text")!;
+  const scoreText = document.getElementById("quiz-score-text")!;
+
+  function renderQuestion() {
+    const q = questions[currentQ];
+    progressBar.style.width = `${(currentQ / questions.length) * 100}%`;
+    progressText.textContent = `Question ${currentQ + 1}/${questions.length}`;
+
+    container.innerHTML = `
+      <p class="font-semibold text-lg mb-6 leading-relaxed">${q.q}</p>
+      <div class="space-y-3">
+        ${q.options.map((opt, i) => `
+          <button
+            class="quiz-opt w-full text-left px-5 py-4 rounded-xl border-2 border-gray-100 hover:border-primary/40 hover:bg-primary/3 transition-all text-sm leading-relaxed group"
+            data-score="${opt.score}"
+            data-index="${i}"
+          >
+            <span class="inline-flex items-center gap-3">
+              <span class="w-7 h-7 rounded-full border-2 border-gray-200 group-hover:border-primary/50 flex items-center justify-center text-xs font-bold text-gray-400 group-hover:text-primary transition-colors flex-shrink-0">${String.fromCharCode(65 + i)}</span>
+              <span>${opt.text}</span>
+            </span>
+          </button>
+        `).join("")}
+      </div>
+    `;
+
+    // Stagger animation
+    const opts = container.querySelectorAll(".quiz-opt") as NodeListOf<HTMLElement>;
+    opts.forEach((opt, i) => {
+      opt.style.opacity = "0";
+      opt.style.transform = "translateY(12px)";
+      opt.style.transition = "opacity 0.4s ease, transform 0.4s ease, border-color 0.2s, background 0.2s";
+      setTimeout(() => {
+        opt.style.opacity = "1";
+        opt.style.transform = "translateY(0)";
+      }, 80 * i);
+    });
+
+    // Click handlers
+    opts.forEach((opt) => {
+      opt.addEventListener("click", () => {
+        const s = parseInt(opt.dataset.score || "0");
+        score += s;
+
+        // Highlight selected
+        opts.forEach((o) => { o.style.opacity = "0.4"; o.style.pointerEvents = "none"; });
+        opt.style.opacity = "1";
+        opt.style.borderColor = "#E63946";
+        opt.style.background = "rgba(230,57,70,0.05)";
+
+        setTimeout(() => {
+          currentQ++;
+          if (currentQ < questions.length) {
+            renderQuestion();
+          } else {
+            renderResult();
+          }
+        }, 600);
+      });
+    });
+  }
+
+  function renderResult() {
+    progressBar.style.width = "100%";
+    progressText.textContent = "Terminé";
+    scoreText.textContent = `${score}/${questions.length * 3} points`;
+
+    const result = results.find((r) => score >= r.min && score <= r.max) || results[0];
+
+    const title = document.getElementById("quiz-title");
+    const subtitle = document.getElementById("quiz-subtitle");
+    if (title) title.textContent = "Ton résultat";
+    if (subtitle) subtitle.textContent = "";
+
+    container.innerHTML = `
+      <div class="text-center">
+        <div class="inline-flex items-center justify-center w-20 h-20 rounded-full mb-6" style="background: ${result.color}15;">
+          <span class="text-4xl">${result.title.split(" ")[0]}</span>
+        </div>
+        <h3 class="text-2xl font-bold mb-3" style="color: ${result.color};">${result.title}</h3>
+        <p class="text-gray-600 leading-relaxed mb-8 max-w-md mx-auto">${result.text}</p>
+        <div class="flex flex-col sm:flex-row gap-3 justify-center">
+          <a
+            href="${result.cta.href}"
+            class="inline-flex items-center justify-center gap-2 text-white font-semibold px-6 py-3 rounded-full transition-all hover:scale-[1.03] active:scale-[0.98]"
+            style="background: ${result.color}; box-shadow: 0 2px 4px 0 rgba(255,255,255,0.3) inset;"
+          >
+            ${result.cta.label}
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6" /></svg>
+          </a>
+          <button
+            id="quiz-restart"
+            class="inline-flex items-center justify-center gap-2 text-gray-600 font-semibold px-6 py-3 rounded-full border-2 border-gray-200 hover:border-gray-300 transition-all"
+          >
+            Rejouer
+          </button>
+        </div>
+      </div>
+    `;
+
+    // Animate result in
+    const inner = container.querySelector("div") as HTMLElement;
+    if (inner) {
+      inner.style.opacity = "0";
+      inner.style.transform = "scale(0.95)";
+      inner.style.transition = "opacity 0.5s ease, transform 0.5s ease";
+      requestAnimationFrame(() => {
+        inner.style.opacity = "1";
+        inner.style.transform = "scale(1)";
+      });
+    }
+
+    document.getElementById("quiz-restart")?.addEventListener("click", () => {
+      currentQ = 0;
+      score = 0;
+      scoreText.textContent = "";
+      if (title) title.textContent = "Es-tu IA-proof ?";
+      if (subtitle) subtitle.textContent = "5 questions pour évaluer ta résistance à l'IA. Zéro API, 100% local.";
+      renderQuestion();
+    });
+  }
+
+  // Start
+  renderQuestion();
+</script>
