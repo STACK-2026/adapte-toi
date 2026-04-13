@@ -16,18 +16,7 @@ const publishedOutils = (await getCollection("outils", ({ data }) => !data.draft
 
 const categories = [...new Set(publishedOutils.map((o) => o.data.category))];
 
-const upcoming = [
-  { name: "Canva AI", category: "Design et image" },
-  { name: "Perplexity", category: "Recherche" },
-  { name: "Cursor", category: "Code" },
-  { name: "Copy.ai", category: "Rédaction marketing" },
-  { name: "Zapier", category: "Automatisation" },
-  { name: "Adobe Firefly", category: "Design et image" },
-  { name: "Descript", category: "Vidéo et audio" },
-  { name: "ElevenLabs", category: "Voix et audio" },
-  { name: "GitHub Copilot", category: "Code" },
-  { name: "Writesonic", category: "Rédaction" },
-];
+const upcoming: { name: string; category: string }[] = [];
 ---
 
 <BaseLayout
