@@ -68,6 +68,11 @@ a:focus-visible, button:focus-visible, [tabindex]:focus-visible, summary:focus-v
   .hover-shine::after { display: none; } /* shine effect invisible on touch */
 }
 
+/* === iOS Safe Area + header stacking fix === */
+#site-header {
+  padding-top: env(safe-area-inset-top, 0px);
+}
+
 /* === Grain Overlay (film analog texture) === */
 body::before {
   content: "";
