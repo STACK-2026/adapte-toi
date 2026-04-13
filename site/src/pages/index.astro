@@ -9,6 +9,10 @@ import Newsletter from "../components/Newsletter.astro";
 import FAQ from "../components/FAQ.astro";
 import CTA from "../components/CTA.astro";
 import BlogCard from "../components/BlogCard.astro";
+import ScrambleText from "../components/ScrambleText.astro";
+import WaveText from "../components/WaveText.astro";
+import ExplodeText from "../components/ExplodeText.astro";
+import BlurText from "../components/BlurText.astro";
 import { siteConfig } from "../../site.config";
 import { jsonLdHomepage } from "../utils/seo";
 import { getCollection } from "astro:content";
@@ -26,28 +30,54 @@ const recentPosts = (await getCollection("blog", ({ data }) => !data.draft))
   {/* 1. Hero */}
   <Hero />
 
-  {/* 2. Problème - chiffres choc, urgence */}
+  {/* 2. Problème - chiffres choc */}
   <Problem />
 
-  {/* 3. Comment ça marche - la solution, tout de suite */}
+  {/* 3. Comment ça marche */}
   <HowItWorks />
 
-  {/* 4. CTA mid-page - action immédiate */}
-  <CTA />
+  {/* 4. CTA mid-page */}
+  <section class="py-20 px-4">
+    <div
+      class="max-w-4xl mx-auto text-center text-white rounded-2xl p-12 md:p-16 relative overflow-hidden"
+      style={`background: ${siteConfig.colors.primary};`}
+    >
+      <div class="absolute inset-0 opacity-10" style="background-image: linear-gradient(white 1px, transparent 1px), linear-gradient(to right, white 1px, transparent 1px); background-size: 30px 30px;"></div>
+      <div class="relative">
+        <h2 class="text-white mb-4">
+          <ExplodeText text="Le monde change. Toi aussi." class="font-display font-bold" />
+        </h2>
+        <p class="text-white/80 text-lg mb-8 max-w-xl mx-auto blur-reveal">
+          N'attends pas que ton poste disparaisse pour réagir. Explore nos fiches métier, lis nos guides, et commence ta transformation dès aujourd'hui.
+        </p>
+        <div class="flex flex-col sm:flex-row gap-4 justify-center fade-up">
+          <a href="/metiers" class="inline-flex items-center gap-2 bg-white font-bold px-8 py-4 rounded-full text-lg transition-all hover:scale-[1.03] active:scale-[0.98]" style={`color: ${siteConfig.colors.primary}; box-shadow: 0 2px 4px 0 rgba(255,255,255,0.3) inset;`}>
+            Explorer les métiers
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6" /></svg>
+          </a>
+          <a href="/newsletter" class="inline-flex items-center gap-2 border-2 border-white/40 text-white font-bold px-8 py-4 rounded-full text-lg transition-all hover:bg-white/10">
+            Recevoir Le Signal
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
 
-  {/* 5. Stats sourcées */}
+  {/* 5. Stats avec scramble */}
   <Stats />
 
-  {/* 6. Features - ce qu'on propose */}
+  {/* 6. Features */}
   <Features />
 
-  {/* 7. Témoignages */}
-  <section class="py-20 px-4 bg-gray-50 overflow-hidden">
+  {/* 7. Témoignages avec blur text */}
+  <section class="py-24 px-4 bg-gray-50 overflow-hidden">
     <div class="max-w-4xl mx-auto text-center">
-      <h2 class="mb-4 fade-up">Ils se sont adaptés</h2>
-      <p class="text-gray-500 mb-10 fade-up">Des histoires vraies de gens qui ont pris leur carrière en main.</p>
+      <h2 class="mb-4">
+        <BlurText text="Ils se sont adaptés" class="font-display font-bold" />
+      </h2>
+      <p class="text-gray-500 mb-10 blur-reveal">Des histoires vraies de gens qui ont pris leur carrière en main.</p>
       <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-        <blockquote class="bg-white rounded-2xl p-8 text-left border border-gray-100 shadow-sm hover:shadow-md transition-all hover:-translate-y-1 fade-up">
+        <blockquote class="bg-white rounded-2xl p-8 text-left border border-gray-100 shadow-sm hover-glow hover-tilt fade-up">
           <div class="flex items-center gap-3 mb-4">
             <div class="w-10 h-10 rounded-full bg-secondary/10 flex items-center justify-center text-secondary font-bold text-sm">M</div>
             <div>
@@ -60,7 +90,7 @@ const recentPosts = (await getCollection("blog", ({ data }) => !data.draft))
           </p>
           <a href="/metiers/chef-de-projet-ia" class="text-primary text-sm font-medium mt-4 inline-block hover:underline">Lire la fiche métier &rarr;</a>
         </blockquote>
-        <blockquote class="bg-white rounded-2xl p-8 text-left border border-gray-100 shadow-sm hover:shadow-md transition-all hover:-translate-y-1 fade-up">
+        <blockquote class="bg-white rounded-2xl p-8 text-left border border-gray-100 shadow-sm hover-glow hover-tilt fade-up">
           <div class="flex items-center gap-3 mb-4">
             <div class="w-10 h-10 rounded-full bg-accent/10 flex items-center justify-center text-accent font-bold text-sm">I</div>
             <div>
@@ -82,18 +112,20 @@ const recentPosts = (await getCollection("blog", ({ data }) => !data.draft))
 
   {/* 8. Blog preview */}
   {recentPosts.length > 0 && (
-    <section class="py-20 px-4">
+    <section class="py-24 px-4">
       <div class="max-w-6xl mx-auto">
         <div class="flex items-center justify-between mb-8 fade-up">
           <div>
-            <h2>{siteConfig.blog.name}</h2>
+            <h2>
+              <ScrambleText text={siteConfig.blog.name} trigger="scroll" class="font-display font-bold" />
+            </h2>
             <p class="text-gray-500 text-sm mt-1">Les derniers articles sur l'IA et l'emploi</p>
           </div>
           <a href="/blog" class="text-primary font-semibold text-sm hover:underline hidden sm:inline">
             Tous les articles &rarr;
           </a>
         </div>
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8 stagger-children">
           {recentPosts.map((post) => (
             <BlogCard
               title={post.data.title}
@@ -107,47 +139,83 @@ const recentPosts = (await getCollection("blog", ({ data }) => !data.draft))
           ))}
         </div>
         <div class="text-center mt-8 sm:hidden">
-          <a href="/blog" class="text-primary font-semibold hover:underline">
-            Tous les articles &rarr;
-          </a>
+          <a href="/blog" class="text-primary font-semibold hover:underline">Tous les articles &rarr;</a>
         </div>
       </div>
     </section>
   )}
 
-  {/* 9. Newsletter */}
-  <Newsletter />
+  {/* 9. Newsletter avec wave text */}
+  <section class="py-24 px-4">
+    <div
+      class="max-w-4xl mx-auto rounded-2xl p-10 md:p-14 text-center relative overflow-hidden"
+      style={`background: linear-gradient(135deg, ${siteConfig.colors.secondary}, ${siteConfig.colors.secondary}dd);`}
+    >
+      <h2 class="text-white mb-4">
+        <WaveText text="Le Signal" class="font-display font-bold text-white" />
+        <span class="text-white/60 font-normal text-lg block mt-2">Newsletter hebdomadaire</span>
+      </h2>
+      <p class="text-gray-300 text-lg mb-8 max-w-xl mx-auto blur-reveal">
+        Chaque lundi, l'essentiel de l'impact de l'IA sur l'emploi. Les chiffres, les tendances, les actions concrètes. En 5 minutes.
+      </p>
+
+      <form id="newsletter-form" class="max-w-md mx-auto flex flex-col sm:flex-row gap-3 fade-up">
+        <input type="email" name="email" required placeholder="ton@email.com" class="flex-1 px-5 py-3 rounded-full text-gray-900 text-sm focus:outline-none focus:ring-2 focus:ring-accent" />
+        <button type="submit" class="font-semibold px-6 py-3 rounded-full text-white transition-all hover:scale-[1.03] active:scale-[0.98]" style={`background: ${siteConfig.colors.primary}; box-shadow: 0 2px 4px 0 rgba(255,255,255,0.3) inset;`}>
+          S'abonner
+        </button>
+      </form>
+
+      <p id="newsletter-msg" class="text-gray-400 text-xs mt-4"></p>
+      <p class="text-gray-400 text-xs mt-2">Pas de spam, pas de revente. Désinscription en un clic.</p>
+    </div>
+  </section>
+
+  <script>
+    const form = document.getElementById("newsletter-form");
+    const msg = document.getElementById("newsletter-msg");
+    form?.addEventListener("submit", async (e) => {
+      e.preventDefault();
+      const email = new FormData(form as HTMLFormElement).get("email");
+      if (!email) return;
+      try {
+        const r = await fetch("https://commbksqnwhpsyenjzuf.supabase.co/rest/v1/newsletter_subscribers", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+            "apikey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNvbW1ia3NxbndocHN5ZW5qenVmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzYwNzM3MjUsImV4cCI6MjA5MTY0OTcyNX0.6igBrd7TAiC5CamU5hmHfEd-JBb4MJuvGAyGHo6tJpU",
+            "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNvbW1ia3NxbndocHN5ZW5qenVmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzYwNzM3MjUsImV4cCI6MjA5MTY0OTcyNX0.6igBrd7TAiC5CamU5hmHfEd-JBb4MJuvGAyGHo6tJpU",
+            "Prefer": "return=minimal",
+          },
+          body: JSON.stringify({ email, source: "homepage" }),
+        });
+        if (r.ok) { if (msg) msg.textContent = "Bienvenue à bord. Tu recevras Le Signal dès lundi prochain."; (form as HTMLFormElement).reset(); }
+        else if (r.status === 409) { if (msg) msg.textContent = "Tu es déjà inscrit. On se retrouve lundi."; }
+        else { if (msg) msg.textContent = "Erreur. Réessaie dans quelques instants."; }
+      } catch { if (msg) msg.textContent = "Erreur réseau. Réessaie."; }
+    });
+  </script>
 
   {/* 10. FAQ */}
   <FAQ />
 
   {/* 11. CTA final */}
-  <section class="py-20 px-4">
-    <div
-      class="max-w-4xl mx-auto text-center text-white rounded-2xl p-12 md:p-16 relative overflow-hidden"
-      style={`background: ${siteConfig.colors.secondary};`}
-    >
+  <section class="py-24 px-4">
+    <div class="max-w-4xl mx-auto text-center text-white rounded-2xl p-12 md:p-16 relative overflow-hidden" style={`background: ${siteConfig.colors.secondary};`}>
       <div class="absolute inset-0 opacity-5" style="background-image: linear-gradient(white 1px, transparent 1px), linear-gradient(to right, white 1px, transparent 1px); background-size: 30px 30px;"></div>
       <div class="relative">
-        <h2 class="text-white mb-4 fade-up">Le monde change. Toi aussi.</h2>
-        <p class="text-white/70 text-lg mb-8 max-w-xl mx-auto fade-up">
+        <h2 class="text-white mb-4">
+          <BlurText text="Le monde change. Toi aussi." class="font-display font-bold text-white" />
+        </h2>
+        <p class="text-white/70 text-lg mb-8 max-w-xl mx-auto blur-reveal">
           N'attends pas que ton poste disparaisse pour réagir. Explore nos fiches métier, lis nos guides, et commence ta transformation dès aujourd'hui.
         </p>
         <div class="flex flex-col sm:flex-row gap-4 justify-center fade-up">
-          <a
-            href="/metiers"
-            class="inline-flex items-center gap-2 font-bold px-8 py-4 rounded-xl text-lg transition-all hover:scale-105 hover:shadow-lg"
-            style={`background: ${siteConfig.colors.primary}; color: white;`}
-          >
+          <a href="/metiers" class="inline-flex items-center gap-2 font-bold px-8 py-4 rounded-full text-lg transition-all hover:scale-[1.03] active:scale-[0.98]" style={`background: ${siteConfig.colors.primary}; color: white; box-shadow: 0 2px 4px 0 rgba(255,255,255,0.3) inset;`}>
             Explorer les métiers
-            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6" />
-            </svg>
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6" /></svg>
           </a>
-          <a
-            href="/newsletter"
-            class="inline-flex items-center gap-2 border-2 border-white/30 text-white font-bold px-8 py-4 rounded-xl text-lg transition-all hover:bg-white/10"
-          >
+          <a href="/newsletter" class="inline-flex items-center gap-2 border-2 border-white/30 text-white font-bold px-8 py-4 rounded-full text-lg transition-all hover:bg-white/10">
             Recevoir Le Signal
           </a>
         </div>
