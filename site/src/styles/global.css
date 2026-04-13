@@ -73,24 +73,11 @@ a:focus-visible, button:focus-visible, [tabindex]:focus-visible, summary:focus-v
 
 /* === iOS Safe Area + header stacking fix === */
 #site-header {
-  padding-top: env(safe-area-inset-top, 0px);
-  background-color: #ffffff; /* OPAQUE, pas transparent */
-  -webkit-transform: translate3d(0, 0, 0); /* force GPU layer iOS */
-  will-change: transform;
+  top: 0;
+  background-color: #ffffff;
+  -webkit-transform: translate3d(0, 0, 0);
 }
 
-/* Bloc blanc au-dessus du header pour masquer le contenu sur iOS bounce */
-body::after {
-  content: "";
-  position: fixed;
-  top: -100vh;
-  left: 0;
-  right: 0;
-  height: 100vh;
-  background: #ffffff;
-  z-index: 49; /* juste sous le header z-50 */
-  pointer-events: none;
-}
 
 /* === Grain Overlay (film analog texture) === */
 body::before {
