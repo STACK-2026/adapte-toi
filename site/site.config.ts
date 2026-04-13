@@ -32,7 +32,7 @@ export const siteConfig = {
   // SEO
   author: "Adapte-toi",
   twitterHandle: "",
-  ogImage: "/og-default.svg",
+  ogImage: "/og-default.png",
   keywords: [
     "reconversion professionnelle IA",
     "métiers menacés intelligence artificielle",

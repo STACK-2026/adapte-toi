@@ -1,0 +1,112 @@
+---
+/**
+ * AutoGlossaire - Scan le contenu .prose et wrappe les termes du glossaire en tooltips
+ * S'applique automatiquement à toutes les pages avec du contenu Markdown
+ * Inclure dans BaseLayout, le script fait le reste
+ */
+---
+
+<script>
+  // Glossaire inline (subset des termes les plus importants pour ne pas surcharger)
+  const terms: Record<string, string> = {
+    "intelligence artificielle": "Programme informatique capable d'apprendre et de réaliser des tâches qui demandaient avant un humain : écrire, analyser, traduire, créer des images.",
+    "IA générative": "Type d'IA capable de créer du contenu nouveau (texte, image, code) à partir d'instructions en langage courant.",
+    "ChatGPT": "Assistant IA créé par OpenAI. Tu lui poses une question, il répond en texte. 900 millions d'utilisateurs par semaine en 2026.",
+    "prompt": "L'instruction que tu donnes à une IA. Plus ton prompt est précis, meilleur est le résultat.",
+    "prompt engineering": "L'art de formuler des instructions efficaces pour les outils IA. Compétence très recherchée en 2026.",
+    "automatisation": "Confier des tâches répétitives à un logiciel ou une IA pour qu'elles se fassent toutes seules.",
+    "no-code": "Outils qui permettent de créer des apps ou des automatisations sans écrire de code. Accessible à tous.",
+    "machine learning": "Technique qui permet à un programme d'apprendre à partir de données, sans être programmé pour chaque cas.",
+    "CPF": "Compte Personnel de Formation : budget formation que chaque salarié cumule et peut utiliser pour financer une formation.",
+    "reconversion professionnelle": "Changer de métier ou de secteur d'activité. En 2026, souvent motivé par l'impact de l'IA.",
+    "OCDE": "Organisation de Coopération et de Développement Économiques : institution qui publie des études sur l'économie et l'emploi.",
+    "soft skills": "Compétences humaines et relationnelles : communication, empathie, leadership, créativité. Ce que l'IA ne sait pas faire.",
+    "SEO": "Référencement naturel : techniques pour que ton site apparaisse en haut des résultats Google.",
+    "CRM": "Logiciel pour gérer tes contacts clients, tes ventes et ton suivi commercial. Exemples : HubSpot, Salesforce.",
+    "SaaS": "Logiciel accessible en ligne via un abonnement mensuel, sans rien installer. Exemples : Gmail, Notion, Slack.",
+    "API": "Interface qui permet à deux logiciels de communiquer entre eux automatiquement.",
+    "LLM": "Grand modèle de langage : le moteur derrière ChatGPT et Claude. Il prédit le mot suivant, ce qui lui permet de générer du texte.",
+  };
+
+  function initAutoGlossaire() {
+    const proseEls = document.querySelectorAll(".prose");
+    if (!proseEls.length) return;
+
+    // Sort terms by length (longest first to avoid partial matches)
+    const sortedTerms = Object.keys(terms).sort((a, b) => b.length - a.length);
+
+    proseEls.forEach((prose) => {
+      // Only process text nodes in paragraphs and list items (not headings, links, code)
+      const walker = document.createTreeWalker(
+        prose,
+        NodeFilter.SHOW_TEXT,
+        {
+          acceptNode(node) {
+            const parent = node.parentElement;
+            if (!parent) return NodeFilter.FILTER_REJECT;
+            const tag = parent.tagName.toLowerCase();
+            // Skip headings, links, code, already-glossaired, buttons
+            if (["h1","h2","h3","h4","a","code","pre","button","strong","span"].includes(tag)) return NodeFilter.FILTER_REJECT;
+            if (parent.closest(".glossaire-term")) return NodeFilter.FILTER_REJECT;
+            return NodeFilter.FILTER_ACCEPT;
+          }
+        }
+      );
+
+      const textNodes: Text[] = [];
+      let node;
+      while ((node = walker.nextNode())) {
+        textNodes.push(node as Text);
+      }
+
+      // Limit: max 1 tooltip per term per page
+      const usedTerms = new Set<string>();
+
+      textNodes.forEach((textNode) => {
+        let text = textNode.textContent || "";
+        let replaced = false;
+
+        for (const term of sortedTerms) {
+          if (usedTerms.has(term)) continue;
+
+          // Case-insensitive match, word boundary
+          const regex = new RegExp(`\\b(${term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")})\\b`, "i");
+          const match = text.match(regex);
+
+          if (match && match.index !== undefined) {
+            usedTerms.add(term);
+            replaced = true;
+
+            const before = text.substring(0, match.index);
+            const matched = match[1];
+            const after = text.substring(match.index + matched.length);
+
+            const frag = document.createDocumentFragment();
+            if (before) frag.appendChild(document.createTextNode(before));
+
+            // Create tooltip span
+            const span = document.createElement("span");
+            span.className = "glossaire-term";
+            span.tabIndex = 0;
+            span.setAttribute("role", "button");
+            span.setAttribute("aria-label", `Définition : ${matched}`);
+            span.innerHTML = `<span class="glossaire-label">${matched}</span><span class="glossaire-tooltip" role="tooltip"><strong class="glossaire-tooltip-title">${term}</strong><span class="glossaire-tooltip-text">${terms[term]}</span></span>`;
+            frag.appendChild(span);
+
+            if (after) frag.appendChild(document.createTextNode(after));
+            textNode.parentNode?.replaceChild(frag, textNode);
+            break; // Move to next text node after replacement
+          }
+        }
+      });
+    });
+  }
+
+  // Run after DOM is ready
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", initAutoGlossaire);
+  } else {
+    // Small delay to ensure content is rendered
+    setTimeout(initAutoGlossaire, 100);
+  }
+</script>
