@@ -18,8 +18,6 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #ffffff;
-  overscroll-behavior-y: none;
-  overflow-x: clip;
 }
 
 body {
@@ -71,10 +69,6 @@ a:focus-visible, button:focus-visible, [tabindex]:focus-visible, summary:focus-v
   .hover-shine::after { display: none; } /* shine effect invisible on touch */
 }
 
-/* === Header fix === */
-#header-shield {
-  display: none;
-}
 
 
 /* === Grain Overlay (film analog texture) === */
