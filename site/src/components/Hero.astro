@@ -1,5 +1,24 @@
 ---
 import { siteConfig } from "../../site.config";
+import TextMorph from "./TextMorph.astro";
+
+const heroPhrasesLine2 = [
+  "Toi aussi, tu dois changer.",
+  "Es-tu prêt à t'adapter ?",
+  "Ton métier va se transformer.",
+  "L'IA n'attend pas.",
+  "Prends une longueur d'avance.",
+  "Le moment d'agir, c'est maintenant.",
+  "Ne reste pas spectateur.",
+  "Anticipe, adapte, avance.",
+];
+
+const ctaPhrases = [
+  "Mon métier est-il menacé ?",
+  "Évalue ton risque",
+  "Découvre l'impact sur ton poste",
+  "Fais le diagnostic",
+];
 ---
 
 <section class="relative overflow-hidden py-24 md:py-36 px-4">
@@ -15,10 +34,16 @@ import { siteConfig } from "../../site.config";
       47% des actifs français envisagent une reconversion (Ipsos 2026)
     </div>
 
-    <!-- H1 with split words animation -->
+    <!-- H1 with text morph on line 2 -->
     <h1 class="mb-8" data-speakable>
       <span data-split-words class="block">Le monde du travail change.</span>
-      <span data-split-words class="block mt-2" style={`color: ${siteConfig.colors.primary};`}>Toi aussi, tu dois changer.</span>
+      <span class="block mt-2" style={`color: ${siteConfig.colors.primary};`}>
+        <TextMorph
+          phrases={heroPhrasesLine2}
+          interval={3200}
+          class="font-display font-bold"
+        />
+      </span>
     </h1>
 
     <p class="text-lg md:text-xl text-gray-500 max-w-2xl mx-auto mb-12 blur-reveal leading-relaxed" data-speakable>
@@ -28,17 +53,21 @@ import { siteConfig } from "../../site.config";
     <div class="flex flex-col sm:flex-row gap-4 justify-center fade-up">
       <a
         href="/metiers"
-        class="inline-flex items-center justify-center gap-2 text-white font-semibold px-8 py-4 rounded-xl text-lg transition-all hover:scale-[1.03] hover:shadow-xl active:scale-[0.98]"
-        style={`background: ${siteConfig.colors.primary};`}
+        class="group inline-flex items-center justify-center gap-2 text-white font-semibold px-8 py-4 rounded-full text-lg transition-all hover:scale-[1.03] hover:shadow-xl active:scale-[0.98]"
+        style={`background: ${siteConfig.colors.primary}; box-shadow: 0 2px 4px 0 rgba(255,255,255,0.3) inset, 0 4px 12px -2px rgba(230,57,70,0.3);`}
       >
-        Mon métier est-il menacé ?
-        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <TextMorph
+          phrases={ctaPhrases}
+          interval={4000}
+          class="font-semibold"
+        />
+        <svg class="w-5 h-5 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6" />
         </svg>
       </a>
       <a
         href="/guides"
-        class="inline-flex items-center justify-center gap-2 text-gray-700 font-semibold px-8 py-4 rounded-xl text-lg border-2 border-gray-200 hover:border-primary/30 hover:text-primary transition-all active:scale-[0.98]"
+        class="inline-flex items-center justify-center gap-2 text-gray-700 font-semibold px-8 py-4 rounded-full text-lg border-2 border-gray-200 hover:border-primary/30 hover:text-primary transition-all active:scale-[0.98]"
       >
         Guides de reconversion
       </a>
