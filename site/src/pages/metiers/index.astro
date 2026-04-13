@@ -38,35 +38,38 @@ const riskColors: Record<string, { bg: string; text: string; label: string }> = 
   <div class="max-w-6xl mx-auto px-4 py-12">
     <Breadcrumbs items={breadcrumbs} />
 
-    <h1 class="mb-4">Fiches métier : quel impact de l'IA sur ta profession ?</h1>
-    <p class="text-gray-600 text-lg mb-10 max-w-3xl">
-      Pour chaque métier : l'état des lieux de l'impact de l'IA, ce qui change concrètement, les compétences a acquérir, les outils a maîtriser, et un plan d'action. Sources : Anthropic, OCDE, McKinsey, France Travail.
+    <h1 class="mb-3 sm:mb-4">Fiches métier : quel impact de l'IA sur ta profession ?</h1>
+    <p class="text-gray-600 text-base sm:text-lg mb-8 sm:mb-10 max-w-3xl leading-relaxed">
+      Pour chaque métier : l'état des lieux de l'impact de l'IA, ce qui change concrètement, les compétences à acquérir, les outils à maîtriser, et un plan d'action. Sources : Anthropic, OCDE, McKinsey, France Travail.
     </p>
 
     {/* Published fiches */}
     {fiches.length > 0 && (
-      <div class="mb-12">
-        <h2 class="text-xl font-bold mb-6">Fiches disponibles</h2>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <div class="mb-10 sm:mb-12">
+        <h2 class="text-lg sm:text-xl font-bold mb-4 sm:mb-6">{fiches.length} fiches disponibles</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6">
           {fiches.map((fiche) => {
             const risk = riskColors[fiche.data.riskLevel];
+            const riskColor = fiche.data.riskScore >= 7 ? '#ef4444' : fiche.data.riskScore >= 5 ? '#f59e0b' : '#22c55e';
             return (
-              <a href={`/metiers/${fiche.id}`} class="block bg-white rounded-2xl p-6 border border-gray-100 shadow-sm hover:shadow-md transition-all hover:-translate-y-1">
-                <div class="flex items-center justify-between mb-3">
-                  <h3 class="font-bold text-lg">{fiche.data.metier}</h3>
-                  <span class={`text-xs font-medium px-2.5 py-1 rounded-full ${risk.bg} ${risk.text}`}>
-                    {fiche.data.riskScore}/10
-                  </span>
+              <a href={`/metiers/${fiche.id}`} class="flex sm:block items-center gap-4 sm:gap-0 bg-white rounded-xl sm:rounded-2xl p-4 sm:p-6 border border-gray-100 shadow-sm hover-glow transition-all active:scale-[0.98] hover:-translate-y-1">
+                {/* Mobile: horizontal layout with score prominently */}
+                <div class="flex-shrink-0 sm:hidden w-12 h-12 rounded-xl flex items-center justify-center font-display font-bold text-lg text-white" style={`background: ${riskColor};`}>
+                  {fiche.data.riskScore}
                 </div>
-                <p class="text-gray-500 text-sm mb-3 line-clamp-2">{fiche.data.description}</p>
-                <div class="flex items-center gap-2">
-                  <div class="flex-1 bg-gray-200 rounded-full h-2">
-                    <div
-                      class="h-2 rounded-full"
-                      style={`width: ${fiche.data.riskScore * 10}%; background: ${fiche.data.riskScore >= 7 ? '#ef4444' : fiche.data.riskScore >= 5 ? '#f59e0b' : '#22c55e'};`}
-                    ></div>
+                <div class="flex-1 min-w-0">
+                  <div class="flex items-center justify-between mb-1 sm:mb-3">
+                    <h3 class="font-bold text-base sm:text-lg truncate">{fiche.data.metier}</h3>
+                    <span class={`hidden sm:inline-flex text-xs font-medium px-2.5 py-1 rounded-full ${risk.bg} ${risk.text}`}>
+                      {fiche.data.riskScore}/10
+                    </span>
                   </div>
-                  <span class="text-xs text-primary font-semibold">Lire &rarr;</span>
+                  <p class="text-gray-500 text-xs sm:text-sm mb-2 sm:mb-3 line-clamp-1 sm:line-clamp-2">{fiche.data.description}</p>
+                  <div class="flex items-center gap-2">
+                    <div class="flex-1 bg-gray-200 rounded-full h-1.5 sm:h-2">
+                      <div class="h-1.5 sm:h-2 rounded-full transition-all" style={`width: ${fiche.data.riskScore * 10}%; background: ${riskColor};`}></div>
+                    </div>
+                    <span class="text-xs text-primary font-semibold whitespace-nowrap">Lire &rarr;</span>
                 </div>
               </a>
             );

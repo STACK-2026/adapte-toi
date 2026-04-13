@@ -109,7 +109,7 @@ const jsonLdArray = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
             }
           });
         },
-        { threshold: 0.08, rootMargin: "0px 0px -40px 0px" }
+        { threshold: window.innerWidth < 640 ? 0.15 : 0.08, rootMargin: window.innerWidth < 640 ? "0px 0px -80px 0px" : "0px 0px -40px 0px" }
       );
       document.querySelectorAll(
         ".fade-up, .blur-reveal, .scale-reveal, .clip-reveal, .slide-left, .slide-right, .stagger-children, .split-words"
