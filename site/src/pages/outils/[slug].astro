@@ -57,7 +57,9 @@ const jsonLd = [
     <div class="w-full py-10 sm:py-14 px-4 relative overflow-hidden" style={`background: ${brand.gradient};`}>
       <div class="absolute inset-0 opacity-10" style="background-image: linear-gradient(white 1px, transparent 1px), linear-gradient(to right, white 1px, transparent 1px); background-size: 40px 40px;"></div>
       <div class="max-w-3xl mx-auto text-center relative">
-        {brand.svgPath ? (
+        {brand.logoFile ? (
+          <img src={brand.logoFile} alt={`Logo ${outil.data.outil}`} class="w-14 h-14 sm:w-20 sm:h-20 mx-auto mb-4 object-contain" loading="eager" />
+        ) : brand.svgPath ? (
           <svg class="w-12 h-12 sm:w-16 sm:h-16 mx-auto mb-4" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
             <path d={brand.svgPath} />
           </svg>

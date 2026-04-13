@@ -7,12 +7,13 @@ export const outilBrands: Record<string, {
   gradient: string;
   textColor: string;
   svgPath?: string;
+  logoFile?: string;
   tagline: string;
 }> = {
   "chatgpt": {
     gradient: "linear-gradient(135deg, #10A37F, #0D8C6C)",
     textColor: "white",
-    // OpenAI logo not available via simple-icons, use text logo
+    logoFile: "/logos/chatgpt.svg",
     tagline: "L'assistant IA le plus utilisé au monde",
   },
   "claude": {
@@ -89,6 +90,7 @@ export const outilBrands: Record<string, {
   "copilot": {
     gradient: "linear-gradient(135deg, #000000, #24292E)",
     textColor: "white",
+    logoFile: "/logos/copilot.svg",
     tagline: "L'assistant de code qui te rend 2x plus rapide",
   },
   "adobe-firefly": {
