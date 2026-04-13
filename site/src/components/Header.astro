@@ -111,16 +111,19 @@ import { siteConfig } from "../../site.config";
   </div>
 </header>
 
-<!-- Spacer for fixed header (dynamic height) -->
-<div id="header-spacer" class="h-[88px]"></div>
-
 <script>
-  // Dynamic header height spacer
+  // Dynamic header height → CSS var for main padding-top
   function updateHeaderHeight() {
     const header = document.getElementById("site-header");
-    const spacer = document.getElementById("header-spacer");
-    if (header && spacer) {
-      spacer.style.height = header.offsetHeight + "px";
+    if (header) {
+      document.documentElement.style.setProperty("--header-h", header.offsetHeight + "px");
+    }
+    // Update theme-color based on announcement bar visibility
+    const bar = document.getElementById("announcement-bar");
+    const meta = document.querySelector('meta[name="theme-color"]');
+    if (meta) {
+      const barVisible = bar && bar.style.maxHeight !== "0px" && bar.style.opacity !== "0";
+      meta.setAttribute("content", barVisible ? "#1D3557" : "#ffffff");
     }
   }
   updateHeaderHeight();
@@ -139,11 +142,14 @@ import { siteConfig } from "../../site.config";
     e.stopPropagation();
     if (bar) { bar.style.maxHeight = "0"; bar.style.opacity = "0"; }
     localStorage.setItem("announcement-dismissed", "1");
-    // Update spacer height after animation
+    // Update header height + theme-color after animation
     setTimeout(() => {
       const header = document.getElementById("site-header");
-      const spacer = document.getElementById("header-spacer");
-      if (header && spacer) spacer.style.height = header.offsetHeight + "px";
+      if (header) {
+        document.documentElement.style.setProperty("--header-h", header.offsetHeight + "px");
+      }
+      const meta = document.querySelector('meta[name="theme-color"]');
+      if (meta) meta.setAttribute("content", "#ffffff");
     }, 350);
   });
 

@@ -40,8 +40,7 @@ const jsonLdArray = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
-    <meta name="theme-color" content="#1D3557" media="(prefers-color-scheme: light)" />
-    <meta name="theme-color" content="#1D3557" />
+    <meta name="theme-color" content="#ffffff" />
 
     <!-- Preconnect -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -86,10 +85,12 @@ const jsonLdArray = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
     ))}
   </head>
   <body class="min-h-screen flex flex-col">
+    <!-- Shield: always visible, masks content above header on iOS -->
+    <div id="header-shield"></div>
     <!-- Cursor glow (desktop only) -->
     <div id="cursor-glow"></div>
     <Header />
-    <main class="flex-1">
+    <main class="flex-1" style="padding-top: var(--header-h, 0px);">
       <slot />
     </main>
     <Footer />
