@@ -1,0 +1,138 @@
+---
+/**
+ * Glossaire Tooltip - Mots techniques cliquables avec définition
+ * Usage dans un composant Astro :
+ *   <Glossaire term="intelligence artificielle" />
+ *   → affiche "intelligence artificielle" souligné en pointillé
+ *   → au clic/hover, tooltip avec la définition
+ *
+ * Props :
+ *   term: string (doit matcher une clé du glossaire)
+ *   display?: string (texte affiché, si différent de la clé)
+ */
+import { glossaire } from "../data/glossaire";
+
+interface Props {
+  term: string;
+  display?: string;
+}
+
+const { term, display } = Astro.props;
+const key = term.toLowerCase();
+const definition = glossaire[key];
+const label = display || term;
+---
+
+{definition ? (
+  <span class="glossaire-term" tabindex="0" role="button" aria-label={`Définition : ${label}`}>
+    <span class="glossaire-label">{label}</span>
+    <span class="glossaire-tooltip" role="tooltip">
+      <strong class="glossaire-tooltip-title">{label}</strong>
+      <span class="glossaire-tooltip-text">{definition}</span>
+    </span>
+  </span>
+) : (
+  <span>{label}</span>
+)}
+
+<style is:global>
+  .glossaire-term {
+    position: relative;
+    display: inline;
+    cursor: help;
+  }
+
+  .glossaire-label {
+    border-bottom: 1.5px dotted var(--color-primary);
+    transition: border-color 0.2s ease;
+  }
+
+  .glossaire-term:hover .glossaire-label,
+  .glossaire-term:focus .glossaire-label {
+    border-bottom-style: solid;
+    border-color: var(--color-primary);
+  }
+
+  .glossaire-tooltip {
+    position: absolute;
+    bottom: calc(100% + 8px);
+    left: 50%;
+    transform: translateX(-50%) translateY(4px);
+    width: max(240px, min(90vw, 320px));
+    padding: 14px 16px;
+    background: var(--color-secondary);
+    color: white;
+    border-radius: 12px;
+    font-size: 13px;
+    line-height: 1.5;
+    box-shadow: 0 12px 40px -8px rgba(0, 0, 0, 0.25);
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.25s ease, transform 0.25s ease, visibility 0.25s;
+    pointer-events: none;
+    z-index: 1000;
+    font-family: var(--font-body);
+    font-weight: 400;
+    text-align: left;
+  }
+
+  /* Flèche en bas du tooltip */
+  .glossaire-tooltip::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 6px solid transparent;
+    border-top-color: var(--color-secondary);
+  }
+
+  .glossaire-term:hover .glossaire-tooltip,
+  .glossaire-term:focus .glossaire-tooltip {
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(-50%) translateY(0);
+    pointer-events: auto;
+  }
+
+  .glossaire-tooltip-title {
+    display: block;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 4px;
+    color: var(--color-accent);
+    text-transform: capitalize;
+  }
+
+  .glossaire-tooltip-text {
+    display: block;
+    color: rgba(255, 255, 255, 0.85);
+  }
+
+  /* Mobile : tooltip en bas pour éviter les débordements */
+  @media (max-width: 640px) {
+    .glossaire-tooltip {
+      position: fixed;
+      bottom: 16px;
+      left: 16px;
+      right: 16px;
+      top: auto;
+      transform: translateY(8px);
+      width: auto;
+    }
+    .glossaire-tooltip::after {
+      display: none;
+    }
+    .glossaire-term:hover .glossaire-tooltip,
+    .glossaire-term:focus .glossaire-tooltip {
+      transform: translateY(0);
+    }
+  }
+
+  /* reduced motion */
+  @media (prefers-reduced-motion: reduce) {
+    .glossaire-tooltip {
+      transition: none;
+    }
+  }
+</style>

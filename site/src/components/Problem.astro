@@ -1,5 +1,6 @@
 ---
 import { siteConfig } from "../../site.config";
+import G from "./Glossaire.astro";
 ---
 
 <section class="py-24 px-4 bg-secondary text-white overflow-hidden">
@@ -7,7 +8,7 @@ import { siteConfig } from "../../site.config";
     <div class="text-center mb-14">
       <h2 class="text-white mb-4 blur-reveal">Le problème que personne ne veut voir</h2>
       <p class="text-gray-300 text-lg max-w-2xl mx-auto blur-reveal">
-        L'IA ne menace pas que les ouvriers. Ce sont les métiers intellectuels, les diplômés, les cols blancs qui sont en première ligne.
+        L'<G term="intelligence artificielle" display="IA" /> ne menace pas que les ouvriers. Ce sont les métiers intellectuels, les diplômés, les cols blancs qui sont en première ligne.
       </p>
     </div>
 
@@ -15,7 +16,7 @@ import { siteConfig } from "../../site.config";
       <div class="bg-white/5 backdrop-blur-sm rounded-2xl p-8 border border-white/10 hover-tilt">
         <p class="text-accent font-display font-bold text-5xl mb-3" data-count="-67%">0%</p>
         <p class="text-gray-300">d'offres d'emploi dans les centres d'appels depuis l'arrivée de l'IA</p>
-        <p class="text-xs text-gray-500 mt-3">Source : Anthropic, mars 2026</p>
+        <p class="text-xs text-gray-500 mt-3">Source : <G term="anthropic" display="Anthropic" />, mars 2026</p>
       </div>
       <div class="bg-white/5 backdrop-blur-sm rounded-2xl p-8 border border-white/10 hover-tilt">
         <p class="text-accent font-display font-bold text-5xl mb-3" data-count="-53%">0%</p>
