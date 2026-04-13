@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import G from "../../components/Glossaire.astro";
 import { siteConfig } from "../../../site.config";
 import { fullUrl } from "../../utils/config";
 import { jsonLdBreadcrumbs } from "../../utils/seo";
@@ -37,7 +38,7 @@ const authors = siteConfig.blog.authors;
         <h2 style={`color: ${siteConfig.colors.primary};`}>Notre ennemi</h2>
 
         <p>
-          Le bullshit. Celui des organismes de formation qui te vendent un "bootcamp IA" à 5 000 euros en te promettant un job en 12 semaines. Celui des medias qui font du clickbait anxiogene sans jamais t'expliquer quoi faire concrètement. Celui des influenceurs qui te disent de "devenir prompt engineer" comme si c'etait un métier stable.
+          Le bullshit. Celui des organismes de formation qui te vendent un "<G term="no-code" display="bootcamp" /> <G term="intelligence artificielle" display="IA" />" à 5 000 euros en te promettant un job en 12 semaines. Celui des médias qui font du clickbait anxiogène sans jamais t'expliquer quoi faire concrètement. Celui des influenceurs qui te disent de "devenir <G term="prompt engineering" display="prompt engineer" />" comme si c'était un métier stable.
         </p>
 
         <p>
@@ -47,7 +48,7 @@ const authors = siteConfig.blog.authors;
         <h2 style={`color: ${siteConfig.colors.primary};`}>Ce qu'on fait</h2>
 
         <p>
-          On analyse l'impact réel de l'IA sur chaque métier, avec des données sourcées (OCDE, McKinsey, Anthropic, FMI, France Travail). On écrit des guides pratiques pour te reconvertir, te former ou monter en compétences. On teste les outils IA et on te dit lesquels valent le coup. On publie des témoignages de gens qui ont reussi leur transition.
+          On analyse l'impact réel de l'<G term="intelligence artificielle" display="IA" /> sur chaque métier, avec des données sourcées (<G term="ocde" display="OCDE" />, <G term="mckinsey" display="McKinsey" />, <G term="anthropic" display="Anthropic" />, <G term="fmi" display="FMI" />, <G term="france travail" display="France Travail" />). On écrit des guides pratiques pour te reconvertir, te former ou monter en compétences. On teste les outils IA et on te dit lesquels valent le coup. On publie des témoignages de gens qui ont réussi leur transition.
         </p>
 
         <p>
@@ -57,13 +58,13 @@ const authors = siteConfig.blog.authors;
         <h2 style={`color: ${siteConfig.colors.primary};`}>Nos sources</h2>
 
         <p>
-          On ne cite que des sources vérifiables : études OCDE, rapports McKinsey, données Anthropic, chiffres INSEE, France Travail, PwC, Cognizant, FMI, LinkedIn. Chaque chiffre est sourcé. Chaque affirmation est recoupée.
+          On ne cite que des sources vérifiables : études <G term="ocde" display="OCDE" />, rapports <G term="mckinsey" display="McKinsey" />, données <G term="anthropic" display="Anthropic" />, chiffres INSEE, <G term="france travail" display="France Travail" />, PwC, <G term="cognizant" display="Cognizant" />, <G term="fmi" display="FMI" />, LinkedIn. Chaque chiffre est sourcé. Chaque affirmation est recoupée.
         </p>
 
         <h2 style={`color: ${siteConfig.colors.primary};`}>Notre modèle economique</h2>
 
         <p>
-          On se finance par l'affiliation (quand on recommande un outil ou une formation, on perçoit une commission si tu cliques et achetes). C'est toujours signale en transparence. Ça n'affecte ni le prix que tu paies, ni notre avis éditorial. Si un outil est mauvais, on le dit, même s'il nous rapporterait de l'argent.
+          On se finance par l'affiliation (quand on recommande un outil ou une formation, on perçoit une commission si tu cliques et achètes). C'est toujours signalé en transparence. Ça n'affecte ni le prix que tu paies, ni notre avis éditorial. Si un outil est mauvais, on le dit, même s'il nous rapporterait de l'argent.
         </p>
       </div>
     </section>
