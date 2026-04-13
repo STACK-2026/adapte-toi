@@ -1,0 +1,53 @@
+---
+import { siteConfig } from "../../site.config";
+---
+
+<section class="py-20 px-4 bg-secondary text-white">
+  <div class="max-w-5xl mx-auto">
+    <div class="text-center mb-12 fade-up">
+      <h2 class="text-white mb-4">Le probleme que personne ne veut voir</h2>
+      <p class="text-gray-300 text-lg max-w-2xl mx-auto">
+        L'IA ne menace pas que les ouvriers. Ce sont les metiers intellectuels, les diplomes, les cols blancs qui sont en premiere ligne.
+      </p>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 fade-up">
+      <!-- Chiffres choc -->
+      <div class="bg-white/5 backdrop-blur-sm rounded-2xl p-8 border border-white/10">
+        <p class="text-accent font-display font-bold text-4xl mb-2">-67%</p>
+        <p class="text-gray-300">d'offres d'emploi dans les centres d'appels depuis l'arrivee de l'IA</p>
+        <p class="text-xs text-gray-500 mt-2">Source : Anthropic, mars 2026</p>
+      </div>
+      <div class="bg-white/5 backdrop-blur-sm rounded-2xl p-8 border border-white/10">
+        <p class="text-accent font-display font-bold text-4xl mb-2">-53%</p>
+        <p class="text-gray-300">pour la redaction publicitaire et le copywriting</p>
+        <p class="text-xs text-gray-500 mt-2">Source : Anthropic, mars 2026</p>
+      </div>
+      <div class="bg-white/5 backdrop-blur-sm rounded-2xl p-8 border border-white/10">
+        <p class="text-accent font-display font-bold text-4xl mb-2">-48%</p>
+        <p class="text-gray-300">pour la gestion de projets et le conseil IT</p>
+        <p class="text-xs text-gray-500 mt-2">Source : Anthropic, mars 2026</p>
+      </div>
+      <div class="bg-white/5 backdrop-blur-sm rounded-2xl p-8 border border-white/10">
+        <p class="text-accent font-display font-bold text-4xl mb-2">4M+</p>
+        <p class="text-gray-300">de postes en France exposes a un risque d'automatisation eleve d'ici 2030</p>
+        <p class="text-xs text-gray-500 mt-2">Source : OCDE</p>
+      </div>
+    </div>
+
+    <div class="text-center mt-12 fade-up">
+      <p class="text-gray-300 text-lg mb-6">
+        La question n'est plus "est-ce que l'IA va impacter mon metier ?"
+        <br />
+        C'est <span class="text-white font-bold">"qu'est-ce que je fais maintenant ?"</span>
+      </p>
+      <a
+        href="/metiers"
+        class="inline-flex items-center gap-2 font-semibold px-8 py-4 rounded-xl text-lg transition-all hover:scale-105"
+        style={`background: ${siteConfig.colors.primary}; color: white;`}
+      >
+        Voir l'impact sur mon metier
+      </a>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,36 @@
+---
+import { siteConfig } from "../../site.config";
+---
+
+<section class="py-20 px-4">
+  <div
+    class="max-w-4xl mx-auto rounded-2xl p-10 md:p-14 text-center"
+    style={`background: linear-gradient(135deg, ${siteConfig.colors.secondary}, ${siteConfig.colors.secondary}dd);`}
+  >
+    <h2 class="text-white mb-4 fade-up">Le Signal - Newsletter hebdomadaire</h2>
+    <p class="text-gray-300 text-lg mb-8 max-w-xl mx-auto fade-up">
+      Chaque lundi, l'essentiel de l'impact de l'IA sur l'emploi. Les chiffres, les tendances, les actions concretes. En 5 minutes.
+    </p>
+
+    <form id="newsletter-form" class="max-w-md mx-auto flex flex-col sm:flex-row gap-3 fade-up">
+      <input
+        type="email"
+        name="email"
+        required
+        placeholder="ton@email.com"
+        class="flex-1 px-5 py-3 rounded-xl text-gray-900 text-sm focus:outline-none focus:ring-2 focus:ring-accent"
+      />
+      <button
+        type="submit"
+        class="font-semibold px-6 py-3 rounded-xl text-white transition-all hover:scale-105 hover:shadow-md"
+        style={`background: ${siteConfig.colors.primary};`}
+      >
+        S'abonner
+      </button>
+    </form>
+
+    <p class="text-gray-400 text-xs mt-4 fade-up">
+      Pas de spam, pas de revente. Desinscription en un clic.
+    </p>
+  </div>
+</section>

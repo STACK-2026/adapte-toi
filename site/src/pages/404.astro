@@ -1,0 +1,29 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { siteConfig } from "../../site.config";
+---
+
+<BaseLayout title={`Page introuvable | ${siteConfig.name}`} description="Cette page n'existe pas." noIndex>
+  <div class="max-w-2xl mx-auto px-4 py-32 text-center">
+    <p class="text-8xl font-display font-bold mb-4" style={`color: ${siteConfig.colors.primary}20;`}>404</p>
+    <h1 class="text-2xl mb-4">Cette page n'existe pas</h1>
+    <p class="text-gray-600 mb-8">
+      Comme 27% des emplois francais d'ici 2030, elle a peut-etre ete remplacee. Mais toi, tu peux encore t'adapter.
+    </p>
+    <div class="flex flex-col sm:flex-row gap-4 justify-center">
+      <a
+        href="/"
+        class="inline-flex items-center gap-2 text-white font-semibold px-6 py-3 rounded-lg"
+        style={`background: ${siteConfig.colors.primary};`}
+      >
+        Retour a l'accueil
+      </a>
+      <a
+        href="/metiers"
+        class="inline-flex items-center gap-2 text-gray-700 font-semibold px-6 py-3 rounded-lg border-2 border-gray-200 hover:border-primary/30 transition-colors"
+      >
+        Explorer les metiers
+      </a>
+    </div>
+  </div>
+</BaseLayout>

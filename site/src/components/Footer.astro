@@ -1,0 +1,72 @@
+---
+import { siteConfig } from "../../site.config";
+
+const currentYear = new Date().getFullYear();
+---
+
+<footer class="bg-secondary text-gray-300 mt-auto">
+  <div class="max-w-6xl mx-auto px-4 py-14">
+    <div class="grid grid-cols-1 md:grid-cols-4 gap-10">
+      <!-- Brand -->
+      <div class="md:col-span-1">
+        <p class="text-white font-display font-bold text-lg mb-2">{siteConfig.name}</p>
+        <p class="text-sm text-gray-400">{siteConfig.tagline}</p>
+        <p class="text-xs text-gray-500 mt-4">Un media editorial independant. On ne vend rien, on informe.</p>
+      </div>
+
+      <!-- Rubriques -->
+      <div>
+        <p class="text-white font-semibold text-sm mb-3">Rubriques</p>
+        <ul class="space-y-2 text-sm">
+          <li><a href="/metiers" class="hover:text-white transition-colors">Fiches metier</a></li>
+          <li><a href="/guides" class="hover:text-white transition-colors">Guides</a></li>
+          <li><a href="/outils" class="hover:text-white transition-colors">Outils IA</a></li>
+          <li><a href="/actu" class="hover:text-white transition-colors">Actualites</a></li>
+          <li><a href="/temoignages" class="hover:text-white transition-colors">Temoignages</a></li>
+          <li><a href="/blog" class="hover:text-white transition-colors">{siteConfig.blog.name}</a></li>
+        </ul>
+      </div>
+
+      <!-- Legal -->
+      <div>
+        <p class="text-white font-semibold text-sm mb-3">Informations legales</p>
+        <ul class="space-y-2 text-sm">
+          <li><a href="/mentions-legales" class="hover:text-white transition-colors">Mentions legales</a></li>
+          <li><a href="/politique-confidentialite" class="hover:text-white transition-colors">Politique de confidentialite</a></li>
+          <li><a href="/cgv" class="hover:text-white transition-colors">CGU</a></li>
+        </ul>
+      </div>
+
+      <!-- Newsletter -->
+      <div>
+        <p class="text-white font-semibold text-sm mb-3">Le Signal - Newsletter</p>
+        <p class="text-sm text-gray-400 mb-4">Chaque semaine, l'essentiel de l'impact de l'IA sur l'emploi. En 5 minutes.</p>
+        <a
+          href="/newsletter"
+          class="inline-flex items-center gap-2 text-sm font-semibold px-5 py-2.5 rounded-lg transition-all hover:scale-105"
+          style={`background: ${siteConfig.colors.primary}; color: white;`}
+        >
+          S'abonner gratuitement
+        </a>
+      </div>
+    </div>
+
+    <!-- Sources -->
+    <div class="border-t border-gray-700/50 mt-10 pt-6">
+      <p class="text-xs text-gray-500 text-center">
+        Nos analyses s'appuient sur des etudes publiees par l'OCDE, McKinsey, Anthropic, le FMI, PwC, Cognizant, INSEE, France Travail et LinkedIn. Chaque chiffre est source et verifiable.
+      </p>
+    </div>
+
+    <div class="border-t border-gray-700/50 mt-6 pt-6 text-center text-xs text-gray-500">
+      <p>&copy; {currentYear} {siteConfig.name}. Tous droits reserves.</p>
+      {siteConfig.legal.email && (
+        <p class="mt-1">
+          <a href={`mailto:${siteConfig.legal.email}`} class="hover:text-white transition-colors">
+            {siteConfig.legal.email}
+          </a>
+        </p>
+      )}
+    </div>
+  </div>
+</footer>

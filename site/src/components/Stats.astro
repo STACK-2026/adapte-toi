@@ -1,0 +1,30 @@
+---
+const stats = [
+  { value: "27%", label: "des emplois francais menaces", source: "OCDE" },
+  { value: "93%", label: "des metiers impactes par l'IA", source: "Cognizant 2026" },
+  { value: "47%", label: "des actifs envisagent une reconversion", source: "Ipsos" },
+  { value: "+270%", label: "de croissance des offres IA", source: "LinkedIn" },
+  { value: "30%", label: "des heures automatisables d'ici 2030", source: "McKinsey" },
+  { value: "+25%", label: "de salaire pour les profils IA-ready", source: "PwC" },
+];
+---
+
+<section class="py-20 px-4">
+  <div class="max-w-6xl mx-auto">
+    <h2 class="text-center mb-4 fade-up">Les chiffres qui comptent</h2>
+    <p class="text-center text-gray-500 mb-12 max-w-xl mx-auto fade-up">
+      Pas d'opinions, pas de speculation. Que des donnees sourcees.
+    </p>
+    <div class="grid grid-cols-2 md:grid-cols-3 gap-6">
+      {stats.map((stat, i) => (
+        <div class="text-center p-6 rounded-2xl bg-white border border-gray-100 shadow-sm hover:shadow-md transition-shadow fade-up" style={`transition-delay: ${i * 80}ms`}>
+          <p class="font-display font-bold text-3xl md:text-4xl mb-2" style="color: var(--color-primary);">
+            {stat.value}
+          </p>
+          <p class="text-gray-700 font-medium text-sm mb-1">{stat.label}</p>
+          <p class="text-xs text-gray-400">{stat.source}</p>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>

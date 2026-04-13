@@ -1,0 +1,54 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import BlogCard from "../../components/BlogCard.astro";
+import { getCollection } from "astro:content";
+import { siteConfig } from "../../../site.config";
+import { jsonLdBreadcrumbs } from "../../utils/seo";
+import { fullUrl } from "../../utils/config";
+
+const posts = (await getCollection("blog", ({ data }) => !data.draft))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const breadcrumbs = [
+  { name: "Accueil", url: siteConfig.url },
+  { name: siteConfig.blog.name, url: fullUrl("/blog") },
+];
+---
+
+<BaseLayout
+  title={`${siteConfig.blog.name} | ${siteConfig.name}`}
+  description={`${siteConfig.blog.name} : tous les articles d'Adapte-toi sur la reconversion professionnelle, l'IA et l'emploi.`}
+  jsonLd={[
+    { "@context": "https://schema.org", "@type": "CollectionPage", name: `${siteConfig.blog.name} - ${siteConfig.name}`, url: fullUrl("/blog") },
+    jsonLdBreadcrumbs(breadcrumbs),
+  ]}
+>
+  <div class="max-w-6xl mx-auto px-4 py-12">
+    <h1 class="mb-2">{siteConfig.blog.name}</h1>
+    <p class="text-gray-500 mb-8">L'essentiel de l'impact de l'IA sur le marche du travail. Analyses, guides et decryptages.</p>
+
+    {posts.length === 0 ? (
+      <div class="text-center py-20">
+        <p class="text-gray-400 text-lg mb-4">Aucun article pour l'instant.</p>
+        <p class="text-gray-500">Les premiers articles arrivent bientot. Abonne-toi a la newsletter pour ne rien rater.</p>
+        <a href="/newsletter" class="inline-block mt-6 text-primary font-semibold hover:underline">
+          S'abonner au Signal &rarr;
+        </a>
+      </div>
+    ) : (
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {posts.map((post) => (
+          <BlogCard
+            title={post.data.title}
+            description={post.data.description}
+            date={post.data.date}
+            slug={post.id}
+            image={post.data.image}
+            imageAlt={post.data.imageAlt}
+            category={post.data.category}
+          />
+        ))}
+      </div>
+    )}
+  </div>
+</BaseLayout>

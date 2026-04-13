@@ -1,0 +1,51 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  date: Date;
+  slug: string;
+  image?: string;
+  imageAlt?: string;
+  category?: string;
+}
+
+const { title, description, date, slug, image, imageAlt, category } = Astro.props;
+---
+
+<article class="group bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+  <a href={`/blog/${slug}`} class="block">
+    {image ? (
+      <img
+        src={image}
+        alt={imageAlt || title}
+        class="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300"
+        loading="lazy"
+        width="400"
+        height="200"
+      />
+    ) : (
+      <div class="w-full h-48 bg-gradient-to-br from-secondary/5 to-primary/5 flex items-center justify-center">
+        <svg class="w-10 h-10 text-gray-300" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <rect class="signal-bar" x="2" y="16" width="4" height="6" rx="1" fill="currentColor" opacity="0.3"/>
+          <rect class="signal-bar" x="8" y="10" width="4" height="12" rx="1" fill="currentColor" opacity="0.5"/>
+          <rect class="signal-bar" x="14" y="6" width="4" height="16" rx="1" fill="currentColor" opacity="0.7"/>
+          <rect class="signal-bar" x="20" y="2" width="4" height="20" rx="1" fill="currentColor"/>
+        </svg>
+      </div>
+    )}
+    <div class="p-6">
+      {category && (
+        <span class="text-xs font-medium text-primary uppercase tracking-wide">
+          {category}
+        </span>
+      )}
+      <h3 class="text-lg font-bold mt-1 mb-2 group-hover:text-primary transition-colors line-clamp-2">
+        {title}
+      </h3>
+      <p class="text-gray-600 text-sm line-clamp-3 mb-3">{description}</p>
+      <time class="text-xs text-gray-400" datetime={date.toISOString().split("T")[0]}>
+        {date.toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" })}
+      </time>
+    </div>
+  </a>
+</article>

@@ -1,0 +1,61 @@
+---
+import { siteConfig } from "../../site.config";
+
+const steps = [
+  {
+    num: "01",
+    title: "Identifie ton risque",
+    description: "Consulte la fiche de ton metier pour comprendre comment l'IA l'impacte concretement. Pas de panique, juste des faits.",
+    link: "/metiers",
+    cta: "Explorer les metiers",
+  },
+  {
+    num: "02",
+    title: "Forme-toi strategiquement",
+    description: "Nos guides te montrent exactement quelles competences acquerir, quels outils maitriser, et comment financer ta formation.",
+    link: "/guides",
+    cta: "Lire les guides",
+  },
+  {
+    num: "03",
+    title: "Passe a l'action",
+    description: "Outils IA par metier, temoignages de reconvertis, plans d'action concrets. Tu as tout ce qu'il faut pour bouger.",
+    link: "/outils",
+    cta: "Decouvrir les outils",
+  },
+];
+---
+
+<section class="py-20 px-4">
+  <div class="max-w-5xl mx-auto">
+    <h2 class="text-center mb-4 fade-up">Comment ca marche</h2>
+    <p class="text-center text-gray-500 mb-16 max-w-xl mx-auto fade-up">
+      Trois etapes pour reprendre le controle de ta carriere.
+    </p>
+
+    <div class="space-y-12">
+      {steps.map((step, i) => (
+        <div class={`flex flex-col md:flex-row items-start gap-8 fade-up ${i % 2 === 1 ? "md:flex-row-reverse" : ""}`}>
+          <div class="flex-shrink-0">
+            <div
+              class="w-16 h-16 rounded-2xl flex items-center justify-center font-display font-bold text-2xl text-white"
+              style={`background: ${i === 0 ? siteConfig.colors.primary : i === 1 ? siteConfig.colors.accent : siteConfig.colors.secondary};`}
+            >
+              {step.num}
+            </div>
+          </div>
+          <div class="flex-1">
+            <h3 class="text-xl font-bold mb-2">{step.title}</h3>
+            <p class="text-gray-600 mb-4">{step.description}</p>
+            <a
+              href={step.link}
+              class="text-primary font-semibold text-sm hover:underline"
+            >
+              {step.cta} &rarr;
+            </a>
+          </div>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>

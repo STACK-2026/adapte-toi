@@ -1,0 +1,38 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import { siteConfig } from "../../../site.config";
+import { fullUrl } from "../../utils/config";
+import { jsonLdBreadcrumbs } from "../../utils/seo";
+
+const breadcrumbs = [
+  { name: "Accueil", url: siteConfig.url },
+  { name: "Temoignages", url: fullUrl("/temoignages") },
+];
+---
+
+<BaseLayout
+  title={`Temoignages de reconversion | ${siteConfig.name}`}
+  description="Des histoires de reconversion professionnelle reussies face a l'IA. Avant/apres, retours d'experience, conseils concrets."
+  jsonLd={jsonLdBreadcrumbs(breadcrumbs)}
+>
+  <div class="max-w-4xl mx-auto px-4 py-12">
+    <Breadcrumbs items={breadcrumbs} />
+
+    <h1 class="mb-4">Temoignages</h1>
+    <p class="text-gray-600 text-lg mb-10 max-w-3xl">
+      Des histoires de reconversion reussies. Des avant/apres concrets. Pour prouver que c'est possible.
+    </p>
+
+    <div class="text-center py-20 bg-gray-50 rounded-2xl">
+      <p class="text-gray-400 text-lg mb-4">Les premiers temoignages arrivent bientot.</p>
+      <p class="text-gray-500 text-sm mb-6">Tu t'es reconverti grace a l'IA ? Partage ton histoire.</p>
+      <a
+        href={`mailto:${siteConfig.legal.email}?subject=Mon temoignage de reconversion`}
+        class="inline-flex items-center gap-2 text-primary font-semibold hover:underline"
+      >
+        Envoyer ton temoignage &rarr;
+      </a>
+    </div>
+  </div>
+</BaseLayout>

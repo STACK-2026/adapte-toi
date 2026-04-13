@@ -1,0 +1,84 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import { siteConfig } from "../../../site.config";
+import { fullUrl } from "../../utils/config";
+import { jsonLdBreadcrumbs } from "../../utils/seo";
+
+const breadcrumbs = [
+  { name: "Accueil", url: siteConfig.url },
+  { name: "Fiches metier", url: fullUrl("/metiers") },
+];
+
+// Fiches metier a creer (Phase 1 - les 30 plus impactes)
+const metiers = [
+  { slug: "comptable-ia", name: "Comptable", risk: "eleve", icon: "calculator" },
+  { slug: "chef-de-projet-ia", name: "Chef de projet", risk: "eleve", icon: "clipboard" },
+  { slug: "commercial-ia", name: "Commercial", risk: "moyen", icon: "phone" },
+  { slug: "rh-ia", name: "Responsable RH", risk: "moyen", icon: "users" },
+  { slug: "marketing-ia", name: "Responsable marketing", risk: "eleve", icon: "megaphone" },
+  { slug: "avocat-ia", name: "Avocat", risk: "moyen", icon: "scale" },
+  { slug: "developpeur-ia", name: "Developpeur", risk: "moyen", icon: "code" },
+  { slug: "journaliste-ia", name: "Journaliste", risk: "eleve", icon: "pen" },
+  { slug: "graphiste-ia", name: "Graphiste / Designer", risk: "eleve", icon: "palette" },
+  { slug: "traducteur-ia", name: "Traducteur", risk: "tres-eleve", icon: "globe" },
+  { slug: "assistant-administratif-ia", name: "Assistant administratif", risk: "tres-eleve", icon: "folder" },
+  { slug: "enseignant-ia", name: "Enseignant", risk: "faible", icon: "book" },
+  { slug: "architecte-ia", name: "Architecte", risk: "moyen", icon: "building" },
+  { slug: "agent-immobilier-ia", name: "Agent immobilier", risk: "moyen", icon: "home" },
+  { slug: "photographe-ia", name: "Photographe", risk: "eleve", icon: "camera" },
+];
+
+const riskColors: Record<string, { bg: string; text: string; label: string }> = {
+  "tres-eleve": { bg: "bg-red-100", text: "text-red-700", label: "Risque tres eleve" },
+  "eleve": { bg: "bg-orange-100", text: "text-orange-700", label: "Risque eleve" },
+  "moyen": { bg: "bg-yellow-100", text: "text-yellow-700", label: "Risque moyen" },
+  "faible": { bg: "bg-green-100", text: "text-green-700", label: "Risque faible" },
+};
+---
+
+<BaseLayout
+  title={`Fiches metier IA | ${siteConfig.name}`}
+  description="Analyse detaillee de l'impact de l'IA sur 50+ metiers. Decouvre si ton metier est menace, comment il se transforme, et les competences a acquerir."
+  jsonLd={jsonLdBreadcrumbs(breadcrumbs)}
+>
+  <div class="max-w-6xl mx-auto px-4 py-12">
+    <Breadcrumbs items={breadcrumbs} />
+
+    <h1 class="mb-4">Fiches metier : quel impact de l'IA sur ta profession ?</h1>
+    <p class="text-gray-600 text-lg mb-10 max-w-3xl">
+      Pour chaque metier : l'etat des lieux de l'impact de l'IA, ce qui change concretement, les competences a acquerir, les outils a maitriser, et un plan d'action. Sources : Anthropic, OCDE, McKinsey, France Travail.
+    </p>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      {metiers.map((metier) => {
+        const risk = riskColors[metier.risk];
+        return (
+          <div class="bg-white rounded-2xl p-6 border border-gray-100 shadow-sm hover:shadow-md transition-shadow">
+            <div class="flex items-center justify-between mb-3">
+              <h3 class="font-bold text-lg">{metier.name}</h3>
+              <span class={`text-xs font-medium px-2.5 py-1 rounded-full ${risk.bg} ${risk.text}`}>
+                {risk.label}
+              </span>
+            </div>
+            <p class="text-gray-500 text-sm mb-4">
+              Fiche complete : impact IA, competences, outils, plan d'action.
+            </p>
+            <span class="text-gray-400 text-sm italic">
+              Bientot disponible
+            </span>
+          </div>
+        );
+      })}
+    </div>
+
+    <div class="text-center mt-12 p-8 bg-gray-50 rounded-2xl">
+      <p class="text-gray-600 mb-4">
+        50+ fiches metier en preparation. Abonne-toi a la newsletter pour etre prevenu des nouvelles publications.
+      </p>
+      <a href="/newsletter" class="text-primary font-semibold hover:underline">
+        S'abonner au Signal &rarr;
+      </a>
+    </div>
+  </div>
+</BaseLayout>

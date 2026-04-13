@@ -1,0 +1,112 @@
+---
+import { siteConfig } from "../../site.config";
+---
+
+<header id="site-header" class="fixed top-0 left-0 right-0 z-50 bg-white/90 backdrop-blur-md border-b border-gray-100/80 transition-transform duration-500 ease-in-out">
+  <!-- Alert bar - urgence editoriale -->
+  <div class="bg-secondary text-white text-xs text-center py-1.5 px-4 slide-in-top">
+    <span class="pulse-signal inline-block w-2 h-2 bg-accent rounded-full mr-2"></span>
+    27% des emplois francais menaces par l'IA d'ici 2030 (OCDE)
+    <a href="/guides/reconversion-ia-guide-complet" class="ml-2 underline underline-offset-2 font-medium hover:text-accent transition-colors">Que faire ?</a>
+  </div>
+
+  <nav class="max-w-6xl mx-auto px-4 h-14 flex items-center justify-between">
+    <!-- Logo -->
+    <a href="/" class="flex items-center gap-2 font-display font-800 text-xl tracking-tight" style={`color: ${siteConfig.colors.primary};`}>
+      <!-- Signal bars icon -->
+      <svg class="w-6 h-6" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+        <rect class="signal-bar" x="2" y="16" width="4" height="6" rx="1" fill={siteConfig.colors.primary}/>
+        <rect class="signal-bar" x="8" y="10" width="4" height="12" rx="1" fill={siteConfig.colors.accent}/>
+        <rect class="signal-bar" x="14" y="6" width="4" height="16" rx="1" fill={siteConfig.colors.primary}/>
+        <rect class="signal-bar" x="20" y="2" width="4" height="20" rx="1" fill={siteConfig.colors.secondary}/>
+      </svg>
+      {siteConfig.name}
+    </a>
+
+    <!-- Desktop nav -->
+    <ul class="hidden lg:flex items-center gap-6">
+      {siteConfig.navLinks.map((link) => (
+        <li>
+          <a
+            href={link.href}
+            class="text-sm font-medium text-gray-600 hover:text-primary transition-colors"
+            {...(link.external ? { target: "_blank", rel: "noopener noreferrer" } : {})}
+          >
+            {link.label}
+          </a>
+        </li>
+      ))}
+    </ul>
+
+    <!-- CTA newsletter desktop -->
+    <a
+      href="/newsletter"
+      class="hidden lg:inline-flex items-center gap-2 text-sm font-semibold text-white px-5 py-2 rounded-lg transition-all hover:scale-105 hover:shadow-md"
+      style={`background: ${siteConfig.colors.primary};`}
+    >
+      S'abonner
+    </a>
+
+    <!-- Mobile hamburger -->
+    <button
+      id="mobile-menu-btn"
+      class="lg:hidden p-2 text-gray-600"
+      aria-label="Menu"
+      aria-expanded="false"
+    >
+      <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path id="menu-icon" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+      </svg>
+    </button>
+  </nav>
+
+  <!-- Mobile menu -->
+  <div id="mobile-menu" class="lg:hidden hidden border-t border-gray-100 bg-white">
+    <ul class="px-4 py-4 space-y-3">
+      {siteConfig.navLinks.map((link) => (
+        <li>
+          <a
+            href={link.href}
+            class="block text-gray-700 font-medium py-2"
+            {...(link.external ? { target: "_blank", rel: "noopener noreferrer" } : {})}
+          >
+            {link.label}
+          </a>
+        </li>
+      ))}
+      <li class="pt-2">
+        <a
+          href="/newsletter"
+          class="block text-center text-white font-semibold py-3 rounded-lg"
+          style={`background: ${siteConfig.colors.primary};`}
+        >
+          S'abonner a la newsletter
+        </a>
+      </li>
+    </ul>
+  </div>
+</header>
+
+<!-- Spacer for fixed header (alert bar + nav) -->
+<div class="h-[88px]"></div>
+
+<script>
+  const btn = document.getElementById("mobile-menu-btn");
+  const menu = document.getElementById("mobile-menu");
+  btn?.addEventListener("click", () => {
+    const open = menu?.classList.toggle("hidden") === false;
+    btn.setAttribute("aria-expanded", String(open));
+  });
+
+  let lastY = 0;
+  const header = document.getElementById("site-header");
+  window.addEventListener("scroll", () => {
+    const y = window.scrollY;
+    if (y > 120 && y > lastY) {
+      header?.classList.add("-translate-y-full");
+    } else {
+      header?.classList.remove("-translate-y-full");
+    }
+    lastY = y;
+  }, { passive: true });
+</script>

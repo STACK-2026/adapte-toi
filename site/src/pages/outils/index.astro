@@ -1,0 +1,46 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import { siteConfig } from "../../../site.config";
+import { fullUrl } from "../../utils/config";
+import { jsonLdBreadcrumbs } from "../../utils/seo";
+
+const breadcrumbs = [
+  { name: "Accueil", url: siteConfig.url },
+  { name: "Outils IA", url: fullUrl("/outils") },
+];
+
+const categories = [
+  { name: "IA generative", description: "ChatGPT, Claude, Gemini, Mistral : les outils de conversation et generation de texte.", count: 8 },
+  { name: "Automatisation", description: "Make, Zapier, n8n : automatise tes taches repetitives sans coder.", count: 5 },
+  { name: "Design et image", description: "Midjourney, DALL-E, Canva IA : creation visuelle assistee par IA.", count: 6 },
+  { name: "Productivite", description: "Notion IA, Otter.ai, Gamma : booste ton quotidien professionnel.", count: 7 },
+  { name: "Code et developpement", description: "GitHub Copilot, Cursor, Claude Code : code plus vite et mieux.", count: 5 },
+  { name: "Marketing et vente", description: "Jasper, Copy.ai, HubSpot IA : cree du contenu et vends mieux.", count: 6 },
+];
+---
+
+<BaseLayout
+  title={`Annuaire d'outils IA | ${siteConfig.name}`}
+  description="Les meilleurs outils IA classes par metier et par usage. Tests, comparatifs, tutoriels. Pour savoir exactement quoi utiliser."
+  jsonLd={jsonLdBreadcrumbs(breadcrumbs)}
+>
+  <div class="max-w-6xl mx-auto px-4 py-12">
+    <Breadcrumbs items={breadcrumbs} />
+
+    <h1 class="mb-4">Annuaire d'outils IA</h1>
+    <p class="text-gray-600 text-lg mb-10 max-w-3xl">
+      Les meilleurs outils d'intelligence artificielle, testes et classes par usage. Tests, comparatifs, liens directs.
+    </p>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      {categories.map((cat) => (
+        <div class="bg-white rounded-2xl p-6 border border-gray-100 shadow-sm hover:shadow-md transition-shadow">
+          <h3 class="font-bold text-lg mb-2">{cat.name}</h3>
+          <p class="text-gray-500 text-sm mb-3">{cat.description}</p>
+          <p class="text-xs text-gray-400">{cat.count} outils - bientot disponible</p>
+        </div>
+      ))}
+    </div>
+  </div>
+</BaseLayout>

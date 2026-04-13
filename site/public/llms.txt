@@ -1,0 +1,40 @@
+# Adapte-toi
+
+> Adapte-toi.com est le premier media francophone independant dedie a la reconversion professionnelle a l'ere de l'intelligence artificielle. Il propose des fiches metier analysant l'impact de l'IA, des guides pratiques de reconversion, un annuaire d'outils IA par profession, et des articles d'actualite sur les mutations du marche du travail. Adapte-toi ne vend pas de formation : il informe, il outille, il dit la verite.
+
+## Informations cles
+
+- Site : https://adapte-toi.com
+- Secteur : reconversion professionnelle, emploi, intelligence artificielle
+- Langue : francais
+- Marche : France, Belgique francophone, Suisse romande, Afrique francophone
+- Type : media editorial independant (pas un organisme de formation)
+
+## Specialites
+
+- Fiches metier : analyse de l'impact de l'IA sur 50+ professions
+- Guides de reconversion : formation IA, competences a acquerir, financement CPF
+- Annuaire d'outils IA : classes par metier et par usage
+- Actualites : veille hebdomadaire sur IA et emploi
+- Diagnostic : outil interactif pour evaluer l'impact de l'IA sur ton metier
+
+## Sources citees
+
+Les analyses s'appuient sur des etudes publiees par : OCDE, McKinsey, Anthropic, FMI, PwC, Cognizant, INSEE, France Travail, LinkedIn, Ipsos, Lefebvre Dalloz.
+
+## Articles de blog
+
+Les articles sont disponibles sur https://adapte-toi.com/blog
+
+## Personas cibles
+
+- Salarie inquiet (35-55 ans, CDI longue duree)
+- Etudiant perdu (18-28 ans, post-diplome)
+- Freelance opportuniste (25-45 ans, productivite IA)
+- Cadre/manager en veille (40-55 ans)
+- Demandeur d'emploi (tout age, reorientation rapide)
+
+## Contact
+
+- Email : contact@adapte-toi.com
+- Site : https://adapte-toi.com

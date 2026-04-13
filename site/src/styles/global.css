@@ -1,0 +1,238 @@
+@import "tailwindcss";
+
+/* === Design Tokens — adapte-toi.com === */
+:root {
+  --color-primary: #e63946;
+  --color-secondary: #1d3557;
+  --color-accent: #f77f00;
+  --color-bg: #fafbfc;
+  --color-text: #1a1a2e;
+  --font-display: "Space Grotesk", system-ui, sans-serif;
+  --font-body: "DM Sans", system-ui, sans-serif;
+}
+
+/* === Base === */
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  font-family: var(--font-body);
+  color: var(--color-text);
+  background: var(--color-bg);
+  line-height: 1.7;
+}
+
+/* === Typography === */
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.025em;
+}
+
+h1 {
+  font-size: clamp(2rem, 5vw, 3.5rem);
+}
+h2 {
+  font-size: clamp(1.5rem, 3vw, 2.25rem);
+}
+h3 {
+  font-size: clamp(1.25rem, 2.5vw, 1.75rem);
+}
+
+/* === Blog article prose === */
+.prose h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  color: var(--color-secondary);
+}
+
+.prose h3 {
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+.prose p {
+  margin-bottom: 1.25rem;
+}
+
+.prose a {
+  color: var(--color-primary);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.prose a:hover {
+  color: var(--color-secondary);
+}
+
+.prose img {
+  border-radius: 0.75rem;
+  margin: 2rem auto;
+}
+
+.prose blockquote {
+  border-left: 4px solid var(--color-accent);
+  padding-left: 1.5rem;
+  margin: 1.5rem 0;
+  font-style: italic;
+  color: #4b5563;
+}
+
+.prose ul,
+.prose ol {
+  padding-left: 1.5rem;
+  margin-bottom: 1.25rem;
+}
+
+.prose li {
+  margin-bottom: 0.5rem;
+}
+
+.prose table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+}
+
+.prose th,
+.prose td {
+  border: 1px solid #e5e7eb;
+  padding: 0.75rem 1rem;
+  text-align: left;
+}
+
+.prose th {
+  background: #f9fafb;
+  font-weight: 600;
+}
+
+/* === Micro-interactions === */
+
+/* Pulse animation for urgency signals */
+@keyframes pulse-signal {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.6;
+  }
+}
+
+.pulse-signal {
+  animation: pulse-signal 2s ease-in-out infinite;
+}
+
+/* Alert bar slide-in */
+@keyframes slide-in-top {
+  from {
+    transform: translateY(-100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.slide-in-top {
+  animation: slide-in-top 0.5s ease-out;
+}
+
+/* Counter number animation */
+@keyframes count-up {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Fade up on scroll (used with IntersectionObserver) */
+.fade-up {
+  opacity: 0;
+  transform: translateY(24px);
+  transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+}
+
+.fade-up.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Signal bar animation (brand signature) */
+@keyframes signal-bars {
+  0% {
+    transform: scaleY(0.3);
+  }
+  50% {
+    transform: scaleY(1);
+  }
+  100% {
+    transform: scaleY(0.3);
+  }
+}
+
+.signal-bar {
+  transform-origin: bottom;
+  animation: signal-bars 1.2s ease-in-out infinite;
+}
+
+.signal-bar:nth-child(2) {
+  animation-delay: 0.15s;
+}
+
+.signal-bar:nth-child(3) {
+  animation-delay: 0.3s;
+}
+
+.signal-bar:nth-child(4) {
+  animation-delay: 0.45s;
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .pulse-signal,
+  .signal-bar {
+    animation: none;
+  }
+
+  .fade-up {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+
+  .slide-in-top {
+    animation: none;
+  }
+}
+
+/* === Phone obfuscation === */
+.phone-obfuscated {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.phone-obfuscated span {
+  display: inline-block;
+  unicode-bidi: bidi-override;
+  direction: rtl;
+}
+
+/* === Tailwind custom colors === */
+@theme {
+  --color-primary: #e63946;
+  --color-secondary: #1d3557;
+  --color-accent: #f77f00;
+}

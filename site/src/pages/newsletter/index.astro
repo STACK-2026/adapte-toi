@@ -1,0 +1,60 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { siteConfig } from "../../../site.config";
+---
+
+<BaseLayout
+  title={`Le Signal - Newsletter | ${siteConfig.name}`}
+  description="Chaque lundi, l'essentiel de l'impact de l'IA sur l'emploi. Les chiffres, les tendances, les actions concretes. En 5 minutes."
+>
+  <div class="max-w-2xl mx-auto px-4 py-20 text-center">
+    <h1 class="mb-4">Le Signal</h1>
+    <p class="text-gray-600 text-lg mb-8">
+      Chaque lundi matin, l'essentiel de ce que l'IA change dans le monde du travail. Les etudes, les chiffres, les tendances, et surtout : ce que tu peux faire concretement. En 5 minutes, pas plus.
+    </p>
+
+    <form id="newsletter-form-page" class="max-w-md mx-auto">
+      <div class="flex flex-col sm:flex-row gap-3">
+        <input
+          type="email"
+          name="email"
+          required
+          placeholder="ton@email.com"
+          class="flex-1 px-5 py-3 rounded-xl border border-gray-200 text-sm focus:outline-none focus:ring-2 focus:ring-primary"
+        />
+        <button
+          type="submit"
+          class="font-semibold px-6 py-3 rounded-xl text-white transition-all hover:scale-105"
+          style={`background: ${siteConfig.colors.primary};`}
+        >
+          S'abonner
+        </button>
+      </div>
+      <p class="text-gray-400 text-xs mt-4">
+        Pas de spam, pas de revente. Desinscription en un clic.
+      </p>
+    </form>
+
+    <div class="mt-16 text-left space-y-6">
+      <h2 class="text-xl font-bold">Ce que tu recois chaque semaine</h2>
+      <ul class="space-y-4 text-gray-600">
+        <li class="flex gap-3">
+          <span class="text-primary font-bold">1.</span>
+          <span>Le chiffre de la semaine : une donnee cle sur l'impact de l'IA sur l'emploi, sourcee et contextualisee.</span>
+        </li>
+        <li class="flex gap-3">
+          <span class="text-primary font-bold">2.</span>
+          <span>L'actu qui compte : les etudes, les annonces, les tendances que tu ne dois pas rater.</span>
+        </li>
+        <li class="flex gap-3">
+          <span class="text-primary font-bold">3.</span>
+          <span>L'action de la semaine : un conseil concret et actionnable pour avancer dans ta reconversion ou ta montee en competences.</span>
+        </li>
+        <li class="flex gap-3">
+          <span class="text-primary font-bold">4.</span>
+          <span>L'outil de la semaine : un outil IA teste et recommande pour ton quotidien professionnel.</span>
+        </li>
+      </ul>
+    </div>
+  </div>
+</BaseLayout>
