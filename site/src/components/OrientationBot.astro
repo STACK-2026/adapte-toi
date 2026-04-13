@@ -30,13 +30,11 @@
   <!-- Header -->
   <div class="px-5 py-4 border-b border-gray-100 bg-gray-50/50">
     <p class="font-display font-bold text-sm">Assistant d'orientation</p>
-    <p class="text-xs text-gray-400">Zéro IA, 100% local. Tes données ne sont pas collectées.</p>
+    <p class="text-xs text-gray-400">Réponds aux questions, on t'oriente. Gratuit.</p>
   </div>
 
   <!-- Chat area -->
-  <div id="bot-chat" class="px-5 py-4 overflow-y-auto" style="max-height: 340px;">
-    <!-- Filled by JS -->
-  </div>
+  <div id="bot-chat" class="px-5 py-4 overflow-y-auto" style="max-height: 340px;"></div>
 </div>
 
 <script>
@@ -58,7 +56,7 @@
       });
       iconOpen.classList.add("hidden");
       iconClose.classList.remove("hidden");
-      if (!chat.hasChildNodes()) startConversation();
+      if (!chat.querySelector(".bot-msg")) startConversation();
     } else {
       panel.style.transform = "translateY(10px)";
       panel.style.opacity = "0";
@@ -110,6 +108,7 @@
 
   function addMessage(text: string, isBot: boolean) {
     const div = document.createElement("div");
+    div.classList.add("bot-msg");
     div.style.cssText = `margin-bottom:12px;display:flex;${isBot ? "" : "justify-content:flex-end;"}`;
     div.innerHTML = `<div style="max-width:85%;padding:10px 14px;border-radius:${isBot ? "4px 16px 16px 16px" : "16px 4px 16px 16px"};background:${isBot ? "#f3f4f6" : "#E63946"};color:${isBot ? "#1a1a2e" : "white"};font-size:13px;line-height:1.5;">${text}</div>`;
 

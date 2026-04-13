@@ -1,0 +1,97 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import { getCollection, render } from "astro:content";
+import { siteConfig } from "../../../site.config";
+import { fullUrl } from "../../utils/config";
+import { jsonLdArticle, jsonLdBreadcrumbs } from "../../utils/seo";
+
+export async function getStaticPaths() {
+  const guides = await getCollection("guides", ({ data }) => !data.draft);
+  return guides.map((guide) => ({
+    params: { slug: guide.id },
+    props: { guide },
+  }));
+}
+
+const { guide } = Astro.props;
+const { Content } = await render(guide);
+
+const guideUrl = fullUrl(`/guides/${guide.id}`);
+const dateStr = guide.data.date.toISOString().split("T")[0];
+
+const breadcrumbs = [
+  { name: "Accueil", url: siteConfig.url },
+  { name: "Guides", url: fullUrl("/guides") },
+  { name: guide.data.title, url: guideUrl },
+];
+
+const jsonLd = [
+  jsonLdArticle({
+    title: guide.data.title,
+    description: guide.data.description,
+    url: guideUrl,
+    datePublished: dateStr,
+    author: guide.data.author || siteConfig.blog.defaultAuthor,
+    keywords: guide.data.keywords?.split(",").map((k: string) => k.trim()),
+  }),
+  jsonLdBreadcrumbs(breadcrumbs),
+];
+---
+
+<BaseLayout
+  title={`${guide.data.title} | ${siteConfig.name}`}
+  description={guide.data.description}
+  canonicalUrl={guideUrl}
+  ogImage={guide.data.image}
+  ogType="article"
+  publishedTime={dateStr}
+  jsonLd={jsonLd}
+>
+  <article class="max-w-3xl mx-auto px-4 py-12">
+    <Breadcrumbs items={breadcrumbs} />
+
+    <header class="mb-10">
+      {guide.data.category && (
+        <span class="inline-block bg-primary/10 text-primary text-sm font-medium px-3 py-1 rounded-full mb-4">
+          {guide.data.category}
+        </span>
+      )}
+      <h1 class="mb-4">{guide.data.title}</h1>
+      <div class="flex flex-wrap items-center gap-4 text-gray-500 text-sm">
+        <span>{guide.data.author || siteConfig.blog.defaultAuthor}</span>
+        <span>·</span>
+        <time datetime={dateStr}>
+          {guide.data.date.toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" })}
+        </time>
+        {guide.data.readingTime && (
+          <>
+            <span>·</span>
+            <span>{guide.data.readingTime} de lecture</span>
+          </>
+        )}
+        {guide.data.lastReviewed && (
+          <>
+            <span>·</span>
+            <span>Mis à jour le {guide.data.lastReviewed.toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" })}</span>
+          </>
+        )}
+      </div>
+    </header>
+
+    <div class="prose max-w-none">
+      <Content />
+    </div>
+
+    <!-- CTA bas de guide -->
+    <div class="mt-12 p-6 bg-gray-50 rounded-2xl text-center">
+      <p class="font-bold text-lg mb-2">Prêt à passer à l'action ?</p>
+      <p class="text-gray-600 text-sm mb-4">Consulte la fiche de ton métier pour un plan d'action personnalisé.</p>
+      <div class="flex flex-col sm:flex-row gap-3 justify-center">
+        <a href="/metiers" class="text-primary font-semibold hover:underline">Fiches métier &rarr;</a>
+        <a href="/outils" class="text-primary font-semibold hover:underline">Outils IA &rarr;</a>
+        <a href="/newsletter" class="text-primary font-semibold hover:underline">Newsletter Le Signal &rarr;</a>
+      </div>
+    </div>
+  </article>
+</BaseLayout>

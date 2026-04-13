@@ -47,4 +47,21 @@ const metiers = defineCollection({
   }),
 });
 
-export const collections = { blog, pages, metiers };
+const guides = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: "./src/content/guides" }),
+  schema: z.object({
+    title: z.string(),
+    description: z.string().max(160),
+    date: z.coerce.date(),
+    lastReviewed: z.coerce.date().optional(),
+    author: z.string().optional(),
+    category: z.string().optional(),
+    readingTime: z.string().optional(),
+    keywords: z.string().optional(),
+    image: z.string().optional(),
+    imageAlt: z.string().optional(),
+    draft: z.boolean().default(false),
+  }),
+});
+
+export const collections = { blog, pages, metiers, guides };
