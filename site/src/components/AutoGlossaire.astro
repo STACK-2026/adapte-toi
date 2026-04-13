@@ -29,6 +29,9 @@
   };
 
   function initAutoGlossaire() {
+    // Disable on mobile (tooltips are too invasive on small screens)
+    if (window.innerWidth < 768) return;
+
     const proseEls = document.querySelectorAll(".prose");
     if (!proseEls.length) return;
 
