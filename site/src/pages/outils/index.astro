@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import { getCollection } from "astro:content";
 import { siteConfig } from "../../../site.config";
 import { fullUrl } from "../../utils/config";
 import { jsonLdBreadcrumbs } from "../../utils/seo";
@@ -10,19 +11,33 @@ const breadcrumbs = [
   { name: "Outils IA", url: fullUrl("/outils") },
 ];
 
-const catégories = [
-  { name: "IA générative", description: "ChatGPT, Claude, Gemini, Mistral : les outils de conversation et génération de texte.", count: 8 },
-  { name: "Automatisation", description: "Make, Zapier, n8n : automatise tes tâches répétitives sans coder.", count: 5 },
-  { name: "Design et image", description: "Midjourney, DALL-E, Canva IA : création visuelle assistee par IA.", count: 6 },
-  { name: "Productivite", description: "Notion IA, Otter.ai, Gamma : booste ton quotidien professionnel.", count: 7 },
-  { name: "Code et développement", description: "GitHub Copilot, Cursor, Claude Code : code plus vite et mieux.", count: 5 },
-  { name: "Marketing et vente", description: "Jasper, Copy.ai, HubSpot IA : créé du contenu et vends mieux.", count: 6 },
+const publishedOutils = (await getCollection("outils", ({ data }) => !data.draft))
+  .sort((a, b) => (b.data.rating || 0) - (a.data.rating || 0));
+
+const categories = [...new Set(publishedOutils.map((o) => o.data.category))];
+
+const upcoming = [
+  { name: "Canva AI", category: "Design et image" },
+  { name: "Perplexity", category: "Recherche" },
+  { name: "Cursor", category: "Code" },
+  { name: "Jasper", category: "Rédaction marketing" },
+  { name: "Copy.ai", category: "Rédaction marketing" },
+  { name: "Surfer SEO", category: "SEO" },
+  { name: "HubSpot CRM", category: "CRM et vente" },
+  { name: "Zapier", category: "Automatisation" },
+  { name: "Adobe Firefly", category: "Design et image" },
+  { name: "Otter.ai", category: "Transcription" },
+  { name: "Gamma", category: "Présentations" },
+  { name: "Descript", category: "Vidéo et audio" },
+  { name: "ElevenLabs", category: "Voix et audio" },
+  { name: "Beautiful.ai", category: "Présentations" },
+  { name: "GitHub Copilot", category: "Code" },
 ];
 ---
 
 <BaseLayout
   title={`Annuaire d'outils IA | ${siteConfig.name}`}
-  description="Les meilleurs outils IA classes par métier et par usage. Tests, comparatifs, tutoriels. Pour savoir exactement quoi utiliser."
+  description="Les meilleurs outils IA classés par métier et par usage. Tests, comparatifs, liens directs. Gratuit."
   jsonLd={jsonLdBreadcrumbs(breadcrumbs)}
 >
   <div class="max-w-6xl mx-auto px-4 py-12">
@@ -30,17 +45,60 @@ const catégories = [
 
     <h1 class="mb-4">Annuaire d'outils IA</h1>
     <p class="text-gray-600 text-lg mb-10 max-w-3xl">
-      Les meilleurs outils d'intelligence artificielle, testes et classes par usage. Tests, comparatifs, liens directs.
+      Les meilleurs outils d'intelligence artificielle, testés et classés par usage. Fiches détaillées, cas d'usage par métier, prix, alternatives. Tout est gratuit.
     </p>
 
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-      {catégories.map((cat) => (
-        <div class="bg-white rounded-2xl p-6 border border-gray-100 shadow-sm hover:shadow-md transition-shadow">
-          <h3 class="font-bold text-lg mb-2">{cat.name}</h3>
-          <p class="text-gray-500 text-sm mb-3">{cat.description}</p>
-          <p class="text-xs text-gray-400">{cat.count} outils - bientot disponible</p>
-        </div>
-      ))}
+    {/* Published outils */}
+    {publishedOutils.length > 0 && (
+      <div class="mb-16">
+        {categories.map((cat) => {
+          const outilsInCat = publishedOutils.filter((o) => o.data.category === cat);
+          return (
+            <div class="mb-10">
+              <h2 class="text-lg font-bold mb-4 text-secondary">{cat}</h2>
+              <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+                {outilsInCat.map((outil) => (
+                  <a href={`/outils/${outil.id}`} class="block bg-white rounded-2xl p-6 border border-gray-100 shadow-sm hover-glow hover-shine transition-all hover:-translate-y-1">
+                    <div class="flex items-center justify-between mb-3">
+                      <h3 class="font-bold text-lg">{outil.data.outil}</h3>
+                      {outil.data.rating && (
+                        <span class="text-xs font-semibold px-2.5 py-1 rounded-full bg-accent/10 text-accent">{outil.data.rating}/10</span>
+                      )}
+                    </div>
+                    <p class="text-gray-500 text-sm mb-3 line-clamp-2">{outil.data.description}</p>
+                    <div class="flex items-center justify-between">
+                      <span class="text-xs text-gray-400">{outil.data.pricing.split("·")[0]}</span>
+                      <span class="text-primary text-sm font-semibold">Lire &rarr;</span>
+                    </div>
+                  </a>
+                ))}
+              </div>
+            </div>
+          );
+        })}
+      </div>
+    )}
+
+    {/* Upcoming */}
+    <div>
+      <h2 class="text-xl font-bold mb-6">Bientôt disponibles</h2>
+      <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
+        {upcoming.map((o) => (
+          <div class="bg-white rounded-xl p-4 border border-gray-100 shadow-sm opacity-60 text-center">
+            <p class="font-bold text-sm">{o.name}</p>
+            <p class="text-xs text-gray-400 mt-1">{o.category}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+
+    <div class="text-center mt-12 p-8 bg-gray-50 rounded-2xl">
+      <p class="text-gray-600 mb-4">
+        20+ fiches outils en préparation. Abonne-toi pour être prévenu.
+      </p>
+      <a href="/newsletter" class="text-primary font-semibold hover:underline">
+        S'abonner au Signal &rarr;
+      </a>
     </div>
   </div>
 </BaseLayout>

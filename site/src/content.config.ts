@@ -64,4 +64,22 @@ const guides = defineCollection({
   }),
 });
 
-export const collections = { blog, pages, metiers, guides };
+const outils = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: "./src/content/outils" }),
+  schema: z.object({
+    title: z.string(),
+    description: z.string().max(160),
+    outil: z.string(),
+    category: z.string(),
+    pricing: z.string(),
+    website: z.string().optional(),
+    rating: z.number().min(1).max(10).optional(),
+    date: z.coerce.date(),
+    lastReviewed: z.coerce.date().optional(),
+    author: z.string().optional(),
+    keywords: z.string().optional(),
+    draft: z.boolean().default(false),
+  }),
+});
+
+export const collections = { blog, pages, metiers, guides, outils };
