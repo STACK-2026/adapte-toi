@@ -15,8 +15,6 @@ const publishedGuides = (await getCollection("guides", ({ data }) => !data.draft
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 
 const upcoming = [
-  { title: "Tes études ne servent plus à rien ? Ce que tu peux faire", category: "reconversion", words: "3 000+" },
-  { title: "Négocier ton salaire avec des compétences IA", category: "reconversion", words: "2 500+" },
 ];
 ---
 
