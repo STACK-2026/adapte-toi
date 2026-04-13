@@ -231,7 +231,7 @@
   }
 
   function flowUnderstand() {
-    addMessage("Voici l'essentiel en 3 chiffres :\n\n- 27% des emplois français menacés (OCDE)\n- 47% des actifs envisagent une reconversion (Ipsos)\n- +25% de salaire pour ceux qui maîtrisent l'IA (PwC)", true);
+    addMessage("Voici l'essentiel en 3 chiffres :<br><br>- <strong>27%</strong> des emplois français menacés (<a href='https://www.oecd.org' target='_blank' style='color:#F77F00;text-decoration:underline;'>OCDE</a>)<br>- <strong>47%</strong> des actifs envisagent une reconversion (<a href='https://www.ipsos.com' target='_blank' style='color:#F77F00;text-decoration:underline;'>Ipsos</a>)<br>- <strong>+25%</strong> de salaire pour ceux qui maîtrisent l'IA (<a href='https://www.pwc.com' target='_blank' style='color:#F77F00;text-decoration:underline;'>PwC</a>)", true);
     setTimeout(() => {
       addLink("Voir tous les chiffres", "/");
       setTimeout(() => {
@@ -287,29 +287,58 @@
   function matchMetier(key: string) {
     const m = metiers[key];
     if (m) {
-      addMessage(`${m.label} : risque ${m.risk}. On a une fiche détaillée avec le plan d'action complet, les outils à maîtriser et les perspectives. Gratuit.`, true);
+      addMessage(`<strong>${m.label}</strong> : risque <strong>${m.risk}</strong>. On a une fiche détaillée avec le plan d'action complet.`, true);
       setTimeout(() => {
         addLink(`Lire la fiche ${m.label}`, m.fiche);
-        setTimeout(() => addEmailCapture(m.label), 600);
+        // Étape 2 : orienter vers les actions
+        setTimeout(() => {
+          addMessage("Ensuite, voici tes prochaines étapes :", true);
+          setTimeout(() => {
+            addChoices([
+              { text: "Me former gratuitement", action: () => {
+                addLink("Guide : se former à l'IA gratuitement", "/guides/se-former-ia-gratuitement");
+              }},
+              { text: "Trouver les bons outils IA", action: () => {
+                addLink("Annuaire des outils IA", "/outils");
+              }},
+              { text: "Financer ma formation (CPF)", action: () => {
+                addLink("Guide financement CPF et aides", "/guides/financer-formation-ia-cpf");
+              }},
+              { text: "Être contacté par un conseiller", action: () => flowContact(m.label) },
+            ]);
+          }, 400);
+        }, 800);
       }, 400);
     } else {
       flowOtherMetier();
     }
   }
 
+  function flowContact(context: string) {
+    addMessage("On peut t'orienter vers les bonnes ressources par email. Gratuit, sans engagement, pas de spam.", true);
+    setTimeout(() => addEmailCapture(context), 400);
+  }
+
   function studentAdvice(key: string) {
     const m = metiers[key];
     if (m) {
-      addMessage(`Tu étudies dans un domaine avec un risque ${m.risk}. Ça ne veut pas dire qu'il faut arrêter. Ça veut dire qu'il faut ajouter des compétences IA à ta formation. La fiche t'explique exactement lesquelles.`, true);
+      addMessage(`Tu étudies dans un domaine avec un risque <strong>${m.risk}</strong>. Ça ne veut pas dire qu'il faut arrêter. Ça veut dire qu'il faut ajouter des compétences IA à ta formation.`, true);
       setTimeout(() => {
         addLink(`Lire la fiche ${m.label}`, m.fiche);
         setTimeout(() => {
-          addMessage("Et pour te former à l'IA en parallèle de tes études (gratuit) :", true);
+          addMessage("Tes prochaines étapes :", true);
           setTimeout(() => {
-            addLink("Guides de formation gratuits", "/guides");
-            setTimeout(() => addEmailCapture(`etudiant-${m.label}`), 600);
+            addChoices([
+              { text: "Me former gratuitement", action: () => {
+                addLink("Guide : se former à l'IA gratuitement", "/guides/se-former-ia-gratuitement");
+              }},
+              { text: "Quels outils apprendre ?", action: () => {
+                addLink("Annuaire des outils IA", "/outils");
+              }},
+              { text: "Être contacté pour un conseil", action: () => flowContact(`etudiant-${m.label}`) },
+            ]);
           }, 400);
-        }, 600);
+        }, 800);
       }, 400);
     }
   }
