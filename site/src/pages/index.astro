@@ -77,7 +77,7 @@ const recentPosts = (await getCollection("blog", ({ data }) => !data.draft))
       </h2>
       <p class="text-gray-500 mb-10 blur-reveal">Des histoires vraies de gens qui ont pris leur carrière en main.</p>
       <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-        <blockquote class="bg-white rounded-2xl p-8 text-left border border-gray-100 shadow-sm hover-glow hover-tilt fade-up">
+        <blockquote class="bg-white rounded-xl sm:rounded-2xl p-5 sm:p-8 text-left border border-gray-100 shadow-sm hover-glow fade-up">
           <div class="flex items-center gap-3 mb-4">
             <div class="w-10 h-10 rounded-full bg-secondary/10 flex items-center justify-center text-secondary font-bold text-sm">M</div>
             <div>
@@ -90,7 +90,7 @@ const recentPosts = (await getCollection("blog", ({ data }) => !data.draft))
           </p>
           <a href="/metiers/chef-de-projet-ia" class="text-primary text-sm font-medium mt-4 inline-block hover:underline">Lire la fiche métier &rarr;</a>
         </blockquote>
-        <blockquote class="bg-white rounded-2xl p-8 text-left border border-gray-100 shadow-sm hover-glow hover-tilt fade-up">
+        <blockquote class="bg-white rounded-xl sm:rounded-2xl p-5 sm:p-8 text-left border border-gray-100 shadow-sm hover-glow fade-up">
           <div class="flex items-center gap-3 mb-4">
             <div class="w-10 h-10 rounded-full bg-accent/10 flex items-center justify-center text-accent font-bold text-sm">I</div>
             <div>
@@ -125,7 +125,7 @@ const recentPosts = (await getCollection("blog", ({ data }) => !data.draft))
             Tous les articles &rarr;
           </a>
         </div>
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-8 stagger-children">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-4 sm:gap-8 stagger-children overflow-hidden">
           {recentPosts.map((post) => (
             <BlogCard
               title={post.data.title}
