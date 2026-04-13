@@ -18,10 +18,10 @@ import { siteConfig } from "../../site.config";
       <div class="text-center mb-8">
         <span class="inline-flex items-center gap-2 bg-accent/10 text-accent text-sm font-semibold px-4 py-1.5 rounded-full mb-4">
           <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M13 10V3L4 14h7v7l9-11h-7z" /></svg>
-          Mini-jeu
+          Diagnostic express
         </span>
-        <h2 class="text-xl font-bold" id="quiz-title">Es-tu IA-proof ?</h2>
-        <p class="text-gray-500 text-sm mt-1" id="quiz-subtitle">5 questions pour évaluer ta résistance à l'IA. Zéro API, 100% local.</p>
+        <h2 class="text-xl font-bold" id="quiz-title">L'IA menace-t-elle ton métier ?</h2>
+        <p class="text-gray-500 text-sm mt-1" id="quiz-subtitle">5 questions, 1 minute, ton niveau de risque. Gratuit.</p>
       </div>
 
       <!-- Question area -->
@@ -112,29 +112,29 @@ import { siteConfig } from "../../site.config";
   const results = [
     {
       min: 0, max: 4,
-      title: "🔴 Alerte rouge",
-      text: "Ton profil est très exposé à l'automatisation. La bonne nouvelle : tu peux agir maintenant. Commence par nos fiches métier pour comprendre l'impact sur ta profession, puis lis nos guides de reconversion.",
-      cta: { label: "Voir les métiers les plus menacés", href: "/metiers" },
+      title: "🔴 Ton métier est en danger",
+      text: "Ton profil est très exposé à l'automatisation. La bonne nouvelle : tu peux agir maintenant. Commence par consulter la fiche de ton métier pour comprendre ce qui change, puis lis nos guides de reconversion.",
+      cta: { label: "Consulter les fiches métier", href: "/metiers" },
       color: "#E63946",
     },
     {
       min: 5, max: 8,
-      title: "🟠 Zone de vigilance",
-      text: "Tu as des atouts mais aussi des vulnérabilités. L'IA va transformer ton quotidien. Ceux qui s'y préparent maintenant auront un avantage massif sur les autres. Forme-toi aux outils IA de ton secteur.",
-      cta: { label: "Guides de formation IA", href: "/guides" },
+      title: "🟠 Ton métier va changer",
+      text: "Tu as des atouts, mais aussi des vulnérabilités. L'IA va transformer ton quotidien dans les 2 prochaines années. Ceux qui se forment maintenant prendront une longueur d'avance.",
+      cta: { label: "Se former aux outils IA", href: "/guides" },
       color: "#F77F00",
     },
     {
       min: 9, max: 12,
-      title: "🟡 Bien positionné",
-      text: "Tu as de solides bases. Tes compétences relationnelles et ta capacité d'adaptation te protègent. Continue à intégrer l'IA dans ton workflow pour rester en avance.",
+      title: "🟡 Tu es bien positionné",
+      text: "Tes compétences relationnelles et ta capacité d'adaptation te protègent. Continue à intégrer l'IA dans ton travail pour garder ton avance sur les autres.",
       cta: { label: "Découvrir les outils IA", href: "/outils" },
       color: "#EAB308",
     },
     {
       min: 13, max: 15,
-      title: "🟢 IA-proof",
-      text: "Tu es dans le top 10% des professionnels les mieux préparés à l'ère de l'IA. Tu comprends les outils, tu as des compétences humaines fortes, et tu sais comment évoluer. Continue comme ça.",
+      title: "🟢 Tu es prêt pour l'ère de l'IA",
+      text: "Tu fais partie des 10% de professionnels les mieux préparés. Tu comprends les outils, tu as des compétences humaines fortes, et tu sais comment évoluer. Continue comme ça.",
       cta: { label: "Partager ton expérience", href: "/temoignages" },
       color: "#22C55E",
     },
@@ -260,8 +260,8 @@ import { siteConfig } from "../../site.config";
       currentQ = 0;
       score = 0;
       scoreText.textContent = "";
-      if (title) title.textContent = "Es-tu IA-proof ?";
-      if (subtitle) subtitle.textContent = "5 questions pour évaluer ta résistance à l'IA. Zéro API, 100% local.";
+      if (title) title.textContent = "L'IA menace-t-elle ton métier ?";
+      if (subtitle) subtitle.textContent = "5 questions, 1 minute, ton niveau de risque. Gratuit.";
       renderQuestion();
     });
   }
