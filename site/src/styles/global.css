@@ -27,6 +27,47 @@ body {
   overflow-x: hidden;
 }
 
+/* === Accessibility & Mobile-first === */
+
+/* Touch targets minimum 44px (WCAG 2.5.8) */
+a, button, [role="button"], summary, .stat-card, .quiz-opt {
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+}
+
+/* Links always distinguishable (not just color) */
+.prose a, article a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1.5px;
+}
+
+/* Focus visible for keyboard navigation */
+a:focus-visible, button:focus-visible, [tabindex]:focus-visible, summary:focus-visible {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Mobile text readability */
+@media (max-width: 640px) {
+  body {
+    font-size: 16px; /* prevents iOS zoom on input focus */
+    line-height: 1.65;
+  }
+
+  h1 { font-size: 1.75rem; }
+  h2 { font-size: 1.4rem; }
+  h3 { font-size: 1.15rem; }
+
+  /* Bigger gaps between sections on mobile */
+  section { padding-top: 3rem; padding-bottom: 3rem; }
+
+  /* Cards need visible borders on mobile */
+  .hover-shine::after { display: none; } /* shine effect invisible on touch */
+}
+
 /* === Grain Overlay (film analog texture) === */
 body::before {
   content: "";
