@@ -27,32 +27,32 @@ const upcoming: { name: string; category: string }[] = [];
   <div class="max-w-6xl mx-auto px-4 py-12">
     <Breadcrumbs items={breadcrumbs} />
 
-    <h1 class="mb-4">Annuaire d'outils IA</h1>
-    <p class="text-gray-600 text-lg mb-10 max-w-3xl">
-      Les meilleurs outils d'intelligence artificielle, testés et classés par usage. Fiches détaillées, cas d'usage par métier, prix, alternatives. Tout est gratuit.
+    <h1 class="mb-3 sm:mb-4">Annuaire d'outils IA</h1>
+    <p class="text-gray-600 text-base sm:text-lg mb-6 sm:mb-10 max-w-3xl leading-relaxed">
+      Les meilleurs outils IA, testés et classés par usage. Fiches détaillées, cas d'usage par métier, prix, alternatives. Gratuit.
     </p>
 
     {/* Published outils */}
     {publishedOutils.length > 0 && (
-      <div class="mb-16">
+      <div class="mb-10 sm:mb-16">
         {categories.map((cat) => {
           const outilsInCat = publishedOutils.filter((o) => o.data.category === cat);
           return (
-            <div class="mb-10">
-              <h2 class="text-lg font-bold mb-4 text-secondary">{cat}</h2>
-              <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+            <div class="mb-8 sm:mb-10">
+              <h2 class="text-base sm:text-lg font-bold mb-3 sm:mb-4 text-secondary">{cat}</h2>
+              <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 sm:gap-5">
                 {outilsInCat.map((outil) => (
-                  <a href={`/outils/${outil.id}`} class="block bg-white rounded-2xl p-6 border border-gray-100 shadow-sm hover-glow hover-shine transition-all hover:-translate-y-1">
-                    <div class="flex items-center justify-between mb-3">
-                      <h3 class="font-bold text-lg">{outil.data.outil}</h3>
+                  <a href={`/outils/${outil.id}`} class="flex sm:block items-center gap-3 sm:gap-0 bg-white rounded-xl sm:rounded-2xl p-4 sm:p-6 border border-gray-100 shadow-sm hover-glow transition-all active:scale-[0.98] hover:-translate-y-1">
+                    <div class="flex items-center justify-between sm:mb-3 flex-1 min-w-0">
+                      <h3 class="font-bold text-sm sm:text-lg truncate">{outil.data.outil}</h3>
                       {outil.data.rating && (
                         <span class="text-xs font-semibold px-2.5 py-1 rounded-full bg-accent/10 text-accent">{outil.data.rating}/10</span>
                       )}
                     </div>
-                    <p class="text-gray-500 text-sm mb-3 line-clamp-2">{outil.data.description}</p>
+                    <p class="text-gray-500 text-xs sm:text-sm mb-2 sm:mb-3 line-clamp-1 sm:line-clamp-2 hidden sm:block">{outil.data.description}</p>
                     <div class="flex items-center justify-between">
-                      <span class="text-xs text-gray-400">{outil.data.pricing.split("·")[0]}</span>
-                      <span class="text-primary text-sm font-semibold">Lire &rarr;</span>
+                      <span class="text-[10px] sm:text-xs text-gray-400">{outil.data.pricing.split("·")[0]}</span>
+                      <span class="text-primary text-xs sm:text-sm font-semibold">Lire &rarr;</span>
                     </div>
                   </a>
                 ))}
