@@ -111,19 +111,16 @@ import { siteConfig } from "../../site.config";
   </div>
 </header>
 
+<!-- Spacer: pushed down by header height -->
+<div id="header-spacer" style="height: 90px;"></div>
+
 <script>
-  // Dynamic header height → CSS var for main padding-top
+  // Dynamic header height → spacer
   function updateHeaderHeight() {
     const header = document.getElementById("site-header");
-    if (header) {
-      document.documentElement.style.setProperty("--header-h", header.offsetHeight + "px");
-    }
-    // Update theme-color based on announcement bar visibility
-    const bar = document.getElementById("announcement-bar");
-    const meta = document.querySelector('meta[name="theme-color"]');
-    if (meta) {
-      const barVisible = bar && bar.style.maxHeight !== "0px" && bar.style.opacity !== "0";
-      meta.setAttribute("content", barVisible ? "#1D3557" : "#ffffff");
+    const spacer = document.getElementById("header-spacer");
+    if (header && spacer) {
+      spacer.style.height = header.offsetHeight + "px";
     }
   }
   updateHeaderHeight();
@@ -142,14 +139,11 @@ import { siteConfig } from "../../site.config";
     e.stopPropagation();
     if (bar) { bar.style.maxHeight = "0"; bar.style.opacity = "0"; }
     localStorage.setItem("announcement-dismissed", "1");
-    // Update header height + theme-color after animation
+    // Update spacer after animation
     setTimeout(() => {
       const header = document.getElementById("site-header");
-      if (header) {
-        document.documentElement.style.setProperty("--header-h", header.offsetHeight + "px");
-      }
-      const meta = document.querySelector('meta[name="theme-color"]');
-      if (meta) meta.setAttribute("content", "#ffffff");
+      const spacer = document.getElementById("header-spacer");
+      if (header && spacer) spacer.style.height = header.offsetHeight + "px";
     }, 350);
   });
 

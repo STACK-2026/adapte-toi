@@ -71,34 +71,9 @@ a:focus-visible, button:focus-visible, [tabindex]:focus-visible, summary:focus-v
   .hover-shine::after { display: none; } /* shine effect invisible on touch */
 }
 
-/* === iOS Safe Area + header stacking fix === */
-#site-header {
-  top: 0;
-  background-color: #ffffff;
-}
-
-/* Couvre la zone au-dessus du header (safe area + barre adresse rétractée) */
-#site-header::before {
-  content: "";
-  position: absolute;
-  top: calc(-1 * env(safe-area-inset-top, 0px) - 50px);
-  left: 0;
-  right: 0;
-  height: calc(env(safe-area-inset-top, 0px) + 50px);
-  background: inherit;
-  z-index: -1;
-}
-
-/* Bouclier indépendant du header (pas affecté par -translate-y-full) */
+/* === Header fix === */
 #header-shield {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: calc(env(safe-area-inset-top, 0px) + 20px);
-  background: #ffffff;
-  z-index: 49;
-  pointer-events: none;
+  display: none;
 }
 
 

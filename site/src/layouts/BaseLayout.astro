@@ -39,7 +39,7 @@ const jsonLdArray = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
 <html lang={siteConfig.language}>
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="theme-color" content="#ffffff" />
 
     <!-- Preconnect -->
@@ -85,12 +85,10 @@ const jsonLdArray = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
     ))}
   </head>
   <body class="min-h-screen flex flex-col">
-    <!-- Shield: always visible, masks content above header on iOS -->
-    <div id="header-shield"></div>
     <!-- Cursor glow (desktop only) -->
     <div id="cursor-glow"></div>
     <Header />
-    <main class="flex-1" style="padding-top: var(--header-h, 0px);">
+    <main class="flex-1">
       <slot />
     </main>
     <Footer />
