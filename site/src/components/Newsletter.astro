@@ -29,8 +29,41 @@ import { siteConfig } from "../../site.config";
       </button>
     </form>
 
-    <p class="text-gray-400 text-xs mt-4 fade-up">
+    <p id="newsletter-msg" class="text-gray-400 text-xs mt-4 fade-up"></p>
+    <p class="text-gray-400 text-xs mt-2 fade-up">
       Pas de spam, pas de revente. Desinscription en un clic.
     </p>
   </div>
 </section>
+
+<script>
+  const form = document.getElementById("newsletter-form");
+  const msg = document.getElementById("newsletter-msg");
+  form?.addEventListener("submit", async (e) => {
+    e.preventDefault();
+    const email = new FormData(form as HTMLFormElement).get("email");
+    if (!email) return;
+    try {
+      const r = await fetch("https://commbksqnwhpsyenjzuf.supabase.co/rest/v1/newsletter_subscribers", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          "apikey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNvbW1ia3NxbndocHN5ZW5qenVmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzYwNzM3MjUsImV4cCI6MjA5MTY0OTcyNX0.6igBrd7TAiC5CamU5hmHfEd-JBb4MJuvGAyGHo6tJpU",
+          "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNvbW1ia3NxbndocHN5ZW5qenVmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzYwNzM3MjUsImV4cCI6MjA5MTY0OTcyNX0.6igBrd7TAiC5CamU5hmHfEd-JBb4MJuvGAyGHo6tJpU",
+          "Prefer": "return=minimal",
+        },
+        body: JSON.stringify({ email, source: "homepage" }),
+      });
+      if (r.ok) {
+        if (msg) msg.textContent = "Bienvenue a bord. Tu recevras Le Signal des lundi prochain.";
+        (form as HTMLFormElement).reset();
+      } else if (r.status === 409) {
+        if (msg) msg.textContent = "Tu es deja inscrit. On se retrouve lundi.";
+      } else {
+        if (msg) msg.textContent = "Erreur. Reessaie dans quelques instants.";
+      }
+    } catch {
+      if (msg) msg.textContent = "Erreur reseau. Reessaie.";
+    }
+  });
+</script>

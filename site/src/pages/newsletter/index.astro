@@ -30,10 +30,43 @@ import { siteConfig } from "../../../site.config";
           S'abonner
         </button>
       </div>
-      <p class="text-gray-400 text-xs mt-4">
+      <p id="newsletter-page-msg" class="text-xs mt-4 text-gray-500"></p>
+      <p class="text-gray-400 text-xs mt-2">
         Pas de spam, pas de revente. Desinscription en un clic.
       </p>
     </form>
+
+    <script>
+      const form = document.getElementById("newsletter-form-page");
+      const msg = document.getElementById("newsletter-page-msg");
+      form?.addEventListener("submit", async (e) => {
+        e.preventDefault();
+        const email = new FormData(form as HTMLFormElement).get("email");
+        if (!email) return;
+        try {
+          const r = await fetch("https://commbksqnwhpsyenjzuf.supabase.co/rest/v1/newsletter_subscribers", {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json",
+              "apikey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNvbW1ia3NxbndocHN5ZW5qenVmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzYwNzM3MjUsImV4cCI6MjA5MTY0OTcyNX0.6igBrd7TAiC5CamU5hmHfEd-JBb4MJuvGAyGHo6tJpU",
+              "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNvbW1ia3NxbndocHN5ZW5qenVmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzYwNzM3MjUsImV4cCI6MjA5MTY0OTcyNX0.6igBrd7TAiC5CamU5hmHfEd-JBb4MJuvGAyGHo6tJpU",
+              "Prefer": "return=minimal",
+            },
+            body: JSON.stringify({ email, source: "newsletter-page" }),
+          });
+          if (r.ok) {
+            if (msg) { msg.textContent = "Bienvenue a bord. Tu recevras Le Signal des lundi prochain."; msg.style.color = "#16a34a"; }
+            (form as HTMLFormElement).reset();
+          } else if (r.status === 409) {
+            if (msg) { msg.textContent = "Tu es deja inscrit. On se retrouve lundi."; msg.style.color = "#f59e0b"; }
+          } else {
+            if (msg) { msg.textContent = "Erreur. Reessaie dans quelques instants."; msg.style.color = "#ef4444"; }
+          }
+        } catch {
+          if (msg) { msg.textContent = "Erreur reseau. Reessaie."; msg.style.color = "#ef4444"; }
+        }
+      });
+    </script>
 
     <div class="mt-16 text-left space-y-6">
       <h2 class="text-xl font-bold">Ce que tu recois chaque semaine</h2>
