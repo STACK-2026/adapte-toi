@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1D3557"/>
+      <stop offset="100%" stop-color="#0f1f3a"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <!-- Grid pattern -->
+  <g opacity="0.05" stroke="white" stroke-width="1">
+    <line x1="0" y1="0" x2="0" y2="630" id="vl"/>
+    <use href="#vl" x="40"/><use href="#vl" x="80"/><use href="#vl" x="120"/><use href="#vl" x="160"/>
+    <use href="#vl" x="200"/><use href="#vl" x="240"/><use href="#vl" x="280"/><use href="#vl" x="320"/>
+    <use href="#vl" x="360"/><use href="#vl" x="400"/><use href="#vl" x="440"/><use href="#vl" x="480"/>
+    <use href="#vl" x="520"/><use href="#vl" x="560"/><use href="#vl" x="600"/><use href="#vl" x="640"/>
+    <use href="#vl" x="680"/><use href="#vl" x="720"/><use href="#vl" x="760"/><use href="#vl" x="800"/>
+    <use href="#vl" x="840"/><use href="#vl" x="880"/><use href="#vl" x="920"/><use href="#vl" x="960"/>
+    <use href="#vl" x="1000"/><use href="#vl" x="1040"/><use href="#vl" x="1080"/><use href="#vl" x="1120"/><use href="#vl" x="1160"/>
+    <line x1="0" y1="0" x2="1200" y2="0" id="hl"/>
+    <use href="#hl" y="40"/><use href="#hl" y="80"/><use href="#hl" y="120"/><use href="#hl" y="160"/>
+    <use href="#hl" y="200"/><use href="#hl" y="240"/><use href="#hl" y="280"/><use href="#hl" y="320"/>
+    <use href="#hl" y="360"/><use href="#hl" y="400"/><use href="#hl" y="440"/><use href="#hl" y="480"/>
+    <use href="#hl" y="520"/><use href="#hl" y="560"/><use href="#hl" y="600"/>
+  </g>
+  <!-- Signal bars -->
+  <rect x="80" y="380" width="30" height="80" rx="6" fill="#E63946" opacity="0.6"/>
+  <rect x="120" y="320" width="30" height="140" rx="6" fill="#F77F00" opacity="0.7"/>
+  <rect x="160" y="260" width="30" height="200" rx="6" fill="#E63946" opacity="0.8"/>
+  <rect x="200" y="200" width="30" height="260" rx="6" fill="#F77F00" opacity="0.9"/>
+  <!-- Brand name -->
+  <text x="600" y="280" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="800" font-size="72" fill="white">Adapte-toi</text>
+  <!-- Tagline -->
+  <text x="600" y="350" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="400" font-size="28" fill="#94a3b8">Le media qui te prepare au monde du travail de demain</text>
+  <!-- Bottom bar -->
+  <rect x="0" y="600" width="1200" height="30" fill="#E63946"/>
+  <!-- URL -->
+  <text x="600" y="500" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="600" font-size="22" fill="#64748b">adapte-toi.com</text>
+  <!-- Alert dot -->
+  <circle cx="1100" cy="80" r="12" fill="#F77F00" opacity="0.9"/>
+</svg>

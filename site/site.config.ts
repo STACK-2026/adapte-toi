@@ -1,5 +1,5 @@
 // ============================================
-// SITE CONFIG — adapte-toi.com
+// SITE CONFIG - adapte-toi.com
 // Media editorial independant : reconversion professionnelle x IA
 // ============================================
 
@@ -32,7 +32,7 @@ export const siteConfig = {
   // SEO
   author: "Adapte-toi",
   twitterHandle: "",
-  ogImage: "/og-default.jpg",
+  ogImage: "/og-default.svg",
   keywords: [
     "reconversion professionnelle IA",
     "metiers menaces intelligence artificielle",
@@ -56,6 +56,7 @@ export const siteConfig = {
     { label: "Actu", href: "/actu" },
     { label: "Temoignages", href: "/temoignages" },
     { label: "Le Signal", href: "/blog" },
+    { label: "A propos", href: "/a-propos" },
   ],
 
   // Sections landing page

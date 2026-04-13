@@ -45,6 +45,7 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
   markdown: {
+    smartypants: false,
     shikiConfig: {
       theme: "github-light",
     },

@@ -1,0 +1,128 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import { siteConfig } from "../../../site.config";
+import { fullUrl } from "../../utils/config";
+import { jsonLdBreadcrumbs } from "../../utils/seo";
+
+const breadcrumbs = [
+  { name: "Accueil", url: siteConfig.url },
+  { name: "A propos", url: fullUrl("/a-propos") },
+];
+
+const authors = siteConfig.blog.authors;
+---
+
+<BaseLayout
+  title={`A propos | ${siteConfig.name}`}
+  description="Qui sommes-nous ? Un media editorial independant sur la reconversion professionnelle a l'ere de l'IA. Notre mission, notre equipe, notre manifeste."
+  jsonLd={jsonLdBreadcrumbs(breadcrumbs)}
+>
+  <div class="max-w-3xl mx-auto px-4 py-12">
+    <Breadcrumbs items={breadcrumbs} />
+
+    <!-- Manifeste -->
+    <section class="mb-16">
+      <h1 class="mb-6">Le monde du travail change. On te dit la verite.</h1>
+
+      <div class="prose max-w-none">
+        <p class="text-lg text-gray-700">
+          Adapte-toi est un <strong>media editorial independant</strong>. On n'est pas un organisme de formation. On ne vend pas de coaching. On ne fait pas de la pub deguisee en contenu.
+        </p>
+
+        <p>
+          On existe parce qu'en 2026, 4 millions de postes en France sont menaces par l'automatisation (OCDE), que 47% des actifs envisagent une reconversion (Ipsos), et que <strong>personne ne leur donne une information fiable, complete et honnete</strong> sur ce qui se passe vraiment.
+        </p>
+
+        <h2 style={`color: ${siteConfig.colors.primary};`}>Notre ennemi</h2>
+
+        <p>
+          Le bullshit. Celui des organismes de formation qui te vendent un "bootcamp IA" a 5 000 euros en te promettant un job en 12 semaines. Celui des medias qui font du clickbait anxiogene sans jamais t'expliquer quoi faire concretement. Celui des influenceurs qui te disent de "devenir prompt engineer" comme si c'etait un metier stable.
+        </p>
+
+        <p>
+          On refuse le mensonge par omission. On refuse le sensationnalisme. On refuse de vendre du reve.
+        </p>
+
+        <h2 style={`color: ${siteConfig.colors.primary};`}>Ce qu'on fait</h2>
+
+        <p>
+          On analyse l'impact reel de l'IA sur chaque metier, avec des donnees sourcees (OCDE, McKinsey, Anthropic, FMI, France Travail). On ecrit des guides pratiques pour te reconvertir, te former ou monter en competences. On teste les outils IA et on te dit lesquels valent le coup. On publie des temoignages de gens qui ont reussi leur transition.
+        </p>
+
+        <p>
+          Chaque article est ecrit pour etre <strong>le meilleur contenu disponible</strong> sur sa requete. Si c'est pas le cas, on ne publie pas.
+        </p>
+
+        <h2 style={`color: ${siteConfig.colors.primary};`}>Nos sources</h2>
+
+        <p>
+          On ne cite que des sources verifiables : etudes OCDE, rapports McKinsey, donnees Anthropic, chiffres INSEE, France Travail, PwC, Cognizant, FMI, LinkedIn. Chaque chiffre est source. Chaque affirmation est recoupee.
+        </p>
+
+        <h2 style={`color: ${siteConfig.colors.primary};`}>Notre modele economique</h2>
+
+        <p>
+          On se finance par l'affiliation (quand on recommande un outil ou une formation, on percoit une commission si tu cliques et achetes). C'est toujours signale en transparence. Ca n'affecte ni le prix que tu paies, ni notre avis editorial. Si un outil est mauvais, on le dit, meme s'il nous rapporterait de l'argent.
+        </p>
+      </div>
+    </section>
+
+    <!-- Equipe -->
+    <section class="mb-16">
+      <h2 class="text-2xl font-bold mb-8" style={`color: ${siteConfig.colors.secondary};`}>L'equipe editoriale</h2>
+
+      <div class="space-y-8">
+        {authors.map((author) => (
+          <div class="flex gap-6 items-start bg-white rounded-2xl p-6 border border-gray-100 shadow-sm">
+            <div class="w-16 h-16 rounded-full flex items-center justify-center flex-shrink-0 font-display font-bold text-xl text-white" style={`background: ${siteConfig.colors.secondary};`}>
+              {author.name.split(" ").map((n: string) => n[0]).join("")}
+            </div>
+            <div>
+              <h3 class="font-bold text-lg">{author.name}</h3>
+              <p class="text-primary text-sm font-medium mb-2">{author.role}</p>
+              <p class="text-gray-600 text-sm">{author.bio}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <!-- Chiffres cles -->
+    <section class="mb-16 p-8 bg-gray-50 rounded-2xl">
+      <h2 class="text-xl font-bold mb-6">En quelques chiffres</h2>
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
+        <div>
+          <p class="font-display font-bold text-2xl" style={`color: ${siteConfig.colors.primary};`}>50+</p>
+          <p class="text-gray-500 text-sm">Fiches metier prevues</p>
+        </div>
+        <div>
+          <p class="font-display font-bold text-2xl" style={`color: ${siteConfig.colors.primary};`}>100+</p>
+          <p class="text-gray-500 text-sm">Articles planifies</p>
+        </div>
+        <div>
+          <p class="font-display font-bold text-2xl" style={`color: ${siteConfig.colors.primary};`}>12+</p>
+          <p class="text-gray-500 text-sm">Sources institutionnelles</p>
+        </div>
+        <div>
+          <p class="font-display font-bold text-2xl" style={`color: ${siteConfig.colors.primary};`}>0</p>
+          <p class="text-gray-500 text-sm">Formation a vendre</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Contact -->
+    <section>
+      <h2 class="text-xl font-bold mb-4">Nous contacter</h2>
+      <p class="text-gray-600 mb-4">
+        Une question, une suggestion, un temoignage a partager, une correction a signaler ? Ecris-nous.
+      </p>
+      <a
+        href={`mailto:${siteConfig.legal.email}`}
+        class="inline-flex items-center gap-2 text-primary font-semibold hover:underline"
+      >
+        {siteConfig.legal.email} &rarr;
+      </a>
+    </section>
+  </div>
+</BaseLayout>
