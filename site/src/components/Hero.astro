@@ -24,8 +24,11 @@ const ctaPhrases = [
 <section class="relative overflow-hidden py-16 sm:py-24 md:py-36 px-4">
   <!-- Animated gradient background -->
   <div class="absolute inset-0 gradient-animated opacity-[0.04]" style="background: linear-gradient(135deg, #E63946, #F77F00, #1D3557, #E63946);"></div>
-  <!-- Subtle grid -->
-  <div class="absolute inset-0 opacity-[0.025] hidden sm:block" style="background-image: linear-gradient(#1D3557 1px, transparent 1px), linear-gradient(to right, #1D3557 1px, transparent 1px); background-size: 50px 50px;"></div>
+  <!-- Subtle grid (visible sur mobile aussi, plus fin) -->
+  <div class="absolute inset-0 opacity-[0.02] sm:opacity-[0.025]" style="background-image: linear-gradient(#1D3557 1px, transparent 1px), linear-gradient(to right, #1D3557 1px, transparent 1px); background-size: 35px 35px;"></div>
+  <!-- Fondu haut et bas -->
+  <div class="absolute top-0 left-0 right-0 h-20 bg-gradient-to-b from-[#fafbfc] to-transparent"></div>
+  <div class="absolute bottom-0 left-0 right-0 h-20 bg-gradient-to-t from-[#fafbfc] to-transparent"></div>
 
   <div class="max-w-4xl mx-auto text-center relative">
     <!-- Badge urgence - plus compact sur mobile -->

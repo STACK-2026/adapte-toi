@@ -12,20 +12,20 @@ interface Props {
 const { title, description, date, slug, image, imageAlt, category } = Astro.props;
 ---
 
-<article class="group bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-  <a href={`/blog/${slug}`} class="block">
+<article class="group bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+  <a href={`/blog/${slug}`} class="flex sm:block items-start gap-3 sm:gap-0 p-3 sm:p-0">
     {image ? (
       <img
         src={image}
         alt={imageAlt || title}
-        class="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300"
+        class="w-20 h-20 sm:w-full sm:h-48 object-cover rounded-lg sm:rounded-none flex-shrink-0 group-hover:scale-105 transition-transform duration-300"
         loading="lazy"
         width="400"
         height="200"
       />
     ) : (
-      <div class="w-full h-48 bg-gradient-to-br from-secondary/5 to-primary/5 flex items-center justify-center">
-        <svg class="w-10 h-10 text-gray-300" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+      <div class="w-20 h-20 sm:w-full sm:h-48 bg-gradient-to-br from-secondary/5 to-primary/5 flex items-center justify-center rounded-lg sm:rounded-none flex-shrink-0">
+        <svg class="w-6 sm:w-10 h-6 sm:h-10 text-gray-300" viewBox="0 0 24 24" fill="none" aria-hidden="true">
           <rect class="signal-bar" x="2" y="16" width="4" height="6" rx="1" fill="currentColor" opacity="0.3"/>
           <rect class="signal-bar" x="8" y="10" width="4" height="12" rx="1" fill="currentColor" opacity="0.5"/>
           <rect class="signal-bar" x="14" y="6" width="4" height="16" rx="1" fill="currentColor" opacity="0.7"/>
@@ -33,17 +33,17 @@ const { title, description, date, slug, image, imageAlt, category } = Astro.prop
         </svg>
       </div>
     )}
-    <div class="p-6">
+    <div class="sm:p-5 flex-1 min-w-0">
       {category && (
-        <span class="text-xs font-medium text-primary uppercase tracking-wide">
+        <span class="text-[10px] sm:text-xs font-medium text-primary uppercase tracking-wide">
           {category}
         </span>
       )}
-      <h3 class="text-lg font-bold mt-1 mb-2 group-hover:text-primary transition-colors line-clamp-2">
+      <h3 class="text-sm sm:text-lg font-bold mt-0.5 sm:mt-1 mb-1 sm:mb-2 group-hover:text-primary transition-colors line-clamp-2">
         {title}
       </h3>
-      <p class="text-gray-600 text-sm line-clamp-3 mb-3">{description}</p>
-      <time class="text-xs text-gray-400" datetime={date.toISOString().split("T")[0]}>
+      <p class="text-gray-600 text-xs sm:text-sm line-clamp-2 sm:line-clamp-3 mb-1 sm:mb-3">{description}</p>
+      <time class="text-[10px] sm:text-xs text-gray-400" datetime={date.toISOString().split("T")[0]}>
         {date.toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" })}
       </time>
     </div>

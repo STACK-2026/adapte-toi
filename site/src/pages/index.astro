@@ -112,20 +112,20 @@ const recentPosts = (await getCollection("blog", ({ data }) => !data.draft))
 
   {/* 8. Blog preview */}
   {recentPosts.length > 0 && (
-    <section class="py-24 px-4">
+    <section class="py-16 sm:py-24 px-4">
       <div class="max-w-6xl mx-auto">
-        <div class="flex items-center justify-between mb-8 fade-up">
+        <div class="flex items-center justify-between mb-6 sm:mb-8 fade-up">
           <div>
-            <h2>
+            <h2 class="text-lg sm:text-2xl">
               <ScrambleText text={siteConfig.blog.name} trigger="scroll" class="font-display font-bold" />
             </h2>
-            <p class="text-gray-500 text-sm mt-1">Les derniers articles sur l'IA et l'emploi</p>
+            <p class="text-gray-500 text-xs sm:text-sm mt-1">Les derniers articles sur l'IA et l'emploi</p>
           </div>
-          <a href="/blog" class="text-primary font-semibold text-sm hover:underline hidden sm:inline">
-            Tous les articles &rarr;
+          <a href="/blog" class="text-primary font-semibold text-xs sm:text-sm hover:underline">
+            Tout voir &rarr;
           </a>
         </div>
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-4 sm:gap-8 stagger-children overflow-hidden">
+        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 sm:gap-8 stagger-children">
           {recentPosts.map((post) => (
             <BlogCard
               title={post.data.title}

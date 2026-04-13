@@ -18,7 +18,7 @@ const stats = [
     <div class="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 gap-3 sm:gap-6 stagger-children">
       {stats.map((stat) => (
         <button
-          class="stat-card text-center p-3 sm:p-6 md:p-8 rounded-lg sm:rounded-2xl bg-white border border-gray-100 shadow-sm hover-glow cursor-pointer transition-all"
+          class="stat-card text-center p-3 sm:p-6 md:p-8 rounded-lg sm:rounded-2xl bg-white border border-gray-100 shadow-sm hover-glow cursor-pointer transition-all active:scale-[0.97] group"
           data-detail={stat.detail}
         >
           <p class="font-display font-bold text-2xl sm:text-3xl md:text-5xl mb-0.5 sm:mb-2" style="color: var(--color-primary);" data-count={stat.value}>
@@ -26,9 +26,10 @@ const stats = [
           </p>
           <p class="text-gray-700 font-medium text-[11px] sm:text-sm mb-0.5 sm:mb-1 leading-tight">{stat.label}</p>
           <p class="text-[10px] sm:text-xs text-gray-400">{stat.source}</p>
-          <div class="expand-content mt-2 sm:mt-3 hidden sm:block" data-expand>
+          <p class="text-[9px] sm:text-[10px] text-primary/60 mt-1.5 group-hover:text-primary transition-colors">Voir le détail +</p>
+          <div class="expand-content mt-2 sm:mt-3" data-expand>
             <div>
-              <p class="text-xs text-gray-500 leading-relaxed pt-3 border-t border-gray-100">{stat.detail}</p>
+              <p class="text-[10px] sm:text-xs text-gray-500 leading-relaxed pt-2 sm:pt-3 border-t border-gray-100">{stat.detail}</p>
             </div>
           </div>
         </button>
