@@ -17,15 +17,14 @@ const fiches = (await getCollection("metiers", ({ data }) => !data.draft))
 
 // Upcoming fiches (not yet written)
 const upcoming = [
-  { name: "Enseignant / Formateur", risk: "faible" },
-  { name: "Agent immobilier", risk: "moyen" },
   { name: "Photographe / Vidéaste", risk: "eleve" },
   { name: "Data analyst", risk: "moyen" },
   { name: "Infirmier / Aide-soignant", risk: "faible" },
-  { name: "Chargé de clientèle / Support", risk: "tres-eleve" },
   { name: "Cuisinier / Restaurateur", risk: "faible" },
   { name: "Architecte", risk: "moyen" },
   { name: "Consultant / Auditeur", risk: "moyen" },
+  { name: "Plombier / Électricien", risk: "faible" },
+  { name: "Agriculteur", risk: "faible" },
 ];
 
 const riskColors: Record<string, { bg: string; text: string; label: string }> = {
