@@ -69,31 +69,36 @@ import { siteConfig } from "../../site.config";
     </button>
   </nav>
 
-  <!-- Mobile menu -->
-  <div id="mobile-menu" class="lg:hidden hidden border-t border-gray-100 bg-white">
-    <ul class="px-4 py-4 space-y-3">
-      {siteConfig.navLinks.map((link) => (
-        <li>
-          <a
-            href={link.href}
-            class="block text-gray-700 font-medium py-2"
-            {...(link.external ? { target: "_blank", rel: "noopener noreferrer" } : {})}
-          >
-            {link.label}
-          </a>
-        </li>
-      ))}
-      <li class="pt-2">
+  <!-- Mobile menu - flottant, glass, coins arrondis (style ScoreImmo) -->
+  <div id="mobile-menu" class="lg:hidden hidden fixed top-[calc(var(--header-h,88px))] left-3 right-3 z-50">
+    <div class="bg-white/95 backdrop-blur-xl rounded-2xl shadow-2xl border border-gray-200/60 overflow-hidden">
+      <ul class="px-2 py-3 space-y-0.5">
+        {siteConfig.navLinks.map((link) => (
+          <li>
+            <a
+              href={link.href}
+              class="flex items-center gap-3 text-gray-700 font-medium py-3 px-4 rounded-xl hover:bg-gray-50 active:bg-gray-100 transition-colors"
+              {...(link.external ? { target: "_blank", rel: "noopener noreferrer" } : {})}
+            >
+              {link.label}
+              <svg class="w-4 h-4 ml-auto text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+            </a>
+          </li>
+        ))}
+      </ul>
+      <div class="px-4 pb-4 pt-2">
         <a
           href="/newsletter"
-          class="block text-center text-white font-semibold py-3 rounded-lg"
-          style={`background: ${siteConfig.colors.primary};`}
+          class="block text-center text-white font-bold py-3.5 rounded-xl transition-all active:scale-[0.98]"
+          style={`background: ${siteConfig.colors.primary}; box-shadow: 0 2px 4px 0 rgba(255,255,255,0.3) inset;`}
         >
           S'abonner à la newsletter
         </a>
-      </li>
-    </ul>
+      </div>
+    </div>
   </div>
+  <!-- Backdrop overlay -->
+  <div id="mobile-menu-backdrop" class="lg:hidden hidden fixed inset-0 bg-black/20 backdrop-blur-sm z-40" style="top: var(--header-h, 88px);"></div>
 </header>
 
 <!-- Spacer for fixed header (alert bar + nav) -->
@@ -102,9 +107,24 @@ import { siteConfig } from "../../site.config";
 <script>
   const btn = document.getElementById("mobile-menu-btn");
   const menu = document.getElementById("mobile-menu");
-  btn?.addEventListener("click", () => {
+  const backdrop = document.getElementById("mobile-menu-backdrop");
+
+  function toggleMenu() {
     const open = menu?.classList.toggle("hidden") === false;
-    btn.setAttribute("aria-expanded", String(open));
+    backdrop?.classList.toggle("hidden", !open);
+    btn?.setAttribute("aria-expanded", String(open));
+  }
+
+  btn?.addEventListener("click", toggleMenu);
+  backdrop?.addEventListener("click", toggleMenu);
+
+  // Close menu on link click
+  menu?.querySelectorAll("a").forEach((link) => {
+    link.addEventListener("click", () => {
+      menu?.classList.add("hidden");
+      backdrop?.classList.add("hidden");
+      btn?.setAttribute("aria-expanded", "false");
+    });
   });
 
   let lastY = 0;
