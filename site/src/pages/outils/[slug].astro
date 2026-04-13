@@ -5,6 +5,7 @@ import { getCollection, render } from "astro:content";
 import { siteConfig } from "../../../site.config";
 import { fullUrl } from "../../utils/config";
 import { jsonLdArticle, jsonLdBreadcrumbs } from "../../utils/seo";
+import { affiliates } from "../../data/affiliates";
 
 export async function getStaticPaths() {
   const outils = await getCollection("outils", ({ data }) => !data.draft);
@@ -16,6 +17,8 @@ export async function getStaticPaths() {
 
 const { outil } = Astro.props;
 const { Content } = await render(outil);
+
+const aff = affiliates[outil.id];
 
 const outilUrl = fullUrl(`/outils/${outil.id}`);
 const dateStr = outil.data.date.toISOString().split("T")[0];
@@ -72,6 +75,25 @@ const jsonLd = [
     <div class="prose max-w-none">
       <Content />
     </div>
+
+    <!-- CTA affilié -->
+    {aff && (
+      <div class="mt-10 p-5 sm:p-6 rounded-2xl text-center" style={`background: linear-gradient(135deg, ${siteConfig.colors.primary}08, ${siteConfig.colors.accent}08);`}>
+        <p class="font-bold text-base sm:text-lg mb-2">{outil.data.outil}</p>
+        {aff.note && <p class="text-gray-500 text-sm mb-4">{aff.note}</p>}
+        <a
+          href={aff.url}
+          target="_blank"
+          rel="noopener noreferrer sponsored"
+          class="inline-flex items-center gap-2 text-white font-bold px-6 sm:px-8 py-3 sm:py-3.5 rounded-full text-sm sm:text-base transition-all hover:scale-[1.03] active:scale-[0.98]"
+          style={`background: ${siteConfig.colors.primary}; box-shadow: 0 2px 4px 0 rgba(255,255,255,0.3) inset, 0 4px 12px -2px rgba(230,57,70,0.3);`}
+        >
+          {aff.cta}
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" /></svg>
+        </a>
+        <p class="text-[10px] text-gray-400 mt-3">Lien affilié : si tu t'inscris via ce lien, Adapte-toi perçoit une commission. Ça ne change ni le prix ni notre avis.</p>
+      </div>
+    )}
 
     <!-- Maillage interne -->
     <div class="mt-12 p-5 sm:p-6 bg-gray-50 rounded-2xl">
