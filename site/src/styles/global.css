@@ -17,8 +17,9 @@
 html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #ffffff; /* FIX iOS: html bg visible au-dessus du viewport */
-  overscroll-behavior-y: none; /* FIX iOS: empêche le rubber band bounce */
+  background-color: #ffffff;
+  overscroll-behavior-y: none;
+  overflow-x: clip;
 }
 
 body {
