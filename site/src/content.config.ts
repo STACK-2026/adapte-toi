@@ -28,4 +28,23 @@ const pages = defineCollection({
   }),
 });
 
-export const collections = { blog, pages };
+const metiers = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: "./src/content/metiers" }),
+  schema: z.object({
+    title: z.string(),
+    description: z.string().max(160),
+    metier: z.string(),
+    riskScore: z.number().min(1).max(10),
+    riskLevel: z.enum(["faible", "moyen", "eleve", "tres-eleve"]),
+    sector: z.string(),
+    date: z.coerce.date(),
+    lastReviewed: z.coerce.date().optional(),
+    author: z.string().optional(),
+    image: z.string().optional(),
+    imageAlt: z.string().optional(),
+    keywords: z.string().optional(),
+    draft: z.boolean().default(false),
+  }),
+});
+
+export const collections = { blog, pages, metiers };

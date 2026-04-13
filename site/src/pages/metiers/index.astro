@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import { getCollection } from "astro:content";
 import { siteConfig } from "../../../site.config";
 import { fullUrl } from "../../utils/config";
 import { jsonLdBreadcrumbs } from "../../utils/seo";
@@ -10,23 +11,24 @@ const breadcrumbs = [
   { name: "Fiches metier", url: fullUrl("/metiers") },
 ];
 
-// Fiches metier a creer (Phase 1 - les 30 plus impactes)
-const metiers = [
-  { slug: "comptable-ia", name: "Comptable", risk: "eleve", icon: "calculator" },
-  { slug: "chef-de-projet-ia", name: "Chef de projet", risk: "eleve", icon: "clipboard" },
-  { slug: "commercial-ia", name: "Commercial", risk: "moyen", icon: "phone" },
-  { slug: "rh-ia", name: "Responsable RH", risk: "moyen", icon: "users" },
-  { slug: "marketing-ia", name: "Responsable marketing", risk: "eleve", icon: "megaphone" },
-  { slug: "avocat-ia", name: "Avocat", risk: "moyen", icon: "scale" },
-  { slug: "developpeur-ia", name: "Developpeur", risk: "moyen", icon: "code" },
-  { slug: "journaliste-ia", name: "Journaliste", risk: "eleve", icon: "pen" },
-  { slug: "graphiste-ia", name: "Graphiste / Designer", risk: "eleve", icon: "palette" },
-  { slug: "traducteur-ia", name: "Traducteur", risk: "tres-eleve", icon: "globe" },
-  { slug: "assistant-administratif-ia", name: "Assistant administratif", risk: "tres-eleve", icon: "folder" },
-  { slug: "enseignant-ia", name: "Enseignant", risk: "faible", icon: "book" },
-  { slug: "architecte-ia", name: "Architecte", risk: "moyen", icon: "building" },
-  { slug: "agent-immobilier-ia", name: "Agent immobilier", risk: "moyen", icon: "home" },
-  { slug: "photographe-ia", name: "Photographe", risk: "eleve", icon: "camera" },
+// Published fiches
+const fiches = (await getCollection("metiers", ({ data }) => !data.draft))
+  .sort((a, b) => b.data.riskScore - a.data.riskScore);
+
+// Upcoming fiches (not yet written)
+const upcoming = [
+  { name: "Chef de projet", risk: "eleve" },
+  { name: "Commercial", risk: "moyen" },
+  { name: "Responsable RH", risk: "moyen" },
+  { name: "Responsable marketing", risk: "eleve" },
+  { name: "Avocat", risk: "moyen" },
+  { name: "Developpeur", risk: "moyen" },
+  { name: "Journaliste", risk: "eleve" },
+  { name: "Assistant administratif", risk: "tres-eleve" },
+  { name: "Enseignant", risk: "faible" },
+  { name: "Architecte", risk: "moyen" },
+  { name: "Agent immobilier", risk: "moyen" },
+  { name: "Photographe", risk: "eleve" },
 ];
 
 const riskColors: Record<string, { bg: string; text: string; label: string }> = {
@@ -50,26 +52,57 @@ const riskColors: Record<string, { bg: string; text: string; label: string }> = 
       Pour chaque metier : l'etat des lieux de l'impact de l'IA, ce qui change concretement, les competences a acquerir, les outils a maitriser, et un plan d'action. Sources : Anthropic, OCDE, McKinsey, France Travail.
     </p>
 
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-      {metiers.map((metier) => {
-        const risk = riskColors[metier.risk];
-        return (
-          <div class="bg-white rounded-2xl p-6 border border-gray-100 shadow-sm hover:shadow-md transition-shadow">
-            <div class="flex items-center justify-between mb-3">
-              <h3 class="font-bold text-lg">{metier.name}</h3>
-              <span class={`text-xs font-medium px-2.5 py-1 rounded-full ${risk.bg} ${risk.text}`}>
-                {risk.label}
-              </span>
+    {/* Published fiches */}
+    {fiches.length > 0 && (
+      <div class="mb-12">
+        <h2 class="text-xl font-bold mb-6">Fiches disponibles</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          {fiches.map((fiche) => {
+            const risk = riskColors[fiche.data.riskLevel];
+            return (
+              <a href={`/metiers/${fiche.id}`} class="block bg-white rounded-2xl p-6 border border-gray-100 shadow-sm hover:shadow-md transition-all hover:-translate-y-1">
+                <div class="flex items-center justify-between mb-3">
+                  <h3 class="font-bold text-lg">{fiche.data.metier}</h3>
+                  <span class={`text-xs font-medium px-2.5 py-1 rounded-full ${risk.bg} ${risk.text}`}>
+                    {fiche.data.riskScore}/10
+                  </span>
+                </div>
+                <p class="text-gray-500 text-sm mb-3 line-clamp-2">{fiche.data.description}</p>
+                <div class="flex items-center gap-2">
+                  <div class="flex-1 bg-gray-200 rounded-full h-2">
+                    <div
+                      class="h-2 rounded-full"
+                      style={`width: ${fiche.data.riskScore * 10}%; background: ${fiche.data.riskScore >= 7 ? '#ef4444' : fiche.data.riskScore >= 5 ? '#f59e0b' : '#22c55e'};`}
+                    ></div>
+                  </div>
+                  <span class="text-xs text-primary font-semibold">Lire &rarr;</span>
+                </div>
+              </a>
+            );
+          })}
+        </div>
+      </div>
+    )}
+
+    {/* Upcoming fiches */}
+    <div>
+      <h2 class="text-xl font-bold mb-6">Bientot disponibles</h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {upcoming.map((metier) => {
+          const risk = riskColors[metier.risk];
+          return (
+            <div class="bg-white rounded-2xl p-6 border border-gray-100 shadow-sm opacity-70">
+              <div class="flex items-center justify-between mb-3">
+                <h3 class="font-bold text-lg">{metier.name}</h3>
+                <span class={`text-xs font-medium px-2.5 py-1 rounded-full ${risk.bg} ${risk.text}`}>
+                  {risk.label}
+                </span>
+              </div>
+              <p class="text-gray-400 text-sm italic">Fiche en preparation</p>
             </div>
-            <p class="text-gray-500 text-sm mb-4">
-              Fiche complete : impact IA, competences, outils, plan d'action.
-            </p>
-            <span class="text-gray-400 text-sm italic">
-              Bientot disponible
-            </span>
-          </div>
-        );
-      })}
+          );
+        })}
+      </div>
     </div>
 
     <div class="text-center mt-12 p-8 bg-gray-50 rounded-2xl">

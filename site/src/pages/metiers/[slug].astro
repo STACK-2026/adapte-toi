@@ -1,0 +1,130 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import { getCollection, render } from "astro:content";
+import { siteConfig } from "../../../site.config";
+import { fullUrl } from "../../utils/config";
+import { jsonLdArticle, jsonLdBreadcrumbs } from "../../utils/seo";
+
+export async function getStaticPaths() {
+  const fiches = await getCollection("metiers", ({ data }) => !data.draft);
+  return fiches.map((fiche) => ({
+    params: { slug: fiche.id },
+    props: { fiche },
+  }));
+}
+
+const { fiche } = Astro.props;
+const { Content } = await render(fiche);
+
+const ficheUrl = fullUrl(`/metiers/${fiche.id}`);
+const dateStr = fiche.data.date.toISOString().split("T")[0];
+
+const breadcrumbs = [
+  { name: "Accueil", url: siteConfig.url },
+  { name: "Fiches metier", url: fullUrl("/metiers") },
+  { name: fiche.data.metier, url: ficheUrl },
+];
+
+const riskColors: Record<string, { bg: string; text: string; label: string }> = {
+  "tres-eleve": { bg: "bg-red-100", text: "text-red-700", label: "Risque tres eleve" },
+  "eleve": { bg: "bg-orange-100", text: "text-orange-700", label: "Risque eleve" },
+  "moyen": { bg: "bg-yellow-100", text: "text-yellow-700", label: "Risque moyen" },
+  "faible": { bg: "bg-green-100", text: "text-green-700", label: "Risque faible" },
+};
+
+const risk = riskColors[fiche.data.riskLevel];
+
+const jsonLd = [
+  jsonLdArticle({
+    title: fiche.data.title,
+    description: fiche.data.description,
+    url: ficheUrl,
+    datePublished: dateStr,
+    author: fiche.data.author || siteConfig.blog.defaultAuthor,
+    keywords: fiche.data.keywords?.split(",").map((k: string) => k.trim()),
+  }),
+  jsonLdBreadcrumbs(breadcrumbs),
+];
+---
+
+<BaseLayout
+  title={`${fiche.data.title} | ${siteConfig.name}`}
+  description={fiche.data.description}
+  canonicalUrl={ficheUrl}
+  ogImage={fiche.data.image}
+  ogType="article"
+  publishedTime={dateStr}
+  jsonLd={jsonLd}
+>
+  <article class="max-w-3xl mx-auto px-4 py-12">
+    <Breadcrumbs items={breadcrumbs} />
+
+    <header class="mb-10">
+      <div class="flex items-center gap-3 mb-4">
+        <span class="text-xs font-medium text-gray-500 uppercase tracking-wide">{fiche.data.sector}</span>
+        <span class={`text-xs font-medium px-2.5 py-1 rounded-full ${risk.bg} ${risk.text}`}>
+          {risk.label}
+        </span>
+      </div>
+      <h1 class="mb-4">{fiche.data.title}</h1>
+
+      <!-- Risk score visual -->
+      <div class="flex items-center gap-4 mb-6 p-4 bg-gray-50 rounded-xl">
+        <div class="text-center">
+          <div class="font-display font-bold text-4xl" style={`color: var(--color-primary);`}>{fiche.data.riskScore}/10</div>
+          <div class="text-xs text-gray-500 mt-1">Score d'impact IA</div>
+        </div>
+        <div class="flex-1">
+          <div class="w-full bg-gray-200 rounded-full h-3">
+            <div
+              class="h-3 rounded-full transition-all"
+              style={`width: ${fiche.data.riskScore * 10}%; background: ${fiche.data.riskScore >= 7 ? '#ef4444' : fiche.data.riskScore >= 5 ? '#f59e0b' : '#22c55e'};`}
+            ></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="flex flex-wrap items-center gap-4 text-gray-500 text-sm">
+        <span>{fiche.data.author || siteConfig.blog.defaultAuthor}</span>
+        <span>·</span>
+        <time datetime={dateStr}>
+          {fiche.data.date.toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" })}
+        </time>
+        {fiche.data.lastReviewed && (
+          <>
+            <span>·</span>
+            <span>Revu le {fiche.data.lastReviewed.toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" })}</span>
+          </>
+        )}
+      </div>
+    </header>
+
+    {fiche.data.image && (
+      <figure class="mb-10">
+        <img
+          src={fiche.data.image}
+          alt={fiche.data.imageAlt || fiche.data.title}
+          class="w-full rounded-xl"
+          loading="eager"
+          width="800"
+          height="450"
+        />
+      </figure>
+    )}
+
+    <div class="prose max-w-none">
+      <Content />
+    </div>
+
+    <!-- CTA bas de fiche -->
+    <div class="mt-12 p-6 bg-gray-50 rounded-2xl text-center">
+      <p class="font-bold text-lg mb-2">Ton metier est impacte ?</p>
+      <p class="text-gray-600 text-sm mb-4">Consulte nos guides de reconversion et nos fiches outils pour passer a l'action.</p>
+      <div class="flex flex-col sm:flex-row gap-3 justify-center">
+        <a href="/guides" class="text-primary font-semibold hover:underline">Guides de reconversion &rarr;</a>
+        <a href="/outils" class="text-primary font-semibold hover:underline">Outils IA par metier &rarr;</a>
+      </div>
+    </div>
+  </article>
+</BaseLayout>
