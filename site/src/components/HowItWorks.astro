@@ -8,6 +8,7 @@ const steps = [
     description: "Consulte la fiche de ton métier pour comprendre comment l'IA l'impacte concrètement. Pas de panique, juste des faits.",
     link: "/metiers",
     cta: "Explorer les métiers",
+    color: siteConfig.colors.primary,
   },
   {
     num: "02",
@@ -15,6 +16,7 @@ const steps = [
     description: "Nos guides te montrent exactement quelles compétences acquérir, quels outils maîtriser, et comment financer ta formation.",
     link: "/guides",
     cta: "Lire les guides",
+    color: siteConfig.colors.accent,
   },
   {
     num: "03",
@@ -22,36 +24,41 @@ const steps = [
     description: "Outils IA par métier, témoignages de reconvertis, plans d'action concrets. Tu as tout ce qu'il faut pour bouger.",
     link: "/outils",
     cta: "Découvrir les outils",
+    color: siteConfig.colors.secondary,
   },
 ];
 ---
 
-<section class="py-20 px-4">
+<section class="py-24 px-4">
   <div class="max-w-5xl mx-auto">
-    <h2 class="text-center mb-4 fade-up">Comment ça marche</h2>
-    <p class="text-center text-gray-500 mb-16 max-w-xl mx-auto fade-up">
-      Trois étapes pour reprendre le controle de ta carrière.
+    <h2 class="text-center mb-4 blur-reveal">Comment ça marche</h2>
+    <p class="text-center text-gray-500 mb-16 max-w-xl mx-auto blur-reveal">
+      Trois étapes pour reprendre le contrôle de ta carrière.
     </p>
 
-    <div class="space-y-12">
+    <div class="space-y-16">
       {steps.map((step, i) => (
-        <div class={`flex flex-col md:flex-row items-start gap-8 fade-up ${i % 2 === 1 ? "md:flex-row-reverse" : ""}`}>
+        <div class={`flex flex-col md:flex-row items-center gap-10 ${i % 2 === 1 ? "md:flex-row-reverse" : ""} ${i % 2 === 0 ? "slide-left" : "slide-right"}`}>
           <div class="flex-shrink-0">
             <div
-              class="w-16 h-16 rounded-2xl flex items-center justify-center font-display font-bold text-2xl text-white"
-              style={`background: ${i === 0 ? siteConfig.colors.primary : i === 1 ? siteConfig.colors.accent : siteConfig.colors.secondary};`}
+              class="w-20 h-20 rounded-2xl flex items-center justify-center font-display font-bold text-3xl text-white shadow-lg"
+              style={`background: ${step.color};`}
             >
               {step.num}
             </div>
           </div>
-          <div class="flex-1">
-            <h3 class="text-xl font-bold mb-2">{step.title}</h3>
-            <p class="text-gray-600 mb-4">{step.description}</p>
+          <div class="flex-1 text-center md:text-left">
+            <h3 class="text-2xl font-bold mb-3">{step.title}</h3>
+            <p class="text-gray-600 text-lg mb-5 leading-relaxed">{step.description}</p>
             <a
               href={step.link}
-              class="text-primary font-semibold text-sm hover:underline"
+              class="inline-flex items-center gap-2 font-semibold hover:gap-3 transition-all"
+              style={`color: ${step.color};`}
             >
-              {step.cta} &rarr;
+              {step.cta}
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6" />
+              </svg>
             </a>
           </div>
         </div>

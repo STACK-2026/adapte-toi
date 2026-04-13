@@ -2,53 +2,55 @@
 import { siteConfig } from "../../site.config";
 ---
 
-<section class="relative overflow-hidden py-20 md:py-28 px-4">
-  <!-- Subtle grid background -->
-  <div class="absolute inset-0 opacity-[0.03]" style="background-image: linear-gradient(#1D3557 1px, transparent 1px), linear-gradient(to right, #1D3557 1px, transparent 1px); background-size: 40px 40px;"></div>
+<section class="relative overflow-hidden py-24 md:py-36 px-4">
+  <!-- Animated gradient background -->
+  <div class="absolute inset-0 gradient-animated opacity-[0.04]" style="background: linear-gradient(135deg, #E63946, #F77F00, #1D3557, #E63946);"></div>
+  <!-- Subtle grid -->
+  <div class="absolute inset-0 opacity-[0.025]" style="background-image: linear-gradient(#1D3557 1px, transparent 1px), linear-gradient(to right, #1D3557 1px, transparent 1px); background-size: 50px 50px;"></div>
 
   <div class="max-w-4xl mx-auto text-center relative">
     <!-- Badge urgence -->
-    <div class="inline-flex items-center gap-2 bg-primary/10 text-primary text-sm font-semibold px-4 py-1.5 rounded-full mb-8 fade-up">
+    <div class="inline-flex items-center gap-2 bg-primary/8 text-primary text-sm font-semibold px-4 py-1.5 rounded-full mb-10 scale-reveal">
       <span class="w-2 h-2 bg-primary rounded-full pulse-signal"></span>
       47% des actifs français envisagent une reconversion (Ipsos 2026)
     </div>
 
-    <h1 class="mb-6 fade-up" data-speakable>
-      Le monde du travail change.
-      <br />
-      <span style={`color: ${siteConfig.colors.primary};`}>Toi aussi, tu dois changer.</span>
+    <!-- H1 with split words animation -->
+    <h1 class="mb-8" data-speakable>
+      <span data-split-words class="block">Le monde du travail change.</span>
+      <span data-split-words class="block mt-2" style={`color: ${siteConfig.colors.primary};`}>Toi aussi, tu dois changer.</span>
     </h1>
 
-    <p class="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto mb-10 fade-up" data-speakable>
-      L'IA transforme chaque métier. Certains disparaissent, d'autres se reinventent, de nouveaux emergent. Adapte-toi t'aide à comprendre ce qui se passe, et surtout a agir.
+    <p class="text-lg md:text-xl text-gray-500 max-w-2xl mx-auto mb-12 blur-reveal leading-relaxed" data-speakable>
+      L'IA transforme chaque métier. Certains disparaissent, d'autres se réinventent, de nouveaux émergent. Adapte-toi t'aide à comprendre ce qui se passe, et surtout à agir.
     </p>
 
     <div class="flex flex-col sm:flex-row gap-4 justify-center fade-up">
       <a
         href="/metiers"
-        class="inline-flex items-center justify-center gap-2 text-white font-semibold px-8 py-4 rounded-xl text-lg transition-all hover:scale-105 hover:shadow-lg"
+        class="inline-flex items-center justify-center gap-2 text-white font-semibold px-8 py-4 rounded-xl text-lg transition-all hover:scale-[1.03] hover:shadow-xl active:scale-[0.98]"
         style={`background: ${siteConfig.colors.primary};`}
       >
-        Mon métier est-il menace ?
+        Mon métier est-il menacé ?
         <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6" />
         </svg>
       </a>
       <a
         href="/guides"
-        class="inline-flex items-center justify-center gap-2 text-gray-700 font-semibold px-8 py-4 rounded-xl text-lg border-2 border-gray-200 hover:border-primary/30 hover:text-primary transition-all"
+        class="inline-flex items-center justify-center gap-2 text-gray-700 font-semibold px-8 py-4 rounded-xl text-lg border-2 border-gray-200 hover:border-primary/30 hover:text-primary transition-all active:scale-[0.98]"
       >
         Guides de reconversion
       </a>
     </div>
 
-    <!-- Trust indicators -->
-    <div class="flex flex-wrap justify-center gap-6 mt-12 text-sm text-gray-400 fade-up">
+    <!-- Trust indicators with parallax -->
+    <div class="flex flex-wrap justify-center gap-6 mt-14 text-sm text-gray-400 fade-up" data-parallax="0.03">
       <span>Sources : OCDE, McKinsey, Anthropic, FMI</span>
       <span>·</span>
       <span>100% indépendant</span>
       <span>·</span>
-      <span>Zero formation à vendre</span>
+      <span>Zéro formation à vendre</span>
     </div>
   </div>
 </section>

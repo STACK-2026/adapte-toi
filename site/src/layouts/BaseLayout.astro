@@ -91,20 +91,89 @@ const jsonLdArray = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
     <CookieBanner />
     <Analytics />
 
-    <!-- Fade-up observer -->
+    <!-- Animation engine -->
     <script>
-      const observer = new IntersectionObserver(
+      // 1. Intersection Observer for all reveal animations
+      const revealObserver = new IntersectionObserver(
         (entries) => {
           entries.forEach((entry) => {
             if (entry.isIntersecting) {
               entry.target.classList.add("visible");
-              observer.unobserve(entry.target);
+              revealObserver.unobserve(entry.target);
             }
           });
         },
-        { threshold: 0.1 }
+        { threshold: 0.08, rootMargin: "0px 0px -40px 0px" }
       );
-      document.querySelectorAll(".fade-up, .stagger-children").forEach((el) => observer.observe(el));
+      document.querySelectorAll(
+        ".fade-up, .blur-reveal, .scale-reveal, .clip-reveal, .slide-left, .slide-right, .stagger-children, .split-words"
+      ).forEach((el) => revealObserver.observe(el));
+
+      // 2. Split text into words (wrap each word in a span.word)
+      document.querySelectorAll("[data-split-words]").forEach((el) => {
+        const text = el.textContent || "";
+        el.innerHTML = text
+          .split(/\s+/)
+          .map((word, i) => `<span class="word" style="transition-delay:${i * 50}ms">${word}</span>`)
+          .join(" ");
+        el.classList.add("split-words");
+        revealObserver.observe(el);
+      });
+
+      // 3. Counter animation (animate numbers from 0)
+      const counterObserver = new IntersectionObserver(
+        (entries) => {
+          entries.forEach((entry) => {
+            if (entry.isIntersecting) {
+              const el = entry.target as HTMLElement;
+              const target = el.dataset.count || el.textContent || "0";
+              const match = target.match(/([+-]?)(\d+)/);
+              if (!match) return;
+              const prefix = target.replace(/[0-9]/g, "").replace(/(\d)/g, "");
+              const sign = match[1];
+              const num = parseInt(match[2]);
+              const suffix = target.replace(/^[+-]?\d+/, "");
+              const pre = target.replace(/\d+.*$/, "");
+              let start = 0;
+              const duration = 1500;
+              const startTime = performance.now();
+              function tick(now: number) {
+                const elapsed = now - startTime;
+                const progress = Math.min(elapsed / duration, 1);
+                const eased = 1 - Math.pow(1 - progress, 4);
+                const current = Math.round(eased * num);
+                el.textContent = `${pre}${current}${suffix}`;
+                if (progress < 1) requestAnimationFrame(tick);
+              }
+              requestAnimationFrame(tick);
+              counterObserver.unobserve(el);
+            }
+          });
+        },
+        { threshold: 0.3 }
+      );
+      document.querySelectorAll("[data-count]").forEach((el) => counterObserver.observe(el));
+
+      // 4. Parallax on scroll (subtle, performance-safe)
+      const parallaxEls = document.querySelectorAll("[data-parallax]");
+      if (parallaxEls.length > 0) {
+        let ticking = false;
+        window.addEventListener("scroll", () => {
+          if (!ticking) {
+            requestAnimationFrame(() => {
+              const scrollY = window.scrollY;
+              parallaxEls.forEach((el) => {
+                const speed = parseFloat((el as HTMLElement).dataset.parallax || "0.1");
+                const rect = el.getBoundingClientRect();
+                const offset = (rect.top + scrollY - window.innerHeight / 2) * speed;
+                (el as HTMLElement).style.transform = `translateY(${offset}px)`;
+              });
+              ticking = false;
+            });
+            ticking = true;
+          }
+        }, { passive: true });
+      }
     </script>
   </body>
 </html>

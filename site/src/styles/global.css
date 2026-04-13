@@ -9,12 +9,14 @@
   --color-text: #1a1a2e;
   --font-display: "Space Grotesk", system-ui, sans-serif;
   --font-body: "DM Sans", system-ui, sans-serif;
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-out-quart: cubic-bezier(0.25, 1, 0.5, 1);
 }
 
 /* === Base === */
 html {
-  scroll-behavior: smooth;
   -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 body {
@@ -22,285 +24,249 @@ body {
   color: var(--color-text);
   background: var(--color-bg);
   line-height: 1.7;
+  overflow-x: hidden;
 }
 
 /* === Typography === */
-h1,
-h2,
-h3,
-h4 {
+h1, h2, h3, h4 {
   font-family: var(--font-display);
   font-weight: 700;
-  line-height: 1.15;
-  letter-spacing: -0.025em;
+  line-height: 1.1;
+  letter-spacing: -0.03em;
 }
 
-h1 {
-  font-size: clamp(2rem, 5vw, 3.5rem);
-}
-h2 {
-  font-size: clamp(1.5rem, 3vw, 2.25rem);
-}
-h3 {
-  font-size: clamp(1.25rem, 2.5vw, 1.75rem);
-}
+h1 { font-size: clamp(2.2rem, 6vw, 4rem); }
+h2 { font-size: clamp(1.6rem, 3.5vw, 2.5rem); }
+h3 { font-size: clamp(1.25rem, 2.5vw, 1.75rem); }
 
 /* === Blog article prose === */
-.prose h2 {
-  margin-top: 2.5rem;
-  margin-bottom: 1rem;
-  color: var(--color-secondary);
-}
+.prose h2 { margin-top: 2.5rem; margin-bottom: 1rem; color: var(--color-secondary); }
+.prose h3 { margin-top: 2rem; margin-bottom: 0.75rem; }
+.prose p { margin-bottom: 1.25rem; }
+.prose a { color: var(--color-primary); text-decoration: underline; text-underline-offset: 2px; }
+.prose a:hover { color: var(--color-secondary); }
+.prose img { border-radius: 0.75rem; margin: 2rem auto; }
+.prose blockquote { border-left: 4px solid var(--color-accent); padding-left: 1.5rem; margin: 1.5rem 0; font-style: italic; color: #4b5563; }
+.prose ul, .prose ol { padding-left: 1.5rem; margin-bottom: 1.25rem; }
+.prose li { margin-bottom: 0.5rem; }
+.prose table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; }
+.prose th, .prose td { border: 1px solid #e5e7eb; padding: 0.75rem 1rem; text-align: left; }
+.prose th { background: #f9fafb; font-weight: 600; }
 
-.prose h3 {
-  margin-top: 2rem;
-  margin-bottom: 0.75rem;
-}
+/* ============================================
+   ANIMATIONS - Modern scroll-driven effects
+   ============================================ */
 
-.prose p {
-  margin-bottom: 1.25rem;
-}
-
-.prose a {
-  color: var(--color-primary);
-  text-decoration: underline;
-  text-underline-offset: 2px;
-}
-
-.prose a:hover {
-  color: var(--color-secondary);
-}
-
-.prose img {
-  border-radius: 0.75rem;
-  margin: 2rem auto;
-}
-
-.prose blockquote {
-  border-left: 4px solid var(--color-accent);
-  padding-left: 1.5rem;
-  margin: 1.5rem 0;
-  font-style: italic;
-  color: #4b5563;
-}
-
-.prose ul,
-.prose ol {
-  padding-left: 1.5rem;
-  margin-bottom: 1.25rem;
-}
-
-.prose li {
-  margin-bottom: 0.5rem;
-}
-
-.prose table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 1.5rem 0;
-}
-
-.prose th,
-.prose td {
-  border: 1px solid #e5e7eb;
-  padding: 0.75rem 1rem;
-  text-align: left;
-}
-
-.prose th {
-  background: #f9fafb;
-  font-weight: 600;
-}
-
-/* === Micro-interactions === */
-
-/* Pulse animation for urgency signals */
-@keyframes pulse-signal {
-  0%,
-  100% {
-    opacity: 1;
-  }
-  50% {
-    opacity: 0.6;
-  }
-}
-
-.pulse-signal {
-  animation: pulse-signal 2s ease-in-out infinite;
-}
-
-/* Alert bar slide-in */
-@keyframes slide-in-top {
-  from {
-    transform: translateY(-100%);
-    opacity: 0;
-  }
-  to {
-    transform: translateY(0);
-    opacity: 1;
-  }
-}
-
-.slide-in-top {
-  animation: slide-in-top 0.5s ease-out;
-}
-
-/* Counter number animation */
-@keyframes count-up {
-  from {
-    opacity: 0;
-    transform: translateY(10px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-/* Fade up on scroll (used with IntersectionObserver) */
+/* --- Fade up (base reveal) --- */
 .fade-up {
   opacity: 0;
-  transform: translateY(32px);
-  transition: opacity 0.7s cubic-bezier(0.16, 1, 0.3, 1), transform 0.7s cubic-bezier(0.16, 1, 0.3, 1);
+  transform: translateY(40px);
+  transition: opacity 0.8s var(--ease-out-expo), transform 0.8s var(--ease-out-expo);
 }
-
 .fade-up.visible {
   opacity: 1;
   transform: translateY(0);
 }
 
-/* Stagger children animation */
-.stagger-children > * {
+/* --- Blur reveal (text comes into focus) --- */
+.blur-reveal {
   opacity: 0;
+  filter: blur(10px);
   transform: translateY(20px);
-  transition: opacity 0.5s cubic-bezier(0.16, 1, 0.3, 1), transform 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+  transition: opacity 0.9s var(--ease-out-expo), filter 0.9s var(--ease-out-expo), transform 0.9s var(--ease-out-expo);
+}
+.blur-reveal.visible {
+  opacity: 1;
+  filter: blur(0);
+  transform: translateY(0);
 }
 
-.stagger-children.visible > *:nth-child(1) { transition-delay: 0ms; opacity: 1; transform: translateY(0); }
-.stagger-children.visible > *:nth-child(2) { transition-delay: 80ms; opacity: 1; transform: translateY(0); }
-.stagger-children.visible > *:nth-child(3) { transition-delay: 160ms; opacity: 1; transform: translateY(0); }
-.stagger-children.visible > *:nth-child(4) { transition-delay: 240ms; opacity: 1; transform: translateY(0); }
-.stagger-children.visible > *:nth-child(5) { transition-delay: 320ms; opacity: 1; transform: translateY(0); }
-.stagger-children.visible > *:nth-child(6) { transition-delay: 400ms; opacity: 1; transform: translateY(0); }
+/* --- Scale reveal (zoom in from small) --- */
+.scale-reveal {
+  opacity: 0;
+  transform: scale(0.92);
+  transition: opacity 0.7s var(--ease-out-expo), transform 0.7s var(--ease-out-expo);
+}
+.scale-reveal.visible {
+  opacity: 1;
+  transform: scale(1);
+}
 
-/* Shine hover effect (Stripe-inspired) */
+/* --- Clip reveal (slides up from behind a mask) --- */
+.clip-reveal {
+  clip-path: inset(100% 0 0 0);
+  transition: clip-path 0.8s var(--ease-out-expo);
+}
+.clip-reveal.visible {
+  clip-path: inset(0 0 0 0);
+}
+
+/* --- Slide in from left --- */
+.slide-left {
+  opacity: 0;
+  transform: translateX(-60px);
+  transition: opacity 0.7s var(--ease-out-expo), transform 0.7s var(--ease-out-expo);
+}
+.slide-left.visible {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+/* --- Slide in from right --- */
+.slide-right {
+  opacity: 0;
+  transform: translateX(60px);
+  transition: opacity 0.7s var(--ease-out-expo), transform 0.7s var(--ease-out-expo);
+}
+.slide-right.visible {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+/* --- Stagger children (sequential entrance) --- */
+.stagger-children > * {
+  opacity: 0;
+  transform: translateY(24px);
+  transition: opacity 0.6s var(--ease-out-expo), transform 0.6s var(--ease-out-expo);
+}
+.stagger-children.visible > *:nth-child(1) { transition-delay: 0ms; opacity: 1; transform: translateY(0); }
+.stagger-children.visible > *:nth-child(2) { transition-delay: 100ms; opacity: 1; transform: translateY(0); }
+.stagger-children.visible > *:nth-child(3) { transition-delay: 200ms; opacity: 1; transform: translateY(0); }
+.stagger-children.visible > *:nth-child(4) { transition-delay: 300ms; opacity: 1; transform: translateY(0); }
+.stagger-children.visible > *:nth-child(5) { transition-delay: 400ms; opacity: 1; transform: translateY(0); }
+.stagger-children.visible > *:nth-child(6) { transition-delay: 500ms; opacity: 1; transform: translateY(0); }
+
+/* --- Split text word-by-word reveal --- */
+.split-words > .word {
+  display: inline-block;
+  opacity: 0;
+  transform: translateY(100%);
+  transition: opacity 0.5s var(--ease-out-expo), transform 0.5s var(--ease-out-expo);
+}
+.split-words.visible > .word {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* --- Animated gradient background (hero) --- */
+@keyframes gradient-shift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.gradient-animated {
+  background-size: 200% 200%;
+  animation: gradient-shift 8s ease infinite;
+}
+
+/* --- Pulse signal (brand) --- */
+@keyframes pulse-signal {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.5; transform: scale(1.2); }
+}
+.pulse-signal {
+  animation: pulse-signal 2s ease-in-out infinite;
+}
+
+/* --- Signal bars (brand signature) --- */
+@keyframes signal-bars {
+  0% { transform: scaleY(0.3); }
+  50% { transform: scaleY(1); }
+  100% { transform: scaleY(0.3); }
+}
+.signal-bar { transform-origin: bottom; animation: signal-bars 1.2s ease-in-out infinite; }
+.signal-bar:nth-child(2) { animation-delay: 0.15s; }
+.signal-bar:nth-child(3) { animation-delay: 0.3s; }
+.signal-bar:nth-child(4) { animation-delay: 0.45s; }
+
+/* --- Alert bar slide-in --- */
+@keyframes slide-in-top {
+  from { transform: translateY(-100%); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+.slide-in-top { animation: slide-in-top 0.6s var(--ease-out-expo); }
+
+/* --- Hover effects --- */
+
+/* Shine sweep (Stripe-style) */
 .hover-shine {
   position: relative;
   overflow: hidden;
 }
-
 .hover-shine::after {
   content: "";
   position: absolute;
-  top: -50%;
-  left: -50%;
-  width: 200%;
-  height: 200%;
-  background: linear-gradient(
-    to bottom right,
-    transparent 40%,
-    rgba(255, 255, 255, 0.08) 50%,
-    transparent 60%
-  );
+  top: -50%; left: -50%;
+  width: 200%; height: 200%;
+  background: linear-gradient(to bottom right, transparent 40%, rgba(255,255,255,0.06) 50%, transparent 60%);
   transform: rotate(30deg) translateX(-100%);
-  transition: transform 0.6s ease;
+  transition: transform 0.7s ease;
   pointer-events: none;
 }
-
 .hover-shine:hover::after {
   transform: rotate(30deg) translateX(100%);
 }
 
-/* Glow effect on hover */
+/* Glow shadow on hover */
 .hover-glow {
-  transition: box-shadow 0.3s ease;
+  transition: box-shadow 0.4s ease, transform 0.4s var(--ease-out-expo);
 }
-
 .hover-glow:hover {
-  box-shadow: 0 0 30px -5px rgba(230, 57, 70, 0.15), 0 10px 30px -10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 40px -5px rgba(230, 57, 70, 0.12), 0 20px 40px -15px rgba(0, 0, 0, 0.08);
 }
 
-/* Number counter animation */
+/* 3D tilt on hover (subtle perspective) */
+.hover-tilt {
+  transition: transform 0.3s ease;
+  transform-style: preserve-3d;
+}
+.hover-tilt:hover {
+  transform: perspective(800px) rotateX(-2deg) rotateY(2deg) translateY(-4px);
+}
+
+/* --- Counter animation --- */
 .counter {
   display: inline-block;
   font-variant-numeric: tabular-nums;
 }
 
-/* Smooth expand/collapse */
+/* --- Expand/collapse (smooth grid) --- */
 .expand-content {
   display: grid;
   grid-template-rows: 0fr;
-  transition: grid-template-rows 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+  transition: grid-template-rows 0.5s var(--ease-out-expo);
 }
-
 .expand-content.expanded {
   grid-template-rows: 1fr;
 }
-
 .expand-content > div {
   overflow: hidden;
 }
 
-/* Signal bar animation (brand signature) */
-@keyframes signal-bars {
-  0% {
-    transform: scaleY(0.3);
-  }
-  50% {
-    transform: scaleY(1);
-  }
-  100% {
-    transform: scaleY(0.3);
-  }
+/* --- Parallax helper (JS-driven) --- */
+[data-parallax] {
+  will-change: transform;
+  transition: transform 0.1s linear;
 }
 
-.signal-bar {
-  transform-origin: bottom;
-  animation: signal-bars 1.2s ease-in-out infinite;
-}
-
-.signal-bar:nth-child(2) {
-  animation-delay: 0.15s;
-}
-
-.signal-bar:nth-child(3) {
-  animation-delay: 0.3s;
-}
-
-.signal-bar:nth-child(4) {
-  animation-delay: 0.45s;
-}
-
-/* Reduced motion */
+/* === Reduced motion === */
 @media (prefers-reduced-motion: reduce) {
-  .pulse-signal,
-  .signal-bar {
-    animation: none;
+  .pulse-signal, .signal-bar { animation: none; }
+  .fade-up, .blur-reveal, .scale-reveal, .slide-left, .slide-right {
+    opacity: 1; transform: none; filter: none; transition: none;
   }
-
-  .fade-up {
-    opacity: 1;
-    transform: none;
-    transition: none;
-  }
-
-  .slide-in-top {
-    animation: none;
-  }
+  .clip-reveal { clip-path: none; transition: none; }
+  .stagger-children > * { opacity: 1; transform: none; transition: none; }
+  .split-words > .word { opacity: 1; transform: none; transition: none; }
+  .slide-in-top { animation: none; }
+  .gradient-animated { animation: none; }
+  .hover-tilt:hover { transform: none; }
 }
 
 /* === Phone obfuscation === */
-.phone-obfuscated {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.25rem;
-}
-
-.phone-obfuscated span {
-  display: inline-block;
-  unicode-bidi: bidi-override;
-  direction: rtl;
-}
+.phone-obfuscated { display: inline-flex; align-items: center; gap: 0.25rem; }
+.phone-obfuscated span { display: inline-block; unicode-bidi: bidi-override; direction: rtl; }
 
 /* === Tailwind custom colors === */
 @theme {
