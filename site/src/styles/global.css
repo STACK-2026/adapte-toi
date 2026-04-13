@@ -30,11 +30,9 @@ body {
 
 /* === Accessibility & Mobile-first === */
 
-/* Touch targets minimum 44px (WCAG 2.5.8) */
-a, button, [role="button"], summary, .stat-card, .quiz-opt {
+/* Touch targets minimum 44px - only on interactive navigation links */
+nav a, .prose a, footer a {
   min-height: 44px;
-  display: inline-flex;
-  align-items: center;
 }
 
 /* Links always distinguishable (not just color) */
