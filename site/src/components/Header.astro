@@ -3,10 +3,10 @@ import { siteConfig } from "../../site.config";
 ---
 
 <header id="site-header" class="fixed top-0 left-0 right-0 w-full z-50 bg-white/95 backdrop-blur-xl border-b border-gray-200/50 transition-transform duration-500 ease-in-out">
-  <!-- Alert bar - marquee défilant -->
-  <div id="announcement-bar" class="w-full overflow-hidden slide-in-top" role="banner" style="background: linear-gradient(90deg, #1D3557, #2a4a7f, #1D3557); background-size: 200% 100%; animation: announcement-gradient 8s ease infinite;">
-    <a href="/guides/reconversion-ia-guide-complet" class="block">
-      <div class="announcement-marquee-wrap py-1.5 sm:py-2 text-white">
+  <!-- Alert bar - marquee défilant + dismissible -->
+  <div id="announcement-bar" class="w-full overflow-hidden slide-in-top relative" role="banner" style="background: linear-gradient(90deg, #1D3557, #2a4a7f, #1D3557); background-size: 200% 100%; animation: announcement-gradient 8s ease infinite; transition: max-height 0.3s ease, opacity 0.3s ease; max-height: 40px;">
+    <a href="/guides/reconversion-ia-guide-complet" class="block pr-8">
+      <div class="announcement-marquee-wrap py-1.5 sm:py-2 text-white overflow-hidden">
         <div class="announcement-marquee-track">
           <span class="announcement-item">🔴 <strong class="text-accent">27%</strong> des emplois français menacés par l'IA d'ici 2030 (OCDE)</span>
           <span class="announcement-sep">·</span>
@@ -27,6 +27,10 @@ import { siteConfig } from "../../site.config";
         </div>
       </div>
     </a>
+    <!-- Dismiss button -->
+    <button id="announcement-close" class="absolute right-2 sm:right-4 top-1/2 -translate-y-1/2 w-5 h-5 flex items-center justify-center text-white/50 hover:text-white transition-opacity z-10" aria-label="Fermer l'annonce">
+      <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" /></svg>
+    </button>
   </div>
 
   <nav class="max-w-6xl mx-auto px-4 h-14 flex items-center justify-between">
@@ -115,6 +119,20 @@ import { siteConfig } from "../../site.config";
 <div class="h-[88px]"></div>
 
 <script>
+  // Announcement bar dismiss
+  const bar = document.getElementById("announcement-bar");
+  const closeBtn = document.getElementById("announcement-close");
+  if (localStorage.getItem("announcement-dismissed")) {
+    if (bar) { bar.style.maxHeight = "0"; bar.style.opacity = "0"; bar.style.overflow = "hidden"; }
+  }
+  closeBtn?.addEventListener("click", (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    if (bar) { bar.style.maxHeight = "0"; bar.style.opacity = "0"; }
+    localStorage.setItem("announcement-dismissed", "1");
+  });
+
+  // Mobile menu
   const btn = document.getElementById("mobile-menu-btn");
   const menu = document.getElementById("mobile-menu");
   const backdrop = document.getElementById("mobile-menu-backdrop");

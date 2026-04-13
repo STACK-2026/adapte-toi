@@ -84,7 +84,9 @@ const jsonLdArray = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
       <script type="application/ld+json" set:html={JSON.stringify(ld)} />
     ))}
   </head>
-  <body class="min-h-screen flex flex-col">
+  <body class="min-h-screen flex flex-col" style="overflow-x: hidden;">
+    <!-- Overflow wrapper prevents horizontal scroll from marquee/animations -->
+    <div id="page-wrapper" style="overflow-x: hidden; width: 100%; position: relative;">
     <!-- Cursor glow (desktop only) -->
     <div id="cursor-glow"></div>
     <Header />
@@ -96,6 +98,7 @@ const jsonLdArray = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
     <Analytics />
     <EasterEggs />
     <OrientationBot />
+    </div><!-- /page-wrapper -->
 
     <!-- Animation engine -->
     <script>
