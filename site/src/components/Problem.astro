@@ -3,7 +3,7 @@ import { siteConfig } from "../../site.config";
 import G from "./Glossaire.astro";
 ---
 
-<section class="py-24 px-4 bg-secondary text-white overflow-hidden">
+<section class="py-24 md:py-32 px-4 bg-secondary text-white overflow-hidden">
   <div class="max-w-5xl mx-auto">
     <div class="text-center mb-14">
       <h2 class="text-white mb-4 blur-reveal">Le problème que personne ne veut voir</h2>
@@ -12,41 +12,51 @@ import G from "./Glossaire.astro";
       </p>
     </div>
 
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 stagger-children">
-      <div class="bg-white/5 backdrop-blur-sm rounded-2xl p-8 border border-white/10 hover-tilt">
-        <p class="text-accent font-display font-bold text-5xl mb-3" data-count="-67%">0%</p>
-        <p class="text-gray-300">d'offres d'emploi dans les centres d'appels depuis l'arrivée de l'IA</p>
-        <p class="text-xs text-gray-500 mt-3">Source : <G term="anthropic" display="Anthropic" />, mars 2026</p>
+    <!-- LE CHIFFRE MASSIF : 4M+ en plein centre, impossible à rater -->
+    <div class="text-center mb-16 fade-up">
+      <div class="inline-block relative">
+        <p class="font-display font-bold text-[100px] md:text-[160px] leading-none tracking-tighter" style="color: #F77F00; text-shadow: 0 0 80px rgba(247,127,0,0.3);" data-count="4">0</p>
+        <span class="absolute -right-8 md:-right-12 top-4 md:top-6 font-display font-bold text-3xl md:text-5xl text-accent/80">M+</span>
       </div>
-      <div class="bg-white/5 backdrop-blur-sm rounded-2xl p-8 border border-white/10 hover-tilt">
-        <p class="text-accent font-display font-bold text-5xl mb-3" data-count="-53%">0%</p>
-        <p class="text-gray-300">pour la rédaction publicitaire et le copywriting</p>
-        <p class="text-xs text-gray-500 mt-3">Source : Anthropic, mars 2026</p>
+      <p class="text-xl md:text-2xl text-white font-medium mt-2 max-w-lg mx-auto">postes en France exposés à un risque d'automatisation élevé d'ici 2030</p>
+      <p class="text-sm text-gray-400 mt-3">Source : <G term="ocde" display="OCDE" /> (2025)</p>
+    </div>
+
+    <!-- Les 3 chiffres Anthropic en dessous -->
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-5 stagger-children">
+      <div class="bg-white/5 backdrop-blur-sm rounded-2xl p-6 md:p-8 border border-white/10 hover-tilt text-center">
+        <p class="font-display font-bold text-6xl md:text-7xl mb-3 tracking-tighter" style="color: #E63946; text-shadow: 0 0 40px rgba(230,57,70,0.25);" data-count="-67">0</p>
+        <p class="text-accent font-bold text-lg">%</p>
+        <p class="text-gray-300 text-sm mt-3 leading-relaxed">d'offres d'emploi dans les <strong class="text-white">centres d'appels</strong></p>
+        <p class="text-xs text-gray-500 mt-3">Anthropic, mars 2026</p>
       </div>
-      <div class="bg-white/5 backdrop-blur-sm rounded-2xl p-8 border border-white/10 hover-tilt">
-        <p class="text-accent font-display font-bold text-5xl mb-3" data-count="-48%">0%</p>
-        <p class="text-gray-300">pour la gestion de projets et le conseil IT</p>
-        <p class="text-xs text-gray-500 mt-3">Source : Anthropic, mars 2026</p>
+      <div class="bg-white/5 backdrop-blur-sm rounded-2xl p-6 md:p-8 border border-white/10 hover-tilt text-center">
+        <p class="font-display font-bold text-6xl md:text-7xl mb-3 tracking-tighter" style="color: #E63946; text-shadow: 0 0 40px rgba(230,57,70,0.25);" data-count="-53">0</p>
+        <p class="text-accent font-bold text-lg">%</p>
+        <p class="text-gray-300 text-sm mt-3 leading-relaxed">pour la <strong class="text-white">rédaction publicitaire</strong> et le copywriting</p>
+        <p class="text-xs text-gray-500 mt-3">Anthropic, mars 2026</p>
       </div>
-      <div class="bg-white/5 backdrop-blur-sm rounded-2xl p-8 border border-white/10 hover-tilt">
-        <p class="text-accent font-display font-bold text-5xl mb-3" data-count="4">0</p>
-        <p class="text-gray-300"><span class="text-accent font-bold">millions</span> de postes en France exposés à un risque d'automatisation élevé d'ici 2030</p>
-        <p class="text-xs text-gray-500 mt-3">Source : OCDE</p>
+      <div class="bg-white/5 backdrop-blur-sm rounded-2xl p-6 md:p-8 border border-white/10 hover-tilt text-center">
+        <p class="font-display font-bold text-6xl md:text-7xl mb-3 tracking-tighter" style="color: #E63946; text-shadow: 0 0 40px rgba(230,57,70,0.25);" data-count="-48">0</p>
+        <p class="text-accent font-bold text-lg">%</p>
+        <p class="text-gray-300 text-sm mt-3 leading-relaxed">pour la <strong class="text-white">gestion de projets</strong> et le conseil IT</p>
+        <p class="text-xs text-gray-500 mt-3">Anthropic, mars 2026</p>
       </div>
     </div>
 
-    <div class="text-center mt-14">
+    <div class="text-center mt-16">
       <p class="text-gray-300 text-lg mb-8 blur-reveal">
         La question n'est plus "est-ce que l'IA va impacter mon métier ?"
         <br />
-        C'est <span class="text-white font-bold">"qu'est-ce que je fais maintenant ?"</span>
+        C'est <span class="text-white font-bold text-xl">"qu'est-ce que je fais maintenant ?"</span>
       </p>
       <a
         href="/metiers"
-        class="inline-flex items-center gap-2 font-semibold px-8 py-4 rounded-xl text-lg transition-all hover:scale-[1.03] hover:shadow-xl active:scale-[0.98] fade-up"
-        style={`background: ${siteConfig.colors.primary}; color: white;`}
+        class="inline-flex items-center gap-2 font-semibold px-8 py-4 rounded-full text-lg transition-all hover:scale-[1.03] hover:shadow-xl active:scale-[0.98] fade-up"
+        style={`background: ${siteConfig.colors.primary}; color: white; box-shadow: 0 2px 4px 0 rgba(255,255,255,0.3) inset, 0 4px 20px -4px rgba(230,57,70,0.4);`}
       >
         Voir l'impact sur mon métier
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6" /></svg>
       </a>
     </div>
   </div>
