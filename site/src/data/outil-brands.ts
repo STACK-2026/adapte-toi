@@ -31,6 +31,7 @@ export const outilBrands: Record<string, {
   "midjourney": {
     gradient: "linear-gradient(135deg, #1A1A2E, #16213E)",
     textColor: "white",
+    logoFile: "/logos/midjourney.svg",
     tagline: "Génère des images professionnelles en 30 secondes",
   },
   "notion-ai": {
@@ -42,6 +43,7 @@ export const outilBrands: Record<string, {
   "canva-ai": {
     gradient: "linear-gradient(135deg, #00C4CC, #7B2FF7)",
     textColor: "white",
+    logoFile: "/logos/canva.svg",
     tagline: "Crée des visuels pro sans être graphiste",
   },
   "perplexity": {
@@ -59,6 +61,7 @@ export const outilBrands: Record<string, {
   "surfer-seo": {
     gradient: "linear-gradient(135deg, #FF6B35, #F7931E)",
     textColor: "white",
+    logoFile: "/logos/surfer.svg",
     tagline: "Optimise ton contenu pour Google avec l'IA",
   },
   "hubspot": {
@@ -70,21 +73,25 @@ export const outilBrands: Record<string, {
   "otter-ai": {
     gradient: "linear-gradient(135deg, #2D5BFF, #1E3A8A)",
     textColor: "white",
+    logoFile: "/logos/otter.svg",
     tagline: "Transforme tes réunions en comptes-rendus",
   },
   "jasper": {
     gradient: "linear-gradient(135deg, #E04E39, #C73E2D)",
     textColor: "white",
+    logoFile: "/logos/jasper.svg",
     tagline: "L'IA spécialisée marketing et copywriting",
   },
   "gamma": {
     gradient: "linear-gradient(135deg, #8B5CF6, #6D28D9)",
     textColor: "white",
+    logoFile: "/logos/gamma.svg",
     tagline: "Des présentations pro en 2 minutes",
   },
   "zapier": {
     gradient: "linear-gradient(135deg, #FF4F00, #E04500)",
     textColor: "white",
+    logoFile: "/logos/zapier.svg",
     tagline: "L'automatisation simple pour tous",
   },
   "copilot": {
@@ -96,26 +103,31 @@ export const outilBrands: Record<string, {
   "adobe-firefly": {
     gradient: "linear-gradient(135deg, #FF0000, #CC0000)",
     textColor: "white",
+    logoFile: "/logos/adobe-firefly.svg",
     tagline: "L'IA créative intégrée à Photoshop",
   },
   "descript": {
     gradient: "linear-gradient(135deg, #1E88E5, #1565C0)",
     textColor: "white",
+    logoFile: "/logos/descript.svg",
     tagline: "Édite tes vidéos comme un document texte",
   },
   "elevenlabs": {
     gradient: "linear-gradient(135deg, #000000, #1A1A1A)",
     textColor: "white",
+    logoFile: "/logos/elevenlabs.svg",
     tagline: "Clone ta voix et génère de l'audio IA",
   },
   "copy-ai": {
     gradient: "linear-gradient(135deg, #6366F1, #4F46E5)",
     textColor: "white",
+    logoFile: "/logos/copyai.svg",
     tagline: "Rédaction marketing en 2 clics",
   },
   "writesonic": {
     gradient: "linear-gradient(135deg, #0066FF, #0052CC)",
     textColor: "white",
+    logoFile: "/logos/writesonic.svg",
     tagline: "Rédaction IA au meilleur rapport qualité-prix",
   },
 };
