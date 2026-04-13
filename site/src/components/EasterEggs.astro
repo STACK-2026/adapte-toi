@@ -36,6 +36,25 @@
   ╚═══════════════════════════════════════╝
   `);
 
+  // TikTok/Instagram in-app browser detection
+  (function detectInApp() {
+    const ua = navigator.userAgent || "";
+    const isInApp = /musical_ly|BytedanceWebview|TikTok|FBAN|FBAV|Instagram/i.test(ua);
+    if (isInApp && !sessionStorage.getItem("inapp_dismissed")) {
+      const banner = document.createElement("div");
+      banner.style.cssText = "position:fixed;top:0;left:0;right:0;z-index:100000;padding:12px 16px;background:rgba(0,0,0,0.7);backdrop-filter:blur(12px);color:white;font-size:13px;text-align:center;animation:slideInDown 0.4s ease;display:flex;align-items:center;justify-content:center;gap:8px;";
+      banner.innerHTML = `
+        <span style="flex:1">Pour une meilleure expérience, ouvre dans ton navigateur (les 3 points en haut à droite)</span>
+        <button id="dismiss-inapp" style="background:rgba(255,255,255,0.2);border:none;color:white;padding:4px 10px;border-radius:20px;font-size:12px;cursor:pointer;">OK</button>
+      `;
+      document.body.prepend(banner);
+      document.getElementById("dismiss-inapp")?.addEventListener("click", () => {
+        banner.remove();
+        sessionStorage.setItem("inapp_dismissed", "1");
+      });
+    }
+  })();
+
   // Easter egg listener
   let buffer = "";
   const maxLen = 9; // "adaptetoi" = 9 chars
