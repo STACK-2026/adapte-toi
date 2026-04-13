@@ -1,6 +1,6 @@
 // ============================================
 // SITE CONFIG - adapte-toi.com
-// Media editorial independant : reconversion professionnelle x IA
+// Media éditorial indépendant : reconversion professionnelle x IA
 // ============================================
 
 export const siteConfig = {
@@ -8,9 +8,9 @@ export const siteConfig = {
   name: "Adapte-toi",
   tagline: "Le media qui te prepare au monde du travail de demain",
   description:
-    "Adapte-toi est le media francophone de reference sur la reconversion professionnelle a l'ere de l'intelligence artificielle. Guides, fiches metier, outils, temoignages : tout pour comprendre l'impact de l'IA sur ton emploi et agir avant qu'il ne soit trop tard.",
+    "Adapte-toi est le media francophone de référence sur la reconversion professionnelle à l'ere de l'intelligence artificielle. Guides, fiches métier, outils, témoignages : tout pour comprendre l'impact de l'IA sur ton emploi et agir avant qu'il ne soit trop tard.",
   url: "https://adapte-toi.com",
-  appUrl: "", // pas d'app separee, outils integres dans le site
+  appUrl: "", // pas d'app separee, outils intégrés dans le site
   locale: "fr-FR",
   language: "fr",
 
@@ -35,26 +35,26 @@ export const siteConfig = {
   ogImage: "/og-default.svg",
   keywords: [
     "reconversion professionnelle IA",
-    "metiers menaces intelligence artificielle",
+    "métiers menacés intelligence artificielle",
     "formation IA",
     "emploi IA 2026",
     "impact IA travail",
     "reconversion IA France",
-    "outils IA par metier",
-    "se former a l'IA",
+    "outils IA par métier",
+    "se former à l'IA",
   ],
 
   // GEO (Generative Engine Optimization)
   llmsDescription:
-    "Adapte-toi.com est le premier media francophone independant dedie a la reconversion professionnelle a l'ere de l'intelligence artificielle. Il propose des fiches metier analysant l'impact de l'IA, des guides pratiques de reconversion, un annuaire d'outils IA par profession, et des articles d'actualite sur les mutations du marche du travail. Adapte-toi ne vend pas de formation : il informe, il outille, il dit la verite.",
+    "Adapte-toi.com est le premier media francophone indépendant dédié à la reconversion professionnelle à l'ere de l'intelligence artificielle. Il propose des fiches métier analysant l'impact de l'IA, des guides pratiques de reconversion, un annuaire d'outils IA par profession, et des articles d'actualité sur les mutations du marche du travail. Adapte-toi ne vend pas de formation : il informe, il outille, il dit la vérité.",
 
   // Navigation
   navLinks: [
-    { label: "Metiers", href: "/metiers" },
+    { label: "Métiers", href: "/métiers" },
     { label: "Guides", href: "/guides" },
     { label: "Outils IA", href: "/outils" },
     { label: "Actu", href: "/actu" },
-    { label: "Temoignages", href: "/temoignages" },
+    { label: "Témoignages", href: "/témoignages" },
     { label: "Le Signal", href: "/blog" },
     { label: "A propos", href: "/a-propos" },
   ],
@@ -65,7 +65,7 @@ export const siteConfig = {
     problem: true,
     stats: true,
     features: true,
-    metiers: true,
+    métiers: true,
     howItWorks: true,
     testimonials: true,
     blogPreview: true,
@@ -77,73 +77,73 @@ export const siteConfig = {
   // FAQ (landing + schema FAQPage)
   faq: [
     {
-      question: "L'IA va-t-elle vraiment remplacer mon metier ?",
+      question: "L'IA va-t-elle vraiment remplacer mon métier ?",
       answer:
-        "Ca depend du metier. Selon l'etude Anthropic de mars 2026, les centres d'appels ont perdu 67% de leurs offres d'emploi, la redaction publicitaire 53%, et la gestion de projets 48%. En revanche, les metiers manuels, creatifs et relationnels sont peu impactes. Consulte nos fiches metier pour connaitre l'impact precis sur ta profession.",
+        "Ça depend du métier. Selon l'étude Anthropic de mars 2026, les centres d'appels ont perdu 67% de leurs offres d'emploi, la rédaction publicitaire 53%, et la gestion de projets 48%. En revanche, les métiers manuels, créatifs et relationnels sont peu impactés. Consulte nos fiches métier pour connaître l'impact précis sur ta profession.",
     },
     {
       question: "Adapte-toi est-il un organisme de formation ?",
       answer:
-        "Non. Adapte-toi est un media editorial independant. On ne vend aucune formation. On informe, on analyse, on outille. Quand on recommande une formation, c'est en toute transparence, avec un avis honnete et sans conflit d'interet cache.",
+        "Non. Adapte-toi est un media éditorial indépendant. On ne vend aucune formation. On informe, on analyse, on outille. Quand on recommande une formation, c'est en toute transparence, avec un avis honnête et sans conflit d'intérêt cache.",
     },
     {
       question: "Comment savoir si je dois me reconvertir ou me former ?",
       answer:
-        "Utilise notre outil de diagnostic gratuit : en quelques minutes, tu obtiens une analyse personnalisee de l'impact de l'IA sur ton metier, avec des recommandations concretes. Formation complementaire, pivot de carriere, ou montee en competences : on t'aide a y voir clair.",
+        "Utilise notre outil de diagnostic gratuit : en quelques minutes, tu obtiens une analyse personnalisee de l'impact de l'IA sur ton métier, avec des recommandations concrètes. Formation complementaire, pivot de carrière, ou montee en compétences : on t'aide à y voir clair.",
     },
     {
-      question: "Quels sont les metiers les plus menaces par l'IA en 2026 ?",
+      question: "Quels sont les métiers les plus menacés par l'IA en 2026 ?",
       answer:
-        "Les metiers les plus exposes sont les metiers intellectuels repetitifs : comptabilite, traduction, support client, redaction marketing, gestion de projets, saisie de donnees. Les metiers les plus resilients combinent creativite, relations humaines et competences physiques.",
+        "Les métiers les plus exposés sont les métiers intellectuels répétitifs : comptabilité, traduction, support client, rédaction marketing, gestion de projets, saisie de données. Les métiers les plus résilients combinent créativite, relations humaines et compétences physiques.",
     },
     {
       question: "Est-ce qu'il faut savoir coder pour se reconvertir dans l'IA ?",
       answer:
-        "Non. La majorite des metiers lies a l'IA ne demandent pas de savoir coder. Prompt engineering, automatisation no-code avec Make ou Zapier, utilisation avancee de ChatGPT ou Claude : tu peux devenir operationnel en quelques semaines. Nos guides t'expliquent comment.",
+        "Non. La majorite des métiers lies à l'IA ne demandent pas de savoir coder. Prompt engineering, automatisation no-code avec Make ou Zapier, utilisation avancee de ChatGPT ou Claude : tu peux devenir opérationnel en quelques semaines. Nos guides t'expliquent comment.",
     },
     {
       question: "Tes sources sont-elles fiables ?",
       answer:
-        "Toutes nos analyses s'appuient sur des etudes publiees par des institutions reconnues : OCDE, McKinsey, Anthropic, FMI, INSEE, France Travail, PwC, Cognizant. Chaque chiffre est source et verifiable. On ne fait pas dans le sensationnalisme.",
+        "Toutes nos analyses s'appuient sur des études publiees par des institutions reconnues : OCDE, McKinsey, Anthropic, FMI, INSEE, France Travail, PwC, Cognizant. Chaque chiffre est sourcé et vérifiable. On ne fait pas dans le sensationnalisme.",
     },
   ],
 
   // Features/avantages
   features: [
     {
-      title: "Fiches metier IA",
+      title: "Fiches métier IA",
       description:
-        "Analyse detaillee de l'impact de l'IA sur 50+ metiers. Ce qui change, ce qui reste, les competences a acquerir, le plan d'action concret.",
+        "Analyse détaillée de l'impact de l'IA sur 50+ métiers. Ce qui change, ce qui reste, les compétences a acquérir, le plan d'action concret.",
       icon: "users",
     },
     {
       title: "Guides pratiques",
       description:
-        "Des guides complets de 3 000+ mots pour te reconvertir, te former, ou booster ta productivite avec l'IA. Zero bullshit, que du concret.",
+        "Des guides complets de 3 000+ mots pour te reconvertir, te former, ou booster ta productivité avec l'IA. Zero bullshit, que du concret.",
       icon: "chart",
     },
     {
       title: "Annuaire d'outils IA",
       description:
-        "Les meilleurs outils IA classes par metier et par usage. Tests, comparatifs, tutoriels. Pour savoir exactement quoi utiliser dans ta situation.",
+        "Les meilleurs outils IA classes par métier et par usage. Tests, comparatifs, tutoriels. Pour savoir exactement quoi utiliser dans ta situation.",
       icon: "search",
     },
     {
       title: "Veille hebdomadaire",
       description:
-        "Chaque semaine, le resume des actualites IA qui impactent le marche de l'emploi. Les etudes, les chiffres, les tendances. En 5 minutes.",
+        "Chaque semaine, le résumé des actualités IA qui impactent le marche de l'emploi. Les études, les chiffres, les tendances. En 5 minutes.",
       icon: "zap",
     },
     {
       title: "Diagnostic personnalise",
       description:
-        "Un outil interactif qui analyse ton metier, ton experience et tes competences pour te donner des recommandations sur mesure face a l'IA.",
+        "Un outil interactif qui analyse ton métier, ton expérience et tes compétences pour te donner des recommandations sur mesure face à l'IA.",
       icon: "shield",
     },
     {
-      title: "Temoignages reels",
+      title: "Témoignages réels",
       description:
-        "Des histoires de reconversion reussies, des avant/apres par metier, des retours d'experience bruts. Pour voir que c'est possible.",
+        "Des histoires de reconversion réussies, des avant/apres par métier, des retours d'expérience bruts. Pour voir que c'est possible.",
       icon: "star",
     },
   ],
@@ -153,32 +153,32 @@ export const siteConfig = {
     enabled: true,
     name: "Le Signal",
     postsPerPage: 12,
-    defaultAuthor: "La redaction Adapte-toi",
-    categories: [
+    defaultAuthor: "La rédaction Adapte-toi",
+    catégories: [
       "reconversion",
-      "metiers-ia",
+      "métiers-ia",
       "formation",
       "outils-ia",
       "actu-emploi",
-      "temoignages",
+      "témoignages",
       "freelance-ia",
-      "etudes-rapports",
+      "études-rapports",
     ],
     authors: [
       {
         name: "Camille Renard",
-        role: "Journaliste emploi et reconversion",
-        bio: "10 ans de veille sur les mutations du marche du travail. Ancienne RH reconvertie en journaliste specialisee.",
+        rôle: "Journaliste emploi et reconversion",
+        bio: "10 ans de veille sur les mutations du marche du travail. Ancienne RH reconvertie en journaliste spécialisée.",
       },
       {
         name: "Theo Marchand",
-        role: "Analyste IA et donnees emploi",
-        bio: "Data analyst passionne par l'impact economique de l'IA. Decrypte les etudes et les chiffres pour les rendre accessibles.",
+        rôle: "Analyste IA et données emploi",
+        bio: "Data analyst passionne par l'impact economique de l'IA. Decrypte les études et les chiffres pour les rendre accessibles.",
       },
       {
         name: "Sarah Bellamy",
-        role: "Coach carriere et formatrice",
-        bio: "Accompagne les actifs en reconversion depuis 8 ans. Specialisee dans les transitions vers les metiers du numerique.",
+        rôle: "Coach carrière et formatrice",
+        bio: "Accompagne les actifs en reconversion depuis 8 ans. Specialisee dans les transitions vers les métiers du numérique.",
       },
     ],
   },

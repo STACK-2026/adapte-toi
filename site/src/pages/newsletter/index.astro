@@ -5,12 +5,12 @@ import { siteConfig } from "../../../site.config";
 
 <BaseLayout
   title={`Le Signal - Newsletter | ${siteConfig.name}`}
-  description="Chaque lundi, l'essentiel de l'impact de l'IA sur l'emploi. Les chiffres, les tendances, les actions concretes. En 5 minutes."
+  description="Chaque lundi, l'essentiel de l'impact de l'IA sur l'emploi. Les chiffres, les tendances, les actions concrètes. En 5 minutes."
 >
   <div class="max-w-2xl mx-auto px-4 py-20 text-center">
     <h1 class="mb-4">Le Signal</h1>
     <p class="text-gray-600 text-lg mb-8">
-      Chaque lundi matin, l'essentiel de ce que l'IA change dans le monde du travail. Les etudes, les chiffres, les tendances, et surtout : ce que tu peux faire concretement. En 5 minutes, pas plus.
+      Chaque lundi matin, l'essentiel de ce que l'IA change dans le monde du travail. Les études, les chiffres, les tendances, et surtout : ce que tu peux faire concrètement. En 5 minutes, pas plus.
     </p>
 
     <form id="newsletter-form-page" class="max-w-md mx-auto">
@@ -32,7 +32,7 @@ import { siteConfig } from "../../../site.config";
       </div>
       <p id="newsletter-page-msg" class="text-xs mt-4 text-gray-500"></p>
       <p class="text-gray-400 text-xs mt-2">
-        Pas de spam, pas de revente. Desinscription en un clic.
+        Pas de spam, pas de revente. Désinscription en un clic.
       </p>
     </form>
 
@@ -55,15 +55,15 @@ import { siteConfig } from "../../../site.config";
             body: JSON.stringify({ email, source: "newsletter-page" }),
           });
           if (r.ok) {
-            if (msg) { msg.textContent = "Bienvenue a bord. Tu recevras Le Signal des lundi prochain."; msg.style.color = "#16a34a"; }
+            if (msg) { msg.textContent = "Bienvenue à bord. Tu recevras Le Signal dès lundi prochain."; msg.style.color = "#16a34a"; }
             (form as HTMLFormElement).reset();
           } else if (r.status === 409) {
-            if (msg) { msg.textContent = "Tu es deja inscrit. On se retrouve lundi."; msg.style.color = "#f59e0b"; }
+            if (msg) { msg.textContent = "Tu es déjà inscrit. On se retrouve lundi."; msg.style.color = "#f59e0b"; }
           } else {
-            if (msg) { msg.textContent = "Erreur. Reessaie dans quelques instants."; msg.style.color = "#ef4444"; }
+            if (msg) { msg.textContent = "Erreur. Réessaie dans quelques instants."; msg.style.color = "#ef4444"; }
           }
         } catch {
-          if (msg) { msg.textContent = "Erreur reseau. Reessaie."; msg.style.color = "#ef4444"; }
+          if (msg) { msg.textContent = "Erreur réseau. Réessaie."; msg.style.color = "#ef4444"; }
         }
       });
     </script>
@@ -73,15 +73,15 @@ import { siteConfig } from "../../../site.config";
       <ul class="space-y-4 text-gray-600">
         <li class="flex gap-3">
           <span class="text-primary font-bold">1.</span>
-          <span>Le chiffre de la semaine : une donnee cle sur l'impact de l'IA sur l'emploi, sourcee et contextualisee.</span>
+          <span>Le chiffre de la semaine : une donnée clé sur l'impact de l'IA sur l'emploi, sourcee et contextualisée.</span>
         </li>
         <li class="flex gap-3">
           <span class="text-primary font-bold">2.</span>
-          <span>L'actu qui compte : les etudes, les annonces, les tendances que tu ne dois pas rater.</span>
+          <span>L'actu qui compte : les études, les annonces, les tendances que tu ne dois pas rater.</span>
         </li>
         <li class="flex gap-3">
           <span class="text-primary font-bold">3.</span>
-          <span>L'action de la semaine : un conseil concret et actionnable pour avancer dans ta reconversion ou ta montee en competences.</span>
+          <span>L'action de la semaine : un conseil concret et actionnable pour avancer dans ta reconversion ou ta montee en compétences.</span>
         </li>
         <li class="flex gap-3">
           <span class="text-primary font-bold">4.</span>

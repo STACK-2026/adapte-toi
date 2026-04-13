@@ -8,7 +8,7 @@ import { jsonLdBreadcrumbs } from "../../utils/seo";
 
 const breadcrumbs = [
   { name: "Accueil", url: siteConfig.url },
-  { name: "Fiches metier", url: fullUrl("/metiers") },
+  { name: "Fiches métier", url: fullUrl("/metiers") },
 ];
 
 // Published fiches
@@ -32,24 +32,24 @@ const upcoming = [
 ];
 
 const riskColors: Record<string, { bg: string; text: string; label: string }> = {
-  "tres-eleve": { bg: "bg-red-100", text: "text-red-700", label: "Risque tres eleve" },
-  "eleve": { bg: "bg-orange-100", text: "text-orange-700", label: "Risque eleve" },
+  "tres-eleve": { bg: "bg-red-100", text: "text-red-700", label: "Risque très élevé" },
+  "eleve": { bg: "bg-orange-100", text: "text-orange-700", label: "Risque élevé" },
   "moyen": { bg: "bg-yellow-100", text: "text-yellow-700", label: "Risque moyen" },
   "faible": { bg: "bg-green-100", text: "text-green-700", label: "Risque faible" },
 };
 ---
 
 <BaseLayout
-  title={`Fiches metier IA | ${siteConfig.name}`}
-  description="Analyse detaillee de l'impact de l'IA sur 50+ metiers. Decouvre si ton metier est menace, comment il se transforme, et les competences a acquerir."
+  title={`Fiches métier IA | ${siteConfig.name}`}
+  description="Analyse détaillée de l'impact de l'IA sur 50+ métiers. Decouvre si ton métier est menace, comment il se transforme, et les compétences a acquérir."
   jsonLd={jsonLdBreadcrumbs(breadcrumbs)}
 >
   <div class="max-w-6xl mx-auto px-4 py-12">
     <Breadcrumbs items={breadcrumbs} />
 
-    <h1 class="mb-4">Fiches metier : quel impact de l'IA sur ta profession ?</h1>
+    <h1 class="mb-4">Fiches métier : quel impact de l'IA sur ta profession ?</h1>
     <p class="text-gray-600 text-lg mb-10 max-w-3xl">
-      Pour chaque metier : l'etat des lieux de l'impact de l'IA, ce qui change concretement, les competences a acquerir, les outils a maitriser, et un plan d'action. Sources : Anthropic, OCDE, McKinsey, France Travail.
+      Pour chaque métier : l'état des lieux de l'impact de l'IA, ce qui change concrètement, les compétences a acquérir, les outils a maîtriser, et un plan d'action. Sources : Anthropic, OCDE, McKinsey, France Travail.
     </p>
 
     {/* Published fiches */}
@@ -88,17 +88,17 @@ const riskColors: Record<string, { bg: string; text: string; label: string }> = 
     <div>
       <h2 class="text-xl font-bold mb-6">Bientot disponibles</h2>
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        {upcoming.map((metier) => {
-          const risk = riskColors[metier.risk];
+        {upcoming.map((métier) => {
+          const risk = riskColors[métier.risk];
           return (
             <div class="bg-white rounded-2xl p-6 border border-gray-100 shadow-sm opacity-70">
               <div class="flex items-center justify-between mb-3">
-                <h3 class="font-bold text-lg">{metier.name}</h3>
+                <h3 class="font-bold text-lg">{métier.name}</h3>
                 <span class={`text-xs font-medium px-2.5 py-1 rounded-full ${risk.bg} ${risk.text}`}>
                   {risk.label}
                 </span>
               </div>
-              <p class="text-gray-400 text-sm italic">Fiche en preparation</p>
+              <p class="text-gray-400 text-sm italic">Fiche en préparation</p>
             </div>
           );
         })}
@@ -107,7 +107,7 @@ const riskColors: Record<string, { bg: string; text: string; label: string }> = 
 
     <div class="text-center mt-12 p-8 bg-gray-50 rounded-2xl">
       <p class="text-gray-600 mb-4">
-        50+ fiches metier en preparation. Abonne-toi a la newsletter pour etre prevenu des nouvelles publications.
+        50+ fiches métier en préparation. Abonne-toi à la newsletter pour être prévenu des nouvelles publications.
       </p>
       <a href="/newsletter" class="text-primary font-semibold hover:underline">
         S'abonner au Signal &rarr;

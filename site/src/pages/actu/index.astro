@@ -12,26 +12,26 @@ const posts = (await getCollection("blog", ({ data }) => !data.draft && data.cat
 
 const breadcrumbs = [
   { name: "Accueil", url: siteConfig.url },
-  { name: "Actualites", url: fullUrl("/actu") },
+  { name: "Actualités", url: fullUrl("/actu") },
 ];
 ---
 
 <BaseLayout
-  title={`Actualites IA et emploi | ${siteConfig.name}`}
-  description="L'actualite de l'intelligence artificielle et son impact sur l'emploi en France et en Europe. Etudes, rapports, analyses."
+  title={`Actualités IA et emploi | ${siteConfig.name}`}
+  description="L'actualité de l'intelligence artificielle et son impact sur l'emploi en France et en Europe. Etudes, rapports, analyses."
   jsonLd={jsonLdBreadcrumbs(breadcrumbs)}
 >
   <div class="max-w-6xl mx-auto px-4 py-12">
     <Breadcrumbs items={breadcrumbs} />
 
-    <h1 class="mb-4">Actualites IA et emploi</h1>
+    <h1 class="mb-4">Actualités IA et emploi</h1>
     <p class="text-gray-600 text-lg mb-10 max-w-3xl">
       Veille hebdomadaire sur l'impact de l'IA sur le marche du travail. Etudes, chiffres, tendances.
     </p>
 
     {posts.length === 0 ? (
       <div class="text-center py-20">
-        <p class="text-gray-400 text-lg mb-4">Les premieres actus arrivent bientot.</p>
+        <p class="text-gray-400 text-lg mb-4">Les premières actus arrivent bientot.</p>
         <a href="/newsletter" class="text-primary font-semibold hover:underline">
           S'abonner au Signal pour ne rien rater &rarr;
         </a>

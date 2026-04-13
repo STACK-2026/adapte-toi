@@ -22,13 +22,13 @@ const dateStr = fiche.data.date.toISOString().split("T")[0];
 
 const breadcrumbs = [
   { name: "Accueil", url: siteConfig.url },
-  { name: "Fiches metier", url: fullUrl("/metiers") },
+  { name: "Fiches métier", url: fullUrl("/metiers") },
   { name: fiche.data.metier, url: ficheUrl },
 ];
 
 const riskColors: Record<string, { bg: string; text: string; label: string }> = {
-  "tres-eleve": { bg: "bg-red-100", text: "text-red-700", label: "Risque tres eleve" },
-  "eleve": { bg: "bg-orange-100", text: "text-orange-700", label: "Risque eleve" },
+  "tres-eleve": { bg: "bg-red-100", text: "text-red-700", label: "Risque très élevé" },
+  "eleve": { bg: "bg-orange-100", text: "text-orange-700", label: "Risque élevé" },
   "moyen": { bg: "bg-yellow-100", text: "text-yellow-700", label: "Risque moyen" },
   "faible": { bg: "bg-green-100", text: "text-green-700", label: "Risque faible" },
 };
@@ -119,11 +119,11 @@ const jsonLd = [
 
     <!-- CTA bas de fiche -->
     <div class="mt-12 p-6 bg-gray-50 rounded-2xl text-center">
-      <p class="font-bold text-lg mb-2">Ton metier est impacte ?</p>
-      <p class="text-gray-600 text-sm mb-4">Consulte nos guides de reconversion et nos fiches outils pour passer a l'action.</p>
+      <p class="font-bold text-lg mb-2">Ton métier est impacte ?</p>
+      <p class="text-gray-600 text-sm mb-4">Consulte nos guides de reconversion et nos fiches outils pour passer à l'action.</p>
       <div class="flex flex-col sm:flex-row gap-3 justify-center">
         <a href="/guides" class="text-primary font-semibold hover:underline">Guides de reconversion &rarr;</a>
-        <a href="/outils" class="text-primary font-semibold hover:underline">Outils IA par metier &rarr;</a>
+        <a href="/outils" class="text-primary font-semibold hover:underline">Outils IA par métier &rarr;</a>
       </div>
     </div>
   </article>

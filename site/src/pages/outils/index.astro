@@ -10,19 +10,19 @@ const breadcrumbs = [
   { name: "Outils IA", url: fullUrl("/outils") },
 ];
 
-const categories = [
-  { name: "IA generative", description: "ChatGPT, Claude, Gemini, Mistral : les outils de conversation et generation de texte.", count: 8 },
-  { name: "Automatisation", description: "Make, Zapier, n8n : automatise tes taches repetitives sans coder.", count: 5 },
-  { name: "Design et image", description: "Midjourney, DALL-E, Canva IA : creation visuelle assistee par IA.", count: 6 },
+const catégories = [
+  { name: "IA générative", description: "ChatGPT, Claude, Gemini, Mistral : les outils de conversation et génération de texte.", count: 8 },
+  { name: "Automatisation", description: "Make, Zapier, n8n : automatise tes tâches répétitives sans coder.", count: 5 },
+  { name: "Design et image", description: "Midjourney, DALL-E, Canva IA : création visuelle assistee par IA.", count: 6 },
   { name: "Productivite", description: "Notion IA, Otter.ai, Gamma : booste ton quotidien professionnel.", count: 7 },
-  { name: "Code et developpement", description: "GitHub Copilot, Cursor, Claude Code : code plus vite et mieux.", count: 5 },
-  { name: "Marketing et vente", description: "Jasper, Copy.ai, HubSpot IA : cree du contenu et vends mieux.", count: 6 },
+  { name: "Code et développement", description: "GitHub Copilot, Cursor, Claude Code : code plus vite et mieux.", count: 5 },
+  { name: "Marketing et vente", description: "Jasper, Copy.ai, HubSpot IA : créé du contenu et vends mieux.", count: 6 },
 ];
 ---
 
 <BaseLayout
   title={`Annuaire d'outils IA | ${siteConfig.name}`}
-  description="Les meilleurs outils IA classes par metier et par usage. Tests, comparatifs, tutoriels. Pour savoir exactement quoi utiliser."
+  description="Les meilleurs outils IA classes par métier et par usage. Tests, comparatifs, tutoriels. Pour savoir exactement quoi utiliser."
   jsonLd={jsonLdBreadcrumbs(breadcrumbs)}
 >
   <div class="max-w-6xl mx-auto px-4 py-12">
@@ -34,7 +34,7 @@ const categories = [
     </p>
 
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-      {categories.map((cat) => (
+      {catégories.map((cat) => (
         <div class="bg-white rounded-2xl p-6 border border-gray-100 shadow-sm hover:shadow-md transition-shadow">
           <h3 class="font-bold text-lg mb-2">{cat.name}</h3>
           <p class="text-gray-500 text-sm mb-3">{cat.description}</p>
