@@ -1,0 +1,347 @@
+---
+/**
+ * OrientationBot - Arbre de décision sans API
+ * "Je suis en étude de X, je fais quoi ?" -> redirection vers la bonne fiche/guide
+ * Zéro appel Claude, 100% logique conditionnelle client-side
+ */
+---
+
+<!-- Bot toggle button (fixed bottom-right) -->
+<button
+  id="bot-toggle"
+  class="fixed bottom-6 right-6 z-[9990] w-14 h-14 rounded-full flex items-center justify-center shadow-xl transition-all hover:scale-110 active:scale-95"
+  style="background: #E63946; box-shadow: 0 2px 4px 0 rgba(255,255,255,0.3) inset, 0 8px 24px -4px rgba(230,57,70,0.4);"
+  aria-label="Ouvrir l'assistant d'orientation"
+>
+  <svg id="bot-icon-open" class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2">
+    <path stroke-linecap="round" stroke-linejoin="round" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" />
+  </svg>
+  <svg id="bot-icon-close" class="w-6 h-6 text-white hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2">
+    <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
+  </svg>
+</button>
+
+<!-- Bot panel -->
+<div
+  id="bot-panel"
+  class="fixed bottom-24 right-6 z-[9989] w-[340px] max-h-[480px] bg-white rounded-2xl shadow-2xl border border-gray-100 overflow-hidden hidden"
+  style="transform: translateY(10px); opacity: 0; transition: transform 0.3s cubic-bezier(0.16,1,0.3,1), opacity 0.3s ease;"
+>
+  <!-- Header -->
+  <div class="px-5 py-4 border-b border-gray-100 bg-gray-50/50">
+    <p class="font-display font-bold text-sm">Assistant d'orientation</p>
+    <p class="text-xs text-gray-400">Zéro IA, 100% local. Tes données ne sont pas collectées.</p>
+  </div>
+
+  <!-- Chat area -->
+  <div id="bot-chat" class="px-5 py-4 overflow-y-auto" style="max-height: 340px;">
+    <!-- Filled by JS -->
+  </div>
+</div>
+
+<script>
+  const toggle = document.getElementById("bot-toggle")!;
+  const panel = document.getElementById("bot-panel")!;
+  const chat = document.getElementById("bot-chat")!;
+  const iconOpen = document.getElementById("bot-icon-open")!;
+  const iconClose = document.getElementById("bot-icon-close")!;
+
+  let open = false;
+
+  toggle.addEventListener("click", () => {
+    open = !open;
+    if (open) {
+      panel.classList.remove("hidden");
+      requestAnimationFrame(() => {
+        panel.style.transform = "translateY(0)";
+        panel.style.opacity = "1";
+      });
+      iconOpen.classList.add("hidden");
+      iconClose.classList.remove("hidden");
+      if (!chat.hasChildNodes()) startConversation();
+    } else {
+      panel.style.transform = "translateY(10px)";
+      panel.style.opacity = "0";
+      setTimeout(() => panel.classList.add("hidden"), 300);
+      iconOpen.classList.remove("hidden");
+      iconClose.classList.add("hidden");
+    }
+  });
+
+  // ═══ CONVERSATION TREE ═══
+
+  const metiers: Record<string, { fiche: string; risk: string; label: string }> = {
+    "comptable": { fiche: "/metiers/comptable-ia", risk: "élevé (7/10)", label: "Comptable" },
+    "chef de projet": { fiche: "/metiers/chef-de-projet-ia", risk: "élevé (7/10)", label: "Chef de projet" },
+    "commercial": { fiche: "/metiers/commercial-ia", risk: "moyen (5/10)", label: "Commercial" },
+    "rh": { fiche: "/metiers/rh-recruteur-ia", risk: "moyen (6/10)", label: "RH / Recruteur" },
+    "recruteur": { fiche: "/metiers/rh-recruteur-ia", risk: "moyen (6/10)", label: "RH / Recruteur" },
+    "marketing": { fiche: "/metiers/marketing-ia", risk: "moyen (6/10)", label: "Marketing" },
+    "avocat": { fiche: "/metiers/avocat-ia", risk: "moyen (5/10)", label: "Avocat" },
+    "juriste": { fiche: "/metiers/avocat-ia", risk: "moyen (5/10)", label: "Juriste" },
+    "développeur": { fiche: "/metiers/developpeur-ia", risk: "moyen (6/10)", label: "Développeur" },
+    "dev": { fiche: "/metiers/developpeur-ia", risk: "moyen (6/10)", label: "Développeur" },
+    "journaliste": { fiche: "/metiers/journaliste-ia", risk: "élevé (7/10)", label: "Journaliste" },
+    "graphiste": { fiche: "/metiers/graphiste-ia", risk: "élevé (8/10)", label: "Graphiste" },
+    "designer": { fiche: "/metiers/graphiste-ia", risk: "élevé (8/10)", label: "Designer" },
+    "traducteur": { fiche: "/metiers/traducteur-ia", risk: "très élevé (9/10)", label: "Traducteur" },
+    "rédacteur": { fiche: "/metiers/copywriter-ia", risk: "élevé (8/10)", label: "Rédacteur / Copywriter" },
+    "copywriter": { fiche: "/metiers/copywriter-ia", risk: "élevé (8/10)", label: "Copywriter" },
+    "assistant": { fiche: "/metiers/assistant-administratif-ia", risk: "très élevé (9/10)", label: "Assistant administratif" },
+    "secrétaire": { fiche: "/metiers/assistant-administratif-ia", risk: "très élevé (9/10)", label: "Secrétaire" },
+    "enseignant": { fiche: "/metiers/enseignant-ia", risk: "faible (3/10)", label: "Enseignant" },
+    "prof": { fiche: "/metiers/enseignant-ia", risk: "faible (3/10)", label: "Enseignant" },
+    "architecte": { fiche: "/metiers/architecte-ia", risk: "moyen (4/10)", label: "Architecte" },
+    "agent immobilier": { fiche: "/metiers/agent-immobilier-ia", risk: "moyen (5/10)", label: "Agent immobilier" },
+    "photographe": { fiche: "/metiers/photographe-ia", risk: "élevé (7/10)", label: "Photographe" },
+    "infirmier": { fiche: "/metiers/infirmier-ia", risk: "faible (2/10)", label: "Infirmier" },
+    "aide-soignant": { fiche: "/metiers/infirmier-ia", risk: "faible (2/10)", label: "Aide-soignant" },
+    "cuisinier": { fiche: "/metiers/cuisinier-ia", risk: "faible (2/10)", label: "Cuisinier" },
+    "analyste": { fiche: "/metiers/analyste-financier-ia", risk: "moyen (6/10)", label: "Analyste financier" },
+    "data analyst": { fiche: "/metiers/data-analyst-ia", risk: "moyen (6/10)", label: "Data analyst" },
+    "consultant": { fiche: "/metiers/consultant-ia", risk: "moyen (6/10)", label: "Consultant" },
+    "support client": { fiche: "/metiers/charge-clientele-ia", risk: "très élevé (9/10)", label: "Support client" },
+    "call center": { fiche: "/metiers/charge-clientele-ia", risk: "très élevé (9/10)", label: "Chargé de clientèle" },
+    "community manager": { fiche: "/metiers/community-manager-ia", risk: "élevé (7/10)", label: "Community manager" },
+    "cm": { fiche: "/metiers/community-manager-ia", risk: "élevé (7/10)", label: "Community manager" },
+    "plombier": { fiche: "/metiers/plombier-ia", risk: "très faible (1/10)", label: "Plombier" },
+    "électricien": { fiche: "/metiers/plombier-ia", risk: "très faible (1/10)", label: "Électricien" },
+  };
+
+  function addMessage(text: string, isBot: boolean) {
+    const div = document.createElement("div");
+    div.style.cssText = `margin-bottom:12px;display:flex;${isBot ? "" : "justify-content:flex-end;"}`;
+    div.innerHTML = `<div style="max-width:85%;padding:10px 14px;border-radius:${isBot ? "4px 16px 16px 16px" : "16px 4px 16px 16px"};background:${isBot ? "#f3f4f6" : "#E63946"};color:${isBot ? "#1a1a2e" : "white"};font-size:13px;line-height:1.5;">${text}</div>`;
+
+    // Animate in
+    const inner = div.querySelector("div") as HTMLElement;
+    inner.style.opacity = "0";
+    inner.style.transform = "translateY(6px)";
+    inner.style.transition = "opacity 0.3s ease, transform 0.3s ease";
+    chat.appendChild(div);
+    requestAnimationFrame(() => {
+      inner.style.opacity = "1";
+      inner.style.transform = "translateY(0)";
+    });
+    chat.scrollTop = chat.scrollHeight;
+  }
+
+  function addChoices(choices: { text: string; action: () => void }[]) {
+    const div = document.createElement("div");
+    div.style.cssText = "margin-bottom:12px;display:flex;flex-wrap:wrap;gap:6px;";
+    choices.forEach((c, i) => {
+      const btn = document.createElement("button");
+      btn.textContent = c.text;
+      btn.style.cssText = "padding:7px 14px;border-radius:20px;border:1.5px solid #e5e7eb;background:white;font-size:12px;font-weight:500;cursor:pointer;transition:all 0.2s;color:#1a1a2e;";
+      btn.addEventListener("mouseenter", () => { btn.style.borderColor = "#E63946"; btn.style.color = "#E63946"; });
+      btn.addEventListener("mouseleave", () => { btn.style.borderColor = "#e5e7eb"; btn.style.color = "#1a1a2e"; });
+      btn.addEventListener("click", () => {
+        // Remove all choice buttons
+        div.remove();
+        addMessage(c.text, false);
+        setTimeout(c.action, 400);
+      });
+      // Stagger
+      btn.style.opacity = "0";
+      btn.style.transform = "translateY(4px)";
+      setTimeout(() => {
+        btn.style.transition = "opacity 0.3s ease, transform 0.3s ease, border-color 0.2s, color 0.2s";
+        btn.style.opacity = "1";
+        btn.style.transform = "translateY(0)";
+      }, 60 * i);
+      div.appendChild(btn);
+    });
+    chat.appendChild(div);
+    chat.scrollTop = chat.scrollHeight;
+  }
+
+  function addLink(text: string, href: string) {
+    const div = document.createElement("div");
+    div.style.cssText = "margin-bottom:12px;";
+    div.innerHTML = `<a href="${href}" style="display:inline-flex;align-items:center;gap:6px;padding:8px 16px;border-radius:20px;background:#E63946;color:white;font-size:12px;font-weight:600;text-decoration:none;transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">${text} <svg width="14" height="14" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M13 7l5 5m0 0l-5 5m5-5H6"/></svg></a>`;
+    chat.appendChild(div);
+    chat.scrollTop = chat.scrollHeight;
+  }
+
+  function startConversation() {
+    addMessage("Salut ! Je suis l'assistant d'orientation d'Adapte-toi. Je peux t'aider à trouver les bonnes ressources gratuites. Quelle est ta situation ?", true);
+
+    setTimeout(() => {
+      addChoices([
+        { text: "Je travaille et j'ai peur pour mon poste", action: flowWorker },
+        { text: "Je suis étudiant, je sais pas quoi faire", action: flowStudent },
+        { text: "Je cherche un emploi", action: flowJobSeeker },
+        { text: "Je veux me former à l'IA", action: flowLearnIA },
+        { text: "Je veux juste comprendre", action: flowUnderstand },
+      ]);
+    }, 600);
+  }
+
+  function flowWorker() {
+    addMessage("OK. Tu travailles dans quel domaine ?", true);
+    setTimeout(() => {
+      addChoices([
+        { text: "Bureau / administratif", action: () => matchMetier("assistant") },
+        { text: "Commerce / vente", action: () => matchMetier("commercial") },
+        { text: "Communication / marketing", action: () => matchMetier("marketing") },
+        { text: "Tech / développement", action: () => matchMetier("développeur") },
+        { text: "Finance / compta", action: () => matchMetier("comptable") },
+        { text: "Droit", action: () => matchMetier("avocat") },
+        { text: "Santé", action: () => matchMetier("infirmier") },
+        { text: "Artisanat / BTP", action: () => matchMetier("plombier") },
+        { text: "Autre", action: flowOtherMetier },
+      ]);
+    }, 500);
+  }
+
+  function flowStudent() {
+    addMessage("Pas de panique. Beaucoup d'étudiants se posent la question en ce moment. Tu étudies dans quel domaine ?", true);
+    setTimeout(() => {
+      addChoices([
+        { text: "Communication / marketing", action: () => studentAdvice("copywriter") },
+        { text: "Commerce / gestion", action: () => studentAdvice("commercial") },
+        { text: "Informatique / tech", action: () => studentAdvice("développeur") },
+        { text: "Droit", action: () => studentAdvice("avocat") },
+        { text: "Langues / traduction", action: () => studentAdvice("traducteur") },
+        { text: "Design / arts", action: () => studentAdvice("graphiste") },
+        { text: "Autre / je sais pas", action: flowGenericStudent },
+      ]);
+    }, 500);
+  }
+
+  function flowJobSeeker() {
+    addMessage("Les métiers qui recrutent le plus en 2026 sont ceux qui combinent compétences humaines + maîtrise de l'IA. Voici par où commencer :", true);
+    setTimeout(() => {
+      addLink("Fiches métier (voir les scores de risque)", "/metiers");
+      setTimeout(() => {
+        addMessage("Et pour te former gratuitement :", true);
+        setTimeout(() => addLink("Guides de formation gratuits", "/guides"), 400);
+      }, 600);
+    }, 500);
+  }
+
+  function flowLearnIA() {
+    addMessage("Bonne décision. Pas besoin de savoir coder. Voici les meilleures ressources gratuites :", true);
+    setTimeout(() => {
+      addLink("Se former à l'IA gratuitement", "/guides");
+      setTimeout(() => {
+        addMessage("Et pour savoir quels outils apprendre en priorité pour TON métier :", true);
+        setTimeout(() => addLink("Outils IA par métier", "/outils"), 400);
+      }, 600);
+    }, 500);
+  }
+
+  function flowUnderstand() {
+    addMessage("Voici l'essentiel en 3 chiffres :\n\n- 27% des emplois français menacés (OCDE)\n- 47% des actifs envisagent une reconversion (Ipsos)\n- +25% de salaire pour ceux qui maîtrisent l'IA (PwC)", true);
+    setTimeout(() => {
+      addLink("Voir tous les chiffres", "/");
+      setTimeout(() => {
+        addMessage("Pour aller plus loin :", true);
+        setTimeout(() => addLink("Fiches métier détaillées", "/metiers"), 400);
+      }, 600);
+    }, 500);
+  }
+
+  function addEmailCapture(context: string) {
+    const div = document.createElement("div");
+    div.style.cssText = "margin-bottom:12px;";
+    div.innerHTML = `
+      <div style="background:#f9fafb;border-radius:12px;padding:12px;border:1px solid #e5e7eb;">
+        <p style="font-size:12px;font-weight:600;margin-bottom:6px;color:#1a1a2e;">Tu veux qu'on t'accompagne ?</p>
+        <p style="font-size:11px;color:#6b7280;margin-bottom:8px;">Laisse ton email, on t'envoie un plan d'action personnalisé. Gratuit, pas de spam.</p>
+        <form class="bot-lead-form" style="display:flex;gap:6px;" data-context="${context}">
+          <input type="email" required placeholder="ton@email.com" style="flex:1;padding:7px 10px;border-radius:8px;border:1px solid #e5e7eb;font-size:12px;outline:none;" />
+          <button type="submit" style="padding:7px 14px;border-radius:8px;background:#E63946;color:white;font-size:11px;font-weight:600;border:none;cursor:pointer;white-space:nowrap;">Envoyer</button>
+        </form>
+        <p class="bot-lead-msg" style="font-size:11px;color:#22c55e;margin-top:4px;display:none;"></p>
+      </div>
+    `;
+    chat.appendChild(div);
+    chat.scrollTop = chat.scrollHeight;
+
+    const form = div.querySelector(".bot-lead-form") as HTMLFormElement;
+    const msg = div.querySelector(".bot-lead-msg") as HTMLElement;
+    form?.addEventListener("submit", async (e) => {
+      e.preventDefault();
+      const email = new FormData(form).get("email") as string;
+      if (!email) return;
+      try {
+        const r = await fetch("https://commbksqnwhpsyenjzuf.supabase.co/rest/v1/newsletter_subscribers", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+            "apikey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNvbW1ia3NxbndocHN5ZW5qenVmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzYwNzM3MjUsImV4cCI6MjA5MTY0OTcyNX0.6igBrd7TAiC5CamU5hmHfEd-JBb4MJuvGAyGHo6tJpU",
+            "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNvbW1ia3NxbndocHN5ZW5qenVmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzYwNzM3MjUsImV4cCI6MjA5MTY0OTcyNX0.6igBrd7TAiC5CamU5hmHfEd-JBb4MJuvGAyGHo6tJpU",
+            "Prefer": "return=minimal",
+          },
+          body: JSON.stringify({ email, source: `bot-${context}` }),
+        });
+        if (r.ok || r.status === 409) {
+          form.style.display = "none";
+          msg.style.display = "block";
+          msg.textContent = "C'est noté. On te contacte très vite.";
+        }
+      } catch { msg.style.display = "block"; msg.textContent = "Erreur, réessaie."; msg.style.color = "#ef4444"; }
+    });
+  }
+
+  function matchMetier(key: string) {
+    const m = metiers[key];
+    if (m) {
+      addMessage(`${m.label} : risque ${m.risk}. On a une fiche détaillée avec le plan d'action complet, les outils à maîtriser et les perspectives. Gratuit.`, true);
+      setTimeout(() => {
+        addLink(`Lire la fiche ${m.label}`, m.fiche);
+        setTimeout(() => addEmailCapture(m.label), 600);
+      }, 400);
+    } else {
+      flowOtherMetier();
+    }
+  }
+
+  function studentAdvice(key: string) {
+    const m = metiers[key];
+    if (m) {
+      addMessage(`Tu étudies dans un domaine avec un risque ${m.risk}. Ça ne veut pas dire qu'il faut arrêter. Ça veut dire qu'il faut ajouter des compétences IA à ta formation. La fiche t'explique exactement lesquelles.`, true);
+      setTimeout(() => {
+        addLink(`Lire la fiche ${m.label}`, m.fiche);
+        setTimeout(() => {
+          addMessage("Et pour te former à l'IA en parallèle de tes études (gratuit) :", true);
+          setTimeout(() => {
+            addLink("Guides de formation gratuits", "/guides");
+            setTimeout(() => addEmailCapture(`etudiant-${m.label}`), 600);
+          }, 400);
+        }, 600);
+      }, 400);
+    }
+  }
+
+  function flowGenericStudent() {
+    addMessage("Quel que soit ton domaine, 2 compétences te rendront irremplaçable en 2026 : la maîtrise des outils IA + les compétences humaines (créativité, relationnel, esprit critique).", true);
+    setTimeout(() => {
+      addLink("Fiches métier (trouve le tien)", "/metiers");
+      setTimeout(() => addLink("Se former à l'IA gratuitement", "/guides"), 400);
+    }, 500);
+  }
+
+  function flowOtherMetier() {
+    addMessage("On a 24 fiches métier détaillées. Tu trouveras probablement le tien ou un métier proche :", true);
+    setTimeout(() => addLink("Voir toutes les fiches métier", "/metiers"), 400);
+  }
+</script>
+
+<style>
+  @media (max-width: 640px) {
+    #bot-panel {
+      right: 0;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      max-height: 70vh;
+      border-radius: 16px 16px 0 0;
+    }
+    #bot-toggle {
+      bottom: 16px;
+      right: 16px;
+    }
+  }
+</style>

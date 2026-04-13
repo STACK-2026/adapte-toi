@@ -6,6 +6,7 @@ import Footer from "../components/Footer.astro";
 import CookieBanner from "../components/CookieBanner.astro";
 import Analytics from "../components/Analytics.astro";
 import EasterEggs from "../components/EasterEggs.astro";
+import OrientationBot from "../components/OrientationBot.astro";
 import "../styles/global.css";
 
 interface Props {
@@ -94,6 +95,7 @@ const jsonLdArray = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
     <CookieBanner />
     <Analytics />
     <EasterEggs />
+    <OrientationBot />
 
     <!-- Animation engine -->
     <script>
