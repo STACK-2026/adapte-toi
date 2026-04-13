@@ -83,14 +83,26 @@ const jsonLd = [
       <Content />
     </div>
 
-    <!-- CTA bas de guide -->
-    <div class="mt-12 p-6 bg-gray-50 rounded-2xl text-center">
-      <p class="font-bold text-lg mb-2">Prêt à passer à l'action ?</p>
-      <p class="text-gray-600 text-sm mb-4">Consulte la fiche de ton métier pour un plan d'action personnalisé.</p>
-      <div class="flex flex-col sm:flex-row gap-3 justify-center">
-        <a href="/metiers" class="text-primary font-semibold hover:underline">Fiches métier &rarr;</a>
-        <a href="/outils" class="text-primary font-semibold hover:underline">Outils IA &rarr;</a>
-        <a href="/newsletter" class="text-primary font-semibold hover:underline">Newsletter Le Signal &rarr;</a>
+    <!-- Maillage interne -->
+    <div class="mt-12 p-5 sm:p-6 bg-gray-50 rounded-2xl">
+      <p class="font-bold text-base sm:text-lg mb-4">Pour aller plus loin</p>
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+        <a href="/metiers" class="flex items-center gap-3 p-3 bg-white rounded-xl border border-gray-100 hover:border-primary/30 transition-colors text-sm">
+          <span class="text-lg">📊</span>
+          <span class="text-gray-700 font-medium">25 fiches métier avec score IA</span>
+        </a>
+        <a href="/outils" class="flex items-center gap-3 p-3 bg-white rounded-xl border border-gray-100 hover:border-primary/30 transition-colors text-sm">
+          <span class="text-lg">🛠️</span>
+          <span class="text-gray-700 font-medium">20 outils IA testés</span>
+        </a>
+        <a href="/guides/se-former-ia-gratuitement" class="flex items-center gap-3 p-3 bg-white rounded-xl border border-gray-100 hover:border-primary/30 transition-colors text-sm">
+          <span class="text-lg">🎓</span>
+          <span class="text-gray-700 font-medium">Se former gratuitement</span>
+        </a>
+        <a href="/newsletter" class="flex items-center gap-3 p-3 bg-white rounded-xl border border-gray-100 hover:border-primary/30 transition-colors text-sm">
+          <span class="text-lg">📬</span>
+          <span class="text-gray-700 font-medium">Newsletter Le Signal</span>
+        </a>
       </div>
     </div>
   </article>

@@ -10,12 +10,23 @@ export async function getStaticPaths() {
   const fiches = await getCollection("metiers", ({ data }) => !data.draft);
   return fiches.map((fiche) => ({
     params: { slug: fiche.id },
-    props: { fiche },
+    props: { fiche, allFiches: fiches },
   }));
 }
 
-const { fiche } = Astro.props;
+const { fiche, allFiches } = Astro.props;
 const { Content } = await render(fiche);
+
+// Related fiches: same sector first, then closest risk score
+const otherFiches = allFiches
+  .filter((f) => f.id !== fiche.id)
+  .sort((a, b) => {
+    const sameA = a.data.sector === fiche.data.sector ? -10 : 0;
+    const sameB = b.data.sector === fiche.data.sector ? -10 : 0;
+    const distA = Math.abs(a.data.riskScore - fiche.data.riskScore);
+    const distB = Math.abs(b.data.riskScore - fiche.data.riskScore);
+    return (sameA + distA) - (sameB + distB);
+  });
 
 const ficheUrl = fullUrl(`/metiers/${fiche.id}`);
 const dateStr = fiche.data.date.toISOString().split("T")[0];
@@ -147,14 +158,51 @@ const jsonLd = [
       }
     </script>
 
-    <!-- CTA bas de fiche -->
-    <div class="mt-12 p-6 bg-gray-50 rounded-2xl text-center">
-      <p class="font-bold text-lg mb-2">Ton métier est impacte ?</p>
-      <p class="text-gray-600 text-sm mb-4">Consulte nos guides de reconversion et nos fiches outils pour passer à l'action.</p>
-      <div class="flex flex-col sm:flex-row gap-3 justify-center">
-        <a href="/guides" class="text-primary font-semibold hover:underline">Guides de reconversion &rarr;</a>
-        <a href="/outils" class="text-primary font-semibold hover:underline">Outils IA par métier &rarr;</a>
+    <!-- Maillage interne : guides liés -->
+    <div class="mt-12 p-5 sm:p-6 bg-gray-50 rounded-2xl">
+      <p class="font-bold text-base sm:text-lg mb-4">Passe à l'action</p>
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+        <a href="/guides/reconversion-ia-guide-complet" class="flex items-center gap-3 p-3 bg-white rounded-xl border border-gray-100 hover:border-primary/30 transition-colors text-sm">
+          <span class="text-primary font-bold text-lg">📖</span>
+          <span class="text-gray-700 font-medium">Guide reconversion IA</span>
+        </a>
+        <a href="/guides/se-former-ia-gratuitement" class="flex items-center gap-3 p-3 bg-white rounded-xl border border-gray-100 hover:border-primary/30 transition-colors text-sm">
+          <span class="text-primary font-bold text-lg">🎓</span>
+          <span class="text-gray-700 font-medium">Se former gratuitement</span>
+        </a>
+        <a href="/guides/prompt-engineering-debutant" class="flex items-center gap-3 p-3 bg-white rounded-xl border border-gray-100 hover:border-primary/30 transition-colors text-sm">
+          <span class="text-primary font-bold text-lg">💡</span>
+          <span class="text-gray-700 font-medium">Apprendre le prompt</span>
+        </a>
+        <a href="/guides/financer-formation-ia-cpf" class="flex items-center gap-3 p-3 bg-white rounded-xl border border-gray-100 hover:border-primary/30 transition-colors text-sm">
+          <span class="text-primary font-bold text-lg">💰</span>
+          <span class="text-gray-700 font-medium">Financer avec le CPF</span>
+        </a>
+        <a href="/outils/chatgpt" class="flex items-center gap-3 p-3 bg-white rounded-xl border border-gray-100 hover:border-primary/30 transition-colors text-sm">
+          <span class="text-primary font-bold text-lg">🤖</span>
+          <span class="text-gray-700 font-medium">Guide ChatGPT</span>
+        </a>
+        <a href="/outils/claude" class="flex items-center gap-3 p-3 bg-white rounded-xl border border-gray-100 hover:border-primary/30 transition-colors text-sm">
+          <span class="text-primary font-bold text-lg">🧠</span>
+          <span class="text-gray-700 font-medium">Guide Claude</span>
+        </a>
       </div>
     </div>
+
+    <!-- Fiches métier liées -->
+    {otherFiches.length > 0 && (
+      <div class="mt-8">
+        <p class="font-bold text-base mb-4">Fiches métier similaires</p>
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-3">
+          {otherFiches.slice(0, 3).map((f) => (
+            <a href={`/metiers/${f.id}`} class="flex items-center gap-3 p-3 bg-white rounded-xl border border-gray-100 hover:border-primary/30 transition-colors text-sm">
+              <span class="font-display font-bold text-primary">{f.data.riskScore}/10</span>
+              <span class="text-gray-700 font-medium truncate">{f.data.metier}</span>
+            </a>
+          ))}
+        </div>
+        <a href="/metiers" class="inline-block mt-4 text-primary text-sm font-semibold hover:underline">Voir les 25 fiches métier &rarr;</a>
+      </div>
+    )}
   </article>
 </BaseLayout>
