@@ -84,6 +84,8 @@ const jsonLdArray = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
     ))}
   </head>
   <body class="min-h-screen flex flex-col">
+    <!-- Cursor glow (desktop only) -->
+    <div id="cursor-glow"></div>
     <Header />
     <main class="flex-1">
       <slot />
@@ -176,6 +178,73 @@ const jsonLdArray = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
           }
         }, { passive: true });
       }
+
+      // 5. Cursor glow (desktop only, follows mouse)
+      const glow = document.getElementById("cursor-glow");
+      if (glow && window.matchMedia("(pointer: fine)").matches) {
+        let glowX = 0, glowY = 0, targetX = 0, targetY = 0;
+        let glowVisible = false;
+
+        document.addEventListener("mousemove", (e) => {
+          targetX = e.clientX;
+          targetY = e.clientY;
+          if (!glowVisible) {
+            glow.style.opacity = "1";
+            glowVisible = true;
+          }
+        });
+
+        document.addEventListener("mouseleave", () => {
+          glow.style.opacity = "0";
+          glowVisible = false;
+        });
+
+        // Smooth follow (lerp)
+        function animateGlow() {
+          glowX += (targetX - glowX) * 0.08;
+          glowY += (targetY - glowY) * 0.08;
+          glow.style.left = glowX + "px";
+          glow.style.top = glowY + "px";
+          requestAnimationFrame(animateGlow);
+        }
+        animateGlow();
+      }
+
+      // 6. Magnetic effect on buttons/links with .magnetic class
+      if (window.matchMedia("(pointer: fine)").matches) {
+        document.querySelectorAll(".magnetic, a[class*='rounded-full']").forEach((el) => {
+          const elem = el as HTMLElement;
+          const strength = 0.3;
+
+          elem.addEventListener("mousemove", (e: MouseEvent) => {
+            const rect = elem.getBoundingClientRect();
+            const cx = rect.left + rect.width / 2;
+            const cy = rect.top + rect.height / 2;
+            const dx = (e.clientX - cx) * strength;
+            const dy = (e.clientY - cy) * strength;
+            elem.style.transform = `translate(${dx}px, ${dy}px)`;
+          });
+
+          elem.addEventListener("mouseleave", () => {
+            elem.style.transform = "translate(0, 0)";
+            elem.style.transition = "transform 0.4s cubic-bezier(0.16, 1, 0.3, 1)";
+            setTimeout(() => { elem.style.transition = ""; }, 400);
+          });
+        });
+      }
+
+      // 7. Smooth scroll with easing (Lenis-like, lightweight)
+      document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
+        anchor.addEventListener("click", (e) => {
+          const href = (anchor as HTMLAnchorElement).getAttribute("href");
+          if (!href || href === "#") return;
+          const target = document.querySelector(href);
+          if (!target) return;
+          e.preventDefault();
+          const y = target.getBoundingClientRect().top + window.scrollY - 100;
+          window.scrollTo({ top: y, behavior: "smooth" });
+        });
+      });
     </script>
   </body>
 </html>
