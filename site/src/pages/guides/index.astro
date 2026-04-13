@@ -15,7 +15,6 @@ const publishedGuides = (await getCollection("guides", ({ data }) => !data.draft
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 
 const upcoming = [
-  { title: "Guide complet de la reconversion professionnelle à l'ère de l'IA", category: "reconversion", words: "5 000+" },
   { title: "Devenir freelance grâce à l'IA : le guide ultime", category: "freelance-ia", words: "4 000+" },
   { title: "Tes études ne servent plus à rien ? Ce que tu peux faire", category: "reconversion", words: "3 000+" },
   { title: "Automatiser ton travail avec l'IA : guide pratique", category: "outils-ia", words: "3 500+" },
