@@ -1,0 +1,121 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+---
+
+<BaseLayout title="Admin | Adapte-toi" description="Dashboard analytics" noIndex>
+  <div class="max-w-4xl mx-auto px-4 py-8">
+    <h1 class="mb-6">Dashboard</h1>
+
+    <!-- KPIs -->
+    <div class="grid grid-cols-2 sm:grid-cols-4 gap-4 mb-8" id="kpis">
+      <div class="bg-white rounded-xl p-4 border border-gray-100 shadow-sm text-center">
+        <p class="text-2xl font-bold text-primary" id="kpi-total">-</p>
+        <p class="text-xs text-gray-500">Pages vues (total)</p>
+      </div>
+      <div class="bg-white rounded-xl p-4 border border-gray-100 shadow-sm text-center">
+        <p class="text-2xl font-bold text-green-600" id="kpi-humans">-</p>
+        <p class="text-xs text-gray-500">Humains</p>
+      </div>
+      <div class="bg-white rounded-xl p-4 border border-gray-100 shadow-sm text-center">
+        <p class="text-2xl font-bold text-orange-500" id="kpi-bots">-</p>
+        <p class="text-xs text-gray-500">Bots</p>
+      </div>
+      <div class="bg-white rounded-xl p-4 border border-gray-100 shadow-sm text-center">
+        <p class="text-2xl font-bold text-secondary" id="kpi-subs">-</p>
+        <p class="text-xs text-gray-500">Abonnés newsletter</p>
+      </div>
+    </div>
+
+    <!-- Top pages -->
+    <div class="bg-white rounded-xl p-5 border border-gray-100 shadow-sm mb-6">
+      <h2 class="font-bold text-lg mb-4">Pages les plus vues</h2>
+      <div id="top-pages" class="space-y-2 text-sm">
+        <p class="text-gray-400">Chargement...</p>
+      </div>
+    </div>
+
+    <!-- Recent views -->
+    <div class="bg-white rounded-xl p-5 border border-gray-100 shadow-sm mb-6">
+      <h2 class="font-bold text-lg mb-4">Dernières visites</h2>
+      <div id="recent-views" class="space-y-2 text-sm">
+        <p class="text-gray-400">Chargement...</p>
+      </div>
+    </div>
+
+    <!-- Newsletter subscribers -->
+    <div class="bg-white rounded-xl p-5 border border-gray-100 shadow-sm">
+      <h2 class="font-bold text-lg mb-4">Abonnés newsletter</h2>
+      <div id="subscribers" class="space-y-2 text-sm">
+        <p class="text-gray-400">Chargement...</p>
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+
+<script>
+  const SB = "https://commbksqnwhpsyenjzuf.supabase.co";
+  const KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNvbW1ia3NxbndocHN5ZW5qenVmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzYwNzM3MjUsImV4cCI6MjA5MTY0OTcyNX0.6igBrd7TAiC5CamU5hmHfEd-JBb4MJuvGAyGHo6tJpU";
+
+  const headers = { "apikey": KEY, "Authorization": `Bearer ${KEY}` };
+
+  async function fetchData() {
+    // KPIs
+    const pvRes = await fetch(`${SB}/rest/v1/page_views?select=id,is_bot`, { headers });
+    const pvs = await pvRes.json();
+    const total = pvs.length;
+    const humans = pvs.filter((p: any) => !p.is_bot).length;
+    const bots = pvs.filter((p: any) => p.is_bot).length;
+
+    document.getElementById("kpi-total")!.textContent = String(total);
+    document.getElementById("kpi-humans")!.textContent = String(humans);
+    document.getElementById("kpi-bots")!.textContent = String(bots);
+
+    // Subscribers
+    const subRes = await fetch(`${SB}/rest/v1/newsletter_subscribers?select=id,email,source,subscribed_at&order=subscribed_at.desc`, { headers });
+    const subs = await subRes.json();
+    document.getElementById("kpi-subs")!.textContent = String(subs.length);
+
+    const subsDiv = document.getElementById("subscribers")!;
+    if (subs.length === 0) {
+      subsDiv.innerHTML = '<p class="text-gray-400">Aucun abonné pour l\'instant.</p>';
+    } else {
+      subsDiv.innerHTML = subs.map((s: any) =>
+        `<div class="flex items-center justify-between py-2 border-b border-gray-50">
+          <span class="font-medium">${s.email}</span>
+          <span class="text-xs text-gray-400">${s.source} · ${new Date(s.subscribed_at).toLocaleDateString("fr-FR")}</span>
+        </div>`
+      ).join("");
+    }
+
+    // Top pages
+    const topRes = await fetch(`${SB}/rest/v1/page_views?select=path&is_bot=eq.false`, { headers });
+    const tops = await topRes.json();
+    const pathCounts: Record<string, number> = {};
+    tops.forEach((p: any) => { pathCounts[p.path] = (pathCounts[p.path] || 0) + 1; });
+    const sorted = Object.entries(pathCounts).sort((a, b) => b[1] - a[1]).slice(0, 15);
+
+    const topDiv = document.getElementById("top-pages")!;
+    topDiv.innerHTML = sorted.map(([path, count]) =>
+      `<div class="flex items-center justify-between py-1.5">
+        <a href="${path}" class="text-primary hover:underline truncate mr-4">${path}</a>
+        <span class="text-xs text-gray-400 font-mono flex-shrink-0">${count}</span>
+      </div>`
+    ).join("");
+
+    // Recent views
+    const recentRes = await fetch(`${SB}/rest/v1/page_views?select=path,created_at,is_bot,referrer&order=created_at.desc&limit=20&is_bot=eq.false`, { headers });
+    const recents = await recentRes.json();
+
+    const recentDiv = document.getElementById("recent-views")!;
+    recentDiv.innerHTML = recents.map((r: any) => {
+      const time = new Date(r.created_at).toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit" });
+      const date = new Date(r.created_at).toLocaleDateString("fr-FR");
+      return `<div class="flex items-center justify-between py-1.5 text-xs">
+        <span class="text-primary truncate mr-2">${r.path}</span>
+        <span class="text-gray-400 flex-shrink-0">${date} ${time}${r.referrer ? ` · ${new URL(r.referrer).hostname}` : ""}</span>
+      </div>`;
+    }).join("");
+  }
+
+  fetchData();
+</script>
