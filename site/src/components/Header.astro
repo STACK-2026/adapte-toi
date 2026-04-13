@@ -2,13 +2,22 @@
 import { siteConfig } from "../../site.config";
 ---
 
-<header id="site-header" class="fixed top-0 left-0 right-0 z-50 bg-white/90 backdrop-blur-md border-b border-gray-100/80 transition-transform duration-500 ease-in-out">
-  <!-- Alert bar - urgence éditoriale -->
-  <div class="bg-secondary text-white text-xs text-center py-1.5 px-4 slide-in-top">
-    <span class="pulse-signal inline-block w-2 h-2 bg-accent rounded-full mr-2"></span>
-    27% des emplois français menacés par l'IA d'ici 2030 (OCDE)
-    <a href="/guides/reconversion-ia-guide-complet" class="ml-2 underline underline-offset-2 font-medium hover:text-accent transition-colors">Que faire ?</a>
-  </div>
+<header id="site-header" class="fixed top-0 left-0 right-0 z-50 bg-white/95 backdrop-blur-xl border-b border-gray-200/50 transition-transform duration-500 ease-in-out">
+  <!-- Alert bar - modern gradient banner -->
+  <a href="/guides/reconversion-ia-guide-complet" class="block slide-in-top group" style="background: linear-gradient(90deg, #1D3557, #2a4a7f, #1D3557);">
+    <div class="flex items-center justify-center gap-2 py-1.5 sm:py-2 px-3 sm:px-4 text-white">
+      <span class="relative flex h-2 w-2 flex-shrink-0">
+        <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-accent opacity-75"></span>
+        <span class="relative inline-flex rounded-full h-2 w-2 bg-accent"></span>
+      </span>
+      <span class="text-[10px] sm:text-xs font-medium tracking-wide">
+        <span class="hidden sm:inline"><strong class="text-accent">27%</strong> des emplois français menacés par l'IA d'ici 2030</span>
+        <span class="sm:hidden"><strong class="text-accent">27%</strong> des emplois menacés par l'IA</span>
+        <span class="text-white/60 mx-1.5">·</span>
+        <span class="text-white/90 group-hover:text-accent transition-colors">Que faire ? &rarr;</span>
+      </span>
+    </div>
+  </a>
 
   <nav class="max-w-6xl mx-auto px-4 h-14 flex items-center justify-between">
     <!-- Logo -->
