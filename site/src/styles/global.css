@@ -71,6 +71,50 @@ a:focus-visible, button:focus-visible, [tabindex]:focus-visible, summary:focus-v
 
 
 
+/* === Section divider glow (fondu entre sections) === */
+section + section {
+  position: relative;
+}
+
+section + section::before {
+  content: "";
+  position: absolute;
+  top: -1px;
+  left: 0;
+  right: 0;
+  height: 80px;
+  background: linear-gradient(to bottom, var(--section-prev-bg, transparent), transparent);
+  pointer-events: none;
+  z-index: 1;
+}
+
+/* Sections avec fond sombre -> glow rouge subtil en dessous */
+.bg-secondary + section::before {
+  height: 120px;
+  background: linear-gradient(to bottom, #1D3557 0%, rgba(29, 53, 87, 0.3) 30%, transparent 100%);
+}
+
+/* Sections avec fond gris -> fondu doux */
+.bg-gray-50 + section::before {
+  background: linear-gradient(to bottom, #f9fafb, transparent);
+}
+
+/* Section fond blanc -> pas de glow visible (blanc sur blanc) */
+
+/* Glow accent entre le hero et la section problème */
+section:first-of-type::after {
+  content: "";
+  position: absolute;
+  bottom: -40px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60%;
+  height: 80px;
+  background: radial-gradient(ellipse at center, rgba(230, 57, 70, 0.06) 0%, transparent 70%);
+  pointer-events: none;
+  z-index: 1;
+}
+
 /* === Grain Overlay (film analog texture) - desktop only === */
 @media (min-width: 768px) {
   body::before {

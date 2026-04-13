@@ -113,9 +113,39 @@ const jsonLd = [
       </figure>
     )}
 
-    <div class="prose max-w-none">
+    <!-- Table des matières sticky (auto-générée par JS) -->
+    <nav id="fiche-toc" class="hidden sm:block sticky top-24 float-right -mr-48 w-40 ml-8 mb-8 text-xs" aria-label="Table des matières">
+      <p class="font-bold text-gray-400 uppercase tracking-wider mb-3 text-[10px]">Sommaire</p>
+      <ul id="fiche-toc-list" class="space-y-2 border-l-2 border-gray-100 pl-3"></ul>
+    </nav>
+
+    <div class="prose max-w-none" id="fiche-content">
       <Content />
     </div>
+
+    <script>
+      // Auto-generate TOC from H2s in fiche content
+      const content = document.getElementById("fiche-content");
+      const tocList = document.getElementById("fiche-toc-list");
+      const toc = document.getElementById("fiche-toc");
+      if (content && tocList) {
+        const h2s = content.querySelectorAll("h2");
+        if (h2s.length >= 3) {
+          h2s.forEach((h2, i) => {
+            const id = h2.id || `section-${i}`;
+            h2.id = id;
+            const li = document.createElement("li");
+            li.innerHTML = `<a href="#${id}" class="text-gray-400 hover:text-primary transition-colors block py-0.5 leading-tight">${h2.textContent}</a>`;
+            tocList.appendChild(li);
+          });
+          // Show TOC only if enough space (wide screens)
+          if (window.innerWidth >= 1280 && toc) {
+            toc.classList.remove("hidden");
+            toc.classList.add("block");
+          }
+        }
+      }
+    </script>
 
     <!-- CTA bas de fiche -->
     <div class="mt-12 p-6 bg-gray-50 rounded-2xl text-center">
