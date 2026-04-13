@@ -17,6 +17,8 @@
 html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #ffffff; /* FIX iOS: html bg visible au-dessus du viewport */
+  overscroll-behavior-y: none; /* FIX iOS: empêche le rubber band bounce */
 }
 
 body {
@@ -71,18 +73,22 @@ a:focus-visible, button:focus-visible, [tabindex]:focus-visible, summary:focus-v
 /* === iOS Safe Area + header stacking fix === */
 #site-header {
   padding-top: env(safe-area-inset-top, 0px);
+  background-color: #ffffff; /* OPAQUE, pas transparent */
+  -webkit-transform: translate3d(0, 0, 0); /* force GPU layer iOS */
+  will-change: transform;
 }
 
-/* Pseudo-element qui couvre la zone au-dessus du header sur iOS */
-#site-header::before {
+/* Bloc blanc au-dessus du header pour masquer le contenu sur iOS bounce */
+body::after {
   content: "";
-  position: absolute;
-  top: -100px;
+  position: fixed;
+  top: -100vh;
   left: 0;
   right: 0;
-  height: 100px;
-  background: white;
-  z-index: 1;
+  height: 100vh;
+  background: #ffffff;
+  z-index: 49; /* juste sous le header z-50 */
+  pointer-events: none;
 }
 
 /* === Grain Overlay (film analog texture) === */

@@ -111,8 +111,21 @@ import { siteConfig } from "../../site.config";
   </div>
 </header>
 
-<!-- Spacer for fixed header (alert bar + nav) -->
-<div class="h-[88px]"></div>
+<!-- Spacer for fixed header (dynamic height) -->
+<div id="header-spacer" class="h-[88px]"></div>
+
+<script>
+  // Dynamic header height spacer
+  function updateHeaderHeight() {
+    const header = document.getElementById("site-header");
+    const spacer = document.getElementById("header-spacer");
+    if (header && spacer) {
+      spacer.style.height = header.offsetHeight + "px";
+    }
+  }
+  updateHeaderHeight();
+  window.addEventListener("resize", updateHeaderHeight);
+</script>
 
 <script>
   // Announcement bar dismiss
@@ -126,6 +139,12 @@ import { siteConfig } from "../../site.config";
     e.stopPropagation();
     if (bar) { bar.style.maxHeight = "0"; bar.style.opacity = "0"; }
     localStorage.setItem("announcement-dismissed", "1");
+    // Update spacer height after animation
+    setTimeout(() => {
+      const header = document.getElementById("site-header");
+      const spacer = document.getElementById("header-spacer");
+      if (header && spacer) spacer.style.height = header.offsetHeight + "px";
+    }, 350);
   });
 
   // Mobile menu toggle
