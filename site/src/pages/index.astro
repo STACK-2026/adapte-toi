@@ -23,57 +23,72 @@ const recentPosts = (await getCollection("blog", ({ data }) => !data.draft))
   description={siteConfig.description}
   jsonLd={jsonLdHomepage()}
 >
-  {/* 1. Hero - accroche + CTA */}
+  {/* 1. Hero */}
   <Hero />
 
-  {/* 2. Probleme - les chiffres choc */}
+  {/* 2. Problème - chiffres choc, urgence */}
   <Problem />
 
-  {/* 3. Stats - données sourcées */}
-  <Stats />
-
-  {/* 4. Features - ce qu'on propose */}
-  <Features />
-
-  {/* 5. Comment ça marche */}
+  {/* 3. Comment ça marche - la solution, tout de suite */}
   <HowItWorks />
 
-  {/* 6. Témoignage / social proof */}
-  <section class="py-20 px-4 bg-gray-50">
-    <div class="max-w-4xl mx-auto text-center fade-up">
-      <h2 class="mb-8">Ils se sont adaptés</h2>
+  {/* 4. CTA mid-page - action immédiate */}
+  <CTA />
+
+  {/* 5. Stats sourcées */}
+  <Stats />
+
+  {/* 6. Features - ce qu'on propose */}
+  <Features />
+
+  {/* 7. Témoignages */}
+  <section class="py-20 px-4 bg-gray-50 overflow-hidden">
+    <div class="max-w-4xl mx-auto text-center">
+      <h2 class="mb-4 fade-up">Ils se sont adaptés</h2>
+      <p class="text-gray-500 mb-10 fade-up">Des histoires vraies de gens qui ont pris leur carrière en main.</p>
       <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-        <blockquote class="bg-white rounded-2xl p-8 text-left border border-gray-100 shadow-sm">
-          <p class="text-gray-700 mb-4 italic">
-            "J'etais chef de projet IT depuis 12 ans. Quand j'ai vu les chiffres d'Anthropic sur la baisse des offres dans mon domaine, j'ai compris qu'il fallait bouger. Grace aux guides d'Adapte-toi, je me suis forme au prompt engineering et j'ai lance mon activité de consultant IA."
+        <blockquote class="bg-white rounded-2xl p-8 text-left border border-gray-100 shadow-sm hover:shadow-md transition-all hover:-translate-y-1 fade-up">
+          <div class="flex items-center gap-3 mb-4">
+            <div class="w-10 h-10 rounded-full bg-secondary/10 flex items-center justify-center text-secondary font-bold text-sm">M</div>
+            <div>
+              <span class="font-semibold text-secondary text-sm">Marc, 41 ans</span>
+              <span class="text-gray-400 text-xs block">Ex-chef de projet IT</span>
+            </div>
+          </div>
+          <p class="text-gray-700 italic leading-relaxed">
+            "J'étais chef de projet IT depuis 12 ans. Quand j'ai vu les chiffres d'Anthropic sur la baisse des offres dans mon domaine, j'ai compris qu'il fallait bouger. Grâce aux guides d'Adapte-toi, je me suis formé au prompt engineering et j'ai lancé mon activité de consultant IA."
           </p>
-          <footer class="text-sm">
-            <span class="font-semibold text-secondary">Marc, 41 ans</span>
-            <span class="text-gray-400"> - Ex-chef de projet IT, aujourd'hui consultant IA</span>
-          </footer>
+          <a href="/metiers/chef-de-projet-ia" class="text-primary text-sm font-medium mt-4 inline-block hover:underline">Lire la fiche métier &rarr;</a>
         </blockquote>
-        <blockquote class="bg-white rounded-2xl p-8 text-left border border-gray-100 shadow-sm">
-          <p class="text-gray-700 mb-4 italic">
-            "En deuxieme année de communication, je me demandais si ça valait le coup de continuer. Adapte-toi m'a aide à comprendre quelles compétences ajouter a ma formation pour rester pertinente. Aujourd'hui je maîtrise les outils IA et je suis plus bankable que mes profs."
+        <blockquote class="bg-white rounded-2xl p-8 text-left border border-gray-100 shadow-sm hover:shadow-md transition-all hover:-translate-y-1 fade-up">
+          <div class="flex items-center gap-3 mb-4">
+            <div class="w-10 h-10 rounded-full bg-accent/10 flex items-center justify-center text-accent font-bold text-sm">I</div>
+            <div>
+              <span class="font-semibold text-secondary text-sm">Inès, 23 ans</span>
+              <span class="text-gray-400 text-xs block">Étudiante en communication</span>
+            </div>
+          </div>
+          <p class="text-gray-700 italic leading-relaxed">
+            "En deuxième année de communication, je me demandais si ça valait le coup de continuer. Adapte-toi m'a aidé à comprendre quelles compétences ajouter à ma formation pour rester pertinente. Aujourd'hui je maîtrise les outils IA et je suis plus demandée que mes profs."
           </p>
-          <footer class="text-sm">
-            <span class="font-semibold text-secondary">Ines, 23 ans</span>
-            <span class="text-gray-400"> - Etudiante en communication, spécialisée IA</span>
-          </footer>
+          <a href="/metiers/copywriter-ia" class="text-primary text-sm font-medium mt-4 inline-block hover:underline">Lire la fiche métier &rarr;</a>
         </blockquote>
       </div>
-      <a href="/temoignages" class="inline-block mt-8 text-primary font-semibold hover:underline">
+      <a href="/temoignages" class="inline-block mt-10 text-primary font-semibold hover:underline fade-up">
         Voir tous les témoignages &rarr;
       </a>
     </div>
   </section>
 
-  {/* 7. Blog preview */}
+  {/* 8. Blog preview */}
   {recentPosts.length > 0 && (
     <section class="py-20 px-4">
       <div class="max-w-6xl mx-auto">
         <div class="flex items-center justify-between mb-8 fade-up">
-          <h2>{siteConfig.blog.name} - Derniers articles</h2>
+          <div>
+            <h2>{siteConfig.blog.name}</h2>
+            <p class="text-gray-500 text-sm mt-1">Les derniers articles sur l'IA et l'emploi</p>
+          </div>
           <a href="/blog" class="text-primary font-semibold text-sm hover:underline hidden sm:inline">
             Tous les articles &rarr;
           </a>
@@ -100,12 +115,43 @@ const recentPosts = (await getCollection("blog", ({ data }) => !data.draft))
     </section>
   )}
 
-  {/* 8. Newsletter */}
+  {/* 9. Newsletter */}
   <Newsletter />
 
-  {/* 9. FAQ */}
+  {/* 10. FAQ */}
   <FAQ />
 
-  {/* 10. CTA final */}
-  <CTA />
+  {/* 11. CTA final */}
+  <section class="py-20 px-4">
+    <div
+      class="max-w-4xl mx-auto text-center text-white rounded-2xl p-12 md:p-16 relative overflow-hidden"
+      style={`background: ${siteConfig.colors.secondary};`}
+    >
+      <div class="absolute inset-0 opacity-5" style="background-image: linear-gradient(white 1px, transparent 1px), linear-gradient(to right, white 1px, transparent 1px); background-size: 30px 30px;"></div>
+      <div class="relative">
+        <h2 class="text-white mb-4 fade-up">Le monde change. Toi aussi.</h2>
+        <p class="text-white/70 text-lg mb-8 max-w-xl mx-auto fade-up">
+          N'attends pas que ton poste disparaisse pour réagir. Explore nos fiches métier, lis nos guides, et commence ta transformation dès aujourd'hui.
+        </p>
+        <div class="flex flex-col sm:flex-row gap-4 justify-center fade-up">
+          <a
+            href="/metiers"
+            class="inline-flex items-center gap-2 font-bold px-8 py-4 rounded-xl text-lg transition-all hover:scale-105 hover:shadow-lg"
+            style={`background: ${siteConfig.colors.primary}; color: white;`}
+          >
+            Explorer les métiers
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6" />
+            </svg>
+          </a>
+          <a
+            href="/newsletter"
+            class="inline-flex items-center gap-2 border-2 border-white/30 text-white font-bold px-8 py-4 rounded-xl text-lg transition-all hover:bg-white/10"
+          >
+            Recevoir Le Signal
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
 </BaseLayout>

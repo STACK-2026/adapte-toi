@@ -1,11 +1,11 @@
 ---
 const stats = [
-  { value: "27%", label: "des emplois français menacés", source: "OCDE" },
-  { value: "93%", label: "des métiers impactés par l'IA", source: "Cognizant 2026" },
-  { value: "47%", label: "des actifs envisagent une reconversion", source: "Ipsos" },
-  { value: "+270%", label: "de croissance des offres IA", source: "LinkedIn" },
-  { value: "30%", label: "des heures automatisables d'ici 2030", source: "McKinsey" },
-  { value: "+25%", label: "de salaire pour les profils IA-ready", source: "PwC" },
+  { value: "27%", label: "des emplois français menacés", source: "OCDE", detail: "Soit plus de 4 millions de postes exposés à un risque d'automatisation élevé d'ici 2030. Les métiers intellectuels et répétitifs sont les plus touchés." },
+  { value: "93%", label: "des métiers impactés par l'IA", source: "Cognizant 2026", detail: "Selon le rapport 'New Work, New World' de février 2026, la quasi-totalité des professions sera transformée par l'IA générative dès cette année." },
+  { value: "47%", label: "des actifs envisagent une reconversion", source: "Ipsos", detail: "Près d'un actif français sur deux pense à changer de métier, la montée en compétences IA étant une motivation principale citée." },
+  { value: "+270%", label: "de croissance des offres IA", source: "LinkedIn", detail: "Entre 2019 et 2024, les offres d'emploi mentionnant l'intelligence artificielle ont été multipliées par presque 4 sur LinkedIn." },
+  { value: "30%", label: "des heures automatisables d'ici 2030", source: "McKinsey", detail: "McKinsey estime que près d'un tiers des heures travaillées dans les économies avancées pourrait être automatisé par l'IA générative." },
+  { value: "+25%", label: "de salaire pour les profils IA-ready", source: "PwC", detail: "Les professionnels qui maîtrisent les outils IA gagnent en moyenne 25% de plus que leurs homologues sans compétences IA, selon PwC." },
 ];
 ---
 
@@ -13,18 +13,37 @@ const stats = [
   <div class="max-w-6xl mx-auto">
     <h2 class="text-center mb-4 fade-up">Les chiffres qui comptent</h2>
     <p class="text-center text-gray-500 mb-12 max-w-xl mx-auto fade-up">
-      Pas d'opinions, pas de spéculation. Que des données sourcées.
+      Pas d'opinions, pas de spéculation. Que des données sourcées. Clique pour en savoir plus.
     </p>
-    <div class="grid grid-cols-2 md:grid-cols-3 gap-6">
-      {stats.map((stat, i) => (
-        <div class="text-center p-6 rounded-2xl bg-white border border-gray-100 shadow-sm hover:shadow-md transition-shadow fade-up" style={`transition-delay: ${i * 80}ms`}>
-          <p class="font-display font-bold text-3xl md:text-4xl mb-2" style="color: var(--color-primary);">
+    <div class="grid grid-cols-2 md:grid-cols-3 gap-6 stagger-children">
+      {stats.map((stat) => (
+        <button
+          class="stat-card text-center p-6 rounded-2xl bg-white border border-gray-100 shadow-sm hover-glow hover-shine cursor-pointer transition-all hover:-translate-y-1 text-left"
+          data-detail={stat.detail}
+        >
+          <p class="font-display font-bold text-3xl md:text-4xl mb-2 counter" style="color: var(--color-primary);">
             {stat.value}
           </p>
           <p class="text-gray-700 font-medium text-sm mb-1">{stat.label}</p>
           <p class="text-xs text-gray-400">{stat.source}</p>
-        </div>
+          <div class="expand-content mt-3" data-expand>
+            <div>
+              <p class="text-xs text-gray-500 leading-relaxed pt-2 border-t border-gray-100">{stat.detail}</p>
+            </div>
+          </div>
+        </button>
       ))}
     </div>
   </div>
 </section>
+
+<script>
+  document.querySelectorAll(".stat-card").forEach((card) => {
+    card.addEventListener("click", () => {
+      const expand = card.querySelector("[data-expand]");
+      if (expand) {
+        expand.classList.toggle("expanded");
+      }
+    });
+  });
+</script>

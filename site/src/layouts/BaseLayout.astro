@@ -104,7 +104,7 @@ const jsonLdArray = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
         },
         { threshold: 0.1 }
       );
-      document.querySelectorAll(".fade-up").forEach((el) => observer.observe(el));
+      document.querySelectorAll(".fade-up, .stagger-children").forEach((el) => observer.observe(el));
     </script>
   </body>
 </html>
