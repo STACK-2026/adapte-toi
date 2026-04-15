@@ -1,0 +1,92 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import Breadcrumbs from "../../../components/Breadcrumbs.astro";
+import { getCollection } from "astro:content";
+import { siteConfig } from "../../../../site.config";
+import { fullUrl } from "../../../utils/config";
+import { jsonLdBreadcrumbs } from "../../../utils/seo";
+
+const CATEGORY_META: Record<string, { label: string; description: string }> = {
+  menace: { label: "Menace", description: "Licenciements, gels d'embauche, annonces de substitution. Les signaux qui indiquent que la vague IA touche ton secteur." },
+  etude: { label: "Étude", description: "Rapports OCDE, Anthropic, McKinsey, Ipsos, France Travail. Les données qui permettent de lire vraiment le marché du travail." },
+  annonce: { label: "Annonce", description: "Sorties de modèles, produits, partenariats, plans gouvernementaux. Les news qui vont changer le paysage dans les 12 mois." },
+  politique: { label: "Politique", description: "Régulation, fiscalité IA, plans de formation, débats parlementaires. Ce qui va contraindre ou protéger ton métier." },
+  outil: { label: "Outil", description: "Lancements d'outils IA pertinents pour un métier, usages nouveaux, tests." },
+  voix: { label: "Voix", description: "Livres, tribunes, interviews, prises de position qui structurent le débat IA × emploi." },
+  chiffre: { label: "Chiffre", description: "Une donnée isolée, bien sourcée, qui mérite d'être retenue." },
+};
+
+export async function getStaticPaths() {
+  return [
+    { params: { cat: "menace" } },
+    { params: { cat: "etude" } },
+    { params: { cat: "annonce" } },
+    { params: { cat: "politique" } },
+    { params: { cat: "outil" } },
+    { params: { cat: "voix" } },
+    { params: { cat: "chiffre" } },
+  ];
+}
+
+const { cat } = Astro.params;
+const meta = CATEGORY_META[cat as string];
+
+const posts = (await getCollection("actu", ({ data }) => !data.draft && data.category === cat))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const breadcrumbs = [
+  { name: "Accueil", url: siteConfig.url },
+  { name: "Actualités", url: fullUrl("/actu") },
+  { name: meta?.label ?? cat, url: fullUrl(`/actu/categorie/${cat}`) },
+];
+---
+
+<BaseLayout
+  title={`Décryptages ${meta?.label ?? cat} | Adapte-toi`}
+  description={meta?.description ?? ""}
+  jsonLd={jsonLdBreadcrumbs(breadcrumbs)}
+>
+  <div class="max-w-6xl mx-auto px-4 py-10 sm:py-14">
+    <Breadcrumbs items={breadcrumbs} />
+
+    <header class="mb-10 border-b border-gray-200 pb-6">
+      <div class="text-xs font-bold uppercase tracking-widest text-primary mb-3">Catégorie</div>
+      <h1 class="mb-3">Décryptages {meta?.label ?? cat}</h1>
+      {meta && <p class="text-gray-600 text-lg max-w-3xl leading-relaxed">{meta.description}</p>}
+    </header>
+
+    {posts.length === 0 ? (
+      <p class="text-gray-400 text-lg py-10">Pas encore de décryptage dans cette catégorie.</p>
+    ) : (
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        {posts.map((post) => (
+          <article class="group bg-white rounded-xl overflow-hidden border border-gray-100 hover:border-primary/30 hover:shadow-md transition-all">
+            <a href={`/actu/${post.id}`} class="block">
+              {post.data.image && (
+                <img src={post.data.image} alt={post.data.imageAlt || post.data.title} class="w-full h-44 object-cover" loading="lazy" width="400" height="225" />
+              )}
+              <div class="p-5">
+                <div class="flex items-center gap-2 mb-3">
+                  <span class="flex items-center gap-0.5" title={`Impact ${post.data.impactLevel}/5`}>
+                    {Array.from({ length: 5 }, (_, i) => (
+                      <span class={`block w-1.5 h-1.5 rounded-full ${i < post.data.impactLevel ? "bg-primary" : "bg-gray-200"}`}></span>
+                    ))}
+                  </span>
+                </div>
+                <h3 class="text-lg font-bold mb-2 group-hover:text-primary transition-colors line-clamp-3 leading-snug">{post.data.title}</h3>
+                <p class="text-gray-600 text-sm line-clamp-2 mb-3">{post.data.description}</p>
+                <time class="text-xs text-gray-400" datetime={post.data.date.toISOString().split("T")[0]}>
+                  {post.data.date.toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" })}
+                </time>
+              </div>
+            </a>
+          </article>
+        ))}
+      </div>
+    )}
+
+    <div class="mt-12">
+      <a href="/actu" class="inline-flex items-center gap-2 text-secondary font-semibold hover:text-primary">← Tous les décryptages</a>
+    </div>
+  </div>
+</BaseLayout>

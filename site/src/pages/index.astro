@@ -9,6 +9,7 @@ import Newsletter from "../components/Newsletter.astro";
 import FAQ from "../components/FAQ.astro";
 import CTA from "../components/CTA.astro";
 import BlogCard from "../components/BlogCard.astro";
+import ActuDecrypte from "../components/ActuDecrypte.astro";
 import ScrambleText from "../components/ScrambleText.astro";
 import WaveText from "../components/WaveText.astro";
 import ExplodeText from "../components/ExplodeText.astro";
@@ -63,7 +64,10 @@ const recentPosts = (await getCollection("blog", ({ data }) => !data.draft))
     </div>
   </section>
 
-  {/* 5. Stats avec scramble */}
+  {/* 5. Actu Décrypte : news de la semaine */}
+  <ActuDecrypte />
+
+  {/* 6. Stats avec scramble */}
   <Stats />
 
   {/* 6. Features */}

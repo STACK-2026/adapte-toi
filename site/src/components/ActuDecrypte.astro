@@ -1,0 +1,132 @@
+---
+import { getCollection } from "astro:content";
+
+const CATEGORY_LABELS: Record<string, string> = {
+  menace: "Menace",
+  etude: "Étude",
+  annonce: "Annonce",
+  politique: "Politique",
+  outil: "Outil",
+  voix: "Voix",
+  chiffre: "Chiffre",
+};
+
+const posts = (await getCollection("actu", ({ data }) => !data.draft).catch(() => []))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+  .slice(0, 4);
+
+const withQuote = posts.find((p) => p.data.keyQuote);
+const featured = posts[0];
+const side = posts.slice(1, 4);
+---
+
+{posts.length > 0 && (
+  <section class="py-20 px-4 bg-gradient-to-br from-gray-50 to-white" aria-label="Actu IA et emploi décryptée">
+    <div class="max-w-6xl mx-auto">
+      <div class="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4 mb-10">
+        <div>
+          <div class="flex items-center gap-3 mb-3">
+            <span class="relative flex h-3 w-3">
+              <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-primary opacity-75"></span>
+              <span class="relative inline-flex rounded-full h-3 w-3 bg-primary"></span>
+            </span>
+            <span class="text-xs font-bold uppercase tracking-widest text-primary">Adapte-toi Décrypte</span>
+          </div>
+          <h2 class="mb-2">Cette semaine dans l'IA × l'emploi</h2>
+          <p class="text-gray-600 max-w-2xl">
+            On traduit les news qui comptent : études, annonces, voix, menaces. Chiffres à retenir, citation impactante, ce que ça change pour toi.
+          </p>
+        </div>
+        <a href="/actu" class="inline-flex items-center gap-2 text-secondary font-semibold hover:text-primary whitespace-nowrap">
+          Tous les décryptages →
+        </a>
+      </div>
+
+      <div class="grid lg:grid-cols-5 gap-6">
+        {featured && (
+          <a href={`/actu/${featured.id}`} class="lg:col-span-3 group block bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all border border-gray-100">
+            {featured.data.image && (
+              <img
+                src={featured.data.image}
+                alt={featured.data.imageAlt || featured.data.title}
+                class="w-full h-64 lg:h-80 object-cover group-hover:scale-[1.02] transition-transform duration-500"
+                loading="lazy"
+                width="800"
+                height="450"
+              />
+            )}
+            <div class="p-6 lg:p-8">
+              <div class="flex items-center gap-3 mb-4">
+                <span class="inline-block bg-primary/10 text-primary text-xs font-bold uppercase tracking-wider px-3 py-1 rounded-full">
+                  {CATEGORY_LABELS[featured.data.category] ?? featured.data.category}
+                </span>
+                <span class="flex items-center gap-0.5" title={`Impact ${featured.data.impactLevel}/5`}>
+                  {Array.from({ length: 5 }, (_, i) => (
+                    <span class={`block w-1.5 h-1.5 rounded-full ${i < featured.data.impactLevel ? "bg-primary" : "bg-gray-200"}`}></span>
+                  ))}
+                </span>
+                <time class="text-xs text-gray-400" datetime={featured.data.date.toISOString().split("T")[0]}>
+                  {featured.data.date.toLocaleDateString("fr-FR", { day: "numeric", month: "long" })}
+                </time>
+              </div>
+              <h3 class="text-xl lg:text-2xl font-display font-bold mb-3 group-hover:text-primary transition-colors leading-tight">
+                {featured.data.title}
+              </h3>
+              <p class="text-gray-600 line-clamp-3 leading-relaxed">{featured.data.description}</p>
+            </div>
+          </a>
+        )}
+
+        <div class="lg:col-span-2 flex flex-col gap-4">
+          {side.map((post) => (
+            <a href={`/actu/${post.id}`} class="group flex gap-4 bg-white rounded-xl p-4 border border-gray-100 hover:border-primary/30 hover:shadow-md transition-all">
+              {post.data.image && (
+                <img
+                  src={post.data.image}
+                  alt={post.data.imageAlt || post.data.title}
+                  class="w-24 h-24 rounded-lg object-cover flex-shrink-0"
+                  loading="lazy"
+                  width="96"
+                  height="96"
+                />
+              )}
+              <div class="flex-1 min-w-0">
+                <div class="flex items-center gap-2 mb-1">
+                  <span class="text-[10px] font-bold uppercase tracking-wider text-primary">
+                    {CATEGORY_LABELS[post.data.category] ?? post.data.category}
+                  </span>
+                </div>
+                <h4 class="text-sm font-bold leading-snug line-clamp-3 group-hover:text-primary transition-colors">
+                  {post.data.title}
+                </h4>
+                <time class="text-xs text-gray-400 mt-1 block" datetime={post.data.date.toISOString().split("T")[0]}>
+                  {post.data.date.toLocaleDateString("fr-FR", { day: "numeric", month: "long" })}
+                </time>
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+
+      {withQuote && withQuote.data.keyQuote && (
+        <figure class="mt-12 max-w-4xl mx-auto text-center">
+          <blockquote class="relative">
+            <div class="text-6xl font-display text-primary/20 leading-none select-none" aria-hidden="true">"</div>
+            <p class="text-xl sm:text-2xl lg:text-3xl font-display font-medium text-gray-900 italic leading-relaxed -mt-4">
+              {withQuote.data.keyQuote.text}
+            </p>
+            <figcaption class="mt-4 text-sm text-gray-500">
+              <span class="font-semibold text-gray-900">{withQuote.data.keyQuote.author}</span>
+              {withQuote.data.keyQuote.context && (
+                <span class="block text-gray-400 mt-0.5">{withQuote.data.keyQuote.context}</span>
+              )}
+              <a href={`/actu/${withQuote.id}`} class="inline-block mt-3 text-primary font-semibold hover:underline">
+                Lire le décryptage →
+              </a>
+            </figcaption>
+          </blockquote>
+        </figure>
+      )}
+    </div>
+  </section>
+)}

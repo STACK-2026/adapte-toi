@@ -1,0 +1,289 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+import Breadcrumbs from "../components/Breadcrumbs.astro";
+import { siteConfig } from "../../site.config";
+import { fullUrl } from "../utils/config";
+import { jsonLdArticle, jsonLdBreadcrumbs } from "../utils/seo";
+import { getCollection } from "astro:content";
+
+interface Source {
+  title: string;
+  url: string;
+  outlet: string;
+  date?: Date;
+}
+
+interface KeyQuote {
+  text: string;
+  author: string;
+  context?: string;
+}
+
+interface Props {
+  title: string;
+  description: string;
+  date: Date;
+  author?: string;
+  category: string;
+  impactLevel: number;
+  keyQuote?: KeyQuote;
+  tldr: string[];
+  sources: Source[];
+  relatedMetiers?: string[];
+  relatedGuides?: string[];
+  relatedOutils?: string[];
+  image?: string;
+  imageAlt?: string;
+  slug: string;
+  keywords?: string;
+  lastReviewed?: Date;
+  reviewedBy?: string;
+}
+
+const {
+  title,
+  description,
+  date,
+  author = "Adapte-toi Décrypte",
+  category,
+  impactLevel,
+  keyQuote,
+  tldr,
+  sources,
+  relatedMetiers = [],
+  relatedGuides = [],
+  relatedOutils = [],
+  image,
+  imageAlt,
+  slug,
+  keywords,
+  lastReviewed,
+  reviewedBy,
+} = Astro.props;
+
+const articleUrl = fullUrl(`/actu/${slug}`);
+const dateStr = date.toISOString().split("T")[0];
+
+const CATEGORY_LABELS: Record<string, string> = {
+  menace: "Menace",
+  etude: "Étude",
+  annonce: "Annonce",
+  politique: "Politique",
+  outil: "Outil",
+  voix: "Voix",
+  chiffre: "Chiffre",
+};
+
+const breadcrumbs = [
+  { name: "Accueil", url: siteConfig.url },
+  { name: "Actualités", url: fullUrl("/actu") },
+  { name: CATEGORY_LABELS[category] ?? category, url: fullUrl(`/actu/categorie/${category}`) },
+  { name: title, url: articleUrl },
+];
+
+const [allMetiers, allGuides, allOutils] = await Promise.all([
+  getCollection("metiers", ({ data }) => !data.draft).catch(() => []),
+  getCollection("guides", ({ data }) => !data.draft).catch(() => []),
+  getCollection("outils", ({ data }) => !data.draft).catch(() => []),
+]);
+
+const metiersItems = relatedMetiers
+  .map((id) => allMetiers.find((m) => m.id === id))
+  .filter(Boolean) as any[];
+const guidesItems = relatedGuides
+  .map((id) => allGuides.find((g) => g.id === id))
+  .filter(Boolean) as any[];
+const outilsItems = relatedOutils
+  .map((id) => allOutils.find((o) => o.id === id))
+  .filter(Boolean) as any[];
+
+const jsonLd = [
+  jsonLdArticle({
+    title,
+    description,
+    url: articleUrl,
+    datePublished: dateStr,
+    image,
+    author,
+    keywords: keywords?.split(",").map((k) => k.trim()),
+  }),
+  jsonLdBreadcrumbs(breadcrumbs),
+];
+---
+
+<BaseLayout
+  title={`${title} | ${siteConfig.name}`}
+  description={description}
+  canonicalUrl={articleUrl}
+  ogImage={image}
+  ogType="article"
+  publishedTime={dateStr}
+  jsonLd={jsonLd}
+>
+  <article class="max-w-3xl mx-auto px-4 sm:px-6 py-8 sm:py-12">
+    <Breadcrumbs items={breadcrumbs} />
+
+    <header class="mb-8">
+      <div class="flex flex-wrap items-center gap-3 mb-4">
+        <a
+          href={`/actu/categorie/${category}`}
+          class="inline-block bg-primary/10 text-primary text-xs font-semibold uppercase tracking-wider px-3 py-1 rounded-full hover:bg-primary/20 transition-colors"
+        >
+          {CATEGORY_LABELS[category] ?? category}
+        </a>
+        <span class="flex items-center gap-1" title={`Impact ${impactLevel}/5`}>
+          {Array.from({ length: 5 }, (_, i) => (
+            <span
+              class={`block w-2 h-2 rounded-full ${i < impactLevel ? "bg-primary" : "bg-gray-200"}`}
+            ></span>
+          ))}
+          <span class="ml-1 text-xs text-gray-500 font-medium">Impact {impactLevel}/5</span>
+        </span>
+      </div>
+      <h1 class="mb-4">{title}</h1>
+      <p class="text-lg text-gray-600 mb-4 leading-relaxed">{description}</p>
+      <div class="flex flex-wrap items-center gap-3 text-gray-500 text-sm">
+        <span class="font-medium">{author}</span>
+        <span>·</span>
+        <time datetime={dateStr}>
+          {date.toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" })}
+        </time>
+        {lastReviewed && (
+          <>
+            <span>·</span>
+            <span>
+              Revu le {lastReviewed.toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" })}
+              {reviewedBy && ` par ${reviewedBy}`}
+            </span>
+          </>
+        )}
+      </div>
+    </header>
+
+    {image && (
+      <figure class="mb-8">
+        <img src={image} alt={imageAlt || title} class="w-full rounded-xl" loading="eager" width="1200" height="630" />
+      </figure>
+    )}
+
+    {/* TL;DR box */}
+    <aside class="bg-secondary/5 border-l-4 border-secondary rounded-r-xl p-5 sm:p-6 mb-10">
+      <div class="text-xs font-bold uppercase tracking-widest text-secondary mb-3">L'essentiel en 30 secondes</div>
+      <ul class="space-y-2">
+        {tldr.map((point) => (
+          <li class="flex gap-3 text-gray-800 leading-relaxed">
+            <span class="text-primary font-bold mt-0.5">·</span>
+            <span>{point}</span>
+          </li>
+        ))}
+      </ul>
+    </aside>
+
+    {/* Main content */}
+    <div class="prose max-w-none mb-12">
+      <slot />
+    </div>
+
+    {/* Key quote */}
+    {keyQuote && (
+      <blockquote class="my-12 relative">
+        <div class="absolute -top-4 -left-2 text-7xl font-display text-primary/20 select-none" aria-hidden="true">"</div>
+        <div class="pl-6 border-l-4 border-primary">
+          <p class="text-xl sm:text-2xl font-display font-medium text-gray-900 leading-relaxed italic mb-3">
+            {keyQuote.text}
+          </p>
+          <footer class="text-sm text-gray-600">
+            <span class="font-semibold text-gray-900">{keyQuote.author}</span>
+            {keyQuote.context && (
+              <span class="block text-gray-500 mt-0.5">{keyQuote.context}</span>
+            )}
+          </footer>
+        </div>
+      </blockquote>
+    )}
+
+    {/* Sources */}
+    <section class="bg-gray-50 rounded-xl p-5 sm:p-6 mb-10">
+      <h2 class="text-sm font-bold uppercase tracking-widest text-gray-700 mb-4 mt-0">Sources</h2>
+      <ul class="space-y-3">
+        {sources.map((source) => (
+          <li class="text-sm">
+            <a
+              href={source.url}
+              target="_blank"
+              rel="noopener nofollow"
+              class="text-secondary font-medium hover:text-primary underline-offset-2 hover:underline"
+            >
+              {source.title}
+            </a>
+            <span class="text-gray-500"> · {source.outlet}</span>
+            {source.date && (
+              <span class="text-gray-400"> · {source.date.toLocaleDateString("fr-FR", { day: "numeric", month: "short", year: "numeric" })}</span>
+            )}
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    {/* Related content */}
+    {(metiersItems.length > 0 || guidesItems.length > 0 || outilsItems.length > 0) && (
+      <section class="border-t border-gray-200 pt-10">
+        <h2 class="text-sm font-bold uppercase tracking-widest text-gray-700 mb-6">Pour aller plus loin</h2>
+        <div class="grid sm:grid-cols-3 gap-6">
+          {metiersItems.length > 0 && (
+            <div>
+              <div class="text-xs font-semibold text-primary uppercase tracking-wider mb-3">Métiers concernés</div>
+              <ul class="space-y-2">
+                {metiersItems.map((m) => (
+                  <li>
+                    <a href={`/métiers/${m.id}`} class="text-sm text-gray-800 hover:text-primary font-medium">
+                      {m.data.metier || m.data.title}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+          {guidesItems.length > 0 && (
+            <div>
+              <div class="text-xs font-semibold text-primary uppercase tracking-wider mb-3">Guides</div>
+              <ul class="space-y-2">
+                {guidesItems.map((g) => (
+                  <li>
+                    <a href={`/guides/${g.id}`} class="text-sm text-gray-800 hover:text-primary font-medium">
+                      {g.data.title}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+          {outilsItems.length > 0 && (
+            <div>
+              <div class="text-xs font-semibold text-primary uppercase tracking-wider mb-3">Outils IA</div>
+              <ul class="space-y-2">
+                {outilsItems.map((o) => (
+                  <li>
+                    <a href={`/outils/${o.id}`} class="text-sm text-gray-800 hover:text-primary font-medium">
+                      {o.data.outil || o.data.title}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+        </div>
+      </section>
+    )}
+
+    {/* Back to feed */}
+    <div class="mt-12 flex flex-wrap items-center justify-between gap-4">
+      <a href="/actu" class="inline-flex items-center gap-2 text-secondary font-semibold hover:text-primary">
+        ← Tous les décryptages
+      </a>
+      <a href="/newsletter" class="inline-flex items-center gap-2 bg-primary text-white px-5 py-2.5 rounded-full font-semibold hover:bg-primary/90 transition-colors">
+        Recevoir Le Signal →
+      </a>
+    </div>
+  </article>
+</BaseLayout>

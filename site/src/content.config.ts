@@ -82,4 +82,37 @@ const outils = defineCollection({
   }),
 });
 
-export const collections = { blog, pages, metiers, guides, outils };
+const actu = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: "./src/content/actu" }),
+  schema: z.object({
+    title: z.string(),
+    description: z.string().max(260),
+    date: z.coerce.date(),
+    category: z.enum(["menace", "etude", "annonce", "politique", "outil", "voix", "chiffre"]),
+    impactLevel: z.number().min(1).max(5),
+    author: z.string().default("Adapte-toi Décrypte"),
+    keyQuote: z.object({
+      text: z.string(),
+      author: z.string(),
+      context: z.string().optional(),
+    }).optional(),
+    tldr: z.array(z.string()).min(2).max(5),
+    sources: z.array(z.object({
+      title: z.string(),
+      url: z.string().url(),
+      outlet: z.string(),
+      date: z.coerce.date().optional(),
+    })).min(1),
+    relatedMetiers: z.array(z.string()).default([]),
+    relatedGuides: z.array(z.string()).default([]),
+    relatedOutils: z.array(z.string()).default([]),
+    image: z.string().optional(),
+    imageAlt: z.string().optional(),
+    keywords: z.string().optional(),
+    lastReviewed: z.coerce.date().optional(),
+    reviewedBy: z.string().optional(),
+    draft: z.boolean().default(false),
+  }),
+});
+
+export const collections = { blog, pages, metiers, guides, outils, actu };

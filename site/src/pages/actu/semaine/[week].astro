@@ -1,0 +1,98 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import Breadcrumbs from "../../../components/Breadcrumbs.astro";
+import { getCollection } from "astro:content";
+import { siteConfig } from "../../../../site.config";
+import { fullUrl } from "../../../utils/config";
+import { jsonLdBreadcrumbs } from "../../../utils/seo";
+import { getIsoWeek, getWeekBounds } from "../../../utils/week";
+
+export async function getStaticPaths() {
+  const allPosts = await getCollection("actu", ({ data }) => !data.draft);
+  const weeks = new Set<string>();
+  for (const p of allPosts) weeks.add(getIsoWeek(p.data.date));
+  return Array.from(weeks).map((week) => ({ params: { week } }));
+}
+
+const CATEGORY_LABELS: Record<string, string> = {
+  menace: "Menace",
+  etude: "Étude",
+  annonce: "Annonce",
+  politique: "Politique",
+  outil: "Outil",
+  voix: "Voix",
+  chiffre: "Chiffre",
+};
+
+const { week } = Astro.params;
+const weekKey = week as string;
+const posts = (await getCollection("actu", ({ data }) => !data.draft && getIsoWeek(data.date) === weekKey))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const { start, end } = getWeekBounds(weekKey);
+const rangeLabel = `${start.toLocaleDateString("fr-FR", { day: "numeric", month: "long" })} - ${end.toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" })}`;
+
+const breadcrumbs = [
+  { name: "Accueil", url: siteConfig.url },
+  { name: "Actualités", url: fullUrl("/actu") },
+  { name: `Semaine ${weekKey}`, url: fullUrl(`/actu/semaine/${weekKey}`) },
+];
+---
+
+<BaseLayout
+  title={`Récap semaine ${weekKey} : IA, emploi, reconversion | Adapte-toi`}
+  description={`Les décryptages IA, emploi, reconversion publiés entre le ${rangeLabel}. Le résumé de la semaine, les chiffres à retenir, les citations.`}
+  jsonLd={jsonLdBreadcrumbs(breadcrumbs)}
+>
+  <div class="max-w-4xl mx-auto px-4 py-10 sm:py-14">
+    <Breadcrumbs items={breadcrumbs} />
+
+    <header class="mb-10 border-b border-gray-200 pb-6">
+      <div class="text-xs font-bold uppercase tracking-widest text-primary mb-3">Récap hebdo</div>
+      <h1 class="mb-3">Semaine du {rangeLabel}</h1>
+      <p class="text-gray-600 text-lg max-w-3xl leading-relaxed">
+        {posts.length} décryptage{posts.length > 1 ? "s" : ""} publié{posts.length > 1 ? "s" : ""} cette semaine sur l'IA, l'emploi, la reconversion.
+      </p>
+    </header>
+
+    <div class="space-y-10">
+      {posts.map((post) => (
+        <article class="border-l-4 border-primary pl-6">
+          <div class="flex items-center gap-3 mb-3">
+            <a href={`/actu/categorie/${post.data.category}`} class="text-xs font-bold uppercase tracking-wider text-primary hover:underline">
+              {CATEGORY_LABELS[post.data.category] ?? post.data.category}
+            </a>
+            <time class="text-xs text-gray-400" datetime={post.data.date.toISOString().split("T")[0]}>
+              {post.data.date.toLocaleDateString("fr-FR", { day: "numeric", month: "long" })}
+            </time>
+          </div>
+          <h2 class="text-xl sm:text-2xl font-display font-bold mb-3 leading-tight">
+            <a href={`/actu/${post.id}`} class="hover:text-primary transition-colors">{post.data.title}</a>
+          </h2>
+          <p class="text-gray-700 mb-3 leading-relaxed">{post.data.description}</p>
+          {post.data.tldr && post.data.tldr.length > 0 && (
+            <ul class="space-y-1.5 mb-4">
+              {post.data.tldr.slice(0, 2).map((point: string) => (
+                <li class="flex gap-3 text-sm text-gray-600">
+                  <span class="text-primary font-bold mt-0.5">·</span>
+                  <span>{point}</span>
+                </li>
+              ))}
+            </ul>
+          )}
+          {post.data.keyQuote && (
+            <blockquote class="text-sm italic text-gray-600 border-l-2 border-gray-200 pl-3 mb-4">
+              "{post.data.keyQuote.text}"
+              <footer class="text-xs text-gray-500 mt-1 not-italic">{post.data.keyQuote.author}</footer>
+            </blockquote>
+          )}
+          <a href={`/actu/${post.id}`} class="text-sm text-secondary font-semibold hover:text-primary">Lire le décryptage complet →</a>
+        </article>
+      ))}
+    </div>
+
+    <div class="mt-12">
+      <a href="/actu" class="inline-flex items-center gap-2 text-secondary font-semibold hover:text-primary">← Tous les décryptages</a>
+    </div>
+  </div>
+</BaseLayout>

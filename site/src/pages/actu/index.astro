@@ -1,14 +1,29 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import BlogCard from "../../components/BlogCard.astro";
 import Breadcrumbs from "../../components/Breadcrumbs.astro";
 import { getCollection } from "astro:content";
 import { siteConfig } from "../../../site.config";
 import { fullUrl } from "../../utils/config";
 import { jsonLdBreadcrumbs } from "../../utils/seo";
 
-const posts = (await getCollection("blog", ({ data }) => !data.draft && data.category === "actu-emploi"))
+const CATEGORY_LABELS: Record<string, string> = {
+  menace: "Menace",
+  etude: "Étude",
+  annonce: "Annonce",
+  politique: "Politique",
+  outil: "Outil",
+  voix: "Voix",
+  chiffre: "Chiffre",
+};
+
+const posts = (await getCollection("actu", ({ data }) => !data.draft))
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const counts: Record<string, number> = {};
+for (const p of posts) counts[p.data.category] = (counts[p.data.category] ?? 0) + 1;
+
+const featured = posts[0];
+const rest = posts.slice(1);
 
 const breadcrumbs = [
   { name: "Accueil", url: siteConfig.url },
@@ -17,39 +32,142 @@ const breadcrumbs = [
 ---
 
 <BaseLayout
-  title={`Actualités IA et emploi | ${siteConfig.name}`}
-  description="L'actualité de l'intelligence artificielle et son impact sur l'emploi en France et en Europe. Etudes, rapports, analyses."
+  title={`Adapte-toi Décrypte | Actu IA, emploi, reconversion`}
+  description="Chaque jour, on décrypte les vraies actualités IA × emploi × reconversion. Études, annonces, voix, menaces : les faits, les chiffres, la citation, ce que ça change pour toi."
   jsonLd={jsonLdBreadcrumbs(breadcrumbs)}
 >
-  <div class="max-w-6xl mx-auto px-4 py-12">
+  <div class="max-w-6xl mx-auto px-4 py-10 sm:py-14">
     <Breadcrumbs items={breadcrumbs} />
 
-    <h1 class="mb-4">Actualités IA et emploi</h1>
-    <p class="text-gray-600 text-lg mb-10 max-w-3xl">
-      Veille hebdomadaire sur l'impact de l'IA sur le marche du travail. Etudes, chiffres, tendances.
-    </p>
+    <header class="mb-10 sm:mb-14 border-b border-gray-200 pb-8">
+      <div class="flex items-center gap-3 mb-4">
+        <span class="relative flex h-3 w-3">
+          <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-primary opacity-75"></span>
+          <span class="relative inline-flex rounded-full h-3 w-3 bg-primary"></span>
+        </span>
+        <span class="text-xs font-bold uppercase tracking-widest text-primary">Adapte-toi Décrypte · en direct</span>
+      </div>
+      <h1 class="mb-4">Actu IA, emploi, reconversion. <span class="text-gray-400">Décryptée.</span></h1>
+      <p class="text-gray-600 text-lg max-w-3xl leading-relaxed">
+        On ne résume pas les news, on les traduit. Chaque décryptage te donne le fait brut, ce que ça veut dire vraiment,
+        les chiffres qui comptent, une citation impactante et ce que ça change pour ton métier.
+      </p>
+    </header>
 
     {posts.length === 0 ? (
       <div class="text-center py-20">
-        <p class="text-gray-400 text-lg mb-4">Les premières actus arrivent bientot.</p>
+        <p class="text-gray-400 text-lg mb-4">Les premiers décryptages arrivent bientôt.</p>
         <a href="/newsletter" class="text-primary font-semibold hover:underline">
-          S'abonner au Signal pour ne rien rater &rarr;
+          S'abonner au Signal pour ne rien rater →
         </a>
       </div>
     ) : (
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-        {posts.map((post) => (
-          <BlogCard
-            title={post.data.title}
-            description={post.data.description}
-            date={post.data.date}
-            slug={post.id}
-            image={post.data.image}
-            imageAlt={post.data.imageAlt}
-            category={post.data.category}
-          />
-        ))}
-      </div>
+      <>
+        <nav class="flex flex-wrap items-center gap-2 mb-10" aria-label="Filtrer par catégorie">
+          <span class="text-xs font-semibold uppercase tracking-wider text-gray-500 mr-2">Filtrer :</span>
+          <a href="/actu" class="text-sm bg-secondary text-white px-4 py-1.5 rounded-full font-medium hover:bg-secondary/90 transition-colors">
+            Tout ({posts.length})
+          </a>
+          {Object.entries(CATEGORY_LABELS).map(([slug, label]) =>
+            counts[slug] ? (
+              <a
+                href={`/actu/categorie/${slug}`}
+                class="text-sm bg-gray-100 text-gray-700 px-4 py-1.5 rounded-full font-medium hover:bg-primary hover:text-white transition-colors"
+              >
+                {label} ({counts[slug]})
+              </a>
+            ) : null
+          )}
+        </nav>
+
+        {featured && (
+          <article class="mb-12 group">
+            <a href={`/actu/${featured.id}`} class="block">
+              <div class="grid md:grid-cols-2 gap-6 md:gap-10 items-center bg-gradient-to-br from-secondary/5 to-primary/5 rounded-2xl overflow-hidden p-6 sm:p-10">
+                {featured.data.image && (
+                  <img
+                    src={featured.data.image}
+                    alt={featured.data.imageAlt || featured.data.title}
+                    class="w-full h-64 md:h-80 object-cover rounded-xl group-hover:scale-[1.02] transition-transform duration-500"
+                    loading="eager"
+                    width="800"
+                    height="450"
+                  />
+                )}
+                <div>
+                  <div class="flex items-center gap-3 mb-4">
+                    <span class="inline-block bg-primary text-white text-xs font-bold uppercase tracking-wider px-3 py-1 rounded-full">
+                      À la une
+                    </span>
+                    <span class="text-xs font-semibold uppercase tracking-wider text-secondary">
+                      {CATEGORY_LABELS[featured.data.category] ?? featured.data.category}
+                    </span>
+                  </div>
+                  <h2 class="text-2xl sm:text-3xl font-display font-bold mb-3 group-hover:text-primary transition-colors leading-tight">
+                    {featured.data.title}
+                  </h2>
+                  <p class="text-gray-700 mb-4 leading-relaxed">{featured.data.description}</p>
+                  <div class="flex items-center gap-3 text-xs text-gray-500">
+                    <span class="font-medium">{featured.data.author}</span>
+                    <span>·</span>
+                    <time datetime={featured.data.date.toISOString().split("T")[0]}>
+                      {featured.data.date.toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" })}
+                    </time>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </article>
+        )}
+
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          {rest.map((post) => (
+            <article class="group bg-white rounded-xl overflow-hidden border border-gray-100 hover:border-primary/30 hover:shadow-md transition-all">
+              <a href={`/actu/${post.id}`} class="block">
+                {post.data.image && (
+                  <img
+                    src={post.data.image}
+                    alt={post.data.imageAlt || post.data.title}
+                    class="w-full h-44 object-cover"
+                    loading="lazy"
+                    width="400"
+                    height="225"
+                  />
+                )}
+                <div class="p-5">
+                  <div class="flex items-center gap-2 mb-3">
+                    <span class="text-[10px] font-bold uppercase tracking-wider text-primary">
+                      {CATEGORY_LABELS[post.data.category] ?? post.data.category}
+                    </span>
+                    <span class="flex items-center gap-0.5" title={`Impact ${post.data.impactLevel}/5`}>
+                      {Array.from({ length: 5 }, (_, i) => (
+                        <span class={`block w-1.5 h-1.5 rounded-full ${i < post.data.impactLevel ? "bg-primary" : "bg-gray-200"}`}></span>
+                      ))}
+                    </span>
+                  </div>
+                  <h3 class="text-lg font-bold mb-2 group-hover:text-primary transition-colors line-clamp-3 leading-snug">
+                    {post.data.title}
+                  </h3>
+                  <p class="text-gray-600 text-sm line-clamp-2 mb-3">{post.data.description}</p>
+                  <time class="text-xs text-gray-400" datetime={post.data.date.toISOString().split("T")[0]}>
+                    {post.data.date.toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" })}
+                  </time>
+                </div>
+              </a>
+            </article>
+          ))}
+        </div>
+      </>
     )}
+
+    <aside class="mt-16 bg-secondary text-white rounded-2xl p-8 sm:p-10 text-center">
+      <h2 class="text-white text-2xl sm:text-3xl font-display font-bold mb-3">Le Signal, chaque semaine dans ta boîte</h2>
+      <p class="text-white/80 mb-6 max-w-xl mx-auto">
+        Les décryptages qui ont compté, en 5 minutes de lecture. Une newsletter gratuite, zéro bullshit.
+      </p>
+      <a href="/newsletter" class="inline-block bg-primary text-white font-semibold px-6 py-3 rounded-full hover:bg-primary/90 transition-colors">
+        S'abonner au Signal →
+      </a>
+    </aside>
   </div>
 </BaseLayout>

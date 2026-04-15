@@ -1,0 +1,69 @@
+name: Actu Décrypte - Daily
+
+on:
+  schedule:
+    # Lun-ven, random dans fenetre 4h-6h UTC (6h-8h Paris CEST)
+    # Plage d'heures, cadence unique par jour gerée via random dans le script
+    - cron: '37 4 * * 1-5'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run (pas de commit)'
+        type: boolean
+        default: false
+      max:
+        description: 'Nombre max d articles'
+        type: string
+        default: '1'
+
+permissions:
+  contents: write
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure Git
+        run: |
+          git config user.name "Adapte-toi Décrypte"
+          git config user.email "decrypte@adapte-toi.com"
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r blog-auto/requirements.txt
+
+      - name: Random delay (avoid cron hour signal)
+        run: |
+          SLEEP=$((RANDOM % 5400))
+          echo "Sleeping ${SLEEP}s before run"
+          sleep $SLEEP
+
+      - name: Run actu_watch
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          cd blog-auto
+          ARGS=""
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then ARGS="$ARGS --dry-run"; fi
+          MAX_N="${{ github.event.inputs.max }}"
+          if [ -z "$MAX_N" ]; then MAX_N=1; fi
+          python actu_watch.py --max $MAX_N $ARGS
+
+      - name: Upload logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: actu-watch-logs
+          path: blog-auto/logs/
+          retention-days: 30
