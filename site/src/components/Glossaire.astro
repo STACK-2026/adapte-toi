@@ -1,16 +1,11 @@
 ---
 /**
- * Glossaire Tooltip - Mots techniques cliquables avec définition
- * Usage dans un composant Astro :
- *   <Glossaire term="intelligence artificielle" />
- *   → affiche "intelligence artificielle" souligné en pointillé
- *   → au clic/hover, tooltip avec la définition
- *
- * Props :
- *   term: string (doit matcher une clé du glossaire)
- *   display?: string (texte affiché, si différent de la clé)
+ * Glossaire Tooltip inline.
+ * Usage: <Glossaire term="python" display="Python" />
+ * Affiche le label souligné en pointillé, hover/tap ouvre un tooltip riche
+ * (définition, exemple, lien interne, source externe).
  */
-import { glossaire } from "../data/glossaire";
+import { glossaire, resolveGlossaireKey } from "../data/glossaire";
 
 interface Props {
   term: string;
@@ -18,17 +13,26 @@ interface Props {
 }
 
 const { term, display } = Astro.props;
-const key = term.toLowerCase();
-const definition = glossaire[key];
+const key = resolveGlossaireKey(term);
+const entry = key ? glossaire[key] : null;
 const label = display || term;
 ---
 
-{definition ? (
+{entry ? (
   <span class="glossaire-term" tabindex="0" role="button" aria-label={`Définition : ${label}`}>
     <span class="glossaire-label">{label}</span>
     <span class="glossaire-tooltip" role="tooltip">
-      <strong class="glossaire-tooltip-title">{label}</strong>
-      <span class="glossaire-tooltip-text">{definition}</span>
+      <span class="glossaire-tooltip-title">{key}</span>
+      <span class="glossaire-tooltip-def">{entry.definition}</span>
+      <span class="glossaire-tooltip-example"><strong>Ex.</strong> {entry.example}</span>
+      <span class="glossaire-tooltip-links">
+        <a href={entry.internalLink.href} class="glossaire-tooltip-internal">
+          → {entry.internalLink.label}
+        </a>
+        <a href={entry.externalSource.url} target="_blank" rel="noopener nofollow" class="glossaire-tooltip-external">
+          Source : {entry.externalSource.label} ↗
+        </a>
+      </span>
     </span>
   </span>
 ) : (
@@ -44,28 +48,30 @@ const label = display || term;
 
   .glossaire-label {
     border-bottom: 1.5px dotted var(--color-primary);
-    transition: border-color 0.2s ease;
+    transition: border-color 0.2s ease, background-color 0.2s ease;
   }
 
   .glossaire-term:hover .glossaire-label,
-  .glossaire-term:focus .glossaire-label {
+  .glossaire-term:focus .glossaire-label,
+  .glossaire-term[aria-expanded="true"] .glossaire-label {
     border-bottom-style: solid;
     border-color: var(--color-primary);
+    background-color: color-mix(in srgb, var(--color-primary) 8%, transparent);
   }
 
   .glossaire-tooltip {
     position: absolute;
-    bottom: calc(100% + 8px);
+    bottom: calc(100% + 10px);
     left: 50%;
     transform: translateX(-50%) translateY(4px);
-    width: max(240px, min(90vw, 320px));
-    padding: 14px 16px;
+    width: max(280px, min(92vw, 360px));
+    padding: 16px 18px;
     background: var(--color-secondary);
     color: white;
-    border-radius: 12px;
+    border-radius: 14px;
     font-size: 13px;
-    line-height: 1.5;
-    box-shadow: 0 12px 40px -8px rgba(0, 0, 0, 0.25);
+    line-height: 1.55;
+    box-shadow: 0 16px 44px -8px rgba(0, 0, 0, 0.3);
     opacity: 0;
     visibility: hidden;
     transition: opacity 0.25s ease, transform 0.25s ease, visibility 0.25s;
@@ -74,21 +80,26 @@ const label = display || term;
     font-family: var(--font-body);
     font-weight: 400;
     text-align: left;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    white-space: normal;
   }
 
-  /* Flèche en bas du tooltip */
   .glossaire-tooltip::after {
     content: "";
     position: absolute;
     top: 100%;
     left: 50%;
     transform: translateX(-50%);
-    border: 6px solid transparent;
+    border: 7px solid transparent;
     border-top-color: var(--color-secondary);
   }
 
   .glossaire-term:hover .glossaire-tooltip,
-  .glossaire-term:focus .glossaire-tooltip {
+  .glossaire-term:focus .glossaire-tooltip,
+  .glossaire-term:focus-within .glossaire-tooltip,
+  .glossaire-term[aria-expanded="true"] .glossaire-tooltip {
     opacity: 1;
     visibility: visible;
     transform: translateX(-50%) translateY(0);
@@ -96,20 +107,66 @@ const label = display || term;
   }
 
   .glossaire-tooltip-title {
-    display: block;
-    font-size: 14px;
-    font-weight: 600;
-    margin-bottom: 4px;
+    font-size: 11px;
+    font-weight: 700;
     color: var(--color-accent);
-    text-transform: capitalize;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
   }
 
-  .glossaire-tooltip-text {
+  .glossaire-tooltip-def {
+    color: rgba(255, 255, 255, 0.95);
+    font-size: 13px;
+    line-height: 1.55;
+  }
+
+  .glossaire-tooltip-example {
     display: block;
-    color: rgba(255, 255, 255, 0.85);
+    color: rgba(255, 255, 255, 0.78);
+    font-size: 12px;
+    line-height: 1.5;
+    padding: 8px 10px;
+    background: rgba(255, 255, 255, 0.06);
+    border-left: 2px solid var(--color-accent);
+    border-radius: 4px;
   }
 
-  /* Mobile : tooltip en bas pour éviter les débordements */
+  .glossaire-tooltip-example strong {
+    color: var(--color-accent);
+    margin-right: 4px;
+  }
+
+  .glossaire-tooltip-links {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    margin-top: 2px;
+    padding-top: 8px;
+    border-top: 1px solid rgba(255, 255, 255, 0.12);
+    font-size: 12px;
+  }
+
+  .glossaire-tooltip-internal {
+    color: var(--color-accent);
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .glossaire-tooltip-internal:hover {
+    text-decoration: underline;
+  }
+
+  .glossaire-tooltip-external {
+    color: rgba(255, 255, 255, 0.7);
+    text-decoration: none;
+  }
+
+  .glossaire-tooltip-external:hover {
+    color: white;
+    text-decoration: underline;
+  }
+
+  /* Mobile : bottom sheet full width */
   @media (max-width: 640px) {
     .glossaire-tooltip {
       position: fixed;
@@ -117,19 +174,20 @@ const label = display || term;
       left: 16px;
       right: 16px;
       top: auto;
-      transform: translateY(8px);
       width: auto;
+      transform: translateY(8px);
     }
     .glossaire-tooltip::after {
       display: none;
     }
     .glossaire-term:hover .glossaire-tooltip,
-    .glossaire-term:focus .glossaire-tooltip {
+    .glossaire-term:focus .glossaire-tooltip,
+    .glossaire-term:focus-within .glossaire-tooltip,
+    .glossaire-term[aria-expanded="true"] .glossaire-tooltip {
       transform: translateY(0);
     }
   }
 
-  /* reduced motion */
   @media (prefers-reduced-motion: reduce) {
     .glossaire-tooltip {
       transition: none;

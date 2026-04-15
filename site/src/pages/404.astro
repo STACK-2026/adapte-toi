@@ -1,6 +1,16 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { siteConfig } from "../../site.config";
+import { glossaire, type GlossaireEntry } from "../data/glossaire";
+
+// 3 termes aléatoires différents à chaque build pour un 404 vivant
+const entries = Object.entries(glossaire) as Array<[string, GlossaireEntry]>;
+const shuffled = [...entries].sort(() => Math.random() - 0.5);
+const microLesson = shuffled.slice(0, 3);
+
+function slugify(s: string) {
+  return s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^\w\s-]/g, "").replace(/\s+/g, "-").replace(/-+/g, "-").replace(/^-|-$/g, "");
+}
 ---
 
 <BaseLayout title={`Page introuvable | ${siteConfig.name}`} description="Cette page n'existe pas." noIndex>
@@ -50,6 +60,34 @@ import { siteConfig } from "../../site.config";
         Explorer les métiers
       </a>
     </div>
+
+    <!-- Micro-leçon glossaire : puisque tu es là -->
+    <section class="mt-16 text-left fade-up" style="animation-delay: 0.35s;">
+      <div class="flex items-center justify-between mb-6">
+        <div>
+          <p class="text-xs font-bold uppercase tracking-widest text-primary">Puisque tu es là</p>
+          <h2 class="text-xl sm:text-2xl font-display font-bold mt-1">3 mots IA à retenir avant de partir</h2>
+        </div>
+        <a href="/glossaire" class="text-sm text-secondary font-semibold hover:text-primary whitespace-nowrap">
+          Tout le glossaire →
+        </a>
+      </div>
+      <div class="grid sm:grid-cols-3 gap-4">
+        {microLesson.map(([key, entry]) => (
+          <a
+            href={`/glossaire#${slugify(key)}`}
+            class="group block bg-white rounded-xl border border-gray-100 p-5 hover:border-primary/30 hover:shadow-md transition-all"
+          >
+            <div class="text-[10px] font-bold uppercase tracking-wider text-primary mb-2">{entry.category}</div>
+            <h3 class="text-base font-bold mb-2 capitalize group-hover:text-primary transition-colors">{key}</h3>
+            <p class="text-gray-600 text-sm leading-snug line-clamp-3 mb-3">{entry.definition}</p>
+            <p class="text-gray-500 text-xs leading-snug bg-gray-50 border-l-2 border-accent rounded-r px-2.5 py-1.5 line-clamp-3">
+              <strong class="text-accent">Ex.</strong> {entry.example}
+            </p>
+          </a>
+        ))}
+      </div>
+    </section>
   </div>
 </BaseLayout>
 

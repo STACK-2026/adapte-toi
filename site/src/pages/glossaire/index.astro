@@ -1,0 +1,146 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import { glossaire, glossaireCategories, type GlossaireEntry } from "../../data/glossaire";
+import { siteConfig } from "../../../site.config";
+import { fullUrl } from "../../utils/config";
+import { jsonLdBreadcrumbs } from "../../utils/seo";
+
+const entries = Object.entries(glossaire) as Array<[string, GlossaireEntry]>;
+const total = entries.length;
+
+const byCategory: Record<string, Array<[string, GlossaireEntry]>> = {};
+for (const [key, entry] of entries) {
+  (byCategory[entry.category] ||= []).push([key, entry]);
+}
+for (const list of Object.values(byCategory)) {
+  list.sort(([a], [b]) => a.localeCompare(b, "fr"));
+}
+
+const alphabetical = [...entries].sort(([a], [b]) => a.localeCompare(b, "fr"));
+
+const breadcrumbs = [
+  { name: "Accueil", url: siteConfig.url },
+  { name: "Glossaire", url: fullUrl("/glossaire") },
+];
+
+const definedTermSet = {
+  "@context": "https://schema.org",
+  "@type": "DefinedTermSet",
+  name: `Glossaire IA et emploi - ${siteConfig.name}`,
+  description: "Glossaire vulgarisé des termes IA, emploi, reconversion, tech et réglementation pour novices 100 %.",
+  url: fullUrl("/glossaire"),
+  hasDefinedTerm: entries.map(([key, entry]) => ({
+    "@type": "DefinedTerm",
+    name: key,
+    description: entry.definition,
+    url: fullUrl(`/glossaire#${slugify(key)}`),
+    inDefinedTermSet: fullUrl("/glossaire"),
+  })),
+};
+
+function slugify(s: string) {
+  return s
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/[^\w\s-]/g, "")
+    .replace(/\s+/g, "-")
+    .replace(/-+/g, "-")
+    .replace(/^-|-$/g, "");
+}
+---
+
+<BaseLayout
+  title={`Glossaire IA, emploi, reconversion | ${siteConfig.name}`}
+  description="Glossaire complet et vulgarisé : tous les termes techniques IA, emploi, reconversion, dev, juridique et business expliqués pour novices 100 %. Exemples concrets, sources officielles."
+  jsonLd={[jsonLdBreadcrumbs(breadcrumbs), definedTermSet]}
+>
+  <div class="max-w-5xl mx-auto px-4 py-10 sm:py-14">
+    <Breadcrumbs items={breadcrumbs} />
+
+    <header class="mb-12 border-b border-gray-200 pb-8">
+      <div class="text-xs font-bold uppercase tracking-widest text-primary mb-3">Glossaire Adapte-toi</div>
+      <h1 class="mb-4">Tous les mots IA, emploi, reconversion. <span class="text-gray-400">Vulgarisés.</span></h1>
+      <p class="text-gray-600 text-lg max-w-3xl leading-relaxed">
+        {total} termes techniques expliqués pour novices 100 %. Chaque définition vient avec un exemple concret, un lien interne
+        vers nos guides ou fiches métier, et une source officielle pour aller plus loin.
+      </p>
+    </header>
+
+    <nav class="mb-12 bg-gray-50 rounded-xl p-6" aria-label="Aller à une catégorie">
+      <div class="text-xs font-bold uppercase tracking-wider text-gray-500 mb-3">Sommaire</div>
+      <ul class="flex flex-wrap gap-2">
+        {glossaireCategories.map((cat) => (
+          byCategory[cat.id]?.length > 0 && (
+            <li>
+              <a href={`#cat-${cat.id}`} class="inline-block text-sm bg-white border border-gray-200 px-3 py-1.5 rounded-full font-medium text-gray-700 hover:bg-primary hover:text-white hover:border-primary transition-colors">
+                {cat.label} ({byCategory[cat.id].length})
+              </a>
+            </li>
+          )
+        ))}
+        <li>
+          <a href="#alphabetique" class="inline-block text-sm bg-secondary text-white px-3 py-1.5 rounded-full font-medium hover:bg-secondary/90 transition-colors">
+            Index A-Z
+          </a>
+        </li>
+      </ul>
+    </nav>
+
+    {glossaireCategories.map((cat) => (
+      byCategory[cat.id]?.length > 0 && (
+        <section id={`cat-${cat.id}`} class="mb-14 scroll-mt-24">
+          <div class="flex items-baseline gap-3 mb-2">
+            <h2 class="mb-0">{cat.label}</h2>
+            <span class="text-sm text-gray-400">({byCategory[cat.id].length} termes)</span>
+          </div>
+          <p class="text-gray-600 mb-8">{cat.description}</p>
+          <div class="grid sm:grid-cols-2 gap-5">
+            {byCategory[cat.id].map(([key, entry]) => (
+              <article id={slugify(key)} class="scroll-mt-24 bg-white rounded-xl border border-gray-100 p-5 hover:border-primary/30 hover:shadow-sm transition-all">
+                <h3 class="text-lg font-bold capitalize mb-2 flex items-baseline gap-2">
+                  <a href={`#${slugify(key)}`} class="hover:text-primary transition-colors">{key}</a>
+                </h3>
+                <p class="text-gray-700 text-sm leading-relaxed mb-3">{entry.definition}</p>
+                <p class="text-gray-500 text-xs leading-relaxed bg-gray-50 border-l-2 border-accent rounded-r px-3 py-2 mb-3">
+                  <strong class="text-accent">Ex.</strong> {entry.example}
+                </p>
+                <div class="flex flex-wrap items-center gap-x-4 gap-y-1 text-xs">
+                  <a href={entry.internalLink.href} class="text-primary font-semibold hover:underline">
+                    → {entry.internalLink.label}
+                  </a>
+                  <a href={entry.externalSource.url} target="_blank" rel="noopener nofollow" class="text-gray-500 hover:text-gray-800">
+                    Source : {entry.externalSource.label} ↗
+                  </a>
+                </div>
+              </article>
+            ))}
+          </div>
+        </section>
+      )
+    ))}
+
+    <section id="alphabetique" class="mb-14 scroll-mt-24 border-t border-gray-200 pt-12">
+      <h2 class="mb-3">Index alphabétique</h2>
+      <p class="text-gray-600 mb-8">Les {total} termes du glossaire, ordre A-Z, avec lien direct vers la définition détaillée.</p>
+      <ul class="columns-1 sm:columns-2 md:columns-3 gap-6">
+        {alphabetical.map(([key]) => (
+          <li class="mb-2 break-inside-avoid">
+            <a href={`#${slugify(key)}`} class="text-sm text-secondary hover:text-primary font-medium capitalize">{key}</a>
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    <aside class="bg-secondary text-white rounded-2xl p-8 sm:p-10 text-center">
+      <h2 class="text-white text-2xl sm:text-3xl font-display font-bold mb-3">Un terme te manque ?</h2>
+      <p class="text-white/80 mb-6 max-w-xl mx-auto">
+        On complète le glossaire en continu. Envoie-nous un email, on l'ajoute et on te répond dès qu'il est publié.
+      </p>
+      <a href={`mailto:${siteConfig.legal?.email || "contact@adapte-toi.com"}?subject=Glossaire : terme manquant`} class="inline-block bg-primary text-white font-semibold px-6 py-3 rounded-full hover:bg-primary/90 transition-colors">
+        Suggérer un terme →
+      </a>
+    </aside>
+  </div>
+</BaseLayout>
