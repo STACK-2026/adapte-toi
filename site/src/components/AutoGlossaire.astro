@@ -21,6 +21,57 @@ const serialized = JSON.stringify({ g: glossaire, a: glossaireAliases });
     }
     function escapeRegex(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"); }
 
+    function slugifyKey(s) {
+      return String(s).normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^\w\s-]/g, "").replace(/\s+/g, "-").replace(/-+/g, "-").replace(/^-|-$/g, "");
+    }
+
+    // Linkify une def/exemple vers d'autres entrées glossaire (max 3 liens, skip self)
+    function linkifyDefinition(text, selfKey) {
+      if (!text) return "";
+      var keys = aliasKeys; // déjà trié par longueur décroissante
+      var used = { };
+      if (selfKey) used[selfKey] = true;
+      var tokens = [{ kind: "text", value: text }];
+      var added = 0;
+      var MAX = 3;
+
+      for (var i = 0; i < keys.length && added < MAX; i++) {
+        var alias = keys[i];
+        var canonical = DATA.a[alias];
+        if (!canonical || used[canonical]) continue;
+
+        var next = [];
+        var consumed = false;
+        for (var j = 0; j < tokens.length; j++) {
+          var tok = tokens[j];
+          if (tok.kind !== "text" || consumed) { next.push(tok); continue; }
+          var re = new RegExp("(^|[^A-Za-zÀ-ÿ0-9])(" + escapeRegex(alias) + ")(?=$|[^A-Za-zÀ-ÿ0-9])", "i");
+          var m = tok.value.match(re);
+          if (!m || m.index === undefined) { next.push(tok); continue; }
+          var prefix = (m[1] || "").length;
+          var start = m.index + prefix;
+          var matched = m[2];
+          var before = tok.value.substring(0, start);
+          var after = tok.value.substring(start + matched.length);
+          if (before) next.push({ kind: "text", value: before });
+          next.push({ kind: "link", value: matched, key: canonical });
+          if (after) next.push({ kind: "text", value: after });
+          used[canonical] = true;
+          consumed = true;
+          added++;
+        }
+        tokens = next;
+      }
+
+      var out = "";
+      for (var k = 0; k < tokens.length; k++) {
+        var t = tokens[k];
+        if (t.kind === "text") out += escapeHtml(t.value);
+        else out += '<a href="/glossaire#' + slugifyKey(t.key) + '" class="glossaire-inline-link">' + escapeHtml(t.value) + '</a>';
+      }
+      return out;
+    }
+
     function wrapTerms() {
       var proseList = document.querySelectorAll(".prose");
       if (!proseList.length) return;
@@ -83,8 +134,8 @@ const serialized = JSON.stringify({ g: glossaire, a: glossaireAliases });
               '<span class="glossaire-label">' + escapeHtml(matched) + '</span>' +
               '<span class="glossaire-tooltip" role="tooltip">' +
                 '<span class="glossaire-tooltip-title">' + escapeHtml(key) + '</span>' +
-                '<span class="glossaire-tooltip-def">' + escapeHtml(entry.definition) + '</span>' +
-                '<span class="glossaire-tooltip-example"><strong>Ex.</strong> ' + escapeHtml(entry.example) + '</span>' +
+                '<span class="glossaire-tooltip-def">' + linkifyDefinition(entry.definition, key) + '</span>' +
+                '<span class="glossaire-tooltip-example"><strong>Ex.</strong> ' + linkifyDefinition(entry.example, key) + '</span>' +
                 '<span class="glossaire-tooltip-links">' +
                   '<a href="' + escapeHtml(entry.internalLink.href) + '" class="glossaire-tooltip-internal">→ ' + escapeHtml(entry.internalLink.label) + '</a>' +
                   '<a href="' + escapeHtml(entry.externalSource.url) + '" target="_blank" rel="noopener nofollow" class="glossaire-tooltip-external">Source : ' + escapeHtml(entry.externalSource.label) + ' ↗</a>' +
@@ -255,6 +306,25 @@ const serialized = JSON.stringify({ g: glossaire, a: glossaireAliases });
   .glossaire-tooltip-external:hover {
     color: white;
     text-decoration: underline;
+  }
+
+  /* Cross-link : terme glossaire à l'intérieur d'une def/exemple */
+  .glossaire-inline-link {
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(transparent 70%, rgba(247, 127, 0, 0.45) 70%);
+    background-size: 100% 100%;
+    transition: background-color 0.2s ease, color 0.2s ease;
+    padding: 0 1px;
+    border-radius: 2px;
+  }
+
+  .glossaire-inline-link:hover,
+  .glossaire-inline-link:focus {
+    color: var(--color-secondary, #1D3557);
+    background-image: none;
+    background-color: var(--color-accent, #F77F00);
+    text-decoration: none;
   }
 
   @media (max-width: 640px) {

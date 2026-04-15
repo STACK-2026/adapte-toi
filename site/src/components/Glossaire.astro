@@ -5,7 +5,8 @@
  * Affiche le label souligné en pointillé, hover/tap ouvre un tooltip riche
  * (définition, exemple, lien interne, source externe).
  */
-import { glossaire, resolveGlossaireKey } from "../data/glossaire";
+import { glossaire, glossaireAliases, resolveGlossaireKey } from "../data/glossaire";
+import { linkifyDefinition } from "../utils/glossaire";
 
 interface Props {
   term: string;
@@ -16,6 +17,9 @@ const { term, display } = Astro.props;
 const key = resolveGlossaireKey(term);
 const entry = key ? glossaire[key] : null;
 const label = display || term;
+
+const definitionHtml = entry ? linkifyDefinition(entry.definition, glossaire, glossaireAliases, key ?? undefined) : "";
+const exampleHtml = entry ? linkifyDefinition(entry.example, glossaire, glossaireAliases, key ?? undefined) : "";
 ---
 
 {entry ? (
@@ -23,8 +27,8 @@ const label = display || term;
     <span class="glossaire-label">{label}</span>
     <span class="glossaire-tooltip" role="tooltip">
       <span class="glossaire-tooltip-title">{key}</span>
-      <span class="glossaire-tooltip-def">{entry.definition}</span>
-      <span class="glossaire-tooltip-example"><strong>Ex.</strong> {entry.example}</span>
+      <span class="glossaire-tooltip-def" set:html={definitionHtml}></span>
+      <span class="glossaire-tooltip-example"><strong>Ex.</strong> <span set:html={exampleHtml}></span></span>
       <span class="glossaire-tooltip-links">
         <a href={entry.internalLink.href} class="glossaire-tooltip-internal">
           → {entry.internalLink.label}

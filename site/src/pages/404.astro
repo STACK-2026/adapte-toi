@@ -1,16 +1,15 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { siteConfig } from "../../site.config";
-import { glossaire, type GlossaireEntry } from "../data/glossaire";
+import { glossaire, glossaireAliases, type GlossaireEntry } from "../data/glossaire";
+import { linkifyDefinition, slugifyTerm } from "../utils/glossaire";
 
 // 3 termes aléatoires différents à chaque build pour un 404 vivant
 const entries = Object.entries(glossaire) as Array<[string, GlossaireEntry]>;
 const shuffled = [...entries].sort(() => Math.random() - 0.5);
 const microLesson = shuffled.slice(0, 3);
 
-function slugify(s: string) {
-  return s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^\w\s-]/g, "").replace(/\s+/g, "-").replace(/-+/g, "-").replace(/^-|-$/g, "");
-}
+const slugify = slugifyTerm;
 ---
 
 <BaseLayout title={`Page introuvable | ${siteConfig.name}`} description="Cette page n'existe pas." noIndex>
@@ -80,9 +79,9 @@ function slugify(s: string) {
           >
             <div class="text-[10px] font-bold uppercase tracking-wider text-primary mb-2">{entry.category}</div>
             <h3 class="text-base font-bold mb-2 capitalize group-hover:text-primary transition-colors">{key}</h3>
-            <p class="text-gray-600 text-sm leading-snug line-clamp-3 mb-3">{entry.definition}</p>
+            <p class="text-gray-600 text-sm leading-snug line-clamp-3 mb-3" set:html={linkifyDefinition(entry.definition, glossaire, glossaireAliases, key, 3, "glossaire-card-link")}></p>
             <p class="text-gray-500 text-xs leading-snug bg-gray-50 border-l-2 border-accent rounded-r px-2.5 py-1.5 line-clamp-3">
-              <strong class="text-accent">Ex.</strong> {entry.example}
+              <strong class="text-accent">Ex.</strong> <span set:html={linkifyDefinition(entry.example, glossaire, glossaireAliases, key, 2, "glossaire-card-link")}></span>
             </p>
           </a>
         ))}

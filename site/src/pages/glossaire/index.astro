@@ -1,7 +1,8 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import Breadcrumbs from "../../components/Breadcrumbs.astro";
-import { glossaire, glossaireCategories, type GlossaireEntry } from "../../data/glossaire";
+import { glossaire, glossaireAliases, glossaireCategories, type GlossaireEntry } from "../../data/glossaire";
+import { linkifyDefinition, slugifyTerm } from "../../utils/glossaire";
 import { siteConfig } from "../../../site.config";
 import { fullUrl } from "../../utils/config";
 import { jsonLdBreadcrumbs } from "../../utils/seo";
@@ -24,6 +25,8 @@ const breadcrumbs = [
   { name: "Glossaire", url: fullUrl("/glossaire") },
 ];
 
+const slugify = slugifyTerm;
+
 const definedTermSet = {
   "@context": "https://schema.org",
   "@type": "DefinedTermSet",
@@ -38,17 +41,6 @@ const definedTermSet = {
     inDefinedTermSet: fullUrl("/glossaire"),
   })),
 };
-
-function slugify(s: string) {
-  return s
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "")
-    .toLowerCase()
-    .replace(/[^\w\s-]/g, "")
-    .replace(/\s+/g, "-")
-    .replace(/-+/g, "-")
-    .replace(/^-|-$/g, "");
-}
 ---
 
 <BaseLayout
@@ -102,9 +94,9 @@ function slugify(s: string) {
                 <h3 class="text-lg font-bold capitalize mb-2 flex items-baseline gap-2">
                   <a href={`#${slugify(key)}`} class="hover:text-primary transition-colors">{key}</a>
                 </h3>
-                <p class="text-gray-700 text-sm leading-relaxed mb-3">{entry.definition}</p>
+                <p class="text-gray-700 text-sm leading-relaxed mb-3 glossaire-card-def" set:html={linkifyDefinition(entry.definition, glossaire, glossaireAliases, key, 4, "glossaire-card-link")}></p>
                 <p class="text-gray-500 text-xs leading-relaxed bg-gray-50 border-l-2 border-accent rounded-r px-3 py-2 mb-3">
-                  <strong class="text-accent">Ex.</strong> {entry.example}
+                  <strong class="text-accent">Ex.</strong> <span set:html={linkifyDefinition(entry.example, glossaire, glossaireAliases, key, 3, "glossaire-card-link")}></span>
                 </p>
                 <div class="flex flex-wrap items-center gap-x-4 gap-y-1 text-xs">
                   <a href={entry.internalLink.href} class="text-primary font-semibold hover:underline">
@@ -144,3 +136,21 @@ function slugify(s: string) {
     </aside>
   </div>
 </BaseLayout>
+
+<style is:global>
+  .glossaire-card-link {
+    color: var(--color-primary, #E63946);
+    text-decoration: none;
+    background-image: linear-gradient(transparent 70%, color-mix(in srgb, var(--color-primary, #E63946) 22%, transparent) 70%);
+    font-weight: 600;
+    padding: 0 1px;
+    transition: background-color 0.2s ease, color 0.2s ease;
+    border-radius: 2px;
+  }
+  .glossaire-card-link:hover,
+  .glossaire-card-link:focus {
+    background-image: none;
+    background-color: var(--color-primary, #E63946);
+    color: white;
+  }
+</style>
