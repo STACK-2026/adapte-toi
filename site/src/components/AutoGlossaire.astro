@@ -1,140 +1,131 @@
 ---
 /**
- * AutoGlossaire : scan le contenu `.prose` et enrobe automatiquement les termes du glossaire
- * en tooltips riches (définition + exemple + lien interne + source externe).
- * Inclus globalement dans BaseLayout, la data vient de src/data/glossaire.ts (source unique de vérité).
+ * AutoGlossaire : scan .prose et enrobe les termes en tooltips riches.
+ * Tout est inline pour éviter tout conflit de bundle/timing.
  */
 import { glossaire, glossaireAliases } from "../data/glossaire";
 
-// Sérialisation compacte pour injection inline (minimise la taille HTML)
 const serialized = JSON.stringify({ g: glossaire, a: glossaireAliases });
 ---
 
-<script is:inline set:html={`window.__ADAPTE_GLOSSAIRE__ = ${serialized};`}></script>
+<script is:inline define:vars={{ PAYLOAD: serialized }}>
+  (function () {
+    var DATA;
+    try { DATA = JSON.parse(PAYLOAD); } catch (e) { console.warn("Glossaire parse failed", e); return; }
+    if (!DATA || !DATA.g || !DATA.a) return;
 
-<script>
-  type GlossaireEntry = {
-    definition: string;
-    example: string;
-    internalLink: { href: string; label: string };
-    externalSource: { url: string; label: string };
-    category: string;
-    aliases?: string[];
-  };
+    var aliasKeys = Object.keys(DATA.a).sort(function (a, b) { return b.length - a.length; });
 
-  const data = (window as any).__ADAPTE_GLOSSAIRE__ as {
-    g: Record<string, GlossaireEntry>;
-    a: Record<string, string>;
-  };
+    function escapeHtml(s) {
+      return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#039;");
+    }
+    function escapeRegex(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"); }
 
-  function initAutoGlossaire() {
-    if (!data || !data.g) return;
-    const proseEls = document.querySelectorAll(".prose");
-    if (!proseEls.length) return;
+    function wrapTerms() {
+      var proseList = document.querySelectorAll(".prose");
+      if (!proseList.length) return;
 
-    // Termes à matcher : clés + aliases, triés par longueur décroissante
-    const allKeys = Object.keys(data.a).sort((a, b) => b.length - a.length);
+      proseList.forEach(function (prose) {
+        if (prose.dataset.glossaireDone === "1") return;
+        prose.dataset.glossaireDone = "1";
 
-    proseEls.forEach((prose) => {
-      const walker = document.createTreeWalker(prose, NodeFilter.SHOW_TEXT, {
-        acceptNode(node) {
-          const parent = node.parentElement;
-          if (!parent) return NodeFilter.FILTER_REJECT;
-          const tag = parent.tagName.toLowerCase();
-          if (["h1", "h2", "h3", "h4", "a", "code", "pre", "button", "strong"].includes(tag)) {
-            return NodeFilter.FILTER_REJECT;
+        var walker = document.createTreeWalker(prose, NodeFilter.SHOW_TEXT, {
+          acceptNode: function (node) {
+            var parent = node.parentElement;
+            if (!parent) return NodeFilter.FILTER_REJECT;
+            var tag = parent.tagName.toLowerCase();
+            if (tag === "h1" || tag === "h2" || tag === "h3" || tag === "h4" || tag === "a" || tag === "code" || tag === "pre" || tag === "button") {
+              return NodeFilter.FILTER_REJECT;
+            }
+            if (parent.closest(".glossaire-term")) return NodeFilter.FILTER_REJECT;
+            return NodeFilter.FILTER_ACCEPT;
           }
-          if (parent.closest(".glossaire-term")) return NodeFilter.FILTER_REJECT;
-          return NodeFilter.FILTER_ACCEPT;
-        },
+        });
+
+        var nodes = [];
+        var n;
+        while ((n = walker.nextNode())) nodes.push(n);
+
+        var used = Object.create(null);
+
+        nodes.forEach(function (textNode) {
+          var text = textNode.textContent || "";
+          for (var i = 0; i < aliasKeys.length; i++) {
+            var alias = aliasKeys[i];
+            var key = DATA.a[alias];
+            if (!key || used[key]) continue;
+
+            // Unicode word boundary fallback : support latin + accentués
+            var re = new RegExp("(^|[^A-Za-zÀ-ÿ0-9])(" + escapeRegex(alias) + ")(?=$|[^A-Za-zÀ-ÿ0-9])", "i");
+            var m = text.match(re);
+            if (!m || m.index === undefined) continue;
+
+            var entry = DATA.g[key];
+            if (!entry) continue;
+            used[key] = true;
+
+            var prefix = (m[1] || "").length;
+            var matchStart = m.index + prefix;
+            var matched = m[2];
+            var before = text.substring(0, matchStart);
+            var after = text.substring(matchStart + matched.length);
+
+            var frag = document.createDocumentFragment();
+            if (before) frag.appendChild(document.createTextNode(before));
+
+            var span = document.createElement("span");
+            span.className = "glossaire-term";
+            span.tabIndex = 0;
+            span.setAttribute("role", "button");
+            span.setAttribute("aria-label", "Définition : " + matched);
+            span.setAttribute("aria-expanded", "false");
+            span.innerHTML =
+              '<span class="glossaire-label">' + escapeHtml(matched) + '</span>' +
+              '<span class="glossaire-tooltip" role="tooltip">' +
+                '<span class="glossaire-tooltip-title">' + escapeHtml(key) + '</span>' +
+                '<span class="glossaire-tooltip-def">' + escapeHtml(entry.definition) + '</span>' +
+                '<span class="glossaire-tooltip-example"><strong>Ex.</strong> ' + escapeHtml(entry.example) + '</span>' +
+                '<span class="glossaire-tooltip-links">' +
+                  '<a href="' + escapeHtml(entry.internalLink.href) + '" class="glossaire-tooltip-internal">→ ' + escapeHtml(entry.internalLink.label) + '</a>' +
+                  '<a href="' + escapeHtml(entry.externalSource.url) + '" target="_blank" rel="noopener nofollow" class="glossaire-tooltip-external">Source : ' + escapeHtml(entry.externalSource.label) + ' ↗</a>' +
+                '</span>' +
+              '</span>';
+            frag.appendChild(span);
+            if (after) frag.appendChild(document.createTextNode(after));
+
+            if (textNode.parentNode) textNode.parentNode.replaceChild(frag, textNode);
+            return; // passe au prochain text node
+          }
+        });
       });
+    }
 
-      const textNodes: Text[] = [];
-      let node: Node | null;
-      while ((node = walker.nextNode())) textNodes.push(node as Text);
-
-      // Un match max par terme par page (évite la surcharge visuelle)
-      const usedKeys = new Set<string>();
-
-      textNodes.forEach((textNode) => {
-        const text = textNode.textContent || "";
-        for (const alias of allKeys) {
-          const canonicalKey = data.a[alias];
-          if (!canonicalKey || usedKeys.has(canonicalKey)) continue;
-
-          const escaped = alias.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-          const regex = new RegExp(`(^|[^\\p{L}\\p{N}])(${escaped})(?=$|[^\\p{L}\\p{N}])`, "iu");
-          const match = text.match(regex);
-          if (!match || match.index === undefined) continue;
-
-          usedKeys.add(canonicalKey);
-          const entry = data.g[canonicalKey];
-          if (!entry) continue;
-
-          const matchStart = match.index + (match[1]?.length ?? 0);
-          const matchedText = match[2];
-          const before = text.substring(0, matchStart);
-          const after = text.substring(matchStart + matchedText.length);
-
-          const frag = document.createDocumentFragment();
-          if (before) frag.appendChild(document.createTextNode(before));
-
-          const span = document.createElement("span");
-          span.className = "glossaire-term";
-          span.tabIndex = 0;
-          span.setAttribute("role", "button");
-          span.setAttribute("aria-label", `Définition : ${matchedText}`);
-          span.setAttribute("aria-expanded", "false");
-          span.dataset.gKey = canonicalKey;
-          span.innerHTML = `
-            <span class="glossaire-label">${matchedText}</span>
-            <span class="glossaire-tooltip" role="tooltip">
-              <span class="glossaire-tooltip-title">${canonicalKey}</span>
-              <span class="glossaire-tooltip-def">${escapeHtml(entry.definition)}</span>
-              <span class="glossaire-tooltip-example"><strong>Ex.</strong> ${escapeHtml(entry.example)}</span>
-              <span class="glossaire-tooltip-links">
-                <a href="${entry.internalLink.href}" class="glossaire-tooltip-internal">→ ${escapeHtml(entry.internalLink.label)}</a>
-                <a href="${entry.externalSource.url}" target="_blank" rel="noopener nofollow" class="glossaire-tooltip-external">Source : ${escapeHtml(entry.externalSource.label)} ↗</a>
-              </span>
-            </span>
-          `;
-          frag.appendChild(span);
-          if (after) frag.appendChild(document.createTextNode(after));
-          textNode.parentNode?.replaceChild(frag, textNode);
-          return; // passe au text node suivant
+    function bindTapBehavior() {
+      document.addEventListener("click", function (e) {
+        var target = e.target;
+        if (!target || !target.closest) return;
+        var term = target.closest(".glossaire-term");
+        document.querySelectorAll(".glossaire-term[aria-expanded='true']").forEach(function (el) {
+          if (el !== term) el.setAttribute("aria-expanded", "false");
+        });
+        if (term && window.innerWidth < 768) {
+          if (target.closest("a")) return;
+          var expanded = term.getAttribute("aria-expanded") === "true";
+          term.setAttribute("aria-expanded", expanded ? "false" : "true");
+          if (!expanded) e.preventDefault();
         }
       });
-    });
+    }
 
-    // Touch : tap pour ouvrir, tap ailleurs pour fermer
-    document.addEventListener("click", (e) => {
-      const target = e.target as HTMLElement;
-      const term = target.closest(".glossaire-term") as HTMLElement | null;
-      document.querySelectorAll(".glossaire-term[aria-expanded='true']").forEach((el) => {
-        if (el !== term) el.setAttribute("aria-expanded", "false");
-      });
-      if (term && window.innerWidth < 768) {
-        // Si on tap sur un lien interne au tooltip, laisse-le naviguer
-        if (target.closest("a")) return;
-        const expanded = term.getAttribute("aria-expanded") === "true";
-        term.setAttribute("aria-expanded", expanded ? "false" : "true");
-        if (!expanded) e.preventDefault();
-      }
-    });
-  }
+    function start() {
+      try { wrapTerms(); bindTapBehavior(); }
+      catch (err) { console.warn("Glossaire init error", err); }
+    }
 
-  function escapeHtml(s: string): string {
-    return s
-      .replace(/&/g, "&amp;")
-      .replace(/</g, "&lt;")
-      .replace(/>/g, "&gt;")
-      .replace(/"/g, "&quot;")
-      .replace(/'/g, "&#039;");
-  }
-
-  if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", initAutoGlossaire);
-  } else {
-    setTimeout(initAutoGlossaire, 100);
-  }
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", start);
+    } else {
+      start();
+    }
+  })();
 </script>
