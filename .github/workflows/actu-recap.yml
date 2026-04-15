@@ -1,0 +1,50 @@
+name: Actu Récap - Dimanche
+
+on:
+  schedule:
+    # Dimanche 6h37 UTC (8h37 Paris CEST) + sleep random 0-2700s
+    # => publication entre 8h37 et 9h22 Paris
+    - cron: '37 6 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  recap:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure Git
+        run: |
+          git config user.name "Adapte-toi Décrypte"
+          git config user.email "decrypte@adapte-toi.com"
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Random delay
+        run: |
+          SLEEP=$((RANDOM % 2700))
+          echo "Sleeping ${SLEEP}s"
+          sleep $SLEEP
+
+      - name: Run recap
+        run: |
+          cd blog-auto
+          python actu_recap.py
+
+      - name: Upload logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: actu-recap-logs
+          path: blog-auto/logs/
+          retention-days: 30

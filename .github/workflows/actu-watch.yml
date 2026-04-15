@@ -2,9 +2,9 @@ name: Actu Décrypte - Daily
 
 on:
   schedule:
-    # Lun-ven, random dans fenetre 4h-6h UTC (6h-8h Paris CEST)
-    # Plage d'heures, cadence unique par jour gerée via random dans le script
-    - cron: '37 4 * * 1-5'
+    # Tous les jours, lun-sam à 4h37 UTC (6h37 Paris CEST) + sleep random 0-5400s
+    # => publication aléatoire 6h37-8h07 du matin. Dimanche géré par le workflow actu-recap.
+    - cron: '37 4 * * 1-6'
   workflow_dispatch:
     inputs:
       dry_run:
