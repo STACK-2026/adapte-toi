@@ -74,6 +74,14 @@ RSS_FEEDS = [
     ("Reuters Tech", "https://www.reutersagency.com/feed/?best-topics=tech&post_type=best"),
     ("MIT Tech Review AI", "https://www.technologyreview.com/topic/artificial-intelligence/feed"),
     ("Anthropic News", "https://www.anthropic.com/news/rss.xml"),
+    # Google News RSS searches (real-time, targets hot topics)
+    ("Google News, OpenAI FR", "https://news.google.com/rss/search?q=OpenAI+OR+Altman&hl=fr&gl=FR&ceid=FR:fr"),
+    ("Google News, Anthropic FR", "https://news.google.com/rss/search?q=Anthropic+OR+Claude+AI&hl=fr&gl=FR&ceid=FR:fr"),
+    ("Google News, IA emploi FR", "https://news.google.com/rss/search?q=%22intelligence+artificielle%22+emploi+OR+licenciement&hl=fr&gl=FR&ceid=FR:fr"),
+    ("Google News, reconversion IA", "https://news.google.com/rss/search?q=reconversion+IA+OR+%22intelligence+artificielle%22+formation&hl=fr&gl=FR&ceid=FR:fr"),
+    ("Google News, automation travail", "https://news.google.com/rss/search?q=%22automation+travail%22+OR+%22IA+remplace%22+OR+%22metiers+menaces%22&hl=fr&gl=FR&ceid=FR:fr"),
+    ("Google News, Mistral FR", "https://news.google.com/rss/search?q=Mistral+AI+France&hl=fr&gl=FR&ceid=FR:fr"),
+    ("Google News, chatgpt entreprise", "https://news.google.com/rss/search?q=ChatGPT+entreprise+OR+productivite&hl=fr&gl=FR&ceid=FR:fr"),
 ]
 
 CATEGORY_ENUM = ["menace", "etude", "annonce", "politique", "outil", "voix", "chiffre"]
