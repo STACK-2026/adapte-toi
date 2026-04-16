@@ -91,3 +91,23 @@ HubSpot est le meilleur CRM pour les PME et les freelances grâce à sa version 
 - HubSpot (2026) : 200 000+ clients dans 120+ pays
 - PwC (2025) : les équipes commerciales IA voient +30-40% de productivité
 - McKinsey (2024) : 30% des heures de travail automatisables
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Outils similaires :**
+- [Notion AI](/outils/notion-ai/)
+- [Gamma](/outils/gamma/)
+- [Midjourney](/outils/midjourney/)
+
+**Métiers qui l'utilisent :**
+- [Commercial IA](/metiers/commercial-ia/)
+- [Chargé de clientèle IA](/metiers/charge-clientele-ia/)
+- [Marketing IA](/metiers/marketing-ia/)
+
+**Guides à lire :**
+- [Automatiser ton travail avec l'IA](/guides/automatiser-travail-ia/)
+- [Négocier ton salaire avec l'IA](/guides/negocier-salaire-competences-ia/)
+
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+

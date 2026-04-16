@@ -79,3 +79,23 @@ Consulte notre [fiche graphiste](/metiers/graphiste-ia) pour comprendre comment 
 ## Notre verdict : 7/10
 
 Adobe Firefly est le meilleur choix pour les professionnels déjà dans l'écosystème Adobe. Generative Fill dans Photoshop est une révolution. Les droits commerciaux garantis sont un avantage décisif pour les marques et les agences. Moins impressionnant que Midjourney en génération pure, mais infiniment plus pratique en workflow de production.
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Outils similaires :**
+- [Midjourney](/outils/midjourney/)
+- [Canva AI](/outils/canva-ai/)
+- [ChatGPT](/outils/chatgpt/)
+
+**Métiers qui l'utilisent :**
+- [Graphiste IA](/metiers/graphiste-ia/)
+- [Photographe IA](/metiers/photographe-ia/)
+- [Marketing IA](/metiers/marketing-ia/)
+
+**Guides à lire :**
+- [Freelance IA : guide complet](/guides/freelance-ia-guide/)
+- [Automatiser ton travail avec l'IA](/guides/automatiser-travail-ia/)
+
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+

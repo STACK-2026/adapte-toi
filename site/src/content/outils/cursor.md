@@ -102,3 +102,23 @@ Cursor est l'outil qui change le plus la productivité d'un développeur en 2026
 - Microsoft (2025) : GitHub Copilot génère du code correct dans 85% des cas
 - Stack Overflow Developer Survey 2025 : 78% des développeurs utilisent l'IA au quotidien
 - PwC (2025) : +25% de salaire pour les profils maîtrisant les outils IA
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Outils similaires :**
+- [GitHub Copilot](/outils/copilot/)
+- [ChatGPT](/outils/chatgpt/)
+- [Claude](/outils/claude/)
+
+**Métiers qui l'utilisent :**
+- [Développeur IA](/metiers/developpeur-ia/)
+- [Architecte IA](/metiers/architecte-ia/)
+- [Data analyst IA](/metiers/data-analyst-ia/)
+
+**Guides à lire :**
+- [Prompt engineering débutant](/guides/prompt-engineering-debutant/)
+- [Se former à l'IA gratuitement](/guides/se-former-ia-gratuitement/)
+
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+

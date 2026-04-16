@@ -91,3 +91,23 @@ Surfer SEO est l'outil de référence pour l'optimisation de contenu SEO. Si tu 
 - Surfer SEO : utilisé par 100 000+ créateurs de contenu
 - OCDE (2025) : 27% des emplois français exposés à l'automatisation
 - PwC (2025) : +25% de salaire pour les profils maîtrisant les outils IA
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Outils similaires :**
+- [Midjourney](/outils/midjourney/)
+- [Adobe Firefly](/outils/adobe-firefly/)
+- [Canva AI](/outils/canva-ai/)
+
+**Métiers qui l'utilisent :**
+- [Marketing IA](/metiers/marketing-ia/)
+- [Copywriter IA](/metiers/copywriter-ia/)
+- [Community manager IA](/metiers/community-manager-ia/)
+
+**Guides à lire :**
+- [Freelance IA : guide complet](/guides/freelance-ia-guide/)
+- [Automatiser ton travail avec l'IA](/guides/automatiser-travail-ia/)
+
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+

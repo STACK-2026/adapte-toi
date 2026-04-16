@@ -236,3 +236,25 @@ Montée en compétences : 2 semaines à 3 mois. Reconversion complète : 6 à 12
 - Laurent Alexandre et Olivier Babeau, "Ne faites plus d'études" (Buchet-Chastel, 2025)
 - Cognizant "New Work, New World" (février 2026) : 93% des métiers impactés
 - France Travail BMO 2025 : données métiers en tension
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Guides connexes :**
+- [Se former à l'IA gratuitement](/guides/se-former-ia-gratuitement/)
+- [Études inutiles : que faire ?](/guides/etudes-inutiles-que-faire/)
+- [Freelance IA : guide complet](/guides/freelance-ia-guide/)
+- [Négocier ton salaire avec des compétences IA](/guides/negocier-salaire-competences-ia/)
+
+**Métiers qui appliquent ces conseils :**
+- [Développeur IA](/metiers/developpeur-ia/)
+- [Data analyst IA](/metiers/data-analyst-ia/)
+- [Consultant IA](/metiers/consultant-ia/)
+
+**Outils IA à tester :**
+- [ChatGPT](/outils/chatgpt/)
+- [Claude](/outils/claude/)
+- [Perplexity](/outils/perplexity/)
+
+Explore tous nos [guides stratégiques](/guides/), les [fiches métiers IA](/metiers/) et le [catalogue d'outils](/outils/).
+

@@ -66,3 +66,23 @@ Génère des sous-titres stylisés directement intégrés à la vidéo. Indispen
 ## Notre verdict : 8/10
 
 Descript est l'outil qui rend le montage vidéo accessible à tout le monde. Si tu crées du contenu vidéo ou audio et que tu n'as pas de compétences en montage, c'est la solution. Le seul frein : la qualité en français (bonne mais pas parfaite pour la transcription).
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Outils similaires :**
+- [ElevenLabs](/outils/elevenlabs/)
+- [Otter.ai](/outils/otter-ai/)
+- [Midjourney](/outils/midjourney/)
+
+**Métiers qui l'utilisent :**
+- [Journaliste IA](/metiers/journaliste-ia/)
+- [Community manager IA](/metiers/community-manager-ia/)
+- [Copywriter IA](/metiers/copywriter-ia/)
+
+**Guides à lire :**
+- [Freelance IA : guide complet](/guides/freelance-ia-guide/)
+- [Prompt engineering débutant](/guides/prompt-engineering-debutant/)
+
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+

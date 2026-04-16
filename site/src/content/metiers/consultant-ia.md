@@ -102,3 +102,25 @@ Revenu potentiel : un consultant junior gagne 38-48K euros. Un manager spéciali
 - PwC (2025) : +25% de salaire pour les profils maîtrisant les outils IA
 - Cognizant "New Work, New World" (février 2026) : 93% des métiers impactés
 - Gartner (2025) : 40% des cabinets de conseil ont déployé des outils IA internes
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Métiers connexes :**
+- [Chef de projet IA](/metiers/chef-de-projet-ia/)
+- [Commercial IA](/metiers/commercial-ia/)
+- [Analyste financier IA](/metiers/analyste-financier-ia/)
+- [Chargé de clientèle IA](/metiers/charge-clientele-ia/)
+
+**Outils IA à tester :**
+- [Notion AI](/outils/notion-ai/)
+- [Gamma](/outils/gamma/)
+- [Otter.ai](/outils/otter-ai/)
+
+**Guides utiles :**
+- [Automatiser ton travail avec l'IA](/guides/automatiser-travail-ia/)
+- [Négocier son salaire avec des compétences IA](/guides/negocier-salaire-competences-ia/)
+- [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
+
+Explore la [liste complète des métiers IA](/metiers/), notre [catalogue d'outils](/outils/) et tous nos [guides stratégiques](/guides/).
+

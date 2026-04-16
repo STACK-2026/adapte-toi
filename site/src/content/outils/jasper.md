@@ -90,3 +90,23 @@ Jasper est excellent pour les équipes marketing qui produisent beaucoup de cont
 - Jasper (2026) : 100 000+ clients, $80M+ ARR
 - PwC (2025) : +25% de salaire pour les profils maîtrisant les outils IA
 - HubSpot (2025) : tests A/B emails IA vs humains, résultats comparables
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Outils similaires :**
+- [ChatGPT](/outils/chatgpt/)
+- [Claude](/outils/claude/)
+- [Copy.ai](/outils/copy-ai/)
+
+**Métiers qui l'utilisent :**
+- [Copywriter IA](/metiers/copywriter-ia/)
+- [Journaliste IA](/metiers/journaliste-ia/)
+- [Community manager IA](/metiers/community-manager-ia/)
+
+**Guides à lire :**
+- [Prompt engineering débutant](/guides/prompt-engineering-debutant/)
+- [Freelance IA : guide complet](/guides/freelance-ia-guide/)
+
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+

@@ -75,3 +75,25 @@ Tu deviens **stratège social media**. Tu utilises l'IA pour la production (post
 - OCDE (2025) : 27% des emplois français exposés à l'automatisation
 - McKinsey (2024) : 30% des heures automatisables
 - Lefebvre Dalloz (2026) : 1 professionnel sur 2 a adopté l'IA
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Métiers connexes :**
+- [Copywriter IA](/metiers/copywriter-ia/)
+- [Graphiste IA](/metiers/graphiste-ia/)
+- [Photographe IA](/metiers/photographe-ia/)
+- [Marketing IA](/metiers/marketing-ia/)
+
+**Outils IA à tester :**
+- [Midjourney](/outils/midjourney/)
+- [Canva AI](/outils/canva-ai/)
+- [Copy.ai](/outils/copy-ai/)
+
+**Guides utiles :**
+- [Freelance IA : guide complet](/guides/freelance-ia-guide/)
+- [Se former à l'IA gratuitement](/guides/se-former-ia-gratuitement/)
+- [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
+
+Explore la [liste complète des métiers IA](/metiers/), notre [catalogue d'outils](/outils/) et tous nos [guides stratégiques](/guides/).
+

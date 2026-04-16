@@ -82,3 +82,25 @@ Selon l'OCDE (2025), les métiers de la restauration et de l'artisanat sont les 
 - Jensen Huang, PDG Nvidia (2024) : "les métiers manuels sont les grands gagnants de l'ère de l'IA"
 - McKinsey (2024) : 30% des heures automatisables globalement, mais <10% en restauration
 - Cognizant "New Work, New World" (février 2026) : la restauration parmi les secteurs les plus résilients
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Métiers connexes :**
+- [Plombier IA](/metiers/plombier-ia/)
+- [Agriculteur IA](/metiers/agriculteur-ia/)
+- [Infirmier IA](/metiers/infirmier-ia/)
+- [Copywriter IA](/metiers/copywriter-ia/)
+
+**Outils IA à tester :**
+- [ChatGPT](/outils/chatgpt/)
+- [Claude](/outils/claude/)
+- [Perplexity](/outils/perplexity/)
+
+**Guides utiles :**
+- [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
+- [Études inutiles : que faire ?](/guides/etudes-inutiles-que-faire/)
+- [IA et emploi : chiffres clés](/guides/ia-emploi-chiffres-cles/)
+
+Explore la [liste complète des métiers IA](/metiers/), notre [catalogue d'outils](/outils/) et tous nos [guides stratégiques](/guides/).
+

@@ -128,3 +128,25 @@ Si tu es le seul à maîtriser l'IA dans l'équipe ET que tu formes les autres, 
 - Ipsos (2025) : 47% des actifs envisagent une reconversion
 - Malt (2025) : TJM moyen freelance tech en France : 550 euros
 - OCDE (2025) : 27% des emplois français exposés à l'automatisation
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Guides connexes :**
+- [Freelance IA : guide complet](/guides/freelance-ia-guide/)
+- [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
+- [Automatiser ton travail avec l'IA](/guides/automatiser-travail-ia/)
+- [Chiffres clés IA et emploi](/guides/ia-emploi-chiffres-cles/)
+
+**Métiers qui appliquent ces conseils :**
+- [Développeur IA](/metiers/developpeur-ia/)
+- [Data analyst IA](/metiers/data-analyst-ia/)
+- [Consultant IA](/metiers/consultant-ia/)
+
+**Outils IA à tester :**
+- [ChatGPT](/outils/chatgpt/)
+- [Claude](/outils/claude/)
+- [Perplexity](/outils/perplexity/)
+
+Explore tous nos [guides stratégiques](/guides/), les [fiches métiers IA](/metiers/) et le [catalogue d'outils](/outils/).
+

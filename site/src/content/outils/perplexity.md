@@ -98,3 +98,23 @@ Perplexity est le meilleur outil pour la recherche factuelle rapide avec sources
 
 - Perplexity (2026) : 15+ millions d'utilisateurs mensuels
 - PwC (2025) : +25% de salaire pour les profils maîtrisant les outils IA
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Outils similaires :**
+- [Claude](/outils/claude/)
+- [ChatGPT](/outils/chatgpt/)
+- [Midjourney](/outils/midjourney/)
+
+**Métiers qui l'utilisent :**
+- [Journaliste IA](/metiers/journaliste-ia/)
+- [Consultant IA](/metiers/consultant-ia/)
+- [Analyste financier IA](/metiers/analyste-financier-ia/)
+
+**Guides à lire :**
+- [Se former à l'IA gratuitement](/guides/se-former-ia-gratuitement/)
+- [Prompt engineering débutant](/guides/prompt-engineering-debutant/)
+
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+

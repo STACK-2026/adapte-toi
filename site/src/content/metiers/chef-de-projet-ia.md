@@ -100,3 +100,25 @@ Revenu potentiel : un chef de projet classique gagne 40-55K euros. Un Head of Op
 - PwC (2025) : +25% de salaire pour les profils IA-ready
 - Cognizant "New Work, New World" (fevrier 2026) : 93% des métiers impactés
 - LinkedIn (2024) : +270% de croissance des offres mentionnant l'IA
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Métiers connexes :**
+- [Consultant IA](/metiers/consultant-ia/)
+- [Commercial IA](/metiers/commercial-ia/)
+- [Analyste financier IA](/metiers/analyste-financier-ia/)
+- [Chargé de clientèle IA](/metiers/charge-clientele-ia/)
+
+**Outils IA à tester :**
+- [Notion AI](/outils/notion-ai/)
+- [Gamma](/outils/gamma/)
+- [Otter.ai](/outils/otter-ai/)
+
+**Guides utiles :**
+- [Automatiser ton travail avec l'IA](/guides/automatiser-travail-ia/)
+- [Négocier son salaire avec des compétences IA](/guides/negocier-salaire-competences-ia/)
+- [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
+
+Explore la [liste complète des métiers IA](/metiers/), notre [catalogue d'outils](/outils/) et tous nos [guides stratégiques](/guides/).
+

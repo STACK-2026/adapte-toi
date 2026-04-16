@@ -106,3 +106,23 @@ Claude est le meilleur assistant IA pour les professionnels qui travaillent avec
 - Anthropic (2026) : spécifications Claude Opus et Sonnet
 - PwC (2025) : +25% de salaire pour les profils maîtrisant les outils IA
 - Stack Overflow Developer Survey 2025 : Claude Code parmi les outils de développement les plus utilisés
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Outils similaires :**
+- [ChatGPT](/outils/chatgpt/)
+- [Copy.ai](/outils/copy-ai/)
+- [Jasper](/outils/jasper/)
+
+**Métiers qui l'utilisent :**
+- [Copywriter IA](/metiers/copywriter-ia/)
+- [Journaliste IA](/metiers/journaliste-ia/)
+- [Community manager IA](/metiers/community-manager-ia/)
+
+**Guides à lire :**
+- [Prompt engineering débutant](/guides/prompt-engineering-debutant/)
+- [Freelance IA : guide complet](/guides/freelance-ia-guide/)
+
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+

@@ -104,3 +104,25 @@ Revenu potentiel : un junior gagne 35-42K euros. Un senior IA-augmenté spécial
 - Stack Overflow Developer Survey 2025 : 78% des développeurs utilisent l'IA au quotidien
 - OCDE (2025) : 27% des emplois français exposés à l'automatisation
 - PwC (2025) : +25% de salaire pour les profils IA-ready
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Métiers connexes :**
+- [Data analyst IA](/metiers/data-analyst-ia/)
+- [Architecte IA](/metiers/architecte-ia/)
+- [Copywriter IA](/metiers/copywriter-ia/)
+- [Graphiste IA](/metiers/graphiste-ia/)
+
+**Outils IA à tester :**
+- [Cursor](/outils/cursor/)
+- [GitHub Copilot](/outils/copilot/)
+- [ChatGPT](/outils/chatgpt/)
+
+**Guides utiles :**
+- [Prompt engineering débutant](/guides/prompt-engineering-debutant/)
+- [Se former à l'IA gratuitement](/guides/se-former-ia-gratuitement/)
+- [Négocier son salaire avec des compétences IA](/guides/negocier-salaire-competences-ia/)
+
+Explore la [liste complète des métiers IA](/metiers/), notre [catalogue d'outils](/outils/) et tous nos [guides stratégiques](/guides/).
+

@@ -247,3 +247,25 @@ Compte 3 à 4 mois entre la première démarche et le début de la formation. Co
 - mon-cep.org : Conseil en Évolution Professionnelle
 - OCDE (2025) : 27% des emplois français exposés à l'automatisation
 - Ipsos (2025) : 47% des actifs français envisagent une reconversion
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Guides connexes :**
+- [Se former à l'IA gratuitement](/guides/se-former-ia-gratuitement/)
+- [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
+- [Études inutiles : que faire ?](/guides/etudes-inutiles-que-faire/)
+- [Chiffres clés IA et emploi](/guides/ia-emploi-chiffres-cles/)
+
+**Métiers qui appliquent ces conseils :**
+- [Développeur IA](/metiers/developpeur-ia/)
+- [Data analyst IA](/metiers/data-analyst-ia/)
+- [Consultant IA](/metiers/consultant-ia/)
+
+**Outils IA à tester :**
+- [ChatGPT](/outils/chatgpt/)
+- [Claude](/outils/claude/)
+- [Perplexity](/outils/perplexity/)
+
+Explore tous nos [guides stratégiques](/guides/), les [fiches métiers IA](/metiers/) et le [catalogue d'outils](/outils/).
+

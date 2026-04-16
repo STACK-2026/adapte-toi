@@ -100,3 +100,25 @@ Revenu potentiel : équivalent ou supérieur a aujourd'hui, avec une productivit
 - OCDE (2025) : 27% des emplois français exposés à un risque d'automatisation élevé
 - France Travail BMO 2025 : données sur les métiers en tension dans le secteur des langues
 - Rapport Cognizant "New Work, New World" (fevrier 2026) : 93% des métiers impactés par l'IA
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Métiers connexes :**
+- [Enseignant IA](/metiers/enseignant-ia/)
+- [Agent immobilier IA](/metiers/agent-immobilier-ia/)
+- [Copywriter IA](/metiers/copywriter-ia/)
+- [Graphiste IA](/metiers/graphiste-ia/)
+
+**Outils IA à tester :**
+- [Claude](/outils/claude/)
+- [ChatGPT](/outils/chatgpt/)
+- [Notion AI](/outils/notion-ai/)
+
+**Guides utiles :**
+- [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
+- [Se former à l'IA gratuitement](/guides/se-former-ia-gratuitement/)
+- [Chiffres clés IA et emploi](/guides/ia-emploi-chiffres-cles/)
+
+Explore la [liste complète des métiers IA](/metiers/), notre [catalogue d'outils](/outils/) et tous nos [guides stratégiques](/guides/).
+

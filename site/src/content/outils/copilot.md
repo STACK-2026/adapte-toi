@@ -63,3 +63,23 @@ Consulte notre [fiche développeur](/metiers/developpeur-ia) pour comprendre l'i
 ## Notre verdict : 8/10
 
 GitHub Copilot est le meilleur choix pour les développeurs qui veulent de l'IA sans changer d'éditeur. Moins puissant que [Cursor](/outils/cursor) sur les modifications multi-fichiers, mais plus léger et moins cher. Le plan gratuit pour les étudiants est un cadeau.
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Outils similaires :**
+- [Cursor](/outils/cursor/)
+- [ChatGPT](/outils/chatgpt/)
+- [Claude](/outils/claude/)
+
+**Métiers qui l'utilisent :**
+- [Développeur IA](/metiers/developpeur-ia/)
+- [Architecte IA](/metiers/architecte-ia/)
+- [Data analyst IA](/metiers/data-analyst-ia/)
+
+**Guides à lire :**
+- [Prompt engineering débutant](/guides/prompt-engineering-debutant/)
+- [Se former à l'IA gratuitement](/guides/se-former-ia-gratuitement/)
+
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+

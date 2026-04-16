@@ -83,3 +83,25 @@ Le métier ne disparaît pas, mais il évolue.
 - HAS (2024) : 35% du temps infirmier consacré à l'administratif
 - Ordre des infirmiers (2025) : 40% de burn-out chez les soignants
 - Cognizant "New Work, New World" (février 2026) : la santé parmi les secteurs les plus résilients
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Métiers connexes :**
+- [Plombier IA](/metiers/plombier-ia/)
+- [Cuisinier IA](/metiers/cuisinier-ia/)
+- [Agriculteur IA](/metiers/agriculteur-ia/)
+- [Copywriter IA](/metiers/copywriter-ia/)
+
+**Outils IA à tester :**
+- [ChatGPT](/outils/chatgpt/)
+- [Claude](/outils/claude/)
+- [Perplexity](/outils/perplexity/)
+
+**Guides utiles :**
+- [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
+- [Études inutiles : que faire ?](/guides/etudes-inutiles-que-faire/)
+- [IA et emploi : chiffres clés](/guides/ia-emploi-chiffres-cles/)
+
+Explore la [liste complète des métiers IA](/metiers/), notre [catalogue d'outils](/outils/) et tous nos [guides stratégiques](/guides/).
+

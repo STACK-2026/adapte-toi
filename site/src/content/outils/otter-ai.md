@@ -99,3 +99,23 @@ Otter.ai est l'outil de transcription le plus mature et le plus intégré. Il tr
 - Otter.ai : utilisé par 25+ millions de personnes
 - HAS (2024) : 35% du temps professionnel consacré aux réunions et à l'administratif
 - McKinsey (2024) : 30% des heures de travail automatisables
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Outils similaires :**
+- [ElevenLabs](/outils/elevenlabs/)
+- [Descript](/outils/descript/)
+- [Midjourney](/outils/midjourney/)
+
+**Métiers qui l'utilisent :**
+- [Journaliste IA](/metiers/journaliste-ia/)
+- [Community manager IA](/metiers/community-manager-ia/)
+- [Copywriter IA](/metiers/copywriter-ia/)
+
+**Guides à lire :**
+- [Freelance IA : guide complet](/guides/freelance-ia-guide/)
+- [Prompt engineering débutant](/guides/prompt-engineering-debutant/)
+
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+

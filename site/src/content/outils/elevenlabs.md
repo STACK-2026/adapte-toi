@@ -61,3 +61,23 @@ Génère des effets sonores à partir de descriptions textuelles ("bruit de plui
 ## Notre verdict : 8/10
 
 ElevenLabs est la meilleure synthèse vocale disponible en 2026. La qualité en français est impressionnante. Le plan gratuit suffit pour tester. Le clonage de voix est un game changer pour les créateurs de contenu. Le seul frein éthique : vérifie que tu as les droits de cloner une voix (ne clone que la tienne ou avec autorisation).
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Outils similaires :**
+- [Descript](/outils/descript/)
+- [Otter.ai](/outils/otter-ai/)
+- [Midjourney](/outils/midjourney/)
+
+**Métiers qui l'utilisent :**
+- [Journaliste IA](/metiers/journaliste-ia/)
+- [Community manager IA](/metiers/community-manager-ia/)
+- [Copywriter IA](/metiers/copywriter-ia/)
+
+**Guides à lire :**
+- [Freelance IA : guide complet](/guides/freelance-ia-guide/)
+- [Prompt engineering débutant](/guides/prompt-engineering-debutant/)
+
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+

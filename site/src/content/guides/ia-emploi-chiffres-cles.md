@@ -167,3 +167,25 @@ Toutes les études citées dans ce guide sont accessibles publiquement. Voici le
 - OpenAI (2026) : données d'utilisation ChatGPT
 - World Economic Forum (2025) : "Future of Jobs Report"
 - Goldman Sachs (2024) : "The Potentially Large Effects of AI on Economic Growth"
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Guides connexes :**
+- [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
+- [Études inutiles : que faire ?](/guides/etudes-inutiles-que-faire/)
+- [Réglementation IA en Europe](/guides/ia-europe-reglementation/)
+- [Se former à l'IA gratuitement](/guides/se-former-ia-gratuitement/)
+
+**Métiers qui appliquent ces conseils :**
+- [Développeur IA](/metiers/developpeur-ia/)
+- [Data analyst IA](/metiers/data-analyst-ia/)
+- [Consultant IA](/metiers/consultant-ia/)
+
+**Outils IA à tester :**
+- [ChatGPT](/outils/chatgpt/)
+- [Claude](/outils/claude/)
+- [Perplexity](/outils/perplexity/)
+
+Explore tous nos [guides stratégiques](/guides/), les [fiches métiers IA](/metiers/) et le [catalogue d'outils](/outils/).
+

@@ -100,3 +100,25 @@ Revenu potentiel : un charge marketing gagne 32-40K euros. Un Head of Marketing 
 - Lefebvre Dalloz (2026) : 1 professionnel sur 2 a adopte l'IA
 - PwC (2025) : +25% de salaire pour les profils IA-ready
 - LinkedIn (2024) : +270% de croissance des offres mentionnant l'IA
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Métiers connexes :**
+- [Copywriter IA](/metiers/copywriter-ia/)
+- [Graphiste IA](/metiers/graphiste-ia/)
+- [Photographe IA](/metiers/photographe-ia/)
+- [Community manager IA](/metiers/community-manager-ia/)
+
+**Outils IA à tester :**
+- [Midjourney](/outils/midjourney/)
+- [Canva AI](/outils/canva-ai/)
+- [Copy.ai](/outils/copy-ai/)
+
+**Guides utiles :**
+- [Freelance IA : guide complet](/guides/freelance-ia-guide/)
+- [Se former à l'IA gratuitement](/guides/se-former-ia-gratuitement/)
+- [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
+
+Explore la [liste complète des métiers IA](/metiers/), notre [catalogue d'outils](/outils/) et tous nos [guides stratégiques](/guides/).
+

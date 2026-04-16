@@ -118,3 +118,23 @@ ChatGPT est l'outil IA le plus polyvalent et le plus accessible en 2026. La vers
 - OpenAI (2026) : 900 millions d'utilisateurs hebdomadaires
 - PwC (2025) : +25% de salaire pour les profils maîtrisant les outils IA
 - Incremys (2026) : 25-30% des Français utilisent ChatGPT régulièrement
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Outils similaires :**
+- [Claude](/outils/claude/)
+- [Copy.ai](/outils/copy-ai/)
+- [Jasper](/outils/jasper/)
+
+**Métiers qui l'utilisent :**
+- [Copywriter IA](/metiers/copywriter-ia/)
+- [Journaliste IA](/metiers/journaliste-ia/)
+- [Community manager IA](/metiers/community-manager-ia/)
+
+**Guides à lire :**
+- [Prompt engineering débutant](/guides/prompt-engineering-debutant/)
+- [Freelance IA : guide complet](/guides/freelance-ia-guide/)
+
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+

@@ -100,3 +100,25 @@ Revenu potentiel : un photographe corporate généraliste gagne 25-35K euros. Un
 - McKinsey (2024) : 30% des heures de travail automatisables
 - Adobe (2025) : adoption de Generative Fill par 80% des abonnés Creative Cloud
 - C2PA (Coalition for Content Provenance and Authenticity) : standard d'authenticité photo
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Métiers connexes :**
+- [Copywriter IA](/metiers/copywriter-ia/)
+- [Graphiste IA](/metiers/graphiste-ia/)
+- [Community manager IA](/metiers/community-manager-ia/)
+- [Marketing IA](/metiers/marketing-ia/)
+
+**Outils IA à tester :**
+- [Midjourney](/outils/midjourney/)
+- [Canva AI](/outils/canva-ai/)
+- [Copy.ai](/outils/copy-ai/)
+
+**Guides utiles :**
+- [Freelance IA : guide complet](/guides/freelance-ia-guide/)
+- [Se former à l'IA gratuitement](/guides/se-former-ia-gratuitement/)
+- [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
+
+Explore la [liste complète des métiers IA](/metiers/), notre [catalogue d'outils](/outils/) et tous nos [guides stratégiques](/guides/).
+

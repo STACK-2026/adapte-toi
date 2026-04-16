@@ -99,3 +99,25 @@ Revenu potentiel : les avocats spécialisés en droit du numérique et de l'IA f
 - Goldman Sachs : réduction de 75% du temps de revue NDA grâce à l'IA
 - McKinsey (2024) : 30% des heures de travail automatisables
 - Baromètre Lefebvre Dalloz (2026) : 1 professionnel sur 2 a adopté l'IA
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Métiers connexes :**
+- [Comptable IA](/metiers/comptable-ia/)
+- [RH / recruteur IA](/metiers/rh-recruteur-ia/)
+- [Assistant administratif IA](/metiers/assistant-administratif-ia/)
+- [Copywriter IA](/metiers/copywriter-ia/)
+
+**Outils IA à tester :**
+- [Notion AI](/outils/notion-ai/)
+- [HubSpot AI](/outils/hubspot/)
+- [Perplexity](/outils/perplexity/)
+
+**Guides utiles :**
+- [Automatiser ton travail avec l'IA](/guides/automatiser-travail-ia/)
+- [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
+- [Financer ta formation IA via le CPF](/guides/financer-formation-ia-cpf/)
+
+Explore la [liste complète des métiers IA](/metiers/), notre [catalogue d'outils](/outils/) et tous nos [guides stratégiques](/guides/).
+

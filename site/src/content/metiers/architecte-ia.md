@@ -99,3 +99,25 @@ Revenu potentiel : un architecte salarié gagne 32-45K euros. Un architecte lib�
 - Autodesk (2025) : adoption du BIM par 75% des agences de plus de 10 salariés en France
 - Cognizant "New Work, New World" (février 2026) : 93% des métiers impactés, l'architecture entre "augmentation" plus que "remplacement"
 - Ordre des Architectes (2025) : données sur les effectifs et les revenus de la profession
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Métiers connexes :**
+- [Développeur IA](/metiers/developpeur-ia/)
+- [Data analyst IA](/metiers/data-analyst-ia/)
+- [Copywriter IA](/metiers/copywriter-ia/)
+- [Graphiste IA](/metiers/graphiste-ia/)
+
+**Outils IA à tester :**
+- [Cursor](/outils/cursor/)
+- [GitHub Copilot](/outils/copilot/)
+- [ChatGPT](/outils/chatgpt/)
+
+**Guides utiles :**
+- [Prompt engineering débutant](/guides/prompt-engineering-debutant/)
+- [Se former à l'IA gratuitement](/guides/se-former-ia-gratuitement/)
+- [Négocier son salaire avec des compétences IA](/guides/negocier-salaire-competences-ia/)
+
+Explore la [liste complète des métiers IA](/metiers/), notre [catalogue d'outils](/outils/) et tous nos [guides stratégiques](/guides/).
+

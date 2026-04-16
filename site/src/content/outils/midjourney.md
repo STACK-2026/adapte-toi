@@ -112,3 +112,23 @@ Midjourney est le meilleur outil de génération d'images pour les professionnel
 - Midjourney : utilisé par 16+ millions d'utilisateurs
 - Shutterstock (2026) : 30% des téléchargements sont des images IA
 - Adobe (2025) : 65% des professionnels créatifs utilisent l'IA générative
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Outils similaires :**
+- [Adobe Firefly](/outils/adobe-firefly/)
+- [Canva AI](/outils/canva-ai/)
+- [ChatGPT](/outils/chatgpt/)
+
+**Métiers qui l'utilisent :**
+- [Graphiste IA](/metiers/graphiste-ia/)
+- [Photographe IA](/metiers/photographe-ia/)
+- [Marketing IA](/metiers/marketing-ia/)
+
+**Guides à lire :**
+- [Freelance IA : guide complet](/guides/freelance-ia-guide/)
+- [Automatiser ton travail avec l'IA](/guides/automatiser-travail-ia/)
+
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+

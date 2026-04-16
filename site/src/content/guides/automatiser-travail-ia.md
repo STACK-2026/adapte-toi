@@ -162,3 +162,25 @@ Stack minimale : 50 euros/mois. Rentabilisée dès 2 heures gagnées par semaine
 - PwC (2025) : les équipes qui automatisent gagnent 30-40% de productivité
 - Make.com : 500 000+ entreprises utilisatrices, 1 500+ applications connectées
 - OCDE (2025) : 27% des emplois français exposés à l'automatisation
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Guides connexes :**
+- [Freelance IA : guide complet](/guides/freelance-ia-guide/)
+- [Prompt engineering débutant](/guides/prompt-engineering-debutant/)
+- [Négocier ton salaire avec des compétences IA](/guides/negocier-salaire-competences-ia/)
+- [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
+
+**Métiers qui appliquent ces conseils :**
+- [Développeur IA](/metiers/developpeur-ia/)
+- [Data analyst IA](/metiers/data-analyst-ia/)
+- [Consultant IA](/metiers/consultant-ia/)
+
+**Outils IA à tester :**
+- [ChatGPT](/outils/chatgpt/)
+- [Claude](/outils/claude/)
+- [Perplexity](/outils/perplexity/)
+
+Explore tous nos [guides stratégiques](/guides/), les [fiches métiers IA](/metiers/) et le [catalogue d'outils](/outils/).
+

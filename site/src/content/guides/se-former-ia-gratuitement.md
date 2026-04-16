@@ -235,3 +235,25 @@ Pour les fondamentaux, oui. Google AI Essentials et Elements of AI sont meilleur
 - LinkedIn (2024) : +270% de croissance des offres mentionnant l'IA
 - Lefebvre Dalloz (2026) : 1 professionnel sur 2 a adopté l'IA
 - OpenAI (2026) : ChatGPT utilisé par 900 millions de personnes par semaine
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Guides connexes :**
+- [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
+- [Financer ta formation IA via le CPF](/guides/financer-formation-ia-cpf/)
+- [Prompt engineering débutant](/guides/prompt-engineering-debutant/)
+- [Études inutiles : que faire ?](/guides/etudes-inutiles-que-faire/)
+
+**Métiers qui appliquent ces conseils :**
+- [Développeur IA](/metiers/developpeur-ia/)
+- [Data analyst IA](/metiers/data-analyst-ia/)
+- [Consultant IA](/metiers/consultant-ia/)
+
+**Outils IA à tester :**
+- [ChatGPT](/outils/chatgpt/)
+- [Claude](/outils/claude/)
+- [Perplexity](/outils/perplexity/)
+
+Explore tous nos [guides stratégiques](/guides/), les [fiches métiers IA](/metiers/) et le [catalogue d'outils](/outils/).
+

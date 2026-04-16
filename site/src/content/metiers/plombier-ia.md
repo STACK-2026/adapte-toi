@@ -68,3 +68,25 @@ Selon l'OCDE (2025), les métiers manuels qualifiés figurent dans les 3% les mo
 - FFB (2025) : 80 000-100 000 postes vacants dans le BTP
 - OCDE (2025) : les métiers manuels qualifiés dans les 3% les moins automatisables
 - McKinsey (2024) : moins de 5% des tâches artisanales automatisables
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Métiers connexes :**
+- [Cuisinier IA](/metiers/cuisinier-ia/)
+- [Agriculteur IA](/metiers/agriculteur-ia/)
+- [Infirmier IA](/metiers/infirmier-ia/)
+- [Copywriter IA](/metiers/copywriter-ia/)
+
+**Outils IA à tester :**
+- [ChatGPT](/outils/chatgpt/)
+- [Claude](/outils/claude/)
+- [Perplexity](/outils/perplexity/)
+
+**Guides utiles :**
+- [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
+- [Études inutiles : que faire ?](/guides/etudes-inutiles-que-faire/)
+- [IA et emploi : chiffres clés](/guides/ia-emploi-chiffres-cles/)
+
+Explore la [liste complète des métiers IA](/metiers/), notre [catalogue d'outils](/outils/) et tous nos [guides stratégiques](/guides/).
+

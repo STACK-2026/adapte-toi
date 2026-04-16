@@ -103,3 +103,23 @@ Gamma est la meilleure alternative à PowerPoint pour les gens qui n'ont ni le t
 
 - Gamma (2026) : 10+ millions d'utilisateurs
 - McKinsey (2024) : les cadres passent en moyenne 20% de leur temps à préparer des présentations
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Outils similaires :**
+- [Notion AI](/outils/notion-ai/)
+- [Otter.ai](/outils/otter-ai/)
+- [Midjourney](/outils/midjourney/)
+
+**Métiers qui l'utilisent :**
+- [Chef de projet IA](/metiers/chef-de-projet-ia/)
+- [Assistant administratif IA](/metiers/assistant-administratif-ia/)
+- [Consultant IA](/metiers/consultant-ia/)
+
+**Guides à lire :**
+- [Automatiser ton travail avec l'IA](/guides/automatiser-travail-ia/)
+- [Négocier ton salaire avec l'IA](/guides/negocier-salaire-competences-ia/)
+
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+

@@ -99,3 +99,25 @@ Revenu potentiel : un commercial moyen gagne 35-50K euros fixe + variable. Un co
 - LinkedIn (2024) : +270% de croissance des offres mentionnant l'IA
 - Cognizant "New Work, New World" (fevrier 2026) : 93% des métiers impactés
 - OCDE (2025) : 27% des emplois français exposés à l'automatisation
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Métiers connexes :**
+- [Consultant IA](/metiers/consultant-ia/)
+- [Chef de projet IA](/metiers/chef-de-projet-ia/)
+- [Analyste financier IA](/metiers/analyste-financier-ia/)
+- [Chargé de clientèle IA](/metiers/charge-clientele-ia/)
+
+**Outils IA à tester :**
+- [Notion AI](/outils/notion-ai/)
+- [Gamma](/outils/gamma/)
+- [Otter.ai](/outils/otter-ai/)
+
+**Guides utiles :**
+- [Automatiser ton travail avec l'IA](/guides/automatiser-travail-ia/)
+- [Négocier son salaire avec des compétences IA](/guides/negocier-salaire-competences-ia/)
+- [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
+
+Explore la [liste complète des métiers IA](/metiers/), notre [catalogue d'outils](/outils/) et tous nos [guides stratégiques](/guides/).
+

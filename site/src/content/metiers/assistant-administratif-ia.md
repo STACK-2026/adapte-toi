@@ -101,3 +101,25 @@ Revenu potentiel : un assistant administratif gagne 22-28K euros. Un office mana
 - France Travail BMO 2025 : baisse des offres en secrétariat et administration
 - Cognizant "New Work, New World" (fevrier 2026) : 93% des métiers impactés
 - Lefebvre Dalloz (2026) : 1 professionnel sur 2 a adopte l'IA
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Métiers connexes :**
+- [Avocat IA](/metiers/avocat-ia/)
+- [Comptable IA](/metiers/comptable-ia/)
+- [RH / recruteur IA](/metiers/rh-recruteur-ia/)
+- [Copywriter IA](/metiers/copywriter-ia/)
+
+**Outils IA à tester :**
+- [Notion AI](/outils/notion-ai/)
+- [HubSpot AI](/outils/hubspot/)
+- [Perplexity](/outils/perplexity/)
+
+**Guides utiles :**
+- [Automatiser ton travail avec l'IA](/guides/automatiser-travail-ia/)
+- [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
+- [Financer ta formation IA via le CPF](/guides/financer-formation-ia-cpf/)
+
+Explore la [liste complète des métiers IA](/metiers/), notre [catalogue d'outils](/outils/) et tous nos [guides stratégiques](/guides/).
+

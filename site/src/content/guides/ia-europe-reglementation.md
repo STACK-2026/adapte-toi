@@ -122,3 +122,25 @@ La France est le pays européen qui publie le plus d'offres d'emploi liées à l
 - Plan France 2030 : 2,2 milliards d'euros pour l'IA
 - OCDE (2025) : 27% des emplois français exposés à l'automatisation
 - PwC (2025) : +25% de salaire pour les profils IA-ready
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Guides connexes :**
+- [Chiffres clés IA et emploi](/guides/ia-emploi-chiffres-cles/)
+- [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
+- [Automatiser ton travail avec l'IA](/guides/automatiser-travail-ia/)
+- [Se former à l'IA gratuitement](/guides/se-former-ia-gratuitement/)
+
+**Métiers qui appliquent ces conseils :**
+- [Développeur IA](/metiers/developpeur-ia/)
+- [Data analyst IA](/metiers/data-analyst-ia/)
+- [Consultant IA](/metiers/consultant-ia/)
+
+**Outils IA à tester :**
+- [ChatGPT](/outils/chatgpt/)
+- [Claude](/outils/claude/)
+- [Perplexity](/outils/perplexity/)
+
+Explore tous nos [guides stratégiques](/guides/), les [fiches métiers IA](/metiers/) et le [catalogue d'outils](/outils/).
+

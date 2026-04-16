@@ -97,3 +97,25 @@ Revenu potentiel : un contrôleur de gestion gagne 38-50K euros. Un Head of FP&A
 - Goldman Sachs : réduction de 75% du temps de revue documentaire grâce à l'IA
 - Bloomberg (2025) : lancement de Bloomberg GPT intégré au Terminal
 - Cognizant "New Work, New World" (février 2026) : 93% des métiers impactés
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Métiers connexes :**
+- [Consultant IA](/metiers/consultant-ia/)
+- [Chef de projet IA](/metiers/chef-de-projet-ia/)
+- [Commercial IA](/metiers/commercial-ia/)
+- [Chargé de clientèle IA](/metiers/charge-clientele-ia/)
+
+**Outils IA à tester :**
+- [Notion AI](/outils/notion-ai/)
+- [Gamma](/outils/gamma/)
+- [Otter.ai](/outils/otter-ai/)
+
+**Guides utiles :**
+- [Automatiser ton travail avec l'IA](/guides/automatiser-travail-ia/)
+- [Négocier son salaire avec des compétences IA](/guides/negocier-salaire-competences-ia/)
+- [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
+
+Explore la [liste complète des métiers IA](/metiers/), notre [catalogue d'outils](/outils/) et tous nos [guides stratégiques](/guides/).
+

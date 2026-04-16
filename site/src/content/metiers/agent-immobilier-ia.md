@@ -110,3 +110,25 @@ Revenu potentiel : un agent immobilier moyen gagne 25-40K euros (commissions). U
 - France Travail BMO 2025 : stabilisation des offres agents immobiliers
 - McKinsey (2024) : 30% des heures de travail automatisables
 - PwC (2025) : +25% de salaire pour les profils maîtrisant les outils IA
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Métiers connexes :**
+- [Enseignant IA](/metiers/enseignant-ia/)
+- [Traducteur IA](/metiers/traducteur-ia/)
+- [Copywriter IA](/metiers/copywriter-ia/)
+- [Graphiste IA](/metiers/graphiste-ia/)
+
+**Outils IA à tester :**
+- [Claude](/outils/claude/)
+- [ChatGPT](/outils/chatgpt/)
+- [Notion AI](/outils/notion-ai/)
+
+**Guides utiles :**
+- [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
+- [Se former à l'IA gratuitement](/guides/se-former-ia-gratuitement/)
+- [Chiffres clés IA et emploi](/guides/ia-emploi-chiffres-cles/)
+
+Explore la [liste complète des métiers IA](/metiers/), notre [catalogue d'outils](/outils/) et tous nos [guides stratégiques](/guides/).
+

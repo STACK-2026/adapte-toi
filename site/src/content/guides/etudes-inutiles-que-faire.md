@@ -145,3 +145,25 @@ Les métiers qui combinent expertise humaine + IA : content strategist, data ana
 - Anthropic (mars 2026) : -53% copywriting, -48% gestion de projets, -34% conseil IT
 - OCDE (2025) : 27% des emplois français exposés à l'automatisation
 - PwC (2025) : +25% de salaire pour les profils IA-ready
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Guides connexes :**
+- [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
+- [Se former à l'IA gratuitement](/guides/se-former-ia-gratuitement/)
+- [Chiffres clés IA et emploi](/guides/ia-emploi-chiffres-cles/)
+- [Financer ta formation IA via le CPF](/guides/financer-formation-ia-cpf/)
+
+**Métiers qui appliquent ces conseils :**
+- [Développeur IA](/metiers/developpeur-ia/)
+- [Data analyst IA](/metiers/data-analyst-ia/)
+- [Consultant IA](/metiers/consultant-ia/)
+
+**Outils IA à tester :**
+- [ChatGPT](/outils/chatgpt/)
+- [Claude](/outils/claude/)
+- [Perplexity](/outils/perplexity/)
+
+Explore tous nos [guides stratégiques](/guides/), les [fiches métiers IA](/metiers/) et le [catalogue d'outils](/outils/).
+

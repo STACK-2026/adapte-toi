@@ -117,3 +117,25 @@ Revenu : le salaire n'augmente pas beaucoup (c'est la fonction publique). Mais t
 - McKinsey (2024) : 30% des heures de travail automatisables (l'éducation parmi les moins touchées)
 - Cognizant "New Work, New World" (février 2026) : 93% des métiers impactés, mais l'éducation résiste
 - Khan Academy (2025) : Khanmigo utilisé par 500 000+ enseignants dans le monde
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Métiers connexes :**
+- [Agent immobilier IA](/metiers/agent-immobilier-ia/)
+- [Traducteur IA](/metiers/traducteur-ia/)
+- [Copywriter IA](/metiers/copywriter-ia/)
+- [Graphiste IA](/metiers/graphiste-ia/)
+
+**Outils IA à tester :**
+- [Claude](/outils/claude/)
+- [ChatGPT](/outils/chatgpt/)
+- [Notion AI](/outils/notion-ai/)
+
+**Guides utiles :**
+- [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
+- [Se former à l'IA gratuitement](/guides/se-former-ia-gratuitement/)
+- [Chiffres clés IA et emploi](/guides/ia-emploi-chiffres-cles/)
+
+Explore la [liste complète des métiers IA](/metiers/), notre [catalogue d'outils](/outils/) et tous nos [guides stratégiques](/guides/).
+

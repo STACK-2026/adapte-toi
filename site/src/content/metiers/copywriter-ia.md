@@ -97,3 +97,25 @@ Revenu potentiel : 3 000-8 000 euros par mois en freelance spécialisé, contre 
 - McKinsey (2024) : 30% des heures de travail automatisables d'ici 2030
 - PwC (2025) : +25% de salaire pour les profils IA-ready
 - Cognizant "New Work, New World" (fevrier 2026) : 93% des métiers impactés
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Métiers connexes :**
+- [Graphiste IA](/metiers/graphiste-ia/)
+- [Photographe IA](/metiers/photographe-ia/)
+- [Community manager IA](/metiers/community-manager-ia/)
+- [Marketing IA](/metiers/marketing-ia/)
+
+**Outils IA à tester :**
+- [Midjourney](/outils/midjourney/)
+- [Canva AI](/outils/canva-ai/)
+- [Copy.ai](/outils/copy-ai/)
+
+**Guides utiles :**
+- [Freelance IA : guide complet](/guides/freelance-ia-guide/)
+- [Se former à l'IA gratuitement](/guides/se-former-ia-gratuitement/)
+- [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
+
+Explore la [liste complète des métiers IA](/metiers/), notre [catalogue d'outils](/outils/) et tous nos [guides stratégiques](/guides/).
+

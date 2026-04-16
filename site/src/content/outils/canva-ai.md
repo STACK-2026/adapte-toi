@@ -94,3 +94,23 @@ Canva AI est l'outil le plus accessible pour créer des visuels professionnels s
 
 - Canva (2026) : 190+ millions d'utilisateurs mensuels
 - PwC (2025) : +25% de salaire pour les profils maîtrisant les outils IA
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Outils similaires :**
+- [Midjourney](/outils/midjourney/)
+- [Adobe Firefly](/outils/adobe-firefly/)
+- [ChatGPT](/outils/chatgpt/)
+
+**Métiers qui l'utilisent :**
+- [Graphiste IA](/metiers/graphiste-ia/)
+- [Photographe IA](/metiers/photographe-ia/)
+- [Marketing IA](/metiers/marketing-ia/)
+
+**Guides à lire :**
+- [Freelance IA : guide complet](/guides/freelance-ia-guide/)
+- [Automatiser ton travail avec l'IA](/guides/automatiser-travail-ia/)
+
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+

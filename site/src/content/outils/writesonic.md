@@ -68,3 +68,23 @@ Crée un chatbot IA pour ton site web, entraîné sur tes propres données (FAQ,
 ## Notre verdict : 7/10
 
 Writesonic est le meilleur rapport qualité-prix pour la rédaction marketing IA. Moins prestigieux que Jasper, mais moins cher et avec des fonctionnalités bonus (Chatsonic, Botsonic). Pour un usage occasionnel, ChatGPT gratuit suffit. Pour un usage quotidien à petit budget, Writesonic est le sweet spot.
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Outils similaires :**
+- [ChatGPT](/outils/chatgpt/)
+- [Claude](/outils/claude/)
+- [Copy.ai](/outils/copy-ai/)
+
+**Métiers qui l'utilisent :**
+- [Copywriter IA](/metiers/copywriter-ia/)
+- [Journaliste IA](/metiers/journaliste-ia/)
+- [Community manager IA](/metiers/community-manager-ia/)
+
+**Guides à lire :**
+- [Prompt engineering débutant](/guides/prompt-engineering-debutant/)
+- [Freelance IA : guide complet](/guides/freelance-ia-guide/)
+
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+

@@ -64,3 +64,23 @@ Consulte notre [guide automatisation](/guides/automatiser-travail-ia) pour des e
 ## Notre verdict : 7/10
 
 Zapier est parfait pour débuter en automatisation. Simple, fiable, énorme catalogue d'intégrations. Le frein : le plan gratuit est limité (100 tâches) et le prix monte vite. Pour un usage professionnel sérieux, [Make.com](/outils/make) offre plus pour moins cher.
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Outils similaires :**
+- [Make](/outils/make/)
+- [Midjourney](/outils/midjourney/)
+- [Adobe Firefly](/outils/adobe-firefly/)
+
+**Métiers qui l'utilisent :**
+- [Chef de projet IA](/metiers/chef-de-projet-ia/)
+- [Assistant administratif IA](/metiers/assistant-administratif-ia/)
+- [Commercial IA](/metiers/commercial-ia/)
+
+**Guides à lire :**
+- [Automatiser ton travail avec l'IA](/guides/automatiser-travail-ia/)
+- [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
+
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+

@@ -203,3 +203,25 @@ Crée-toi un portfolio en faisant 2-3 projets gratuits pour des amis, des associ
 - Lefebvre Dalloz (2026) : 1 professionnel sur 2 a adopté l'IA
 - LinkedIn (2024) : +270% de croissance des offres mentionnant l'IA
 - Malt (2025) : le TJM moyen des freelances tech en France est de 550 euros
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Guides connexes :**
+- [Automatiser ton travail avec l'IA](/guides/automatiser-travail-ia/)
+- [Négocier ton salaire avec des compétences IA](/guides/negocier-salaire-competences-ia/)
+- [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
+- [Prompt engineering débutant](/guides/prompt-engineering-debutant/)
+
+**Métiers qui appliquent ces conseils :**
+- [Développeur IA](/metiers/developpeur-ia/)
+- [Data analyst IA](/metiers/data-analyst-ia/)
+- [Consultant IA](/metiers/consultant-ia/)
+
+**Outils IA à tester :**
+- [ChatGPT](/outils/chatgpt/)
+- [Claude](/outils/claude/)
+- [Perplexity](/outils/perplexity/)
+
+Explore tous nos [guides stratégiques](/guides/), les [fiches métiers IA](/metiers/) et le [catalogue d'outils](/outils/).
+

@@ -101,3 +101,25 @@ Revenu potentiel : un pigiste généraliste gagne 1 500-2 500 euros/mois. Un jou
 - OCDE (2025) : 27% des emplois français exposés à l'automatisation
 - McKinsey (2024) : 30% des heures de travail automatisables
 - Reuters Institute Digital News Report 2025 : données sur la transformation des rédactions
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Métiers connexes :**
+- [Copywriter IA](/metiers/copywriter-ia/)
+- [Graphiste IA](/metiers/graphiste-ia/)
+- [Photographe IA](/metiers/photographe-ia/)
+- [Community manager IA](/metiers/community-manager-ia/)
+
+**Outils IA à tester :**
+- [Midjourney](/outils/midjourney/)
+- [Canva AI](/outils/canva-ai/)
+- [Copy.ai](/outils/copy-ai/)
+
+**Guides utiles :**
+- [Freelance IA : guide complet](/guides/freelance-ia-guide/)
+- [Se former à l'IA gratuitement](/guides/se-former-ia-gratuitement/)
+- [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
+
+Explore la [liste complète des métiers IA](/metiers/), notre [catalogue d'outils](/outils/) et tous nos [guides stratégiques](/guides/).
+

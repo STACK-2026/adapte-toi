@@ -109,3 +109,23 @@ Make.com est l'outil d'automatisation le plus puissant accessible sans coder. Si
 - Make.com : 1 500+ intégrations, utilisé par 500 000+ entreprises
 - McKinsey (2024) : 30% des heures de travail automatisables
 - PwC (2025) : les équipes qui automatisent gagnent 30-40% de productivité
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Outils similaires :**
+- [Zapier](/outils/zapier/)
+- [Midjourney](/outils/midjourney/)
+- [Adobe Firefly](/outils/adobe-firefly/)
+
+**Métiers qui l'utilisent :**
+- [Chef de projet IA](/metiers/chef-de-projet-ia/)
+- [Assistant administratif IA](/metiers/assistant-administratif-ia/)
+- [Commercial IA](/metiers/commercial-ia/)
+
+**Guides à lire :**
+- [Automatiser ton travail avec l'IA](/guides/automatiser-travail-ia/)
+- [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
+
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+

@@ -217,3 +217,25 @@ En tant que métier à plein temps, c'est de moins en moins courant (les IA s'am
 - Anthropic Prompt Engineering Guide : techniques avancées officielles
 - OpenAI Cookbook : exemples et bonnes pratiques
 - OCDE (2025) : 27% des emplois français exposés à l'automatisation
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Guides connexes :**
+- [Se former à l'IA gratuitement](/guides/se-former-ia-gratuitement/)
+- [Automatiser ton travail avec l'IA](/guides/automatiser-travail-ia/)
+- [Freelance IA : guide complet](/guides/freelance-ia-guide/)
+- [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
+
+**Métiers qui appliquent ces conseils :**
+- [Développeur IA](/metiers/developpeur-ia/)
+- [Data analyst IA](/metiers/data-analyst-ia/)
+- [Consultant IA](/metiers/consultant-ia/)
+
+**Outils IA à tester :**
+- [ChatGPT](/outils/chatgpt/)
+- [Claude](/outils/claude/)
+- [Perplexity](/outils/perplexity/)
+
+Explore tous nos [guides stratégiques](/guides/), les [fiches métiers IA](/metiers/) et le [catalogue d'outils](/outils/).
+

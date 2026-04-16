@@ -70,3 +70,25 @@ Selon l'OCDE (2025), l'agriculture figure parmi les 5% des secteurs les moins au
 - FNSEA (2025) : 15-30% d'économie d'intrants avec l'agriculture de précision
 - McKinsey (2024) : moins de 10% des tâches agricoles automatisables
 - Jensen Huang, PDG Nvidia (2024) : "les métiers manuels sont les grands gagnants de l'ère de l'IA"
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Métiers connexes :**
+- [Plombier IA](/metiers/plombier-ia/)
+- [Cuisinier IA](/metiers/cuisinier-ia/)
+- [Infirmier IA](/metiers/infirmier-ia/)
+- [Copywriter IA](/metiers/copywriter-ia/)
+
+**Outils IA à tester :**
+- [ChatGPT](/outils/chatgpt/)
+- [Claude](/outils/claude/)
+- [Perplexity](/outils/perplexity/)
+
+**Guides utiles :**
+- [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
+- [Études inutiles : que faire ?](/guides/etudes-inutiles-que-faire/)
+- [IA et emploi : chiffres clés](/guides/ia-emploi-chiffres-cles/)
+
+Explore la [liste complète des métiers IA](/metiers/), notre [catalogue d'outils](/outils/) et tous nos [guides stratégiques](/guides/).
+

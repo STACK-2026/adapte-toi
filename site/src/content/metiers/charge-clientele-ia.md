@@ -103,3 +103,25 @@ Revenu potentiel : un chargé de clientèle niveau 1 gagne 22-26K euros. Un Cust
 - OCDE (2025) : 27% des emplois français exposés à l'automatisation
 - McKinsey (2024) : 30% des heures de travail automatisables
 - PwC (2025) : +25% de salaire pour les profils maîtrisant les outils IA
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Métiers connexes :**
+- [Consultant IA](/metiers/consultant-ia/)
+- [Chef de projet IA](/metiers/chef-de-projet-ia/)
+- [Commercial IA](/metiers/commercial-ia/)
+- [Analyste financier IA](/metiers/analyste-financier-ia/)
+
+**Outils IA à tester :**
+- [Notion AI](/outils/notion-ai/)
+- [Gamma](/outils/gamma/)
+- [Otter.ai](/outils/otter-ai/)
+
+**Guides utiles :**
+- [Automatiser ton travail avec l'IA](/guides/automatiser-travail-ia/)
+- [Négocier son salaire avec des compétences IA](/guides/negocier-salaire-competences-ia/)
+- [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
+
+Explore la [liste complète des métiers IA](/metiers/), notre [catalogue d'outils](/outils/) et tous nos [guides stratégiques](/guides/).
+

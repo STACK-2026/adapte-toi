@@ -104,3 +104,23 @@ Notion AI transforme un outil de productivité déjà excellent en assistant int
 - Notion : 30+ millions d'utilisateurs dans le monde
 - PwC (2025) : +25% de salaire pour les profils maîtrisant les outils IA
 - McKinsey (2024) : 30% des heures de travail automatisables
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Outils similaires :**
+- [Gamma](/outils/gamma/)
+- [Otter.ai](/outils/otter-ai/)
+- [Midjourney](/outils/midjourney/)
+
+**Métiers qui l'utilisent :**
+- [Chef de projet IA](/metiers/chef-de-projet-ia/)
+- [Assistant administratif IA](/metiers/assistant-administratif-ia/)
+- [Consultant IA](/metiers/consultant-ia/)
+
+**Guides à lire :**
+- [Automatiser ton travail avec l'IA](/guides/automatiser-travail-ia/)
+- [Négocier ton salaire avec l'IA](/guides/negocier-salaire-competences-ia/)
+
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+

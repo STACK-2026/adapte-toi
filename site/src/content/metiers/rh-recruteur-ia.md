@@ -104,3 +104,25 @@ Revenu potentiel : un charge de recrutement gagne 30-38K euros. Un HRBP ou Talen
 - McKinsey (2024) : 30% des heures automatisables
 - Ipsos (2025) : 47% des actifs envisagent une reconversion
 - LinkedIn (2024) : +270% de croissance des offres IA
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Métiers connexes :**
+- [Avocat IA](/metiers/avocat-ia/)
+- [Comptable IA](/metiers/comptable-ia/)
+- [Assistant administratif IA](/metiers/assistant-administratif-ia/)
+- [Copywriter IA](/metiers/copywriter-ia/)
+
+**Outils IA à tester :**
+- [Notion AI](/outils/notion-ai/)
+- [HubSpot AI](/outils/hubspot/)
+- [Perplexity](/outils/perplexity/)
+
+**Guides utiles :**
+- [Automatiser ton travail avec l'IA](/guides/automatiser-travail-ia/)
+- [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
+- [Financer ta formation IA via le CPF](/guides/financer-formation-ia-cpf/)
+
+Explore la [liste complète des métiers IA](/metiers/), notre [catalogue d'outils](/outils/) et tous nos [guides stratégiques](/guides/).
+

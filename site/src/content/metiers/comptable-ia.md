@@ -103,3 +103,25 @@ Revenu potentiel : les cabinets qui ont fait cette transition affichent une croi
 - Ordre des experts-comptables, conférence annuelle 2025 : données sur la transformation numérique des cabinets
 - PwC (2025) : +25% de salaire pour les profils maîtrisant les outils IA
 - France Travail BMO 2025 : données métiers en tension dans le secteur comptable
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Métiers connexes :**
+- [Avocat IA](/metiers/avocat-ia/)
+- [RH / recruteur IA](/metiers/rh-recruteur-ia/)
+- [Assistant administratif IA](/metiers/assistant-administratif-ia/)
+- [Copywriter IA](/metiers/copywriter-ia/)
+
+**Outils IA à tester :**
+- [Notion AI](/outils/notion-ai/)
+- [HubSpot AI](/outils/hubspot/)
+- [Perplexity](/outils/perplexity/)
+
+**Guides utiles :**
+- [Automatiser ton travail avec l'IA](/guides/automatiser-travail-ia/)
+- [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
+- [Financer ta formation IA via le CPF](/guides/financer-formation-ia-cpf/)
+
+Explore la [liste complète des métiers IA](/metiers/), notre [catalogue d'outils](/outils/) et tous nos [guides stratégiques](/guides/).
+

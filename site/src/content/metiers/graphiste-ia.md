@@ -101,3 +101,25 @@ Revenu potentiel : un graphiste exécutant facture 200-400 euros/jour. Un direct
 - McKinsey (2024) : 30% des heures de travail automatisables
 - Adobe Creative Survey 2025 : 65% des graphistes utilisent l'IA générative au quotidien
 - PwC (2025) : +25% de salaire pour les profils maîtrisant les outils IA
+
+<!-- maillage:auto -->
+## Pour aller plus loin
+
+**Métiers connexes :**
+- [Copywriter IA](/metiers/copywriter-ia/)
+- [Photographe IA](/metiers/photographe-ia/)
+- [Community manager IA](/metiers/community-manager-ia/)
+- [Marketing IA](/metiers/marketing-ia/)
+
+**Outils IA à tester :**
+- [Midjourney](/outils/midjourney/)
+- [Canva AI](/outils/canva-ai/)
+- [Copy.ai](/outils/copy-ai/)
+
+**Guides utiles :**
+- [Freelance IA : guide complet](/guides/freelance-ia-guide/)
+- [Se former à l'IA gratuitement](/guides/se-former-ia-gratuitement/)
+- [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
+
+Explore la [liste complète des métiers IA](/metiers/), notre [catalogue d'outils](/outils/) et tous nos [guides stratégiques](/guides/).
+
