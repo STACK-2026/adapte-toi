@@ -84,7 +84,7 @@ Andrew Ng frappe encore avec cette spécialisation complète sur le deep learnin
 - **Public** : Décideurs, managers, entrepreneurs
 - **Audit** : Gratuit, certification payante
 
-Pour approfondir tes connaissances métiers, consulte notre [guide complet sur les métiers de l'IA](/guides/metiers-intelligence-artificielle-2026) qui détaille 20+ professions émergentes.
+Pour approfondir la vision par métier, explore nos [fiches métiers IA](/metiers/) : [développeur IA](/metiers/developpeur-ia/), [data analyst IA](/metiers/data-analyst-ia/), [chef de projet IA](/metiers/chef-de-projet-ia/), ou encore [community manager IA](/metiers/community-manager-ia/). Plus de 20 professions détaillées avec salaires, compétences et trajectoires concrètes.
 
 ## Top 3 des cours IA proposés par les géants tech
 
@@ -129,7 +129,7 @@ Microsoft propose **AI-900 Azure AI Fundamentals**, formation complète sur l'IA
 
 ### Profil débutant complet
 
-**Tu n'as jamais touché au code ?** Commence par Elements of AI (Helsinki) puis AI for Everyone (Andrew Ng). Ces formations IA gratuites ne nécessitent aucun prérequis technique.
+**Tu n'as jamais touché au code ?** Commence par Elements of AI (Helsinki) puis AI for Everyone (Andrew Ng). Ces formations IA gratuites ne nécessitent aucun prérequis technique. En parallèle, pratique avec des outils grand public comme [ChatGPT](/outils/chatgpt/), [Claude](/outils/claude/) ou [Perplexity](/outils/perplexity/) : rien ne remplace l'usage quotidien pour ancrer les concepts. Notre [guide se former à l'IA gratuitement](/guides/se-former-ia-gratuitement/) détaille un parcours complet adapté aux débutants.
 
 **Progression type** :
 1. Elements of AI (6 semaines)
@@ -137,9 +137,11 @@ Microsoft propose **AI-900 Azure AI Fundamentals**, formation complète sur l'IA
 3. Introduction to Python (Kaggle Learn, 5 heures)
 4. Machine Learning Crash Course (Google, 15 heures)
 
+Si tu te poses encore la question du "pourquoi", notre [guide reconversion IA](/guides/reconversion-ia-guide-complet/) explique la méthode complète pour pivoter sans se cramer.
+
 ### Profil développeur/ingénieur
 
-**Tu codes déjà ?** Fonce sur CS229 Stanford ou Fast.ai selon ton style d'apprentissage. CS229 pour l'approche académique rigoureuse, Fast.ai pour l'approche pratico-pratique.
+**Tu codes déjà ?** Fonce sur CS229 Stanford ou Fast.ai selon ton style d'apprentissage. CS229 pour l'approche académique rigoureuse, Fast.ai pour l'approche pratico-pratique. Double avec [Cursor](/outils/cursor/) ou [GitHub Copilot](/outils/copilot/) pour intégrer l'IA dans ton workflow dev dès le jour 1, et lis notre [guide prompt engineering débutant](/guides/prompt-engineering-debutant/) : même les devs sous-estiment l'impact d'un prompt bien calibré.
 
 **Track recommandé** :
 1. Machine Learning Crash Course (Google)
@@ -147,15 +149,19 @@ Microsoft propose **AI-900 Azure AI Fundamentals**, formation complète sur l'IA
 3. Deep Learning Specialization (deeplearning.ai)
 4. Spécialisations sectorielles selon tes objectifs
 
+Le débouché naturel de ce track est le métier [développeur IA](/metiers/developpeur-ia/) ou [data analyst IA](/metiers/data-analyst-ia/). Si tu veux rester freelance, notre [guide freelance IA](/guides/freelance-ia-guide/) couvre le positionnement, les tarifs et les plateformes à cibler.
+
 ### Profil manager/dirigeant
 
-**Tu gères des équipes ou des projets ?** AI for Everyone reste LA référence. Complète avec les formations Microsoft ou IBM pour une vision business.
+**Tu gères des équipes ou des projets ?** AI for Everyone reste LA référence. Complète avec les formations Microsoft ou IBM pour une vision business. Côté outillage quotidien, [Notion AI](/outils/notion-ai/), [Gamma](/outils/gamma/) et [Otter.ai](/outils/otter-ai/) transforment le temps passé en meetings et en slides. Notre [guide automatiser ton travail avec l'IA](/guides/automatiser-travail-ia/) liste les 20 automatisations les plus rentables pour un manager.
 
 **Parcours executive** :
 1. AI for Everyone (Coursera)
 2. AI Fundamentals (Microsoft Learn)
 3. Introduction to Generative AI (Google)
 4. Formation sectorielle spécifique
+
+Les rôles cibles post-formation : [chef de projet IA](/metiers/chef-de-projet-ia/), [consultant IA](/metiers/consultant-ia/), ou [chargé de clientèle IA](/metiers/charge-clientele-ia/) si tu viens du commercial.
 
 ## Certifications et reconnaissance des formations gratuites
 
@@ -214,19 +220,19 @@ Les recruteurs regardent surtout ton GitHub et tes réalisations pratiques. Les 
 
 ### Les formations IA gratuites valent-elles les formations payantes ?
 
-**Absolument, si tu es motivé et discipliné.** Stanford CS229 gratuit vaut largement une formation à 3000€. La différence : pas d'accompagnement humain ni de networking. Mais le contenu est identique, parfois supérieur.
+**Absolument, si tu es motivé et discipliné.** Stanford CS229 gratuit vaut largement une formation à 3000€. La différence : pas d'accompagnement humain ni de networking. Mais le contenu est identique, parfois supérieur. Si tu veux quand même financer une formation certifiante, notre [guide financer ta formation IA via le CPF](/guides/financer-formation-ia-cpf/) t'explique comment mobiliser ton solde CPF sans avancer un centime.
 
 ### Combien de temps pour maîtriser l'IA en partant de zéro ?
 
-**6 mois minimum pour les bases, 2-3 ans pour l'expertise.** Avec 10h/semaine, tu peux devenir opérationnel en machine learning en 6 mois. Mais l'IA évolue si vite qu'il faut se former en continu.
+**6 mois minimum pour les bases, 2-3 ans pour l'expertise.** Avec 10h/semaine, tu peux devenir opérationnel en machine learning en 6 mois. Mais l'IA évolue si vite qu'il faut se former en continu. Nos [chiffres clés sur l'IA et l'emploi](/guides/ia-emploi-chiffres-cles/) montrent que les profils "IA-ready" voient leur salaire rester stable voire monter, pendant que les profils statiques décrochent.
 
 ### Faut-il être fort en maths pour suivre ces formations ?
 
-**Ça dépend de tes ambitions.** Pour comprendre et utiliser l'IA : niveau terminale scientifique suffit. Pour créer tes propres algorithmes : niveau math sup/spé recommandé. Fast.ai privilégie la pratique sans maths lourdes.
+**Ça dépend de tes ambitions.** Pour comprendre et utiliser l'IA : niveau terminale scientifique suffit. Pour créer tes propres algorithmes : niveau math sup/spé recommandé. Fast.ai privilégie la pratique sans maths lourdes. Si ton premier objectif est juste d'utiliser l'IA en productivité, notre [sélection d'outils IA](/outils/) te permet de démarrer sans aucune math.
 
 ### Ces formations donnent-elles accès à l'emploi ?
 
-**Oui, mais il faut compléter par des projets personnels.** Les recruteurs veulent voir du concret. Une formation + 3-5 projets GitHub + contributions open source = profil embauable. Adapte-toi recommande 70% théorie / 30% pratique.
+**Oui, mais il faut compléter par des projets personnels.** Les recruteurs veulent voir du concret. Une formation + 3-5 projets GitHub + contributions open source = profil embauchable. On recommande 70% théorie / 30% pratique. Pour négocier le salaire qui reflète tes nouvelles compétences, lis notre [guide négocier ton salaire avec des compétences IA](/guides/negocier-salaire-competences-ia/).
 
 ## Sources
 
@@ -245,7 +251,11 @@ Le marché du travail se transforme à vitesse grand V. Pendant que 47% des acti
 
 **L'excuse du manque de temps ou d'argent ne tient plus.** 10 heures par semaine pendant 6 mois, c'est le prix d'une expertise qui peut multiplier ton salaire par 2. Commence aujourd'hui par Elements of AI, tu remercieras dans 6 mois.
 
-Explore notre [rubrique outils IA](/outils/) pour découvrir les applications concrètes de tes nouvelles compétences et accélérer ta transition professionnelle.
+Pour aller plus loin sur Adapte-toi :
+- [Rubrique outils IA](/outils/) : 20+ outils testés classés par usage (écriture, design, automation, voix, data)
+- [Fiches métiers IA](/metiers/) : les 20+ métiers qui se transforment, avec salaires et compétences à développer
+- [Guides stratégiques](/guides/) : [reconversion IA](/guides/reconversion-ia-guide-complet/), [financer ta formation via le CPF](/guides/financer-formation-ia-cpf/), [automatiser ton travail](/guides/automatiser-travail-ia/), [négocier ton salaire IA](/guides/negocier-salaire-competences-ia/)
+- [Témoignages](/temoignages/) : des profils qui ont fait la transition, les virages, les ratés, les vraies trajectoires
 
 ---
 
