@@ -1,0 +1,44 @@
+name: Cross-post to Hashnode
+
+on:
+  workflow_run:
+    workflows: ["Blog Auto - Publication"]
+    types: [completed]
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  crosspost:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run Hashnode cross-poster
+        env:
+          HASHNODE_TOKEN: ${{ secrets.HASHNODE_TOKEN }}
+          HASHNODE_PUBLICATION_ID: ${{ secrets.HASHNODE_PUBLICATION_ID }}
+          PROJECT_SITE_URL: https://adapte-toi.com
+          PROJECT_CONTENT_DIR: site/src/content/blog
+          HASHNODE_TAGS: ai,career,learning,productivity
+          HASHNODE_HOOK: |
+            > **FR 🇫🇷**: cet article vient de [Adapte-toi]({site_url}), le média francophone sur la reconversion à l'ère de l'IA. Utile si tu veux te former à l'IA sans payer 3000€ de bootcamp.
+        run: python3 .github/scripts/cross_post_hashnode.py
+      - name: Commit log
+        run: |
+          if [ -n "$(git status --porcelain .github/scripts/.hashnode-log.json)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add .github/scripts/.hashnode-log.json
+            git commit -m "chore(crosspost): update Hashnode log"
+            git push origin main
+          else
+            echo "No new posts."
+          fi
