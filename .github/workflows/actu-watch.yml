@@ -15,6 +15,17 @@ on:
         description: 'Nombre max d articles'
         type: string
         default: '1'
+      engine:
+        description: "Moteur (mistral = Mistral+Claude-audit, claude = Claude-only fallback)"
+        type: choice
+        default: mistral
+        options:
+          - mistral
+          - claude
+      strict:
+        description: 'Strict mode (abort si audit MAJOR final, Mistral only)'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -22,7 +33,10 @@ permissions:
 jobs:
   watch:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    # Random delay up to 90min + fetch RSS + Mistral scoring 40 items + Mistral draft +
+    # Claude audit + Mistral fix + Claude re-audit + Mistral trim + post-process + git push
+    # -> ~95min worst case, on met 120 pour la marge.
+    timeout-minutes: 120
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -49,16 +63,27 @@ jobs:
           echo "Sleeping ${SLEEP}s before run"
           sleep $SLEEP
 
-      - name: Run actu_watch
+      - name: Run actu_watch (Mistral by default, Claude fallback)
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
         run: |
           cd blog-auto
           ARGS=""
           if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then ARGS="$ARGS --dry-run"; fi
+          if [ "${{ github.event.inputs.strict }}" = "true" ]; then ARGS="$ARGS --strict"; fi
           MAX_N="${{ github.event.inputs.max }}"
           if [ -z "$MAX_N" ]; then MAX_N=1; fi
-          python actu_watch.py --max $MAX_N $ARGS
+          ENGINE="${{ github.event.inputs.engine }}"
+          # Default to mistral on scheduled runs (empty inputs)
+          if [ -z "$ENGINE" ]; then ENGINE=mistral; fi
+          if [ "$ENGINE" = "claude" ]; then
+            echo ">> Using Claude-only fallback (actu_watch.py)"
+            python actu_watch.py --max $MAX_N $ARGS
+          else
+            echo ">> Using Mistral + Claude-audit (actu_watch_mistral.py)"
+            python actu_watch_mistral.py --max $MAX_N $ARGS
+          fi
 
       - name: Upload logs
         if: always()
