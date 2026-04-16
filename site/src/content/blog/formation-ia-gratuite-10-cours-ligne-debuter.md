@@ -1,5 +1,5 @@
 ---
-title: "Formation IA gratuite : 10 cours en ligne pour débuter en 20"
+title: "Formation IA gratuite : 10 cours en ligne pour débuter en 2026"
 description: "10 formations IA gratuites pour maîtriser l'intelligence artificielle : Stanford, MIT, Google. Débutant à expert, certifications incluses."
 date: 2026-04-16
 author: "Sarah Bellamy"
