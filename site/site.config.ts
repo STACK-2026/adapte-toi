@@ -50,11 +50,11 @@ export const siteConfig = {
 
   // Navigation
   navLinks: [
-    { label: "Métiers", href: "/métiers" },
-    { label: "Guides", href: "/guides" },
-    { label: "Outils IA", href: "/outils" },
-    { label: "Actu", href: "/actu" },
-    { label: "Témoignages", href: "/témoignages" },
+    { label: "Métiers", href: "/metiers/" },
+    { label: "Guides", href: "/guides/" },
+    { label: "Outils IA", href: "/outils/" },
+    { label: "Actu", href: "/actu/" },
+    { label: "Témoignages", href: "/temoignages/" },
     { label: "Le Signal", href: "/blog" },
     { label: "A propos", href: "/a-propos" },
   ],
