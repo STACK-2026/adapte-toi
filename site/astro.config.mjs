@@ -7,11 +7,19 @@ import { siteConfig } from "./site.config.ts";
 
 export default defineConfig({
   site: siteConfig.url,
+  trailingSlash: "always",
+  build: {
+    format: "directory",
+  },
   integrations: [
     sitemap({
       lastmod: new Date(),
       changefreq: "weekly",
       priority: 0.7,
+      filter: (page) =>
+        !page.includes("/admin") &&
+        !page.includes("/api/") &&
+        !page.endsWith("/404"),
       serialize(item) {
         // Homepage
         if (item.url === siteConfig.url + "/") {

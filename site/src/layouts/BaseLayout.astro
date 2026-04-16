@@ -52,7 +52,6 @@ const jsonLdArray = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalUrl} />
     <meta name="author" content={siteConfig.author} />
-    <meta name="keywords" content={siteConfig.keywords.join(", ")} />
     {noIndex && <meta name="robots" content="noindex, nofollow" />}
 
     <!-- Hreflang -->

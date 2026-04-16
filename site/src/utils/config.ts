@@ -2,11 +2,12 @@ import { siteConfig } from "../../site.config";
 
 export { siteConfig };
 
-/** Full URL for a path */
+/** Full URL for a path (always with trailing slash to match Astro trailingSlash: "always") */
 export function fullUrl(path: string): string {
   const base = siteConfig.url.replace(/\/$/, "");
   const clean = path.startsWith("/") ? path : `/${path}`;
-  return `${base}${clean}`;
+  const withSlash = clean.endsWith("/") ? clean : `${clean}/`;
+  return `${base}${withSlash}`;
 }
 
 /** Get Google Fonts URL */
