@@ -1,0 +1,43 @@
+name: Cross-post to dev.to
+
+on:
+  workflow_run:
+    workflows: ["Blog Auto - Publication"]
+    types: [completed]
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  crosspost:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run cross-poster
+        env:
+          DEVTO_API_KEY: ${{ secrets.DEVTO_API_KEY }}
+          PROJECT_SITE_URL: https://adapte-toi.com
+          PROJECT_CONTENT_DIR: site/src/content/blog
+          DEVTO_TAGS: ai,career,learning,productivity
+          DEVTO_HOOK: |
+            > **FR 🇫🇷**: cet article vient de [Adapte-toi]({site_url}), le média francophone sur la reconversion à l'ère de l'IA. Utile si tu es dev et que tu veux monter en compétences IA sans payer 3000€ de bootcamp.
+        run: python3 .github/scripts/cross_post_devto.py
+      - name: Commit log
+        run: |
+          if [ -n "$(git status --porcelain .github/scripts/.devto-log.json)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add .github/scripts/.devto-log.json
+            git commit -m "chore(crosspost): update dev.to log"
+            git push origin main
+          else
+            echo "No new posts, nothing to commit."
+          fi
