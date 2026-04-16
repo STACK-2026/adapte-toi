@@ -87,7 +87,7 @@ Sois réaliste :
 
 ### Étape 1 : le diagnostic (1 semaine)
 
-Avant tout, comprends ta situation. Consulte la [fiche de ton métier](/metiers) sur Adapte-toi pour connaître ton score d'impact. Fais le [diagnostic express sur notre 404](/404-test) (5 questions, 1 minute). Parle à un conseiller CEP gratuitement (mon-cep.org).
+Avant tout, comprends ta situation. Consulte la [fiche de ton métier](/metiers) sur Adapte-toi pour connaître ton score d'impact. Fais le [diagnostic express sur notre 404](/) (5 questions, 1 minute). Parle à un conseiller CEP gratuitement (mon-cep.org).
 
 **Livrable** : une vision claire de ton niveau de risque et de tes options.
 
@@ -219,7 +219,7 @@ Montée en compétences : 2 semaines à 3 mois. Reconversion complète : 6 à 12
 ### Par où commencer concrètement ?
 
 1. Lis la [fiche de ton métier](/metiers) (2 minutes)
-2. Fais le [diagnostic express](/404-test) (1 minute)
+2. Fais le [diagnostic express](/) (1 minute)
 3. Commence les [formations gratuites](/guides/se-former-ia-gratuitement) (cette semaine)
 4. Prends rendez-vous avec un CEP si tu veux aller plus loin (gratuit, mon-cep.org)
 

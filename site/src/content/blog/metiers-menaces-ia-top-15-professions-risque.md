@@ -81,7 +81,7 @@ Les agences de communication licencient massivement. Publicis a supprimé 40% de
 
 Paradoxe : les entreprises recherchent désormais des "prompt engineers" pour optimiser les IA. Un rédacteur senior qui maîtrise l'IA vaut 25% de plus selon PwC.
 
-Tu exerces dans la rédaction ? Consulte notre [guide reconversion rédacteur IA](/guides/reconversion-redacteur-ia) pour transformer cette menace en opportunité.
+Tu exerces dans la rédaction ? Consulte notre [guide reconversion rédacteur IA](/guides/reconversion-ia-guide-complet) pour transformer cette menace en opportunité.
 
 ## Gestion de projets : la remise en question
 

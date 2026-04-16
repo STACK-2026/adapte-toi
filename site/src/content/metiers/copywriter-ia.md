@@ -68,7 +68,7 @@ Revenu potentiel : 3 000-8 000 euros par mois en freelance spécialisé, contre 
 
 ## Ton plan d'action en 5 étapes
 
-1. **Maîtrise au moins 2 LLMs** (1 semaine, 40 euros/mois). Claude pour les textes longs et nuances, ChatGPT pour la polyvalence. Apprends a prompter efficacement : c'est une compétence a part entiere. Consulte notre [guide prompt engineering](/guides/prompt-engineering-débutant).
+1. **Maîtrise au moins 2 LLMs** (1 semaine, 40 euros/mois). Claude pour les textes longs et nuances, ChatGPT pour la polyvalence. Apprends a prompter efficacement : c'est une compétence a part entiere. Consulte notre [guide prompt engineering](/guides/prompt-engineering-debutant).
 
 2. **Définis ta spécialisation sectorielle** (1 mois). Choisis un ou deux secteurs où tu as de l'expérience ou de l'affinite. La spécialisation est le meilleur rempart contre la commoditisation.
 
