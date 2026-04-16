@@ -9,6 +9,7 @@ export default defineConfig({
   site: siteConfig.url,
   integrations: [
     sitemap({
+      lastmod: new Date(),
       changefreq: "weekly",
       priority: 0.7,
       serialize(item) {
