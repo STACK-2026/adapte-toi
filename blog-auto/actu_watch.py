@@ -372,8 +372,22 @@ def git_commit_and_push(paths: list[Path], titles: list[str]) -> bool:
         if len(titles) > 2:
             msg_head += f" +{len(titles) - 2}"
         subprocess.run(["git", "-C", str(REPO_DIR), "commit", "-m", msg_head], check=True)
-        subprocess.run(["git", "-C", str(REPO_DIR), "push", "origin", "main"], check=True)
-        return True
+        # Pull --rebase before push to avoid concurrent-workflow push rejections.
+        # Other workflows (rebuild-guard, crosspost-*) can push between our checkout
+        # and our push, leaving us non-fast-forward. Retry rebase+push up to 3 times.
+        for attempt in range(3):
+            try:
+                subprocess.run(
+                    ["git", "-C", str(REPO_DIR), "pull", "--rebase", "--autostash", "origin", "main"],
+                    check=True,
+                )
+                subprocess.run(["git", "-C", str(REPO_DIR), "push", "origin", "main"], check=True)
+                return True
+            except subprocess.CalledProcessError as e:
+                log.warning(f"Git push attempt {attempt + 1} KO: {e}, retrying after 5s")
+                time.sleep(5)
+        log.error("Git push failed after 3 rebase+push attempts")
+        return False
     except subprocess.CalledProcessError as e:
         log.error(f"Git KO: {e}")
         return False
