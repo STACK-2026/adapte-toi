@@ -61,6 +61,7 @@ from actu_watch import (  # noqa: E402
     load_state,
     save_state,
     slugify,
+    submit_indexnow,
     title_hash,
     write_article,
 )
@@ -638,6 +639,9 @@ def main():
     if written_paths and not args.dry_run:
         if git_commit_and_push(written_paths, written_titles):
             log.info(f"Push OK: {len(written_paths)} décryptage(s)")
+            site_url = os.getenv("SITE_URL", "https://adapte-toi.com").rstrip("/")
+            urls = [f"{site_url}/actu/{p.stem}/" for p in written_paths]
+            submit_indexnow(urls)
         else:
             log.warning("Push KO, articles écrits mais pas committés")
 

@@ -8,6 +8,11 @@ category: "etudes-rapports"
 readingTime: "10 min"
 keywords: "IA emploi chiffres, études IA travail 2026, impact IA emploi France, Anthropic OCDE McKinsey données"
 draft: false
+tldr:
+  - "27% des emplois français exposés au risque d'automatisation (OCDE)."
+  - "-67% d'offres dans les centres d'appels, -53% en rédaction publicitaire (Anthropic mars 2026)."
+  - "+25% de salaire pour les profils maîtrisant les outils IA (PwC 2025)."
+  - "47% des actifs français envisagent une reconversion (Ipsos 2026)."
 ---
 
 Tu cherches les vrais chiffres sur l'impact de l'IA sur l'emploi ? Pas des opinions, pas du sensationnalisme, pas des prédictions hasardeuses. Des données sourcées, publiées par des institutions reconnues, vérifiables. Ce guide compile les 15 études les plus importantes de 2024-2026, avec les chiffres clés de chacune.

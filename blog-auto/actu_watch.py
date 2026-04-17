@@ -400,6 +400,30 @@ def title_hash(title: str) -> str:
     return hashlib.sha1(slugify(title, 120).encode()).hexdigest()[:16]
 
 
+def submit_indexnow(urls: list[str]) -> None:
+    """Ping IndexNow (Bing, Yandex, Ecosia) pour les nouveaux decryptages."""
+    key = os.getenv("INDEXNOW_KEY", "")
+    site_url = os.getenv("SITE_URL", "https://adapte-toi.com").rstrip("/")
+    if not key or not urls:
+        return
+    host = site_url.replace("https://", "").replace("http://", "").rstrip("/")
+    try:
+        r = requests.post(
+            "https://api.indexnow.org/indexnow",
+            json={
+                "host": host,
+                "key": key,
+                "keyLocation": f"{site_url}/{key}.txt",
+                "urlList": urls,
+            },
+            headers={"Content-Type": "application/json"},
+            timeout=15,
+        )
+        log.info(f"IndexNow: {r.status_code} ({len(urls)} URLs)")
+    except Exception as e:
+        log.warning(f"IndexNow failed: {e}")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
@@ -477,6 +501,10 @@ def main():
     if written_paths and not args.dry_run:
         if git_commit_and_push(written_paths, written_titles):
             log.info(f"Push OK: {len(written_paths)} décryptage(s)")
+            # IndexNow ping pour les nouveaux decryptages (Bing/Yandex/Ecosia)
+            site_url = os.getenv("SITE_URL", "https://adapte-toi.com").rstrip("/")
+            urls = [f"{site_url}/actu/{p.stem}/" for p in written_paths]
+            submit_indexnow(urls)
         else:
             log.warning("Push KO, articles écrits mais pas committés")
 

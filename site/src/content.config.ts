@@ -60,6 +60,7 @@ const guides = defineCollection({
     keywords: z.string().optional(),
     image: z.string().optional(),
     imageAlt: z.string().optional(),
+    tldr: z.array(z.string()).optional(),
     draft: z.boolean().default(false),
   }),
 });

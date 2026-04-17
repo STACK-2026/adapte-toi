@@ -8,6 +8,11 @@ category: "reconversion"
 readingTime: "8 min"
 keywords: "négocier salaire IA, augmentation compétences IA, salaire intelligence artificielle 2026, PwC salaire IA"
 draft: false
+tldr:
+  - "+25% de salaire en moyenne pour les profils maîtrisant les outils IA (PwC 2025)."
+  - "Tu n'as pas besoin de changer de job : négocie dans ton poste actuel avec la bonne méthode."
+  - "Script de négociation en 4 temps : contribution, chiffres, comparables marché, demande."
+  - "Erreurs à éviter : attendre l'entretien annuel, négocier sans preuves, accepter la première contre-offre."
 ---
 
 Selon PwC (2025), les professionnels qui maîtrisent les outils IA gagnent en moyenne 25% de plus que leurs homologues sans compétences IA. C'est le différentiel salarial le plus important depuis l'arrivée d'Internet dans les années 2000. Et contrairement à ce qu'on pourrait croire, tu n'as pas besoin de changer de job pour en profiter. Tu peux négocier une augmentation dans ton poste actuel, à condition de le faire intelligemment.

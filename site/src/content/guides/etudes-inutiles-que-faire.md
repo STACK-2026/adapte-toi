@@ -8,6 +8,11 @@ category: "reconversion"
 readingTime: "11 min"
 keywords: "études inutiles IA, diplôme inutile intelligence artificielle, ne faites plus d'études, Laurent Alexandre, étudiant IA 2026"
 draft: false
+tldr:
+  - "Le diplôme traditionnel ne garantit plus un emploi stable face à l'IA (Alexandre/Babeau, 2025)."
+  - "78% des étudiants utilisent déjà ChatGPT régulièrement (Ipsos 2025)."
+  - "Ne quitte pas tes études : ajoute les 4 compétences que le diplôme ne couvre pas (IA, projet, data, soft skills)."
+  - "Filières à sécuriser en priorité : droit, marketing, comptabilité, communication."
 ---
 
 En octobre 2025, Laurent Alexandre et Olivier Babeau publient "Ne faites plus d'études" (Buchet-Chastel). Le titre fait scandale, mais la thèse est documentée : le diplôme traditionnel ne garantit plus un emploi stable ni un revenu confortable face à l'IA. 78% des étudiants français de 18 à 25 ans utilisent déjà ChatGPT régulièrement (Ipsos 2025). Si l'IA fait le travail pour lequel tu te formes, à quoi sert le diplôme ?

@@ -58,25 +58,55 @@ const weeklySignals = [
   { date: "08/04", signal: "France Travail BMO 2025 : les métiers en tension restent manuels et relationnels", weight: 2 },
 ];
 
-const jsonLd = {
-  "@context": "https://schema.org",
-  "@type": "Dataset",
-  name: "Baromètre Adapte-toi IA & Emploi France",
-  description,
-  creator: {
-    "@type": "Organization",
-    name: siteConfig.name,
-    url: siteConfig.url,
+const jsonLd = [
+  {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    name: "Baromètre Adapte-toi IA & Emploi France",
+    description,
+    creator: {
+      "@type": "Organization",
+      name: siteConfig.name,
+      url: siteConfig.url,
+    },
+    datePublished: releaseDate,
+    license: "https://creativecommons.org/licenses/by/4.0/",
+    keywords: ["IA", "emploi", "reconversion", "France", "automatisation", "baromètre"],
+    distribution: {
+      "@type": "DataDownload",
+      contentUrl: `${siteConfig.url}/barometre`,
+      encodingFormat: "text/html",
+    },
+    variableMeasured: [
+      { "@type": "PropertyValue", name: "Indice d'exposition IA France", value: 62, unitText: "/ 100" },
+      { "@type": "PropertyValue", name: "Actifs envisageant une reconversion", value: 47, unitText: "%" },
+      { "@type": "PropertyValue", name: "Offres centres d'appels", value: -67, unitText: "%" },
+      { "@type": "PropertyValue", name: "Métiers résilients", value: 12, unitText: "/ 25" },
+    ],
+    temporalCoverage: "2026-04/2026-05",
+    spatialCoverage: { "@type": "Place", name: "France" },
   },
-  datePublished: releaseDate,
-  license: "https://creativecommons.org/licenses/by/4.0/",
-  keywords: ["IA", "emploi", "reconversion", "France", "automatisation", "baromètre"],
-  distribution: {
-    "@type": "DataDownload",
-    contentUrl: `${siteConfig.url}/barometre`,
-    encodingFormat: "text/html",
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    name: "Baromètre Adapte-toi",
+    url: `${siteConfig.url}/barometre`,
+    applicationCategory: "BusinessApplication",
+    applicationSubCategory: "Labor market intelligence",
+    operatingSystem: "Any (web)",
+    inLanguage: "fr-FR",
+    description: "Baromètre mensuel qui agrège les signaux les plus récents sur l'impact de l'IA sur l'emploi en France. Données propriétaires, méthodologie publique, licence CC BY 4.0.",
+    offers: { "@type": "Offer", price: "0", priceCurrency: "EUR" },
+    featureList: [
+      "Indice d'exposition IA France (IEI)",
+      "4 indicateurs mis à jour mensuellement",
+      "Signaux hebdomadaires pondérés",
+      "Méthodologie publique CC BY 4.0",
+      "Kit presse et graphiques sur demande",
+    ],
+    publisher: { "@type": "Organization", name: siteConfig.name, url: siteConfig.url },
   },
-};
+];
 
 const breadcrumbs = [
   { name: "Accueil", url: siteConfig.url },

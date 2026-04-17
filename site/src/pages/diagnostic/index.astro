@@ -6,23 +6,53 @@ import { siteConfig } from "../../../site.config";
 const title = "Diagnostic IA : ton métier est-il menacé ? | Adapte-toi";
 const description = "5 questions, 1 minute. Évalue gratuitement l'impact de l'IA sur ton métier. Sans inscription, sans email, sans formation à vendre.";
 
-const jsonLd = {
-  "@context": "https://schema.org",
-  "@type": "Quiz",
-  name: "Diagnostic IA : ton métier est-il menacé ?",
-  description,
-  educationalLevel: "Professional",
-  numberOfQuestions: 5,
-  about: {
-    "@type": "Thing",
-    name: "Impact de l'intelligence artificielle sur l'emploi",
+const jsonLd = [
+  {
+    "@context": "https://schema.org",
+    "@type": "Quiz",
+    name: "Diagnostic IA : ton métier est-il menacé ?",
+    description,
+    educationalLevel: "Professional",
+    numberOfQuestions: 5,
+    about: {
+      "@type": "Thing",
+      name: "Impact de l'intelligence artificielle sur l'emploi",
+    },
+    isPartOf: {
+      "@type": "WebSite",
+      name: siteConfig.name,
+      url: siteConfig.url,
+    },
   },
-  isPartOf: {
-    "@type": "WebSite",
-    name: siteConfig.name,
-    url: siteConfig.url,
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    name: "Diagnostic Adapte-toi",
+    url: `${siteConfig.url}/diagnostic`,
+    applicationCategory: "BusinessApplication",
+    applicationSubCategory: "Career assessment",
+    operatingSystem: "Any (web)",
+    inLanguage: "fr-FR",
+    description: "Outil interactif qui évalue en 5 questions l'exposition d'un métier à l'automatisation par l'IA. Sans inscription, sans email.",
+    offers: {
+      "@type": "Offer",
+      price: "0",
+      priceCurrency: "EUR",
+    },
+    featureList: [
+      "5 questions pondérées",
+      "Score sur 15 avec 4 profils de résilience",
+      "Ressources personnalisées selon le score",
+      "Sans inscription ni email",
+    ],
+    aggregateRating: undefined,
+    publisher: {
+      "@type": "Organization",
+      name: siteConfig.name,
+      url: siteConfig.url,
+    },
   },
-};
+];
 ---
 
 <BaseLayout title={title} description={description} jsonLd={jsonLd}>

@@ -8,6 +8,11 @@ category: "freelance-ia"
 readingTime: "14 min"
 keywords: "freelance IA, devenir freelance intelligence artificielle, consultant IA indépendant, freelance augmenté 2026"
 draft: false
+tldr:
+  - "Un freelance qui maîtrise l'IA produit 3 à 5x plus qu'avant, même qualité, tarif égal ou supérieur."
+  - "5 profils qui cartonnent en 2026 : consultant IA, automatiseur no-code, prompt engineer, content IA, intégrateur outils métier."
+  - "TJM recommandés : 400-700 euros pour consultant IA, 250-450 euros pour automatiseur, selon expérience."
+  - "Plateformes à privilégier : Malt + Upwork + LinkedIn direct, pas Fiverr."
 ---
 
 L'IA ne supprime pas le freelancing, elle le transforme en opportunité massive. Un freelance qui maîtrise les outils IA produit 3 à 5 fois plus qu'avant, avec la même qualité. Il facture autant (voire plus) en travaillant moins. Et les entreprises cherchent désespérément des indépendants capables de les accompagner dans leur transformation IA. Ce guide t'explique comment te positionner.

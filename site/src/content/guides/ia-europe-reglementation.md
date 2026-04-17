@@ -8,6 +8,11 @@ category: "actu-emploi"
 readingTime: "9 min"
 keywords: "IA Europe, EU AI Act, réglementation IA, emploi IA Europe 2026, marché travail IA européen"
 draft: false
+tldr:
+  - "L'EU AI Act entre en application progressive entre 2024 et 2027 : transparence, audit, supervision humaine obligatoires."
+  - "La France est le leader européen en offres d'emploi IA devant l'Allemagne et les Pays-Bas."
+  - "Les experts RGPD + IA sont parmi les profils les plus demandés en Europe en 2026."
+  - "Pays à cibler pour un pivot international : Pays-Bas, Irlande, Allemagne."
 ---
 
 L'Europe joue un rôle unique dans la révolution IA. D'un côté, elle est le premier continent à réguler l'intelligence artificielle avec l'EU AI Act. De l'autre, elle est en retard sur les États-Unis et la Chine en termes d'investissement et d'adoption. Pour les professionnels français, ça crée un paysage complexe : des contraintes (conformité réglementaire) mais aussi des opportunités (experts RGPD + IA très demandés).

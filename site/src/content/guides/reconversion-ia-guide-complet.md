@@ -8,6 +8,11 @@ category: "reconversion"
 readingTime: "18 min"
 keywords: "reconversion professionnelle IA, reconversion intelligence artificielle 2026, changer de métier IA, guide reconversion"
 draft: false
+tldr:
+  - "4 millions de postes en France sont exposés à un risque d'automatisation élevé d'ici 2030 (OCDE)."
+  - "47% des actifs français envisagent une reconversion (Ipsos 2025)."
+  - "Méthode en 5 étapes : diagnostic, formation, portfolio, réseau, pivot."
+  - "Les 8 métiers qui recrutent en 2026 : AI trainer, prompt engineer, data labeller, agent IT, etc."
 ---
 
 4 millions de postes en France sont exposés à un risque d'automatisation élevé d'ici 2030 (OCDE). 47% des actifs français envisagent une reconversion (Ipsos 2025). L'étude Anthropic de mars 2026 montre des chutes de 48 à 67% des offres d'emploi dans certains secteurs. Ce n'est plus une hypothèse, c'est une réalité. Ce guide t'explique comment naviguer cette transformation, étape par étape.

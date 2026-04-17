@@ -8,6 +8,11 @@ category: "outils-ia"
 readingTime: "12 min"
 keywords: "automatiser travail IA, automatisation tâches, Make.com workflow, gagner du temps IA, automatiser sans coder"
 draft: false
+tldr:
+  - "30% des heures travaillées sont automatisables par l'IA d'ici 2030 (McKinsey), mais tu peux commencer dès cette semaine."
+  - "Méthode en 3 étapes : identifie les tâches répétitives, choisis Make/Zapier/n8n, crée ton premier workflow en 1h."
+  - "10 automatisations prêtes à l'emploi par métier (commercial, RH, marketing, admin)."
+  - "Zéro ligne de code, zéro abonnement payant obligatoire pour démarrer."
 ---
 
 McKinsey estime que 30% des heures travaillées dans les économies avancées pourraient être automatisées par l'IA d'ici 2030. Mais tu n'as pas besoin d'attendre 2030. Avec les outils disponibles aujourd'hui, tu peux automatiser une part massive de tes tâches répétitives cette semaine, sans savoir coder, et gratuitement.

@@ -51,10 +51,11 @@ export const siteConfig = {
   // Navigation
   navLinks: [
     { label: "Métiers", href: "/metiers/" },
+    { label: "Diagnostic", href: "/diagnostic/" },
     { label: "Guides", href: "/guides/" },
     { label: "Outils IA", href: "/outils/" },
     { label: "Actu", href: "/actu/" },
-    { label: "Témoignages", href: "/temoignages/" },
+    { label: "Baromètre", href: "/barometre/" },
     { label: "Le Signal", href: "/blog" },
     { label: "A propos", href: "/a-propos" },
   ],
@@ -141,9 +142,9 @@ export const siteConfig = {
       icon: "shield",
     },
     {
-      title: "Témoignages réels",
+      title: "Baromètre mensuel",
       description:
-        "Des histoires de reconversion réussies, des avant/après par métier, des retours d'expérience bruts. Pour voir que c'est possible.",
+        "Chaque mois, nos indicateurs propriétaires : indice d'exposition IA France, tendances offres d'emploi, métiers résilients. Données libres de citation.",
       icon: "star",
     },
   ],

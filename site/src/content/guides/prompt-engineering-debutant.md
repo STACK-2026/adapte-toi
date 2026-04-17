@@ -8,6 +8,11 @@ category: "outils-ia"
 readingTime: "15 min"
 keywords: "prompt engineering, écrire un prompt, utiliser ChatGPT, prompt Claude, guide prompt débutant 2026"
 draft: false
+tldr:
+  - "Le prompt engineering est la compétence la plus accessible et la plus rentable de 2026 : zéro code, zéro coût."
+  - "Les 5 règles d'un bon prompt : rôle, contexte, tâche, format, contrainte."
+  - "Techniques avancées (few-shot, chain-of-thought, self-critique) pour décupler la qualité des réponses."
+  - "Exemples concrets de prompts par métier (comptable, marketing, RH, développeur)."
 ---
 
 Le prompt, c'est l'instruction que tu donnes à une intelligence artificielle. C'est une phrase, un paragraphe, ou un texte structuré qui dit à l'IA ce que tu attends d'elle. Plus ton prompt est précis, meilleur est le résultat. C'est la compétence la plus accessible et la plus rentable de 2026 : tu n'as besoin ni de savoir coder, ni de payer quoi que ce soit pour la maîtriser.

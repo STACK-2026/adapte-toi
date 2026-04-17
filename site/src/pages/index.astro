@@ -73,44 +73,62 @@ const recentPosts = (await getCollection("blog", ({ data }) => !data.draft))
   {/* 6. Features */}
   <Features />
 
-  {/* 7. Témoignages avec blur text */}
+  {/* 7. Barometre teaser (remplace temoignages en attendant des vrais) */}
   <section class="py-24 px-4 bg-gray-50 overflow-hidden">
-    <div class="max-w-4xl mx-auto text-center">
-      <h2 class="mb-4">
-        <BlurText text="Ils se sont adaptés" class="font-display font-bold" />
-      </h2>
-      <p class="text-gray-500 mb-10 blur-reveal">Des histoires vraies de gens qui ont pris leur carrière en main.</p>
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-        <blockquote class="bg-white rounded-xl sm:rounded-2xl p-5 sm:p-8 text-left border border-gray-100 shadow-sm hover-glow fade-up">
-          <div class="flex items-center gap-3 mb-4">
-            <div class="w-10 h-10 rounded-full bg-secondary/10 flex items-center justify-center text-secondary font-bold text-sm">M</div>
-            <div>
-              <span class="font-semibold text-secondary text-sm">Marc, 41 ans</span>
-              <span class="text-gray-400 text-xs block">Ex-chef de projet IT</span>
-            </div>
-          </div>
-          <p class="text-gray-700 italic leading-relaxed">
-            "J'étais chef de projet IT depuis 12 ans. Quand j'ai vu les chiffres d'Anthropic sur la baisse des offres dans mon domaine, j'ai compris qu'il fallait bouger. Grâce aux guides d'Adapte-toi, je me suis formé au prompt engineering et j'ai lancé mon activité de consultant IA."
-          </p>
-          <a href="/metiers/chef-de-projet-ia" class="text-primary text-sm font-medium mt-4 inline-block hover:underline">Lire la fiche métier &rarr;</a>
-        </blockquote>
-        <blockquote class="bg-white rounded-xl sm:rounded-2xl p-5 sm:p-8 text-left border border-gray-100 shadow-sm hover-glow fade-up">
-          <div class="flex items-center gap-3 mb-4">
-            <div class="w-10 h-10 rounded-full bg-accent/10 flex items-center justify-center text-accent font-bold text-sm">I</div>
-            <div>
-              <span class="font-semibold text-secondary text-sm">Inès, 23 ans</span>
-              <span class="text-gray-400 text-xs block">Étudiante en communication</span>
-            </div>
-          </div>
-          <p class="text-gray-700 italic leading-relaxed">
-            "En deuxième année de communication, je me demandais si ça valait le coup de continuer. Adapte-toi m'a aidé à comprendre quelles compétences ajouter à ma formation pour rester pertinente. Aujourd'hui je maîtrise les outils IA et je suis plus demandée que mes profs."
-          </p>
-          <a href="/metiers/copywriter-ia" class="text-primary text-sm font-medium mt-4 inline-block hover:underline">Lire la fiche métier &rarr;</a>
-        </blockquote>
+    <div class="max-w-5xl mx-auto">
+      <div class="text-center mb-12">
+        <span class="inline-flex items-center gap-2 bg-accent/10 text-accent text-xs sm:text-sm font-semibold px-3 sm:px-4 py-1.5 rounded-full mb-4 scale-reveal">
+          <span class="w-1.5 h-1.5 bg-accent rounded-full pulse-signal"></span>
+          Édition #1 · Avril 2026
+        </span>
+        <h2 class="mb-4">
+          <BlurText text="Le Baromètre Adapte-toi" class="font-display font-bold" />
+        </h2>
+        <p class="text-gray-500 max-w-2xl mx-auto blur-reveal">
+          Chaque mois, on agrège les signaux les plus récents sur l'impact de l'IA sur l'emploi en France. Chiffres propriétaires, méthodologie publique, données libres de citation.
+        </p>
       </div>
-      <a href="/temoignages" class="inline-block mt-10 text-primary font-semibold hover:underline fade-up">
-        Voir tous les témoignages &rarr;
-      </a>
+
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-3 md:gap-5 mb-10 stagger-children">
+        <div class="bg-white rounded-xl border border-gray-100 p-5 shadow-sm">
+          <div class="text-[10px] font-bold uppercase tracking-widest text-gray-500 mb-2">Indice d'exposition IA France</div>
+          <div class="flex items-baseline gap-1">
+            <span class="text-3xl md:text-4xl font-display font-bold text-primary">62</span>
+            <span class="text-lg font-semibold text-gray-400">/ 100</span>
+          </div>
+          <div class="text-xs text-primary font-medium mt-2">▲ +3 vs mars</div>
+        </div>
+        <div class="bg-white rounded-xl border border-gray-100 p-5 shadow-sm">
+          <div class="text-[10px] font-bold uppercase tracking-widest text-gray-500 mb-2">Actifs en reconversion</div>
+          <div class="flex items-baseline gap-1">
+            <span class="text-3xl md:text-4xl font-display font-bold text-accent">47</span>
+            <span class="text-lg font-semibold text-gray-400">%</span>
+          </div>
+          <div class="text-xs text-accent font-medium mt-2">▲ +2 pts</div>
+        </div>
+        <div class="bg-white rounded-xl border border-gray-100 p-5 shadow-sm">
+          <div class="text-[10px] font-bold uppercase tracking-widest text-gray-500 mb-2">Offres centres d'appels</div>
+          <div class="flex items-baseline gap-1">
+            <span class="text-3xl md:text-4xl font-display font-bold text-secondary">-67</span>
+            <span class="text-lg font-semibold text-gray-400">%</span>
+          </div>
+          <div class="text-xs text-gray-500 font-medium mt-2">● stable</div>
+        </div>
+        <div class="bg-white rounded-xl border border-gray-100 p-5 shadow-sm">
+          <div class="text-[10px] font-bold uppercase tracking-widest text-gray-500 mb-2">Métiers résilients</div>
+          <div class="flex items-baseline gap-1">
+            <span class="text-3xl md:text-4xl font-display font-bold text-green-600">12</span>
+            <span class="text-lg font-semibold text-gray-400">/ 25</span>
+          </div>
+          <div class="text-xs text-gray-500 font-medium mt-2">● stable</div>
+        </div>
+      </div>
+
+      <div class="text-center fade-up">
+        <a href="/barometre" class="inline-flex items-center gap-2 text-primary font-semibold hover:underline">
+          Voir le baromètre complet + méthodologie &rarr;
+        </a>
+      </div>
     </div>
   </section>
 

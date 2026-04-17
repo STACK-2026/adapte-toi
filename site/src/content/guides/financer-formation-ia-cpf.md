@@ -8,6 +8,11 @@ category: "formation"
 readingTime: "10 min"
 keywords: "financer formation IA CPF, formation IA CPF 2026, PTP reconversion, AIF France Travail, financement reconversion professionnelle"
 draft: false
+tldr:
+  - "5 dispositifs publics couvrent tout ou partie de ta formation IA : CPF, PTP, AIF, FNE, Transitions Pro."
+  - "Le CPF est accessible sans condition et cumule en moyenne 5 000 euros pour un salarié en poste 10 ans."
+  - "Le PTP te rémunère à 80-100% pendant la formation si tu changes de métier."
+  - "Comment les cumuler pour couvrir 100% des frais : exemples concrets avec chiffres."
 ---
 
 Tu veux te former à l'intelligence artificielle mais tu n'as pas le budget ? Ce guide t'explique tous les dispositifs publics qui existent en France pour financer ta reconversion. Certains couvrent 100% des frais, d'autres te rémunèrent pendant la formation. Aucun n'est réservé aux initiés : il faut juste savoir qu'ils existent et comment les utiliser.

@@ -79,6 +79,20 @@ const jsonLd = [
       </div>
     </header>
 
+    {guide.data.tldr && guide.data.tldr.length > 0 && (
+      <aside class="bg-secondary/5 border-l-4 border-secondary rounded-r-xl p-5 sm:p-6 mb-10">
+        <div class="text-xs font-bold uppercase tracking-widest text-secondary mb-3">L'essentiel en 30 secondes</div>
+        <ul class="space-y-2 text-sm sm:text-base text-gray-800 leading-relaxed">
+          {guide.data.tldr.map((point) => (
+            <li class="flex gap-2">
+              <span class="text-secondary flex-shrink-0 mt-0.5">→</span>
+              <span>{point}</span>
+            </li>
+          ))}
+        </ul>
+      </aside>
+    )}
+
     <div class="prose max-w-none">
       <Content />
     </div>

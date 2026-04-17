@@ -8,6 +8,11 @@ category: "formation"
 readingTime: "12 min"
 keywords: "formation IA gratuite, se former intelligence artificielle, cours IA en ligne gratuit, apprendre IA 2026, formation IA sans coder"
 draft: false
+tldr:
+  - "Les meilleures ressources pour apprendre l'IA en 2026 sont gratuites : pas besoin de bootcamp à 5 000 euros."
+  - "Parcours en 4 niveaux : comprendre l'IA, utiliser les outils, prompt engineering, automatisation no-code."
+  - "Plateformes recommandées : OpenClassrooms, Coursera audit, DeepLearning.AI, Anthropic Academy."
+  - "Durée réaliste pour être opérationnel : 4 à 8 semaines, 1h par jour."
 ---
 
 Tu veux te former à l'intelligence artificielle mais tu ne veux pas dépenser 5 000 euros dans un bootcamp ? Bonne nouvelle : les meilleures ressources pour comprendre et maîtriser l'IA en 2026 sont **gratuites**. Ce guide compile tout ce qui existe, testé et classé par niveau.
