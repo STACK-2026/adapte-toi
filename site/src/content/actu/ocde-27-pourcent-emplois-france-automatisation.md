@@ -41,8 +41,6 @@ relatedOutils:
   - "claude"
   - "chatgpt"
   - "copilot"
-image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop&q=80"
-imageAlt: "Graphique de données, symbole du rapport OCDE sur l'automatisation"
 keywords: "OCDE 27% emplois, automatisation france 2030, emplois menacés IA OCDE, 4 millions emplois"
 lastReviewed: 2026-04-15
 reviewedBy: "Rédaction Adapte-toi"
@@ -85,7 +83,7 @@ C'est la clé politique du dossier. Tout le débat français tourne autour de ce
 
 ## Pour toi concrètement
 
-**Tu veux savoir si ton métier est dans les 27 %.** Va directement dans notre [catalogue de fiches métiers](/metiers). Chaque fiche a un score d'exposition de 1 à 10. Si ton métier n'y figure pas, il est probablement à exposition faible, mais contacte-nous pour qu'on le traite.
+**Tu veux savoir si ton métier est dans les 27 %.** Va directement dans notre [catalogue de fiches métiers](/métiers). Chaque fiche a un score d'exposition de 1 à 10. Si ton métier n'y figure pas, il est probablement à exposition faible, mais contacte-nous pour qu'on le traite.
 
 **Tu es dans une zone à risque élevé.** Ne panique pas, mais ne temporise pas non plus. Les trois actions concrètes à mener en 90 jours :
 - Lister les 5 tâches qui prennent le plus de ton temps dans ta semaine type.

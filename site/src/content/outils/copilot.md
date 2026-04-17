@@ -58,7 +58,7 @@ Tu commences à écrire une fonction, Copilot propose le reste. Tu écris un com
 3. Ouvre un fichier et commence à taper : les suggestions apparaissent en gris
 4. Tab pour accepter, Esc pour ignorer
 
-Consulte notre [fiche développeur](/metiers/developpeur-ia) pour comprendre l'impact de l'IA sur le métier de dev.
+Consulte notre [fiche développeur](/métiers/developpeur-ia) pour comprendre l'impact de l'IA sur le métier de dev.
 
 ## Notre verdict : 8/10
 
@@ -73,13 +73,13 @@ GitHub Copilot est le meilleur choix pour les développeurs qui veulent de l'IA 
 - [Claude](/outils/claude/)
 
 **Métiers qui l'utilisent :**
-- [Développeur IA](/metiers/developpeur-ia/)
-- [Architecte IA](/metiers/architecte-ia/)
-- [Data analyst IA](/metiers/data-analyst-ia/)
+- [Développeur IA](/métiers/developpeur-ia/)
+- [Architecte IA](/métiers/architecte-ia/)
+- [Data analyst IA](/métiers/data-analyst-ia/)
 
 **Guides à lire :**
 - [Prompt engineering débutant](/guides/prompt-engineering-debutant/)
 - [Se former à l'IA gratuitement](/guides/se-former-ia-gratuitement/)
 
-Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/métiers/) et nos [guides stratégiques](/guides/).
 

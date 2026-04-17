@@ -3,12 +3,10 @@ title: "Métiers menacés par l'IA : Top 15 des professions à risque 2"
 description: "15 métiers menacés par l'IA selon Anthropic 2026 : -67% centres d'appels, -53% rédaction. Découvre les professions à risque et les stratégies d'adaptation."
 date: 2026-04-15
 author: "Theo Marchand"
-category: "metiers-ia"
+category: "métiers-ia"
 tags: ["métiers menacés intelligence artificielle", "professions risque IA"]
 keywords: "métiers menacés intelligence artificielle, professions risque IA"
 draft: false
-image: "https://images.unsplash.com/photo-1737505599159-5ffc1dcbc08f?ixid=M3w4Nzg4MzB8MHwxfHNlYXJjaHwzfHxtJUMzJUE5dGllcnMlMjBtZW5hYyVDMyVBOXMlMjBpbnRlbGxpZ2VuY2UlMjBhcnRpZmljaWVsbGV8ZW58MHwwfHx8MTc3NjIzNDQwNnww&ixlib=rb-4.1.0&w=1200&h=630&fit=crop&crop=center&q=80"
-imageAlt: "A computer circuit board with a brain on it"
 ---
 
 ## Sommaire
@@ -162,7 +160,7 @@ Développe ton expertise sur les tâches à forte valeur ajoutée : stratégie, 
 - Prompt engineering (+340%)
 - Accompagnement changement (+45%)
 
-Explore notre [rubrique métiers d'avenir](/metiers) pour découvrir les professions qui résistent à l'IA.
+Explore notre [rubrique métiers d'avenir](/métiers) pour découvrir les professions qui résistent à l'IA.
 
 ## Questions fréquentes
 
@@ -203,7 +201,7 @@ Les **métiers menacés par l'intelligence artificielle** ne relèvent plus de l
 
 Mais cette révolution crée aussi des opportunités. Les professionnels qui anticipent, se forment et s'adaptent voient leurs salaires bondir de 25% selon PwC. L'enjeu n'est plus de résister à l'IA mais de la maîtriser.
 
-Adapte-toi t'accompagne dans cette transformation avec des [guides pratiques](/guides), des [fiches métiers détaillées](/metiers) et des analyses sans concession. Parce que ton avenir professionnel se joue maintenant.
+Adapte-toi t'accompagne dans cette transformation avec des [guides pratiques](/guides), des [fiches métiers détaillées](/métiers) et des analyses sans concession. Parce que ton avenir professionnel se joue maintenant.
 
 ---
 

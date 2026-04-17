@@ -54,11 +54,11 @@ Tu organises ton travail dans Notion (notes, projets, bases de données), et l'I
 
 | Métier | Usage Notion AI | Résultat |
 |--------|-----------------|----------|
-| [Chef de projet](/metiers/chef-de-projet-ia) | Wiki projet + CR automatiques + suivi | 1 seul outil au lieu de 4 |
-| [Marketing](/metiers/marketing-ia) | Calendrier éditorial + briefs IA + bibliothèque contenu | Production x3 |
-| [RH](/metiers/rh-recruteur-ia) | Base candidats + offres IA + process onboarding | Recrutement accéléré |
-| [Freelance](/metiers/commercial-ia) | CRM + devis + facturation + notes client | Gestion complète en 1 outil |
-| [Enseignant](/metiers/enseignant-ia) | Cours + fiches + évaluations + suivi élèves | Organisation totale |
+| [Chef de projet](/métiers/chef-de-projet-ia) | Wiki projet + CR automatiques + suivi | 1 seul outil au lieu de 4 |
+| [Marketing](/métiers/marketing-ia) | Calendrier éditorial + briefs IA + bibliothèque contenu | Production x3 |
+| [RH](/métiers/rh-recruteur-ia) | Base candidats + offres IA + process onboarding | Recrutement accéléré |
+| [Freelance](/métiers/commercial-ia) | CRM + devis + facturation + notes client | Gestion complète en 1 outil |
+| [Enseignant](/métiers/enseignant-ia) | Cours + fiches + évaluations + suivi élèves | Organisation totale |
 
 ## Prix
 
@@ -114,13 +114,13 @@ Notion AI transforme un outil de productivité déjà excellent en assistant int
 - [Midjourney](/outils/midjourney/)
 
 **Métiers qui l'utilisent :**
-- [Chef de projet IA](/metiers/chef-de-projet-ia/)
-- [Assistant administratif IA](/metiers/assistant-administratif-ia/)
-- [Consultant IA](/metiers/consultant-ia/)
+- [Chef de projet IA](/métiers/chef-de-projet-ia/)
+- [Assistant administratif IA](/métiers/assistant-administratif-ia/)
+- [Consultant IA](/métiers/consultant-ia/)
 
 **Guides à lire :**
 - [Automatiser ton travail avec l'IA](/guides/automatiser-travail-ia/)
 - [Négocier ton salaire avec l'IA](/guides/negocier-salaire-competences-ia/)
 
-Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/métiers/) et nos [guides stratégiques](/guides/).
 

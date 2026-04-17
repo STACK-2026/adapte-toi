@@ -7,18 +7,16 @@ category: "outils-ia"
 tags: ["outils IA par métier", "ChatGPT RH", "IA ressources humaines"]
 keywords: "outils IA par métier, ChatGPT RH, IA ressources humaines"
 draft: false
-image: "https://images.unsplash.com/photo-1605713839000-5e2444b92f14?ixid=M3w4Nzg4MzB8MHwxfHNlYXJjaHw1fHxvdXRpbHMlMjBJQSUyMHBhciUyMG0lQzMlQTl0aWVyfGVufDB8MHx8fDE3NzY0MTM1MDh8MA&ixlib=rb-4.1.0&w=1200&h=630&fit=crop&crop=center&q=80"
-imageAlt: "red and blue handle pliers"
 ---
 
 ## Sommaire
 
 - [ChatGPT transforme déjà 78% des services RH](#chatgpt-transforme-deja-78-des-services-rh)
-- [Recrutement et sélection : ChatGPT accélère de 65% le processus](#recrutement-et-selection-chatgpt-accelere-de-65-le-processus)
+- [Recrutement et sélection : ChatGPT accélère de 65% le processus](#recrutement-et-selection-chatgpt-accéléré-de-65-le-processus)
 - [Formation et développement : l'IA personnalise l'apprentissage](#formation-et-developpement-lia-personnalise-lapprentissage)
 - [Gestion administrative : automatiser sans déshumaniser](#gestion-administrative-automatiser-sans-deshumaniser)
 - [Communication interne et engagement collaborateurs](#communication-interne-et-engagement-collaborateurs)
-- [Analytics RH : transformer les données en décisions](#analytics-rh-transformer-les-donnees-en-decisions)
+- [Analytics RH : transformer les données en décisions](#analytics-rh-transformer-les-données-en-decisions)
 - [Les limites à connaître avant de se lancer](#les-limites-a-connaitre-avant-de-se-lancer)
 - [Questions fréquentes](#questions-frequentes)
 - [Conclusion](#conclusion)
@@ -129,7 +127,7 @@ Un chatbot RH intégrant ChatGPT répond instantanément aux questions récurren
 
 ChatGPT détecte les anomalies de paie, génère les tableaux de bord sociaux et produit les rapports réglementaires. L'équipe RH se concentre sur l'analyse plutôt que sur la collecte de données.
 
-Consulte notre [fiche métier DRH à l'ère de l'IA](/metiers/drh-intelligence-artificielle) pour un plan d'action détaillé sur cette transformation.
+Consulte notre [fiche métier DRH à l'ère de l'IA](/métiers/drh-intelligence-artificielle) pour un plan d'action détaillé sur cette transformation.
 
 ## Communication interne et engagement collaborateurs
 
@@ -256,6 +254,6 @@ Explore nos [guides pratiques sur les outils IA](/guides/outils-ia-gratuits) pou
 ## Articles similaires
 
 - [Reconversion professionnelle IA : Guide complet 2026](https://adapte-toi.com/blog/reconversion-professionnelle-ia-guide-complet-2026)
-- [Métiers menacés par l'IA : Top 15 des professions à risque](https://adapte-toi.com/blog/metiers-menaces-ia-top-15-professions-risque)
+- [Métiers menacés par l'IA : Top 15 des professions à risque](https://adapte-toi.com/blog/métiers-menaces-ia-top-15-professions-risque)
 - [Formation IA gratuite : 10 cours en ligne pour débuter](https://adapte-toi.com/blog/formation-ia-gratuite-10-cours-ligne-debuter)
 

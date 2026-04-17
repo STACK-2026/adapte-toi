@@ -535,13 +535,8 @@ def main():
     log.info(f"Title tag: {generated['title_tag']}")
     log.info(f"Meta desc: {generated['meta_description'][:80]}...")
 
-    # Fetch featured image
+    # Images: on utilise BrandHero SVG cote site (pas d'Unsplash generique)
     image = None
-    if UNSPLASH_ACCESS_KEY:
-        query = article.get("keywords", article["title"]).split(",")[0].strip()
-        image = fetch_unsplash_image(query, article.get("index", 0))
-        if image:
-            log.info(f"Image: {image['photographer']} (Unsplash)")
 
     # Find related articles for maillage
     related = find_related_articles(article, articles)

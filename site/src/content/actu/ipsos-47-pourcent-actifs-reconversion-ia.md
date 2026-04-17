@@ -19,7 +19,7 @@ sources:
     url: "https://amalgame.fr"
     outlet: "Amalgame / Ipsos"
     date: 2025-09-15
-  - title: "Reconversion : un Français sur deux y pense, un sur sept passe à l'action"
+  - title: "Reconversion : un Français sur deux y pense, un sur sept passé à l'action"
     url: "https://www.lemonde.fr"
     outlet: "Le Monde"
     date: 2025-10-02
@@ -39,8 +39,6 @@ relatedGuides:
 relatedOutils:
   - "claude"
   - "perplexity"
-image: "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1200&h=630&fit=crop&q=80"
-imageAlt: "Collègues autour d'une table, symbole de la bascule collective vers la reconversion"
 keywords: "ipsos 47 pourcent reconversion, reconversion professionnelle france 2025, baromètre reconversion ipsos, actifs envisagent reconversion"
 lastReviewed: 2026-04-15
 reviewedBy: "Rédaction Adapte-toi"

@@ -7,8 +7,6 @@ category: "formation"
 tags: ["formation IA", "formation IA gratuite", "cours IA en ligne"]
 keywords: "formation IA, formation IA gratuite, cours IA en ligne"
 draft: false
-image: "https://images.unsplash.com/photo-1698824245662-804c2dba744b?ixid=M3w4Nzg4MzB8MHwxfHNlYXJjaHw0fHxmb3JtYXRpb24lMjBJQXxlbnwwfDB8fHwxNzc2MzI3MTQxfDA&ixlib=rb-4.1.0&w=1200&h=630&fit=crop&crop=center&q=80"
-imageAlt: "a group of fighter jets flying through a cloudy sky"
 ---
 
 ## Sommaire
@@ -84,7 +82,7 @@ Andrew Ng frappe encore avec cette spécialisation complète sur le deep learnin
 - **Public** : Décideurs, managers, entrepreneurs
 - **Audit** : Gratuit, certification payante
 
-Pour approfondir la vision par métier, explore nos [fiches métiers IA](/metiers/) : [développeur IA](/metiers/developpeur-ia/), [data analyst IA](/metiers/data-analyst-ia/), [chef de projet IA](/metiers/chef-de-projet-ia/), ou encore [community manager IA](/metiers/community-manager-ia/). Plus de 20 professions détaillées avec salaires, compétences et trajectoires concrètes.
+Pour approfondir la vision par métier, explore nos [fiches métiers IA](/métiers/) : [développeur IA](/métiers/developpeur-ia/), [data analyst IA](/métiers/data-analyst-ia/), [chef de projet IA](/métiers/chef-de-projet-ia/), ou encore [community manager IA](/métiers/community-manager-ia/). Plus de 20 professions détaillées avec salaires, compétences et trajectoires concrètes.
 
 ## Top 3 des cours IA proposés par les géants tech
 
@@ -149,7 +147,7 @@ Si tu te poses encore la question du "pourquoi", notre [guide reconversion IA](/
 3. Deep Learning Specialization (deeplearning.ai)
 4. Spécialisations sectorielles selon tes objectifs
 
-Le débouché naturel de ce track est le métier [développeur IA](/metiers/developpeur-ia/) ou [data analyst IA](/metiers/data-analyst-ia/). Si tu veux rester freelance, notre [guide freelance IA](/guides/freelance-ia-guide/) couvre le positionnement, les tarifs et les plateformes à cibler.
+Le débouché naturel de ce track est le métier [développeur IA](/métiers/developpeur-ia/) ou [data analyst IA](/métiers/data-analyst-ia/). Si tu veux rester freelance, notre [guide freelance IA](/guides/freelance-ia-guide/) couvre le positionnement, les tarifs et les plateformes à cibler.
 
 ### Profil manager/dirigeant
 
@@ -161,7 +159,7 @@ Le débouché naturel de ce track est le métier [développeur IA](/metiers/deve
 3. Introduction to Generative AI (Google)
 4. Formation sectorielle spécifique
 
-Les rôles cibles post-formation : [chef de projet IA](/metiers/chef-de-projet-ia/), [consultant IA](/metiers/consultant-ia/), ou [chargé de clientèle IA](/metiers/charge-clientele-ia/) si tu viens du commercial.
+Les rôles cibles post-formation : [chef de projet IA](/métiers/chef-de-projet-ia/), [consultant IA](/métiers/consultant-ia/), ou [chargé de clientèle IA](/métiers/charge-clientele-ia/) si tu viens du commercial.
 
 ## Certifications et reconnaissance des formations gratuites
 
@@ -253,7 +251,7 @@ Le marché du travail se transforme à vitesse grand V. Pendant que 47% des acti
 
 Pour aller plus loin sur Adapte-toi :
 - [Rubrique outils IA](/outils/) : 20+ outils testés classés par usage (écriture, design, automation, voix, data)
-- [Fiches métiers IA](/metiers/) : les 20+ métiers qui se transforment, avec salaires et compétences à développer
+- [Fiches métiers IA](/métiers/) : les 20+ métiers qui se transforment, avec salaires et compétences à développer
 - [Guides stratégiques](/guides/) : [reconversion IA](/guides/reconversion-ia-guide-complet/), [financer ta formation via le CPF](/guides/financer-formation-ia-cpf/), [automatiser ton travail](/guides/automatiser-travail-ia/), [négocier ton salaire IA](/guides/negocier-salaire-competences-ia/)
 - [Témoignages](/temoignages/) : des profils qui ont fait la transition, les virages, les ratés, les vraies trajectoires
 
@@ -262,5 +260,5 @@ Pour aller plus loin sur Adapte-toi :
 ## Articles similaires
 
 - [Reconversion professionnelle IA : Guide complet 2026](https://adapte-toi.com/blog/reconversion-professionnelle-ia-guide-complet-2026)
-- [Métiers menacés par l'IA : Top 15 des professions à risque](https://adapte-toi.com/blog/metiers-menaces-ia-top-15-professions-risque)
+- [Métiers menacés par l'IA : Top 15 des professions à risque](https://adapte-toi.com/blog/métiers-menaces-ia-top-15-professions-risque)
 

@@ -20,17 +20,17 @@ La citation partielle d'un article est autorisee a condition de mentionner la so
 
 ## Liens d'affiliation
 
-Certains liens presents dans nos articles et fiches outils sont des liens d'affiliation. Cela signifie qu'Adapte-toi perçoit une commission si tu effectues un achat apres avoir clique sur ces liens. Cela n'affecte ni le prix que tu paies, ni notre indépendance éditoriale.
+Certains liens presents dans nos articles et fiches outils sont des liens d'affiliation. Cela signifie qu'Adapte-toi perçoit une commission si tu effectues un achat après avoir clique sur ces liens. Cela n'affecte ni le prix que tu paies, ni notre indépendance éditoriale.
 
 Nous ne recommandons que des outils et formations que nous estimons pertinents et de qualité.
 
-## Responsabilite
+## Responsabilité
 
 Les informations publiees sur adapte-toi.com sont fournies à titre informatif et ne constituent pas un conseil professionnel. Adapte-toi ne saurait être tenu responsable des décisions prises sur la base de ces informations.
 
 ## Modification des CGU
 
-Adapte-toi se reserve le droit de modifier les presentes CGU. Les modifications entrent en vigueur dès leur publication sur le site.
+Adapte-toi se réserve le droit de modifier les presentes CGU. Les modifications entrent en vigueur dès leur publication sur le site.
 
 ## Contact
 

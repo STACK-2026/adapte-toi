@@ -8,9 +8,9 @@ lastUpdated: 2026-04-13
 
 Adapte-toi s'engage a proteger la vie privee des visiteurs de son site. Cette politique de confidentialité décrit les données collectees et leur utilisation.
 
-## Donnees collectees
+## Données collectees
 
-### Donnees de navigation
+### Données de navigation
 
 Nous collectons des données anonymisees de navigation (pages visitees, durée de visite, type d'appareil) via notre propre système d'analyse. Aucun cookie de tracking publicitaire n'est utilise.
 

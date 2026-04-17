@@ -298,7 +298,6 @@ relatedGuides:
   - "slug-guide-1"
 relatedOutils:
   - "claude"
-image: "https://images.unsplash.com/..."
 imageAlt: "..."
 keywords: "mot-cle-1, mot-cle-2, mot-cle-3"
 lastReviewed: YYYY-MM-DD (aujourd'hui)
@@ -326,7 +325,7 @@ News à décrypter :
 - Catégorie suggérée : {relevance['category']}
 - Pertinence : {relevance['why']}
 
-Écris le décryptage complet selon la structure imposée. Le frontmatter doit référencer la source ci-dessus en premier dans `sources` (et tu peux ajouter 1 ou 2 sources externes crédibles). Choisis un image URL Unsplash pertinent (format https://images.unsplash.com/photo-XXX?w=1200&h=630&fit=crop&q=80).
+Écris le décryptage complet selon la structure imposée. Le frontmatter doit référencer la source ci-dessus en premier dans `sources` (et tu peux ajouter 1 ou 2 sources externes crédibles). N'inclus AUCUN champ `image:` dans le frontmatter (le site génère un visuel SVG brandé automatiquement). Tu peux laisser un `imageAlt:` descriptif.
 """
     return claude_call(CLAUDE_SONNET, prompt, user, max_tokens=8000)
 

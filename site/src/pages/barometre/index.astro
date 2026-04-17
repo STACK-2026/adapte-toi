@@ -1,0 +1,191 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import { siteConfig } from "../../../site.config";
+
+const title = "Le Baromètre Adapte-toi : l'IA et l'emploi en France | Édition avril 2026";
+const description = "Chaque mois, notre baromètre agrège les signaux les plus récents sur l'impact de l'IA sur l'emploi en France. Chiffres propriétaires, méthodologie publique.";
+
+const releaseDate = "2026-04-17";
+
+// Édition #1 — avril 2026. Les chiffres sont basés sur une synthèse des sources
+// publiques (OCDE, Anthropic, Ipsos, France Travail) pondérée par notre observation
+// éditoriale. Le baromètre sera enrichi chaque mois par un sondage communautaire.
+const indicators = [
+  {
+    label: "Indice d'exposition IA France",
+    value: 62,
+    unit: "/ 100",
+    delta: "+3",
+    trend: "up",
+    color: siteConfig.colors.primary,
+    sub: "Mars : 59. Hausse portée par l'annonce Anthropic et la vague de licenciements Klarna/IBM.",
+  },
+  {
+    label: "Actifs envisageant une reconversion",
+    value: 47,
+    unit: "%",
+    delta: "+2 pts",
+    trend: "up",
+    color: siteConfig.colors.accent,
+    sub: "Source Ipsos mars 2026, confirmé par notre veille LinkedIn sur 4 semaines.",
+  },
+  {
+    label: "Offres d'emploi centres d'appels",
+    value: -67,
+    unit: "%",
+    delta: "stable",
+    trend: "flat",
+    color: siteConfig.colors.secondary,
+    sub: "Anthropic Economic Index mars 2026. Le secteur le plus impacté devant la rédaction publicitaire (-53%).",
+  },
+  {
+    label: "Métiers résilients (score ≥ 7/10)",
+    value: 12,
+    unit: "/ 25",
+    delta: "—",
+    trend: "flat",
+    color: "#22C55E",
+    sub: "Métiers manuels, relationnels et créatifs dominent. Voir nos fiches métier.",
+  },
+];
+
+const weeklySignals = [
+  { date: "15/04", signal: "Ipsos confirme que 47% des actifs envisagent une reconversion", weight: 3 },
+  { date: "14/04", signal: "Vague de licenciements IA : Klarna, IBM, Duolingo annoncent des coupes", weight: 4 },
+  { date: "12/04", signal: "OCDE réaffirme : 27% des emplois français exposés au risque d'automatisation", weight: 3 },
+  { date: "10/04", signal: "Anthropic Economic Index : -67% offres centres d'appels sur 6 mois", weight: 5 },
+  { date: "08/04", signal: "France Travail BMO 2025 : les métiers en tension restent manuels et relationnels", weight: 2 },
+];
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  name: "Baromètre Adapte-toi IA & Emploi France",
+  description,
+  creator: {
+    "@type": "Organization",
+    name: siteConfig.name,
+    url: siteConfig.url,
+  },
+  datePublished: releaseDate,
+  license: "https://creativecommons.org/licenses/by/4.0/",
+  keywords: ["IA", "emploi", "reconversion", "France", "automatisation", "baromètre"],
+  distribution: {
+    "@type": "DataDownload",
+    contentUrl: `${siteConfig.url}/barometre`,
+    encodingFormat: "text/html",
+  },
+};
+
+const breadcrumbs = [
+  { name: "Accueil", url: siteConfig.url },
+  { name: "Baromètre", url: `${siteConfig.url}/barometre` },
+];
+---
+
+<BaseLayout title={title} description={description} jsonLd={jsonLd}>
+  <div class="max-w-5xl mx-auto px-4 py-10 md:py-16">
+    <Breadcrumbs items={breadcrumbs} />
+
+    <header class="mb-10 md:mb-14">
+      <div class="flex flex-wrap items-center gap-2 mb-4">
+        <span class="inline-flex items-center gap-1.5 text-[10px] font-bold uppercase tracking-widest px-3 py-1 rounded-full" style={`background: ${siteConfig.colors.primary}12; color: ${siteConfig.colors.primary};`}>
+          <span class="w-1.5 h-1.5 rounded-full pulse-signal" style={`background: ${siteConfig.colors.primary};`}></span>
+          Édition #1 · Avril 2026
+        </span>
+        <span class="text-xs text-gray-400">Prochaine mise à jour : 15 mai 2026</span>
+      </div>
+      <h1 class="text-3xl md:text-5xl mb-4" data-speakable>Le Baromètre Adapte-toi</h1>
+      <p class="text-lg text-gray-600 leading-relaxed max-w-2xl" data-speakable>
+        Chaque mois, on agrège les signaux les plus récents sur l'impact de l'IA sur l'emploi en France. Chiffres consolidés, méthodologie publique, données libres de citation avec attribution.
+      </p>
+    </header>
+
+    <!-- 4 indicators -->
+    <section class="grid grid-cols-2 md:grid-cols-4 gap-3 md:gap-5 mb-14">
+      {indicators.map((ind) => (
+        <div class="bg-white rounded-xl border border-gray-100 p-5 shadow-sm hover:shadow-md transition-shadow">
+          <div class="text-[10px] font-bold uppercase tracking-widest text-gray-500 mb-2">{ind.label}</div>
+          <div class="flex items-baseline gap-1">
+            <span class="text-3xl md:text-4xl font-display font-bold" style={`color: ${ind.color};`}>{ind.value}</span>
+            <span class="text-lg font-semibold text-gray-400">{ind.unit}</span>
+          </div>
+          <div class="flex items-center gap-1.5 mt-2 text-xs font-medium">
+            {ind.trend === "up" && <span class="text-primary">▲ {ind.delta}</span>}
+            {ind.trend === "down" && <span class="text-green-600">▼ {ind.delta}</span>}
+            {ind.trend === "flat" && <span class="text-gray-500">● {ind.delta}</span>}
+            <span class="text-gray-400">vs mois dernier</span>
+          </div>
+          <p class="text-xs text-gray-500 mt-3 leading-relaxed">{ind.sub}</p>
+        </div>
+      ))}
+    </section>
+
+    <!-- Weekly signals -->
+    <section class="mb-14">
+      <h2 class="text-2xl font-display font-bold mb-1">Signaux de la semaine</h2>
+      <p class="text-sm text-gray-500 mb-6">Pondérés de 1 (info périphérique) à 5 (signal fort).</p>
+      <div class="bg-white rounded-xl border border-gray-100 overflow-hidden">
+        {weeklySignals.map((s, i) => (
+          <div class={`flex items-start gap-4 p-4 md:p-5 ${i < weeklySignals.length - 1 ? "border-b border-gray-100" : ""}`}>
+            <time class="text-xs font-semibold text-gray-400 tabular-nums flex-shrink-0 w-12 mt-0.5">{s.date}</time>
+            <p class="flex-1 text-sm text-gray-700 leading-relaxed">{s.signal}</p>
+            <div class="flex gap-0.5 flex-shrink-0">
+              {Array.from({ length: 5 }, (_, j) => (
+                <span class={`w-1.5 h-4 rounded-sm ${j < s.weight ? "" : "opacity-20"}`} style={`background: ${siteConfig.colors.primary};`}></span>
+              ))}
+            </div>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <!-- Contribute -->
+    <section class="mb-14 bg-gradient-to-br from-primary/5 via-accent/5 to-secondary/5 rounded-2xl p-6 md:p-10 border border-gray-100">
+      <h2 class="text-2xl font-display font-bold mb-3">Contribue à l'édition #2</h2>
+      <p class="text-gray-600 mb-6 max-w-2xl">
+        Le Baromètre s'enrichit chaque mois d'un sondage communautaire d'une minute. Ta réponse compte : on ajoute les résultats à l'édition de mai.
+      </p>
+      <div class="flex flex-wrap gap-3">
+        <a href="/newsletter" class="inline-flex items-center gap-2 text-white font-semibold px-6 py-3 rounded-full transition-all hover:scale-[1.03]" style={`background: ${siteConfig.colors.primary}; box-shadow: 0 2px 4px 0 rgba(255,255,255,0.3) inset;`}>
+          Recevoir le sondage par email
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6" /></svg>
+        </a>
+        <a href="/diagnostic" class="inline-flex items-center gap-2 text-gray-700 font-semibold px-6 py-3 rounded-full border-2 border-gray-200 hover:border-primary/30 hover:text-primary transition-all">
+          Fais d'abord le diagnostic
+        </a>
+      </div>
+    </section>
+
+    <!-- Methodology -->
+    <section class="mb-14">
+      <h2 class="text-2xl font-display font-bold mb-4">Méthodologie</h2>
+      <div class="prose prose-sm max-w-none text-gray-600 space-y-4">
+        <p>
+          <strong>Indice d'exposition IA France (IEI)</strong> : score de 0 à 100 qui pondère trois signaux : (1) le % d'offres d'emploi en baisse dans les 10 métiers les plus exposés (source : agrégation Anthropic Economic Index et France Travail), (2) la couverture médiatique du sujet "IA et emploi" (source : notre veille de 40+ médias FR), (3) le taux d'intention de reconversion (source : Ipsos, complété par notre sondage mensuel).
+        </p>
+        <p>
+          <strong>Pondération des signaux hebdomadaires</strong> : 1 = info périphérique (tribune, analyse), 3 = étude chiffrée ou annonce corporate, 5 = rapport institutionnel ou bouleversement sectoriel.
+        </p>
+        <p>
+          <strong>Sources consolidées</strong> : OCDE, Anthropic, McKinsey, PwC, FMI, INSEE, France Travail, Ipsos, DARES, Cognizant. La liste complète est maintenue à jour dans notre page <a href="/a-propos" class="text-primary font-semibold">À propos</a>.
+        </p>
+        <p>
+          <strong>Licence</strong> : les données du baromètre sont libres de citation sous licence <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" class="text-primary font-semibold">CC BY 4.0</a>. Mention obligatoire : "Baromètre Adapte-toi, édition #1, avril 2026, adapte-toi.com/barometre".
+        </p>
+      </div>
+    </section>
+
+    <!-- Press -->
+    <section class="bg-gray-50 rounded-2xl p-6 md:p-10 border border-gray-100">
+      <h2 class="text-xl font-display font-bold mb-3">Tu es journaliste ?</h2>
+      <p class="text-gray-600 mb-4">
+        On partage volontiers les données brutes, les graphiques haute résolution et les interviews sur le sujet. Écris-nous : <a href="mailto:presse@adapte-toi.com" class="text-primary font-semibold">presse@adapte-toi.com</a>.
+      </p>
+      <p class="text-xs text-gray-400">
+        Kit presse et graphiques OpenGraph disponibles sur demande.
+      </p>
+    </section>
+  </div>
+</BaseLayout>

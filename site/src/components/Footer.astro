@@ -11,7 +11,7 @@ const currentYear = new Date().getFullYear();
       <div class="md:col-span-1">
         <p class="text-white font-display font-bold text-lg mb-2">{siteConfig.name}</p>
         <p class="text-sm text-gray-400">{siteConfig.tagline}</p>
-        <p class="text-xs text-gray-500 mt-4">Un media éditorial indépendant. On ne vend rien, on informe.</p>
+        <p class="text-xs text-gray-500 mt-4">Un média éditorial indépendant. On ne vend rien, on informe.</p>
       </div>
 
       <!-- Rubriques -->
@@ -24,6 +24,8 @@ const currentYear = new Date().getFullYear();
           <li><a href="/actu" class="hover:text-white transition-colors">Actualités</a></li>
           <li><a href="/temoignages" class="hover:text-white transition-colors">Témoignages</a></li>
           <li><a href="/blog" class="hover:text-white transition-colors">{siteConfig.blog.name}</a></li>
+          <li><a href="/diagnostic" class="hover:text-white transition-colors">Diagnostic IA</a></li>
+          <li><a href="/barometre" class="hover:text-white transition-colors">Baromètre mensuel</a></li>
           <li><a href="/glossaire" class="hover:text-white transition-colors">Glossaire IA & emploi</a></li>
         </ul>
       </div>
@@ -55,12 +57,12 @@ const currentYear = new Date().getFullYear();
     <!-- Sources -->
     <div class="border-t border-gray-700/50 mt-10 pt-6">
       <p class="text-xs text-gray-500 text-center">
-        Nos analyses s'appuient sur des études publiees par l'OCDE, McKinsey, Anthropic, le FMI, PwC, Cognizant, INSEE, France Travail et LinkedIn. Chaque chiffre est sourcé et vérifiable.
+        Nos analyses s'appuient sur des études publiées par l'OCDE, McKinsey, Anthropic, le FMI, PwC, Cognizant, INSEE, France Travail et LinkedIn. Chaque chiffre est sourcé et vérifiable.
       </p>
     </div>
 
     <div class="border-t border-gray-700/50 mt-6 pt-6 text-center text-xs text-gray-500">
-      <p>&copy; {currentYear} {siteConfig.name}. Tous droits reserves.</p>
+      <p>&copy; {currentYear} {siteConfig.name}. Tous droits réservés.</p>
       {siteConfig.legal.email && (
         <p class="mt-1">
           <a href={`mailto:${siteConfig.legal.email}`} class="hover:text-white transition-colors">

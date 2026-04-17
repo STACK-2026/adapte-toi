@@ -45,8 +45,6 @@ relatedOutils:
   - "claude"
   - "chatgpt"
   - "copilot"
-image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=630&fit=crop&q=80"
-imageAlt: "Bureau vide, symbole des postes non remplacés"
 keywords: "licenciements IA 2026, klarna licenciements, IBM pause embauche IA, duolingo licenciements IA, vague licenciements IA"
 lastReviewed: 2026-04-15
 reviewedBy: "Rédaction Adapte-toi"
@@ -97,7 +95,7 @@ La phrase est honnête, donc brutale. Elle explicite le mécanisme le plus fréq
 - Changement de CEO ou de DRH avec background IA/data.
 Si deux ou plus sont présents, la vague est déjà en route.
 
-**Tu es manager ou DRH.** Le cas Klarna te pose une vraie question. Dire publiquement que l'IA réduit ton besoin d'embauche a un coût RH et un coût marque employeur. Ne pas le dire a un coût en confiance interne, parce que les salariés voient quand même les chiffres. Il n'y a pas de bonne réponse, mais il y a une réponse pire que les autres : ne rien dire ET ne rien accompagner.
+**Tu es manager ou DRH.** Le cas Klarna te pose une vraie question. Dire publiquement que l'IA réduit ton besoin d'embauche a un coût RH et un coût marque employeur. Ne pas le dire à un coût en confiance interne, parce que les salariés voient quand même les chiffres. Il n'y a pas de bonne réponse, mais il y a une réponse pire que les autres : ne rien dire ET ne rien accompagner.
 
 ## Le verdict Adapte-toi
 
@@ -105,4 +103,4 @@ La vague de licenciements IA de 2025-2026 est la première à porter son nom. C'
 
 Pour toi, l'implication est simple : la stratégie "attendre de voir" est la pire option. Les boîtes qui annoncent officiellement ont déjà acté leurs plans. Les boîtes qui ne disent rien sont souvent en train de les préparer. La seule protection est l'adaptation précoce.
 
-Va consulter notre [catalogue de fiches métier](/metiers) pour savoir où se situe ton poste. Si tu veux avoir toutes les données agrégées en une seule page, notre [guide chiffres clés IA et emploi](/guides/ia-emploi-chiffres-cles) centralise. Pour bifurquer, [le guide reconversion IA](/guides/reconversion-ia-guide-complet) et celui sur [l'automatisation de ton poste actuel](/guides/automatiser-travail-ia) sont les deux portes d'entrée.
+Va consulter notre [catalogue de fiches métier](/métiers) pour savoir où se situe ton poste. Si tu veux avoir toutes les données agrégées en une seule page, notre [guide chiffres clés IA et emploi](/guides/ia-emploi-chiffres-cles) centralise. Pour bifurquer, [le guide reconversion IA](/guides/reconversion-ia-guide-complet) et celui sur [l'automatisation de ton poste actuel](/guides/automatiser-travail-ia) sont les deux portes d'entrée.

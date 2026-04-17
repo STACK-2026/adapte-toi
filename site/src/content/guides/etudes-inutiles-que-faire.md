@@ -41,15 +41,15 @@ Ce guide ne te dit pas d'arrêter tes études. Il te dit quoi ajouter à ta form
 
 | Filière | Risque IA | Explication |
 |---------|-----------|-------------|
-| Communication / Marketing | **Élevé** | L'IA rédige, crée des visuels, planifie. [Fiche copywriter](/metiers/copywriter-ia) |
-| Traduction / Langues | **Très élevé** | DeepL et Claude traduisent 95% des textes courants. [Fiche traducteur](/metiers/traducteur-ia) |
-| Comptabilité / Gestion | **Élevé** | La saisie est automatisée. Le conseil reste humain. [Fiche comptable](/metiers/comptable-ia) |
-| Droit | **Moyen** | La recherche juridique est automatisée, pas le conseil. [Fiche avocat](/metiers/avocat-ia) |
-| Informatique | **Moyen** | Le code basique est automatisé, l'architecture non. [Fiche développeur](/metiers/developpeur-ia) |
-| Santé (médecine, soins) | **Faible** | Le soin physique et l'empathie restent humains. [Fiche infirmier](/metiers/infirmier-ia) |
-| Artisanat / BTP | **Très faible** | Les mains restent irremplaçables. [Fiche plombier](/metiers/plombier-ia) |
-| Design / Arts | **Variable** | Le design générique est menacé, le DA non. [Fiche graphiste](/metiers/graphiste-ia) |
-| Enseignement | **Faible** | L'humain reste au centre de l'éducation. [Fiche enseignant](/metiers/enseignant-ia) |
+| Communication / Marketing | **Élevé** | L'IA rédige, crée des visuels, planifie. [Fiche copywriter](/métiers/copywriter-ia) |
+| Traduction / Langues | **Très élevé** | DeepL et Claude traduisent 95% des textes courants. [Fiche traducteur](/métiers/traducteur-ia) |
+| Comptabilité / Gestion | **Élevé** | La saisie est automatisée. Le conseil reste humain. [Fiche comptable](/métiers/comptable-ia) |
+| Droit | **Moyen** | La recherche juridique est automatisée, pas le conseil. [Fiche avocat](/métiers/avocat-ia) |
+| Informatique | **Moyen** | Le code basique est automatisé, l'architecture non. [Fiche développeur](/métiers/developpeur-ia) |
+| Santé (médecine, soins) | **Faible** | Le soin physique et l'empathie restent humains. [Fiche infirmier](/métiers/infirmier-ia) |
+| Artisanat / BTP | **Très faible** | Les mains restent irremplaçables. [Fiche plombier](/métiers/plombier-ia) |
+| Design / Arts | **Variable** | Le design générique est menacé, le DA non. [Fiche graphiste](/métiers/graphiste-ia) |
+| Enseignement | **Faible** | L'humain reste au centre de l'éducation. [Fiche enseignant](/métiers/enseignant-ia) |
 
 **Le message n'est pas "n'étudie pas"**, c'est **"étudie autrement"**. Quelle que soit ta filière, ajoute les compétences IA en parallèle.
 
@@ -125,7 +125,7 @@ Non. Sa thèse est plus nuancée que le titre : il dit que les études tradition
 
 ### Mon prof dit que l'IA c'est de la triche, je fais quoi ?
 
-Tu utilises l'IA intelligemment : comme un outil d'apprentissage, pas comme un raccourci. Demande à ChatGPT de t'expliquer un concept, pas de rédiger ton devoir. Et propose à ton prof de faire un cours sur l'utilisation responsable de l'IA. Voir notre [fiche enseignant](/metiers/enseignant-ia).
+Tu utilises l'IA intelligemment : comme un outil d'apprentissage, pas comme un raccourci. Demande à ChatGPT de t'expliquer un concept, pas de rédiger ton devoir. Et propose à ton prof de faire un cours sur l'utilisation responsable de l'IA. Voir notre [fiche enseignant](/métiers/enseignant-ia).
 
 ### Je suis en première année et je stresse, c'est normal ?
 
@@ -133,7 +133,7 @@ Oui. Et c'est même un bon signe : ça veut dire que tu es conscient de ce qui s
 
 ### Quels métiers recrutent des jeunes diplômés en 2026 ?
 
-Les métiers qui combinent expertise humaine + IA : content strategist, data analyst augmenté, customer success manager, consultant transformation IA, UX/UI designer. Consulte nos [fiches métier](/metiers) pour les détails.
+Les métiers qui combinent expertise humaine + IA : content strategist, data analyst augmenté, customer success manager, consultant transformation IA, UX/UI designer. Consulte nos [fiches métier](/métiers) pour les détails.
 
 ---
 
@@ -156,14 +156,14 @@ Les métiers qui combinent expertise humaine + IA : content strategist, data ana
 - [Financer ta formation IA via le CPF](/guides/financer-formation-ia-cpf/)
 
 **Métiers qui appliquent ces conseils :**
-- [Développeur IA](/metiers/developpeur-ia/)
-- [Data analyst IA](/metiers/data-analyst-ia/)
-- [Consultant IA](/metiers/consultant-ia/)
+- [Développeur IA](/métiers/developpeur-ia/)
+- [Data analyst IA](/métiers/data-analyst-ia/)
+- [Consultant IA](/métiers/consultant-ia/)
 
 **Outils IA à tester :**
 - [ChatGPT](/outils/chatgpt/)
 - [Claude](/outils/claude/)
 - [Perplexity](/outils/perplexity/)
 
-Explore tous nos [guides stratégiques](/guides/), les [fiches métiers IA](/metiers/) et le [catalogue d'outils](/outils/).
+Explore tous nos [guides stratégiques](/guides/), les [fiches métiers IA](/métiers/) et le [catalogue d'outils](/outils/).
 

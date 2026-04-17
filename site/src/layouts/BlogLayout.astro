@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
 import Breadcrumbs from "../components/Breadcrumbs.astro";
+import BrandHero from "../components/BrandHero.astro";
 import { siteConfig } from "../../site.config";
 import { fullUrl } from "../utils/config";
 import { jsonLdArticle, jsonLdBreadcrumbs } from "../utils/seo";
@@ -115,8 +116,8 @@ const jsonLd = [
       )}
     </header>
 
-    {image && (
-      <figure class="mb-10">
+    <figure class="mb-10">
+      {image ? (
         <img
           src={image}
           alt={imageAlt || title}
@@ -125,8 +126,10 @@ const jsonLd = [
           width="800"
           height="450"
         />
-      </figure>
-    )}
+      ) : (
+        <BrandHero title={title} category={category || siteConfig.blog.name} />
+      )}
+    </figure>
 
     <div class="prose max-w-none">
       <slot />

@@ -60,10 +60,10 @@ Uploade un PDF, un article, un rapport, et pose des questions dessus. "Quels son
 
 | Métier | Usage Perplexity | Exemple |
 |--------|-----------------|---------|
-| [Consultant](/metiers/consultant-ia) | Benchmark sectoriel rapide | "Part de marché des 5 leaders du SaaS RH en France" |
-| [Journaliste](/metiers/journaliste-ia) | Vérification de faits | "L'étude Anthropic mars 2026 dit quoi exactement ?" |
-| [Commercial](/metiers/commercial-ia) | Recherche pré-appel | "Qu'est-ce que fait l'entreprise X, CA, effectif, actualités" |
-| [Avocat](/metiers/avocat-ia) | Recherche jurisprudence | "Jurisprudence française sur la responsabilité IA" |
+| [Consultant](/métiers/consultant-ia) | Benchmark sectoriel rapide | "Part de marché des 5 leaders du SaaS RH en France" |
+| [Journaliste](/métiers/journaliste-ia) | Vérification de faits | "L'étude Anthropic mars 2026 dit quoi exactement ?" |
+| [Commercial](/métiers/commercial-ia) | Recherche pré-appel | "Qu'est-ce que fait l'entreprise X, CA, effectif, actualités" |
+| [Avocat](/métiers/avocat-ia) | Recherche jurisprudence | "Jurisprudence française sur la responsabilité IA" |
 | [Étudiant](#) | Synthèse de sources | "Résume les 3 études principales sur l'impact IA emploi" |
 
 ## Prix
@@ -108,13 +108,13 @@ Perplexity est le meilleur outil pour la recherche factuelle rapide avec sources
 - [Midjourney](/outils/midjourney/)
 
 **Métiers qui l'utilisent :**
-- [Journaliste IA](/metiers/journaliste-ia/)
-- [Consultant IA](/metiers/consultant-ia/)
-- [Analyste financier IA](/metiers/analyste-financier-ia/)
+- [Journaliste IA](/métiers/journaliste-ia/)
+- [Consultant IA](/métiers/consultant-ia/)
+- [Analyste financier IA](/métiers/analyste-financier-ia/)
 
 **Guides à lire :**
 - [Se former à l'IA gratuitement](/guides/se-former-ia-gratuitement/)
 - [Prompt engineering débutant](/guides/prompt-engineering-debutant/)
 
-Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/métiers/) et nos [guides stratégiques](/guides/).
 

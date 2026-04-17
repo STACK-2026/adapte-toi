@@ -21,11 +21,11 @@ L'ensemble des contenus (textes, images, graphismes, logo, icones) presents sur 
 
 Toute reproduction, représentation, modification, publication, transmission, dénaturation, totale ou partielle du site ou de son contenu, par quelque procédé que ce soit, et sur quelque support que ce soit est interdite sans l'autorisation ecrite préalable d'Adapte-toi.
 
-## Donnees personnelles
+## Données personnelles
 
 Consultez notre [politique de confidentialité](/politique-confidentialite) pour en savoir plus sur la collecte et le traitement de vos données personnelles.
 
-## Responsabilite
+## Responsabilité
 
 Les informations publiees sur adapte-toi.com sont fournies à titre informatif. Adapte-toi s'efforce de fournir des informations exactes et a jour, mais ne garantit pas l'exhaustivite ou l'exactitude des contenus.
 

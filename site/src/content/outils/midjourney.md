@@ -66,11 +66,11 @@ Exemples :
 
 | Métier | Usage | Exemple de prompt |
 |--------|-------|-------------------|
-| [Marketing](/metiers/marketing-ia) | Visuels social media | "team celebrating success in modern office, natural, warm" |
-| [Graphiste](/metiers/graphiste-ia) | Moodboards, concepts | "minimalist brand identity moodboard, earth tones, clean" |
-| [Architecte](/metiers/architecte-ia) | Rendus d'ambiance | "modern kitchen interior, scandinavian, oak and white" |
-| [Journaliste](/metiers/journaliste-ia) | Illustrations d'article | "abstract visualization of AI impact on jobs, blue tones" |
-| [Photographe](/metiers/photographe-ia) | Brainstorming visuel | "editorial portrait style, studio lighting, Hasselblad" |
+| [Marketing](/métiers/marketing-ia) | Visuels social media | "team celebrating success in modern office, natural, warm" |
+| [Graphiste](/métiers/graphiste-ia) | Moodboards, concepts | "minimalist brand identity moodboard, earth tones, clean" |
+| [Architecte](/métiers/architecte-ia) | Rendus d'ambiance | "modern kitchen interior, scandinavian, oak and white" |
+| [Journaliste](/métiers/journaliste-ia) | Illustrations d'article | "abstract visualization of AI impact on jobs, blue tones" |
+| [Photographe](/métiers/photographe-ia) | Brainstorming visuel | "editorial portrait style, studio lighting, Hasselblad" |
 
 ## Prix
 
@@ -122,13 +122,13 @@ Midjourney est le meilleur outil de génération d'images pour les professionnel
 - [ChatGPT](/outils/chatgpt/)
 
 **Métiers qui l'utilisent :**
-- [Graphiste IA](/metiers/graphiste-ia/)
-- [Photographe IA](/metiers/photographe-ia/)
-- [Marketing IA](/metiers/marketing-ia/)
+- [Graphiste IA](/métiers/graphiste-ia/)
+- [Photographe IA](/métiers/photographe-ia/)
+- [Marketing IA](/métiers/marketing-ia/)
 
 **Guides à lire :**
 - [Freelance IA : guide complet](/guides/freelance-ia-guide/)
 - [Automatiser ton travail avec l'IA](/guides/automatiser-travail-ia/)
 
-Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/métiers/) et nos [guides stratégiques](/guides/).
 

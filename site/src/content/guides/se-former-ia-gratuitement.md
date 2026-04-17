@@ -20,7 +20,7 @@ Tu veux te former à l'intelligence artificielle mais tu ne veux pas dépenser 5
 - [Niveau 4 : automatisation no-code](#niveau-4)
 - [Niveau 5 : aller plus loin (technique)](#niveau-5)
 - [Les certifications gratuites qui valent le coup](#certifications)
-- [Par métier : quoi apprendre en priorité](#par-metier)
+- [Par métier : quoi apprendre en priorité](#par-métier)
 - [Questions fréquentes](#faq)
 - [Sources](#sources)
 
@@ -124,7 +124,7 @@ Le prompt, c'est l'instruction que tu donnes à l'IA. Mieux tu promptes, meilleu
 - **Marketing** : "Crée un calendrier éditorial de 4 semaines pour [secteur] avec 3 posts/semaine"
 - **Rédacteur** : "Rédige un article SEO de 1 500 mots sur [sujet], structure H2/H3, mot-clé principal dans le titre"
 
-Consulte nos [fiches métier](/metiers) pour des recommandations spécifiques à ta profession.
+Consulte nos [fiches métier](/métiers) pour des recommandations spécifiques à ta profession.
 
 ---
 
@@ -192,18 +192,18 @@ La plateforme communautaire de l'IA. Des milliers de modèles gratuits à utilis
 
 ---
 
-<h2 id="par-metier">Par métier : quoi apprendre en priorité</h2>
+<h2 id="par-métier">Par métier : quoi apprendre en priorité</h2>
 
 | Ton métier | Apprends en priorité | Outil principal | Temps |
 |-----------|---------------------|-----------------|-------|
-| Comptable | Pennylane + Claude pour la veille fiscale | [Fiche comptable](/metiers/comptable-ia) | 2 semaines |
-| Commercial | CRM + séquences de prospection IA | [Fiche commercial](/metiers/commercial-ia) | 2 semaines |
-| RH / Recruteur | ATS intelligent + Claude pour les offres | [Fiche RH](/metiers/rh-recruteur-ia) | 2 semaines |
-| Marketing | Jasper/Claude + Surfer SEO + Canva AI | [Fiche marketing](/metiers/marketing-ia) | 3 semaines |
-| Rédacteur | Claude + Surfer SEO + prompt avancé | [Fiche copywriter](/metiers/copywriter-ia) | 1 semaine |
-| Développeur | Cursor + Claude Code + GitHub Copilot | [Fiche développeur](/metiers/developpeur-ia) | 1 semaine |
-| Graphiste | Midjourney + Adobe Firefly + Figma AI | [Fiche graphiste](/metiers/graphiste-ia) | 2 semaines |
-| Chef de projet | Monday.com AI + Notion AI + Fireflies | [Fiche chef de projet](/metiers/chef-de-projet-ia) | 2 semaines |
+| Comptable | Pennylane + Claude pour la veille fiscale | [Fiche comptable](/métiers/comptable-ia) | 2 semaines |
+| Commercial | CRM + séquences de prospection IA | [Fiche commercial](/métiers/commercial-ia) | 2 semaines |
+| RH / Recruteur | ATS intelligent + Claude pour les offres | [Fiche RH](/métiers/rh-recruteur-ia) | 2 semaines |
+| Marketing | Jasper/Claude + Surfer SEO + Canva AI | [Fiche marketing](/métiers/marketing-ia) | 3 semaines |
+| Rédacteur | Claude + Surfer SEO + prompt avancé | [Fiche copywriter](/métiers/copywriter-ia) | 1 semaine |
+| Développeur | Cursor + Claude Code + GitHub Copilot | [Fiche développeur](/métiers/developpeur-ia) | 1 semaine |
+| Graphiste | Midjourney + Adobe Firefly + Figma AI | [Fiche graphiste](/métiers/graphiste-ia) | 2 semaines |
+| Chef de projet | Monday.com AI + Notion AI + Fireflies | [Fiche chef de projet](/métiers/chef-de-projet-ia) | 2 semaines |
 
 ---
 
@@ -246,14 +246,14 @@ Pour les fondamentaux, oui. Google AI Essentials et Elements of AI sont meilleur
 - [Études inutiles : que faire ?](/guides/etudes-inutiles-que-faire/)
 
 **Métiers qui appliquent ces conseils :**
-- [Développeur IA](/metiers/developpeur-ia/)
-- [Data analyst IA](/metiers/data-analyst-ia/)
-- [Consultant IA](/metiers/consultant-ia/)
+- [Développeur IA](/métiers/developpeur-ia/)
+- [Data analyst IA](/métiers/data-analyst-ia/)
+- [Consultant IA](/métiers/consultant-ia/)
 
 **Outils IA à tester :**
 - [ChatGPT](/outils/chatgpt/)
 - [Claude](/outils/claude/)
 - [Perplexity](/outils/perplexity/)
 
-Explore tous nos [guides stratégiques](/guides/), les [fiches métiers IA](/metiers/) et le [catalogue d'outils](/outils/).
+Explore tous nos [guides stratégiques](/guides/), les [fiches métiers IA](/métiers/) et le [catalogue d'outils](/outils/).
 

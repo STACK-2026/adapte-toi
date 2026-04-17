@@ -30,8 +30,9 @@ const {
   data-scramble-frames={frames}
   data-scramble-chars={chars}
   data-scramble-trigger={trigger}
-  style="font-variant-numeric: tabular-nums; letter-spacing: -0.02em;"
->{trigger === "load" ? "" : text}</span>
+  aria-label={text}
+  style="font-variant-numeric: tabular-nums;"
+>{text}</span>
 
 <script>
   function initScramble() {

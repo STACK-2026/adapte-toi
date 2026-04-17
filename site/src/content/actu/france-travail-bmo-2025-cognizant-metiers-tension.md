@@ -39,8 +39,6 @@ relatedGuides:
 relatedOutils:
   - "claude"
   - "perplexity"
-image: "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=1200&h=630&fit=crop&q=80"
-imageAlt: "Bureau avec rapport et carte, symbole de l'analyse du marché du travail"
 keywords: "france travail bmo 2025, cognizant new work new world, métiers tension france, 2,77 millions recrutements"
 lastReviewed: 2026-04-15
 reviewedBy: "Rédaction Adapte-toi"
@@ -98,4 +96,4 @@ Le mot important est *migration*. Le marché du travail français n'est pas en t
 
 Croisés, le BMO 2025 et le rapport Cognizant 2026 disent une chose simple : il n'y a pas un marché du travail français, il y en a deux. L'un avec pénurie, salaires qui montent, peu d'exposition IA. L'autre avec saturation, salaires qui stagnent, forte exposition IA. Entre les deux, la bonne nouvelle : la France a besoin de bras, de têtes, de cœurs. Il y a de la place. Mais pas n'importe où.
 
-Si tu veux les données consolidées de tous les rapports récents (OCDE, Anthropic, McKinsey, FMI, Ipsos, France Travail, Cognizant) en une seule page, va sur [notre guide chiffres clés IA et emploi](/guides/ia-emploi-chiffres-cles). Si tu veux savoir dans quelle catégorie ton métier se situe, notre [catalogue de fiches métiers](/metiers) note chacun sur 10.
+Si tu veux les données consolidées de tous les rapports récents (OCDE, Anthropic, McKinsey, FMI, Ipsos, France Travail, Cognizant) en une seule page, va sur [notre guide chiffres clés IA et emploi](/guides/ia-emploi-chiffres-cles). Si tu veux savoir dans quelle catégorie ton métier se situe, notre [catalogue de fiches métiers](/métiers) note chacun sur 10.

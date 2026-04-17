@@ -1,0 +1,8 @@
+/métiers/* /metiers/:splat 301
+/métiers /metiers/ 301
+/témoignages/* /temoignages/:splat 301
+/témoignages /temoignages/ 301
+/m%C3%A9tiers/* /metiers/:splat 301
+/m%C3%A9tiers /metiers/ 301
+/t%C3%A9moignages/* /temoignages/:splat 301
+/t%C3%A9moignages /temoignages/ 301

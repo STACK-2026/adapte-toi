@@ -27,11 +27,17 @@ const {
   data-wave-speed={waveSpeed}
   data-wave-spacing={waveSpacing}
   data-wave-amplitude={amplitude}
-  style="display: inline-flex; letter-spacing: -0.03em;"
+  aria-label={text}
+  style="display: inline-block;"
 >
-  {text.split("").map((ch) => (
-    <span class="wave-char" style="display: inline-block; will-change: transform, opacity;">
-      {ch === " " ? "\u00a0" : ch}
+  {text.split(" ").map((word, wi, arr) => (
+    <span style="display: inline-block; white-space: nowrap;">
+      {word.split("").map((ch) => (
+        <span class="wave-char" aria-hidden="true" style="display: inline-block; will-change: transform, opacity;">
+          {ch}
+        </span>
+      ))}
+      {wi < arr.length - 1 && <span aria-hidden="true" style="display: inline-block; width: 0.25em;">&nbsp;</span>}
     </span>
   ))}
 </span>

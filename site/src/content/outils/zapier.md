@@ -74,13 +74,13 @@ Zapier est parfait pour débuter en automatisation. Simple, fiable, énorme cata
 - [Adobe Firefly](/outils/adobe-firefly/)
 
 **Métiers qui l'utilisent :**
-- [Chef de projet IA](/metiers/chef-de-projet-ia/)
-- [Assistant administratif IA](/metiers/assistant-administratif-ia/)
-- [Commercial IA](/metiers/commercial-ia/)
+- [Chef de projet IA](/métiers/chef-de-projet-ia/)
+- [Assistant administratif IA](/métiers/assistant-administratif-ia/)
+- [Commercial IA](/métiers/commercial-ia/)
 
 **Guides à lire :**
 - [Automatiser ton travail avec l'IA](/guides/automatiser-travail-ia/)
 - [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
 
-Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/métiers/) et nos [guides stratégiques](/guides/).
 

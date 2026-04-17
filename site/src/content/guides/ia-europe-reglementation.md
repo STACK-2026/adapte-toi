@@ -18,7 +18,7 @@ L'Europe joue un rôle unique dans la révolution IA. D'un côté, elle est le p
 - [Le marché de l'emploi IA en Europe](#marche)
 - [La France, leader européen en offres IA](#france)
 - [Les opportunités par pays](#pays)
-- [Ce que ça signifie pour ta carrière](#carriere)
+- [Ce que ça signifie pour ta carrière](#carrière)
 
 ---
 
@@ -91,7 +91,7 @@ La France est le pays européen qui publie le plus d'offres d'emploi liées à l
 
 ---
 
-<h2 id="carriere">Ce que ça signifie pour ta carrière</h2>
+<h2 id="carrière">Ce que ça signifie pour ta carrière</h2>
 
 ### L'Europe a un avantage : la régulation
 
@@ -110,7 +110,7 @@ La France est le pays européen qui publie le plus d'offres d'emploi liées à l
 - Ajoute les compétences IA à ton profil actuel ([guide formation gratuite](/guides/se-former-ia-gratuitement))
 - Si tu es en droit ou en compliance : spécialise-toi en AI compliance (créneau en or)
 - Si tu parles anglais : le marché européen est ouvert (télétravail cross-border)
-- Consulte nos [fiches métier](/metiers) pour ton secteur spécifique
+- Consulte nos [fiches métier](/métiers) pour ton secteur spécifique
 
 ---
 
@@ -133,14 +133,14 @@ La France est le pays européen qui publie le plus d'offres d'emploi liées à l
 - [Se former à l'IA gratuitement](/guides/se-former-ia-gratuitement/)
 
 **Métiers qui appliquent ces conseils :**
-- [Développeur IA](/metiers/developpeur-ia/)
-- [Data analyst IA](/metiers/data-analyst-ia/)
-- [Consultant IA](/metiers/consultant-ia/)
+- [Développeur IA](/métiers/developpeur-ia/)
+- [Data analyst IA](/métiers/data-analyst-ia/)
+- [Consultant IA](/métiers/consultant-ia/)
 
 **Outils IA à tester :**
 - [ChatGPT](/outils/chatgpt/)
 - [Claude](/outils/claude/)
 - [Perplexity](/outils/perplexity/)
 
-Explore tous nos [guides stratégiques](/guides/), les [fiches métiers IA](/metiers/) et le [catalogue d'outils](/outils/).
+Explore tous nos [guides stratégiques](/guides/), les [fiches métiers IA](/métiers/) et le [catalogue d'outils](/outils/).
 

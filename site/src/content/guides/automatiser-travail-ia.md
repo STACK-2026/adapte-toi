@@ -17,7 +17,7 @@ McKinsey estime que 30% des heures travaillées dans les économies avancées po
 - [Étape 1 : identifier tes tâches automatisables](#identifier)
 - [Étape 2 : choisir le bon outil](#outils)
 - [Étape 3 : créer ton premier workflow](#premier-workflow)
-- [10 automatisations prêtes à l'emploi par métier](#par-metier)
+- [10 automatisations prêtes à l'emploi par métier](#par-métier)
 - [Le calendrier d'automatisation (4 semaines)](#calendrier)
 - [Questions fréquentes](#faq)
 
@@ -99,7 +99,7 @@ Commençons simple. Voici un workflow que tu peux créer en 15 minutes sur Make.
 
 ---
 
-<h2 id="par-metier">10 automatisations prêtes à l'emploi par métier</h2>
+<h2 id="par-métier">10 automatisations prêtes à l'emploi par métier</h2>
 
 ### Pour les commerciaux
 1. **Enrichissement de leads** : nouveau contact dans ton CRM -> Make.com enrichit automatiquement (email, LinkedIn, site web, CA) via Apollo.io ou Clearbit
@@ -173,14 +173,14 @@ Stack minimale : 50 euros/mois. Rentabilisée dès 2 heures gagnées par semaine
 - [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
 
 **Métiers qui appliquent ces conseils :**
-- [Développeur IA](/metiers/developpeur-ia/)
-- [Data analyst IA](/metiers/data-analyst-ia/)
-- [Consultant IA](/metiers/consultant-ia/)
+- [Développeur IA](/métiers/developpeur-ia/)
+- [Data analyst IA](/métiers/data-analyst-ia/)
+- [Consultant IA](/métiers/consultant-ia/)
 
 **Outils IA à tester :**
 - [ChatGPT](/outils/chatgpt/)
 - [Claude](/outils/claude/)
 - [Perplexity](/outils/perplexity/)
 
-Explore tous nos [guides stratégiques](/guides/), les [fiches métiers IA](/metiers/) et le [catalogue d'outils](/outils/).
+Explore tous nos [guides stratégiques](/guides/), les [fiches métiers IA](/métiers/) et le [catalogue d'outils](/outils/).
 

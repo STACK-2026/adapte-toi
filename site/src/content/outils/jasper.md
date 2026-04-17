@@ -100,13 +100,13 @@ Jasper est excellent pour les équipes marketing qui produisent beaucoup de cont
 - [Copy.ai](/outils/copy-ai/)
 
 **Métiers qui l'utilisent :**
-- [Copywriter IA](/metiers/copywriter-ia/)
-- [Journaliste IA](/metiers/journaliste-ia/)
-- [Community manager IA](/metiers/community-manager-ia/)
+- [Copywriter IA](/métiers/copywriter-ia/)
+- [Journaliste IA](/métiers/journaliste-ia/)
+- [Community manager IA](/métiers/community-manager-ia/)
 
 **Guides à lire :**
 - [Prompt engineering débutant](/guides/prompt-engineering-debutant/)
 - [Freelance IA : guide complet](/guides/freelance-ia-guide/)
 
-Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/métiers/) et nos [guides stratégiques](/guides/).
 

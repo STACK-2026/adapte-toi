@@ -48,10 +48,10 @@ Un chatbot sur ton site web qui qualifie les visiteurs, répond aux questions fr
 
 | Métier | Usage HubSpot | Résultat |
 |--------|--------------|----------|
-| [Commercial](/metiers/commercial-ia) | Pipeline + séquences + scoring IA | 3x plus de leads traités |
-| [Marketing](/metiers/marketing-ia) | Landing pages + email marketing + analytics | Tunnel complet sans dev |
-| [RH](/metiers/rh-recruteur-ia) | Suivi candidats (détourné en ATS light) | Process structuré |
-| [Freelance](/metiers/commercial-ia) | CRM simple + suivi relances | Plus rien ne tombe entre les mailles |
+| [Commercial](/métiers/commercial-ia) | Pipeline + séquences + scoring IA | 3x plus de leads traités |
+| [Marketing](/métiers/marketing-ia) | Landing pages + email marketing + analytics | Tunnel complet sans dev |
+| [RH](/métiers/rh-recruteur-ia) | Suivi candidats (détourné en ATS light) | Process structuré |
+| [Freelance](/métiers/commercial-ia) | CRM simple + suivi relances | Plus rien ne tombe entre les mailles |
 
 ## Prix
 
@@ -80,7 +80,7 @@ Un chatbot sur ton site web qui qualifie les visiteurs, répond aux questions fr
 4. Envoie ton premier email depuis HubSpot
 5. Explore ChatSpot pour tes premières requêtes IA
 
-Consulte notre [fiche commercial](/metiers/commercial-ia) pour les meilleures stratégies de vente augmentée par l'IA.
+Consulte notre [fiche commercial](/métiers/commercial-ia) pour les meilleures stratégies de vente augmentée par l'IA.
 
 ## Notre verdict : 8/10
 
@@ -101,13 +101,13 @@ HubSpot est le meilleur CRM pour les PME et les freelances grâce à sa version 
 - [Midjourney](/outils/midjourney/)
 
 **Métiers qui l'utilisent :**
-- [Commercial IA](/metiers/commercial-ia/)
-- [Chargé de clientèle IA](/metiers/charge-clientele-ia/)
-- [Marketing IA](/metiers/marketing-ia/)
+- [Commercial IA](/métiers/commercial-ia/)
+- [Chargé de clientèle IA](/métiers/charge-clientele-ia/)
+- [Marketing IA](/métiers/marketing-ia/)
 
 **Guides à lire :**
 - [Automatiser ton travail avec l'IA](/guides/automatiser-travail-ia/)
 - [Négocier ton salaire avec l'IA](/guides/negocier-salaire-competences-ia/)
 
-Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/métiers/) et nos [guides stratégiques](/guides/).
 

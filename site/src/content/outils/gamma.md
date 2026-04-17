@@ -113,13 +113,13 @@ Gamma est la meilleure alternative à PowerPoint pour les gens qui n'ont ni le t
 - [Midjourney](/outils/midjourney/)
 
 **Métiers qui l'utilisent :**
-- [Chef de projet IA](/metiers/chef-de-projet-ia/)
-- [Assistant administratif IA](/metiers/assistant-administratif-ia/)
-- [Consultant IA](/metiers/consultant-ia/)
+- [Chef de projet IA](/métiers/chef-de-projet-ia/)
+- [Assistant administratif IA](/métiers/assistant-administratif-ia/)
+- [Consultant IA](/métiers/consultant-ia/)
 
 **Guides à lire :**
 - [Automatiser ton travail avec l'IA](/guides/automatiser-travail-ia/)
 - [Négocier ton salaire avec l'IA](/guides/negocier-salaire-competences-ia/)
 
-Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/métiers/) et nos [guides stratégiques](/guides/).
 

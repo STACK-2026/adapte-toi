@@ -39,8 +39,6 @@ relatedGuides:
 relatedOutils:
   - "claude"
   - "chatgpt"
-image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop&q=80"
-imageAlt: "Amphi universitaire vide, symbole de la crise du diplôme à l'ère de l'IA"
 keywords: "ne faites plus d'études, laurent alexandre, olivier babeau, études inutiles IA, diplôme remise en cause"
 lastReviewed: 2026-04-15
 reviewedBy: "Rédaction Adapte-toi"
@@ -103,4 +101,4 @@ Le livre est plus intelligent que son titre. Il est aussi plus idéologique qu'i
 
 Si tu n'as pas le temps de le lire, retiens ce réflexe : avant de t'engager dans trois ou cinq ans d'études, demande-toi ce que l'IA fera à ton futur métier dans ces trois ou cinq années. La réponse vaut plus qu'une fiche ONISEP.
 
-Pour creuser : on a consacré un guide complet à [que faire si tes études ne mènent plus nulle part](/guides/etudes-inutiles-que-faire), et un autre à [la reconversion IA de A à Z](/guides/reconversion-ia-guide-complet). Si tu veux voir concrètement quels métiers sont dans la ligne de mire, commence par les fiches [consultant](/metiers/consultant-ia), [avocat](/metiers/avocat-ia) et [journaliste](/metiers/journaliste-ia).
+Pour creuser : on a consacré un guide complet à [que faire si tes études ne mènent plus nulle part](/guides/etudes-inutiles-que-faire), et un autre à [la reconversion IA de A à Z](/guides/reconversion-ia-guide-complet). Si tu veux voir concrètement quels métiers sont dans la ligne de mire, commence par les fiches [consultant](/métiers/consultant-ia), [avocat](/métiers/avocat-ia) et [journaliste](/métiers/journaliste-ia).

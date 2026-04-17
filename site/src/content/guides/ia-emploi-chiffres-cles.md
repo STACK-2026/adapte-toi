@@ -130,7 +130,7 @@ L'IA générative pourrait automatiser l'équivalent de **300 millions d'emplois
 
 **Elles sous-estiment souvent la capacité d'adaptation humaine.** Les reconversions, les nouveaux métiers, les pivots : l'humain s'adapte plus vite que les modèles ne le prévoient.
 
-Consulte nos [fiches métier](/metiers) pour une analyse métier par métier avec des recommandations concrètes.
+Consulte nos [fiches métier](/métiers) pour une analyse métier par métier avec des recommandations concrètes.
 
 ---
 
@@ -178,14 +178,14 @@ Toutes les études citées dans ce guide sont accessibles publiquement. Voici le
 - [Se former à l'IA gratuitement](/guides/se-former-ia-gratuitement/)
 
 **Métiers qui appliquent ces conseils :**
-- [Développeur IA](/metiers/developpeur-ia/)
-- [Data analyst IA](/metiers/data-analyst-ia/)
-- [Consultant IA](/metiers/consultant-ia/)
+- [Développeur IA](/métiers/developpeur-ia/)
+- [Data analyst IA](/métiers/data-analyst-ia/)
+- [Consultant IA](/métiers/consultant-ia/)
 
 **Outils IA à tester :**
 - [ChatGPT](/outils/chatgpt/)
 - [Claude](/outils/claude/)
 - [Perplexity](/outils/perplexity/)
 
-Explore tous nos [guides stratégiques](/guides/), les [fiches métiers IA](/metiers/) et le [catalogue d'outils](/outils/).
+Explore tous nos [guides stratégiques](/guides/), les [fiches métiers IA](/métiers/) et le [catalogue d'outils](/outils/).
 

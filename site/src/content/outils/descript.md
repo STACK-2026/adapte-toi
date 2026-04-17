@@ -76,13 +76,13 @@ Descript est l'outil qui rend le montage vidéo accessible à tout le monde. Si 
 - [Midjourney](/outils/midjourney/)
 
 **Métiers qui l'utilisent :**
-- [Journaliste IA](/metiers/journaliste-ia/)
-- [Community manager IA](/metiers/community-manager-ia/)
-- [Copywriter IA](/metiers/copywriter-ia/)
+- [Journaliste IA](/métiers/journaliste-ia/)
+- [Community manager IA](/métiers/community-manager-ia/)
+- [Copywriter IA](/métiers/copywriter-ia/)
 
 **Guides à lire :**
 - [Freelance IA : guide complet](/guides/freelance-ia-guide/)
 - [Prompt engineering débutant](/guides/prompt-engineering-debutant/)
 
-Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/métiers/) et nos [guides stratégiques](/guides/).
 

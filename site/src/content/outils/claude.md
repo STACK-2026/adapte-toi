@@ -65,11 +65,11 @@ Claude excelle là où ChatGPT est parfois approximatif : les analyses nuancées
 
 | Métier | Usage principal | Pourquoi Claude plutôt que ChatGPT |
 |--------|----------------|-------------------------------------|
-| [Avocat](/metiers/avocat-ia) | Analyse de contrats, recherche juridique | Gère les documents très longs, moins d'hallucinations |
-| [Rédacteur](/metiers/copywriter-ia) | Articles longs, respect du brief SEO | Meilleur sur les textes 2 000+ mots |
-| [Consultant](/metiers/consultant-ia) | Rapports, benchmarks, analyses | Synthèse de documents volumineux |
-| [Analyste](/metiers/analyste-financier-ia) | Analyse de données, rapports | Précision sur les chiffres |
-| [Développeur](/metiers/developpeur-ia) | Claude Code CLI | Meilleur outil de code IA en 2026 |
+| [Avocat](/métiers/avocat-ia) | Analyse de contrats, recherche juridique | Gère les documents très longs, moins d'hallucinations |
+| [Rédacteur](/métiers/copywriter-ia) | Articles longs, respect du brief SEO | Meilleur sur les textes 2 000+ mots |
+| [Consultant](/métiers/consultant-ia) | Rapports, benchmarks, analyses | Synthèse de documents volumineux |
+| [Analyste](/métiers/analyste-financier-ia) | Analyse de données, rapports | Précision sur les chiffres |
+| [Développeur](/métiers/developpeur-ia) | Claude Code CLI | Meilleur outil de code IA en 2026 |
 
 ## Prix
 
@@ -116,13 +116,13 @@ Claude est le meilleur assistant IA pour les professionnels qui travaillent avec
 - [Jasper](/outils/jasper/)
 
 **Métiers qui l'utilisent :**
-- [Copywriter IA](/metiers/copywriter-ia/)
-- [Journaliste IA](/metiers/journaliste-ia/)
-- [Community manager IA](/metiers/community-manager-ia/)
+- [Copywriter IA](/métiers/copywriter-ia/)
+- [Journaliste IA](/métiers/journaliste-ia/)
+- [Community manager IA](/métiers/community-manager-ia/)
 
 **Guides à lire :**
 - [Prompt engineering débutant](/guides/prompt-engineering-debutant/)
 - [Freelance IA : guide complet](/guides/freelance-ia-guide/)
 
-Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/métiers/) et nos [guides stratégiques](/guides/).
 

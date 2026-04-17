@@ -23,15 +23,21 @@ const {
   class={`blur-text ${className}`}
   data-blur-stagger={stagger}
   data-blur-amount={blur}
-  style="display: inline-flex; flex-wrap: wrap; letter-spacing: -0.03em;"
+  aria-label={text}
+  style="display: inline-block;"
 >
-  {text.split("").map((ch, i) => (
-    <span
-      class="blur-char"
-      style={`display: inline-block; filter: blur(${blur}px); opacity: 0; transform: translateY(8px); will-change: filter, opacity, transform;`}
-      data-index={i}
-    >
-      {ch === " " ? "\u00a0" : ch}
+  {text.split(" ").map((word, wi, arr) => (
+    <span class="blur-word" style="display: inline-block; white-space: nowrap;">
+      {word.split("").map((ch, i) => (
+        <span
+          class="blur-char"
+          aria-hidden="true"
+          style={`display: inline-block; filter: blur(${blur}px); opacity: 0; transform: translateY(8px); will-change: filter, opacity, transform;`}
+        >
+          {ch}
+        </span>
+      ))}
+      {wi < arr.length - 1 && <span aria-hidden="true" style="display: inline-block; width: 0.25em;">&nbsp;</span>}
     </span>
   ))}
 </span>

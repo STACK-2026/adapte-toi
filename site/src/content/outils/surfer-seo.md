@@ -49,8 +49,8 @@ Génère un article optimisé SEO complet à partir d'un mot-clé. Le premier je
 
 | Métier | Usage Surfer SEO | Résultat |
 |--------|-----------------|----------|
-| [Rédacteur](/metiers/copywriter-ia) | Optimisation de chaque article avant publication | Articles qui rankent |
-| [Marketing](/metiers/marketing-ia) | Stratégie content SEO, audit du blog existant | Trafic organique x2-3 |
+| [Rédacteur](/métiers/copywriter-ia) | Optimisation de chaque article avant publication | Articles qui rankent |
+| [Marketing](/métiers/marketing-ia) | Stratégie content SEO, audit du blog existant | Trafic organique x2-3 |
 | [Freelance SEO](#) | Livrable client avec score Surfer | Crédibilité et résultats mesurables |
 
 ## Prix
@@ -101,13 +101,13 @@ Surfer SEO est l'outil de référence pour l'optimisation de contenu SEO. Si tu 
 - [Canva AI](/outils/canva-ai/)
 
 **Métiers qui l'utilisent :**
-- [Marketing IA](/metiers/marketing-ia/)
-- [Copywriter IA](/metiers/copywriter-ia/)
-- [Community manager IA](/metiers/community-manager-ia/)
+- [Marketing IA](/métiers/marketing-ia/)
+- [Copywriter IA](/métiers/copywriter-ia/)
+- [Community manager IA](/métiers/community-manager-ia/)
 
 **Guides à lire :**
 - [Freelance IA : guide complet](/guides/freelance-ia-guide/)
 - [Automatiser ton travail avec l'IA](/guides/automatiser-travail-ia/)
 
-Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/métiers/) et nos [guides stratégiques](/guides/).
 

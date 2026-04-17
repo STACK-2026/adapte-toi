@@ -1,0 +1,159 @@
+---
+/**
+ * BrandHero - SVG hero generator brand-consistent
+ * Replaces generic stock photos with a unique, on-brand visual
+ * per article, computed from the title hash
+ */
+import { siteConfig } from "../../site.config";
+
+interface Props {
+  title: string;
+  category?: string;
+  variant?: "signal" | "pulse" | "grid" | "auto";
+  class?: string;
+}
+
+const { title, category = "", variant = "auto", class: className = "" } = Astro.props;
+
+// Deterministic hash from title → variant, accent
+function hash(s: string): number {
+  let h = 0;
+  for (let i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) | 0;
+  return Math.abs(h);
+}
+const h = hash(title + category);
+const variants = ["signal", "pulse", "grid"] as const;
+const chosen = variant === "auto" ? variants[h % 3] : variant;
+const primary = siteConfig.colors.primary;
+const secondary = siteConfig.colors.secondary;
+const accent = siteConfig.colors.accent;
+
+// Rotate between primary / accent / secondary for highlight
+const highlights = [primary, accent, secondary];
+const highlight = highlights[h % 3];
+
+// Bar heights for signal variant - derived from title
+const barCount = 7;
+const bars = Array.from({ length: barCount }, (_, i) => {
+  const v = ((hash(title + i) % 100) + 20) / 100; // 0.2 → 1.2
+  return Math.min(Math.max(v, 0.25), 1);
+});
+---
+
+<div class={`brand-hero relative overflow-hidden rounded-xl ${className}`} style="aspect-ratio: 1200/500;">
+  <!-- Animated gradient background -->
+  <div
+    class="absolute inset-0 gradient-animated"
+    style={`background: linear-gradient(135deg, ${primary}08, ${secondary}12, ${accent}08, ${primary}08); background-size: 300% 300%;`}
+  ></div>
+
+  <!-- Subtle grid -->
+  <div
+    class="absolute inset-0 opacity-[0.05]"
+    style={`background-image: linear-gradient(${secondary} 1px, transparent 1px), linear-gradient(to right, ${secondary} 1px, transparent 1px); background-size: 40px 40px;`}
+  ></div>
+
+  <!-- Main visual -->
+  <svg class="absolute inset-0 w-full h-full" viewBox="0 0 1200 500" preserveAspectRatio="xMidYMid slice" role="img" aria-label={`Illustration : ${title}`}>
+    <defs>
+      <linearGradient id={`grad-${h}`} x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color={primary} stop-opacity="0.12"/>
+        <stop offset="50%" stop-color={highlight} stop-opacity="0.08"/>
+        <stop offset="100%" stop-color={secondary} stop-opacity="0.12"/>
+      </linearGradient>
+      <filter id={`blur-${h}`}><feGaussianBlur stdDeviation="60" /></filter>
+    </defs>
+
+    <!-- Organic background shapes -->
+    <circle cx={200 + (h % 200)} cy={150 + (h % 80)} r="180" fill={primary} opacity="0.06" filter={`url(#blur-${h})`} />
+    <circle cx={900 + (h % 150)} cy={350 + (h % 50)} r="220" fill={highlight} opacity="0.05" filter={`url(#blur-${h})`} />
+
+    {chosen === "signal" && (
+      <g transform="translate(600, 250)">
+        {bars.map((v, i) => {
+          const w = 28;
+          const gap = 12;
+          const totalW = barCount * w + (barCount - 1) * gap;
+          const x = -totalW / 2 + i * (w + gap);
+          const hBar = v * 180;
+          const isAccent = i === (h % barCount);
+          return (
+            <rect
+              x={x}
+              y={-hBar / 2}
+              width={w}
+              height={hBar}
+              rx="4"
+              fill={isAccent ? highlight : secondary}
+              opacity={isAccent ? "0.9" : "0.5"}
+            >
+              <animate attributeName="height" values={`${hBar};${hBar * 0.7};${hBar}`} dur={`${2.5 + (i % 3) * 0.5}s`} repeatCount="indefinite" />
+              <animate attributeName="y" values={`${-hBar / 2};${-hBar * 0.35};${-hBar / 2}`} dur={`${2.5 + (i % 3) * 0.5}s`} repeatCount="indefinite" />
+            </rect>
+          );
+        })}
+      </g>
+    )}
+
+    {chosen === "pulse" && (
+      <g transform="translate(600, 250)">
+        <circle r="30" fill={highlight} opacity="0.9" />
+        <circle r="60" fill="none" stroke={highlight} stroke-width="2" opacity="0.5">
+          <animate attributeName="r" values="30;140;30" dur="3s" repeatCount="indefinite" />
+          <animate attributeName="opacity" values="0.6;0;0.6" dur="3s" repeatCount="indefinite" />
+        </circle>
+        <circle r="90" fill="none" stroke={highlight} stroke-width="2" opacity="0.3">
+          <animate attributeName="r" values="30;200;30" dur="3s" begin="1s" repeatCount="indefinite" />
+          <animate attributeName="opacity" values="0.4;0;0.4" dur="3s" begin="1s" repeatCount="indefinite" />
+        </circle>
+        <circle r="120" fill="none" stroke={secondary} stroke-width="1.5" opacity="0.2">
+          <animate attributeName="r" values="30;260;30" dur="3s" begin="2s" repeatCount="indefinite" />
+          <animate attributeName="opacity" values="0.3;0;0.3" dur="3s" begin="2s" repeatCount="indefinite" />
+        </circle>
+      </g>
+    )}
+
+    {chosen === "grid" && (
+      <g transform="translate(600, 250)">
+        {Array.from({ length: 25 }, (_, i) => {
+          const col = i % 5;
+          const row = Math.floor(i / 5);
+          const x = (col - 2) * 70;
+          const y = (row - 2) * 70;
+          const active = (h * (i + 1)) % 5 === 0;
+          return (
+            <rect
+              x={x - 20}
+              y={y - 20}
+              width="40"
+              height="40"
+              rx="6"
+              fill={active ? highlight : secondary}
+              opacity={active ? "0.8" : "0.15"}
+            >
+              {active && <animate attributeName="opacity" values="0.8;0.3;0.8" dur={`${2 + (i % 4) * 0.4}s`} repeatCount="indefinite" />}
+            </rect>
+          );
+        })}
+      </g>
+    )}
+  </svg>
+
+  <!-- Category badge -->
+  {category && (
+    <span
+      class="absolute top-4 left-4 text-[10px] font-bold uppercase tracking-widest px-3 py-1.5 rounded-full backdrop-blur"
+      style={`background: ${highlight}15; color: ${highlight}; border: 1px solid ${highlight}30;`}
+    >
+      {category}
+    </span>
+  )}
+</div>
+
+<style>
+  @media (prefers-reduced-motion: reduce) {
+    .brand-hero svg animate {
+      animation: none;
+    }
+  }
+</style>

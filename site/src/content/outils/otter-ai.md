@@ -49,11 +49,11 @@ S'intègre nativement à Zoom, Google Meet, Microsoft Teams, Salesforce, HubSpot
 
 | Métier | Usage | Gain |
 |--------|-------|------|
-| [Chef de projet](/metiers/chef-de-projet-ia) | CR automatique de chaque réunion | Plus de CR manuels |
-| [Commercial](/metiers/commercial-ia) | Transcription des appels de vente | Analyse des objections |
-| [RH](/metiers/rh-recruteur-ia) | Transcription des entretiens | Comparaison structurée des candidats |
-| [Consultant](/metiers/consultant-ia) | Documentation des ateliers | Livrables accélérés |
-| [Journaliste](/metiers/journaliste-ia) | Transcription d'interviews | 2h gagnées par interview |
+| [Chef de projet](/métiers/chef-de-projet-ia) | CR automatique de chaque réunion | Plus de CR manuels |
+| [Commercial](/métiers/commercial-ia) | Transcription des appels de vente | Analyse des objections |
+| [RH](/métiers/rh-recruteur-ia) | Transcription des entretiens | Comparaison structurée des candidats |
+| [Consultant](/métiers/consultant-ia) | Documentation des ateliers | Livrables accélérés |
+| [Journaliste](/métiers/journaliste-ia) | Transcription d'interviews | 2h gagnées par interview |
 
 ## Prix
 
@@ -109,13 +109,13 @@ Otter.ai est l'outil de transcription le plus mature et le plus intégré. Il tr
 - [Midjourney](/outils/midjourney/)
 
 **Métiers qui l'utilisent :**
-- [Journaliste IA](/metiers/journaliste-ia/)
-- [Community manager IA](/metiers/community-manager-ia/)
-- [Copywriter IA](/metiers/copywriter-ia/)
+- [Journaliste IA](/métiers/journaliste-ia/)
+- [Community manager IA](/métiers/community-manager-ia/)
+- [Copywriter IA](/métiers/copywriter-ia/)
 
 **Guides à lire :**
 - [Freelance IA : guide complet](/guides/freelance-ia-guide/)
 - [Prompt engineering débutant](/guides/prompt-engineering-debutant/)
 
-Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/métiers/) et nos [guides stratégiques](/guides/).
 

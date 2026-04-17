@@ -41,8 +41,6 @@ relatedOutils:
   - "claude"
   - "chatgpt"
   - "copilot"
-image: "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=1200&h=630&fit=crop&q=80"
-imageAlt: "Courbes économiques, symbole du rapport d'impact Anthropic"
 keywords: "anthropic economic index, claude impact emploi, -67% centres appels, rapport IA emploi 2026"
 lastReviewed: 2026-04-15
 reviewedBy: "Rédaction Adapte-toi"
@@ -111,6 +109,6 @@ C'est une phrase qu'aucun dirigeant d'OpenAI ou de Google n'a prononcée. C'est 
 
 L'Economic Index n'est pas une prophétie, c'est un constat. Sur les entreprises équipées, l'impact est déjà là, mesurable, chiffré, documenté. Sur les entreprises non équipées, ça arrive. Le délai moyen entre adoption partielle et adoption massive est de 14 mois selon Anthropic.
 
-Ton métier a probablement déjà été traité dans nos [fiches métier](/metiers) avec un score d'exposition. Si tu veux les chiffres macro en un seul endroit, va sur [la page chiffres clés](/guides/ia-emploi-chiffres-cles). Si tu veux apprendre à utiliser Claude comme les seniors qui capturent les +28 % de productivité, commence par [le guide prompt engineering](/guides/prompt-engineering-debutant) puis [automatiser ton travail avec l'IA](/guides/automatiser-travail-ia).
+Ton métier a probablement déjà été traité dans nos [fiches métier](/métiers) avec un score d'exposition. Si tu veux les chiffres macro en un seul endroit, va sur [la page chiffres clés](/guides/ia-emploi-chiffres-cles). Si tu veux apprendre à utiliser Claude comme les seniors qui capturent les +28 % de productivité, commence par [le guide prompt engineering](/guides/prompt-engineering-debutant) puis [automatiser ton travail avec l'IA](/guides/automatiser-travail-ia).
 
 Retiens ceci : les chiffres d'Anthropic sont probablement les plus fiables du marché aujourd'hui, parce qu'ils viennent du fabricant lui-même. Ce que les autres éditeurs ne disent pas, tu peux l'inférer.

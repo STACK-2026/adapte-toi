@@ -74,7 +74,7 @@ Recolore automatiquement des illustrations vectorielles en décrivant l'ambiance
 5. Décris ce que tu veux (ou laisse vide pour supprimer l'élément)
 6. L'IA génère 3 options, choisis ta préférée
 
-Consulte notre [fiche graphiste](/metiers/graphiste-ia) pour comprendre comment le design évolue avec l'IA.
+Consulte notre [fiche graphiste](/métiers/graphiste-ia) pour comprendre comment le design évolue avec l'IA.
 
 ## Notre verdict : 7/10
 
@@ -89,13 +89,13 @@ Adobe Firefly est le meilleur choix pour les professionnels déjà dans l'écosy
 - [ChatGPT](/outils/chatgpt/)
 
 **Métiers qui l'utilisent :**
-- [Graphiste IA](/metiers/graphiste-ia/)
-- [Photographe IA](/metiers/photographe-ia/)
-- [Marketing IA](/metiers/marketing-ia/)
+- [Graphiste IA](/métiers/graphiste-ia/)
+- [Photographe IA](/métiers/photographe-ia/)
+- [Marketing IA](/métiers/marketing-ia/)
 
 **Guides à lire :**
 - [Freelance IA : guide complet](/guides/freelance-ia-guide/)
 - [Automatiser ton travail avec l'IA](/guides/automatiser-travail-ia/)
 
-Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/métiers/) et nos [guides stratégiques](/guides/).
 

@@ -14,10 +14,10 @@ draft: false
 
 ## Sommaire
 
-- [La réalité : qui est vraiment menacé ?](#realite)
+- [La réalité : qui est vraiment menacé ?](#réalité)
 - [Les 3 questions à te poser avant de bouger](#questions)
 - [Les 5 étapes d'une reconversion réussie](#etapes)
-- [Les métiers qui recrutent en 2026](#metiers-porteurs)
+- [Les métiers qui recrutent en 2026](#métiers-porteurs)
 - [Comment financer ta reconversion](#financement)
 - [Les erreurs qui tuent une reconversion](#erreurs)
 - [Reconversion vs montée en compétences : comment choisir](#choix)
@@ -27,7 +27,7 @@ draft: false
 
 ---
 
-<h2 id="realite">La réalité : qui est vraiment menacé ?</h2>
+<h2 id="réalité">La réalité : qui est vraiment menacé ?</h2>
 
 Pas tout le monde de la même façon. L'étude Anthropic de mars 2026 donne les chiffres les plus précis à ce jour :
 
@@ -44,7 +44,7 @@ Pas tout le monde de la même façon. L'étude Anthropic de mars 2026 donne les 
 
 **La nuance importante** : ce n'est pas le métier qui est menacé, ce sont les **tâches**. Un comptable qui ne fait que de la saisie est très exposé. Un comptable qui fait du conseil fiscal est protégé. La question n'est pas "est-ce que mon métier va disparaître ?" mais "est-ce que les tâches que je fais sont automatisables ?"
 
-Consulte nos [fiches métier](/metiers) pour connaître le score d'impact précis sur ta profession (24 métiers analysés avec sources).
+Consulte nos [fiches métier](/métiers) pour connaître le score d'impact précis sur ta profession (24 métiers analysés avec sources).
 
 ---
 
@@ -87,7 +87,7 @@ Sois réaliste :
 
 ### Étape 1 : le diagnostic (1 semaine)
 
-Avant tout, comprends ta situation. Consulte la [fiche de ton métier](/metiers) sur Adapte-toi pour connaître ton score d'impact. Fais le [diagnostic express sur notre 404](/) (5 questions, 1 minute). Parle à un conseiller CEP gratuitement (mon-cep.org).
+Avant tout, comprends ta situation. Consulte la [fiche de ton métier](/métiers) sur Adapte-toi pour connaître ton score d'impact. Fais le [diagnostic express sur notre 404](/) (5 questions, 1 minute). Parle à un conseiller CEP gratuitement (mon-cep.org).
 
 **Livrable** : une vision claire de ton niveau de risque et de tes options.
 
@@ -118,7 +118,7 @@ Tu as fait la transition. Maintenant, construis ta crédibilité dans le nouveau
 
 ---
 
-<h2 id="metiers-porteurs">Les métiers qui recrutent en 2026</h2>
+<h2 id="métiers-porteurs">Les métiers qui recrutent en 2026</h2>
 
 Les métiers les plus demandés combinent expertise humaine + maîtrise de l'IA :
 
@@ -135,7 +135,7 @@ Les métiers les plus demandés combinent expertise humaine + maîtrise de l'IA 
 
 **Le point commun** : aucun de ces métiers n'est "100% IA". Ils combinent tous une compétence humaine forte (stratégie, relation, créativité, jugement) avec une maîtrise des outils IA.
 
-Consulte nos [fiches métier](/metiers) pour des analyses détaillées de chaque profession.
+Consulte nos [fiches métier](/métiers) pour des analyses détaillées de chaque profession.
 
 ---
 
@@ -188,7 +188,7 @@ Le diplôme ouvre la porte. Ce qui te fait rester, c'est ta capacité à produir
 | **Exemple** | Comptable qui apprend Pennylane | Agent de centre d'appels qui devient CSM |
 | **Résultat** | Même métier, plus productif, mieux payé | Nouveau métier, nouveau départ |
 
-**La règle simple** : si ton score d'impact sur notre [fiche métier](/metiers) est inférieur à 7/10, la montée en compétences suffit probablement. Au-dessus de 7/10, considère sérieusement la reconversion.
+**La règle simple** : si ton score d'impact sur notre [fiche métier](/métiers) est inférieur à 7/10, la montée en compétences suffit probablement. Au-dessus de 7/10, considère sérieusement la reconversion.
 
 ---
 
@@ -218,7 +218,7 @@ Montée en compétences : 2 semaines à 3 mois. Reconversion complète : 6 à 12
 
 ### Par où commencer concrètement ?
 
-1. Lis la [fiche de ton métier](/metiers) (2 minutes)
+1. Lis la [fiche de ton métier](/métiers) (2 minutes)
 2. Fais le [diagnostic express](/) (1 minute)
 3. Commence les [formations gratuites](/guides/se-former-ia-gratuitement) (cette semaine)
 4. Prends rendez-vous avec un CEP si tu veux aller plus loin (gratuit, mon-cep.org)
@@ -247,14 +247,14 @@ Montée en compétences : 2 semaines à 3 mois. Reconversion complète : 6 à 12
 - [Négocier ton salaire avec des compétences IA](/guides/negocier-salaire-competences-ia/)
 
 **Métiers qui appliquent ces conseils :**
-- [Développeur IA](/metiers/developpeur-ia/)
-- [Data analyst IA](/metiers/data-analyst-ia/)
-- [Consultant IA](/metiers/consultant-ia/)
+- [Développeur IA](/métiers/developpeur-ia/)
+- [Data analyst IA](/métiers/data-analyst-ia/)
+- [Consultant IA](/métiers/consultant-ia/)
 
 **Outils IA à tester :**
 - [ChatGPT](/outils/chatgpt/)
 - [Claude](/outils/claude/)
 - [Perplexity](/outils/perplexity/)
 
-Explore tous nos [guides stratégiques](/guides/), les [fiches métiers IA](/metiers/) et le [catalogue d'outils](/outils/).
+Explore tous nos [guides stratégiques](/guides/), les [fiches métiers IA](/métiers/) et le [catalogue d'outils](/outils/).
 

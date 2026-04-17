@@ -51,10 +51,10 @@ Redimensionne automatiquement un visuel pour tous les formats (Instagram carré,
 
 | Métier | Usage Canva AI | Temps gagné |
 |--------|---------------|-------------|
-| [Community manager](/metiers/community-manager-ia) | 20 posts/semaine sans graphiste | 5-8h/semaine |
-| [Marketing](/metiers/marketing-ia) | Bannières, infographies, email design | 3-5h/semaine |
-| [Enseignant](/metiers/enseignant-ia) | Supports de cours visuels, fiches | 2-3h/semaine |
-| [Freelance](/metiers/commercial-ia) | Propositions commerciales visuelles, CV | 1-2h/semaine |
+| [Community manager](/métiers/community-manager-ia) | 20 posts/semaine sans graphiste | 5-8h/semaine |
+| [Marketing](/métiers/marketing-ia) | Bannières, infographies, email design | 3-5h/semaine |
+| [Enseignant](/métiers/enseignant-ia) | Supports de cours visuels, fiches | 2-3h/semaine |
+| [Freelance](/métiers/commercial-ia) | Propositions commerciales visuelles, CV | 1-2h/semaine |
 
 ## Prix
 
@@ -104,13 +104,13 @@ Canva AI est l'outil le plus accessible pour créer des visuels professionnels s
 - [ChatGPT](/outils/chatgpt/)
 
 **Métiers qui l'utilisent :**
-- [Graphiste IA](/metiers/graphiste-ia/)
-- [Photographe IA](/metiers/photographe-ia/)
-- [Marketing IA](/metiers/marketing-ia/)
+- [Graphiste IA](/métiers/graphiste-ia/)
+- [Photographe IA](/métiers/photographe-ia/)
+- [Marketing IA](/métiers/marketing-ia/)
 
 **Guides à lire :**
 - [Freelance IA : guide complet](/guides/freelance-ia-guide/)
 - [Automatiser ton travail avec l'IA](/guides/automatiser-travail-ia/)
 
-Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/métiers/) et nos [guides stratégiques](/guides/).
 

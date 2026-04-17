@@ -141,7 +141,7 @@ Pour les tâches complexes, donne un brief complet en un seul message :
 
 *"Tu es un rédacteur SEO expert. Rédige un article de 1 500 mots sur 'reconversion professionnelle IA 2026'. Structure : sommaire ancré + 6 sections H2 + FAQ 3 questions. Mot-clé dans le premier paragraphe et dans 2 H2 minimum. Pas de phrases génériques type 'dans un monde où'. Ton direct, tutoiement. Données chiffrées obligatoires (cite OCDE, McKinsey, Anthropic)."*
 
-Consulte nos [fiches métier](/metiers) pour des recommandations spécifiques à ta profession.
+Consulte nos [fiches métier](/métiers) pour des recommandations spécifiques à ta profession.
 
 ---
 
@@ -228,14 +228,14 @@ En tant que métier à plein temps, c'est de moins en moins courant (les IA s'am
 - [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
 
 **Métiers qui appliquent ces conseils :**
-- [Développeur IA](/metiers/developpeur-ia/)
-- [Data analyst IA](/metiers/data-analyst-ia/)
-- [Consultant IA](/metiers/consultant-ia/)
+- [Développeur IA](/métiers/developpeur-ia/)
+- [Data analyst IA](/métiers/data-analyst-ia/)
+- [Consultant IA](/métiers/consultant-ia/)
 
 **Outils IA à tester :**
 - [ChatGPT](/outils/chatgpt/)
 - [Claude](/outils/claude/)
 - [Perplexity](/outils/perplexity/)
 
-Explore tous nos [guides stratégiques](/guides/), les [fiches métiers IA](/metiers/) et le [catalogue d'outils](/outils/).
+Explore tous nos [guides stratégiques](/guides/), les [fiches métiers IA](/métiers/) et le [catalogue d'outils](/outils/).
 

@@ -32,8 +32,6 @@ relatedOutils:
   - "chatgpt"
   - "copilot"
   - "midjourney"
-image: "https://images.unsplash.com/photo-1677442136019-21780ecad995"
-imageAlt: "Un data center européen avec des panneaux solaires, symbolisant l'IA frugale et durable"
 keywords: "IA européenne, régulation IA, souveraineté numérique, IA frugale, Green Deal, AI Act, Gilles Babinet, Lombard Odier, Mistral, Kyutai, transition écologique"
 lastReviewed: 2026-04-17
 reviewedBy: "Rédaction Adapte-toi"
@@ -83,7 +81,7 @@ Babinet note que nous interagissons plus avec des machines qu'avec des humains. 
 - **90 jours** : Monte un partenariat avec une entreprise européenne spécialisée en IA durable (ex : Owkin, Deepomatic).
 
 **Étudiant ou en reconversion**
-- **30 jours** : Lis notre [guide sur la reconversion dans l'IA](/guides/reconversion-ia-guide-complet). Cible les métiers porteurs : [consultant IA](/metiers/consultant-ia), [data analyst IA](/metiers/data-analyst-ia).
+- **30 jours** : Lis notre [guide sur la reconversion dans l'IA](/guides/reconversion-ia-guide-complet). Cible les métiers porteurs : [consultant IA](/métiers/consultant-ia), [data analyst IA](/métiers/data-analyst-ia).
 - **60 jours** : Inscris-toi à des MOOCs sur l'IA responsable (ex : Université de Helsinki, Coursera).
 - **90 jours** : Postule à des stages dans des entreprises engagées (ex : Mistral AI, Kyutai).
 
@@ -93,4 +91,4 @@ Babinet note que nous interagissons plus avec des machines qu'avec des humains. 
 - **90 jours** : Lance un appel à projets pour des solutions IA frugales (ex : optimisation des transports publics).
 
 ## Le verdict Adapte-toi
-L'Europe peut faire de l'IA un levier écologique et souverain, mais elle doit agir vite. Régulation intelligente, investissements ciblés et marché unique sont indispensables. Pour creuser : notre [guide sur la réglementation européenne](/guides/ia-europe-reglementation) ou la fiche métier [consultant IA](/metiers/consultant-ia). Pour agir : intègre des outils d'IA durable avec notre [guide pour automatiser ton travail](/guides/automatiser-travail-ia).
+L'Europe peut faire de l'IA un levier écologique et souverain, mais elle doit agir vite. Régulation intelligente, investissements ciblés et marché unique sont indispensables. Pour creuser : notre [guide sur la réglementation européenne](/guides/ia-europe-reglementation) ou la fiche métier [consultant IA](/métiers/consultant-ia). Pour agir : intègre des outils d'IA durable avec notre [guide pour automatiser ton travail](/guides/automatiser-travail-ia).

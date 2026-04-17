@@ -91,7 +91,7 @@ Tu colles un message d'erreur, Cursor analyse le contexte (fichier, ligne, dépe
 4. Demande : "Explique-moi la structure de ce projet"
 5. Sélectionne du code et demande : "Ajoute la gestion d'erreur avec try/catch"
 
-Consulte notre [fiche développeur](/metiers/developpeur-ia) pour comprendre l'impact de l'IA sur le métier de dev.
+Consulte notre [fiche développeur](/métiers/developpeur-ia) pour comprendre l'impact de l'IA sur le métier de dev.
 
 ## Notre verdict : 9/10
 
@@ -112,13 +112,13 @@ Cursor est l'outil qui change le plus la productivité d'un développeur en 2026
 - [Claude](/outils/claude/)
 
 **Métiers qui l'utilisent :**
-- [Développeur IA](/metiers/developpeur-ia/)
-- [Architecte IA](/metiers/architecte-ia/)
-- [Data analyst IA](/metiers/data-analyst-ia/)
+- [Développeur IA](/métiers/developpeur-ia/)
+- [Architecte IA](/métiers/architecte-ia/)
+- [Data analyst IA](/métiers/data-analyst-ia/)
 
 **Guides à lire :**
 - [Prompt engineering débutant](/guides/prompt-engineering-debutant/)
 - [Se former à l'IA gratuitement](/guides/se-former-ia-gratuitement/)
 
-Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/métiers/) et nos [guides stratégiques](/guides/).
 

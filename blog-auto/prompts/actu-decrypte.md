@@ -64,7 +64,6 @@ relatedGuides:
   - "slug-guide-1"
 relatedOutils:
   - "claude"
-image: "https://images.unsplash.com/..."
 imageAlt: "..."
 keywords: "mot-cle-1, mot-cle-2, mot-cle-3"
 lastReviewed: YYYY-MM-DD (aujourd'hui)

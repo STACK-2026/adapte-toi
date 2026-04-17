@@ -65,12 +65,12 @@ En particulier :
 
 | Métier | Usage principal | Gain de temps estimé |
 |--------|----------------|---------------------|
-| [Comptable](/metiers/comptable-ia) | Veille fiscale, synthèse de textes légaux, emails clients | 3-5h/semaine |
-| [Commercial](/metiers/commercial-ia) | Emails de prospection, propositions, préparation d'appels | 4-6h/semaine |
-| [RH](/metiers/rh-recruteur-ia) | Offres d'emploi, trames d'entretien, comptes-rendus | 3-5h/semaine |
-| [Marketing](/metiers/marketing-ia) | Contenu, calendrier éditorial, analyse concurrentielle | 5-8h/semaine |
-| [Rédacteur](/metiers/copywriter-ia) | Premiers jets, reformulation, SEO, brainstorming | 5-10h/semaine |
-| [Chef de projet](/metiers/chef-de-projet-ia) | Specs, reporting, comptes-rendus, planning | 3-5h/semaine |
+| [Comptable](/métiers/comptable-ia) | Veille fiscale, synthèse de textes légaux, emails clients | 3-5h/semaine |
+| [Commercial](/métiers/commercial-ia) | Emails de prospection, propositions, préparation d'appels | 4-6h/semaine |
+| [RH](/métiers/rh-recruteur-ia) | Offres d'emploi, trames d'entretien, comptes-rendus | 3-5h/semaine |
+| [Marketing](/métiers/marketing-ia) | Contenu, calendrier éditorial, analyse concurrentielle | 5-8h/semaine |
+| [Rédacteur](/métiers/copywriter-ia) | Premiers jets, reformulation, SEO, brainstorming | 5-10h/semaine |
+| [Chef de projet](/métiers/chef-de-projet-ia) | Specs, reporting, comptes-rendus, planning | 3-5h/semaine |
 
 ## Prix
 
@@ -128,13 +128,13 @@ ChatGPT est l'outil IA le plus polyvalent et le plus accessible en 2026. La vers
 - [Jasper](/outils/jasper/)
 
 **Métiers qui l'utilisent :**
-- [Copywriter IA](/metiers/copywriter-ia/)
-- [Journaliste IA](/metiers/journaliste-ia/)
-- [Community manager IA](/metiers/community-manager-ia/)
+- [Copywriter IA](/métiers/copywriter-ia/)
+- [Journaliste IA](/métiers/journaliste-ia/)
+- [Community manager IA](/métiers/community-manager-ia/)
 
 **Guides à lire :**
 - [Prompt engineering débutant](/guides/prompt-engineering-debutant/)
 - [Freelance IA : guide complet](/guides/freelance-ia-guide/)
 
-Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/metiers/) et nos [guides stratégiques](/guides/).
+Explore le [catalogue complet d'outils IA](/outils/), nos [fiches métiers](/métiers/) et nos [guides stratégiques](/guides/).
 
