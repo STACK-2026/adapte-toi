@@ -32,7 +32,7 @@ permissions:
 
 jobs:
   watch:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     # Random delay up to 90min + fetch RSS + Mistral scoring 40 items + Mistral draft +
     # Claude audit + Mistral fix + Claude re-audit + Mistral trim + post-process + git push
     # -> ~95min worst case, on met 120 pour la marge.
