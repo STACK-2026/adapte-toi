@@ -50,7 +50,7 @@ LOG_FILE = SCRIPT_DIR / "logs" / "actu.log"
 
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")
 CLAUDE_HAIKU = "claude-haiku-4-5-20251001"
-CLAUDE_SONNET = "claude-sonnet-4-5-20251015"
+CLAUDE_SONNET = "claude-sonnet-4-6"
 CLAUDE_TIMEOUT = 240
 RELEVANCE_THRESHOLD = 7
 
