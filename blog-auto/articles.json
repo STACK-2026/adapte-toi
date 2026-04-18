@@ -82,7 +82,163 @@
     "title_tag": null,
     "meta_description": null,
     "featured_image_url": null,
-    "author": "Theo Marchand"
+    "author": "Theo Marchand",
+    "serp_brief": {
+      "keyword": "emploi IA 2026",
+      "generated_at": "2026-04-18T23:47:13",
+      "model": "gemini-2.5-pro",
+      "brief": {
+        "top10": [
+          {
+            "rank": 1,
+            "domain": "indeed.com",
+            "title": "Avril 2026 : l'IA progresse dans un marché du travail en recul - Indeed Hiring Lab France",
+            "main_angle": "Analyse macro-économique de la pénétration de l'IA dans les offres d'emploi en France, contrastant sa croissance avec le recul général du marché.",
+            "strength": "Source de données crédible (Indeed), analyse chiffrée et segmentée (secteurs, générations).",
+            "weakness": "Angle très analytique et peu orienté 'reconversion'. Ne liste pas de métiers ou de compétences de manière actionnable pour un individu."
+          },
+          {
+            "rank": 2,
+            "domain": "silkhom.com",
+            "title": "Les 10 des métiers les plus recherchés dans l'IA en 2026 - Silkhom",
+            "main_angle": "Liste de 10 métiers IA spécifiques avec description des missions, compétences clés et fourchettes de salaires.",
+            "strength": "Très concret et actionnable, répond directement à l'intention de recherche avec des fiches métiers claires.",
+            "weakness": "Contenu assez classique (liste), manque de profondeur sur les parcours de reconversion et la réalité du marché pour un débutant."
+          },
+          {
+            "rank": 3,
+            "domain": "jedha.co",
+            "title": "Les métiers de l'intelligence artificielle : missions, salaires et offres d'emploi - Jedha",
+            "main_angle": "Présentation des métiers de l'IA sous l'angle des débouchés et des salaires, avec un appel à l'action vers leurs formations.",
+            "strength": "Bonne structuration par métier, données sur les salaires et le volume d'offres (bien que datées de 2025).",
+            "weakness": "Biais commercial évident, le contenu sert avant tout à vendre des formations. L'information est parcellaire."
+          },
+          {
+            "rank": 4,
+            "domain": "bgb-formation.fr",
+            "title": "Métiers IA 2026 : Top 15 Emplois, Salaires 35-120K [Guide] - BGB Formation",
+            "main_angle": "Guide complet listant 15 métiers avec des fourchettes de salaires par niveau de séniorité (junior, confirmé, senior).",
+            "strength": "Granularité des salaires par expérience, ce qui est un différenciant. Adresse directement la question de la progression de carrière.",
+            "weakness": "Site d'organisme de formation, donc biais commercial. Le contenu reste une liste, bien que détaillée."
+          },
+          {
+            "rank": 5,
+            "domain": "nouvelleviepro.fr",
+            "title": "Intelligence artificielle : 10 métiers de l'IA qui recrutent - Nouvelle Vie Professionnelle",
+            "main_angle": "Liste de 10 métiers IA présentés spécifiquement sous l'angle de la reconversion professionnelle.",
+            "strength": "Cible bien le personna de la reconversion, ton rassurant et dédramatisant.",
+            "weakness": "Contenu assez générique, peu de chiffres précis ou de données différenciantes. Survole les sujets."
+          },
+          {
+            "rank": 6,
+            "domain": "centralesupelec-exed.fr",
+            "title": "Travailler dans l'IA : découvrez les métiers de l'avenir - CentraleSupélec Exed",
+            "main_angle": "Article de fond sur l'impact de l'IA sur le marché du travail, mettant en avant la transformation des métiers plus que leur remplacement.",
+            "strength": "Angle qualitatif et rassurant, s'appuie sur une source crédible (commission nationale sur l'IA). Bon pour la confiance.",
+            "weakness": "Moins actionnable, moins de listes de métiers concrètes et de chiffres sur les salaires que les concurrents directs."
+          },
+          {
+            "rank": 7,
+            "domain": "studyrama.com",
+            "title": "Métiers de l'Intelligence Artificielle (IA) - Studyrama.com",
+            "main_angle": "Portail généraliste sur les métiers de l'IA, listant les professions, les formations et les écoles.",
+            "strength": "Contenu large qui couvre à la fois les métiers et les parcours de formation (écoles, IUT, etc.).",
+            "weakness": "Manque de focus sur 2026, l'information est générique et pas spécifiquement prospective. L'interface est chargée."
+          },
+          {
+            "rank": 8,
+            "domain": "aixploria.com",
+            "title": "Offres d'emploi dans le secteur de l'IA | 2026 - AIxploria",
+            "main_angle": "Job board spécialisé affichant des offres d'emploi réelles dans le secteur de l'IA.",
+            "strength": "Contenu très concret (offres d'emploi), preuve réelle de la demande du marché.",
+            "weakness": "Ce n'est pas un contenu éditorial, ne répond pas à l'intention informationnelle de manière structurée."
+          },
+          {
+            "rank": 9,
+            "domain": "jobup.ch",
+            "title": "Tendances du monde du travail en 2026 : IA, soft skills et plus d'humanité",
+            "main_angle": "Analyse des tendances du marché du travail pour 2026, mettant l'accent sur l'importance croissante des soft skills face à l'IA.",
+            "strength": "Angle original et pertinent qui va au-delà des compétences techniques, parle de 'AI Literacy' et de l'humain.",
+            "weakness": "Marché suisse (Jobup.ch), donc potentiellement moins pertinent pour la cible France. Moins focus sur les métiers spécifiques de l'IA."
+          },
+          {
+            "rank": 10,
+            "domain": "coursera.org",
+            "title": "Le salaire d'un ingénieur en intelligence artificielle : Guide 2026 - Coursera",
+            "main_angle": "Guide centré exclusivement sur les salaires des différents métiers de l'ingénierie IA.",
+            "strength": "Focus très précis sur une intention clé (le salaire), cite des sources (Glassdoor, Seyos).",
+            "weakness": "Angle très niché sur les ingénieurs, ne couvre pas les métiers plus accessibles en reconversion (chef de projet IA, consultant IA...)."
+          }
+        ],
+        "common_angles": [
+          "Listes de métiers de l'IA (Data Scientist, ML Engineer, Prompt Engineer, etc.).",
+          "Fourchettes de salaires par poste, souvent avec une segmentation junior/senior.",
+          "Focus sur les compétences techniques requises (Python, SQL, TensorFlow...).",
+          "Contenus produits par des organismes de formation avec un objectif de conversion."
+        ],
+        "weak_angles": [
+          "Le parcours de reconversion concret pour les non-techniciens (ex: passer du marketing à chef de projet IA).",
+          "L'impact de l'IA sur les métiers de freelances et indépendants.",
+          "L'analyse critique des 'métiers bullshit' de l'IA versus les réels besoins long terme.",
+          "La dimension locale/française des opportunités (au-delà des chiffres nationaux)."
+        ],
+        "winning_moves": [
+          "Créer un guide-ressource unique qui segmente les métiers par 'porte d'entrée' : pour les profils techniques, pour les profils gestion de projet/business, et pour les profils créatifs/éditoriaux.",
+          "Intégrer des témoignages vidéos ou écrits de 3-4 professionnels français ayant réussi leur reconversion dans l'IA, en détaillant leur parcours (avant/après, formation suivie, difficultés, salaire).",
+          "Fournir une analyse sourcée et 'zéro bullshit' sur la réalité des salaires en 2026, en croisant les données des job boards, des études et des cabinets de recrutement, et en distinguant Paris/régions et CDI/freelance.",
+          "Développer une section entière sur 'L'IA comme compétence additionnelle' : comment ne pas changer de métier mais intégrer l'IA pour augmenter sa valeur (ex: un contrôleur de gestion, un RH, un avocat).",
+          "Proposer des 'parcours de formation types' vérifiés et non-commerciaux pour chaque profil, en incluant des options gratuites (certifications Google, cours open source) et payantes (bootcamps, formations certifiantes) avec leurs avantages/inconvénients."
+        ],
+        "must_include_sections": [
+          "Emploi IA en 2026 : Plus qu'une Révolution Technique, une Révolution des Compétences",
+          "Les 3 Grandes Familles de Métiers de l'IA en 2026 (pour s'y retrouver)",
+          "Cartographie des Salaires de l'IA en France : La Vraie Grille 2026 (CDI vs Freelance, Paris vs Régions)",
+          "Reconversion IA : 3 Parcours Concrets pour Passer du Marketing, de la Finance ou des RH à l'IA",
+          "Au-delà des Métiers 'purs' de l'IA : Comment 'Augmenter' Votre Poste Actuel avec l'IA ?",
+          "Se Former à l'IA en 2026 : Le Guide des Formations sans Bullshit (Gratuites et Payantes)"
+        ],
+        "citable_facts_to_verify": [
+          "La part des annonces contenant des termes liés à l'IA atteint 21 % dans le développement informatique en France.",
+          "Les professionnels disposant de compétences en IA gagnent en moyenne 56 % de salaire de plus que leurs pairs.",
+          "Le marché mondial de l'IA pourrait atteindre 1 771,62 milliards de dollars d'ici 2032.",
+          "Le Forum économique mondial (WEF) estime que 78 millions de nouveaux emplois liés à l'IA pourraient voir le jour d'ici la fin de la décennie."
+        ],
+        "entities_to_mention": [
+          "France Travail",
+          "APEC",
+          "Indeed Hiring Lab",
+          "Forum économique mondial (WEF)",
+          "CentraleSupélec",
+          "Jedha",
+          "Google",
+          "Microsoft (Azure)",
+          "Anthropic (Claude)"
+        ],
+        "target_word_count": 3500,
+        "intent_type": "informational",
+        "featured_snippet_opportunity": "Tableau. Viser un tableau comparatif des 'Top 5 métiers IA pour la reconversion en 2026' avec les colonnes : 'Métier', 'Salaire moyen débutant 2026', 'Niveau technique requis (Faible/Moyen/Élevé)', 'Meilleur type de formation'.",
+        "serp_features_detected": [
+          "AI Overview",
+          "People Also Ask",
+          "Video",
+          "Featured Snippet"
+        ],
+        "grounding_sources": [
+          {
+            "title": "hiringlab.org",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkNR_-dF1u3LA_P3P_SKxsudTCR2SzF7F4PoPxLUSvS70QvfNo8Ik2MkXRozz8BYeNQurPrl-JqwjWeuw3cCVUXPVaHAZPlF_9df1XTgmAU9skuaUcBVzofIi9cZt7Xi9qG3w93J7jvT972zOnw6CqkV91TkvrUGrLoLtzikL8ydUslFORWBLBG4jtTmILnEj-Rm_RHcAejqi1lXUM7IrdYm6j"
+          },
+          {
+            "title": "centralesupelec.fr",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrRekFruscAgFw5rLFTZmSt3XKLP8GabxaJtk6tf7ny_qEXeaa7vMym-phcTS7HCPooA-F2QuBrihW3_du60Hr4BCMa8FK20Iqqv5RoMFKuZZdD5Od1l4H8UkQQEavNGyLil0i2JJzDHhQ6ys52O5onPfZh541smqYfyHOh5iGQlkWyG-gieO5ogdjDSr7LC3CwoW3h2JJqHyr"
+          },
+          {
+            "title": "studyrama.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjHUAlPrB96f5fWCH1bouB7dYNJZ-97zUa2OLp_G91tnyvoq7XWX1xKtampzByhmoFxIN8cIZrngwqjG4YeQh8juyuVyESx_9XTP4m2kRX6C6qQENC5WGeeH9h08_71zhlaYE8hNLl4m9VkvkTd_-eY-Y8F3Xqp4A3OENMVgDZEBhC5c_bP3AT-9Y="
+          }
+        ]
+      }
+    }
   },
   {
     "title": "Comptable devenu consultant IA : Témoignage de Marie",
