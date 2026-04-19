@@ -685,14 +685,26 @@ def main():
         log.info("Rien de frais, on sort.")
         return 0
 
-    # 3. Mistral scoring (cap a 40 items)
+    # 3a. Pre-filtre deterministe AI : on ne score QUE les items avec signal IA.
+    # Avec 60+ feeds, on a 3000+ items frais dont 90% hors-sujet. Scorer tout
+    # via Mistral est cher et dilue le signal (les 40 premiers sont souvent
+    # generalistes). Le pre-filtre garantit qu'on donne a Mistral uniquement
+    # des candidats IA-relevant.
+    ai_relevant = [it for it in fresh if has_ai_signal(it.get("title",""), it.get("summary",""))]
+    log.info(f"AI-relevant (pre-filter): {len(ai_relevant)} / {len(fresh)}")
+
+    # 3b. Cap a 80 candidats (score Mistral-small coute ~0.0001$, on peut monter).
+    # Les feeds institutionnels / acteurs IA passent tous, on garde de la marge.
+    candidates = ai_relevant[:80]
+
+    # 3c. Mistral scoring
     scored = []
-    for it in fresh[:40]:
+    for it in candidates:
         r = score_item(it)
         if r and r["score"] >= RELEVANCE_THRESHOLD:
             scored.append({**it, **r})
     scored.sort(key=lambda x: x["score"], reverse=True)
-    log.info(f"Scored >= {RELEVANCE_THRESHOLD}: {len(scored)}")
+    log.info(f"Scored >= {RELEVANCE_THRESHOLD}: {len(scored)} / {len(candidates)} candidates")
 
     if args.seed_only:
         for s in scored[:10]:
