@@ -27,3 +27,4 @@ User-agent: Amazonbot
 Allow: /
 
 Sitemap: https://adapte-toi.com/sitemap-index.xml
+Sitemap: https://adapte-toi.com/sitemap-news.xml

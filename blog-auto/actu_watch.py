@@ -510,12 +510,13 @@ def submit_indexnow(urls: list[str]) -> None:
     if not key or not urls:
         return
     host = site_url.replace("https://", "").replace("http://", "").rstrip("/")
-    # Elargir : URLs articles + pages hub qui listent les news + sitemap + home
+    # Elargir : URLs articles + pages hub qui listent les news + sitemap news + RSS + home
     extra = [
         f"{site_url}/",
         f"{site_url}/actu",
         f"{site_url}/actu/semaine",
         f"{site_url}/sitemap.xml",
+        f"{site_url}/sitemap-news.xml",
         f"{site_url}/rss.xml",
     ]
     full_list = list(dict.fromkeys(urls + extra))  # dedup, preserve order
