@@ -26,7 +26,11 @@ concurrency:
 
 jobs:
   build-and-deploy:
-    runs-on: self-hosted
+    # Runners VPS STACK-2026 instables (fail au "Set up job", racine infra). Deploy
+    # est critique pour la visibilite, on le fait tourner sur ubuntu-latest hosted.
+    # Quota impact : ~2-3 min/deploy x 4 deploys/jour = ~360 min/mois, OK dans 2000.
+    # Les workflows lourds (actu-watch, actu-recap) restent self-hosted.
+    runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
       - name: Checkout
@@ -36,6 +40,8 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '22'
+          cache: 'npm'
+          cache-dependency-path: site/package-lock.json
 
       - name: Install dependencies
         working-directory: site
