@@ -30,6 +30,14 @@ STRUCTURE OBLIGATOIRE (en markdown, pas de H1, le titre est dans le frontmatter)
 OBLIGATIONS :
 - Longueur corps : 900-1400 mots
 - Maillage interne : minimum 5 liens vers /metiers/<slug>, /guides/<slug>, /outils/<slug>, /actu/<slug>
+- Maillage externe dans le corps : minimum 2 liens markdown inline [texte](https://...) vers les
+  sources primaires ou vers des autorites (OCDE, Dares, INSEE, France Strategie, Apec, France
+  Travail, Stanford HAI, Anthropic, OpenAI, Bloomberg, Reuters, Financial Times, Le Monde, Les
+  Echos). Chaque chiffre saillant doit etre cliquable vers sa source. C'est le signal E-E-A-T
+  qui fait la difference vs les medias qui resument sans lier.
+- Sources frontmatter : minimum 2 entrees distinctes avec URLs https valides et `outlet`
+  differents. La primaire + au moins une deuxieme source qui confirme ou elargit (autre media,
+  rapport institutionnel, donnees officielles).
 - Pas de générique, on nomme les boîtes, les gens, les chiffres, les dates
 - Accents français systématiques (é, è, ê, à, ç, î, ô, û)
 - Frontmatter YAML strict et valide

@@ -78,6 +78,9 @@ const jsonLdArray = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     <link rel="apple-touch-icon" href="/favicon.svg" />
 
+    <!-- RSS auto-discovery (Feedly, Inoreader, Apple News etc.) -->
+    <link rel="alternate" type="application/rss+xml" title="Adapte-toi Décrypte" href="/rss.xml" />
+
     <!-- JSON-LD -->
     {jsonLdArray.map((ld) => (
       <script type="application/ld+json" set:html={JSON.stringify(ld)} />

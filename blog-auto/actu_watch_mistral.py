@@ -501,6 +501,21 @@ def _extract_first_fact_paragraph(draft: str) -> str:
     return m.group(1).strip() if m else ""
 
 
+def _extract_sources_urls(frontmatter: str) -> list[str]:
+    """Extrait les URLs du champ sources: du frontmatter YAML (sans lib yaml)."""
+    m = re.search(r"^sources:\s*\n((?:\s{2,}.*\n?)+?)(?=^\w|\Z)", frontmatter, re.MULTILINE)
+    if not m:
+        return []
+    urls = re.findall(r'^\s*url:\s*["\']?(https?://[^\s"\']+)["\']?', m.group(1), re.MULTILINE)
+    return urls
+
+
+def _extract_external_links_body(body: str, own_host: str = "adapte-toi.com") -> list[str]:
+    """Liens markdown [txt](https://...) dans le corps, hors liens vers notre propre domaine."""
+    all_ext = re.findall(r"\]\((https?://[^)\s]+)\)", body)
+    return [u for u in all_ext if own_host not in u]
+
+
 def validate_rules(draft: str) -> list[str]:
     issues = []
     if "\u2014" in draft or "\u2013" in draft:
@@ -548,6 +563,17 @@ def validate_rules(draft: str) -> list[str]:
         issues.append("AI-angle: tldr introuvable ou vide")
     if first_fact and not has_ai_signal(first_fact[:400]):
         issues.append("AI-angle: premier paragraphe '## Le fait' sans mention IA dans les 400 premiers chars")
+
+    # Maillage : sources frontmatter + liens externes inline = autorite + transparence.
+    source_urls = _extract_sources_urls(fm)
+    if len(source_urls) < 2:
+        issues.append(f"Sources frontmatter < 2 ({len(source_urls)}) : min 2 URLs distinctes requises")
+    source_domains = {re.sub(r"^https?://(www\.)?", "", u).split("/")[0] for u in source_urls}
+    if len(source_urls) >= 2 and len(source_domains) < 2:
+        issues.append(f"Sources frontmatter sur un seul domaine ({source_domains}), diversifier les outlets")
+    ext_links = _extract_external_links_body(body)
+    if len(ext_links) < 2:
+        issues.append(f"Liens externes inline dans le corps < 2 ({len(ext_links)}) : lier les chiffres/citations a leur source")
     return issues
 
 

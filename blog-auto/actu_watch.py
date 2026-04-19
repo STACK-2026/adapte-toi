@@ -500,12 +500,25 @@ def title_hash(title: str) -> str:
 
 
 def submit_indexnow(urls: list[str]) -> None:
-    """Ping IndexNow (Bing, Yandex, Ecosia) pour les nouveaux decryptages."""
+    """Ping IndexNow (Bing, Yandex, Ecosia) pour les nouveaux decryptages.
+    Inclus aussi les pages hub (/actu, /actu/semaine), le sitemap et la home
+    pour maximiser la re-crawl rate apres un push. C'est de l'info, on veut
+    etre visible le plus tot possible.
+    """
     key = os.getenv("INDEXNOW_KEY", "")
     site_url = os.getenv("SITE_URL", "https://adapte-toi.com").rstrip("/")
     if not key or not urls:
         return
     host = site_url.replace("https://", "").replace("http://", "").rstrip("/")
+    # Elargir : URLs articles + pages hub qui listent les news + sitemap + home
+    extra = [
+        f"{site_url}/",
+        f"{site_url}/actu",
+        f"{site_url}/actu/semaine",
+        f"{site_url}/sitemap.xml",
+        f"{site_url}/rss.xml",
+    ]
+    full_list = list(dict.fromkeys(urls + extra))  # dedup, preserve order
     try:
         r = requests.post(
             "https://api.indexnow.org/indexnow",
@@ -513,14 +526,23 @@ def submit_indexnow(urls: list[str]) -> None:
                 "host": host,
                 "key": key,
                 "keyLocation": f"{site_url}/{key}.txt",
-                "urlList": urls,
+                "urlList": full_list,
             },
             headers={"Content-Type": "application/json"},
             timeout=15,
         )
-        log.info(f"IndexNow: {r.status_code} ({len(urls)} URLs)")
+        log.info(f"IndexNow: {r.status_code} ({len(full_list)} URLs : {len(urls)} articles + {len(extra)} hubs)")
     except Exception as e:
         log.warning(f"IndexNow failed: {e}")
+    # Ping Bing sitemap direct (en plus de IndexNow) pour forcer la re-lecture.
+    try:
+        rb = requests.get(
+            f"https://www.bing.com/ping?sitemap={site_url}/sitemap.xml",
+            timeout=10,
+        )
+        log.info(f"Bing sitemap ping: {rb.status_code}")
+    except Exception as e:
+        log.warning(f"Bing sitemap ping failed: {e}")
 
 
 def main():
