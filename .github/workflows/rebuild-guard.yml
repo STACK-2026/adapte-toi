@@ -29,3 +29,9 @@ jobs:
           git add site/public/.rebuild-marker
           git diff --cached --quiet || git commit -m "rebuild: daily guard $(date -u +%Y-%m-%d)"
           git push origin main
+
+      - name: Alert on failure
+        if: failure()
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+        run: python blog-auto/alert_cron_failure.py "${{ github.workflow }}" "${{ github.run_id }}"

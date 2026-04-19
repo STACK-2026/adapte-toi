@@ -58,3 +58,9 @@ jobs:
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           workingDirectory: site
           command: pages deploy dist --project-name=adapte-toi-site --branch=main --commit-dirty=true
+
+      - name: Alert on failure
+        if: failure()
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+        run: python blog-auto/alert_cron_failure.py "${{ github.workflow }}" "${{ github.run_id }}"

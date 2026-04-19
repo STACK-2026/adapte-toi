@@ -102,22 +102,20 @@ RSS_FEEDS = [
     ("Maddyness", "https://www.maddyness.com/feed/"),
     ("Usbek & Rica", "https://usbeketrica.com/fr/rss"),
     ("Frandroid", "https://www.frandroid.com/feed"),
-    ("Next INpact", "https://www.nextinpact.com/rss/news.xml"),
+    ("Next.ink", "https://next.ink/feed/"),
     ("01net", "https://www.01net.com/rss/actualites/"),
     ("Numerama", "https://www.numerama.com/feed/"),
     ("Welcome to the Jungle", "https://www.welcometothejungle.com/fr/articles.rss"),
     ("Courrier Cadres", "https://courriercadres.com/feed/"),
-    ("Journal du Net IA", "https://www.journaldunet.com/solutions/intelligence-artificielle/rss/"),
     ("Siècle Digital", "https://siecledigital.fr/feed/"),
     # =============== FR institutions (etudes / chiffres autorite) ===============
-    ("France Travail Statistiques", "https://www.francetravail.org/statistiques-analyses.rss"),
+    # Les flux RSS officiels des institutions FR sont souvent morts ou bloques
+    # par WAF anti-bot (INSEE 500, Apec 404, JDN 403). On utilise Google News
+    # comme passerelle fiable sur ces sources.
     ("Dares Publications", "https://dares.travail-emploi.gouv.fr/publications/rss.xml"),
-    ("INSEE Actualités", "https://www.insee.fr/fr/information/rss/actualites.xml"),
     ("France Stratégie", "https://www.strategie.gouv.fr/rss.xml"),
-    ("Apec Études", "https://corporate.apec.fr/home/nos-etudes.rss"),
     ("CNIL Actualités", "https://www.cnil.fr/fr/rss.xml"),
     # =============== Francophonie (Belgique, Suisse, Canada) ===============
-    ("RTBF Tech", "https://www.rtbf.be/info/economie/flux-rss?section=economie&type=article"),
     ("Le Temps CH", "https://www.letemps.ch/feed"),
     ("Radio-Canada Techno", "https://ici.radio-canada.ca/rss/4159"),
     ("La Presse CA Techno", "https://www.lapresse.ca/affaires/techno/rss"),
@@ -125,9 +123,7 @@ RSS_FEEDS = [
     ("Financial Times Tech", "https://www.ft.com/technology?format=rss"),
     ("BBC Technology", "http://feeds.bbci.co.uk/news/technology/rss.xml"),
     ("Guardian AI", "https://www.theguardian.com/technology/artificialintelligenceai/rss"),
-    ("Reuters Tech", "https://www.reutersagency.com/feed/?best-topics=tech&post_type=best"),
     ("Bloomberg Tech", "https://feeds.bloomberg.com/technology/news.rss"),
-    ("Wired AI", "https://www.wired.com/feed/tag/artificial-intelligence/latest/rss"),
     ("The Verge AI", "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"),
     ("MIT Tech Review AI", "https://www.technologyreview.com/topic/artificial-intelligence/feed"),
     ("Ars Technica AI", "https://arstechnica.com/tag/artificial-intelligence/feed/"),
@@ -136,17 +132,10 @@ RSS_FEEDS = [
     ("El País Tech", "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada"),
     ("Il Sole 24 Ore Tech", "https://www.ilsole24ore.com/rss/tecnologia.xml"),
     # =============== Acteurs IA (annonces officielles) ===============
-    ("Anthropic News", "https://www.anthropic.com/news/rss.xml"),
-    ("OpenAI Blog", "https://openai.com/blog/rss.xml"),
+    # Anthropic/Mistral n'ont plus de flux RSS (HTML only). On passe via Google News.
+    ("OpenAI Blog", "https://openai.com/news/rss.xml"),
     ("Google DeepMind", "https://deepmind.google/blog/rss.xml"),
-    ("Mistral News", "https://mistral.ai/news/rss.xml"),
     ("HuggingFace Blog", "https://huggingface.co/blog/feed.xml"),
-    # =============== Think tanks / institutions IA internationales ===============
-    ("Stanford HAI News", "https://hai.stanford.edu/news/rss.xml"),
-    ("OECD AI News", "https://oecd.ai/en/rss"),
-    ("Brookings AI", "https://www.brookings.edu/topic/artificial-intelligence/feed/"),
-    ("ILO News", "https://www.ilo.org/global/about-the-ilo/newsroom/news/lang--en/rssfeeds.xml"),
-    ("World Economic Forum AI", "https://www.weforum.org/stories/topics/artificial-intelligence/feed/"),
     # =============== Reddit (signaux faibles + debats temps reel) ===============
     ("Reddit r/artificial", "https://www.reddit.com/r/artificial/.rss"),
     ("Reddit r/ChatGPT", "https://www.reddit.com/r/ChatGPT/.rss"),
@@ -156,15 +145,14 @@ RSS_FEEDS = [
     ("Reddit r/MachineLearning", "https://www.reddit.com/r/MachineLearning/.rss"),
     ("Reddit r/France IA", "https://www.reddit.com/r/france/search.rss?q=IA+OR+ChatGPT&restrict_sr=on&sort=new"),
     # =============== Hacker News (tech community signal) ===============
+    # hnrss.org est souvent en 502 (instable). On les garde avec tolerance.
     ("HN AI front", "https://hnrss.org/newest?q=AI+OR+LLM+OR+ChatGPT+OR+Anthropic&points=50"),
     ("HN OpenAI", "https://hnrss.org/newest?q=OpenAI+OR+Altman&points=30"),
-    # =============== X / Twitter via Nitter RSS (instance publique) ===============
-    # Plusieurs instances testees, on garde 2 backups. Si KO, tolere silencieux.
+    # =============== X / Twitter via Nitter RSS ===============
     ("Nitter AnthropicAI", "https://nitter.net/AnthropicAI/rss"),
     ("Nitter OpenAI", "https://nitter.net/OpenAI/rss"),
     ("Nitter MistralAI", "https://nitter.net/MistralAI/rss"),
     ("Nitter Sam Altman", "https://nitter.net/sama/rss"),
-    ("Nitter GDP (backup)", "https://nitter.privacydev.net/gdb/rss"),
     # =============== Google News real-time (FR + multi-pays) ===============
     ("GN OpenAI FR", "https://news.google.com/rss/search?q=OpenAI+OR+Altman&hl=fr&gl=FR&ceid=FR:fr"),
     ("GN Anthropic FR", "https://news.google.com/rss/search?q=Anthropic+OR+Claude+AI&hl=fr&gl=FR&ceid=FR:fr"),
@@ -181,6 +169,23 @@ RSS_FEEDS = [
     ("GN AI jobs report UK", "https://news.google.com/rss/search?q=%22AI%22+%22jobs%22+OR+%22automation%22&hl=en&gl=GB&ceid=GB:en"),
     ("GN KI Arbeitsmarkt DE", "https://news.google.com/rss/search?q=%22KI%22+Arbeitsmarkt+OR+Automatisierung&hl=de&gl=DE&ceid=DE:de"),
     ("GN IA empleo ES", "https://news.google.com/rss/search?q=%22inteligencia+artificial%22+empleo+OR+despidos&hl=es&gl=ES&ceid=ES:es"),
+    # =============== GN passerelles pour sources sans RSS direct ===============
+    # Ces acteurs/medias n'ont plus de flux RSS accessibles (Anthropic, Mistral,
+    # WEF, Reuters, Wired, Stanford HAI, Brookings, INSEE, Apec, RTBF, JDN, ILO).
+    # On les capture via Google News en ciblant site:. Gain : volume editorial
+    # plus riche sans dependre des WAF anti-bot.
+    ("GN site:anthropic FR", "https://news.google.com/rss/search?q=Anthropic+site:anthropic.com&hl=fr&gl=FR&ceid=FR:fr"),
+    ("GN site:mistral.ai FR", "https://news.google.com/rss/search?q=site:mistral.ai&hl=fr&gl=FR&ceid=FR:fr"),
+    ("GN site:weforum AI", "https://news.google.com/rss/search?q=site:weforum.org+AI+OR+jobs&hl=en&gl=US&ceid=US:en"),
+    ("GN site:reuters.com AI", "https://news.google.com/rss/search?q=site:reuters.com+%22AI%22+OR+%22artificial+intelligence%22&hl=en&gl=US&ceid=US:en"),
+    ("GN site:wired.com AI", "https://news.google.com/rss/search?q=site:wired.com+%22AI%22&hl=en&gl=US&ceid=US:en"),
+    ("GN Stanford HAI", "https://news.google.com/rss/search?q=%22Stanford+HAI%22+OR+%22Stanford+AI%22&hl=en&gl=US&ceid=US:en"),
+    ("GN Brookings AI", "https://news.google.com/rss/search?q=site:brookings.edu+AI+OR+automation&hl=en&gl=US&ceid=US:en"),
+    ("GN INSEE IA emploi", "https://news.google.com/rss/search?q=INSEE+%22intelligence+artificielle%22+emploi&hl=fr&gl=FR&ceid=FR:fr"),
+    ("GN Apec IA", "https://news.google.com/rss/search?q=Apec+%22intelligence+artificielle%22+OR+IA&hl=fr&gl=FR&ceid=FR:fr"),
+    ("GN RTBF IA BE", "https://news.google.com/rss/search?q=site:rtbf.be+%22intelligence+artificielle%22&hl=fr&gl=BE&ceid=BE:fr"),
+    ("GN JDN IA", "https://news.google.com/rss/search?q=site:journaldunet.com+IA+OR+%22intelligence+artificielle%22&hl=fr&gl=FR&ceid=FR:fr"),
+    ("GN ILO AI jobs", "https://news.google.com/rss/search?q=%22ILO%22+OR+%22International+Labour%22+AI+jobs&hl=en&gl=US&ceid=US:en"),
 ]
 
 CATEGORY_ENUM = ["menace", "etude", "annonce", "politique", "outil", "voix", "chiffre"]
