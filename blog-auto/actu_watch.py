@@ -545,6 +545,23 @@ def submit_indexnow(urls: list[str]) -> None:
     except Exception as e:
         log.warning(f"Bing sitemap ping failed: {e}")
 
+    # Bing URL Submission API (10k URLs/jour, plus puissant que IndexNow seul).
+    # Pousse les URLs articles uniquement (les hubs sont deja dans IndexNow + sitemap).
+    bing_key = os.getenv("BING_URL_SUBMISSION_KEY", "")
+    if bing_key and urls:
+        try:
+            rbu = requests.post(
+                f"https://ssl.bing.com/webmaster/api.svc/json/SubmitUrlBatch?apikey={bing_key}",
+                json={"siteUrl": site_url, "urlList": urls},
+                headers={"Content-Type": "application/json; charset=utf-8"},
+                timeout=15,
+            )
+            log.info(f"Bing URL Submission API: {rbu.status_code} ({len(urls)} URLs)")
+            if rbu.status_code >= 400:
+                log.warning(f"  Body: {rbu.text[:300]}")
+        except Exception as e:
+            log.warning(f"Bing URL Submission API failed: {e}")
+
 
 def main():
     ap = argparse.ArgumentParser()
