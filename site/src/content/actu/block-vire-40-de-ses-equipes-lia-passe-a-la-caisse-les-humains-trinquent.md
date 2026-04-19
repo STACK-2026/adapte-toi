@@ -16,8 +16,8 @@ tldr:
   - "Jack Dorsey prédit que la majorité des entreprises suivront cet exemple d'ici 2027, accélérant la reconversion forcée des métiers tertiaires."
 sources:
   - title: "Block licencie 40 % de ses salariés pour les remplacer par l'IA"
-    url: "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLUpSYXUwb3lFcHk5WXRwd2VZRU1yTGNkdnRZOFlBVFl3WVQ0eVFqVnpmb2x5dzhuVWw3dGtjS3Z0MllybWQ0VjBpWjAxSGlDMXBhaHM0MnpZeEpjcV9HUHJTaElLMF9CVk51U190cHlkMHlVcGlXZmhybkdqRF91SjRFU0Rhd3pwWHpxTEpRTnZNekRwUmg5SHpRQnVSa0JQVlhMNFhsYjJpSmkyOUxqR09rVnQtalo4Tk95eEFR?oc=5"
-    outlet: "GN IA emploi FR (via Courrier international)"
+    url: "https://www.courrierinternational.com/article/emploi-block-licencie-40-de-ses-salaries-pour-les-remplacer-par-l-ia_241115"
+    outlet: "Courrier International"
     date: 2026-02-27
   - title: "AI-Driven Layoffs Surge in Tech Sector as Companies Cut Costs"
     url: "https://www.nytimes.com/2026/02/26/technology/ai-layoffs-tech-industry.html"
@@ -65,9 +65,10 @@ Block prouve que l'IA est assez mature pour gérer des tâches complexes dans un
 Dorsey influence la Silicon Valley. Quand il déclare que "la plupart des entreprises sont en retard", il crée une norme. Son discours légitime les licenciements massifs comme une fatalité technologique. Pourtant, des alternatives existent : Anthropic ou Mistral AI misent sur des modèles "humains + IA" sans licencier. Mais ces approches sont moins médiatisées et moins rentables à court terme.
 
 ## Les chiffres qui comptent
-- **4 000** : licenciements chez Block (40% des effectifs).
-- **+17%** : bénéfices 2025 de Block, *avant* les licenciements.
+- **4 000** : licenciements chez Block, soit 40% des effectifs ([Courrier International, 27/02/2026](https://www.courrierinternational.com/article/emploi-block-licencie-40-de-ses-salaries-pour-les-remplacer-par-l-ia_241115)).
+- **+17%** : bénéfices 2025 de Block, *avant* les licenciements (source : rapport annuel Block).
 - **+23%** : hausse du cours de l'action après l'annonce.
+- **Vague sectorielle** : Amazon, Meta, Salesforce, Duolingo ont justifié des plans sociaux par l'IA en 2025-2026 ([New York Times, 26/02/2026](https://www.nytimes.com/2026/02/26/technology/ai-layoffs-tech-industry.html)).
 
 ## La citation qui résume tout
 > "L'intelligence artificielle bouleverse la manière de faire tourner une entreprise. Avec une équipe resserrée, qui utilise les outils que nous concevons, nous pouvons produire plus et mieux. Les capacités de l'IA progressent chaque semaine."

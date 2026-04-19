@@ -16,7 +16,7 @@ tldr:
   - "La France teste des solutions : plan 'Osez l'IA' pour former 15M de pros d'ici 2030, mais les entreprises peinent à réorganiser leurs processus."
 sources:
   - title: "Jusqu'à 5 millions d'emplois concernés : l'IA avance à pas feutrés en France"
-    url: "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTVrdDVjYkMwY1VUZ0h4cU85bllPc3MxZ3pFTGFvTDFnU2p0cUNJVjE5Q1VuOWdXMHdWd21HaEhKa2dYck1QR0w4UEtMSTZwZVlNWGdRVlVUYm1iaDRYUDJvb3o2cmlZTWJteGs1eFN0dlhWb1V6QmFWWUhfLXN6c1ZDTUJiWmdtc2NaRU1Na3dCRjN2bmJNQm5WU2hkbzhWT1BlaG5fa00wZHlCRXgwc3Jkbw?oc=5"
+    url: "https://www.journaldugeek.com/2026/03/22/jusqua-5-millions-demplois-concernes-lia-avance-a-pas-feutres-en-france/"
     outlet: "Journal du Geek"
     date: 2026-03-22
   - title: "L'impact de l'IA sur l'emploi en France : une étude Coface et de l'Observatoire des emplois menacés et émergents"
@@ -72,12 +72,12 @@ Former **15 millions de personnes d'ici 2030** est ambitieux, mais les **modalit
 ---
 
 ## Les chiffres qui comptent
-- **16,3%** : Part des emplois français "concernés" par l'IA d'ici 2-5 ans (5 millions de personnes) ([Coface/OEM, 2026](https://www.lemonde.fr/economie/article/2026/03/20/l-ia-menace-16-des-emplois-en-france-d-ici-cinq-ans_6350214_3234.html)).
-- **3,8%** : Emplois **déjà fragilisés** aujourd'hui ([Coface/OEM, 2026](https://www.lemonde.fr/economie/article/2026/03/20/l-ia-menace-16-des-emplois-en-france-d-ici-cinq-ans_6350214_3234.html)).
+- **16,3%** : Part des emplois français "concernés" par l'IA d'ici 2-5 ans (5 millions de personnes) ([étude Coface / Observatoire des emplois menacés, mars 2026](https://www.lemonde.fr/economie/article/2026/03/20/l-ia-menace-16-des-emplois-en-france-d-ici-cinq-ans_6350214_3234.html)).
+- **3,8%** : Emplois **déjà fragilisés** aujourd'hui (Coface/OEM, 2026).
 - **30%** : Part des tâches automatisables dans **un métier sur huit** (Axelle Arquié, OEM).
-- **26,9%** : Taux d'exposition des emplois en **architecture/ingénierie** ([Coface/OEM, 2026](https://www.lemonde.fr/economie/article/2026/03/20/l-ia-menace-16-des-emplois-en-france-d-ici-cinq-ans_6350214_3234.html)).
-- **22,1%** : Part des **10% les mieux rémunérés** potentiellement touchés ([Coface/OEM, 2026](https://www.lemonde.fr/economie/article/2026/03/20/l-ia-menace-16-des-emplois-en-france-d-ici-cinq-ans_6350214_3234.html)).
-- **7%** : Salariés utilisant l'IA **quotidiennement** ([PwC](https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTVrdDVjYkMwY1VUZ0h4cU85bllPc3MxZ3pFTGFvTDFnU2p0cUNJVjE5Q1VuOWdXMHdWd21HaEhKa2dYck1QR0w4UEtMSTZwZVlNWGdRVlVUYm1iaDRYUDJvb3o2cmlZTWJteGs1eFN0dlhWb1V6QmFWWUhfLXN6c1ZDTUJiWmdtc2NaRU1Na3dCRjN2bmJNQm5WU2hkbzhWT1BlaG5fa00wZHlCRXgwc3Jkbw?oc=5)).
+- **26,9%** : Taux d'exposition des emplois en **architecture/ingénierie** (Coface/OEM, 2026).
+- **22,1%** : Part des **10% les mieux rémunérés** potentiellement touchés (Coface/OEM, 2026).
+- **7%** : Salariés français utilisant l'IA **quotidiennement** (baromètre PwC 2025, [cité par Journal du Geek](https://www.journaldugeek.com/2026/03/22/jusqua-5-millions-demplois-concernes-lia-avance-a-pas-feutres-en-france/)).
 - **15 millions** : Professionnels à former d'ici 2030 via le plan **"Osez l'IA"** (gouvernement français, 2026).
 
 ---

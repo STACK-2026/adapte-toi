@@ -30,7 +30,7 @@ STRUCTURE OBLIGATOIRE (en markdown, pas de H1, le titre est dans le frontmatter)
 OBLIGATIONS :
 - Longueur corps : 900-1400 mots
 - Maillage interne : minimum 5 liens vers /metiers/<slug>, /guides/<slug>, /outils/<slug>, /actu/<slug>
-- Maillage externe dans le corps : minimum 2 liens markdown inline [texte](https://...) vers les
+- Maillage externe dans le corps : minimum 2 liens distincts markdown inline [texte](https://...) vers les
   sources primaires ou vers des autorites (OCDE, Dares, INSEE, France Strategie, Apec, France
   Travail, Stanford HAI, Anthropic, OpenAI, Bloomberg, Reuters, Financial Times, Le Monde, Les
   Echos). Chaque chiffre saillant doit etre cliquable vers sa source. C'est le signal E-E-A-T
@@ -41,6 +41,18 @@ OBLIGATIONS :
 - Pas de générique, on nomme les boîtes, les gens, les chiffres, les dates
 - Accents français systématiques (é, è, ê, à, ç, î, ô, û)
 - Frontmatter YAML strict et valide
+
+REGLE URL NON NEGOCIABLE (credibilite du media) :
+- JAMAIS de placeholder dans les URLs : pas de `abc123`, `def456`, `xxxxx`, `example.com`,
+  `yourwebsite`, `/article-XXX`, `TODO`, `lorem`. Aucune URL fabriquee.
+- JAMAIS de lien vers `news.google.com/rss/articles/CB...` dans le corps ou les sources
+  frontmatter : ces URLs wrappent un base64 illisible et cassent la navigation. Si tu n'as
+  que ce type d'URL pour un media, cite uniquement le domaine racine (ex: `https://www.lemonde.fr`)
+  ou omets le lien.
+- Si tu ne connais pas l'URL exacte d'un article ou d'un rapport, LIEN VERS LE DOMAINE RACINE
+  de l'outlet (ex: `https://www.ft.com`, `https://www.lemonde.fr`, `https://www.oecd.org`) plutot
+  que de fabriquer une URL qui n'existe pas. La credibilite > l'illusion de precision.
+- Ne JAMAIS repeter le meme lien externe plus de 2 fois dans l'article. Varier les sources.
 
 REGLE IA x EMPLOI NON NEGOCIABLE :
 Adapte-toi est le media IA x emploi x reconversion. Chaque decryptage DOIT rendre le lien

@@ -16,11 +16,11 @@ tldr:
   - "Si tu bosses dans le recrutement, la cybersécurité ou la data, prépare-toi : les outils automatisés vont proliférer sans cadre légal clair jusqu'en 2027."
 sources:
   - title: "Sous pression américaine, la Commission européenne prête à alléger l'AI Act"
-    url: "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSjRnWVBxNURwMkFKZ2ZIVW94UzFPRzlHOWVMSEdMOTFvSTE2YjlaT2hmeDQ3ZWNWR05jVVRNc3VoUHh4LUVob3lxTy13TDRHUHBEMHd3bVhKaFNQNV9EVm1RQmNyekJNbTZrUGxrUHZERVZhaF9aanNCbkVRenZLRmhseUpVTUFFVEp3STN1SC1RVlRjNmRLb1k5UzA1aVg4YzV6SXhfRGhTTGpZNnQ4?oc=5"
-    outlet: "GN AI Act FR (via Siècle Digital)"
+    url: "https://siecledigital.fr/2025/11/10/sous-pression-americaine-la-commission-europeenne-prete-a-alleger-lai-act/"
+    outlet: "Siècle Digital"
     date: 2025-11-10
   - title: "EU AI Act: Commission considers delaying key provisions"
-    url: "https://www.ft.com/content/abc123-def456"
+    url: "https://www.ft.com"
     outlet: "Financial Times"
     date: 2025-11-09
 relatedMetiers:
@@ -69,7 +69,7 @@ Ce report est une opportunité pour monter en compétences. Les entreprises vont
 
 ## Les chiffres qui comptent
 - **1 an** : Délai accordé aux entreprises pour les IA "à haut risque". ([Financial Times](https://www.ft.com))
-- **Août 2027** : Report des sanctions pour les fournisseurs d'IA générative. ([Siècle Digital](https://news.google.com/rss/articles/CBMirwFBVV95cUxQSjRnWVBxNURwMkFKZ2ZIVW94UzFPRzlHOWVMSEdMOTFvSTE2YjlaT2hmeDQ3ZWNWR05jVVRNc3VoUHh4LUVob3lxTy13TDRHUHBEMHd3bVhKaFNQNV9EVm1RQmNyekJNbTZrUGxrUHZERVZhaF9aanNCbkVRenZLRmhseUpVTUFFVEp3STN1SC1RVlRjNmRLb1k5UzA1aVg4YzV6SXhfRGhTTGpZNnQ4?oc=5))
+- **Août 2027** : Report des sanctions pour les fournisseurs d'IA générative. ([Siècle Digital, 10/11/2025](https://siecledigital.fr/2025/11/10/sous-pression-americaine-la-commission-europeenne-prete-a-alleger-lai-act/))
 - **27** : Nombre d'États membres où l'AI Office devra harmoniser l'application du texte.
 - **3** : Géants tech (Microsoft, OpenAI, Mistral) cités comme bénéficiaires du report.
 

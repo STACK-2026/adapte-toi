@@ -588,9 +588,36 @@ def validate_rules(draft: str) -> list[str]:
     source_domains = {re.sub(r"^https?://(www\.)?", "", u).split("/")[0] for u in source_urls}
     if len(source_urls) >= 2 and len(source_domains) < 2:
         issues.append(f"Sources frontmatter sur un seul domaine ({source_domains}), diversifier les outlets")
+
+    # Anti-hallucination URL : LLM fabrique parfois des URLs avec placeholders
+    # (abc123, def456, xxxxx) ou laisse traîner des URLs Google News encoded
+    # non-décodées. Les deux cassent la crédibilité du média.
+    all_urls = source_urls + _extract_external_links_body(body)
+    placeholder_patterns = [
+        r"abc\d+", r"def\d+", r"xxxxx+", r"example\.(com|org|net)",
+        r"placeholder", r"yourwebsite", r"TODO", r"lorem",
+        r"/article-\d+/?$", r"/page-\d+/?$", r"/xxx",
+    ]
+    bad_placeholder = [u for u in all_urls if any(re.search(p, u, re.IGNORECASE) for p in placeholder_patterns)]
+    if bad_placeholder:
+        issues.append(f"URL-hallucination: placeholders detectes {bad_placeholder[:3]}")
+
+    gn_encoded = [u for u in all_urls if "news.google.com/rss/articles/CB" in u]
+    if gn_encoded:
+        issues.append(f"URL-hallucination: {len(gn_encoded)} URL(s) Google News encoded non-decodees (pipeline devrait resoudre via googlenewsdecoder)")
+
+    # Dedup : meme URL repetee plus de 2 fois = duplication abusive (article 1 cas: Le Monde x4).
     ext_links = _extract_external_links_body(body)
-    if len(ext_links) < 2:
-        issues.append(f"Liens externes inline dans le corps < 2 ({len(ext_links)}) : lier les chiffres/citations a leur source")
+    from collections import Counter
+    ext_counts = Counter(ext_links)
+    duplicates = [(u, c) for u, c in ext_counts.items() if c > 2]
+    if duplicates:
+        issues.append(f"Liens externes dupliques (>2 fois) : {duplicates}")
+
+    # Hard floor : au moins 2 liens externes distincts
+    distinct_ext = len(set(ext_links))
+    if distinct_ext < 2:
+        issues.append(f"Liens externes inline dans le corps < 2 distincts ({distinct_ext}) : lier les chiffres/citations a leur source")
     return issues
 
 
@@ -651,11 +678,14 @@ def build_pipeline(item: dict, relevance: dict, strict: bool = False) -> tuple[s
     log.info("Validation règles")
     issues = validate_rules(draft)
     stats["rule_issues"] = issues
-    # AI-angle issues = hard fail meme hors strict mode (positionnement du media).
-    ai_issues = [i for i in issues if i.startswith("AI-angle:")]
-    if ai_issues:
-        log.warning(f"  AI-angle hard fail: {ai_issues} -> abort")
-        stats["abort"] = f"ai-angle: {ai_issues}"
+    # Hard fails meme hors strict mode (credibilite du media) :
+    # - AI-angle : positionnement IA x emploi obligatoire
+    # - URL-hallucination : placeholders ou Google News encoded = pas de publication
+    hard_prefixes = ("AI-angle:", "URL-hallucination:")
+    hard_issues = [i for i in issues if i.startswith(hard_prefixes)]
+    if hard_issues:
+        log.warning(f"  HARD FAIL: {hard_issues} -> abort")
+        stats["abort"] = f"hard-fail: {hard_issues}"
         return None, stats
     if issues:
         log.warning(f"  {len(issues)} issues: {issues}")
