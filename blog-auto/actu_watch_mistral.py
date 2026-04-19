@@ -470,8 +470,57 @@ Retourne le MDX trimé complet. Pas de ```markdown. Pas de commentaire."""
 # STEP F: DETERMINISTIC POST-PROCESS
 # -----------------------------------------------------------------------------
 
+_GN_URL_RE = re.compile(r"https://news\.google\.com/rss/articles/CB[^\s\"')\]]+")
+_PLACEHOLDER_URL_RE = re.compile(
+    r"https?://[^\s\"')\]]*(?:abc\d+|def\d+|xxxxx+|example\.(?:com|org|net)|"
+    r"placeholder|yourwebsite|TODO|lorem)[^\s\"')\]]*",
+    re.IGNORECASE,
+)
+
+
+def _autofix_gn_urls(text: str) -> tuple[str, int]:
+    """Remplace chaque URL Google News encoded par son URL reelle via gnewsdecoder.
+    Retourne (text_fix, nb_remplacements). Les URLs non decodables sont laissees
+    et seront flagguees par validate_rules."""
+    count = 0
+    try:
+        from googlenewsdecoder import gnewsdecoder
+    except ImportError:
+        return text, 0
+    seen: dict[str, str] = {}
+    for url in set(_GN_URL_RE.findall(text)):
+        if url in seen:
+            continue
+        try:
+            r = gnewsdecoder(url, interval=1)
+            if r and r.get("status") and r.get("decoded_url"):
+                seen[url] = r["decoded_url"]
+        except Exception:
+            pass
+    for gn_url, real_url in seen.items():
+        text = text.replace(gn_url, real_url)
+        count += 1
+    return text, count
+
+
+def _autofix_placeholder_urls(text: str) -> tuple[str, int]:
+    """Supprime les markdown links [txt](fake-url) quand l'URL est un placeholder.
+    Garde le texte du lien : [txt](fake) -> txt. Retourne (text_fix, nb)."""
+    count = 0
+    # Markdown: [label](URL_placeholder) -> label
+    def _strip(m):
+        nonlocal count
+        count += 1
+        return m.group(1)
+    text = re.sub(r"\[([^\]]+)\]\(" + _PLACEHOLDER_URL_RE.pattern + r"\)", _strip, text)
+    # Frontmatter YAML: url: "fake" -> url: ""
+    text = _PLACEHOLDER_URL_RE.sub("", text)
+    return text, count
+
+
 def post_process(draft: str) -> tuple[str, dict]:
-    stats = {"em_dashes": 0, "en_dashes": 0, "typo_apos": 0}
+    stats = {"em_dashes": 0, "en_dashes": 0, "typo_apos": 0,
+             "gn_urls_decoded": 0, "placeholder_urls_stripped": 0}
     stats["em_dashes"] = draft.count("\u2014")
     stats["en_dashes"] = draft.count("\u2013")
     stats["typo_apos"] = draft.count("\u2019")
@@ -481,6 +530,12 @@ def post_process(draft: str) -> tuple[str, dict]:
     draft = re.sub(r",\s*,", ",", draft)
     # Normalize typographic apostrophe to straight (repo convention)
     draft = draft.replace("\u2019", "'")
+
+    # Auto-fix URL hallucinations : Google News encoded -> decoded, placeholders -> stripped.
+    # Meilleur qu'un hard-fail : on garde l'article et on corrige plutot que rejeter.
+    draft, stats["gn_urls_decoded"] = _autofix_gn_urls(draft)
+    draft, stats["placeholder_urls_stripped"] = _autofix_placeholder_urls(draft)
+
     return draft, stats
 
 
@@ -669,11 +724,15 @@ def build_pipeline(item: dict, relevance: dict, strict: bool = False) -> tuple[s
     log.info("Trim si trop long")
     draft = trim_if_too_long(draft)
 
-    log.info("Post-process déterministe (tirets, apos)")
+    log.info("Post-process déterministe (tirets, apos, URL autofix)")
     draft, pp_stats = post_process(draft)
     stats.update({"killed_dashes_em": pp_stats["em_dashes"],
                   "killed_dashes_en": pp_stats["en_dashes"],
-                  "normalized_apos": pp_stats["typo_apos"]})
+                  "normalized_apos": pp_stats["typo_apos"],
+                  "gn_urls_decoded": pp_stats["gn_urls_decoded"],
+                  "placeholder_urls_stripped": pp_stats["placeholder_urls_stripped"]})
+    if pp_stats["gn_urls_decoded"] or pp_stats["placeholder_urls_stripped"]:
+        log.info(f"  Auto-fix URL: {pp_stats['gn_urls_decoded']} GN decoded, {pp_stats['placeholder_urls_stripped']} placeholders stripped")
 
     log.info("Validation règles")
     issues = validate_rules(draft)
