@@ -212,10 +212,27 @@ def claude_call_audit(system: str, user: str, max_tokens: int = 2500, retries=3)
 # ARTICLE BODY FETCH
 # -----------------------------------------------------------------------------
 
+def _resolve_google_news_url(url: str) -> str:
+    """Google News RSS wraps the real article URL in base64 protobuf. Decode via
+    googlenewsdecoder pour obtenir l'URL outlet reelle avant de fetcher le body."""
+    if "news.google.com/rss/articles/" not in url:
+        return url
+    try:
+        from googlenewsdecoder import gnewsdecoder
+        r = gnewsdecoder(url, interval=1)
+        if r and r.get("status") and r.get("decoded_url"):
+            log.info(f"  GN decoded: {r['decoded_url'][:80]}")
+            return r["decoded_url"]
+    except Exception as e:
+        log.warning(f"  GN decode failed: {e}")
+    return url
+
+
 def fetch_article_body(url: str, max_chars: int = 12000) -> tuple[str | None, str | None]:
     """Return (body, error). None body if fetch failed or content too thin."""
+    resolved = _resolve_google_news_url(url)
     try:
-        r = requests.get(url, headers={
+        r = requests.get(resolved, headers={
             "User-Agent": UA_BROWSER,
             "Accept": "text/html,application/xhtml+xml",
             "Accept-Language": "fr-FR,fr;q=0.9,en;q=0.8",
