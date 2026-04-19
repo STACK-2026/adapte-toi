@@ -52,36 +52,135 @@ ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")
 CLAUDE_HAIKU = "claude-haiku-4-5-20251001"
 CLAUDE_SONNET = "claude-sonnet-4-6"
 CLAUDE_TIMEOUT = 240
-RELEVANCE_THRESHOLD = 7
+RELEVANCE_THRESHOLD = 6
 
-# Sources RSS. Liste robuste, tolère les 404 ponctuels.
+# Hard filter: si ni le titre ni le summary ne contient un de ces signaux,
+# la news n'a pas d'angle IA explicite et doit etre rejetee (cap score a 5).
+AI_KEYWORDS = [
+    r"\bIA\b", r"\bAI\b", r"intelligence[s]?\s+artificielle", r"artificial\s+intelligence",
+    r"\bLLM\b", r"\bLLMs\b", r"large\s+language\s+model",
+    r"machine\s+learning", r"deep\s+learning", r"apprentissage\s+automatique",
+    r"r[ée]seau[x]?\s+de\s+neurone", r"neural\s+network", r"algorithm",
+    r"g[ée]n[ée]rative", r"generative\s+AI",
+    r"automatisation", r"automation", r"automatis[ée][es]?",
+    r"\brobot[s]?\b", r"robotisation",
+    r"\bChatGPT\b", r"\bGPT[- ]?\d?\b", r"\bOpenAI\b", r"Sam\s+Altman",
+    r"\bClaude\b", r"\bAnthropic\b", r"\bMistral\b",
+    r"\bGemini\b", r"\bBard\b", r"\bDeepSeek\b", r"\bLlama\b",
+    r"\bCopilot\b", r"\bCursor\b", r"\bPerplexity\b", r"\bMidjourney\b",
+    r"\bElevenLabs\b", r"Notion\s+AI", r"\bJasper\b", r"\bSynthesia\b",
+    r"\bAI\s+Act\b", r"r[ée]glement\s+IA", r"r[ée]gulation\s+IA", r"loi\s+IA",
+    r"licenciement[s]?\s+(dus?\s+a\s+l')?IA",
+    r"reconversion[s]?\s+IA",
+    r"m[ée]tiers?\s+(menac[ée]|remplac[ée])\s+par\s+l['’]?IA",
+    r"comp[ée]tences?\s+IA", r"AI\s+skills",
+    r"prompt\s+engineering",
+    r"AI\s+Overviews", r"Stanford\s+HAI", r"OECD\s+AI",
+    r"Anthropic\s+Economic\s+Index", r"AI\s+Economy",
+]
+_AI_RE = re.compile("|".join(AI_KEYWORDS), re.IGNORECASE)
+
+
+def has_ai_signal(*texts: str) -> bool:
+    for t in texts:
+        if t and _AI_RE.search(t):
+            return True
+    return False
+
+
+# Sources RSS. Strategie : FR/francophonie en priorite, puis international pour
+# comparer (UK, US, DE, ES). Reddit + HackerNews + Google News pour capter
+# l'actu bouillante 24h/24. Tolere les 404 ponctuels.
 RSS_FEEDS = [
-    # FR généralistes / éco / tech
+    # =============== FR generalistes / eco / tech ===============
     ("Les Échos Tech", "https://services.lesechos.fr/rss/les-echos-tech-medias.xml"),
     ("Le Monde Éco", "https://www.lemonde.fr/economie/rss_full.xml"),
     ("Le Figaro Éco", "https://www.lefigaro.fr/rss/figaro_economie.xml"),
     ("France Info Éco", "https://www.francetvinfo.fr/economie.rss"),
+    ("La Tribune Tech", "https://www.latribune.fr/rss/rubriques/technos-medias.html"),
+    ("BFM Tech", "https://www.bfmtv.com/rss/tech/"),
     ("Maddyness", "https://www.maddyness.com/feed/"),
     ("Usbek & Rica", "https://usbeketrica.com/fr/rss"),
     ("Frandroid", "https://www.frandroid.com/feed"),
     ("Next INpact", "https://www.nextinpact.com/rss/news.xml"),
+    ("01net", "https://www.01net.com/rss/actualites/"),
+    ("Numerama", "https://www.numerama.com/feed/"),
     ("Welcome to the Jungle", "https://www.welcometothejungle.com/fr/articles.rss"),
     ("Courrier Cadres", "https://courriercadres.com/feed/"),
-    # FR institutions (publications études / chiffres)
+    ("Journal du Net IA", "https://www.journaldunet.com/solutions/intelligence-artificielle/rss/"),
+    ("Siècle Digital", "https://siecledigital.fr/feed/"),
+    # =============== FR institutions (etudes / chiffres autorite) ===============
     ("France Travail Statistiques", "https://www.francetravail.org/statistiques-analyses.rss"),
-    # International cadre
+    ("Dares Publications", "https://dares.travail-emploi.gouv.fr/publications/rss.xml"),
+    ("INSEE Actualités", "https://www.insee.fr/fr/information/rss/actualites.xml"),
+    ("France Stratégie", "https://www.strategie.gouv.fr/rss.xml"),
+    ("Apec Études", "https://corporate.apec.fr/home/nos-etudes.rss"),
+    ("CNIL Actualités", "https://www.cnil.fr/fr/rss.xml"),
+    # =============== Francophonie (Belgique, Suisse, Canada) ===============
+    ("RTBF Tech", "https://www.rtbf.be/info/economie/flux-rss?section=economie&type=article"),
+    ("Le Temps CH", "https://www.letemps.ch/feed"),
+    ("Radio-Canada Techno", "https://ici.radio-canada.ca/rss/4159"),
+    ("La Presse CA Techno", "https://www.lapresse.ca/affaires/techno/rss"),
+    # =============== International cadre (UK, US, DE, ES, IT) ===============
     ("Financial Times Tech", "https://www.ft.com/technology?format=rss"),
+    ("BBC Technology", "http://feeds.bbci.co.uk/news/technology/rss.xml"),
+    ("Guardian AI", "https://www.theguardian.com/technology/artificialintelligenceai/rss"),
     ("Reuters Tech", "https://www.reutersagency.com/feed/?best-topics=tech&post_type=best"),
+    ("Bloomberg Tech", "https://feeds.bloomberg.com/technology/news.rss"),
+    ("Wired AI", "https://www.wired.com/feed/tag/artificial-intelligence/latest/rss"),
+    ("The Verge AI", "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"),
     ("MIT Tech Review AI", "https://www.technologyreview.com/topic/artificial-intelligence/feed"),
+    ("Ars Technica AI", "https://arstechnica.com/tag/artificial-intelligence/feed/"),
+    ("TechCrunch AI", "https://techcrunch.com/category/artificial-intelligence/feed/"),
+    ("Heise DE", "https://www.heise.de/rss/heise-atom.xml"),
+    ("El País Tech", "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada"),
+    ("Il Sole 24 Ore Tech", "https://www.ilsole24ore.com/rss/tecnologia.xml"),
+    # =============== Acteurs IA (annonces officielles) ===============
     ("Anthropic News", "https://www.anthropic.com/news/rss.xml"),
-    # Google News RSS searches (real-time, targets hot topics)
-    ("Google News, OpenAI FR", "https://news.google.com/rss/search?q=OpenAI+OR+Altman&hl=fr&gl=FR&ceid=FR:fr"),
-    ("Google News, Anthropic FR", "https://news.google.com/rss/search?q=Anthropic+OR+Claude+AI&hl=fr&gl=FR&ceid=FR:fr"),
-    ("Google News, IA emploi FR", "https://news.google.com/rss/search?q=%22intelligence+artificielle%22+emploi+OR+licenciement&hl=fr&gl=FR&ceid=FR:fr"),
-    ("Google News, reconversion IA", "https://news.google.com/rss/search?q=reconversion+IA+OR+%22intelligence+artificielle%22+formation&hl=fr&gl=FR&ceid=FR:fr"),
-    ("Google News, automation travail", "https://news.google.com/rss/search?q=%22automation+travail%22+OR+%22IA+remplace%22+OR+%22metiers+menaces%22&hl=fr&gl=FR&ceid=FR:fr"),
-    ("Google News, Mistral FR", "https://news.google.com/rss/search?q=Mistral+AI+France&hl=fr&gl=FR&ceid=FR:fr"),
-    ("Google News, chatgpt entreprise", "https://news.google.com/rss/search?q=ChatGPT+entreprise+OR+productivite&hl=fr&gl=FR&ceid=FR:fr"),
+    ("OpenAI Blog", "https://openai.com/blog/rss.xml"),
+    ("Google DeepMind", "https://deepmind.google/blog/rss.xml"),
+    ("Mistral News", "https://mistral.ai/news/rss.xml"),
+    ("HuggingFace Blog", "https://huggingface.co/blog/feed.xml"),
+    # =============== Think tanks / institutions IA internationales ===============
+    ("Stanford HAI News", "https://hai.stanford.edu/news/rss.xml"),
+    ("OECD AI News", "https://oecd.ai/en/rss"),
+    ("Brookings AI", "https://www.brookings.edu/topic/artificial-intelligence/feed/"),
+    ("ILO News", "https://www.ilo.org/global/about-the-ilo/newsroom/news/lang--en/rssfeeds.xml"),
+    ("World Economic Forum AI", "https://www.weforum.org/stories/topics/artificial-intelligence/feed/"),
+    # =============== Reddit (signaux faibles + debats temps reel) ===============
+    ("Reddit r/artificial", "https://www.reddit.com/r/artificial/.rss"),
+    ("Reddit r/ChatGPT", "https://www.reddit.com/r/ChatGPT/.rss"),
+    ("Reddit r/OpenAI", "https://www.reddit.com/r/OpenAI/.rss"),
+    ("Reddit r/singularity", "https://www.reddit.com/r/singularity/.rss"),
+    ("Reddit r/LocalLLaMA", "https://www.reddit.com/r/LocalLLaMA/.rss"),
+    ("Reddit r/MachineLearning", "https://www.reddit.com/r/MachineLearning/.rss"),
+    ("Reddit r/France IA", "https://www.reddit.com/r/france/search.rss?q=IA+OR+ChatGPT&restrict_sr=on&sort=new"),
+    # =============== Hacker News (tech community signal) ===============
+    ("HN AI front", "https://hnrss.org/newest?q=AI+OR+LLM+OR+ChatGPT+OR+Anthropic&points=50"),
+    ("HN OpenAI", "https://hnrss.org/newest?q=OpenAI+OR+Altman&points=30"),
+    # =============== X / Twitter via Nitter RSS (instance publique) ===============
+    # Plusieurs instances testees, on garde 2 backups. Si KO, tolere silencieux.
+    ("Nitter AnthropicAI", "https://nitter.net/AnthropicAI/rss"),
+    ("Nitter OpenAI", "https://nitter.net/OpenAI/rss"),
+    ("Nitter MistralAI", "https://nitter.net/MistralAI/rss"),
+    ("Nitter Sam Altman", "https://nitter.net/sama/rss"),
+    ("Nitter GDP (backup)", "https://nitter.privacydev.net/gdb/rss"),
+    # =============== Google News real-time (FR + multi-pays) ===============
+    ("GN OpenAI FR", "https://news.google.com/rss/search?q=OpenAI+OR+Altman&hl=fr&gl=FR&ceid=FR:fr"),
+    ("GN Anthropic FR", "https://news.google.com/rss/search?q=Anthropic+OR+Claude+AI&hl=fr&gl=FR&ceid=FR:fr"),
+    ("GN IA emploi FR", "https://news.google.com/rss/search?q=%22intelligence+artificielle%22+emploi+OR+licenciement&hl=fr&gl=FR&ceid=FR:fr"),
+    ("GN reconversion IA FR", "https://news.google.com/rss/search?q=reconversion+IA+OR+%22intelligence+artificielle%22+formation&hl=fr&gl=FR&ceid=FR:fr"),
+    ("GN automation travail FR", "https://news.google.com/rss/search?q=%22automation+travail%22+OR+%22IA+remplace%22+OR+%22metiers+menaces%22&hl=fr&gl=FR&ceid=FR:fr"),
+    ("GN Mistral FR", "https://news.google.com/rss/search?q=Mistral+AI+France&hl=fr&gl=FR&ceid=FR:fr"),
+    ("GN ChatGPT entreprise FR", "https://news.google.com/rss/search?q=ChatGPT+entreprise+OR+productivite&hl=fr&gl=FR&ceid=FR:fr"),
+    ("GN AI Act FR", "https://news.google.com/rss/search?q=%22AI+Act%22+OR+%22reglementation+IA%22&hl=fr&gl=FR&ceid=FR:fr"),
+    ("GN competences IA FR", "https://news.google.com/rss/search?q=%22competences+IA%22+OR+%22AI+skills%22+formation&hl=fr&gl=FR&ceid=FR:fr"),
+    ("GN Dares IA FR", "https://news.google.com/rss/search?q=DARES+OR+%22France+Strategie%22+IA&hl=fr&gl=FR&ceid=FR:fr"),
+    # Comparaisons internationales (anglais pour capter autorites etrangeres)
+    ("GN AI layoffs US", "https://news.google.com/rss/search?q=%22AI+layoffs%22+OR+%22AI+job+cuts%22&hl=en&gl=US&ceid=US:en"),
+    ("GN AI jobs report UK", "https://news.google.com/rss/search?q=%22AI%22+%22jobs%22+OR+%22automation%22&hl=en&gl=GB&ceid=GB:en"),
+    ("GN KI Arbeitsmarkt DE", "https://news.google.com/rss/search?q=%22KI%22+Arbeitsmarkt+OR+Automatisierung&hl=de&gl=DE&ceid=DE:de"),
+    ("GN IA empleo ES", "https://news.google.com/rss/search?q=%22inteligencia+artificial%22+empleo+OR+despidos&hl=es&gl=ES&ceid=ES:es"),
 ]
 
 CATEGORY_ENUM = ["menace", "etude", "annonce", "politique", "outil", "voix", "chiffre"]

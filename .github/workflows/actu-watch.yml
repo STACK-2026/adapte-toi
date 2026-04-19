@@ -2,9 +2,15 @@ name: Actu Décrypte - Daily
 
 on:
   schedule:
-    # Tous les jours, lun-sam à 4h37 UTC (6h37 Paris CEST) + sleep random 0-5400s
-    # => publication aléatoire 6h37-8h07 du matin. Dimanche géré par le workflow actu-recap.
+    # 3 creneaux lun-sam pour atteindre ~3 decryptages/jour :
+    # - 04h37 UTC (06h37 Paris CEST) + sleep 0-90min -> matin 06h37-08h07
+    # - 10h37 UTC (12h37 Paris CEST) + sleep 0-90min -> midi 12h37-14h07
+    # - 16h37 UTC (18h37 Paris CEST) + sleep 0-90min -> soir 18h37-20h07
+    # Chaque run genere 1 article max (garde le flux editorial regulier).
+    # Dimanche gere par le workflow actu-recap (recap hebdo).
     - cron: '37 4 * * 1-6'
+    - cron: '37 10 * * 1-6'
+    - cron: '37 16 * * 1-6'
   workflow_dispatch:
     inputs:
       dry_run:

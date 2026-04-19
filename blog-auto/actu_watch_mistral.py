@@ -49,6 +49,7 @@ load_dotenv()
 sys.path.insert(0, str(Path(__file__).parent))
 from actu_watch import (  # noqa: E402
     ACTU_DIR,
+    AI_KEYWORDS,
     CATEGORY_ENUM,
     PROMPT_FILE,
     REPO_DIR,
@@ -57,6 +58,7 @@ from actu_watch import (  # noqa: E402
     extract_slug_from_mdx,
     fetch_rss,
     git_commit_and_push,
+    has_ai_signal,
     load_decrypte_prompt,
     load_state,
     save_state,
@@ -86,7 +88,11 @@ CLAUDE_SONNET = "claude-sonnet-4-6"
 API_TIMEOUT = 180
 MIN_BODY_CHARS = 1500
 MIN_TOTAL_SOURCES_CHARS = 5000
-RELEVANCE_THRESHOLD = 7
+RELEVANCE_THRESHOLD = 6
+# Score maximum autorise si aucun signal IA explicite dans titre+summary.
+# Volontairement sous le threshold pour exclure les news "emploi / formation /
+# reconversion" qui ne font pas le lien IA (ex: farfadets France Travail 18/04).
+NO_AI_SIGNAL_CAP = 5
 
 UA_BROWSER = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
@@ -243,31 +249,58 @@ def fetch_article_body(url: str, max_chars: int = 12000) -> tuple[str | None, st
 # STEP A: SCORING via Mistral-small
 # -----------------------------------------------------------------------------
 
-SCORE_SYSTEM = """Tu es rédacteur en chef du média Adapte-toi (FR), spécialisé IA x emploi x reconversion.
-Tu juges si une news mérite un décryptage pour nos lecteurs.
+SCORE_SYSTEM = """Tu es redacteur en chef du media Adapte-toi (FR), specialise IA x emploi x reconversion.
+Tu juges si une news merite un decryptage pour nos lecteurs.
 
-PERTINENT (7-10) : études chiffrées IA/emploi, licenciements/embauches dus à l'IA, politiques publiques (France Travail, CPF, AI Act), prises de position fortes, sorties de modèles majeurs, livres/tribunes impactants, statistiques OCDE/INSEE/Ipsos, reconversions documentées.
-MOYEN (4-6) : news IA tech sans angle emploi, annonce produit sans impact marché.
-NON PERTINENT (0-3) : crypto, gaming, politique générale, sport, people.
+REGLE NON NEGOCIABLE : l'angle IA doit etre EXPLICITE dans la news (mention directe de
+IA/AI/ChatGPT/algorithme/automatisation ou acteur IA comme OpenAI/Anthropic/Mistral).
+Une news sur l'emploi, la formation, la reconversion ou France Travail SANS lien IA
+explicite n'est PAS pertinente pour ce media. Score <= 5 dans ce cas, meme si le sujet
+est interessant en soi. On couvre IA x travail, pas travail en general.
 
-Réponds UNIQUEMENT en JSON : {"score": X, "category": "menace|etude|annonce|politique|outil|voix|chiffre", "why": "une phrase"}"""
+PERTINENT (7-10, angle IA explicite obligatoire) :
+- Etudes chiffrees IA/emploi (OCDE, Dares, INSEE, Apec, France Strategie, Stanford HAI, Anthropic Economic Index)
+- Licenciements/embauches explicitement lies a l'IA (Klarna, IBM, Duolingo type)
+- Politiques publiques nommant l'IA (AI Act, plans France IA, CPF IA, France Travail IA)
+- Sorties de modeles majeurs (GPT, Claude, Gemini, Mistral, DeepSeek) avec impact marche
+- Prises de position fortes sur IA x travail (Babinet, Villani, Altman, Hassabis...)
+- Statistiques chiffrees sur automatisation / metiers menaces
+- Comparaisons internationales IA x emploi (US/UK/DE vs FR)
+
+MOYEN (4-6) : news IA tech pure sans angle emploi, annonce produit sans impact marche,
+scandale formation sans lien IA, politique sociale sans lien IA.
+
+NON PERTINENT (0-3) : crypto, gaming, politique generale, sport, people, tech non-IA.
+
+Reponds UNIQUEMENT en JSON : {"score": X, "category": "menace|etude|annonce|politique|outil|voix|chiffre", "why": "une phrase", "ai_angle": "phrase qui cite le signal IA dans la source, ou \\"absent\\" si pas explicite"}"""
 
 
 def score_item(item: dict) -> dict | None:
+    # Pre-filtre deterministe : pas de signal IA dans title+summary -> cap a 5.
+    # Evite de depenser un call Mistral inutile et bloque les faux positifs
+    # type "farfadets France Travail" sans lien IA.
+    ai_signal = has_ai_signal(item.get("title", ""), item.get("summary", ""))
     user = (f"Titre : {item['title']}\nSource : {item['outlet']}\n"
             f"Extrait : {item['summary'][:500]}\n\nScore cette news pour Adapte-toi.")
     try:
         content, _ = mistral_call(
             [{"role": "system", "content": SCORE_SYSTEM},
              {"role": "user", "content": user}],
-            model=MISTRAL_SMALL, max_tokens=200, json_mode=True,
+            model=MISTRAL_SMALL, max_tokens=250, json_mode=True,
         )
         data = json.loads(content)
         score = int(data.get("score", 0))
         cat = data.get("category", "annonce")
         if cat not in CATEGORY_ENUM:
             cat = "annonce"
-        return {"score": score, "category": cat, "why": data.get("why", "")}
+        ai_angle = data.get("ai_angle", "")
+        # Enforce: pas de signal IA titre+summary ET Mistral ne cite pas d'angle IA -> cap.
+        if not ai_signal and (not ai_angle or ai_angle.lower().strip() in ("absent", "aucun", "none", "")):
+            if score > NO_AI_SIGNAL_CAP:
+                log.info(f"  AI-filter: cap {score}->{NO_AI_SIGNAL_CAP} pour '{item['title'][:60]}...' (pas de signal IA)")
+            score = min(score, NO_AI_SIGNAL_CAP)
+        return {"score": score, "category": cat, "why": data.get("why", ""),
+                "ai_angle": ai_angle, "ai_signal_detected": ai_signal}
     except Exception as e:
         log.warning(f"Score KO pour {item.get('url')}: {e}")
         return None
@@ -438,6 +471,36 @@ def post_process(draft: str) -> tuple[str, dict]:
 # STEP G: RULE VALIDATION (deterministic)
 # -----------------------------------------------------------------------------
 
+def _extract_frontmatter_block(draft: str) -> str:
+    """Retourne le bloc entre les deux premiers '---'. Vide si absent."""
+    m = re.search(r"^---\s*\n(.*?)\n---", draft, re.DOTALL)
+    return m.group(1) if m else ""
+
+
+def _extract_tldr_bullets(frontmatter: str) -> list[str]:
+    """Parse les bullets sous 'tldr:' du YAML (sans dep yaml stricte)."""
+    m = re.search(r"^tldr:\s*\n((?:\s*-\s+.*\n?)+)", frontmatter, re.MULTILINE)
+    if not m:
+        return []
+    bullets = []
+    for line in m.group(1).splitlines():
+        line = line.strip()
+        if line.startswith("- "):
+            bullets.append(line[2:].strip().strip('"\''))
+    return bullets
+
+
+def _extract_description(frontmatter: str) -> str:
+    m = re.search(r'^description:\s*["\'](.+?)["\']\s*$', frontmatter, re.MULTILINE)
+    return m.group(1) if m else ""
+
+
+def _extract_first_fact_paragraph(draft: str) -> str:
+    """Premier paragraphe non vide sous '## Le fait'."""
+    m = re.search(r"^## Le fait\s*\n+(.+?)(?:\n\s*\n|$)", draft, re.MULTILINE | re.DOTALL)
+    return m.group(1).strip() if m else ""
+
+
 def validate_rules(draft: str) -> list[str]:
     issues = []
     if "\u2014" in draft or "\u2013" in draft:
@@ -471,6 +534,20 @@ def validate_rules(draft: str) -> list[str]:
         issues.append("Signature 'Léa Moreau' absente")
     if "sources:" not in draft:
         issues.append("Frontmatter sans champ `sources:`")
+
+    # Angle IA obligatoire : description + au moins 1 bullet tldr + 1er paragraphe du fait.
+    fm = _extract_frontmatter_block(draft)
+    desc = _extract_description(fm)
+    bullets = _extract_tldr_bullets(fm)
+    first_fact = _extract_first_fact_paragraph(body)
+    if not has_ai_signal(desc):
+        issues.append("AI-angle: description sans mention IA explicite")
+    if bullets and not any(has_ai_signal(b) for b in bullets):
+        issues.append(f"AI-angle: aucun bullet tldr ne mentionne IA ({len(bullets)} bullets)")
+    elif not bullets:
+        issues.append("AI-angle: tldr introuvable ou vide")
+    if first_fact and not has_ai_signal(first_fact[:400]):
+        issues.append("AI-angle: premier paragraphe '## Le fait' sans mention IA dans les 400 premiers chars")
     return issues
 
 
@@ -531,6 +608,12 @@ def build_pipeline(item: dict, relevance: dict, strict: bool = False) -> tuple[s
     log.info("Validation règles")
     issues = validate_rules(draft)
     stats["rule_issues"] = issues
+    # AI-angle issues = hard fail meme hors strict mode (positionnement du media).
+    ai_issues = [i for i in issues if i.startswith("AI-angle:")]
+    if ai_issues:
+        log.warning(f"  AI-angle hard fail: {ai_issues} -> abort")
+        stats["abort"] = f"ai-angle: {ai_issues}"
+        return None, stats
     if issues:
         log.warning(f"  {len(issues)} issues: {issues}")
         if strict:
