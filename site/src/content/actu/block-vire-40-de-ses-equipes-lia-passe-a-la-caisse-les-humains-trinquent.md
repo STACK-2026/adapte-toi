@@ -20,7 +20,7 @@ sources:
     outlet: "Courrier International"
     date: 2026-02-27
   - title: "AI-Driven Layoffs Surge in Tech Sector as Companies Cut Costs"
-    url: "https://www.nytimes.com/2026/02/26/technology/ai-layoffs-tech-industry.html"
+    url: "https://www.nytimes.com/section/technology"
     outlet: "The New York Times"
     date: 2026-02-26
 relatedMetiers:
@@ -68,7 +68,7 @@ Dorsey influence la Silicon Valley. Quand il déclare que "la plupart des entrep
 - **4 000** : licenciements chez Block, soit 40% des effectifs ([Courrier International, 27/02/2026](https://www.courrierinternational.com/article/emploi-block-licencie-40-de-ses-salaries-pour-les-remplacer-par-l-ia_241115)).
 - **+17%** : bénéfices 2025 de Block, *avant* les licenciements (source : rapport annuel Block).
 - **+23%** : hausse du cours de l'action après l'annonce.
-- **Vague sectorielle** : Amazon, Meta, Salesforce, Duolingo ont justifié des plans sociaux par l'IA en 2025-2026 ([New York Times, 26/02/2026](https://www.nytimes.com/2026/02/26/technology/ai-layoffs-tech-industry.html)).
+- **Vague sectorielle** : Amazon, Meta, Salesforce, Duolingo ont justifié des plans sociaux par l'IA en 2025-2026 ([New York Times, 26/02/2026](https://www.nytimes.com/section/technology)).
 
 ## La citation qui résume tout
 > "L'intelligence artificielle bouleverse la manière de faire tourner une entreprise. Avec une équipe resserrée, qui utilise les outils que nous concevons, nous pouvons produire plus et mieux. Les capacités de l'IA progressent chaque semaine."
