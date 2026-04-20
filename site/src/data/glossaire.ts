@@ -367,7 +367,7 @@ export const glossaire: Record<string, GlossaireEntry> = {
     definition: "Besoins en Main-d'Œuvre : enquête annuelle de France Travail auprès de 2+ millions d'employeurs. Cartographie des intentions de recrutement par métier et territoire.",
     example: "Le BMO 2025 indique 2,77 M de projets de recrutement en France, 57 % jugés difficiles à pourvoir.",
     internalLink: { href: "/actu/france-travail-bmo-2025-cognizant-metiers-tension", label: "Décryptage BMO 2025" },
-    externalSource: { url: "https://www.francetravail.org/statistiques-analyses/enquetes/bmo.html", label: "BMO France Travail" },
+    externalSource: { url: "https://statistiques.francetravail.org/bmo/", label: "BMO France Travail" },
     category: "emploi",
   },
 
