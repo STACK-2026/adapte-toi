@@ -20,7 +20,7 @@ sources:
     outlet: "Next.ink"
     date: 2026-04-15
   - title: "AI Index 2026"
-    url: "https://hai.stanford.edu/ai-index-2026"
+    url: "https://hai.stanford.edu/ai-index"
     outlet: "Institute for Human-Centered Artificial Intelligence, Stanford University"
     date: 2026-04-15
 relatedMetiers:
@@ -45,7 +45,7 @@ draft: false
 ---
 
 ## Le fait
-L'[AI Index 2026](https://hai.stanford.edu/ai-index-2026) de Stanford confirme l'accélération de l'IA. 53% de la population mondiale l'utilise, un rythme supérieur à l'adoption d'internet. Aux États-Unis, la valeur pour les consommateurs atteint 172 milliards de dollars (+54% en un an). Mais cette croissance a un coût : Grok 4 a émis 72 816 tonnes de CO₂, et GPT-4o pourrait consommer autant d'eau que 12 millions de personnes annuellement.
+L'[AI Index 2026](https://hai.stanford.edu/ai-index) de Stanford confirme l'accélération de l'IA. 53% de la population mondiale l'utilise, un rythme supérieur à l'adoption d'internet. Aux États-Unis, la valeur pour les consommateurs atteint 172 milliards de dollars (+54% en un an). Mais cette croissance a un coût : Grok 4 a émis 72 816 tonnes de CO₂, et GPT-4o pourrait consommer autant d'eau que 12 millions de personnes annuellement.
 
 Les performances progressent (Gemini Deep Think médaille d'or aux Olympiades de maths), mais les modèles échouent sur des tâches simples comme donner l'heure. La Chine domine la robotique industrielle (54% des robots mondiaux), tandis que les robots ménagers ratent 88% des tâches quotidiennes.
 
