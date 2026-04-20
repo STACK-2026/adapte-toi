@@ -24,7 +24,7 @@ sources:
     outlet: "Le Monde"
     date: 2025-10-02
   - title: "L'IA devient un déclencheur de reconversion pour les actifs de 35-55 ans"
-    url: "https://www.welcometothejungle.com"
+    url: "https://www.welcometothejungle.com/fr"
     outlet: "Welcome to the Jungle"
     date: 2025-11-18
 relatedMetiers:
