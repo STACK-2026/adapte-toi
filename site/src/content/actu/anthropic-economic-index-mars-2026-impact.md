@@ -16,7 +16,7 @@ tldr:
   - "Anthropic publie ce rapport volontairement, ce qui est une première. OpenAI et Google ne publient aucune donnée équivalente sur l'impact de leurs modèles."
 sources:
   - title: "Anthropic Economic Index"
-    url: "https://www.anthropic.com/news/economic-index"
+    url: "https://www.anthropic.com/economic-index"
     outlet: "Anthropic"
     date: 2026-03-27
   - title: "Anthropic publie le premier rapport d'impact emploi d'un LLM"
