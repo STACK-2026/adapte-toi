@@ -15,11 +15,11 @@ tldr:
   - "Les métiers en sur-offre et à forte exposition IA (marketing junior, compta basique, traduction, support client) sont là où la précarité va s'installer."
 sources:
   - title: "Enquête Besoins en Main-d'Œuvre 2025"
-    url: "https://www.francetravail.org/statistiques-analyses/enquetes/bmo.html"
+    url: "https://statistiques.francetravail.org/bmo/"
     outlet: "France Travail"
     date: 2025-04-10
   - title: "Cognizant : New Work, New World 2026"
-    url: "https://www.cognizant.com/us/en/insights/insights-blog/new-work-new-world"
+    url: "https://www.cognizant.com/us/en/insights"
     outlet: "Cognizant"
     date: 2026-02-20
   - title: "Les métiers en tension résistent à l'IA, le paradoxe français"
@@ -88,7 +88,7 @@ Le mot important est *migration*. Le marché du travail français n'est pas en t
 - Tech, data, ingénierie, recherche : côté tension, faiblement exposé IA mais avec forte reconfiguration interne. Stratégie : maintenir le niveau technique en permanence, ne pas se laisser distancer.
 - Métiers de la relation complexe et du jugement (coach, thérapeute, avocat expert, manager senior, commercial grand compte) : exposition faible, marché stable. Stratégie : capitaliser sur l'irremplaçable, documenter ta valeur.
 
-**Tu es en reconversion.** Ne te reconverti pas vers un métier en sur-offre, même s'il a l'air attractif sur les réseaux. Regarde le [BMO France Travail par région](https://www.francetravail.org/statistiques-analyses/enquetes/bmo.html) avant de choisir. Et lis notre [guide reconversion IA complet](/guides/reconversion-ia-guide-complet) pour les pièges les plus fréquents.
+**Tu es en reconversion.** Ne te reconverti pas vers un métier en sur-offre, même s'il a l'air attractif sur les réseaux. Regarde le [BMO France Travail par région](https://statistiques.francetravail.org/bmo/) avant de choisir. Et lis notre [guide reconversion IA complet](/guides/reconversion-ia-guide-complet) pour les pièges les plus fréquents.
 
 **Tu es manager ou entrepreneur.** La vague 2025-2030 va créer un écart énorme entre les boîtes qui captent les talents rares (côté tension) et celles qui ne les trouvent pas. Ton vrai actif stratégique, ce n'est plus ton produit, c'est ta capacité à recruter dans un marché qui se tend. Investis en onboarding, en formation interne, en marque employeur bien avant que la guerre des talents t'y force.
 
