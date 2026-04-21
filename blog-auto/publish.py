@@ -381,7 +381,11 @@ def write_article_file(slug: str, frontmatter: str, content: str) -> Path:
 # ============================================
 
 def git_push(slug: str) -> bool:
-    """Git add, commit and push the new article."""
+    """Git add, commit and push with pull-rebase retry loop.
+
+    Guards against 'rejected non-fast-forward' when other commits land
+    on main during the LLM generation window (10-15 min).
+    """
     try:
         subprocess.run(
             ["git", "add", f"site/src/content/blog/{slug}.md"],
@@ -391,15 +395,36 @@ def git_push(slug: str) -> bool:
             ["git", "commit", "-m", f"blog: {slug} [{now_paris().strftime('%Y-%m-%d %H:%M')}]"],
             cwd=REPO_DIR, check=True, capture_output=True,
         )
-        subprocess.run(
-            ["git", "push", "origin", "main"],
-            cwd=REPO_DIR, check=True, capture_output=True,
-        )
-        log.info(f"Git push OK — {slug}")
-        return True
     except subprocess.CalledProcessError as e:
-        log.error(f"Git error: {e.stderr.decode() if e.stderr else e}")
+        log.error(f"Git commit error: {e.stderr.decode() if e.stderr else e}")
         return False
+
+    for attempt in range(1, 4):
+        try:
+            subprocess.run(
+                ["git", "push", "origin", "main"],
+                cwd=REPO_DIR, check=True, capture_output=True,
+            )
+            log.info(f"Git push OK - {slug} (attempt {attempt})")
+            return True
+        except subprocess.CalledProcessError as e:
+            err = e.stderr.decode() if e.stderr else str(e)
+            if "non-fast-forward" in err or "rejected" in err or "fetch first" in err:
+                log.warning(f"Push rejected attempt {attempt}, pull --rebase and retry")
+                try:
+                    subprocess.run(
+                        ["git", "pull", "--rebase", "origin", "main"],
+                        cwd=REPO_DIR, check=True, capture_output=True,
+                    )
+                except subprocess.CalledProcessError as e2:
+                    log.error(f"Pull --rebase failed: {e2.stderr.decode() if e2.stderr else e2}")
+                    return False
+                continue
+            log.error(f"Git push error: {err}")
+            return False
+    log.error(f"Git push failed after 3 retries - {slug}")
+    return False
+
 
 
 def git_push_articles_json() -> None:
@@ -612,10 +637,12 @@ def main():
         return
 
     # Git push
-    if git_push(slug):
+    pushed = git_push(slug)
+    if pushed:
         log.info("Deploiement Cloudflare Pages en cours (~30s)")
     else:
-        log.error("Git push echoue — article cree localement mais non deploye")
+        log.error("Git push echoue apres retries - article non deploye, skip published=True")
+        sys.exit(1)
 
     # Update articles.json
     article["published"] = True
