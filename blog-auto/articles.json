@@ -588,7 +588,7 @@
     "index": 8,
     "published": false,
     "published_at": null,
-    "slug": null,
+    "slug": "rapport-mckinsey-2026-impact-ia-emploi-francais",
     "scheduled_date": "2026-04-23",
     "scheduled_time": "07:59",
     "scheduled_datetime": "2026-04-23T07:59:00",
@@ -598,162 +598,168 @@
     "author": "Theo Marchand",
     "serp_brief": {
       "keyword": "étude McKinsey IA emploi",
-      "generated_at": "2026-04-18T23:51:11",
+      "generated_at": "2026-04-22T20:20:59",
       "model": "gemini-2.5-pro",
       "brief": {
         "top10": [
           {
             "rank": 1,
             "domain": "mckinsey.com",
-            "title": "A new future of work: The race to deploy AI and raise skills in Europe and beyond",
-            "main_angle": "Analyse macro-économique de l'impact de l'IA sur le marché du travail en Europe et aux USA, axée sur l'automatisation des tâches et la nécessité de reconversion.",
-            "strength": "Source primaire (McKinsey Global Institute), données chiffrées détaillées, crédibilité maximale.",
-            "weakness": "Contenu en anglais, très dense, peu accessible pour un public non-expert et pas spécifiquement centré sur la France."
+            "title": "Generative AI and the future of work in America | McKinsey",
+            "main_angle": "Analyse de l'impact de l'IA générative sur le marché du travail américain, mettant en évidence les emplois en demande et ceux à risque.",
+            "strength": "Source primaire (McKinsey), analyse détaillée avec des données chiffrées, crédibilité élevée.",
+            "weakness": "Focalisé sur les États-Unis, nécessite une transposition au marché français/européen. Le contenu est en anglais."
           },
           {
             "rank": 2,
-            "domain": "helloworkplace.fr",
-            "title": "Ce que l'IA va changer sur les besoins en compétences d'ici 2030",
-            "main_angle": "Synthèse de l'étude McKinsey/Institut de l'Entreprise, focalisée sur l'évolution des compétences et le nombre de mobilités professionnelles à prévoir en France.",
-            "strength": "Article clair, bien structuré, qui traduit les chiffres de l'étude en conséquences concrètes pour les salariés français.",
-            "weakness": "Survole le sujet sans proposer de solutions ou de pistes d'action concrètes pour l'individu."
+            "domain": "mckinsey.com",
+            "title": "The economic potential of generative AI | McKinsey",
+            "main_angle": "Estimation du potentiel économique de l'IA générative en termes de productivité et de valeur ajoutée pour l'économie mondiale.",
+            "strength": "Source primaire, données macroéconomiques solides, vision globale de l'impact de l'IA.",
+            "weakness": "Angle très économique et moins centré sur les implications concrètes pour les métiers et les compétences. Contenu en anglais."
           },
           {
             "rank": 3,
-            "domain": "zdnet.fr",
-            "title": "Carrière : l'IA n'est pas un frein si vous possédez des compétences en particulier, selon une étude de McKinsey",
-            "main_angle": "Angle rassurant qui met en avant les compétences qui seront valorisées (data scientists, ingénieurs) et relativise l'impact à court terme sur les effectifs.",
-            "strength": "Titre accrocheur qui répond à une inquiétude, article court et facile à lire.",
-            "weakness": "Manque de profondeur, se base sur une enquête de 2023 et ne donne pas une vision complète des métiers impactés."
+            "domain": "helloworkplace.fr",
+            "title": "Ce que l'IA va changer sur les besoins en compétences d'ici 2030",
+            "main_angle": "Synthèse d'une étude de l'Institut de l'entreprise et McKinsey sur l'évolution des compétences en France à l'horizon 2030 due à l'IA.",
+            "strength": "Article en français qui synthétise et contextualise une étude McKinsey pour le marché français. Clair et accessible.",
+            "weakness": "Contenu basé sur une source secondaire, moins de profondeur que le rapport original. L'angle est principalement sur les compétences, moins sur la reconversion."
           },
           {
             "rank": 4,
-            "domain": "rhmatin.com",
-            "title": "Le travail avec l'IA en France : 27 % des tâches concernées d'ici 2030",
-            "main_angle": "Article d'actualité court qui relaie le chiffre clé de l'étude McKinsey/Institut de l'Entreprise sur le pourcentage de tâches automatisables en France.",
-            "strength": "Va droit au but, chiffre marquant facile à retenir et à partager.",
-            "weakness": "Très court, manque de contexte et d'analyse sur les implications de ce chiffre."
+            "domain": "mckinsey.com",
+            "title": "Future of Work | McKinsey & Company",
+            "main_angle": "Collection d'articles et de rapports de McKinsey sur l'avenir du travail, incluant l'impact de l'IA et de l'automatisation.",
+            "strength": "Hub de contenu de la source primaire, richesse et diversité des ressources.",
+            "weakness": "Page de collection, pas un article unique et ciblé. Navigation nécessaire pour trouver l'information spécifique. Contenu majoritairement en anglais."
           },
           {
             "rank": 5,
-            "domain": "talenco.fr",
-            "title": "IA générative : l'évolution des compétences, un impératif",
-            "main_angle": "Analyse de l'étude McKinsey sous l'angle des RH et du management, en insistant sur le rôle des managers pour accompagner la transition.",
-            "strength": "Propose des leviers d'action concrets pour les entreprises et les managers.",
-            "weakness": "S'adresse moins à l'individu (salarié, freelance) qu'aux décideurs en entreprise."
+            "domain": "consultor.fr",
+            "title": "Chez McKinsey, l'IA s'invite aux entretiens de recrutement",
+            "main_angle": "Article sur l'utilisation par McKinsey de sa propre IA (Lilli) dans ses processus de recrutement pour évaluer les compétences des candidats.",
+            "strength": "Angle original et concret qui montre l'application de l'IA en interne chez McKinsey.",
+            "weakness": "Sujet très spécifique qui ne traite pas de l'impact global de l'IA sur l'emploi."
           },
           {
             "rank": 6,
-            "domain": "developpez.com",
-            "title": "McKinsey rapporte que l'automatisation supprimera 400 à 800 millions d'emplois d'ici 2030...",
-            "main_angle": "Angle alarmiste basé sur un ancien rapport (2017), se concentrant sur les destructions massives d'emplois au niveau mondial.",
-            "strength": "Titre choc qui génère du clic.",
-            "weakness": "Données datées et potentiellement obsolètes, ne reflète pas les analyses plus récentes et nuancées de McKinsey sur l'IA générative."
+            "domain": "blog.workday.com",
+            "title": "L'impact de l'IA générative sur le Future of Work",
+            "main_angle": "Analyse de l'impact de l'IA générative sur les effectifs et la nécessité pour les entreprises de développer les compétences.",
+            "strength": "Article de blog bien structuré, facile à lire, qui cite McKinsey.",
+            "weakness": "Contenu assez générique, moins de données chiffrées spécifiques que les rapports originaux."
           },
           {
             "rank": 7,
-            "domain": "institut-entreprise.fr",
-            "title": "L'IA et l'évolution des compétences en France",
-            "main_angle": "Publication de l'étude originale co-réalisée avec McKinsey, offrant une analyse détaillée pour la France.",
-            "strength": "Source primaire pour le marché français, contenu très détaillé et sourcé.",
-            "weakness": "Format rapport/étude, long et dense, peu adapté à une lecture rapide sur le web."
+            "domain": "rhmatin.com",
+            "title": "Le travail avec l'IA en France : 27 % des tâches concernées d'ici 2030",
+            "main_angle": "Reprise de l'étude Institut de l'Entreprise - McKinsey & Company sur l'impact de l'IA sur les tâches en France.",
+            "strength": "Focalisation sur le marché français avec un chiffre clé percutant dans le titre.",
+            "weakness": "Article court, peu de profondeur, sert de relais à l'étude originale."
           },
           {
             "rank": 8,
-            "domain": "pollen.fr",
-            "title": "Les 12 bonnes pratiques de McKinsey pour intégrer l'IA en entreprise",
-            "main_angle": "Article pratique sous forme de liste, destiné aux entreprises pour réussir l'intégration de l'IA.",
-            "strength": "Format \"listicle\" facile à consommer, conseils actionnables pour les professionnels.",
-            "weakness": "Ne traite pas de l'impact sur l'emploi ou la reconversion, mais de l'implémentation en entreprise."
+            "domain": "dessein-tech.com",
+            "title": "Le rapport McKinsey de novembre 2025 sur les transformations du monde du travail à l'ère de l'IA",
+            "main_angle": "Analyse et résumé d'un rapport de McKinsey sur les transformations des compétences liées à l'IA.",
+            "strength": "Tente de fournir une analyse stratégique et un résumé.",
+            "weakness": "Blog personnel, crédibilité moindre, titre daté (novembre 2025)."
           },
           {
             "rank": 9,
-            "domain": "mckinsey.com",
-            "title": "Skill shift: Automation and the future of the workforce",
-            "main_angle": "Ancien rapport (2018) sur l'évolution des compétences due à l'automatisation, avant l'explosion de l'IA générative.",
-            "strength": "Analyse fondamentale de McKinsey sur le sujet des compétences.",
-            "weakness": "Daté, les analyses plus récentes sur l'IA générative sont plus pertinentes."
+            "domain": "fabricefrossard.com",
+            "title": "Stanford, McKinsey, OpenAI : Ce que nous disent les rapports 2025 sur le présent et l'avenir de l'IA...",
+            "main_angle": "Synthèse et analyse croisée de plusieurs rapports sur l'IA, dont celui de McKinsey.",
+            "strength": "Met en perspective l'étude McKinsey avec d'autres sources de référence.",
+            "weakness": "Blog personnel, moins d'autorité que les médias établis. Le titre mentionne 2025, ce qui peut paraître obsolète."
           },
           {
             "rank": 10,
-            "domain": "portail-autoentrepreneur.fr",
-            "title": "Étude McKinsey IA : 5 millions de reconversions en micro-entreprise ?",
-            "main_angle": "Angle très spécifique qui relie l'étude McKinsey à l'opportunité de la micro-entreprise comme solution de reconversion.",
-            "strength": "Angle original et pertinent pour une audience de freelances ou de personnes en reconversion.",
-            "weakness": "Extrapolation de l'étude, le lien direct n'est pas forcément démontré par McKinsey."
+            "domain": "international-organisation-of-employers.org",
+            "title": "L'impact de l'IA sur le travail et l'emploi - Juin 2024",
+            "main_angle": "Rapport d'une organisation patronale citant de multiples sources, dont McKinsey, sur l'impact global de l'IA.",
+            "strength": "Document structuré qui s'appuie sur de nombreuses études pour une vision large.",
+            "weakness": "Angle institutionnel, moins direct et percutant pour l'audience cible. PDF long et dense."
           }
         ],
         "common_angles": [
-          "Reprise des chiffres clés de McKinsey (ex: % d'heures de travail automatisables d'ici 2030).",
-          "Focalisation sur la transformation des compétences (skills shift) plutôt que sur les destructions nettes d'emplois.",
-          "Identification des métiers en déclin (administratif, service client) et en croissance (STIM, santé)."
+          "Impact de l'IA générative sur l'automatisation des tâches",
+          "Évolution des besoins en compétences (hausse des compétences tech et soft skills, baisse des compétences cognitives de base)",
+          "Potentiel de gains de productivité grâce à l'IA",
+          "Nécessité de la formation et de la requalification (reskilling/upskilling)",
+          "Chiffres clés sur les transitions professionnelles et les métiers menacés/en croissance"
         ],
         "weak_angles": [
-          "Manque de conseils pratiques et actionnables pour l'individu : que faire concrètement pour s'adapter ?",
-          "Absence d'analyse critique des études McKinsey (limites, biais potentiels).",
-          "Peu de contenu qui connecte les prédictions macro à la réalité du marché de la formation en France."
+          "Conseils pratiques et actionnables pour les individus (comment s'adapter concrètement ?)",
+          "Impact sur l'adaptation salariale et la valeur des compétences",
+          "Exemples concrets de reconversions réussies vers des métiers liés à l'IA ou augmentés par l'IA",
+          "Analyse critique et 'zero bullshit' des rapports (quels sont les biais, les non-dits ?)",
+          "Vision prospective sur les nouveaux métiers qui n'existent pas encore"
         ],
         "winning_moves": [
-          "Créer un dossier complet \"Le Rapport McKinsey décrypté pour votre carrière\" qui synthétise les différents rapports (2023, 2024) en un seul article de référence, avec une approche \"zéro bullshit\".",
-          "Traduire les concepts de \"tâches automatisables\" et \"évolution des compétences\" en un plan d'action concret pour le salarié/freelance : auto-diagnostic, compétences à acquérir, formations existantes.",
-          "Produire des infographies et des tableaux synthétiques (ex: \"Top 10 des compétences en hausse/baisse selon McKinsey\", \"Votre métier est-il impacté ? Le diagnostic en 5 questions\") pour faciliter la lecture et le partage.",
-          "Interview d'un expert français (économiste du travail, consultant ex-McKinsey) pour commenter, nuancer et contextualiser les chiffres de l'étude pour le marché français.",
-          "Créer un calculateur interactif simple : l'utilisateur entre son métier et obtient une évaluation du potentiel d'automatisation de ses tâches et des pistes de reconversion, basées sur les données de l'étude."
+          "Créer un dossier complet 'IA & Emploi : Le Guide d'Adaptation' qui synthétise les chiffres clés de McKinsey et d'autres sources (OCDE, FMI, etc.) mais les traduit en plan d'action concret pour le lecteur.",
+          "Adopter un ton direct et sans filtre : 'McKinsey dit que votre job va changer. Voici ce que ça veut dire pour votre salaire et ce que vous devez faire MAINTENANT.'",
+          "Intégrer des témoignages ou des parcours types de reconversion à l'ère de l'IA pour rendre le contenu plus humain et inspirant.",
+          "Proposer des 'fiches métiers du futur' basées sur les tendances identifiées, en détaillant les compétences, les salaires potentiels et les voies de formation.",
+          "Créer une infographie percutante et facilement partageable qui résume les statistiques clés de McKinsey et le plan d'action proposé, optimisée pour les réseaux sociaux comme LinkedIn."
         ],
         "must_include_sections": [
-          "Étude McKinsey sur l'IA : Faut-il vraiment craindre pour votre emploi ?",
-          "Les chiffres clés à retenir pour la France d'ici 2030",
-          "Quels sont les métiers les plus transformés par l'IA (et pas seulement menacés) ?",
-          "Compétences cognitives, technologiques, sociales : Le nouveau triptyque du succès",
-          "Plan d'action : 3 étapes pour auditer vos compétences et préparer votre avenir professionnel",
-          "Au-delà de McKinsey : Mettre en perspective les prédictions pour ne pas céder à la panique"
+          "IA et Emploi : Ce que le rapport McKinsey nous dit vraiment (et ce qu'il oublie)",
+          "Votre métier est-il menacé ? Analyse des secteurs et fonctions les plus impactés",
+          "Les nouvelles compétences qui valent de l'or : Comment monter en puissance ?",
+          "Reconversion à l'ère de l'IA : Par où commencer ? (Le plan d'action Adapte-toi)",
+          "L'impact sur votre salaire : Négocier sa valeur dans un monde augmenté par l'IA",
+          "Au-delà des chiffres : Ces métiers créés par l'IA que personne n'avait vu venir"
         ],
         "citable_facts_to_verify": [
-          "D'ici 2030, 27% des heures de travail en France pourraient être automatisées par l'IA.",
-          "1,7 million de personnes en France pourraient devoir changer de métier d'ici 2030.",
-          "La demande pour les compétences technologiques pourrait augmenter de 55%.",
-          "Les métiers administratifs et de secrétariat sont les plus touchés, avec 5 millions de postes menacés en Europe.",
-          "La demande pour les métiers STIM (Sciences, Technologies, Ingénierie, Mathématiques) pourrait augmenter de 16% en France."
+          "L'IA générative pourrait ajouter l'équivalent de 2 600 à 4 400 milliards de dollars par an à l'économie mondiale.",
+          "Jusqu'à 30% des heures travaillées pourraient être automatisées d'ici 2030, avec une accélération due à l'IA générative.",
+          "La demande pour les compétences technologiques, sociales et émotionnelles va croître, tandis que celle pour les compétences cognitives de base et physiques va diminuer.",
+          "Environ 12 millions de transitions professionnelles seront nécessaires aux États-Unis d'ici 2030.",
+          "En France, près de 27% des tâches réalisées par les salariés pourraient être confiées à l'IA d'ici à 2030."
         ],
         "entities_to_mention": [
           "McKinsey Global Institute",
-          "Institut de l'Entreprise",
-          "STIM (Sciences, Technologies, Ingénierie et Mathématiques)",
-          "IA Générative",
-          "France Compétences"
+          "IA générative",
+          "OpenAI",
+          "OCDE",
+          "Forum Économique Mondial",
+          "France Travail",
+          "Compétences STEM"
         ],
         "target_word_count": 3000,
         "intent_type": "informational",
-        "featured_snippet_opportunity": "Tableau : Viser un tableau comparatif \"Compétences en hausse vs. Compétences en baisse selon McKinsey\". Formulation cible : \"Quelles sont les compétences les plus demandées avec l'IA selon McKinsey ?\" avec deux colonnes : \"Compétences en hausse (Ex: pensée critique, créativité, compétences technologiques avancées)\" et \"Compétences en baisse (Ex: saisie de données, compétences cognitives de base)\".",
+        "featured_snippet_opportunity": "Liste à puces répondant à la question 'Quels sont les impacts de l'IA sur l'emploi selon McKinsey ?' ou un tableau synthétisant les compétences en hausse et en baisse.",
         "serp_features_detected": [
           "AI Overview",
           "People Also Ask",
-          "Video"
+          "Top Stories",
+          "Videos"
         ],
         "grounding_sources": [
           {
-            "title": "dailymotion.com",
-            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk2pdZxG5I2T1REm8MzhPVYWosmefxoNf6p_saSxRkcTvLB5_CV-TC1BYF2ceedI9pWHD6issYBbQwtU75sNtiA9DGD1hrxb0zJoFxobRjyAFx1HNsSGJ5k-F0rBKVkogJooo="
+            "title": "mckinsey.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5b_SW1geJ1ZpQnR0JHHWbvQQcfZa3JjAG6gBOmFtt0FpD2affPRLBkFXQGiLLi6NrfuhOq3Bud1M6qf76e7KPYRdIwCuMUI3cflP_zGllq2wAGC4L0M4p-7hBrIIseuerMYFbbEsUu8IlORGm_FmQMWCB96YB95lFhMmSO8Ik9aW8e0ohPur6L-8khKEUCFgqAlVNw87NMZAqQ_4AN3EbEt2ILJrngMJadoManhy1QIbwsFi-9bRcxDuZ0UMH9o0="
           },
           {
-            "title": "talenco.com",
-            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqsxZde0xGV_EoTm01JtseNzQjpevU6g9LWe-kHKGfI8ZCCUUmeaa-i710qn0ay7HoIlzpNRXh0kHL6NegmiFg3sn6MixGXzbx8Rll9VGKuCXY64hu-4ZGS3WueAlDAOTriYsVKW7DadLSG5tgqe5M--zBaq4RS8jSCDL71r5ZNLR3xVXkx3iroy36xB12sSAI4xkM2utgA3IawfoP8vMg-rKidhjnCGHdYap263Xh"
+            "title": "ioe-emp.org",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJLhMg-V6b9BsQ-eBSCWbVhCQ9tgw0SB4Op55ZuTZ6LrzWkxa5JH8bhnbtrpm5BLDI9QASrg9UW1ueu3wVqJ6neO0HUO-1QFIl7w81HQ9aCyKa3B89HiCy-ZCLpqzE2yal0A26F0qoUnrZ5l-jvBExiwCHvmog2NCW82_hJK2zBf2lK6IlSjBS9U3HK4whmUAg4mFHCC3fa8iDb4ISuPkPhQY4dw=="
           },
           {
             "title": "helloworkplace.fr",
-            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYHEkzej0NYQOFBpFID3ZnK9ohI8aFBe8Y3RWuo_5h2lPHjmxcu64959Wj8Pu_ix3ggrFQzGV7kmchS8sxgFNXOdwt6Fe0OfA6SXjv3XiMq_j-OYyYAbqczY0fg1cty9IPvMXVKJLCTIiMGGjWktAfldM6Eg=="
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_ebgve1-IU9JNq705dAwQ3gvps92GowUJ69IMNloO4WcxMPXNEqJtFY4OHLiEBag1Lz2qyyt8PFeIZEh3lcNrEXUr3d8lHyhRlwZJv73dhTDYkgoNMtHQIP74gww-4QNG6lNfX0HnFJsSXXJXAIh_nrjmbA=="
           },
           {
-            "title": "rexecode.fr",
-            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4IHzu6-N_eR5HGEB4kOXUfcAxDp5CNchdi_tkTC60-bPR8lrBb7b5y1WyHkt5ZZf96w06jjuQltFLzqWBTTGb1qegb6G5V0sW545xnFrRVm3rzlQKVaBAIn2mNKVY762CzLf4ogfk8HNzucQU2X3tjPKszGiXh61nr_IVI8iMdAfFJANANuKqurJo6F45OJFlaMcN9fb_qLFk2Op7Wtc9IfKV24gx_yeHPVDn5ObHd25IzpzoyJGO8X01GL0M-1sMah6ecqxG-z04rVi66FkGaRpPnYzwNMVGyJCphYMPyLsiLxo01UNgrQgHzr-WN4IjvBk7RkS5ey2stQ=="
-          },
-          {
-            "title": "espace-autoentrepreneur.com",
-            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUzsSdeRaXGbiQmiZtZdr1zuIO1n1RJ3Kza-LLyh9l8EeRVD6LhF-2LvncCQNT2uDh404BhbWfGcz-bjo7WUI5bEcWQq2bVgZg138alz0M7Z3Od-BCGkGjeABw7LZZ-Ozlk0GZEIxMd1wXg0R82u9jAyk4shh7eH_Qkvm58KW_2dbwQivxlEiVInlHGChhVBu-NLAy24WZUxeC7ixcjLOrkguLCvkgxCVL1vdfa_6jZhn0i9DnB84qgbyL"
+            "title": "mckinsey.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYfxvPebbTozaV9BbZMHploN0TA7yU99qOYUdWbC6mLgnjL4FnQwecky6ts92Z8dZPqjDrXbRgMQxGltO7jKhEo_bmrZHlqJRmhCdN3FDdvLLYCk6gJi5sPN47pUX2uJLBFWIMiqtNeng-0i83u7ZWqvSbHO3JW9bxSIYB8KTzx9rraHHLx72E61s2FYk0iARi12AQJOppihEmTzyIyXhIEotQt1o6-p4PlkTWp-MMAT2OCpNNR925gutdCDi6S3Oi9cXSdSizMcZ3bqn7CHm2VrfrPDTJDjzZ-EAJKhBWHfe5lpEo3KJQLIumr_MFljq0w7sev5_GS-YHvzYk2KL9lsdwAg1LLbKK"
           }
         ]
       }
-    }
+    },
+    "queue_file": "rapport-mckinsey-2026-impact-ia-emploi-francais.md",
+    "pre_generated_at": "2026-04-22T20:25:41",
+    "quality_passed": true
   },
   {
     "title": "CPF et formation IA : Comment financer sa reconversion",
@@ -763,7 +769,7 @@
     "index": 9,
     "published": false,
     "published_at": null,
-    "slug": null,
+    "slug": "cpf-formation-ia-comment-financer-reconversion",
     "scheduled_date": "2026-04-24",
     "scheduled_time": "09:12",
     "scheduled_datetime": "2026-04-24T09:12:00",
@@ -773,165 +779,151 @@
     "author": "Sarah Bellamy",
     "serp_brief": {
       "keyword": "CPF formation IA",
-      "generated_at": "2026-04-18T23:51:41",
+      "generated_at": "2026-04-22T20:27:45",
       "model": "gemini-2.5-pro",
       "brief": {
         "top10": [
           {
             "rank": 1,
-            "domain": "vertexaisearch.cloud.google.com",
-            "title": "Les 10 meilleures formations en IA éligibles au CPF en 2026",
-            "main_angle": "Présentation d'un classement des 10 meilleures formations IA finançables par le CPF, avec un focus sur les points forts et les spécificités de chacune.",
-            "strength": "Format liste (Top 10) très efficace pour le SEO, contenu bien structuré avec des points clés pour chaque formation, ce qui facilite la lecture et la comparaison.",
-            "weakness": "Contenu peu approfondi sur le 'comment' et le 'pourquoi' de la reconversion via l'IA. L'analyse reste en surface et manque de retours d'expérience ou de conseils personnalisés."
+            "domain": "maformation.fr",
+            "title": "Formation Intelligence artificielle CPF | MaFormation.fr",
+            "main_angle": "Agrégateur de formations en IA éligibles au CPF, listant diverses options avec leurs prix.",
+            "strength": "Large choix de formations, visibilité sur les prix, marque reconnue dans la recherche de formation.",
+            "weakness": "Manque de ligne éditoriale et de conseil. Simple catalogue sans analyse critique ni mise en perspective sur l'impact métier."
           },
           {
             "rank": 2,
-            "domain": "aivancity.fr",
-            "title": "Financer votre formation professionnelle - aivancity",
-            "main_angle": "Page d'un organisme de formation (école) qui explique les différentes manières de financer ses propres cursus, en mettant en avant le CPF et les abondements de l'État.",
-            "strength": "Très informatif sur les dispositifs de financement au-delà du CPF (CPF de transition, abondement de l'État), ce qui est un vrai plus pour l'utilisateur.",
-            "weakness": "Angle purement promotionnel pour les formations de l'école Aivancity. Manque d'objectivité et de comparaison avec d'autres offres du marché."
+            "domain": "google.com",
+            "title": "Les 10 meilleures formations en IA éligibles au CPF en 2026",
+            "main_angle": "Article de type 'listicle' (top 10) présentant une sélection de formations IA finançables par le CPF.",
+            "strength": "Format facile à lire, promesse d'une sélection 'meilleures', ciblage direct de la requête.",
+            "weakness": "Contenu probablement commercial (affiliation), manque d'objectivité, peu de profondeur sur le 'pourquoi' se former et les compétences précises à acquérir."
           },
           {
             "rank": 3,
-            "domain": "koino.fr",
-            "title": "IA : Top 12 des formations en intelligence artificielle - Koïno",
-            "main_angle": "Classement de formations IA en ligne, avec une segmentation claire des publics visés (freelances, entrepreneurs, débutants, etc.).",
-            "strength": "Bonne segmentation des formations par profil, ce qui aide l'utilisateur à s'orienter. L'article met en avant les financements possibles (CPF, France Travail...).",
-            "weakness": "L'article se positionne comme un comparateur mais promeut fortement sa propre formation. Le contenu manque de neutralité."
+            "domain": "jdn.fr",
+            "title": "Se former à l'IA: les formations CPF les mieux notées - JDN",
+            "main_angle": "Angle journalistique qui se base sur les avis et notations pour classer les formations.",
+            "strength": "Crédibilité du média (Journal du Net), critère de notation qui semble objectif, informations précises (prix, durée, certification).",
+            "weakness": "Angle unique sur les 'mieux notées', ce qui ne signifie pas forcément 'les plus pertinentes' pour une reconversion ou une montée en compétences stratégique."
           },
           {
             "rank": 4,
-            "domain": "maformation.fr",
-            "title": "Formation Intelligence artificielle CPF | MaFormation.fr",
-            "main_angle": "Portail agrégateur de formations qui liste des offres éligibles au CPF, avec un contenu générique sur les débouchés et les modalités d'apprentissage.",
-            "strength": "Propose un catalogue de formations variées, ce qui donne un aperçu de l'étendue de l'offre. Le site bénéficie de l'autorité du domaine 'maformation.fr'.",
-            "weakness": "Contenu très générique et impersonnel, sans véritable analyse ou conseil. L'expérience utilisateur est celle d'un annuaire, pas d'un média conseil."
+            "domain": "digi-atlas.com",
+            "title": "Formation IA générative : en ligne, finançable via CPF et certifiante - Digi Atlas",
+            "main_angle": "Page de vente pour une formation spécifique sur l'IA générative.",
+            "strength": "Très ciblé sur une compétence précise (IA générative), tous les arguments pour convertir (finançable, certifiante, témoignages).",
+            "weakness": "Page 100% commerciale, ne répond pas à une intention de comparaison. L'information n'est pas neutre."
           },
           {
             "rank": 5,
-            "domain": "mister-ia.com",
-            "title": "Financement de formation à l'IA : Guide pratique (CPF, OPCO, FSE+, AGEFICE) - Mister IA",
-            "main_angle": "Guide exhaustif sur tous les dispositifs de financement de la formation IA, au-delà du CPF (OPCO, FSE+, etc.).",
-            "strength": "Contenu très détaillé et actionnable sur les différents leviers de financement, ce qui est une information à forte valeur ajoutée pour le public cible.",
-            "weakness": "L'article est très axé sur le 'comment financer' et moins sur le 'quelle formation choisir', ce qui ne répond qu'à une partie de l'intention de recherche."
+            "domain": "cpformation.com",
+            "title": "CPF : se former dans le domaine de l'intelligence artificielle - CPFormation",
+            "main_angle": "Article informationnel de base expliquant pourquoi et comment utiliser son CPF pour se former à l'IA.",
+            "strength": "Répond aux questions fondamentales (Pourquoi se former à l'IA ?), bon pour le début du parcours utilisateur.",
+            "weakness": "Contenu de surface, daté (2023), manque d'exemples concrets de formations et de débouchés. Pas de vision stratégique."
           },
           {
             "rank": 6,
-            "domain": "digi-atlas.com",
-            "title": "Formation IA générative : en ligne, finançable via CPF et certifiante - Digi Atlas",
-            "main_angle": "Page de vente d'une formation spécifique sur l'IA générative, mettant en avant ses objectifs pédagogiques, sa certification et son éligibilité CPF.",
-            "strength": "Page très claire et bien structurée pour convertir : objectifs, public cible, certification, financement. Le focus sur l'IA générative est pertinent.",
-            "weakness": "Angle 100% commercial pour un seul produit. N'offre pas de vision globale du marché ni de conseils pour s'orienter."
+            "domain": "studya.com",
+            "title": "Formation Intelligence Artificielle à distance CPF - Studya",
+            "main_angle": "Portail de formations listant des options de formation IA à distance éligibles au CPF.",
+            "strength": "Ciblage sur la formation à distance, un critère important pour les professionnels en activité.",
+            "weakness": "Similaire à MaFormation.fr, c'est un catalogue sans analyse de fond. L'angle 'à distance' est commun à beaucoup de formations IA."
           },
           {
             "rank": 7,
-            "domain": "koino.fr",
-            "title": "Comment financer votre formation IA avec le CPF en 2025 ? - Koïno",
-            "main_angle": "Article de blog expliquant pourquoi et comment utiliser son CPF pour se former à l'IA, en insistant sur l'opportunité de reconversion.",
-            "strength": "Bonne approche contextuelle qui justifie l'intérêt de se former à l'IA (chiffres sur l'emploi, opportunités de reconversion). Le contenu est engageant.",
-            "weakness": "L'article sert de porte d'entrée vers la formation de l'organisme (Koïno). Le manque de neutralité est un frein à la confiance."
+            "domain": "jedha.co",
+            "title": "Formation IA : Guide complet pour débuter en Intelligence Artificielle",
+            "main_angle": "Guide complet pour débuter en IA, avec une orientation vers leurs propres formations.",
+            "strength": "Contenu dense et structuré (guide), cherche à éduquer le lecteur avant de vendre. Positionnement d'expert.",
+            "weakness": "Biais évident vers leurs propres programmes. Le lien avec le CPF n'est pas toujours le point d'entrée principal."
           },
           {
             "rank": 8,
-            "domain": "livementor.com",
-            "title": "Le Top 10 des meilleures formations IA - LiveMentor",
-            "main_angle": "Un autre article de type 'Top 10' qui segmente les formations par objectif (initiation, prompt engineering, machine learning).",
-            "strength": "La segmentation par objectif est une bonne approche pour guider l'utilisateur. L'article mentionne aussi différents dispositifs de financement.",
-            "weakness": "Met en avant sa propre formation en première position, ce qui nuit à la crédibilité du classement. Le contenu sur les autres formations est assez léger."
+            "domain": "alphorm.com",
+            "title": "Formation Intelligence Artificielle (IA) en ligne - Alphorm",
+            "main_angle": "Présentation des formations IA offertes par cet organisme spécifique.",
+            "strength": "Catalogue de formations techniques et spécialisées pour un public déjà averti.",
+            "weakness": "Pas spécifiquement axé sur le CPF dans le titre, peut manquer la cible grand public en reconversion."
           },
           {
             "rank": 9,
-            "domain": "lefebvre-dalloz.fr",
-            "title": "Formation IA - Intelligence Artificielle | Lefebvre Dalloz Compétences",
-            "main_angle": "Page d'un organisme de formation historique qui présente son catalogue de formations IA pour les entreprises, avec un focus sur la productivité.",
-            "strength": "Marque forte et reconnue (Lefebvre Dalloz), ce qui inspire confiance. L'angle 'IA pour l'entreprise' est clair et bien défini.",
-            "weakness": "Offre principalement destinée à un public B2B (financement via plan de développement des compétences), moins adaptée aux salariés et freelances agissant de leur propre initiative via le CPF."
+            "domain": "lemonde.fr",
+            "title": "Comment les « bootcamps » veulent former la France à l'intelligence artificielle",
+            "main_angle": "Article de presse généraliste sur le phénomène des bootcamps en IA.",
+            "strength": "Crédibilité du journal Le Monde, mise en perspective du marché de la formation.",
+            "weakness": "Ne répond pas directement à la requête 'CPF formation IA'. Angle trop large, pas assez actionnable pour l'utilisateur."
           },
           {
             "rank": 10,
-            "domain": "la-culture-generale.fr",
-            "title": "Top 5 meilleures formations IA : comparatif complet, CPF et prix - La culture générale",
-            "main_angle": "Comparatif de 5 formations IA, avec un accent mis sur l'accessibilité et l'accompagnement.",
-            "strength": "Le format comparatif est clair. L'article tente de donner un avis tranché ('le plus accessible', 'le meilleur accompagnement').",
-            "weakness": "Analyse assez superficielle, le contenu est court et manque de profondeur pour justifier les classements. Les critères de sélection ne sont pas très clairs."
+            "domain": "hellowork.com",
+            "title": "Formation intelligence artificielle - HelloWork",
+            "main_angle": "Moteur de recherche de formations en IA, avec un filtre CPF.",
+            "strength": "Marque forte dans l'écosystème de l'emploi, moteur de recherche efficace.",
+            "weakness": "Expérience de type 'annuaire', sans contenu éditorial pour guider, conseiller et analyser les tendances de fond."
           }
         ],
         "common_angles": [
-          "Listes et classements de formations ('Top X meilleures formations').",
-          "Focalisation sur l'éligibilité au CPF comme critère principal.",
-          "Mise en avant des aspects pratiques : durée, coût, certification.",
-          "Promotion d'une formation maison au sein du contenu comparatif."
+          "Listes et comparatifs de formations IA éligibles au CPF.",
+          "Pages de vente directes d'organismes de formation.",
+          "Contenus informationnels génériques sur 'pourquoi se former à l'IA'.",
+          "Moteurs de recherche / agrégateurs de formations."
         ],
         "weak_angles": [
-          "L'impact réel de l'IA sur les métiers et comment choisir une formation pour s'adapter (le 'pourquoi').",
-          "Retours d'expérience authentiques et témoignages d'anciens élèves.",
-          "Analyse critique et neutre des programmes (au-delà des brochures).",
-          "Conseils pour les profils en reconversion non-techniques (comment passer de 'non-tech' à 'compétent en IA')."
+          "L'impact réel de l'IA sur les métiers et les salaires (données chiffrées).",
+          "Quelle compétence IA spécifique choisir pour quel projet de reconversion ?",
+          "Analyse critique des programmes de formation au-delà du marketing.",
+          "Le point de vue des recruteurs : quelles sont les compétences IA vraiment recherchées ?",
+          "Absence de segmentation par niveau (vrai débutant vs. montée en compétences)."
         ],
         "winning_moves": [
-          "Créer le guide le plus complet et honnête sur le sujet, en adoptant une posture de média expert et non de vendeur de formation.",
-          "Segmenter l'article par profil et objectif de reconversion (ex: 'Je suis dans le marketing et je veux...', 'Je suis assistant(e) et j'ai peur pour mon métier...', 'Je suis développeur et je veux me spécialiser...').",
-          "Intégrer des interviews ou des témoignages vidéos/écrits d'anciens élèves ayant utilisé leur CPF pour se reconvertir avec succès dans un métier lié à l'IA.",
-          "Analyser en profondeur 3 à 5 formations phares en demandant les programmes détaillés, en interviewant un formateur, et en donnant un avis critique et sourcé sur les forces et faiblesses de chaque cursus.",
-          "Créer une section 'Pièges à éviter' pour choisir sa formation IA avec le CPF (formations trop théoriques, certifications sans valeur, promesses irréalistes) pour renforcer la confiance et le positionnement 'zéro bullshit'."
+          "Créer un guide actionnable : 'Se reconvertir avec l'IA en 2026 : Le guide anti-bullshit pour utiliser votre CPF'.",
+          "Segmenter l'article par objectif : 1/ Je veux juste comprendre l'IA et l'utiliser dans mon job (outils no-code), 2/ Je veux monter en compétences sur un aspect précis (e.g., IA pour le marketing), 3/ Je vise une reconversion technique (e.g., Prompt Engineer, Chef de Projet IA).",
+          "Analyser et sourcer l'impact de l'IA sur les métiers en France (citer France Travail, OCDE, etc.) pour justifier l'urgence et l'intérêt de se former.",
+          "Adopter un ton direct et transparent : décrypter le jargon, analyser les promesses des organismes, parler du coût réel et du retour sur investissement potentiel (adaptation salariale).",
+          "Intégrer des données et des faits vérifiés (ex: 'Selon McKinsey, X% des tâches pourraient être automatisées...') pour asseoir notre crédibilité de média et non de vendeur de formations."
         ],
         "must_include_sections": [
-          "Formation IA et CPF : Le guide 2026 pour une reconversion réussie",
-          "Pourquoi se former à l'IA est devenu crucial pour votre carrière (surtout si vous n'êtes pas tech)",
-          "Comprendre le financement CPF pour l'IA : droits, abondements et démarches",
-          "Le comparatif honnête des formations IA éligibles au CPF (par profil et objectif)",
-          "Analyse détaillée : que valent vraiment les formations de [Nom Organisme 1], [Nom Organisme 2] et [Nom Organisme 3] ?",
-          "Témoignages : ils ont utilisé leur CPF pour se former à l'IA et ont transformé leur carrière",
-          "Les 5 erreurs à ne pas commettre en choisissant votre formation IA avec le CPF"
+          "L'IA va-t-elle vraiment tuer votre job ? Ce que disent les chiffres (OCDE, FMI, France Travail).",
+          "CPF & IA : Le duo gagnant pour votre carrière (si vous ne vous trompez pas de formation).",
+          "Auto-diagnostic : Quelle formation IA pour VOTRE projet pro (et pas celui du voisin) ?",
+          "Les 3 niveaux de compétences en IA : Utiliser, Piloter, Créer.",
+          "Analyse critique : 5 formations IA populaires passées au crible (on ne vous dit pas laquelle choisir, on vous apprend à choisir).",
+          "Financer sa formation IA : Le CPF est-il la seule option ? (Aides régionales, France Travail...)."
         ],
         "citable_facts_to_verify": [
-          "Chaque année, votre compte CPF est crédité de 500€ (plafonné à 5000€).",
-          "Un abondement de l'État de 1000 euros peut compléter le financement pour une formation aux métiers du numérique.",
-          "Les compétences en data science et machine learning font partie des plus recherchées dans le monde selon LinkedIn.",
-          "D'ici 2025, 85 % des métiers de 2030 n'existent pas encore (rapport Dell et l'Institute for the Future)."
+          "Le prix exact et la durée des formations mentionnées (ex: DataScientest à 6490€ pour 400h).",
+          "L'éligibilité réelle et à jour des formations listées sur MonCompteFormation.",
+          "Les statistiques sur l'évolution des métiers et des salaires liés à l'IA en France."
         ],
         "entities_to_mention": [
-          "Mon Compte Formation",
-          "France Travail (anciennement Pôle Emploi)",
-          "OPCO",
-          "LiveMentor",
-          "DataBird",
-          "Jedha",
-          "Aivancity",
+          "MonCompteFormation",
+          "France Travail",
+          "OCDE",
+          "McKinsey",
           "ChatGPT",
           "Google Gemini",
-          "MidJourney"
+          "Microsoft Copilot",
+          "DataBird",
+          "LiveMentor",
+          "JDN (Journal du Net)"
         ],
         "target_word_count": 3000,
         "intent_type": "informational",
-        "featured_snippet_opportunity": "Liste à puces. Formulation cible : 'Quelles sont les meilleures formations IA éligibles au CPF ? 1. [Nom Formation] : Idéal pour [profil cible] car... 2. [Nom Formation] : Parfait si votre objectif est de... 3. [Nom Formation] : Recommandé pour acquérir la compétence de...'",
+        "featured_snippet_opportunity": "Tableau comparatif des types de formations IA (Objectif, Compétences visées, Durée type, Pour qui ?)",
         "serp_features_detected": [
           "AI Overview",
-          "People Also Ask",
-          "Featured Snippet"
+          "People Also Ask (PAA)",
+          "Top Stories",
+          "Video Carousels"
         ],
-        "grounding_sources": [
-          {
-            "title": "koino.fr",
-            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrgpMUbphiWUabttCIh6RUwDq2d61HsWYw-2PsOCoXX1VJesCed_AbyQ6VYtLq6VIvVoHedcQmiswcRRxAsiZDKk4cvqNCMo0Eo2dFC8uM8iK_zrNtjfR0X6fkx23qg6k3k-w2ceZWFv7BAVNASGDkjYTTaWYMnTUxBJzvzrbr-CfT6Pb6rekYiQOOFP1gpg=="
-          },
-          {
-            "title": "formationiacpf.com",
-            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFix4qHzNB4xT3WMScsOTzZyWMrwUejru3qIvH4TajJM6X7YmPvvx0mf3bU999w0Mh3wkhU-zGGGx2hRh09SD1LKVRh75_C-DOafT5a2Mpkdf1C0hK1"
-          },
-          {
-            "title": "mister-ia.com",
-            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUZMvUPfgsyQ5FxJ9K122OrQzEWsESLmsOTcdgYdAOw0A-kzu6QRvXR4wLMBe21EfCLqgb8MBgJgJocajQor3HIqjQPoVE_hd1P9NUhyzXB1OsugOmUPZyZKr_y3Kt4udUkE5X5JCXbNXPBusq_PfwcOTTcg=="
-          },
-          {
-            "title": "aivancity.ai",
-            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2Y_vE_PFxvtApdpJ-pPPI7H2iZQ7-oD8n70f-w1qkvsc1hRypwHqZZy2BiP6bGH1hrW6gijSXd2RsCQ2WIFTuTta1kKxnUN63s0SxI_m8GwZsX1ZZN5wNisJJDLA_MGRdVavkkM1sjaoTTfW27zBfVZJs4XzfQzr1UyM="
-          }
-        ]
+        "grounding_sources": []
       }
-    }
+    },
+    "queue_file": "cpf-formation-ia-comment-financer-reconversion.md",
+    "pre_generated_at": "2026-04-22T20:32:49",
+    "quality_passed": true
   },
   {
     "title": "Avocat vs IA : Comment s'adapter et rester compétitif",
@@ -941,7 +933,7 @@
     "index": 10,
     "published": false,
     "published_at": null,
-    "slug": null,
+    "slug": "avocat-vs-ia-comment-adapter-rester-competitif",
     "scheduled_date": "2026-04-27",
     "scheduled_time": "08:14",
     "scheduled_datetime": "2026-04-27T08:14:00",
@@ -951,158 +943,155 @@
     "author": "Camille Renard",
     "serp_brief": {
       "keyword": "avocat IA",
-      "generated_at": "2026-04-18T23:52:09",
+      "generated_at": "2026-04-22T20:33:19",
       "model": "gemini-2.5-pro",
       "brief": {
         "top10": [
           {
             "rank": 1,
-            "domain": "numerique.enap.ca",
-            "title": "INTELLIGENCE ARTIFICIELLE ET TRANSFORMATION DU MÉTIER D'AVOCAT - Chaire de recherche...",
-            "main_angle": "Analyse académique et structurée de l'impact de l'IA sur les tâches, les compétences et l'organisation du métier d'avocat.",
-            "strength": "Approche très structurée (rapport en 5 parties), citations de sources, analyse des nouvelles compétences requises.",
-            "weakness": "Contenu un peu daté (sources de 2019), ton académique qui peut être dense pour le public cible."
+            "domain": "aivancity.school",
+            "title": "Quand l'intelligence artificielle redéfinit le métier d'avocat : vers une pratique juridique augmentée - aivancity",
+            "main_angle": "L'IA comme un outil de transformation et d'augmentation des compétences de l'avocat, et non de remplacement.",
+            "strength": "Article bien structuré, citant des statistiques (Wolters Kluwer 2024) et des exemples concrets d'outils (ROSS Intelligence, Harvey AI, Luminance). Projette une vision future du métier.",
+            "weakness": "Contenu un peu promotionnel pour l'école aivancity. L'analyse reste en surface sur les aspects de reconversion et d'adaptation salariale."
           },
           {
             "rank": 2,
-            "domain": "avocat-2-0.com",
-            "title": "L'IA pour les avocats : Maîtriser l'intelligence artificielle pour optimiser la pratique juridique",
-            "main_angle": "Page de vente pour une formation sur l'IA destinée aux avocats, axée sur les bénéfices pratiques et l'intégration en cabinet.",
-            "strength": "Très orienté action avec un programme de formation clair et des bénéfices concrets mis en avant.",
-            "weakness": "Angle purement commercial (vente de formation), pas de contenu informationnel gratuit et approfondi."
+            "domain": "septeo.fr",
+            "title": "Avocats et IA : une vision croisée du futur du droit ? - Septeo",
+            "main_angle": "L'IA est un levier de productivité et un changement inévitable pour la survie des cabinets. Met en avant des témoignages d'avocats.",
+            "strength": "Cite des professionnels du secteur et des chiffres (70% des avocats estiment pouvoir gagner jusqu'à 5 heures par semaine). Contenu orienté pratique et bénéfices concrets.",
+            "weakness": "Biais commercial évident (Septeo vend des solutions logicielles aux avocats). L'angle est plus sur l'optimisation des cabinets existants que sur la reconversion individuelle."
           },
           {
             "rank": 3,
-            "domain": "blog.agilotext.com",
-            "title": "Les meilleures applications d'IA pour les avocats : outils et exemples pratique",
-            "main_angle": "Présentation d'outils et d'applications d'IA spécifiques pour les avocats, avec des exemples concrets.",
-            "strength": "Très pratique, liste d'outils concrets (ex: LegalMation), répond à un besoin direct des professionnels.",
-            "weakness": "Contenu assez court, simple liste d'outils sans analyse comparative approfondie ni retour d'expérience."
+            "domain": "cnb.avocat.fr",
+            "title": "L'intelligence artificielle générative pour les avocats : guide pratique",
+            "main_angle": "Guide pratique et institutionnel sur l'utilisation responsable de l'IA générative pour les avocats.",
+            "strength": "Source d'autorité (Conseil national des barreaux). Contenu très crédible, axé sur les bonnes pratiques et la déontologie.",
+            "weakness": "Angle très institutionnel et un peu sec. Manque une perspective plus humaine sur l'impact pour l'individu (peurs, opportunités de carrière, salaires)."
           },
           {
             "rank": 4,
-            "domain": "agilotext.com",
-            "title": "Meilleurs Outils IA pour Avocats 2026 : Comparatif Complet et Guide Souveraineté",
-            "main_angle": "Comparatif d'outils IA pour avocats avec un angle différenciant fort sur la souveraineté des données et la conformité.",
-            "strength": "Angle unique et pertinent (souveraineté), date récente (2026), proposition de valeur claire (guide PDF).",
-            "weakness": "Principalement une vitrine pour leur propre outil (Agilotext), le comparatif peut manquer d'objectivité."
+            "domain": "pwc.fr",
+            "title": "Comment transformer le métier d'avocat avec l'IA sans remplacer l'humain ? | PwC",
+            "main_angle": "Retour d'expérience d'un grand cabinet (PwC) sur l'intégration de l'IA, en insistant sur la formation et la gestion des risques.",
+            "strength": "Étude de cas concrète d'un acteur majeur. Met en avant la stratégie d'acculturation et de formation interne. Crédibilité forte.",
+            "weakness": "Vision très \"grand groupe\", moins applicable aux petits cabinets ou aux avocats indépendants. Ne parle pas de reconversion externe au métier."
           },
           {
             "rank": 5,
-            "domain": "aivancity.ai",
-            "title": "Quand l'intelligence artificielle redéfinit le métier d'avocat : vers une pratique juridique augmentée - aivancity",
-            "main_angle": "Article de fond sur la transformation du métier, l'avocat \"augmenté\", citant des statistiques et des exemples d'outils.",
-            "strength": "Bonne synthèse, utilisation de statistiques récentes (étude Wolters Kluwer 2024), mention d'outils connus (ROSS, Harvey AI).",
-            "weakness": "Contenu assez généraliste, reste en surface sur les aspects pratiques de la reconversion ou de l'adaptation."
+            "domain": "village-justice.com",
+            "title": "L'IA et l'avocat : 10 impacts sur le métier (et 3 conseils).",
+            "main_angle": "Liste les impacts concrets de l'IA sur les tâches quotidiennes de l'avocat et donne des conseils pratiques.",
+            "strength": "Format \"listicle\" facile à lire. Très concret et orienté \"actions\". Aborde à la fois les opportunités et les menaces.",
+            "weakness": "Le contenu peut dater un peu (le rythme de l'IA est rapide). L'analyse de l'impact sur les salaires ou les parcours de carrière est limitée."
           },
           {
             "rank": 6,
-            "domain": "afje.org",
-            "title": "Les juristes et les avocats face à l'IA - AFJE",
-            "main_angle": "Présentation des résultats d'une étude sur la perception et l'usage de l'IA par les juristes et avocats.",
-            "strength": "Basé sur des données chiffrées (étude OpinionWay), compare deux professions proches (juristes vs avocats).",
-            "weakness": "Format très court, se contente de lister des chiffres sans les analyser en profondeur ni donner de conseils."
+            "domain": "influxio.avocats.fr",
+            "title": "Avocats Spécialisés Intelligence Artificielle (IA) Paris | INFLUXIO",
+            "main_angle": "Présentation d'un cabinet d'avocats spécialisé en droit de l'IA. L'angle est donc celui de la nouvelle spécialisation juridique.",
+            "strength": "Démontre l'émergence de nouveaux métiers/spécialisations. Très concret sur les nouvelles missions (conformité AI Act, droit des créations par IA).",
+            "weakness": "Page purement commerciale. Utile pour comprendre une nouvelle niche, mais n'aborde pas la transformation du métier pour les non-spécialistes."
           },
           {
             "rank": 7,
             "domain": "lefebvre-dalloz.fr",
             "title": "Formation IA pour avocats : intégrer l'IA dans votre pratique quotidienne",
-            "main_angle": "Page de présentation d'une offre de formation professionnelle sur l'IA pour les avocats.",
-            "strength": "Marque très reconnue dans le monde juridique (Lefebvre Dalloz), programme détaillé, dates précises.",
-            "weakness": "Page 100% commerciale, aucune information gratuite pour l'utilisateur qui cherche à comprendre le sujet."
+            "main_angle": "Offre de formation pour permettre aux avocats d'intégrer l'IA dans leur pratique.",
+            "strength": "Répond à un besoin clair de montée en compétences. Le plan de formation donne une bonne idée des savoir-faire requis.",
+            "weakness": "Page commerciale. Ne traite pas de l'impact global sur le marché de l'emploi juridique."
           },
           {
             "rank": 8,
-            "domain": "barreauduquebec.ca",
-            "title": "Encadrer l'IA générative dans la pratique du droit : repères déontologiques...",
-            "main_angle": "Annonce d'une formation obligatoire sur les aspects déontologiques de l'IA pour les avocats au Québec.",
-            "strength": "Angle officiel et institutionnel, centré sur un enjeu crucial (déontologie), très crédible.",
-            "weakness": "Très spécifique au marché québécois, moins pertinent pour la cible française."
+            "domain": "afje.org",
+            "title": "Les juristes et les avocats face à l'IA - AFJE",
+            "main_angle": "Analyse comparative de l'adoption et de la perception de l'IA entre juristes d'entreprise et avocats, basée sur une étude.",
+            "strength": "Données chiffrées (étude OpinionWay) qui segmentent le marché. Met en lumière des différences de perception et d'usage intéressantes.",
+            "weakness": "Article assez court, qui résume une étude sans entrer dans le détail des implications en termes de carrière."
           },
           {
             "rank": 9,
-            "domain": "lexing.law",
-            "title": "Avocat Intelligence artificielle - Lexing Avocats",
-            "main_angle": "Page de présentation des services d'un cabinet d'avocats spécialisé en droit de l'IA.",
-            "strength": "Positionnement d'expert, liste des domaines d'intervention juridiques liés à l'IA.",
-            "weakness": "Vise des clients ayant des projets IA, pas des avocats cherchant à s'adapter à l'IA."
+            "domain": "aurore-bonavia-avocat.com",
+            "title": "Avocat en intelligence artificielle : Anticipons le futur - Aurore Bonavia",
+            "main_angle": "Site d'une avocate indépendante spécialisée en IA, montrant une trajectoire de carrière possible.",
+            "strength": "Exemple concret d'une spécialisation réussie. Met en avant les services juridiques liés à l'IA (audit, conformité).",
+            "weakness": "Site personnel et commercial. L'information est centrée sur ses services."
           },
           {
             "rank": 10,
-            "domain": "legalvision.fr",
-            "title": "Les meilleurs outils juridiques français intégrant l'IA en 2026 - LegalVision",
-            "main_angle": "Liste et description d'outils IA français pour les métiers du droit, avec un focus sur les cas d'usage.",
-            "strength": "Focus sur les outils français, date récente (2026), mention de cas d'usage précis (formalités, analyse contractuelle).",
-            "weakness": "Liste d'outils sans réelle hiérarchisation ou test approfondi, sert aussi à promouvoir leur propre outil (Legit)."
+            "domain": "lexing.law",
+            "title": "Avocat Intelligence artificielle - Lexing Avocats",
+            "main_angle": "Présentation des services d'un cabinet d'avocats spécialisé dans le droit du numérique et de l'IA.",
+            "strength": "Montre l'étendue des problématiques juridiques liées à l'IA (éthique, data, contrats, etc.), ce qui donne des idées de spécialisation.",
+            "weakness": "Site commercial. Ne s'adresse pas directement aux avocats qui s'interrogent sur leur propre avenir."
           }
         ],
         "common_angles": [
-          "La transformation inévitable du métier d'avocat par l'IA.",
-          "La présentation de listes d'outils d'IA pour les avocats (legaltechs).",
-          "L'automatisation des tâches répétitives (recherche, rédaction, analyse).",
-          "La vente de formations dédiées à l'IA pour les professionnels du droit."
+          "L'IA est un outil qui augmente l'avocat, pas un remplaçant.",
+          "Automatisation des tâches répétitives (recherche, analyse de contrats).",
+          "Nécessité de formation et de montée en compétences.",
+          "Focus sur les tâches à haute valeur ajoutée (stratégie, conseil, relation client).",
+          "Émergence d'une nouvelle spécialité : le droit de l'IA (AI Act, etc.).",
+          "Enjeux éthiques et déontologiques."
         ],
         "weak_angles": [
-          "Le parcours concret de reconversion pour devenir \"avocat augmenté\" (quelles étapes, quelles compétences développer).",
-          "Les retours d'expérience détaillés et critiques d'avocats utilisant l'IA au quotidien (difficultés, vrais gains, échecs).",
-          "L'impact sur les modèles économiques des cabinets et la facturation client.",
-          "L'angle \"santé mentale\" et gestion du stress lié à la pression de l'adaptation technologique."
+          "Impact concret sur la rémunération et les modèles de facturation (à part une mention dans l'étude AFJE).",
+          "Reconversion professionnelle hors du métier d'avocat (vers des postes de 'Legal Ops', 'Product Manager' en LegalTech, etc.).",
+          "Analyse quantitative de la destruction/création de postes à moyen terme.",
+          "Comparaison internationale (comment les avocats US/UK s'adaptent-ils ?).",
+          "Guide pratique 'pas à pas' pour un avocat qui veut commencer à utiliser l'IA demain (quels outils tester, pour quel budget ?).",
+          "Angle 'zero bullshit' sur les limites et les 'hallucinations' des IA juridiques."
         ],
         "winning_moves": [
-          "Créer un guide complet et actionnable : \"Devenir Avocat Augmenté en 2026 : Le Guide de la Reconversion sans Bullshit\". Combiner l'analyse de l'impact sur le métier avec un plan d'action étape par étape (auto-évaluation, sélection de formations, tests d'outils, mise à jour du profil LinkedIn).",
-          "Réaliser des interviews-vérité d'avocats (de différents niveaux de séniorité) qui ont intégré l'IA. Mettre en avant non seulement les succès mais aussi les difficultés, le temps d'adaptation réel et l'impact sur leur facturation.",
-          "Développer un comparatif d'outils IA réellement indépendant et basé sur des tests pratiques. Noter les outils sur des critères pertinents pour notre cible : facilité de prise en main pour un non-tech, rapport qualité/prix, gain de temps réel sur une tâche précise, et souveraineté.",
-          "Créer une section \"IA vs. Compétences Humaines\" qui rassure et guide, en montrant quelles compétences (négociation, empathie, stratégie de plaidoirie) deviennent encore plus cruciales et comment l'IA libère du temps pour les développer.",
-          "Aborder l'angle économique de front : comment l'IA change la facturation ? Faut-il facturer au forfait, à la valeur ? Proposer des modèles et des témoignages sur la transition économique des cabinets."
+          "Adopter un angle 'Reconversion & Évolution de carrière' très direct : 'Avocat en 2026 : s'adapter ou disparaître ? Les 3 voies possibles : l'avocat augmenté, l'avocat spécialiste IA, l'ex-avocat devenu...'",
+          "Créer un dossier complet sur l'impact salarial : 'Votre salaire d'avocat est-il menacé par l'IA ? Analyse des nouveaux modèles de facturation et des compétences qui paient.'",
+          "Publier un guide pratique et actionnable : 'Le kit de démarrage IA pour l'avocat curieux : 5 outils à tester cette semaine (dont 3 gratuits) pour booster votre productivité.'",
+          "Intégrer une analyse prospective sourcée et chiffrée : 'Le marché de l'emploi des avocats face à l'IA : ce que disent vraiment les études de McKinsey, l'OCDE et France Travail. On a tout lu pour vous.'",
+          "Proposer des trajectoires de reconversion concrètes avec des témoignages : 'Ils étaient avocats, l'IA a changé leur carrière. Portraits de reconversions réussies vers la LegalTech, la conformité IA, etc.'"
         ],
         "must_include_sections": [
-          "L'IA va-t-elle vraiment remplacer les avocats ? La réponse sans détour.",
-          "Les 5 tâches que l'IA fait déjà mieux (et plus vite) qu'un avocat junior.",
-          "Le plan d'action pour devenir un \"Avocat Augmenté\" : compétences, outils et formations.",
-          "Comparatif 2026 des outils IA qui changent vraiment la donne en cabinet (testés et notés).",
-          "Repenser son business model : comment facturer à l'ère de l'IA ?",
-          "Témoignages : Ils sont avocats, ils utilisent l'IA tous les jours et ils racontent."
+          "Avocat et IA : le choc est bien réel, les chiffres clés à connaître",
+          "Les tâches que l'IA fait déjà mieux que vous (et comment en profiter)",
+          "Se réinventer : les 3 profils d'avocats qui existeront encore en 2030",
+          "L'impact sur votre portefeuille : vers une baisse des salaires ou une prime à la compétence IA ?",
+          "Plan d'action : les compétences à acquérir et les outils à maîtriser pour rester pertinent",
+          "Au-delà du droit : les pistes de reconversion pour les avocats à l'ère de l'IA"
         ],
         "citable_facts_to_verify": [
-          "76 % des professionnels du droit utilisent ou testent des outils d'IA dans leur cabinet en 2024 (source : Wolters Kluwer).",
-          "90 % des avocats et des juristes d'entreprise estiment que l'IA aura un impact important sur leur métier (source : étude Perspectives Avocats et Juristes 2025, OpinionWay pour Lamy Liaisons).",
-          "54 % des juristes d'entreprise pensent que le budget conseil juridique (appel à un avocat) va diminuer dans les années à venir.",
-          "70 % des avocats estiment pouvoir gagner jusqu'à 5 heures par semaine grâce à l'IA (source : Septeo)."
+          "70% des avocats estiment pouvoir gagner jusqu'à 5 heures par semaine grâce à l'IA.",
+          "90% des avocats et juristes estiment que l'IA aura un impact important sur leur métier.",
+          "Différence d'adoption de l'IA générative entre juristes d'entreprise (81%) et avocats (65%).",
+          "54% des juristes d'entreprise pensent que le budget conseil juridique va diminuer."
         ],
         "entities_to_mention": [
-          "Wolters Kluwer",
-          "Lefebvre Dalloz",
-          "LexisNexis",
-          "Doctrine",
-          "Jimini",
-          "Harvey AI",
           "Conseil National des Barreaux (CNB)",
-          "AFJE (Association Française des Juristes d'Entreprise)"
+          "AI Act (Règlement européen sur l'IA)",
+          "LegalTech",
+          "Harvey AI",
+          "Doctrine",
+          "Septeo",
+          "PwC Société d'Avocats",
+          "OpenAI",
+          "Google",
+          "Mistral AI"
         ],
         "target_word_count": 3000,
         "intent_type": "informational",
-        "featured_snippet_opportunity": "Liste à puces. Formulation cible : \"Quelles sont les tâches d'un avocat impactées par l'IA ? 1. La recherche documentaire et jurisprudentielle. 2. L'analyse et la révision de contrats. 3. La rédaction d'actes juridiques simples et de synthèses. 4. L'aide à la prévision des décisions de justice.\"",
+        "featured_snippet_opportunity": "Liste à puces répondant à la question 'Quels sont les impacts de l'IA sur le métier d'avocat ?' ou un paragraphe de définition pour 'Qu'est-ce qu'un avocat augmenté ?'",
         "serp_features_detected": [
           "AI Overview",
-          "People Also Ask",
-          "Video"
+          "People Also Ask (PAA)",
+          "Top Stories",
+          "Video Pack"
         ],
-        "grounding_sources": [
-          {
-            "title": "aivancity.ai",
-            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLwYcULvN_tfC1ot-dsn14VrWPi-0Ym1_mcEcMtt8GC0p__gfK_KpWFpG7iqOTu7RKN2sHU5L2cE5HM2OsLiwKqqeeemuPmUjwukHrwGFRZ_jaLvi1iyDYmjc2AH--VzmtBWARWnDLGZ98egRKlQqzE4xAdSfXWZBP5JCZrr8ex-gG80esJP57yo0WLwwfCsaxPwcH2REpaPNXksnXdnr2OLJ7UDDBr-1cVWIu6bquCElOQxkuhAaJptsMMQvx8McL7FA="
-          },
-          {
-            "title": "afje.org",
-            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOK6FBh7oki_Ta6Wyb3vkWHP6lrDdZ3555tnznStH_CZJB1bLUjNYPR-DH38bpfr7acwIAjZ6w5y1XZJI2Ft87bhIORLq3FMrDurCknXrTvJJnP-an6IwScdYRME-2YjI0pfABZq0UWNDuELGlT4XRfqQDKMv9N1i6g2dQu7IyKeXUQb-m"
-          },
-          {
-            "title": "septeo.com",
-            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-3C54i0rmB9jzmbca8DClh1qaZHgM0CAJW72PvSKwygNPQ-pUdQqUg5cSwetYKfWaTEHqTVnU7SnRkwQL9BDbywbn-A3OsDXY8w5ggGkHjP2V7UGsEZGahygzm-a35pfmT8uTKdliLNmMUQDrLBOkG656z8bOBtX_dY-3zT6WilxcBq23aJApCfH-pamQtSsJNcvwBpH5_w=="
-          }
-        ]
+        "grounding_sources": []
       }
-    }
+    },
+    "queue_file": "avocat-vs-ia-comment-adapter-rester-competitif.md",
+    "pre_generated_at": "2026-04-22T20:41:36",
+    "quality_passed": true
   },
   {
     "title": "Midjourney pour graphistes : Menace ou opportunité ?",
@@ -1112,7 +1101,7 @@
     "index": 11,
     "published": false,
     "published_at": null,
-    "slug": null,
+    "slug": "midjourney-graphistes-menace-opportunite",
     "scheduled_date": "2026-04-28",
     "scheduled_time": "08:29",
     "scheduled_datetime": "2026-04-28T08:29:00",
@@ -1122,156 +1111,155 @@
     "author": "Theo Marchand",
     "serp_brief": {
       "keyword": "Midjourney graphiste",
-      "generated_at": "2026-04-18T23:53:19",
+      "generated_at": "2026-04-22T20:42:07",
       "model": "gemini-2.5-pro",
       "brief": {
         "top10": [
           {
             "rank": 1,
-            "domain": "la-fusee.io",
-            "title": "Formation Midjourney (Génération d'images avec l'IA) - La Fusée",
-            "main_angle": "Présentation d'une formation Midjourney comme un outil pour gagner en productivité et créativité pour les graphistes.",
-            "strength": "Page de vente directe et claire, axée sur les bénéfices (gain de temps, inspiration).",
-            "weakness": "Contenu purement commercial, manque d'informations de fond sur l'impact du métier."
+            "domain": "jvtech.io",
+            "title": "J'ai testé MidJourney, l'IA qui fait peur à tous les graphistes - JVTECH by jeuxvideo.com",
+            "main_angle": "Témoignage personnel et avis sur l'outil, abordant la question de la menace pour la profession.",
+            "strength": "Approche personnelle et concrète, facile à lire pour un public large. Le titre est accrocheur et anxiogène, ce qui génère du clic.",
+            "weakness": "Contenu datant de 2023, superficiel sur l'impact économique et les stratégies d'adaptation. Manque de données chiffrées et de sources expertes."
           },
           {
             "rank": 2,
-            "domain": "graphiste.com",
-            "title": "Guide pour générer des images captivantes avec Midjourney - Graphiste Blog",
-            "main_angle": "Tutoriel pratique sur l'utilisation de Midjourney (via Discord et le site), avec un focus sur la rédaction de prompts.",
-            "strength": "Guide détaillé et actionnable pour les débutants, bien structuré avec des exemples de commandes.",
-            "weakness": "Article un peu daté (janvier 2023), ne couvre pas les dernières versions et fonctionnalités de Midjourney."
+            "domain": "m2iformation.fr",
+            "title": "Formation Midjourney pour les créatifs - M2I",
+            "main_angle": "Offre de formation professionnelle pour les graphistes et créatifs souhaitant maîtriser Midjourney.",
+            "strength": "Page commerciale claire, bien structurée pour la conversion. Cible directement les professionnels.",
+            "weakness": "Angle purement commercial (vente de formation), n'informe pas sur l'impact métier de manière neutre. Pas de contenu éditorial de fond."
           },
           {
             "rank": 3,
-            "domain": "monsieurgraphic.com",
-            "title": "Comment l'IA transforme le métier de graphiste en 2026 | MonsieurGraphic",
-            "main_angle": "Analyse prospective de l'impact de l'IA (Midjourney, Firefly) sur le métier de graphiste, les compétences et les tarifs.",
-            "strength": "Angle visionnaire et stratégique, cite des chiffres (McKinsey) et aborde l'aspect économique (tarifs).",
-            "weakness": "Contenu un peu généraliste, survole plusieurs outils sans approfondir un workflow précis pour Midjourney."
+            "domain": "la-fusee.io",
+            "title": "Formation Midjourney (Génération d'images avec l'IA) - La Fusée",
+            "main_angle": "Page de vente pour une formation Midjourney, mettant en avant le gain de productivité et la créativité.",
+            "strength": "Argumentaire commercial bien rodé, insiste sur les bénéfices (gain de temps, inspiration).",
+            "weakness": "Objectif commercial, pas de recul critique ni d'analyse de fond sur les transformations du métier."
           },
           {
             "rank": 4,
-            "domain": "m2iformation.fr",
-            "title": "Formation Midjourney pour les créatifs - M2I",
-            "main_angle": "Offre de formation professionnelle pour les créatifs (graphistes, DA) souhaitant intégrer Midjourney à leur processus.",
-            "strength": "Ciblage précis de l'audience (professionnels de l'image) et objectifs pédagogiques clairs.",
-            "weakness": "Page commerciale sans contenu informationnel gratuit pour attirer et éduquer le lecteur."
+            "domain": "24-7.studio",
+            "title": "IA graphisme : comment l'intelligence artificielle transforme le métier de designer en 2026",
+            "main_angle": "Analyse prospective sur l'évolution du métier de designer avec l'IA, liste d'outils et de compétences.",
+            "strength": "Titre et contenu à jour (date de 2026), approche prospective qui correspond à l'attente de l'audience. Aborde les limites de l'IA.",
+            "weakness": "Contenu assez généraliste, pourrait être plus approfondi sur les aspects socio-économiques (salaires, emploi)."
           },
           {
             "rank": 5,
-            "domain": "pixelart.net",
-            "title": "Comment utiliser Midjourney en graphisme - PiXEL!ART",
-            "main_angle": "Guide pratique et humoristique sur l'utilisation de Midjourney pour des besoins de communication visuelle.",
-            "strength": "Ton original et engageant, approche par l'exemple (le dauphin sur un skateboard).",
-            "weakness": "Manque de profondeur technique et de mise en perspective sur l'évolution du métier."
+            "domain": "gobelins.fr",
+            "title": "MidJourney : libérez votre créativité avec l'IA générative - Gobelins",
+            "main_angle": "Présentation d'une formation par une école de renom, gage de qualité et de sérieux.",
+            "strength": "Autorité du domaine (Gobelins est une référence). Programme détaillé qui peut servir d'inspiration pour une structure d'article.",
+            "weakness": "Page de destination pour une formation, donc contenu orienté et non un article de fond neutre."
           },
           {
             "rank": 6,
-            "domain": "gobelins.fr",
-            "title": "MidJourney : libérez votre créativité avec l'IA générative - GOBELINS Paris",
-            "main_angle": "Présentation d'une formation par une école prestigieuse, axée sur l'intégration de Midjourney dans un processus créatif professionnel.",
-            "strength": "Crédibilité de la marque GOBELINS, programme détaillé qui rassure sur la qualité.",
-            "weakness": "Barrière à l'entrée (formation payante), pas de contenu directement consommable sur la page."
+            "domain": "daria-school.com",
+            "title": "Formation Midjourney : Créez des visuels époustouflants avec l'IA | DARIA",
+            "main_angle": "Offre de formation pratique d'une journée pour maîtriser l'outil.",
+            "strength": "Clarté de l'offre, programme détaillé, cible large (graphistes, marketing, etc.).",
+            "weakness": "Purement commercial, aucune analyse de l'impact sur l'emploi ou la reconversion."
           },
           {
             "rank": 7,
-            "domain": "formations-graphiste-illustrator-photoshop.fr",
-            "title": "Formation IA Midjourney : Maîtriser le Prompting Pro | 1 Jour",
-            "main_angle": "Formation experte d'une journée centrée sur la maîtrise avancée du prompting pour les directeurs artistiques et graphistes.",
-            "strength": "Spécialisation sur une compétence clé (le prompting) pour un public déjà initié.",
-            "weakness": "Format très court (1 jour) qui peut sembler léger pour une maîtrise \"pro\"."
+            "domain": "prompt-inspiration.com",
+            "title": "Le métier de graphiste va-t-il disparaître à cause de l'IA ? - Prompt Inspiration",
+            "main_angle": "Article de blog qui répond à la question anxiogène de la disparition du métier.",
+            "strength": "Titre qui capte l'intention de recherche principale. Angle rassurant (transformation vs disparition).",
+            "weakness": "Contenu assez court et superficiel. Manque de données, de témoignages et de sources pour étayer le propos."
           },
           {
             "rank": 8,
-            "domain": "openart.ai",
-            "title": "Les 25 Meilleurs Prompts Midjourney pour le Design Graphique - OpenArt",
-            "main_angle": "Liste d'exemples de prompts Midjourney spécifiquement pour des besoins de design graphique.",
-            "strength": "Contenu très pratique et inspirant, facile à copier-coller pour tester.",
-            "weakness": "Article de type \"liste\" qui manque de contexte stratégique sur le \"pourquoi\" et le \"comment\" intégrer ces prompts dans un projet."
+            "domain": "dusiropshop.com",
+            "title": "Les agents IA vont-ils remplacer les graphistes ? - DU SIROP design",
+            "main_angle": "Analyse de l'impact de l'IA par une agence de design, positionnant l'IA comme un outil de collaboration.",
+            "strength": "Point de vue de professionnels du secteur. Angle intéressant sur la collaboration 'IA + humain'.",
+            "weakness": "Article d'agence, donc potentiellement biaisé pour rassurer ses clients. Manque de vision macro-économique."
           },
           {
             "rank": 9,
             "domain": "alphorm.com",
             "title": "Formation Midjourney : Apprendre l'Art de Créer des Images et Visuels avec l'IA - Alphorm",
-            "main_angle": "Page de vente pour une formation en ligne, mettant en avant l'urgence de se former pour ne pas être dépassé.",
-            "strength": "Joue sur l'urgence et la peur d'être obsolète, un levier psychologique fort.",
-            "weakness": "Discours très commercial, peu de valeur informationnelle directe."
+            "main_angle": "Page de vente pour une formation en ligne, axée sur la transformation de carrière.",
+            "strength": "Argumentaire de vente qui joue sur l'urgence de se former pour rester pertinent sur le marché du travail.",
+            "weakness": "Commercial. Le discours sur la 'transformation de carrière' n'est pas étayé par des faits ou des données sur l'emploi."
           },
           {
             "rank": 10,
-            "domain": "pyramyd-formation.com",
-            "title": "Formation Midjourney pour les créatifs - PYRAMYD",
-            "main_angle": "Offre de formation qui positionne Midjourney comme un outil haut de gamme pour les créatifs, en insistant sur son orientation esthétique.",
-            "strength": "Met en avant les points forts spécifiques de Midjourney (richesse stylistique, rendu) et aborde les questions d'éthique et de droit.",
-            "weakness": "Page de destination pour une formation payante, pas un article de fond."
+            "domain": "thefutur.com",
+            "title": "MidJourney for Graphic Designers & Creatives",
+            "main_angle": "Cours en anglais destiné aux designers pour utiliser Midjourney de manière stratégique.",
+            "strength": "Positionnement haut de gamme, axé sur la stratégie et pas seulement la technique. Contenu en anglais, mais source d'inspiration.",
+            "weakness": "Non pertinent pour le marché francophone directement, mais indique une tendance de fond sur la spécialisation."
           }
         ],
         "common_angles": [
-          "Présentation de Midjourney comme un outil pour les graphistes.",
-          "Offres de formations (majoritairement présentes dans le top 10).",
-          "Tutoriels sur le fonctionnement de base (prompts, commandes Discord).",
-          "L'IA comme une révolution pour les métiers créatifs."
+          "L'IA (Midjourney) est un outil qui transforme le métier, pas qui le remplace.",
+          "Il faut se former à Midjourney pour rester compétitif (angle des pages de formation).",
+          "L'IA permet de gagner en productivité et de se concentrer sur la créativité et la stratégie.",
+          "La créativité, la vision stratégique et la compréhension du client restent des compétences humaines clés.",
+          "Tutoriels et guides pratiques sur 'comment utiliser Midjourney'."
         ],
         "weak_angles": [
-          "Retours d'expérience concrets et études de cas de graphistes (freelances ou agences) qui ont intégré Midjourney.",
-          "Analyse critique des limites de Midjourney pour des livrables graphiques professionnels (gestion du texte, formats vectoriels, cohérence de marque).",
-          "Comparaison approfondie des workflows : traditionnel vs. assisté par IA (temps, coût, qualité).",
-          "Aspects juridiques et éthiques : droits d'auteur des images générées, utilisation pour des clients, formation des modèles."
+          "L'impact concret sur les salaires et les tarifs des freelances (adaptation salariale).",
+          "Analyse chiffrée du marché de l'emploi pour les graphistes (données France Travail, APEC, etc.).",
+          "Les aspects juridiques (droit d'auteur, propriété des créations) sont peu ou pas approfondis.",
+          "Témoignages contradictoires : graphistes qui ont perdu des contrats vs ceux qui en ont gagné grâce à l'IA.",
+          "La segmentation du métier : quels types de graphistes sont les plus menacés (ex: production pure) vs les plus valorisés (ex: direction artistique).",
+          "La reconversion : que faire concrètement si son poste est menacé ? Vers quels métiers évoluer ?"
         ],
         "winning_moves": [
-          "Créer un guide ultime et honnête : 'Midjourney pour les Graphistes en 2026 : Le Guide Zéro Bullshit'. Combiner le tutoriel pratique (comment ça marche) avec l'analyse stratégique (comment ça transforme le métier).",
-          "Intégrer des études de cas réels : interviewer 3 graphistes (un freelance, un en agence, un directeur artistique) qui utilisent Midjourney. Montrer leurs créations, leurs prompts, et leur retour sur investissement.",
-          "Publier un comparatif de workflow détaillé : prendre un brief client type (ex: créer une identité visuelle pour un café) et le réaliser de deux manières : 100% traditionnel vs. workflow hybride avec Midjourney pour l'idéation et le moodboard. Documenter les heures, les coûts et le résultat.",
-          "Aborder frontalement les points faibles : créer une section dédiée aux 'Drapeaux Rouges' : les limites de Midjourney pour le print, la gestion de la typographie, la cohérence sur le long terme, et les solutions de contournement (ex: passage dans Illustrator/Photoshop).",
-          "Construire un glossaire visuel des styles et paramètres pertinents pour le graphisme : au-delà d'une simple liste de prompts, expliquer visuellement ce que des commandes comme `--style`, `--chaos`, ou des termes comme 'flat design', 'vector logo' produisent concrètement dans Midjourney."
+          "Adopter un angle 'zéro bullshit' : analyser froidement qui va perdre son job et pourquoi, chiffres à l'appui, en citant des sources comme l'OCDE ou France Travail.",
+          "Créer un dossier complet et sourcé sur l'adaptation salariale : comment les tarifs des freelances et les salaires des graphistes évoluent-ils face à l'IA ? Interviewer des experts et des professionnels.",
+          "Dépasser le débat 'outil vs remplacement' pour se concentrer sur les stratégies concrètes de montée en compétences et de reconversion. Proposer des parcours types.",
+          "Aborder les angles morts juridiques et éthiques de manière approfondie, avec l'avis d'un juriste spécialisé, pour informer et protéger les professionnels.",
+          "Intégrer des témoignages vidéo ou écrits forts et authentiques de graphistes qui vivent cette transition, avec leurs succès et leurs difficultés, pour créer de l'identification."
         ],
         "must_include_sections": [
-          "Midjourney : Une Révolution ou une Menace pour les Graphistes ?",
-          "Comment Intégrer Midjourney dans votre Workflow Créatif (Pas à Pas)",
-          "Étude de Cas : Comment [Nom d'un graphiste] a Divisé par 2 son Temps d'Idéation",
-          "Les Limites de Midjourney pour un Usage Professionnel (et Comment les Contourner)",
-          "Prompting pour Graphistes : Les Paramètres et Mots-clés qui Changent Tout",
-          "L'Impact de Midjourney sur les Tarifs et la Relation Client : Faut-il en Parler ?",
-          "Aspects Juridiques : À Qui Appartiennent les Images Générées par Midjourney ?"
+          "Midjourney et IA : La fin des graphistes ou la plus grande opportunité de leur carrière ?",
+          "État des lieux du marché de l'emploi pour les graphistes en France : ce que disent les chiffres (France Travail, OCDE).",
+          "Qui est vraiment menacé ? La différence entre le graphiste 'exécutant' et le 'directeur artistique augmenté'.",
+          "Adapter ses tarifs et son salaire à l'ère de l'IA : comment rester pertinent et rentable ?",
+          "Les 5 nouvelles compétences clés pour le graphiste de demain (Prompt Engineering, Direction Artistique IA, Éthique & Droit...).",
+          "Plan d'action : se former, faire évoluer son portfolio, se repositionner. Guide pratique pour ne pas subir."
         ],
         "citable_facts_to_verify": [
-          "Les graphistes qui maîtrisent ces outils augmentent leur productivité de 40 à 60 % (source citée : McKinsey, 2025).",
-          "Les tarifs des tâches d'exécution pure (détourage, etc.) baissent de 30 à 50%.",
-          "Midjourney V6 produit des images avec une résolution atteignant 4096x4096 pixels.",
-          "Les tarifs d'abonnement à Midjourney varient de 10 à 60 $/mois."
+          "Statistiques sur l'évolution du nombre d'offres d'emploi pour les graphistes en France sur les 3 dernières années.",
+          "Données sur l'évolution des revenus moyens des graphistes freelances (via Malt, Upwork, etc.).",
+          "Rapports de McKinsey, PwC ou du FMI sur l'impact de l'IA générative sur les métiers créatifs.",
+          "État de la jurisprudence en France et en Europe concernant le droit d'auteur des œuvres générées par IA.",
+          "Pourcentage de tâches d'un graphiste qui sont 'automatisables' selon des études récentes."
         ],
         "entities_to_mention": [
           "Midjourney",
           "Adobe Firefly",
-          "DALL-E 3",
           "Stable Diffusion",
+          "DALL-E",
+          "France Travail",
+          "OCDE",
+          "McKinsey",
+          "Gobelins, l'école de l'image",
           "Discord",
-          "Photoshop",
-          "Illustrator",
-          "Canva Magic Studio"
+          "David Holz"
         ],
         "target_word_count": 3000,
         "intent_type": "informational",
-        "featured_snippet_opportunity": "Liste à puces. Formulation cible : 'Comment un graphiste peut-il utiliser Midjourney ? 1. Pour l'idéation rapide et la création de moodboards. 2. Pour générer des textures et des arrière-plans uniques. 3. Pour créer des illustrations complexes pour des articles de blog ou des réseaux sociaux. 4. Pour visualiser des concepts de campagnes publicitaires. 5. Pour produire des variations d'un même visuel rapidement.'",
+        "featured_snippet_opportunity": "Une liste à puces répondant à la question 'Quelles compétences un graphiste doit-il développer face à l'IA ?' ou un tableau comparatif 'Graphiste traditionnel vs. Graphiste augmenté par l'IA'.",
         "serp_features_detected": [
-          "AI Overview",
-          "People Also Ask",
-          "Video",
-          "Image Pack"
+          "PAA (People Also Ask)",
+          "Vidéos",
+          "Top Stories (Actualités)",
+          "Recherches associées"
         ],
-        "grounding_sources": [
-          {
-            "title": "pyramyd-formation.com",
-            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwtquXAJ8U9bo2Pe_2HFxeq7sN0nG2mHm60LEu0U8mzg88IUJ3qm2Hslhn6Fr9H8XczD7U-QBSgU07fMGZno-b90HVmk5Ql_0BgbYiRhueiNmJ5oXQ4zAXzksf14xuRkjdAdJ0_4mAE8MyBW3uosbdGq9IRBvYN7ok7vla5Bk="
-          },
-          {
-            "title": "monsieurgraphic.com",
-            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFIGX1Uerh4MdMzPyK3K0rLsFuAx1dEEMDyKyNaJfMcVdZ5MnsY6DJNlvL2iEBcOod0E_PrtxKd61LpVI5X0_z1tAcSg5SZyRKIJC4tMioguNv4jfHelP6rsii67ENI1dzEpL_IknOeDEA1pqifxcTmG4Migymwt0uyCkLpnVqc4tPF9Y1olHj0wcEYiWa"
-          }
-        ]
+        "grounding_sources": []
       }
-    }
+    },
+    "queue_file": "midjourney-graphistes-menace-opportunite.md",
+    "pre_generated_at": "2026-04-22T20:49:24",
+    "quality_passed": true
   },
   {
     "title": "Reconversion à 45 ans avec l'IA : Étapes et conseils",
@@ -1281,7 +1269,7 @@
     "index": 12,
     "published": false,
     "published_at": null,
-    "slug": null,
+    "slug": "reconversion-45-ans-ia-etapes-conseils",
     "scheduled_date": "2026-04-29",
     "scheduled_time": "09:53",
     "scheduled_datetime": "2026-04-29T09:53:00",
@@ -1291,199 +1279,180 @@
     "author": "Sarah Bellamy",
     "serp_brief": {
       "keyword": "reconversion 45 ans IA",
-      "generated_at": "2026-04-18T23:53:49",
+      "generated_at": "2026-04-22T20:51:37",
       "model": "gemini-2.5-pro",
       "brief": {
         "top10": [
           {
             "rank": 1,
-            "domain": "dora.inclusion.beta.gouv.fr",
-            "title": "Formation des séniors à l'intelligence artificielle pour leur recherche d'emploi - Montluçon | FACE TERRITOIRE BOURBONNAIS | DORA",
-            "main_angle": "Présentation d'une formation spécifique à l'IA pour les seniors (+45 ans) en recherche d'emploi.",
-            "strength": "Très ciblé sur l'aspect formation pratique et local (Montluçon), répond à un besoin concret.",
-            "weakness": "Portée très locale et spécifique à une seule formation, ne traite pas la reconversion de manière globale."
+            "domain": "nouvelleviepro.fr",
+            "title": "Intelligence artificielle : 10 métiers de l'IA qui recrutent",
+            "main_angle": "Liste de métiers accessibles dans l'IA, présentée comme une opportunité de reconversion générale.",
+            "strength": "Article bien structuré (liste), facile à lire, qui donne des idées concrètes de métiers.",
+            "weakness": "Ne cible pas spécifiquement les 45 ans. Le contenu reste générique sur la reconversion et n'aborde pas les défis ou atouts liés à l'âge."
           },
           {
             "rank": 2,
-            "domain": "lastucieux.fr",
-            "title": "Formation IA Retraité : Débuter facilement avec ChatGPT - Lastucieux",
-            "main_angle": "Offre de formation payante à ChatGPT pour les retraités et seniors (60+).",
-            "strength": "Angle commercial clair, s'adresse à une audience précise avec une promesse simple (débuter facilement).",
-            "weakness": "Cible les retraités (60+) et non les actifs de 45 ans en reconversion. Contenu très léger, orienté vente."
+            "domain": "studeria.fr",
+            "title": "Reconversion dans l'IA en 2026 : par où commencer quand on part de zéro",
+            "main_angle": "Guide pour débutants absolus souhaitant se reconvertir dans l'IA, avec un focus sur les métiers sans code.",
+            "strength": "Angle rassurant ('partir de zéro'), mentionne des métiers accessibles comme Prompt Engineer. Propose une feuille de route.",
+            "weakness": "Pas de ciblage d'âge spécifique. L'angle 'zéro code' peut être trop simpliste et ne pas valoriser l'expérience antérieure des profils seniors."
           },
           {
             "rank": 3,
-            "domain": "happysilvers.fr",
-            "title": "Formation numérique pour seniors | Ateliers & Formations IA",
-            "main_angle": "Promotion d'ateliers et formations IA pour les 50+ axés sur la recherche d'emploi et l'usage quotidien.",
-            "strength": "Combine l'aspect 'recherche d'emploi' et 'vie de tous les jours', ce qui est pertinent pour la cible.",
-            "weakness": "Page de destination assez générique, manque de contenu de fond sur les métiers ou les stratégies de reconversion."
+            "domain": "ironhack.com",
+            "title": "Se reconvertir dans la Tech après 30 ans : âge, formations et réalité du marché",
+            "main_angle": "Démystifier l'âge comme frein à la reconversion dans la Tech, en valorisant les soft skills.",
+            "strength": "Aborde directement la question de l'âge, ce qui est pertinent. Met en avant la valeur de l'expérience et des soft skills.",
+            "weakness": "Parle de la 'Tech' en général, l'IA n'est qu'une partie du sujet. L'âge est traité (30 ans et +) mais pas les spécificités des 45 ans et plus."
           },
           {
             "rank": 4,
-            "domain": "proevent97.com",
-            "title": "Formation IA seniors :apprendre à utiliser l'intelligence artificielle - ProEvent97",
-            "main_angle": "Présentation d'un atelier de 3 jours pour les 50+ pour démystifier l'IA et apprendre les bases (ChatGPT, assistants vocaux).",
-            "strength": "Programme détaillé et rassurant, vise à démocratiser l'IA pour les seniors.",
-            "weakness": "Événementiel et localisé (Le Robert), pas un contenu de fond sur la reconversion professionnelle."
+            "domain": "youtube.com",
+            "title": "Comment les 50 ans et + peuvent utiliser l'IA pour sauver leur carrière ?",
+            "main_angle": "Vidéo motivationnelle qui positionne l'IA comme un levier de performance pour les professionnels expérimentés.",
+            "strength": "Cible directement les seniors (+50 ans), angle positif et proactif ('sauver leur carrière'). Cite des études et donne des gains chiffrés.",
+            "weakness": "Format vidéo, moins facile à scanner pour une information rapide. L'angle est plus sur l'intégration de l'IA dans le métier actuel que sur une reconversion complète."
           },
           {
             "rank": 5,
-            "domain": "ivado.ca",
-            "title": "La formation en IA au service des 50 ans et plus - IVADO",
-            "main_angle": "Annonce d'un partenariat entre un consortium de recherche (IVADO) et une Université du troisième âge pour former les 50+ à l'IA.",
-            "strength": "Crédibilité institutionnelle (consortium de recherche, université).",
-            "weakness": "Contenu informationnel (annonce), non actionnable pour un individu. Concerne le marché québécois."
+            "domain": "je-change-de-metier.com",
+            "title": "Formation Intelligence Artificielle (IA) : reconversion et montée en compétences",
+            "main_angle": "Présentation des différents types de formations en IA pour la reconversion ou la montée en compétences.",
+            "strength": "Focus pratique sur la formation, mentionne les financements (CPF). Utile pour l'étape 'comment faire'.",
+            "weakness": "Totalement générique, ne mentionne ni l'âge, ni les parcours de reconversion spécifiques. Le site vend des formations, ce qui biaise le propos."
           },
           {
             "rank": 6,
-            "domain": "nouvelleviepro.fr",
-            "title": "Intelligence artificielle : 10 métiers de l'IA qui recrutent - Nouvelle Vie Professionnelle",
-            "main_angle": "Liste de 10 métiers porteurs dans l'IA, présentés comme accessibles en reconversion.",
-            "strength": "Contenu riche et structuré (liste), aborde concrètement les débouchés.",
-            "weakness": "Ne cible pas spécifiquement les 45+, l'angle de l'âge est absent. Assez générique."
+            "domain": "francenum.gouv.fr",
+            "title": "Comment se former à l'intelligence artificielle",
+            "main_angle": "Ressource gouvernementale listant des formations en IA, notamment un MOOC.",
+            "strength": "Source officielle et crédible (.gouv.fr). Mentionne que 25% des participants à un MOOC ont plus de 45 ans, un fait pertinent.",
+            "weakness": "Page très courte, peu détaillée. L'information sur l'âge est une statistique isolée, pas un angle de contenu."
           },
           {
             "rank": 7,
-            "domain": "memepascap.fr",
-            "title": "10 métiers de l'IA qui recrutent et dans lesquels se former",
-            "main_angle": "Liste de métiers de l'IA accessibles en reconversion, avec un focus sur le fait qu'il ne faut pas forcément être ingénieur.",
-            "strength": "Angle rassurant ('nul besoin d'être ingénieur'), bien structuré et actionnable (idées de métiers).",
-            "weakness": "Ne traite pas du tout des défis ou opportunités spécifiques à une reconversion à 45 ans."
+            "domain": "hays.fr",
+            "title": "Top 9 des métiers de l'IA qui recrutent",
+            "main_angle": "Liste des métiers de l'IA les plus demandés et les mieux rémunérés.",
+            "strength": "Contenu clair, orienté marché du travail avec des estimations de salaires, ce qui est un facteur clé en reconversion.",
+            "weakness": "Aucun angle sur la reconversion ou l'âge. S'adresse implicitement à des profils déjà techniques ou juniors."
           },
           {
             "rank": 8,
-            "domain": "recrutement-orizon.fr",
-            "title": "45 Ans Est-Ce Trop Vieux Pour Démarrer Un Métier ? - Recrutement orizon",
-            "main_angle": "Article générique qui déconstruit les préjugés sur la reconversion à 45 ans, avec des témoignages.",
-            "strength": "Adresse directement la peur de l'âge ('est-ce trop vieux ?'), utilise des témoignages pour rassurer.",
-            "weakness": "Ne mentionne pas spécifiquement l'IA. Le contenu reste très généraliste sur la reconversion des seniors."
+            "domain": "lefebvre-dalloz.fr",
+            "title": "Les seniors et l'IA : pourquoi faut-il absolument les former ?",
+            "main_angle": "Plaidoyer pour la formation des seniors à l'IA, en soulignant la fracture générationnelle et les stéréotypes.",
+            "strength": "Aborde de front les freins psychologiques et les stéréotypes liés à l'âge. Cite des études (Randstad, Statista).",
+            "weakness": "S'adresse plus aux entreprises/managers qu'aux individus en reconversion. L'angle est sur le 'problème' des seniors, pas sur leur 'opportunité'."
           },
           {
             "rank": 9,
-            "domain": "hellowork.com",
-            "title": "Reconversion à l'ère de l'IA : 5 métiers manuels recherchés et bien rémunérés | Hellowork",
-            "main_angle": "Angle contre-intuitif : l'IA crée des besoins dans les métiers manuels (soudeur, électricien pour data centers).",
-            "strength": "Angle original et très pertinent, qui prend le contre-pied du 'tout numérique'. Sourcé avec des données de France Travail.",
-            "weakness": "Ne traite que des métiers manuels, ce qui est une niche spécifique de la reconversion IA."
+            "domain": "michaelpage.fr",
+            "title": "Reconversion après 45 ans : avez-vous pensé au management de transition ?",
+            "main_angle": "Proposer le management de transition comme voie de reconversion pour les cadres de plus de 45 ans.",
+            "strength": "Cible parfaitement la tranche d'âge et la notion de reconversion.",
+            "weakness": "L'IA n'est pas du tout le sujet. Le résultat est pertinent sur 'reconversion 45 ans' mais pas sur 'IA'."
           },
           {
             "rank": 10,
-            "domain": "oclock.io",
-            "title": "Reconversion professionnelle à 45 ans : devenir Développeur Web Fullstack - O'clock",
-            "main_angle": "Témoignage d'un homme de 45 ans reconverti en développeur web via une formation spécifique.",
-            "strength": "Format témoignage très puissant et crédible, qui permet l'identification.",
-            "weakness": "Focalisé sur le métier de développeur web, qui n'est pas un pur métier 'IA' même s'il est connexe. Contenu promotionnel pour une école."
+            "domain": "liora.ai",
+            "title": "Se reconvertir dans l'IA : Comment faire ? Quelles perspectives ?",
+            "main_angle": "Guide général sur les raisons et les étapes d'une reconversion dans l'IA.",
+            "strength": "Article bien structuré qui répond au 'Pourquoi' et 'Comment'.",
+            "weakness": "Très générique. Ne cible pas du tout l'âge et reste en surface. Le site vend des formations."
           }
         ],
         "common_angles": [
-          "Listes de métiers qui recrutent dans l'IA (Data Scientist, Ingénieur IA, etc.).",
-          "Offres de formation pour les seniors pour s'initier à l'IA (souvent ChatGPT).",
-          "Contenus génériques sur la reconversion après 45 ans, sans focus IA.",
-          "L'IA est une opportunité majeure de reconversion."
+          "Listes de métiers IA qui recrutent",
+          "Guides généraux sur la reconversion dans l'IA",
+          "Importance de la formation",
+          "L'IA comme secteur d'avenir à forte demande"
         ],
         "weak_angles": [
-          "L'articulation précise entre l'expérience acquise avant 45 ans et les nouveaux métiers de l'IA (comment valoriser son parcours ?).",
-          "Les défis psychologiques et stratégiques spécifiques à la reconversion vers un domaine tech à 45 ans (syndrome de l'imposteur, rythme d'apprentissage, etc.).",
-          "Les métiers 'non-techniques' de l'IA (Chef de projet IA, Consultant en transformation IA, Product Manager IA) qui sont parfaits pour des profils expérimentés.",
-          "Une analyse honnête des prérequis réels (faut-il vraiment savoir coder ? Quel niveau de maths ?)."
+          "Comment l'expérience professionnelle de 20+ ans est un avantage stratégique dans l'IA",
+          "Feuilles de route concrètes et adaptées pour un profil de 45 ans (ex: manager, marketeur, RH)",
+          "Analyse des freins spécifiques (âge, peur de la technique) et comment les surmonter",
+          "L'adaptation salariale : à quoi s'attendre réellement en changeant de voie à 45 ans ?",
+          "Différence entre monter en compétence IA dans son job vs. une reconversion totale vers un nouveau métier IA"
         ],
         "winning_moves": [
-          "Créer un contenu pilier qui fusionne les deux intentions : 'reconversion 45 ans' et 'métiers de l'IA', en traitant spécifiquement des peurs et des atouts des quadras.",
-          "Adopter un angle 'zéro bullshit' en interviewant des reconvertis de 45+ ans dans l'IA (format témoignage) pour apporter une preuve sociale forte et des conseils pratiques.",
-          "Segmenter les métiers de l'IA en 3 catégories : 'très techniques' (ex: Ingénieur ML), 'hybrides' (ex: Data Analyst) et 'stratégiques/fonctionnels' (ex: Chef de Projet IA), en montrant les passerelles possibles pour un profil de 45 ans.",
-          "Proposer une méthodologie d'auto-évaluation : 'Quel métier de l'IA est fait pour vous à 45 ans ?', basée sur les compétences transférables (gestion de projet, expertise métier, etc.).",
-          "Intégrer une analyse prospective sur l'impact de l'IA sur les métiers de cadres et de freelances, en montrant comment l'IA peut être un levier et non une menace pour leur carrière."
+          "Adopter un ton direct et sans bullshit qui parle spécifiquement au cadre de 45 ans, en reconnaissant ses doutes et sa valeur.",
+          "Articuler l'article autour de l'idée que l'expérience métier est un 'superpouvoir' que les juniors n'ont pas, et que l'IA n'est qu'un outil pour l'amplifier.",
+          "Créer des 'roadmaps de reconversion' détaillées pour 3-4 archétypes (ex: ex-directeur commercial, ex-responsable marketing, ex-DRH) avec les compétences à acquérir, les types de postes visés, et les fourchettes de salaires réalistes.",
+          "Intégrer massivement des données et citations des sources de référence (OCDE, McKinsey, FMI, France Travail) pour objectiver l'analyse et asseoir l'autorité, là où les concurrents restent vagues.",
+          "Dédier une section entière à la 'guerre des générations' et comment un profil de 45 ans peut collaborer et se positionner face à des natifs de l'IA de 25 ans, en transformant l'âge en atout (discernement, vision stratégique)."
         ],
         "must_include_sections": [
-          "Reconversion à 45 ans dans l'IA : Mission impossible ou vraie opportunité ?",
-          "Pourquoi votre expérience de 20 ans est un atout (et non un frein) pour l'IA",
-          "Les métiers de l'IA qui recrutent des seniors : Le guide complet (Techniques vs Stratégiques)",
-          "Comment valoriser ses compétences de cadre pour devenir Chef de Projet ou Consultant IA ?",
-          "Plan d'action en 5 étapes pour réussir sa transition vers l'IA après 45 ans",
-          "Formations IA pour adultes : Comment choisir le bon cursus sans se ruiner ?"
+          "Reconversion IA à 45 ans : Oubliez tout ce qu'on vous a dit, votre âge est votre meilleur atout",
+          "Pourquoi votre expérience de 20 ans vaut plus que n'importe quel diplôme en IA (Données McKinsey à l'appui)",
+          "Les 3 voies royales de la reconversion IA pour les cadres expérimentés (avec roadmaps détaillées)",
+          "La vérité sur les salaires : ce que vous allez vraiment gagner (et peut-être perdre au début)",
+          "Le plan d'action concret : quelles formations (courtes et certifiantes), comment les financer et comment adapter son CV",
+          "IA et bullshit : séparer le fantasme de la réalité du marché du travail en France"
         ],
         "citable_facts_to_verify": [
-          "Un ingénieur en IA peut toucher entre 45 000 et 100 000 euros par an en France.",
-          "Les profils juniors en IA démarrent entre 45 000 et 70 000 euros annuels en France.",
-          "L'enquête BMO 2025 de France Travail recensait 14 440 projets de recrutement pour les électriciens, dont 67,9 % jugés difficiles.",
-          "Près d'1 actif sur 2 en France est concerné par la reconversion professionnelle."
+          "Pourcentage de travailleurs de plus de 45 ans utilisant l'IA générative au travail.",
+          "Écart de formation à l'IA entre les différentes générations (ex: Gen Z vs Baby-boomers).",
+          "Projection de l'impact de l'IA sur les métiers et la productivité (chiffres McKinsey, OCDE, FMI).",
+          "Salaires médians pour les métiers de l'IA en France (Data Scientist, Prompt Engineer, etc.).",
+          "Pourcentage d'entreprises prévoyant d'adopter l'IA dans leur stratégie."
         ],
         "entities_to_mention": [
-          "France Travail (anciennement Pôle emploi)",
-          "AFPA",
-          "GRETA",
-          "O'clock",
-          "IVADO"
+          "McKinsey & Company",
+          "OCDE",
+          "France Travail",
+          "Ipsos",
+          "LinkedIn",
+          "PwC",
+          "FMI (Fonds Monétaire International)",
+          "Google Ateliers Numériques",
+          "Microsoft IA School"
         ],
         "target_word_count": 3000,
         "intent_type": "informational",
-        "featured_snippet_opportunity": "Liste à puces. Formulation cible : 'Quels métiers de l'IA pour une reconversion à 45 ans ? 1. Chef de Projet IA : Pour valoriser ses compétences en gestion. 2. Consultant en transformation IA : Pour capitaliser sur son expertise métier. 3. Data Analyst : Pour les profils avec un goût pour les chiffres. 4. Prompt Engineer : Pour les créatifs et les littéraires. 5. Formateur IA : Pour transmettre son savoir.'",
+        "featured_snippet_opportunity": "Tableau comparatif des 'roadmaps de reconversion' (Profil actuel > Compétences à acquérir > Postes visés > Salaire estimé).",
         "serp_features_detected": [
           "AI Overview",
-          "People Also Ask",
-          "Video"
+          "People Also Ask (PAA)",
+          "Video pack"
         ],
         "grounding_sources": [
           {
-            "title": "nouvelleviepro.fr",
-            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLIythLfDS137Zkaw5hw3yi0gY6EwH7CjhtK3FU2jmj9b5nk3-gAfqmWYQ5i0zXsOWiD5ciHXUYGmzMPo2hrBrtxn9vjuLm8tNZCcs6ni6aAAdvkHG6Hlg5huqZLzjHcXzS2BYkWXW8TrU_e0XidRecPjOgT28XBGEV_z_QdMfQjQJIenTLUI="
+            "title": "prnewswire.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkn9a1gSatC_lb_JgvT4zYQJr0kGwtLPStEuiLnwE8OOs2XCJMyhtrF7crP3oqT-UMVorYD9oe-OpZJ0FI11B4z5twAv5vyWW9awVnw6ZCHN8aihMcOzjcIXcRI52EMxmIL4z1CLxhgLaw7rtfdvghDKNo0dS7c4a7G2CLCBYfFln7iXSX4Up9iyigS9NSflJ28LiHpmX6fJEvTLirCFarSGUZ0sipFfUhrjaPsuaCK_12IxBg-cYM5LYMNQSnbAieTA-uwSuDLauY1erJfMMyNkb81vxUniEWKND4V9xXDfgrr5KkQB6-vUqoomXBcKru07eWf0PIEbJsAIbL58RT5cM-OOSzccEqS7RtysTw"
           },
           {
-            "title": "memepascap.fr",
-            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBKWOXIS_4Lpg4ZfmoqIzQJvnfaiVsdWZfvjWzYwNqDwn4Jeop9duNgd-WUBAYBmcfrJGPPLNvLTEgfT1iQPMsZKw3Yg5t5awR1X4-YPaT5emEthkW0QPDcQpTEm4QAaqhRRkQZb_XK69QobZvBd86"
+            "title": "youtube.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELC1_2cu62G2y3TgFPua2jm-b2vtPr2JCYU6TsNF7O4M4PIr8SoT5cSrE3UKR_ZPnqpdKw142Zz368-mfnaAKemLLiK27UOaX8dQwuYMbgk7E6WS5pU_FLnWtaiFi0XgcyFpGA8Q=="
           },
           {
-            "title": "recrutement-orizon.com",
-            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIAsB3dUjyjCXKALOv0oowSRwdsmNiP_y_6VqQEVkuj73OYc8kTnhsu7VDXjClSYQB2lavRNz5lt7v4utp9uAVHfD7Ty0DiEJaJrXX4ITY5PH8qv8gpRJMrhCtnSkbvIYV-RwRgCK8E9Oe3wana0GKVaLVNdhbXU0Ewruzk2CxUvH_H1FT83393Xnv7TE_fqX8RFBXVtk="
+            "title": "lefebvre-dalloz.fr",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBfBXbBaDFgv6gujT1BvaqG8d-SCA9M5ckZu9_sbJPVpnLKz9_2gCkykD5E-r5SQfnmPkolKa4TSF-OWBN3-N4xzP-nF49IPPDgYJ9qdupMzqQ4MnIy4Mt24dVotBu-2T6y8oOtQdmhBDf9Nx-NoRvNVaURU2mHTM8gJLMRaVtSPo9jbU6LsVMroo2f7fl52F0OuluzV0NaJW37T1xDM_qFcc="
           },
           {
-            "title": "hellowork.com",
-            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA3JAP5cZ5XfcXCLkK7-Z2bIjUcSgwT3empoK_kN0mgdVJy7_Yk5BQpCh_u5gahvrwCBhJLSlLj1115MFy0QdGro2-cCwhBY4TtlmMCN7N4T8MzD4S0YMs1GtVRw1RtYq-FH7kduC5BF3AWV7hXgWIskLlTL-h4xy3k0xjsqqrfO1tNkgg"
-          },
-          {
-            "title": "oclock.io",
-            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqQMgmLbKx4ec77T6d-oigjnaQ-jul3IkuNviMaFRcJw0sCiMK44oPp6FLOHsqYMhDUCXRcS8d8tf43DWcwU4XqkWrI3IH0H8LRBHTEa5qdbfz1XDYpwF1rpRyf_chskAbw9fic5je4bQfuroQ6euYyO__aEsZt1wKG96aDoxCxhYJ0c99K3suHOXF37ycmk6iXMinoMs="
-          },
-          {
-            "title": "inclusion.gouv.fr",
-            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbqhba6QdXDgq7JUKIMF92gsG3MGwawayrkkMVaJf4ecsF5GTOs5W6-INwCNBA1oC_yCUTV3WTuyLd2pQf5hECBY27booHcreoBLSjZWcnL1S_ESzWc-7diV6D6FyYwAACONVqmKAoiVcH_m67b1S36xSEePyIu6p52S1XUX-aU5DJDngbvCru46-Y"
-          },
-          {
-            "title": "lastucieux.fr",
-            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYfe9hpns7JaFj5da27QElAWS99A3ECqEhZNDv7wlqUWp0RIYn0FzkaEFAIgPOfmGcxZHlgKWRe6Y5FCqA9yqfcUYGDW-36RqgtxZ1wPTvwBn1uB4HGAfpDihqFJdwFpW4lFHGrvIiRSn0gDVZC_gCpoermfwW8rt0cDyMgnbxiRq58vMue_q8-hW-"
-          },
-          {
-            "title": "formation-senior.fr",
-            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaM4mUT4xz-fOOxg4kJ4Zjjo7TfYE1QpyWFGpS-15uV9_GUMgp3HOMbC3Wn9Rb4uD55ZDvlqwexv301gWQUaJ4ixTGqkzmR44EuySHliongwiAcxSJXg=="
-          },
-          {
-            "title": "proevent97.com",
-            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLWFDWvHuks3uCEcgey7WpA4ETuhPAaFcoLPB6_Y1g2VJfQOph9zv5d19ugKB-lus8G55kaAvWWjNzUvrlJm9AXaYw0owIRj9ZhKcuxmG8Ewpmuzo_aZCzr6aWhkdK345di8PGhwd3Lk-k313pjKGOmtJZBiKLUltxqAXWNCfB5IfH3Hb6wF5uU5ibrQ4pAy8zIDRlke3U8JT6xPFxcvs5qw=="
-          },
-          {
-            "title": "reconversionenfranchise.com",
-            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGu3YH23QzoMz9kcPtRIpRTlVtKDQN_yTHU8RFar5KM9A79cIABzrq3CBwhdqfN4MBuPl1O6DBRIJMTDw7PtoQlrO44clKwOySq7zriui3Y2G6YnqmQa7YtKOaEhWZso8LvunPpoq_j1bYscsuJiTMTbDYxQ3GvCEdm-e_sM9ub1udwb7nN5HxQYA=="
-          },
-          {
-            "title": "memepascap.fr",
-            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqONZFaeoSc6iEcCq7uBHLTIY58PH5MPkRJPbzY-7CCwDAq0jkL4kglZpLvz8-xRF9ILu0w01RDqLU-U9aW0H0PpBuzJczH9MVbA_RtfADbn6Kb0rmVar5AJWlzimIuZyMyajEBiksBqG4gGdbTGP7"
+            "title": "ioe-emp.org",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkCBXGrQTa65cxWlv9fNf_91lQmHBeBAHSaF1ITaxCGfNle83B8r_-AzEvxpSIsfkPoPyKl1RhifuZNQ8nw7YPpLanWG7yxEUjZksM0wJDOksKtS0-b2qXVx6YWwr-pMqfoP--aVS-K72dq9kp5syjNxbYaxKAsN-Q1ESoR-2Es0GOBX9Kq8XS49FMR7_YAWeTrvrelZPox_oRejxPuDFrd-ChkQ=="
           },
           {
             "title": "liora.io",
-            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYHohxR_RqFoE_EIeLGEGEcTLE5TkPL5lxTO8UNF3pbLnv0WY-tFY4O2ztJG25puhCuCjmGP7qZRvx9fWH1OrV1TDGEuv06iWl5biks_vAchq07AM_W4BO6m9STH0b_EmV2gkzPcQ="
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvUPPwrL9fcLJSf1C2QdTUUlwyZ-1uF953FUC2NpBhT5M_4GutRWDgN2JN87P9b566QMdKolfb12i4p-menwNYCjXQoCv0gkjDzdM5RS6QXJSnbgV2lTBYvDEhLMhbeovSz4ZhKRo="
           },
           {
-            "title": "bgbformation.fr",
-            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFThc-a0oMlApkqitg9x1IFFFQxJwgLJyGClYlJ3Cew7l3w2xUCK0jwj0EvtXMufCve6yvMlcZko4O-HHV9E95sEyinqjQk-viQ9eOJuToQc8kyxIzg3Q2jfJ80yM3peFKYTKSYrlwqCXCh0w=="
+            "title": "nouvelleviepro.fr",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnbXUsVX_SmBo96CvTvhi_nK7huZuIjhvNzUAcG9Sn22pzrEHR5M0bEkLrZJS4fewIzIlT4nFepuoMK8OkOC--jz45GQbe1GBVeX8gm47S7ls3tysabafl578jhSEGwQGk02eE6L06Sl0llhqPGnh9eN7Iw2kbINuxk59g1_EgkshRIuo2o0Q="
           },
           {
-            "title": "je-change-de-metier.com",
-            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRE2IjK1FkdriuNf_PKrH9a4oUZOHgK2bra2ShJSnbUxEiAvLmc89Grgo1mpi8WeJKR8-06VV5wN9Hlrk8zZ8JLe2wdfPXLQikvRJcpfNWrU_yAang7Wicf71fnZybQlH8EP92zpOthbbN9vjdGMeqxcOBGfNwpssC"
+            "title": "silkhom.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQeK6clQOP-JpYUH_TB-JEsAqd-row4uVQtXGl5P0ukrN8Mujo2KXIPlY4rUbDmHFE9r9pFqSyXerfyL2PGasqMCNMEXKmQWk5AsUCvzFMINCoL_GZ_bIDHH5lnf2pfEZ0yQXKrP3iGOrf4x4WvQdtkg=="
           }
         ]
       }
-    }
+    },
+    "queue_file": "reconversion-45-ans-ia-etapes-conseils.md",
+    "pre_generated_at": "2026-04-22T20:58:37",
+    "quality_passed": true
   },
   {
     "title": "Métier de journaliste face à l'IA : Analyse complète",
