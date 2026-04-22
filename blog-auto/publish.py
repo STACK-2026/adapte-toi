@@ -106,6 +106,7 @@ def generate_slug(title: str, max_len: int = SLUG_MAX_LEN) -> str:
     slug = slug.lower()
     slug = re.sub(r"[^a-z0-9\s]", " ", slug)
     words = [w for w in slug.split() if w not in STOP_WORDS_FR and len(w) > 1]
+    words = list(dict.fromkeys(words))  # dedupe preserving order (STACK-2026 slug fix)
 
     parts = []
     length = 0
