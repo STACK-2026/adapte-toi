@@ -40,6 +40,7 @@ UNSPLASH_ACCESS_KEY = os.getenv("UNSPLASH_ACCESS_KEY", "")
 SCRIPT_DIR = Path(__file__).parent
 REPO_DIR = SCRIPT_DIR.parent  # Root of the site repo
 ARTICLES_FILE = SCRIPT_DIR / "articles.json"
+QUEUE_DIR = SCRIPT_DIR / "queue"  # Pre-written articles (STACK-2026 rule)
 PROMPT_FILE = SCRIPT_DIR / "prompts" / "article-seo.md"
 BLOG_DIR = REPO_DIR / "site" / "src" / "content" / "blog"
 LOG_FILE = SCRIPT_DIR / "logs" / "publications.log"
@@ -574,6 +575,30 @@ def inject_related_links(
 # MAIN PIPELINE
 # ============================================
 
+
+
+def load_queue_article(article: dict) -> dict:
+    """Load a pre-written article from blog-auto/queue/ (STACK-2026 rule)."""
+    queue_file = article.get("queue_file")
+    if not queue_file:
+        raise ValueError("article.queue_file manquant")
+    queue_path = QUEUE_DIR / queue_file
+    if not queue_path.exists():
+        raise FileNotFoundError(f"Queue file introuvable: {queue_path}")
+    content = queue_path.read_text(encoding="utf-8").strip()
+    if content.startswith("---"):
+        parts = content.split("---", 2)
+        if len(parts) >= 3:
+            content = parts[2].strip()
+    title_tag = article.get("title_tag") or article["title"]
+    meta_description = article.get("meta_description") or ""
+    return {
+        "title_tag": title_tag[:60],
+        "meta_description": meta_description[:160],
+        "content": content,
+    }
+
+
 def main():
     force = "--force" in sys.argv
     dry_run = "--dry-run" in sys.argv
@@ -623,7 +648,12 @@ def main():
 
     # Generate article via Claude API
     log.info("Generation via Claude API...")
-    generated = generate_article(article, system_prompt)
+    queue_file = article.get("queue_file")
+    if queue_file and (QUEUE_DIR / queue_file).exists():
+        log.info(f"Mode: QUEUE (article pre-ecrit dans queue/{queue_file})")
+        generated = load_queue_article(article)
+    else:
+        generated = generate_article(article, system_prompt)
     log.info(f"Title tag: {generated['title_tag']}")
     log.info(f"Meta desc: {generated['meta_description'][:80]}...")
 
