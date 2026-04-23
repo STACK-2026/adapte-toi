@@ -125,7 +125,12 @@ def post(path, log):
         with urllib.request.urlopen(req, timeout=30) as r:
             result = json.loads(r.read().decode())
     except urllib.error.HTTPError as e:
-        print(f"  FAIL {slug}: HTTP {e.code} {e.read().decode()[:300]}")
+        body = e.read().decode()[:300]
+        print(f"  FAIL {slug}: HTTP {e.code} {body}")
+        if e.code == 422 and "already been taken" in body:
+            log[slug] = {"skipped": True, "reason": "canonical_already_taken"}
+            save_log(log)
+            print(f"  marked {slug} as skipped (canonical already taken)")
         return False
     log[slug] = {"id": result.get("id"), "url": result.get("url"), "at": result.get("published_at")}
     save_log(log)
