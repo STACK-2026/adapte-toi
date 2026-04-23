@@ -43,7 +43,7 @@ export async function GET(context: { site?: URL }) {
     .slice(0, 50);
 
   return rss({
-    title: "Adapte-toi Décrypte — IA x emploi x reconversion",
+    title: "Adapte-toi Décrypte · IA x emploi x reconversion",
     description:
       "Chaque jour, on décrypte les vraies actualités IA x emploi x reconversion. Études, annonces, voix, menaces : les faits, les chiffres, la citation, ce que ça change pour toi.",
     site,

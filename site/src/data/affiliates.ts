@@ -14,7 +14,7 @@ export const affiliates: Record<string, {
   "make": {
     url: "https://www.make.com/en/register?promo=adaptetoi", // TODO: remplacer par lien affilié
     commission: "35% récurrent pendant 12 mois",
-    cookie: "—",
+    cookie: ",",
     cta: "Essayer Make.com gratuitement",
     note: "1 000 opérations gratuites par mois",
   },
@@ -63,7 +63,7 @@ export const affiliates: Record<string, {
   "notion-ai": {
     url: "https://www.notion.so/", // TODO: vérifier programme affilié
     commission: "Programme en attente",
-    cookie: "—",
+    cookie: ",",
     cta: "Essayer Notion gratuitement",
   },
 };

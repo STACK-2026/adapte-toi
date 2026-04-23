@@ -66,5 +66,5 @@ Email expéditeur : `presse@adapte-toi.com` (à créer dans Resend si pas déjà
 - [ ] Lien direct vers `/barometre` + offre de kit presse
 - [ ] Signature "Lea · Rédaction Adapte-toi"
 - [ ] Tracker ouvertures/clics (Resend) si batch > 10
-- [ ] NE JAMAIS utiliser de tiret cadratin (—) - règle mémoire
+- [ ] NE JAMAIS utiliser de tiret cadratin (,) - règle mémoire
 - [ ] Ton tutoiement ? NON : vouvoiement pour presse (c'est pro)
