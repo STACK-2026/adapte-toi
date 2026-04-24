@@ -36,5 +36,10 @@
   "emploi-ia-france-2026-chiffres-cles-tendances": {
     "skipped": true,
     "reason": "canonical_already_taken"
+  },
+  "cpf-formation-ia-comment-financer-reconversion": {
+    "id": 3545151,
+    "url": "https://dev.to/augustin_foucheres_828af4/cpf-et-formation-ia-comment-financer-sa-reconversion-1h03",
+    "at": "2026-04-24T08:56:55Z"
   }
 }
