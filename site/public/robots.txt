@@ -26,5 +26,11 @@ Allow: /
 User-agent: Amazonbot
 Allow: /
 
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
 Sitemap: https://adapte-toi.com/sitemap-index.xml
 Sitemap: https://adapte-toi.com/sitemap-news.xml
