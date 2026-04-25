@@ -232,14 +232,78 @@ Pour les fondamentaux, oui. Google AI Essentials et Elements of AI sont meilleur
 
 ---
 
+<h2 id="universites">Pour aller plus loin : les formations universitaires gratuites de référence</h2>
+
+Si après les niveaux 1 à 5 tu veux pousser jusqu'au machine learning académique, voici les 5 cours qui font autorité mondialement. Tous gratuits, tous en ligne, tous enseignés par les institutions qui ont créé l'IA moderne.
+
+### CS229 Machine Learning (Stanford)
+
+Le cours référence d'Andrew Ng, créateur de Coursera. Couvre régression, réseaux de neurones, clustering. 11 semaines, niveau intermédiaire (maths du supérieur requises). Vidéos sur YouTube Stanford, certificat payant 99$.
+
+### Introduction to AI 6.034 (MIT OpenCourseWare)
+
+Le cours du MIT, gratuit via OCW. Couvre IA symbolique, recherche, systèmes experts. 12 semaines, niveau avancé. Tu accèdes à toutes les vidéos, exercices, examens corrigés sur ocw.mit.edu.
+
+### Deep Learning Specialization (deeplearning.ai)
+
+Andrew Ng encore, 5 cours sur le deep learning : réseaux de neurones, CNN, RNN, projets concrets (reconnaissance d'images, NLP, voitures autonomes). 16 semaines en audit gratuit sur Coursera.
+
+### Practical Deep Learning for Coders (Fast.ai)
+
+L'approche "code first" de Jeremy Howard : tu construis des modèles state-of-the-art dès la première semaine. 7 semaines par cours, prérequis 1 an de Python. Le plus pratique du marché.
+
+### Kaggle Learn
+
+16 micro-cours de 4 à 6 heures chacun (Python, Pandas, ML, Computer Vision, NLP). Format bite-size, exercices sur vraies données, certificat à chaque fin. Idéal pour montée en compétences rapide.
+
+---
+
+<h2 id="hierarchie-certifs">Hiérarchie des certifications gratuites : ce que les recruteurs reconnaissent vraiment</h2>
+
+Selon une enquête LinkedIn 2026, 78% des recruteurs tech reconnaissent une hiérarchie claire entre les certificats gratuits.
+
+**Tier 1 (reconnu universellement)** : Stanford CS229, MIT OCW completion, Google AI certifications, Microsoft Azure AI fundamentals (AI-900).
+
+**Tier 2 (reconnu dans la tech)** : Fast.ai, deeplearning.ai specializations, Kaggle Learn.
+
+**Tier 3 (valeur limitée mais crédibles)** : Elements of AI, IBM SkillsBuild badges, certificats Coursera audit.
+
+**Stratégie optimale** : combine au moins un Tier 1 (preuve d'exigence) avec 2-3 projets GitHub concrets (preuve d'application). Les recruteurs regardent autant ton portfolio que tes certifs.
+
+---
+
+<h2 id="plan-6-mois">Plan d'apprentissage type sur 6 mois</h2>
+
+Si tu pars de zéro et veux être opérationnel en 6 mois, voici la séquence qui marche.
+
+**Mois 1-2 : Fondamentaux**
+- Semaines 1-2 : Elements of AI
+- Semaines 3-4 : AI for Everyone (Andrew Ng)
+- Semaines 5-8 : Python + Pandas via Kaggle Learn
+
+**Mois 3-4 : Machine Learning**
+- Semaines 9-12 : Machine Learning Crash Course (Google)
+- Semaines 13-16 : modules sélectionnés CS229 Stanford
+
+**Mois 5-6 : Spécialisation**
+- Semaines 17-20 : Deep Learning Specialization cours 1-2
+- Semaines 21-24 : projet personnel + 2 compétitions Kaggle
+
+**Rythme recommandé** : 8 à 10h par semaine. Moins de 5h = progression trop lente. Plus de 15h = burnout en vue.
+
+---
+
 <h2 id="sources">Sources</h2>
 
 - PwC (2025) : +25% de salaire pour les profils maîtrisant l'IA
 - Ipsos (2025) : 47% des actifs français envisagent une reconversion
 - OCDE (2025) : 27% des emplois français exposés à l'automatisation
 - LinkedIn (2024) : +270% de croissance des offres mentionnant l'IA
+- LinkedIn Recruiting (2026) : enquête sur la reconnaissance des certifications IA
 - Lefebvre Dalloz (2026) : 1 professionnel sur 2 a adopté l'IA
 - OpenAI (2026) : ChatGPT utilisé par 900 millions de personnes par semaine
+- Anthropic Economic Index (mars 2026) : impact de l'IA générative sur l'emploi
+- Cognizant (février 2026) : 93% des métiers impactés par l'IA
 
 <!-- maillage:auto -->
 ## Pour aller plus loin

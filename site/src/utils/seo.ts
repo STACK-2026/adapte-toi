@@ -113,3 +113,71 @@ export function jsonLdBreadcrumbs(
     })),
   };
 }
+
+/** JSON-LD for SoftwareApplication (used on outils/ pages and comparators) */
+export function jsonLdSoftwareApplication(app: {
+  name: string;
+  description: string;
+  url: string;
+  applicationCategory?: string;
+  operatingSystem?: string;
+  offerPriceCurrency?: string;
+  offerPrice?: string;
+  ratingValue?: number;
+  ratingCount?: number;
+  reviewedAt?: string;
+}) {
+  const node: Record<string, unknown> = {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    name: app.name,
+    description: app.description,
+    url: app.url,
+    applicationCategory: app.applicationCategory || "BusinessApplication",
+    operatingSystem: app.operatingSystem || "Web, iOS, Android",
+  };
+  if (app.offerPrice !== undefined) {
+    node.offers = {
+      "@type": "Offer",
+      price: app.offerPrice,
+      priceCurrency: app.offerPriceCurrency || "EUR",
+    };
+  }
+  if (app.ratingValue && app.ratingCount) {
+    node.aggregateRating = {
+      "@type": "AggregateRating",
+      ratingValue: app.ratingValue.toFixed(1),
+      bestRating: "10",
+      worstRating: "1",
+      ratingCount: app.ratingCount,
+    };
+  }
+  if (app.reviewedAt) {
+    node.dateModified = app.reviewedAt;
+  }
+  return node;
+}
+
+/** JSON-LD ItemList (comparators, top-N curations) */
+export function jsonLdItemList(list: {
+  name: string;
+  description?: string;
+  url: string;
+  items: Array<{ name: string; url: string; description?: string }>;
+}) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    name: list.name,
+    description: list.description,
+    url: list.url,
+    numberOfItems: list.items.length,
+    itemListElement: list.items.map((item, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      name: item.name,
+      url: item.url,
+      ...(item.description && { description: item.description }),
+    })),
+  };
+}

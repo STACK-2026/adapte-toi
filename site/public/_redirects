@@ -6,3 +6,7 @@
 /m%C3%A9tiers /metiers/ 301
 /t%C3%A9moignages/* /temoignages/:splat 301
 /t%C3%A9moignages /temoignages/ 301
+
+# SEO consolidation : kill cannibalisation formation-ia-gratuite (25/04/2026)
+/blog/formation-ia-gratuite-10-cours-ligne-debuter/ /guides/se-former-ia-gratuitement/ 301
+/blog/formation-ia-gratuite-10-cours-ligne-debuter /guides/se-former-ia-gratuitement/ 301
