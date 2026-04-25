@@ -4,7 +4,7 @@ import Breadcrumbs from "../../components/Breadcrumbs.astro";
 import { getCollection, render } from "astro:content";
 import { siteConfig } from "../../../site.config";
 import { fullUrl } from "../../utils/config";
-import { jsonLdArticle, jsonLdBreadcrumbs } from "../../utils/seo";
+import { jsonLdArticle, jsonLdBreadcrumbs, jsonLdFaq, jsonLdItemList } from "../../utils/seo";
 
 export async function getStaticPaths() {
   const guides = await getCollection("guides", ({ data }) => !data.draft);
@@ -26,7 +26,7 @@ const breadcrumbs = [
   { name: guide.data.title, url: guideUrl },
 ];
 
-const jsonLd = [
+const jsonLd: any[] = [
   jsonLdArticle({
     title: guide.data.title,
     description: guide.data.description,
@@ -37,6 +37,19 @@ const jsonLd = [
   }),
   jsonLdBreadcrumbs(breadcrumbs),
 ];
+
+if (guide.data.faq && guide.data.faq.length > 0) {
+  jsonLd.push(jsonLdFaq(guide.data.faq));
+}
+
+if (guide.data.comparator && guide.data.comparator.items.length > 0) {
+  jsonLd.push(jsonLdItemList({
+    name: guide.data.title,
+    description: guide.data.description,
+    url: guideUrl,
+    items: guide.data.comparator.items,
+  }));
+}
 ---
 
 <BaseLayout

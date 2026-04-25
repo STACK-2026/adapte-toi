@@ -1,0 +1,980 @@
+{
+  "generated_at": "2026-04-25T23:25:43",
+  "briefs": {
+    "perplexity-vs-chatgpt": {
+      "keyword": "perplexity vs chatgpt",
+      "secondary_keywords": [
+        "perplexity ai en français",
+        "perplexity ou chatgpt"
+      ],
+      "generated_at": "2026-04-25T23:23:12",
+      "brief": {
+        "top10": [
+          {
+            "rank": 1,
+            "domain": "g2.com",
+            "title": "I Tested Perplexity vs. ChatGPT: Which Is Better in 2026? - G2 Learning Hub",
+            "main_angle": "Comparaison pratique basée sur des tests pour déterminer quel outil choisir en fonction de la tâche : vérifier (Perplexity) ou créer (ChatGPT).",
+            "strength": "Angle clair et actionnable (vérifier vs créer), bien structuré avec un TL;DR efficace, mise à jour récente (2026).",
+            "weakness": "Très orienté utilisateur généraliste/marketing, peu d'angles spécifiques à la reconversion ou à l'impact sur des métiers précis."
+          },
+          {
+            "rank": 2,
+            "domain": "nexos.ai",
+            "title": "Perplexity vs ChatGPT comparison in 2026",
+            "main_angle": "Analyse technique des différences d'architecture (recherche d'abord vs génération d'abord) et de leurs implications pratiques.",
+            "strength": "Bonne distinction fondamentale (retrieval-first vs generation-first), tableaux comparatifs clairs, aborde des cas d'usage variés (code, création).",
+            "weakness": "Reste assez technique, moins centré sur le workflow d'un professionnel non-développeur."
+          },
+          {
+            "rank": 3,
+            "domain": "zapier.com",
+            "title": "Perplexity vs. ChatGPT: Which AI tool is better? [2026]",
+            "main_angle": "Comparatif fonctionnel qui positionne Perplexity comme un assistant de recherche et ChatGPT comme un assistant IA polyvalent.",
+            "strength": "Très bon résumé des cas d'usage pour chaque outil, mentionne les intégrations (Zapier), aborde les nouvelles fonctionnalités \"agentic\".",
+            "weakness": "L'angle est très orienté productivité individuelle et tech-savvy, pas assez sur l'adaptation des compétences."
+          },
+          {
+            "rank": 4,
+            "domain": "coursera.org",
+            "title": "Perplexity vs. ChatGPT: Key Differences and Which Is Best for Your Tasks",
+            "main_angle": "Article éducatif qui explique les différences fondamentales pour aider à choisir le bon outil selon le besoin (ex: infos récentes vs codage).",
+            "strength": "Angle pédagogique clair, idéal pour un débutant. Les \"Key takeaways\" sont efficaces.",
+            "weakness": "Contenu assez basique, manque de profondeur et d'exemples concrets pour un professionnel en reconversion."
+          },
+          {
+            "rank": 5,
+            "domain": "netcomlearning.com",
+            "title": "Perplexity AI vs. ChatGPT: Key Differences and Best Use Cases - NetCom Learning",
+            "main_angle": "Comparaison orientée pour les entreprises, insistant sur la qualité du contenu (ChatGPT) vs la transparence des sources (Perplexity).",
+            "strength": "L'angle \"business\" est intéressant, notamment la suggestion d'utiliser les deux outils de manière stratégique.",
+            "weakness": "Le contenu se termine par un appel à l'action pour leurs formations, ce qui le rend moins objectif. Le ton est un peu générique."
+          },
+          {
+            "rank": 6,
+            "domain": "ajelix.com",
+            "title": "Perplexity AI vs ChatGPT: Not Your Average Chatbots Comparison",
+            "main_angle": "Comparaison basée sur une série de 5 tests spécifiques (raisonnement, écriture formelle, Excel, etc.) pour déclarer un \"gagnant\".",
+            "strength": "L'approche par tests concrets est une bonne idée et facile à suivre pour le lecteur.",
+            "weakness": "Les tests sont un peu arbitraires et la conclusion d'un \"gagnant\" global est trop simpliste. Manque de nuance pour un usage professionnel."
+          },
+          {
+            "rank": 7,
+            "domain": "synthesia.com",
+            "title": "Les 12 meilleurs outils IA pour 2026 (que les gens utilisent vraiment)",
+            "main_angle": "Liste d'outils IA populaires où ChatGPT est présenté comme un assistant polyvalent, mais sans comparaison directe avec Perplexity.",
+            "strength": "Donne une vue d'ensemble du marché, ce qui peut être utile pour le contexte.",
+            "weakness": "Ne répond pas directement à l'intention de recherche \"Perplexity vs ChatGPT\". C'est un article de type \"listicle\"."
+          },
+          {
+            "rank": 8,
+            "domain": "mintavocado.com",
+            "title": "Perplexity pour les pros en 2026 : guide complet pour entrepreneurs",
+            "main_angle": "Guide pratique centré sur Perplexity pour les entrepreneurs du web, le positionnant comme une plateforme de productivité intégrée.",
+            "strength": "Très bon angle de niche (entrepreneurs web), concret, centré sur le gain de temps et l'efficacité.",
+            "weakness": "Ne compare pas réellement à ChatGPT, il ne fait que le mentionner comme un outil parmi d'autres à remplacer. Le focus est unilatéral."
+          },
+          {
+            "rank": 9,
+            "domain": "jedha.co",
+            "title": "Les 10 meilleurs moteurs de recherche IA en 2026",
+            "main_angle": "Classement des moteurs de recherche IA où Perplexity est mis en avant pour la gratuité et le sourcing, et ChatGPT pour sa fonction Deep Research.",
+            "strength": "Bonne contextualisation de Perplexity dans l'écosystème des \"moteurs de réponse\". Met en avant la fonctionnalité Deep Research de ChatGPT.",
+            "weakness": "Ne compare pas les deux outils en profondeur sur d'autres aspects que la recherche d'information."
+          },
+          {
+            "rank": 10,
+            "domain": "algorithma.fr",
+            "title": "Comment ChatGPT peut-il être utile aux chargé(e)s de veille - Algorithma",
+            "main_angle": "Article de niche sur l'utilisation de ChatGPT pour la veille stratégique, sans mention de Perplexity.",
+            "strength": "Angle très spécifique et pertinent pour notre cible (veille stratégique).",
+            "weakness": "Article daté (février 2023) et ne répond pas à la requête de comparaison."
+          }
+        ],
+        "common_angles": [
+          "Perplexity est un 'moteur de réponse' qui cite ses sources, idéal pour la recherche et les faits.",
+          "ChatGPT est un 'assistant IA' polyvalent, meilleur pour la création de contenu, le brainstorming et le codage.",
+          "Comparaison des fonctionnalités : accès web, modèles de langage disponibles, interface utilisateur, prix.",
+          "Le choix dépend de la tâche : vérifier et rechercher (Perplexity) vs créer et analyser (ChatGPT)."
+        ],
+        "weak_angles": [
+          "L'impact concret sur les métiers et les compétences : comment ces outils transforment des professions spécifiques (consultant, analyste, rédacteur, etc.).",
+          "Cas d'usage pour la reconversion professionnelle : comment utiliser ces outils pour explorer de nouvelles carrières, acquérir des compétences ou monter un projet.",
+          "Analyse critique et 'zéro bullshit' : limites réelles des deux outils, risques de désinformation, et comment vérifier l'information au-delà des sources citées.",
+          "Workflow intégré : comment un professionnel peut combiner la puissance des deux outils dans sa routine de travail quotidienne pour des tâches complexes."
+        ],
+        "winning_moves": [
+          "Adopter un angle 'métier' : Structurer l'article autour de cas d'usage professionnels concrets pour notre cible (ex: 'Faire une étude de marché pour sa reconversion', 'Réaliser une veille concurrentielle', 'Rédiger un business plan').",
+          "Créer un tableau comparatif actionnable : Au lieu de comparer des features techniques, comparer sur des 'missions professionnelles' (ex: 'Fiabilité pour une analyse de tendance', 'Rapidité pour synthétiser un rapport de 50 pages', 'Qualité pour rédiger un post LinkedIn').",
+          "Injecter notre ADN 'zéro bullshit' : Dédier une section aux limites et aux pièges, en expliquant comment croiser les sources de Perplexity et comment challenger les affirmations de ChatGPT. Insister sur la nécessité de l'esprit critique.",
+          "Proposer des 'workflows hybrides' : Montrer par l'exemple (avec captures d'écran) comment commencer une recherche sur Perplexity pour obtenir des données fiables, puis importer ces données dans ChatGPT pour les analyser, les mettre en forme ou brainstormer dessus.",
+          "Optimisation GEO (Generative Engine Optimization) : Formuler les titres et les intertitres comme des questions directes que notre cible se pose, afin d'être cité dans les AI Overviews. Utiliser des listes et des tableaux pour viser le Featured Snippet."
+        ],
+        "must_include_sections": [
+          "Perplexity vs ChatGPT : Lequel choisir pour accélérer sa carrière en 2026 ?",
+          "Tableau comparatif : Quel outil pour quelle mission professionnelle ?",
+          "Cas d'usage #1 : Réaliser une veille stratégique fiable pour anticiper les évolutions de son métier",
+          "Cas d'usage #2 : Analyser un secteur d'activité en vue d'une reconversion",
+          "Cas d'usage #3 : Créer du contenu expert pour développer sa marque personnelle (freelance)",
+          "Les limites à connaître : Pourquoi l'esprit critique reste votre meilleure compétence"
+        ],
+        "citable_facts_to_verify": [
+          "Les deux abonnements Pro/Plus coûtent 20$/mois.",
+          "Perplexity Pro donne accès à plusieurs modèles de LLM (GPT-4, Claude, Gemini, Sonar).",
+          "ChatGPT peut exécuter du code Python et faire de l'analyse de données directement dans l'interface.",
+          "Perplexity propose des modes de recherche spécifiques comme le mode 'Academic' pour la recherche universitaire."
+        ],
+        "entities_to_mention": [
+          "OpenAI",
+          "Google (Gemini)",
+          "Anthropic (Claude)",
+          "GPT-4 / GPT-5",
+          "Deep Research (fonctionnalité)",
+          "Custom GPTs"
+        ],
+        "target_word_count": 3000,
+        "intent_type": "informational",
+        "featured_snippet_opportunity": "Tableau comparatif. Formulation cible : 'Tableau comparatif : Perplexity vs ChatGPT pour les professionnels'. Colonnes : 'Mission professionnelle', 'Meilleur outil', 'Pourquoi', 'Exemple de prompt'.",
+        "serp_features_detected": [
+          "AI Overview",
+          "People Also Ask",
+          "Video"
+        ],
+        "grounding_sources": [
+          {
+            "title": "mintavocado.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuLOR8ZzOwk5WUrZk3BwXoywW9J5-Azmc-aycUS-v3STgt4G29PTeW4RqN5V1ktZmjhgOAtnMIbfgloV6Bbb2e6-b9UmNTSlLwZ6Wt5npd84D-MZyMMR1JjTRGqWKzzGOsBr-GQ0BOhBjO2w=="
+          },
+          {
+            "title": "jedha.co",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSbtRDOwetH5wAHA3fJXFBzraSLfydQ710w4SmznkiB8czVgfzGrHK9sko_-ZrhYpZwZPzwkkpCMhkJ8xc69jTuB-Z2XcEaHQL50OOtufk29V_7or3SlhGMP4zU71KjVSD8UwbTjrClvE-lErIxBGKgD1SOuk7niu6JzAGtlssUNcjgZJN0y1-hDSaCQ=="
+          },
+          {
+            "title": "webflow.io",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPxDB4tdQluoOrHrSTzbH9LgkEd2PW97lsWEuNvuRU2cjDmwnzOh3mrWIKdIQewFl5RZDxd0S1u8pNc2WObumnqEQQwNsF2aItdUDuiJnm2irvQcytGHBy5TzdxelyB678CpimAjc-IFPkk38R0yS8TgbdAnhmKfHwRPYlfWw61eo8uOoUKbo="
+          },
+          {
+            "title": "g2.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFybwz5-9tfvKw7LI0Zjo3SfaKK4XQUdCsukSx3Lym7mSLmaF3IfdYCJTpzollsIyp5dMFpkju8BXM7xC1W_JnmAtRP89Ej0voPxoAUCoD3b8_u8AiJJdqjBY4J8nC51AGAzUn4"
+          },
+          {
+            "title": "nexos.ai",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDHLM2_Qmty5CaDlTR90ouKxAr_Re8aEqiRP4tBLfYKIUfLWDmAkvO9XmanB-YdrlH3fdt5-ryatDI5FSENIHgc8JRnqUrKTQ0CIZ73nflWB5HvQjh-r7B1O2klL9FWigb0a7WAP4="
+          },
+          {
+            "title": "coursera.org",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE75u-03YwBZ-ZX4RaUhY1VzvdgHsln2mSWkxru1gpW2fApjGzDFSM9KYDCwe7kl3ZRq26c6sHCUJb-ExpcAbmdPKy9pgo7tN0Dzy2EHVYjH9zW8Byx4EYig8zzFx7t70LGVwxA5Ep6dOlAw00M_Tcnyg=="
+          },
+          {
+            "title": "netcomlearning.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLBNr5mn_z1C7O7wXRg6UiH04xwevlM0zDUTybnab7QvNm5LzcEpeFh2PIxyZZA0MtSb3pE3KgnVTNOZ_-rP2AxKaR_AAtGb8uurvVZ4o8168zi9U1nSECGIl_SjzT6rWWQqG9SqNnhHp1BMWgK1QzUKLPIFRa"
+          },
+          {
+            "title": "zapier.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnTfYyfT7OHksiNcAfrDTm8a9MnObWHf1wX-c3CAcrwvh0hbHFcuQtCxVM7kt7p65ACtYTuSSOK11rIoQNcwuqXBtg4wWFSZCs60efFlRpeVPtZjCYkkpLGCLKoYBjS9IyUYXeS1rS_A=="
+          }
+        ]
+      }
+    },
+    "cursor-vs-github-copilot": {
+      "keyword": "cursor vs github copilot",
+      "secondary_keywords": [
+        "cursor en français",
+        "cursor ide"
+      ],
+      "generated_at": "2026-04-25T23:23:43",
+      "brief": {
+        "top10": [
+          {
+            "rank": 1,
+            "domain": "digitalocean.com",
+            "title": "GitHub Copilot vs Cursor : AI Code Editor Review for 2026 | DigitalOcean",
+            "main_angle": "Comparaison technique axée sur les cas d'usage : Copilot pour l'intégration et les tâches rapides, Cursor pour les projets complexes multi-fichiers.",
+            "strength": "Article bien structuré avec des cas d'usage clairs (Quand utiliser l'un ou l'autre) et un résumé des points clés à la fin.",
+            "weakness": "Très orienté développeur expert, peu accessible pour un public en reconversion qui découvre ces outils."
+          },
+          {
+            "rank": 2,
+            "domain": "uibakery.io",
+            "title": "Cursor AI vs Copilot: Which AI Coding Assistant Reigns Supreme? (2026) | UI Bakery Blog",
+            "main_angle": "Présente Cursor comme l'option la plus puissante et profondément intégrée, tandis que Copilot est un bon choix pour un gain de productivité individuel avec moins de configuration.",
+            "strength": "Conclusion claire et orientée vers le profil de l'utilisateur (style de développement, taille de l'équipe).",
+            "weakness": "Manque de profondeur sur l'impact concret de ces outils sur l'évolution du métier de développeur."
+          },
+          {
+            "rank": 3,
+            "domain": "builder.io",
+            "title": "Cursor vs GitHub Copilot: Which AI Coding Assistant is better? - Builder.io",
+            "main_angle": "Positionnement très pro-Cursor, le présentant comme étant à \"un autre niveau\" grâce à sa compréhension globale du projet.",
+            "strength": "Ton très direct et affirmé, avec des arguments forts comme la vitesse et la fiabilité sur les opérations complexes.",
+            "weakness": "Manque de neutralité, l'article ressemble plus à un avis personnel qu'à une comparaison objective."
+          },
+          {
+            "rank": 4,
+            "domain": "iquesta.com",
+            "title": "L'IA et l'avenir des développeurs en informatique: Quoi attendre? - iQuesta",
+            "main_angle": "Article généraliste sur l'impact de l'IA sur le métier de développeur, sans comparer spécifiquement Cursor et Copilot.",
+            "strength": "Aborde le sujet sous l'angle du marché du travail et des compétences, ce qui est pertinent pour la cible.",
+            "weakness": "Ne répond pas à la requête principale (comparaison d'outils) et reste très en surface."
+          },
+          {
+            "rank": 5,
+            "domain": "5degres.com",
+            "title": "L'impact de l'IA sur le métier de Développeur - 5 Degrés",
+            "main_angle": "Témoignage personnel d'un développeur sur l'utilisation de l'IA (sans nommer d'outil précis) pour gagner en productivité.",
+            "strength": "Angle concret et retour d'expérience qui peut parler à la cible.",
+            "weakness": "Ne compare pas les outils et ne donne pas de vision stratégique, c'est un simple retour d'expérience."
+          },
+          {
+            "rank": 6,
+            "domain": "medium.com",
+            "title": "Cursor AI vs GitHub Copilot: My Real Life Experience and Detailed Comparison",
+            "main_angle": "Comparaison basée sur une expérience personnelle, utilisant une métaphore (Copilot co-pilote rapide, Cursor navigateur prudent) pour différencier les outils.",
+            "strength": "La métaphore est efficace pour simplifier la différence fondamentale. L'article conclut que les deux peuvent être complémentaires.",
+            "weakness": "Reste un avis personnel, manque de données objectives ou de benchmarks."
+          },
+          {
+            "rank": 7,
+            "domain": "datacamp.com",
+            "title": "Cursor vs GitHub Copilot : quel assistant de codage IA est le plus adapté ? | DataCamp",
+            "main_angle": "Comparaison détaillée et bien structurée, incluant les différences clés, les prix, et les avantages/inconvénients de chaque solution.",
+            "strength": "Très complet, aborde les prix de manière détaillée et cite même une étude sur la productivité perçue vs réelle.",
+            "weakness": "Très dense et technique, peut être intimidant pour un public moins averti."
+          },
+          {
+            "rank": 8,
+            "domain": "openclassrooms.com",
+            "title": "Formation Développeur IA - OpenClassrooms",
+            "main_angle": "Page de destination pour une formation de Développeur IA, sans lien direct avec la comparaison des outils.",
+            "strength": "Site d'autorité dans le domaine de la formation en France.",
+            "weakness": "Hors-sujet par rapport à l'intention de recherche comparative."
+          },
+          {
+            "rank": 9,
+            "domain": "orsys.fr",
+            "title": "Formation L'intelligence artificielle au service des développeurs - ORSYS",
+            "main_angle": "Page de présentation d'une formation sur l'IA pour les développeurs.",
+            "strength": "Acteur connu de la formation professionnelle en France.",
+            "weakness": "Ne répond pas à la requête de l'utilisateur."
+          },
+          {
+            "rank": 10,
+            "domain": "human-coders.com",
+            "title": "Formation IA pour les devs – Maîtrisez l'IA pour coder - Human Coders",
+            "main_angle": "Page commerciale pour une formation sur l'intégration de l'IA dans le workflow de développement.",
+            "strength": "Le programme de la formation liste des compétences concrètes (prompting, debugging assisté, etc.).",
+            "weakness": "Contenu commercial qui ne compare pas les outils du marché."
+          }
+        ],
+        "common_angles": [
+          "Comparaison des fonctionnalités techniques (compréhension du contexte, édition multi-fichiers).",
+          "Positionnement de Cursor comme un IDE 'AI-first' vs Copilot comme un plugin intégré.",
+          "Différenciation par cas d'usage : Copilot pour la vitesse sur des tâches simples, Cursor pour la complexité et les refactorings importants.",
+          "Comparaison des modèles de tarification (abonnement simple pour Copilot, crédits pour Cursor)."
+        ],
+        "weak_angles": [
+          "L'impact sur la courbe d'apprentissage pour un développeur junior ou en reconversion.",
+          "La dimension stratégique : quel outil est un meilleur investissement en compétences pour l'avenir du métier ?",
+          "Le 'coût mental' : lequel des deux outils demande le plus de travail de vérification et de correction, au-delà de la productivité perçue ?",
+          "L'analyse au-delà du développeur expert : comment ces outils changent la collaboration en équipe et le rôle du 'tech lead' ?"
+        ],
+        "winning_moves": [
+          "Adopter un angle 'guide pour le professionnel qui s'adapte' plutôt qu'un 'benchmark pour expert dev'. Traduire les fonctionnalités techniques en bénéfices métiers concrets pour quelqu'un qui doit monter en compétence.",
+          "Structurer l'article autour d'un parcours de décision : 'Pour quel profil ? Pour quel projet ? Pour quel objectif de carrière ?'.",
+          "Intégrer une dimension 'retour sur investissement' : analyser non seulement le coût financier, mais aussi le temps d'apprentissage et le gain de productivité réel pour des profils non-experts.",
+          "Créer un tableau comparatif synthétique et visuel qui va au-delà des features, en incluant des critères comme 'Facilité de prise en main', 'Impact sur les bonnes pratiques', 'Potentiel d'apprentissage'.",
+          "Conclure avec une vision prospective : comment le choix de l'un ou l'autre outil prépare à l'évolution du métier de développeur et à la collaboration homme-machine."
+        ],
+        "must_include_sections": [
+          "Introduction : Plus qu'un choix d'outil, un choix de carrière ?",
+          "Cursor vs. GitHub Copilot : Le match en 1 minute (Tableau comparatif)",
+          "Pour qui est fait GitHub Copilot ? Le copilote qui accélère votre quotidien",
+          "Pour qui est fait Cursor ? L'architecte IA pour vos projets ambitieux",
+          "Le vrai coût : Au-delà du prix, quel est l'investissement en temps et en confiance ?",
+          "Verdict : Quel outil choisir en 2026 pour préparer votre avenir professionnel ?"
+        ],
+        "citable_facts_to_verify": [
+          "GitHub Copilot est utilisé par 90% des entreprises du Fortune 100.",
+          "Une étude de METR a montré que sur des bases de code matures, les développeurs utilisant l'IA étaient parfois plus lents que ceux sans IA.",
+          "Le prix de Cursor Pro est de 20$/mois contre 10$/mois pour Copilot Pro.",
+          "Cursor est un fork de VS Code, ce qui signifie que les extensions et raccourcis sont compatibles."
+        ],
+        "entities_to_mention": [
+          "VS Code",
+          "JetBrains",
+          "OpenAI",
+          "Claude (Anthropic)",
+          "Gemini (Google)",
+          "Stack Overflow Developer Survey",
+          "GitHub Octoverse Report"
+        ],
+        "target_word_count": 2500,
+        "intent_type": "informational",
+        "featured_snippet_opportunity": "Tableau comparatif. Viser un tableau simple avec les colonnes : 'Critère', 'GitHub Copilot', 'Cursor', 'Idéal pour...'. Le premier critère pourrait être 'Philosophie de l'outil' avec 'Plugin d'assistance' pour Copilot et 'IDE centré sur l'IA' pour Cursor.",
+        "serp_features_detected": [
+          "AI Overview",
+          "People Also Ask",
+          "Video",
+          "Discussions and forums (Reddit)"
+        ],
+        "grounding_sources": [
+          {
+            "title": "datacamp.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlQd5HOD1L3V7PfB8g094jFUgqisxwBCYIXL8ZCkGK91SSbGVQ34QngbrblBXrtooYeCyJ0JChnSy3tzszUVoeVdQfGxONwJYV1liDH-0SDkU780RaTjfPbA5nBrb5vWRf8WwX1NowVQJ54uk5LjmnoFxO"
+          },
+          {
+            "title": "supatest.ai",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHL76vS8mQQUdzK7IpZgSotRM2ZAw3aOcOwovweZqbrmJ8T6W3SL5-oFJoptiQAMC0TMvxeQLh6xiGfIU1fOCkvAuqQMPeVnf9PZsgCc-L1MEd1FeqrYAy3-oP4P0_2fB4EcDmpO488RUbHNWOKf6KYCbQzec7A"
+          },
+          {
+            "title": "reddit.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEuXuf1K2hPLBG4jr_rR9vHxBUHYo7fb563qj2Vko0SEFKORw1m55FEsId4ahwmHdVUE9suz6gcGWPPiEQ5pCTE1P4rQ36zomQ3JWxZQX9d0ROht2ULFEVDxYIQlHFOU1ZrF4i8w2-QQNLRxA9rjXst9UNcPG70nR12caFvlH5IB08MqkZ9VdRLSO5RMAynpoYdpTL8HAnh1YTG_jj-R31RHJcMcw92Q=="
+          },
+          {
+            "title": "datacamp.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0TSuHAHX5BJ1E_HfFDtz6p0T78acoji7vTnYMl-YGRZ11c65u8yv2UhnFGz2VC_GwLAeyWhtYcd07_Uo-NDzUJOhQl5gHCkfNLRVP_ugQxUD-JRBlLZbxd20m8bvDdcBwDsUA1zUtflXLn7-iqPF4"
+          },
+          {
+            "title": "promptfacile.fr",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxYafkGGZbcsgUU9xGK_CagAQGcQizEMhe4pkjuE-g7OLV6uuG-CqSEioa812-btKGRZ08zmSMGBc_XJVV7v8NYz_ZHvytGekVOUORCK-ZLKAyLdIyotNJPcCN69JIvpA="
+          },
+          {
+            "title": "medium.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJS_UDDCaEi7UCqymNCS4s4JA_xcyF7PHXL19jK9TlkYYcnZX2SRnU7DGvfDJG2bwgJnGuanqD2hokhJgnuUxBdvzz1wvJHD7XJ2O-LEEqP8TRIE3acSW0RMtP10SDYMymRgIXKbDQwlSQtc2IlGsuFHJmK05xMWMlEj4NsMn9muBQ8YuaHeXlGdK_0sD6"
+          }
+        ]
+      }
+    },
+    "claude-vs-chatgpt": {
+      "keyword": "claude vs chatgpt",
+      "secondary_keywords": [
+        "claude en français",
+        "claude ou chatgpt"
+      ],
+      "generated_at": "2026-04-25T23:24:14",
+      "brief": {
+        "top10": [
+          {
+            "rank": 1,
+            "domain": "zapier.com",
+            "title": "Claude vs. ChatGPT: What's the difference? [2026] - Zapier",
+            "main_angle": "Comparaison générale des fonctionnalités et cas d'usage pour un public large, avec un focus sur les dernières versions des modèles.",
+            "strength": "Article très à jour (mentionne des versions de modèles de 2026), structuré et facile à lire avec un tableau comparatif clair.",
+            "weakness": "Angle très généraliste, manque de profondeur pour un public spécialisé comme les professionnels en reconversion. Le ton est américain, peu adapté au marché français."
+          },
+          {
+            "rank": 2,
+            "domain": "plezi.co",
+            "title": "Claude vs ChatGPT : guide comparatif complet, pour marketeurs B2B - Plezi",
+            "main_angle": "Comparaison orientée pour les professionnels du marketing B2B, avec des cas d'usages spécifiques à ce secteur.",
+            "strength": "Cible une audience précise (marketeurs), ce qui rend les exemples concrets et pertinents pour ce segment.",
+            "weakness": "Très focalisé sur le marketing, il exclut d'autres corps de métiers qui sont notre cible (développeurs, consultants, etc.)."
+          },
+          {
+            "rank": 3,
+            "domain": "digidop.fr",
+            "title": "Claude AI vs ChatGPT : avantages, limites et retour d'expérience - Digidop",
+            "main_angle": "Retour d'expérience d'une agence web, avec un fort accent sur la comparaison des capacités de génération de code.",
+            "strength": "Le retour d'expérience concret (de leur propre agence) apporte de la crédibilité et des exemples pratiques, notamment sur le code.",
+            "weakness": "L'analyse est presque exclusivement centrée sur le développement web, ce qui est trop restrictif pour notre audience plus large."
+          },
+          {
+            "rank": 4,
+            "domain": "ionos.fr",
+            "title": "Claude vs ChatGPT : quel chatbot IA est le meilleur - IONOS",
+            "main_angle": "Comparaison technique et fonctionnelle des deux outils pour aider l'utilisateur à choisir le meilleur pour ses besoins.",
+            "strength": "Bonne structure comparative point par point (portée contextuelle, gestion des données sensibles).",
+            "weakness": "Contenu assez générique et peu approfondi, il reste en surface et manque d'exemples concrets et de personnalité."
+          },
+          {
+            "rank": 5,
+            "domain": "aihub.com",
+            "title": "Claude Vs. ChatGPT: Which AI Chatbot Should You Use? | AI Hub",
+            "main_angle": "Comparaison basée sur des benchmarks et des tests pour déterminer le meilleur outil, avec une conclusion claire en faveur de Claude pour le code.",
+            "strength": "Cite des benchmarks précis (SWE-bench) pour appuyer ses affirmations, ce qui renforce la crédibilité.",
+            "weakness": "Article en anglais, moins pertinent pour notre marché cible francophone. L'analyse est très orientée développeurs."
+          },
+          {
+            "rank": 6,
+            "domain": "businessinsider.com",
+            "title": "Claude: What to Know About Anthropic's ChatGPT Rival - Business Insider",
+            "main_angle": "Présentation de Claude comme le principal concurrent de ChatGPT, en racontant l'histoire d'Anthropic et sa mission.",
+            "strength": "Bon storytelling autour d'Anthropic et de sa mission de créer une IA plus sûre et éthique.",
+            "weakness": "Plus un portrait de Claude qu'une réelle comparaison frontale avec ChatGPT. Manque de tests pratiques."
+          },
+          {
+            "rank": 7,
+            "domain": "latenode.com",
+            "title": "Ai Anthropic Claude 3 vs ChatGPT-4 : Detailed Comparison - Latenode Blog",
+            "main_angle": "Comparaison détaillée des modèles Claude 3 et GPT-4 pour un public de développeurs et d'utilisateurs de plateformes low-code.",
+            "strength": "Analyse technique assez poussée, mentionnant les différents modèles (Opus, Sonnet) et leurs cas d'usage.",
+            "weakness": "Très technique et orienté API/développeurs, peu accessible pour un salarié en reconversion non-technique."
+          },
+          {
+            "rank": 8,
+            "domain": "proxet.com",
+            "title": "Claude 3 vs GPT 4: Who's ranking better? - Proxet",
+            "main_angle": "Analyse comparative basée sur les classements (Chatbot Arena) et les benchmarks, tout en soulignant leurs limites.",
+            "strength": "Mentionne le classement crowdsourcé de Chatbot Arena, ce qui est un angle intéressant et différent des benchmarks officiels.",
+            "weakness": "L'article date un peu et les classements ont pu évoluer. L'analyse reste très centrée sur les performances brutes."
+          },
+          {
+            "rank": 9,
+            "domain": "medium.com",
+            "title": "Claude AI vs ChatGPT: My Honest Experience Using Both (And Which One I'd Recommend)",
+            "main_angle": "Retour d'expérience personnel et subjectif d'un freelance utilisant les deux outils pour des tâches variées (rédaction, code, etc.).",
+            "strength": "Le format \"test personnel\" avec des cas d'usage réels (résumé de PDF, brainstorming) parle bien à la cible des freelances.",
+            "weakness": "Très subjectif et basé sur l'expérience d'une seule personne, manque de données objectives pour généraliser."
+          },
+          {
+            "rank": 10,
+            "domain": "reddit.com",
+            "title": "ChatGPT vs Claude - Reddit",
+            "main_angle": "Discussion sur un forum où les utilisateurs partagent leurs avis et expériences personnelles, souvent de manière très directe.",
+            "strength": "Donne un aperçu authentique des opinions et des frustrations des utilisateurs (limites de Claude, côté \"robotique\" de ChatGPT).",
+            "weakness": "Information non structurée et très anecdotique. Manque de fiabilité et de sources vérifiables."
+          }
+        ],
+        "common_angles": [
+          "Comparaison des performances (code, écriture, raisonnement)",
+          "Analyse des prix et des versions (gratuites vs payantes)",
+          "Présentation des forces et faiblesses générales de chaque outil",
+          "Mention de la taille de la fenêtre de contexte comme avantage pour Claude"
+        ],
+        "weak_angles": [
+          "Impact concret sur les métiers et les compétences requises (notre cœur de cible)",
+          "Cas d'usage spécifiques à la reconversion professionnelle (création de CV, préparation d'entretiens, formation)",
+          "Analyse de l'aspect \"éthique\" et \"sécurité\" (mission d'Anthropic) au-delà d'une simple mention",
+          "Tests pratiques et chiffrés sur des tâches du quotidien d'un salarié ou freelance (analyse de document, synthèse de réunion, etc.)"
+        ],
+        "winning_moves": [
+          "Créer un comparatif basé sur des cas d'usage réels de la reconversion et de l'adaptation professionnelle (ex: 'J'ai demandé à Claude et ChatGPT de refaire mon CV pour un poste de chef de projet IA', 'J'ai simulé un entretien d'embauche avec les deux IA', 'Lequel m'aide le mieux à bâtir un plan de formation ?').",
+          "Adopter un angle \"zéro bullshit\" en allant au-delà des benchmarks marketing. Mener nos propres mini-tests sur des tâches précises (ex: résumer un rapport de 100 pages, analyser les tendances d'un marché à partir d'articles) et présenter les résultats bruts (prompts et réponses inclus).",
+          "Intégrer une dimension prospective : non seulement quel outil est le meilleur AUJOURD'HUI, mais surtout comment chacun se positionne pour transformer des métiers spécifiques DEMAIN. Analyser la vision d'OpenAI vs Anthropic.",
+          "Créer un tableau comparatif actionnable et visuel qui ne se limite pas aux features techniques, mais qui évalue les outils sur des critères liés au monde du travail : 'Gain de temps pour tâches admin', 'Aide à la montée en compétence', 'Qualité du brainstorming stratégique', 'Fiabilité des sources'.",
+          "Interviewer 2-3 professionnels (un développeur, un consultant, un créateur de contenu) qui ont switché de l'un à l'autre ou qui utilisent les deux, et intégrer leurs témoignages et retours d'expérience authentiques."
+        ],
+        "must_include_sections": [
+          "Claude vs ChatGPT : Lequel choisir pour accélérer votre carrière en 2026 ?",
+          "Tableau comparatif rapide : L'essentiel en 30 secondes",
+          "Round 1 : La gestion de tâches complexes et de longs documents (L'atout maître de Claude)",
+          "Round 2 : La créativité et la génération d'idées (L'avantage historique de ChatGPT ?)",
+          "Round 3 : Le code et les tâches techniques (Le nouveau roi s'appelle-t-il Claude ?)",
+          "Au-delà de la technique : Lequel est un meilleur 'collègue' IA au quotidien ?",
+          "Verdict pour les pros : ChatGPT, l'outil à tout faire polyvalent vs Claude, l'assistant spécialiste et plus fiable ?"
+        ],
+        "citable_facts_to_verify": [
+          "Claude 3 surpasse GPT-4 sur la plupart des benchmarks, notamment en raisonnement au niveau 'Graduate' (50.4% vs 35.7%).",
+          "La fenêtre de contexte de Claude 3 est de 200k tokens, contre 128k pour GPT-4.",
+          "Le prix de Claude 3 Opus est de 15$ par million de tokens en input, contre 10$ pour GPT-4 Turbo.",
+          "Anthropic a été fondée par d'anciens employés d'OpenAI avec une mission axée sur la sécurité de l'IA."
+        ],
+        "entities_to_mention": [
+          "Anthropic",
+          "OpenAI",
+          "Claude 3 (Opus, Sonnet, Haiku)",
+          "GPT-4 / GPT-4o",
+          "Chatbot Arena (LMSys Org)",
+          "Dario Amodei (CEO Anthropic)"
+        ],
+        "target_word_count": 3000,
+        "intent_type": "informational",
+        "featured_snippet_opportunity": "Tableau comparatif. Viser un tableau à 3 colonnes (Critère, Claude, ChatGPT) avec des lignes comme 'Idéal pour...', 'Gestion de longs documents', 'Génération de code', 'Créativité', 'Prix version Pro'. La formulation cible serait : 'Quel est le meilleur choix entre Claude et ChatGPT pour un usage professionnel ?'",
+        "serp_features_detected": [
+          "AI Overview",
+          "People Also Ask",
+          "Video",
+          "Image Pack"
+        ],
+        "grounding_sources": [
+          {
+            "title": "digidop.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGY6fClmpkcTzZ7pxQN6lcN_f-3IwLOPPANsAGY5TU-3SCNrS1rekLm4VB0s4O88BDBeXvrSZaWqFJo38H7rxOMWP3nWOSkCO6IAK_3_Nb9zPj5Z0-yqAVvelQHho206MZCe9z5qpO8BITC"
+          },
+          {
+            "title": "ionos.fr",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQCQtFruWxaMPf669Y84V5RHTTNcOf6xI_c-Umrf7I5SSYWYzCYzRPCpbKjAJ09ZIfLJ-TdWozSXfqwO5yQb0re-aeodC2OEeHbLFtBSoEaXvesRdTDfRry8uptOeiUpJBTUfY7yzr4al_v-sptSW7IMex0iw5h68ftCkoYbtULqkNL3pHDpuzEEELVlH3eLl3lmx8pL3d"
+          },
+          {
+            "title": "overchat.ai",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4RlDm9Q6293J8MN9JmpQ6NqgOAW0jPQkgLahIAbZ3l736VRglMZ4otEZhlMa2B-1oJvB_TVRYKN-jtwN_qIxsAGpwOlBODTXKBxbMaAH8_zKz5uchQLmxBiTtJHXe8eRbD7IXtw=="
+          },
+          {
+            "title": "businessinsider.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6zwOdDyL7Yt840l0GrxZ9MLTKM3z1M_KZatVkVxlPLR5RfdmW1ZUZ5kcod1d6Uu4rWuVLUH7TKC686AWBLsbvhio5WYpruSLyZWOGanjOn5ky9o51OkCGTcktoB8X5w=="
+          },
+          {
+            "title": "latenode.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-AGk-4ZFOKpOMgsabrtp21eUQL1zXGEYLFHXNl5fwB2xiZ4awSg9OqdkNu0OLTJbmVD0eKXr2mJRIS3cmznLzsOHYZ14dktHtQryRlrtdXvWQ-k2Ff0zMCCPVDnohNpgyjN5kIpn_VODOzaGmLMeKv8ijmEUweWXf4etvEDWi7H6yfLYVfCtyQZKYcgMnqsTxIVWtQIMSgpMANWOisyXwbt6rDcgF2CZwA4JbYIprc722gl6YeBCPZ-82ySV2Igie3pkGlA=="
+          },
+          {
+            "title": "proxet.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpiAspZ3aK3HHZnA6gqyGAKpZEd9AgNJhZExZS4LaFJo1IJTUycW1-AJyWFtLNNYt_mPNfj6zmHzJ7z2AenBfwzR0aPDYNw2O1mUPT0pvGecmx7LCngBchecWOF23LyFTgGxUl21shuxwKj8PTnPmJ5QdbNN-yW7nXliPQTuui2lOu-crSsZ5kEL_I2i0uZNtpgJhGELvzaBpA0c-J"
+          },
+          {
+            "title": "medium.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEai3lAX-0dPOI7AN-IDlOsC54znVIZ46zIpT-QcRmhorxYXEqqvBBS7MlhK8Ch8tIw-S91ty63dzK3p7mqc-zKbpn-XXHz6Xvk0aJIGA6UNg8mw5gSjfQ_1RMdcLWW2_8zOTdfhS3JMrTvvb6-H7pETkRhOPNYQqNKUOwvCZFl3S8JV2axUiJyCAhG_Ogni1R2MU0tTAjgoRIu874Jmk6EAkZN_6-DvcF5xbakgAvgE9apNfFA_3qP"
+          },
+          {
+            "title": "reddit.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgY2fbF2bIqo2sBfGeK5sbEaj1Yf8s8h2L33jz0MKdP3HkFEv7DgzuKev1Zqp6AgAH05BSaL7IFn-y1bqne7g8-AhyQBI7KxuEeI0z-VWkheostM6zTOHTstMdS57Pxk5dWVr3qD-et2abT3Qb7qKug1zGR0hv-MD7r_FNTg=="
+          },
+          {
+            "title": "reddit.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGv6bfhlXNU0qSv8Rna81LctMIUyJNmaiI9W1BfljYvC4ffr-_dUtbNt4-KVXtSlHWjh_9HIcgReF12HZrYungo8NoUizkL4Q0hX3nq5w7x4jPf5ylUHTLOEeP7uOtOxh4o4jnjFYCPPR0aE_zAlEXwdtSTLSaQHmO-t0sS3JhLZao-3g92GmcMQY_a-8NQdujw2LyNzY4BFYtbc9TIXlryHrg="
+          },
+          {
+            "title": "openai.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSPLpsdGZVPM9G6XV9cRW_ulOuf8cAyv3ByQuCZ1ZhLfk_SkysTeZx5kXSEY_BocgS0zOwhuj5bMoqix4EA4TdBFcp-lvAPoNT6HLTLCvnBjuH-jrKJ2ou74Ar0-rEu3WVz1gG7J1DUX-iPvjwpK-Ra6vbGiq9WzIj-MjL0X6Xrgh8xxPuwz52kZq6T_qJ"
+          },
+          {
+            "title": "allganize.ai",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMOqndiNWh3BAuk-i5TtL_1UxWq-K4XgHfDSbThKEiTFOsLA8ODOvel_jlm2MecykpgsfPqU_IUgdzfEhfNUpNTePOTk18sxGeFea2FAdE9D2hZ3RtnsjWbZCTzmzUcfIgNicCYzZ0qmdk-svZiBw7Kg7SnoDZQCgEBWPRW-8Z6pld4TKgaQISb0eBD8KN52OUSdsx8qXa2EatvHU="
+          }
+        ]
+      }
+    },
+    "perplexity-vs-google": {
+      "keyword": "perplexity vs google",
+      "secondary_keywords": [
+        "remplacer google par perplexity"
+      ],
+      "generated_at": "2026-04-25T23:24:44",
+      "brief": {
+        "top10": [
+          {
+            "rank": 1,
+            "domain": "llmrefs.com",
+            "title": "Perplexity vs Google: A Head-to-Head SEO and UX Analysis - LLMrefs",
+            "main_angle": "Analyse comparative détaillée de Perplexity (moteur de réponse) et Google (écosystème de liens), axée sur l'expérience utilisateur, le SEO et l'impact business.",
+            "strength": "Très structuré avec des tableaux comparatifs clairs, des chiffres de croissance et une analyse orientée SEO/business (optimiser pour les citations vs les clics).",
+            "weakness": "Contenu en anglais, ce qui est un frein pour le marché cible francophone. Le site est lui-même un outil d'analyse, donc il y a un biais promotionnel."
+          },
+          {
+            "rank": 2,
+            "domain": "prestigelinks.com",
+            "title": "Perplexity vs. Google Search: Comparison - PrestigeLinks",
+            "main_angle": "Comparaison générale des deux outils, concluant que Google est meilleur pour la recherche approfondie et Perplexity pour les réponses rapides et directes.",
+            "strength": "Bonne synthèse des différences fondamentales (style de recherche, SEO, UX). Mentionne la notion de \"brand visibility\" comme signal pour les moteurs de réponse.",
+            "weakness": "Analyse assez superficielle, manque d'exemples concrets et de conseils actionnables pour les professionnels. Contenu également en anglais."
+          },
+          {
+            "rank": 3,
+            "domain": "firstaimovers.com",
+            "title": "Perplexity AI vs Google 2025: Complete Research Guide - First AI Movers",
+            "main_angle": "Guide comparatif positionnant Perplexity comme supérieur pour la recherche professionnelle grâce à sa précision et ses sources, tout en réduisant le temps de recherche.",
+            "strength": "Cite des études (fictives ou non, à vérifier) comme SE Ranking et Forrester, donne des chiffres précis (-10% d'hallucination, +30% de rapidité).",
+            "weakness": "Le ton est très promotionnel pour Perplexity. Les chiffres cités manquent de liens directs vers les sources pour vérification. Contenu en anglais."
+          },
+          {
+            "rank": 4,
+            "domain": "7minute.ai",
+            "title": "Perplexity vs Google: The Powerful Search Alternative You Need to Try Today - 7 Minute AI",
+            "main_angle": "Présentation de Perplexity comme un \"moteur de recherche\" (research engine) qui synthétise l'information, par opposition à Google, un \"moteur de recherche\" (search engine) qui liste des liens.",
+            "strength": "L'analogie du bibliothécaire qui donne un résumé du livre (Perplexity) vs celui qui indique où trouver le livre (Google) est très parlante.",
+            "weakness": "Contenu assez simple, plus une introduction qu'une analyse de fond. L'article date un peu et ne couvre pas les dernières évolutions. Contenu en anglais."
+          },
+          {
+            "rank": 5,
+            "domain": "medium.com",
+            "title": "Perplexity vs. Google Search: a totally unscientific comparison | by Mike Lyngaas - Medium",
+            "main_angle": "Retour d'expérience personnel et subjectif comparant les deux outils sur des cas d'usage réels (recherche exploratoire, how-to, résumé).",
+            "strength": "Approche très concrète et honnête, qui montre les limites de Perplexity sur des requêtes simples (horaires de cinéma) et sa force sur les résumés.",
+            "weakness": "Très subjectif (\"unscientific\"), ne fournit pas une analyse stratégique ou des conseils applicables par d'autres. Contenu en anglais."
+          },
+          {
+            "rank": 6,
+            "domain": "pcmag.com",
+            "title": "Is Perplexity Better Than Google Search? I Switched for a Week to Find Out | PCMag",
+            "main_angle": "Test comparatif sur une semaine d'utilisation, mettant en avant l'interface épurée et les citations de Perplexity, mais ses limites pour des recherches subjectives comme les critiques.",
+            "strength": "Le format \"test pendant une semaine\" est engageant et crédible. L'analyse des forces et faiblesses est équilibrée.",
+            "weakness": "Reste un retour d'expérience individuel, pas une analyse de fond pour un public professionnel en reconversion. Contenu en anglais."
+          },
+          {
+            "rank": 7,
+            "domain": "blogdumoderateur.com",
+            "title": "Google dévoile le futur de la recherche en ligne : l'IA au premier plan - BDM",
+            "main_angle": "Annonce des fonctionnalités d'IA générative de Google (SGE/AI Overviews), expliquant comment Google intègre l'IA dans son propre moteur.",
+            "strength": "Article en français d'un média de référence. Contexte sur la réponse de Google à la menace des nouveaux moteurs IA.",
+            "weakness": "Ne compare pas directement avec Perplexity, se concentre uniquement sur l'écosystème Google. L'article date de mai 2023, donc potentiellement dépassé."
+          },
+          {
+            "rank": 8,
+            "domain": "g2.com",
+            "title": "Avantages et Inconvénients de Perplexity | Ce que les utilisateurs aiment et n'aiment pas - G2",
+            "main_angle": "Agrégation d'avis utilisateurs sur Perplexity, listant les points forts (facilité d'usage, qualité du contenu) et les points faibles (limitations, contexte, données parfois inexactes).",
+            "strength": "Basé sur un grand nombre d'avis, ce qui donne une vision assez large des retours utilisateurs. En français.",
+            "weakness": "N'est pas un article comparatif. Se concentre uniquement sur Perplexity, sans mise en perspective avec Google."
+          },
+          {
+            "rank": 9,
+            "domain": "tinext.com",
+            "title": "AI Search : la nouvelle frontière de la recherche en ligne - Tinext Experience",
+            "main_angle": "Article de fond sur l'impact de l'IA sur la recherche en ligne en général, destiné aux marketeurs.",
+            "strength": "Analyse stratégique du changement de paradigme pour les marques (être \"vu\" par l'IA). En français.",
+            "weakness": "Très généraliste, ne mentionne pas Perplexity spécifiquement et n'offre pas de comparaison directe avec Google."
+          },
+          {
+            "rank": 10,
+            "domain": "fr.trustpilot.com",
+            "title": "Lisez les avis marchands de www.perplexity.ai - Trustpilot",
+            "main_angle": "Page d'avis utilisateurs sur Trustpilot pour Perplexity.",
+            "strength": "Avis bruts et non filtrés d'utilisateurs francophones, montrant des frustrations réelles (bugs, limites du forfait Pro).",
+            "weakness": "Pas un contenu éditorial, aucune analyse ni comparaison. Les avis sont souvent très négatifs et peu détaillés."
+          }
+        ],
+        "common_angles": [
+          "Perplexity est un 'moteur de réponse' qui synthétise et cite ses sources, tandis que Google est un 'moteur de recherche' qui fournit une liste de liens.",
+          "L'expérience utilisateur de Perplexity est plus conversationnelle, directe et sans publicité, alors que Google est un écosystème plus large mais plus encombré.",
+          "Perplexity est souvent plus rapide pour des questions factuelles ou des résumés, Google reste supérieur pour la recherche exploratoire, locale ou subjective."
+        ],
+        "weak_angles": [
+          "L'impact concret sur les métiers : comment un salarié ou un freelance peut intégrer Perplexity dans son workflow pour être plus productif.",
+          "La dimension économique et la monétisation : comment chaque service gagne de l'argent (publicité pour Google, abonnements pour Perplexity) et ce que cela implique pour l'utilisateur.",
+          "L'analyse critique des sources : Perplexity cite ses sources, mais comment évaluer leur fiabilité ? Une source citée n'est pas forcément une source de qualité."
+        ],
+        "winning_moves": [
+          "Adopter un angle pratique 'pour les pros' : créer un guide comparatif basé sur des cas d'usage réels de salariés et freelances (ex: préparer un rdv client, faire une veille concurrentielle, rédiger un rapport, apprendre une nouvelle compétence).",
+          "Intégrer une analyse économique et stratégique : expliquer les business models et pourquoi cela change la nature des résultats (biais publicitaire vs biais de l'abonnement).",
+          "Faire un test comparatif en direct sur 5 prompts complexes liés au monde du travail et analyser la qualité, la fiabilité des sources et la rapidité des réponses de chaque outil.",
+          "Créer une section 'GEO (Generative Engine Optimization) pour les nuls' : expliquer simplement comment un freelance ou une PME peut optimiser son contenu pour être cité par Perplexity, en lien avec notre positionnement.",
+          "Proposer un tableau de décision actionnable : 'Quand utiliser Google ? Quand utiliser Perplexity ? Quand utiliser les deux ?' avec des exemples concrets pour chaque cas."
+        ],
+        "must_include_sections": [
+          "Introduction : Google ne suffit plus, l'ère des 'moteurs de réponse' est là",
+          "Perplexity vs Google : Le choc de deux philosophies (Moteur de réponse vs Moteur de recherche)",
+          "Le test : 5 scénarios professionnels à l'épreuve (Veille, Rédaction, Apprentissage...)",
+          "Fiabilité et sources : Les citations de Perplexity sont-elles une garantie de vérité ?",
+          "Business Model : Qui paie l'addition et ce que ça change pour vous (Pub vs Abonnement)",
+          "Conclusion : Quel outil pour quel pro ? Notre guide pour intégrer l'IA dans votre quotidien"
+        ],
+        "citable_facts_to_verify": [
+          "Perplexity a vu sa croissance passer de 230 millions de requêtes mensuelles en août 2024 à 780 millions en mai 2025.",
+          "Les réponses de Perplexity citent en moyenne plus de 5 sources (selon SE Ranking).",
+          "Les hallucinations de Perplexity sont 10% moins fréquentes que celles des AI Overviews de Google sur des sujets complexes (selon Forrester)."
+        ],
+        "entities_to_mention": [
+          "Google AI Overviews (anciennement SGE)",
+          "ChatGPT",
+          "Claude",
+          "Gemini",
+          "Aravind Srinivas (CEO de Perplexity)",
+          "Nvidia (investisseur de Perplexity)",
+          "Jeff Bezos (investisseur de Perplexity)"
+        ],
+        "target_word_count": 3000,
+        "intent_type": "informational",
+        "featured_snippet_opportunity": "Tableau comparatif. Formulation cible : 'Tableau comparatif : Perplexity vs Google pour les professionnels'. Le tableau devrait comparer des critères comme : Type de moteur, Idéal pour..., Fiabilité des sources, Business Model, Expérience Utilisateur, Impact sur la productivité.",
+        "serp_features_detected": [
+          "AI Overview",
+          "People Also Ask",
+          "Video",
+          "Image Pack"
+        ],
+        "grounding_sources": []
+      }
+    },
+    "midjourney-vs-dalle-vs-firefly": {
+      "keyword": "midjourney vs dalle",
+      "secondary_keywords": [
+        "meilleur generateur image ia"
+      ],
+      "generated_at": "2026-04-25T23:25:15",
+      "brief": {
+        "top10": [
+          {
+            "rank": 1,
+            "domain": "jedha.co",
+            "title": "Les 5 meilleurs générateurs d'images par IA en 2026 - Jedha",
+            "main_angle": "Comparatif généraliste des meilleurs générateurs d'images IA, positionnant ChatGPT Images (DALL-E) comme le meilleur, avec une brève mention de Midjourney.",
+            "strength": "Article très récent (Janvier 2026) qui se positionne sur le futur, contenu bien structuré avec un sommaire clair.",
+            "weakness": "Ne se concentre pas spécifiquement sur le duel \"Midjourney vs DALL-E\", mais l'intègre dans une liste plus large. L'angle est plus pour un débutant qui découvre les outils."
+          },
+          {
+            "rank": 2,
+            "domain": "eweek.com",
+            "title": "Midjourney vs DALL-E: AI Art Tools Face-Off - eWeek",
+            "main_angle": "Comparaison directe sous forme de \"face-off\" entre Midjourney et DALL-E, avec un tableau comparatif et une analyse des forces respectives pour différents besoins créatifs.",
+            "strength": "Le titre et l'angle répondent parfaitement à la requête. Le tableau comparatif est un atout pour la lisibilité et le featured snippet.",
+            "weakness": "Contenu en anglais, ce qui peut être un frein pour une partie du marché cible francophone. L'analyse reste assez superficielle sur les cas d'usage professionnels."
+          },
+          {
+            "rank": 3,
+            "domain": "tool-advisor.com",
+            "title": "Les 6 meilleurs générateurs d'images par l'IA en 2026 - Tool Advisor",
+            "main_angle": "Liste des meilleurs générateurs d'images, où Midjourney est présenté comme la meilleure option payante et DALL-E 3 est également listé.",
+            "strength": "Article récent (Février 2026) et bien structuré, qui donne des arguments clairs pour chaque outil.",
+            "weakness": "Comme le premier résultat, c'est une liste généraliste et non un comparatif dédié. L'analyse des cas d'usage pour la reconversion professionnelle est absente."
+          },
+          {
+            "rank": 4,
+            "domain": "openart.ai",
+            "title": "Midjourney contre DALLE : Lequel est meilleur pour vous ? - OpenArt",
+            "main_angle": "Comparaison directe qui met en avant les différences clés (intégration Discord vs ChatGPT, usage commercial) et les similitudes.",
+            "strength": "Aborde des points concrets comme l'intégration et l'utilisation commerciale, ce qui est pertinent pour les professionnels.",
+            "weakness": "L'article promeut également la solution OpenArt, ce qui peut biaiser la comparaison. Les avis utilisateurs cités sont peu détaillés."
+          },
+          {
+            "rank": 5,
+            "domain": "bannerbear.com",
+            "title": "Midjourney vs. DALL·E: A Style-by-Style Image Comparison in 2025 - Bannerbear",
+            "main_angle": "Comparaison très visuelle basée sur des tests avec les mêmes prompts pour différents styles (photoréalisme, animation, etc.).",
+            "strength": "L'approche \"style-by-style\" est très concrète et permet de visualiser directement les forces et faiblesses de chaque outil.",
+            "weakness": "Contenu en anglais. L'analyse se concentre sur l'aspect esthétique et moins sur les aspects pratiques pour un professionnel (workflow, coût, etc.)."
+          },
+          {
+            "rank": 6,
+            "domain": "g2.com",
+            "title": "I Tested Midjourney vs. DALL·E to Find the Best AI Image Generator - G2 Learning Hub",
+            "main_angle": "Retour d'expérience personnel et test comparatif avec un verdict clair : Midjourney pour le storytelling artistique, DALL-E 3 pour la précision et la rapidité.",
+            "strength": "Le format \"test personnel\" rend le contenu plus engageant. Fait référence aux avis utilisateurs de G2, ce qui ajoute de la crédibilité.",
+            "weakness": "Contenu en anglais. L'analyse est basée sur l'expérience d'une seule personne, ce qui peut être subjectif."
+          },
+          {
+            "rank": 7,
+            "domain": "medium.com",
+            "title": "The Best AI Image Tools for 2026, Compared and Evaluated | by Jim MacLeod - Medium",
+            "main_angle": "Évaluation de plusieurs outils où Midjourney est classé parmi les meilleurs, avec une analyse basée sur des exemples concrets.",
+            "strength": "Article d'opinion par un auteur identifié, ce qui peut créer un lien de confiance. Projette une vision sur 2026.",
+            "weakness": "Contenu en anglais et sur une plateforme (Medium) qui n'est pas un média spécialisé. Comparaison non exclusive à Midjourney et DALL-E."
+          },
+          {
+            "rank": 8,
+            "domain": "demandsage.com",
+            "title": "DALL·E vs Midjourney (2026) - Which AI Art Tool Is Better? - DemandSage",
+            "main_angle": "Comparatif direct basé sur des tests dans plusieurs catégories (portraits, texte, paysage, etc.) et une analyse des différences clés (interface, prix).",
+            "strength": "Structure claire avec des catégories de test pertinentes. Mentionne les dernières versions des modèles (GPT-Image 1, Midjourney V7).",
+            "weakness": "Contenu en anglais. L'analyse sur les droits d'auteur et l'usage commercial est mentionnée comme \"compliquée\" sans plus de détails."
+          },
+          {
+            "rank": 9,
+            "domain": "joinlion.co",
+            "title": "Les meilleurs générateurs d'images IA en 2026 par niveau d'expertise - Join Lion",
+            "main_angle": "Classement des générateurs d'images par niveau d'utilisateur (débutant à expert), positionnant DALL-E 3 et GPT-4o pour les débutants/intermédiaires.",
+            "strength": "L'angle par niveau d'expertise est pertinent pour notre cible en reconversion, qui peut être débutante.",
+            "weakness": "Ne se focalise pas sur le duel Midjourney vs DALL-E. Midjourney n'est pas mis en avant dans les premières catégories."
+          },
+          {
+            "rank": 10,
+            "domain": "blogdumoderateur.com",
+            "title": "IA : les 10 générateurs d'images les plus performants en mars 2026 - BDM",
+            "main_angle": "Actualité froide basée sur un classement (Text-to-Image Arena) qui montre la dominance d'autres modèles devant Midjourney.",
+            "strength": "Se base sur un classement tiers (Artificial Analysis) pour objectiver la performance, ce qui est un bon angle journalistique.",
+            "weakness": "Angle très technique (score Elo) et peu orienté cas d'usage. Positionne Midjourney comme un acteur en perte de vitesse, ce qui va à l'encontre de la perception générale."
+          }
+        ],
+        "common_angles": [
+          "Comparaison des fonctionnalités clés (qualité d'image, compréhension du prompt, styles).",
+          "Présentation des structures de prix (abonnement Midjourney vs crédits/abonnement ChatGPT pour DALL-E).",
+          "Tests comparatifs avec les mêmes prompts pour illustrer les différences de rendu.",
+          "Intégration et facilité d'utilisation (Discord pour Midjourney vs ChatGPT/API pour DALL-E)."
+        ],
+        "weak_angles": [
+          "Analyse approfondie des cas d'usage spécifiques à la reconversion professionnelle (ex: création de portfolio, maquettage, illustration pour freelance).",
+          "Impact sur les métiers créatifs (graphiste, illustrateur, directeur artistique) et comment ces outils peuvent être des atouts plutôt que des menaces.",
+          "Comparaison détaillée des licences d'utilisation commerciale et des implications en termes de droits d'auteur pour un usage professionnel.",
+          "Courbe d'apprentissage et compétences requises pour maîtriser chaque outil (prompt engineering, paramètres avancés)."
+        ],
+        "winning_moves": [
+          "Créer un comparatif ultra-concret pour 3 profils-types en reconversion : le futur Community Manager, le futur UX/UI Designer, et le créateur de contenu freelance.",
+          "Intégrer des témoignages ou des exemples de projets réels de professionnels français ayant utilisé ces outils pour leur reconversion ou pour faire évoluer leur métier.",
+          "Fournir un tableau comparatif détaillé non seulement sur la qualité, mais aussi sur le 'workflow' : temps de prise en main, intégration dans une chaîne de production, coût par projet, et droits d'utilisation pour un freelance en France.",
+          "Analyser l'aspect 'compétence' : quelles sont les 5 compétences clés en prompt engineering à développer pour chaque outil et proposer des exemples de prompts 'avancés' pour des cas d'usage professionnels (ex: 'crée une maquette de site pour un artisan', 'génère un carrousel LinkedIn sur l'IA').",
+          "Optimiser pour la citabilité GEO/LLM en structurant l'article avec des questions claires en H2/H3 ('Quel outil pour créer un logo ?', 'Midjourney ou DALL-E pour le photoréalisme ?') et en fournissant des réponses directes et factuelles, sourcées si possible."
+        ],
+        "must_include_sections": [
+          "Introduction : Pourquoi ce duel est crucial pour les professionnels en 2026 ?",
+          "Tableau Comparatif Rapide : Midjourney vs. DALL-E pour les Pros (Fonctionnalités, Prix, Idéal pour...)",
+          "Prise en Main et Workflow : L'écosystème Discord (Midjourney) face à l'intégration ChatGPT (DALL-E)",
+          "Le Match des Cas d'Usage : Quel outil pour quel projet de reconversion ? (Marketing, Design, Contenu)",
+          "Qualité et Style Artistique : Le réalisme de Midjourney contre la créativité littérale de DALL-E",
+          "Le nerf de la guerre : Prix, Licences et Droits d'Auteur pour un usage commercial en France",
+          "Verdict : Quel outil choisir en 2026 pour booster sa carrière à l'ère de l'IA ?"
+        ],
+        "citable_facts_to_verify": [
+          "Structure de prix exacte de Midjourney en 2026 (Basic: $10/mois, Standard: $30/mois, Pro: $60/mois).",
+          "DALL-E 3 est intégré à ChatGPT Plus (abonnement à $20/mois).",
+          "Les images générées par DALL-E 3 peuvent être utilisées commercialement.",
+          "Classement des modèles dans la 'Text-to-Image Arena' d'Artificial Analysis en mars 2026."
+        ],
+        "entities_to_mention": [
+          "OpenAI",
+          "Discord",
+          "ChatGPT",
+          "Adobe Firefly",
+          "Stable Diffusion",
+          "Artificial Analysis"
+        ],
+        "target_word_count": 3000,
+        "intent_type": "informational",
+        "featured_snippet_opportunity": "Tableau comparatif. La formulation cible serait un tableau avec en lignes les critères (Qualité d'image, Facilité d'usage, Prix, Idéal pour..., Intégration, Licence commerciale) et en colonnes Midjourney et DALL-E, fournissant une réponse concise pour chaque cellule.",
+        "serp_features_detected": [
+          "AI Overview",
+          "People Also Ask",
+          "Video",
+          "Image Pack"
+        ],
+        "grounding_sources": [
+          {
+            "title": "g2.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrc8rU8CsKi5t0w5AbuxwLL4WulSzGkfHem6RltxWZistkCk_5RBhFVyC7usn5rhPFWjm9E1RZrOqnjVqm4fwABYk9ICHIgshylKldgYVc5sSS9UhDuTyohRfyAYIIr9FgO38="
+          },
+          {
+            "title": "demandsage.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxvP8malWrgYS05t4Zj4Lp_h6tz323EXpGfXasFscTCAJQGISmhFw8K4c6DAanvL_9bOkdB6Pxt1oVjt-4-quaGb1fMscH0TT8TVzFWTrlzxmV8v_A8A3coWDYnfCcq04rodWTvbqnKoNQ"
+          },
+          {
+            "title": "openart.ai",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_TSR_11eK_qa2v6F21R3auNyK_g0iezclNfzPfNchOuWxAraAgGQL1D23UtpCFzra0xpcs91TwsWb_Nj8Ps9tUVYchXexgh-7GgJRk7OTYDi3jgYf0qXAVxxZejHVCzhdYLPJwyZaBVeAW-lMKyufkkzJjA=="
+          },
+          {
+            "title": "blogdumoderateur.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGigiOW4SfNDZaTxOw8aFjBswzCI93MJaBjJFIkzZ0iok8UWrXAxnoQnezfyCCdotYeMie21_Dd3nxVMrENDmN2J5fZtorMhT_1HK4fnqkhytWllRp38UKAPTEkSr_lhMfnoaWA72mYL-Wb_pcEu_slA0Df7ZUk1R_G4ipFTmrCLwHCBqXWw2mQrhM="
+          }
+        ]
+      }
+    },
+    "notion-ai-vs-chatgpt": {
+      "keyword": "notion ai vs chatgpt",
+      "secondary_keywords": [
+        "notion ai en français"
+      ],
+      "generated_at": "2026-04-25T23:25:43",
+      "brief": {
+        "top10": [
+          {
+            "rank": 1,
+            "domain": "pixno.ai",
+            "title": "Notion AI vs ChatGPT: 5 Use Cases Where Notion AI Wins [2026] - Pixno",
+            "main_angle": "Mise en avant des cas d'usage spécifiques où Notion AI surpasse ChatGPT, notamment pour la productivité personnelle et la gestion de contenu.",
+            "strength": "Angle très pratique et orienté bénéfices utilisateurs avec des exemples concrets (gestion de projet, listes de tâches).",
+            "weakness": "Contenu assez court, ne couvre pas en profondeur les faiblesses de Notion AI ou les forces de ChatGPT en dehors de ces cas d'usage."
+          },
+          {
+            "rank": 2,
+            "domain": "everhour.com",
+            "title": "Notion AI vs ChatGPT: Which One Should You Use? - Everhour",
+            "main_angle": "Comparaison exhaustive sous forme de tableau et de sections dédiées (écriture, recherche, productivité, prix, etc.) pour aider à choisir.",
+            "strength": "Structure très claire avec un tableau comparatif rapide, des listes de pour et contre, et une section FAQ. Très complet.",
+            "weakness": "L'angle est très généraliste et s'adresse moins spécifiquement aux professionnels en reconversion qui ont des besoins précis."
+          },
+          {
+            "rank": 3,
+            "domain": "medium.com",
+            "title": "Notion AI vs. ChatGPT: Why I Chose ChatGPT Plus | Medium",
+            "main_angle": "Retour d'expérience personnel et argumenté d'un utilisateur qui a testé les deux et a finalement choisi ChatGPT Plus.",
+            "strength": "Le point de vue personnel et l'expérience vécue rendent l'article crédible et facile à lire. Il aborde des points clés comme le prix et les plugins.",
+            "weakness": "Article datant de 2023, potentiellement obsolète sur les fonctionnalités et les prix qui ont beaucoup évolué."
+          },
+          {
+            "rank": 4,
+            "domain": "brightseo.tools",
+            "title": "Notion AI vs ChatGPT 2026: Which One Should You Actually Use... - Bright SEO Tools",
+            "main_angle": "Comparaison frontale axée sur les fonctionnalités en 2026, avec un verdict rapide dès le début : Notion AI pour le workflow intégré, ChatGPT pour la polyvalence.",
+            "strength": "Très à jour (date de 2026), tableau comparatif clair, et distinction nette entre les deux outils selon le besoin (workflow vs. outil universel).",
+            "weakness": "Manque d'exemples concrets et de cas d'usage spécifiques pour des métiers ou des situations de reconversion."
+          },
+          {
+            "rank": 5,
+            "domain": "updf.com",
+            "title": "Notion AI vs. ChatGPT, lequel est le meilleur | [Official] UPDF",
+            "main_angle": "Présentation des deux outils et de leurs avantages respectifs, tout en promouvant un troisième outil (UPDF) comme solution complémentaire.",
+            "strength": "L'article est en français et aborde les bases de chaque outil pour un public débutant.",
+            "weakness": "Le contenu est biaisé par la promotion de leur propre produit (UPDF). L'analyse reste en surface."
+          },
+          {
+            "rank": 6,
+            "domain": "sfailabs.com",
+            "title": "Notion AI vs ChatGPT Plus for Business Productivity | SFAI Labs",
+            "main_angle": "Comparaison orientée pour les entreprises et la productivité d'équipe, avec un focus sur l'intégration dans les flux de travail.",
+            "strength": "Angle B2B clair, avec des tableaux comparatifs sur les capacités et le workflow. Pertinent pour les équipes.",
+            "weakness": "Très orienté \"business\" et équipes, moins adapté pour les freelances ou les individus en reconversion."
+          },
+          {
+            "rank": 7,
+            "domain": "reddit.com",
+            "title": "Notion AI vs ChatGPT Plus: worth switching? - Reddit",
+            "main_angle": "Discussion sur un forum où un utilisateur demande des avis pour choisir entre les deux outils, générant de multiples retours d'expérience.",
+            "strength": "Authenticité des réponses, diversité des cas d'usage et des opinions venant de vrais utilisateurs.",
+            "weakness": "Information non structurée, il faut lire de nombreux commentaires pour se forger une opinion. Pas un article de fond."
+          },
+          {
+            "rank": 8,
+            "domain": "2sync.com",
+            "title": "Notion AI vs. ChatGPT : Comparaison et exemples concrets - 2sync",
+            "main_angle": "Comparaison avec des exemples concrets pour illustrer les points forts de chaque outil, comme Notion AI en \"coach d'écriture\".",
+            "strength": "Propose des cas d'usage concrets et des analogies parlantes (ex: \"tuteur d'écriture\"). Article en français.",
+            "weakness": "L'analyse reste assez générale et ne va pas assez loin dans la comparaison technique ou pour des usages professionnels avancés."
+          },
+          {
+            "rank": 9,
+            "domain": "aitoolchooser.com",
+            "title": "Notion AI Vs ChatGPT: Best AI Tool For Business Workflows - AIToolChooser",
+            "main_angle": "Positionnement clair : Notion AI pour l'assistance intégrée au workflow, ChatGPT pour le raisonnement conversationnel large.",
+            "strength": "Verdict rapide et clair, tableau comparatif bien structuré, et identification précise des profils utilisateurs pour chaque outil.",
+            "weakness": "Contenu en anglais, moins accessible pour une partie du marché cible francophone. L'angle est très centré sur les workflows existants."
+          },
+          {
+            "rank": 10,
+            "domain": "shadhinlab.com",
+            "title": "Notion AI vs ChatGPT: Which AI Tool is Right for You in 2025? - Shadhin Lab LLC",
+            "main_angle": "Comparaison détaillée des fonctionnalités, intégrations, personnalisation et prix pour aider l'utilisateur à faire un choix éclairé.",
+            "strength": "Article bien structuré avec des sections claires sur les différences clés et les meilleurs scénarios d'usage.",
+            "weakness": "Un peu répétitif par rapport aux autres résultats, manque d'un angle original ou d'une perspective unique."
+          }
+        ],
+        "common_angles": [
+          "Notion AI est un assistant intégré à un écosystème, idéal pour ceux qui utilisent déjà Notion.",
+          "ChatGPT est un outil autonome, plus polyvalent et puissant pour la génération de contenu créatif et la recherche.",
+          "La comparaison se fait souvent sur l'axe : intégration et contexte (Notion AI) vs polyvalence et puissance brute (ChatGPT).",
+          "Le prix est un facteur de comparaison récurrent ($10 pour l'add-on Notion AI vs $20 pour ChatGPT Plus)."
+        ],
+        "weak_angles": [
+          "L'impact concret sur des métiers spécifiques (ex: consultant, chef de projet, développeur, marketeur) avec des cas d'usage précis et chiffrés.",
+          "L'utilisation combinée des deux outils pour maximiser la productivité (workflow hybride).",
+          "La dimension \"reconversion professionnelle\" : comment ces outils peuvent aider à monter en compétences, à préparer des entretiens, ou à gérer un projet de transition.",
+          "Analyse critique des limites réelles de chaque outil dans un contexte professionnel (erreurs, confidentialité des données, dépendance)."
+        ],
+        "winning_moves": [
+          "Créer un guide pratique : \"Notion AI + ChatGPT : Le duo gagnant pour votre reconversion en 2026\". Montrer comment utiliser les deux de manière complémentaire, avec des exemples concrets pour des tâches de recherche d'emploi, de formation, et de gestion de projet freelance.",
+          "Adopter un angle \"métier\" : créer des chapitres dédiés comme \"Si vous êtes consultant...\", \"Si vous êtes créateur de contenu...\", \"Si vous préparez une certification...\" avec des prompts et des templates Notion à télécharger.",
+          "Intégrer une analyse économique et de productivité : \"Combien de temps et d'argent ces outils vous font-ils vraiment gagner ?\" avec des estimations chiffrées (ex: temps gagné sur la rédaction de rapports, la synthèse de documents, etc.).",
+          "Réaliser des mini-tutoriels vidéo (GIFs ou courtes vidéos intégrées) montrant des actions précises dans chaque outil pour illustrer les cas d'usage (ex: \"Comment transformer des notes de réunion en plan d'action avec Notion AI\").",
+          "Aborder la question de la souveraineté et de la confidentialité des données professionnelles, un point faible souvent ignoré mais crucial pour les salariés et freelances manipulant des informations sensibles."
+        ],
+        "must_include_sections": [
+          "Notion AI vs ChatGPT : Lequel choisir en 2026 ? (Tableau comparatif rapide)",
+          "Pour qui est fait Notion AI ? Le couteau-suisse de l'organisation",
+          "Pour qui est fait ChatGPT ? Le cerveau créatif et polyvalent à la demande",
+          "Le workflow ultime : Comment utiliser Notion AI ET ChatGPT ensemble pour booster votre carrière",
+          "Cas pratique pour la reconversion : 5 tâches que l'IA peut faire pour vous (de la recherche de poste à la création de portfolio)",
+          "Prix, Sécurité, Limites : Les questions qui fâchent avant de choisir"
+        ],
+        "citable_facts_to_verify": [
+          "Notion AI coûte 10$/mois en tant qu'add-on.",
+          "ChatGPT Plus coûte 20$/mois et donne accès à GPT-4, DALL-E 3 et la navigation web.",
+          "Notion AI peut traduire dans plus de 14 langues.",
+          "Notion AI peut interroger l'ensemble de l'espace de travail (fonctionnalité Q&A)."
+        ],
+        "entities_to_mention": [
+          "OpenAI",
+          "GPT-4 (et versions plus récentes)",
+          "DALL-E 3",
+          "Google Gemini",
+          "Claude (Anthropic)",
+          "Zapier (pour l'automatisation)"
+        ],
+        "target_word_count": 3000,
+        "intent_type": "informational",
+        "featured_snippet_opportunity": "Tableau comparatif. Viser un tableau simple avec les colonnes : 'Fonctionnalité', 'Notion AI', 'ChatGPT', 'Idéal pour...'. La première ligne pourrait être : 'Meilleur pour', 'Organisation et productivité intégrée', 'Créativité, recherche et polyvalence', 'Dépend de votre workflow actuel'.",
+        "serp_features_detected": [
+          "AI Overview",
+          "People Also Ask",
+          "Video",
+          "Image Pack"
+        ],
+        "grounding_sources": []
+      }
+    }
+  }
+}
