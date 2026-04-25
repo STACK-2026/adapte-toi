@@ -8,6 +8,7 @@ import Analytics from "../components/Analytics.astro";
 import EasterEggs from "../components/EasterEggs.astro";
 import OrientationBot from "../components/OrientationBot.astro";
 import AutoGlossaire from "../components/AutoGlossaire.astro";
+import StoryModal from "../components/StoryModal.astro";
 import "../styles/global.css";
 
 interface Props {
@@ -99,6 +100,7 @@ const jsonLdArray = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
     <EasterEggs />
     <OrientationBot />
     <AutoGlossaire />
+    <StoryModal />
 
     <!-- Animation engine -->
     <script>

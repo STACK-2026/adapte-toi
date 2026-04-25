@@ -1,0 +1,419 @@
+---
+const closeHint = "Fermer";
+const fallbackText = "Vidéo indisponible (peut-être bloquée par votre extension de confidentialité).";
+const videoTitle = "Vidéo de l'article";
+---
+
+<div
+  class="story-modal"
+  data-story-modal
+  data-open="false"
+  data-video-title={videoTitle}
+  role="dialog"
+  aria-modal="true"
+  aria-hidden="true"
+  aria-labelledby="story-modal-title"
+>
+  <span id="story-modal-title" class="sr-only">{videoTitle}</span>
+
+  <div class="sm-backdrop" data-close></div>
+
+  <div class="sm-stage">
+    <div class="sm-container" role="presentation">
+      <div class="sm-player" data-player>
+        <div class="sm-fallback" data-fallback hidden>
+          <svg viewBox="0 0 24 24" width="32" height="32" aria-hidden="true">
+            <path
+              d="M12 2 L22 20 L2 20 Z M12 9 L12 14 M12 16.5 L12 17.5"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.6"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            ></path>
+          </svg>
+          <p class="sm-fallback-text">{fallbackText}</p>
+        </div>
+      </div>
+
+      <div class="sm-top-fade" aria-hidden="true"></div>
+
+      <span class="sm-corner sm-corner--tl" aria-hidden="true"></span>
+      <span class="sm-corner sm-corner--br" aria-hidden="true"></span>
+
+      <button
+        type="button"
+        class="sm-close"
+        data-close
+        aria-label={closeHint}
+        title={closeHint}
+      >
+        <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true">
+          <path
+            d="M6 6 L18 18 M18 6 L6 18"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.8"
+            stroke-linecap="round"
+          ></path>
+        </svg>
+        <kbd class="sm-kbd" aria-hidden="true">ESC</kbd>
+      </button>
+    </div>
+  </div>
+</div>
+
+<style>
+  .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+
+  .story-modal {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    padding: 16px;
+  }
+
+  .story-modal[data-open="true"] {
+    display: flex;
+    animation: sm-fade-in 200ms cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  }
+
+  @keyframes sm-fade-in {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+
+  .sm-backdrop {
+    position: absolute;
+    inset: 0;
+    background: rgba(8, 12, 24, 0.85);
+    backdrop-filter: blur(24px) saturate(120%);
+    -webkit-backdrop-filter: blur(24px) saturate(120%);
+    cursor: pointer;
+  }
+
+  .sm-stage {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+  }
+
+  .sm-container {
+    position: relative;
+    aspect-ratio: 9 / 16;
+    height: min(90vh, 900px);
+    max-width: calc(min(90vh, 900px) * 9 / 16);
+    width: 100%;
+    border-radius: 24px;
+    overflow: hidden;
+    background: #000;
+    box-shadow:
+      0 40px 100px -20px rgba(0, 0, 0, 0.6),
+      0 0 0 1px rgba(255, 255, 255, 0.06) inset;
+    pointer-events: auto;
+    transform: scale(0.96);
+    opacity: 0;
+    will-change: transform, opacity;
+  }
+
+  .story-modal[data-open="true"] .sm-container {
+    animation: sm-pop 200ms cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  }
+
+  @keyframes sm-pop {
+    from { transform: scale(0.96); opacity: 0; }
+    to { transform: scale(1); opacity: 1; }
+  }
+
+  .sm-player {
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    display: block;
+    background: #000;
+  }
+
+  .sm-player :global(iframe) {
+    width: 100%;
+    height: 100%;
+    display: block;
+    border: 0;
+  }
+
+  .sm-top-fade {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 48px;
+    z-index: 5;
+    pointer-events: none;
+    background: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0.95) 0%,
+      rgba(0, 0, 0, 0.6) 55%,
+      rgba(0, 0, 0, 0) 100%
+    );
+  }
+
+  .sm-corner {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    z-index: 6;
+    pointer-events: none;
+    opacity: 0.55;
+  }
+  .sm-corner--tl {
+    top: 10px;
+    left: 12px;
+    border-top: 1px solid color-mix(in oklab, var(--color-primary, #e63946) 70%, transparent);
+    border-left: 1px solid color-mix(in oklab, var(--color-primary, #e63946) 70%, transparent);
+    border-radius: 4px 0 0 0;
+  }
+  .sm-corner--br {
+    bottom: 10px;
+    right: 12px;
+    border-bottom: 1px solid color-mix(in oklab, var(--color-primary, #e63946) 70%, transparent);
+    border-right: 1px solid color-mix(in oklab, var(--color-primary, #e63946) 70%, transparent);
+    border-radius: 0 0 4px 0;
+  }
+
+  .sm-close {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    z-index: 40;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2px;
+    width: 44px;
+    height: 56px;
+    padding: 0;
+    border-radius: 18px;
+    background: rgba(255, 255, 255, 0.12);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    color: #fff;
+    cursor: pointer;
+    transition:
+      background 200ms cubic-bezier(0.16, 1, 0.3, 1),
+      transform 200ms cubic-bezier(0.16, 1, 0.3, 1),
+      box-shadow 200ms cubic-bezier(0.16, 1, 0.3, 1);
+    -webkit-tap-highlight-color: transparent;
+  }
+  .sm-close:hover {
+    background: rgba(255, 255, 255, 0.22);
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.4);
+  }
+  .sm-close:active {
+    transform: scale(0.96);
+  }
+  .sm-close:focus-visible {
+    outline: 2px solid color-mix(in oklab, var(--color-primary, #e63946) 70%, transparent);
+    outline-offset: 3px;
+  }
+
+  .sm-kbd {
+    font-family: "JetBrains Mono", "Fira Code", Menlo, monospace;
+    font-size: 9px;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    color: rgba(255, 255, 255, 0.7);
+    line-height: 1;
+    padding: 0;
+    background: transparent;
+    border: 0;
+  }
+
+  .sm-fallback {
+    position: absolute;
+    inset: 0;
+    z-index: 10;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 14px;
+    padding: 32px;
+    color: rgba(255, 255, 255, 0.85);
+    background: radial-gradient(
+      ellipse at center,
+      rgba(14, 19, 32, 0.85) 0%,
+      rgba(0, 0, 0, 0.95) 80%
+    );
+    text-align: center;
+  }
+  .sm-fallback[hidden] { display: none; }
+  .sm-fallback svg {
+    color: color-mix(in oklab, var(--color-primary, #e63946) 80%, white);
+    opacity: 0.85;
+  }
+  .sm-fallback-text {
+    margin: 0;
+    font-size: 14px;
+    line-height: 1.5;
+    max-width: 28ch;
+    color: rgba(244, 246, 251, 0.92);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .story-modal[data-open="true"] {
+      animation: none;
+    }
+    .story-modal[data-open="true"] .sm-container {
+      animation: none;
+      transform: none;
+      opacity: 1;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .story-modal { padding: 8px; }
+    .sm-container { border-radius: 18px; }
+  }
+</style>
+
+<script>
+  type ModalEl = HTMLElement & { dataset: DOMStringMap };
+
+  interface OpenDetail {
+    id?: string;
+    youtubeId?: string;
+    articleSlug?: string;
+  }
+
+  const modal = document.querySelector<ModalEl>("[data-story-modal]");
+  const ADBLOCK_DETECT_MS = 4000;
+  if (modal && !modal.dataset.bound) {
+    modal.dataset.bound = "1";
+
+    const player = modal.querySelector<HTMLDivElement>("[data-player]");
+    const fallback = modal.querySelector<HTMLDivElement>("[data-fallback]");
+    const closeBtn = modal.querySelector<HTMLButtonElement>(".sm-close");
+    const videoTitle = modal.dataset.videoTitle ?? "Vidéo de l'article";
+
+    let lastFocused: HTMLElement | null = null;
+    let adblockTimer: number | null = null;
+    let currentIframe: HTMLIFrameElement | null = null;
+    let prevBodyOverflow = "";
+
+    function clearAdblockTimer() {
+      if (adblockTimer !== null) {
+        window.clearTimeout(adblockTimer);
+        adblockTimer = null;
+      }
+    }
+
+    function destroyIframe() {
+      if (currentIframe && currentIframe.parentNode) {
+        currentIframe.parentNode.removeChild(currentIframe);
+      }
+      currentIframe = null;
+    }
+
+    function open(detail: OpenDetail) {
+      if (!player || !modal) return;
+      const youtubeId = detail.youtubeId;
+      if (!youtubeId) return;
+
+      lastFocused = (document.activeElement as HTMLElement) ?? null;
+
+      destroyIframe();
+      if (fallback) fallback.hidden = true;
+
+      const iframe = document.createElement("iframe");
+      iframe.src =
+        "https://www.youtube.com/embed/" +
+        encodeURIComponent(youtubeId) +
+        "?autoplay=1&rel=0&modestbranding=1&playsinline=1&controls=1";
+      iframe.allow = "autoplay; encrypted-media; picture-in-picture";
+      iframe.allowFullscreen = true;
+      iframe.title = videoTitle;
+      iframe.setAttribute("loading", "eager");
+      iframe.setAttribute("referrerpolicy", "strict-origin-when-cross-origin");
+
+      player.appendChild(iframe);
+      currentIframe = iframe;
+
+      clearAdblockTimer();
+      adblockTimer = window.setTimeout(() => {
+        if (!currentIframe || currentIframe.clientHeight === 0) {
+          if (fallback) fallback.hidden = false;
+        }
+        adblockTimer = null;
+      }, ADBLOCK_DETECT_MS);
+
+      modal.dataset.open = "true";
+      modal.setAttribute("aria-hidden", "false");
+      const mainEl = document.querySelector("main");
+      if (mainEl) mainEl.setAttribute("inert", "");
+      prevBodyOverflow = document.body.style.overflow;
+      document.body.style.overflow = "hidden";
+
+      if (closeBtn) {
+        window.requestAnimationFrame(() => closeBtn.focus());
+      }
+    }
+
+    function close() {
+      if (!modal) return;
+      modal.dataset.open = "false";
+      modal.setAttribute("aria-hidden", "true");
+      const mainEl = document.querySelector("main");
+      if (mainEl) mainEl.removeAttribute("inert");
+      document.body.style.overflow = prevBodyOverflow;
+
+      clearAdblockTimer();
+      destroyIframe();
+
+      if (lastFocused && typeof lastFocused.focus === "function") {
+        try { lastFocused.focus(); } catch (_) { /* noop */ }
+      }
+      lastFocused = null;
+    }
+
+    window.addEventListener("openStoryModal", (event: Event) => {
+      const detail = (event as CustomEvent<OpenDetail>).detail ?? {};
+      open(detail);
+    });
+
+    modal.addEventListener("click", (event) => {
+      const target = event.target as HTMLElement | null;
+      if (!target) return;
+      const closer = target.closest("[data-close]");
+      if (closer) {
+        event.preventDefault();
+        close();
+      }
+    });
+
+    window.addEventListener("keydown", (event) => {
+      if (event.key !== "Escape") return;
+      if (modal.dataset.open !== "true") return;
+      event.preventDefault();
+      close();
+    });
+  }
+</script>
