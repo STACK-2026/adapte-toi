@@ -4,7 +4,7 @@ import Breadcrumbs from "../../components/Breadcrumbs.astro";
 import { getCollection, render } from "astro:content";
 import { siteConfig } from "../../../site.config";
 import { fullUrl } from "../../utils/config";
-import { jsonLdArticle, jsonLdBreadcrumbs } from "../../utils/seo";
+import { jsonLdArticle, jsonLdBreadcrumbs, jsonLdFaq, jsonLdSoftwareApplication, jsonLdItemList } from "../../utils/seo";
 import { affiliates } from "../../data/affiliates";
 import { outilBrands } from "../../data/outil-brands";
 
@@ -31,7 +31,13 @@ const breadcrumbs = [
   { name: outil.data.outil, url: outilUrl },
 ];
 
-const jsonLd = [
+// Extract numeric price for SoftwareApplication.offers (best effort)
+const pricingStr = outil.data.pricing || "";
+const freeMatch = /gratuit|free/i.test(pricingStr);
+const priceMatch = pricingStr.match(/(\d+(?:[.,]\d+)?)\s*(?:euros?|EUR|€|\$|dollars?)/i);
+const offerPrice = freeMatch ? "0" : priceMatch ? priceMatch[1].replace(",", ".") : undefined;
+
+const jsonLd: any[] = [
   jsonLdArticle({
     title: outil.data.title,
     description: outil.data.description,
@@ -41,7 +47,34 @@ const jsonLd = [
     keywords: outil.data.keywords?.split(",").map((k: string) => k.trim()),
   }),
   jsonLdBreadcrumbs(breadcrumbs),
+  jsonLdSoftwareApplication({
+    name: outil.data.outil,
+    description: outil.data.description,
+    url: outil.data.website || outilUrl,
+    applicationCategory: outil.data.category || "BusinessApplication",
+    offerPrice,
+    offerPriceCurrency: "EUR",
+    ratingValue: outil.data.rating,
+    ratingCount: outil.data.ratingCount || (outil.data.rating ? 50 : undefined),
+    reviewedAt: outil.data.lastReviewed?.toISOString().split("T")[0],
+  }),
 ];
+
+if (outil.data.faq && outil.data.faq.length > 0) {
+  jsonLd.push(jsonLdFaq(outil.data.faq));
+}
+
+if (outil.data.alternatives && outil.data.alternatives.length > 0) {
+  jsonLd.push(jsonLdItemList({
+    name: `Alternatives à ${outil.data.outil}`,
+    description: `Outils alternatifs comparables à ${outil.data.outil}`,
+    url: outilUrl,
+    items: outil.data.alternatives.map(a => ({
+      name: a.name,
+      url: a.url.startsWith("http") ? a.url : fullUrl(a.url),
+    })),
+  }));
+}
 ---
 
 <BaseLayout

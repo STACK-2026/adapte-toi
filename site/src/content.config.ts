@@ -88,11 +88,29 @@ const outils = defineCollection({
     pricing: z.string(),
     website: z.string().optional(),
     rating: z.number().min(1).max(10).optional(),
+    ratingCount: z.number().optional(),
     date: z.coerce.date(),
     lastReviewed: z.coerce.date().optional(),
     author: z.string().optional(),
     keywords: z.string().optional(),
     draft: z.boolean().default(false),
+    // Plans tarifaires structures (pour rich snippets Offer)
+    pricingPlans: z.array(z.object({
+      name: z.string(),
+      price: z.string(),
+      priceCurrency: z.string().default("EUR"),
+      features: z.array(z.string()).optional(),
+    })).optional(),
+    // Alternatives connues (pour maillage interne et schema)
+    alternatives: z.array(z.object({
+      name: z.string(),
+      url: z.string(),
+    })).optional(),
+    // FAQ structuree (rich snippets FAQPage)
+    faq: z.array(z.object({
+      question: z.string(),
+      answer: z.string(),
+    })).optional(),
   }),
 });
 

@@ -1,0 +1,1125 @@
+{
+  "generated_at": "2026-04-26T01:03:51",
+  "briefs": {
+    "perplexity": {
+      "keyword": "perplexity ai en français",
+      "generated_at": "2026-04-26T01:00:57",
+      "brief": {
+        "top10": [
+          {
+            "rank": 1,
+            "domain": "extremetech.com",
+            "title": "Perplexity AI vs. ChatGPT: Which One Is Better? | Extremetech",
+            "main_angle": "Comparaison détaillée entre Perplexity AI et ChatGPT, axée sur les cas d'usage (recherche factuelle vs. créativité).",
+            "strength": "Analyse comparative approfondie, bien structurée, qui met en évidence les forces et faiblesses de chaque outil pour des tâches spécifiques.",
+            "weakness": "Contenu en anglais, ce qui ne répond pas directement à l'intention de l'utilisateur cherchant \"en français\". L'angle est très orienté \"tech\" et pas spécifiquement sur l'impact métier."
+          },
+          {
+            "rank": 2,
+            "domain": "netcomlearning.com",
+            "title": "Perplexity AI vs. ChatGPT: Key Differences and Best Use Cases - NetCom Learning",
+            "main_angle": "Comparaison des deux IA sous l'angle de la fiabilité des informations et des cas d'usage business.",
+            "strength": "Bonne synthèse des différences clés, avec une conclusion orientée vers la prise de décision pour les entreprises.",
+            "weakness": "Article en anglais. Reste en surface sur les applications concrètes pour des métiers spécifiques."
+          },
+          {
+            "rank": 3,
+            "domain": "g2.com",
+            "title": "My In-Depth Perplexity AI Review: Is Pro Worth It in 2026? - G2 Learning Hub",
+            "main_angle": "Test et avis détaillé de Perplexity AI, avec un focus sur la version Pro et sa pertinence pour les professionnels et étudiants.",
+            "strength": "Analyse pratique avec des sections claires (pros/cons, tarifs), ce qui aide l'utilisateur à évaluer l'outil.",
+            "weakness": "En anglais. L'évaluation est très centrée sur le produit lui-même, moins sur son intégration dans un workflow professionnel."
+          },
+          {
+            "rank": 4,
+            "domain": "pcmag.com",
+            "title": "Perplexity Review: The Best AI Search Engine, But Still No ChatGPT Killer - PCMag",
+            "main_angle": "Revue critique de Perplexity en tant que moteur de recherche IA, le positionnant comme un outil de recherche efficace mais pas un remplaçant de ChatGPT pour d'autres tâches.",
+            "strength": "Test complet des différentes fonctionnalités (recherche, écriture, image).",
+            "weakness": "En anglais. Le titre est un peu \"putaclic\" et l'analyse reste générique sans cibler un public professionnel précis."
+          },
+          {
+            "rank": 5,
+            "domain": "eweek.com",
+            "title": "Perplexity AI vs. ChatGPT: AI Tool Comparison - eWeek",
+            "main_angle": "Comparatif direct entre Perplexity et ChatGPT sur des critères comme les fonctionnalités, la précision et le prix.",
+            "strength": "Tableaux comparatifs et verdict clair qui aide à la décision.",
+            "weakness": "En anglais. L'article ne traite pas de l'aspect \"en français\" de l'outil."
+          },
+          {
+            "rank": 6,
+            "domain": "cnet.com",
+            "title": "Perplexity AI Review: Imagine ChatGPT with an Internet Connection - CNET",
+            "main_angle": "Présentation de Perplexity comme une version de ChatGPT connectée à internet, mettant en avant sa capacité à citer des sources.",
+            "strength": "Angle de vulgarisation simple et efficace pour un public non-expert.",
+            "weakness": "En anglais et date un peu (2024), certaines informations sur les capacités de ChatGPT ne sont plus à jour."
+          },
+          {
+            "rank": 7,
+            "domain": "tactiq.io",
+            "title": "ChatGPT vs Perplexity: Which AI Tool Is Best in 2025? - Tactiq",
+            "main_angle": "Guide pour choisir entre ChatGPT et Perplexity en fonction des besoins : créativité vs. recherche factuelle.",
+            "strength": "Approche orientée utilisateur (\"It depends on your goal\"), ce qui est pertinent pour la cible.",
+            "weakness": "En anglais. Contenu assez court et peu approfondi sur les cas d'usage métier."
+          },
+          {
+            "rank": 8,
+            "domain": "coursera.org",
+            "title": "Perplexity vs. ChatGPT: Key Differences and Which Is Best for Your Tasks | Coursera",
+            "main_angle": "Comparaison éducative des deux plateformes, les définissant comme \"moteur de réponse\" vs. \"assistant IA\".",
+            "strength": "Contenu structuré et didactique, typique de Coursera.",
+            "weakness": "En anglais. Très théorique, manque d'exemples concrets pour des salariés ou freelances."
+          },
+          {
+            "rank": 9,
+            "domain": "reglo.ai",
+            "title": "Comment utiliser Perplexity AI - reglo.ai",
+            "main_angle": "Tutoriel détaillé en français sur l'utilisation de Perplexity, de la prise en main aux fonctionnalités avancées.",
+            "strength": "Enfin un résultat en français ! Très pratique, orienté \"comment faire\", avec des captures d'écran implicites. Couvre explicitement le changement de langue.",
+            "weakness": "Très descriptif, manque un angle critique ou une mise en perspective sur l'impact de l'outil pour les métiers."
+          },
+          {
+            "rank": 10,
+            "domain": "youtube.com",
+            "title": "Perplexity AI : Le Tuto Complet (cette IA est PHÉNOMÉNALE) - YouTube",
+            "main_angle": "Tutoriel vidéo complet et enthousiaste sur toutes les fonctionnalités de Perplexity AI.",
+            "strength": "Format vidéo engageant, démonstration pratique des fonctionnalités, ton dynamique.",
+            "weakness": "Le format vidéo ne répond pas à une intention de lecture rapide. L'angle est très \"outil\" et pas assez \"métier\" ou \"reconversion\"."
+          }
+        ],
+        "common_angles": [
+          "Comparaison Perplexity AI vs. ChatGPT.",
+          "Présentation de Perplexity comme un \"moteur de réponse\" qui cite ses sources.",
+          "Tutoriels sur les fonctionnalités de base et avancées (version Pro, choix des modèles).",
+          "Évaluation des forces (recherche, actualité, sources) et faiblesses (créativité, conversation)."
+        ],
+        "weak_angles": [
+          "L'impact concret de Perplexity sur des métiers spécifiques (marketing, RH, consultant, etc.).",
+          "Cas d'usage pour la reconversion professionnelle (veille métier, exploration de nouvelles compétences).",
+          "Analyse critique des limites de l'outil au-delà de la comparaison avec ChatGPT (qualité des sources, biais).",
+          "Intégration de Perplexity dans un workflow de travail quotidien pour gagner en productivité."
+        ],
+        "winning_moves": [
+          "Créer le guide ultime en français, non pas sur l'outil, mais sur *l'intégration de l'outil dans les métiers en transformation*.",
+          "Adopter un angle \"étude de cas\" : montrer via des exemples concrets comment un freelance en marketing, un salarié en RH ou un cadre en reconversion utilise Perplexity pour résoudre un problème métier réel.",
+          "Faire une analyse comparative non pas contre ChatGPT, mais contre Google, en montrant les gains de productivité et de qualité de l'information pour la veille professionnelle.",
+          "Proposer des \"prompts pour professionnels\" : une liste de requêtes optimisées pour Perplexity pour des tâches comme l'analyse de marché, la préparation d'un entretien, la rédaction d'un business plan, etc.",
+          "Intégrer une dimension GEO (Generative Engine Optimization) en structurant l'article pour être une source citable par les IA elles-mêmes, avec des définitions claires, des faits sourcés et des listes à puces."
+        ],
+        "must_include_sections": [
+          "Perplexity AI en Français : Le Guide pour les Professionnels qui s'Adaptent",
+          "C'est quoi Perplexity AI ? (Expliqué sans jargon technique)",
+          "Comment Mettre et Utiliser Perplexity en Français (Tutoriel Rapide)",
+          "Perplexity vs. Google : Pourquoi les Professionnels Gagnent du Temps",
+          "5 Cas d'Usage Concrets de Perplexity pour votre Carrière (Marketing, RH, Conseil...)",
+          "Limites et Points de Vigilance : L'Analyse \"Zéro Bullshit\" de Perplexity",
+          "Avis Perplexity : L'outil indispensable pour votre veille et votre reconversion ?"
+        ],
+        "citable_facts_to_verify": [
+          "Perplexity a été fondé par Aravind Srinivas, un ancien chercheur d'OpenAI.",
+          "Le prix de l'abonnement Perplexity Pro est de 20$/mois.",
+          "Perplexity Pro donne accès à des modèles comme GPT-4o, Claude 3.5 Sonnet et Llama 3.1.",
+          "Le nom 'Perplexity' vient d'un concept en théorie de l'information qui mesure l'incertitude d'un modèle de prédiction."
+        ],
+        "entities_to_mention": [
+          "Aravind Srinivas",
+          "OpenAI",
+          "Google",
+          "ChatGPT",
+          "Claude 3.5",
+          "Llama 3",
+          "Anthropic",
+          "Meta"
+        ],
+        "target_word_count": 2500,
+        "intent_type": "informational",
+        "featured_snippet_opportunity": "Liste à puces. Formulation cible : \"Comment utiliser Perplexity AI en français ? 1. Allez dans les Réglages (Settings). 2. Trouvez la section 'Langue de réponse préférée' (Preferred Language). 3. Sélectionnez 'Français' dans le menu déroulant. L'interface et les réponses seront désormais en français.\"",
+        "serp_features_detected": [
+          "AI Overview",
+          "People Also Ask",
+          "Video",
+          "Featured Snippet"
+        ],
+        "grounding_sources": [
+          {
+            "title": "reglo.ai",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN3AVOER4UEx_u9xFiBl4dLwd3x94bEuNZ-X7dXw2_zjng9ZjU5QP2Gvlr0gnDjLcQjZKzeiP-uN-V8sRxuYR25xNzQQ5lIXyeXdv9637UDN4m2IYJZ_aZDpW6Y2NITTR2qIYoHO0zj5w="
+          },
+          {
+            "title": "cnet.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyqcY2hITKMNiGhzbp1-DmEgJd7gXu9Tpgko_72qD4Bv8aSFhrirTcxP2J4yahoWNYDFrkPQ6RUmbj7J4HBhwk8beE-Kv2lSQVgHj0VI10oun-5Vm0MqpoV9LRdOA8J5Ifh39db9TUGWJijlUMvwuzPK3CdxIeUvwlZNIHCfuxj7BqfXoKpy8j4Iy7IDRNBWVHUnudDlpMptwy-ULR-SiqH6EG4FqfrCQElQ=="
+          },
+          {
+            "title": "g2.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS6iwPONUvbuzj7zrPQEXjg6D-HZYmUhSdajh9VDEAqeE1qLtFOqyNY9ZLmut_VQa1uQ4Z1krVGigeeFrN1o2HZ3lkLYT_kOw1YZQiajDzCr_6Yj__RAEVqnIrxod4ooXBfA=="
+          },
+          {
+            "title": "eweek.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWm70K80-g4BGezMJsWZopXXaV7uWNb1vmEKLXk69fXk-9ezinHLEEp5NYxoJ8YcYrVqQdxQnW04SZUhw93hqQZJGKgDKNfftfJg1ihBe9k65_rJrJWZAJkDCiJzt3_0_EQSQhQY6vWokBEcwCW4wIYn08QPSs8LHV3BZCMz8MwXw="
+          },
+          {
+            "title": "gowinston.ai",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOhc-91_4NYIohMU6FhM-AEEPWllDAiiiNk6_3c2Bm0TLfDwlrTGbW1ROpbspJQssb04DDIrc-4w-OCRmGScLdhuXpM7_vGL5u808xBs7d9TSlUVxOY-IvDMj81CRfUlf3-QAA8WpwTFRroRtmvmIY57M="
+          },
+          {
+            "title": "youtube.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZgrwdgdvgWEremFvFuqg4D-sU-U_U2j1R3SnzzeMmm_MCQetmcfWsJk_HTRMwbJATHfXtT4SH4KwoWYwMXaJaJuGepasepEKbGPvep2sm3cT1F7EpIEa2K4Pq32xkPm2A-Jnz"
+          },
+          {
+            "title": "youtube.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDiikTDiFUn7hcvkuYHPRrksscSg398sOn4ClXsgVjR7OdOmtAbIsVX6I8M0p-4-bc3x11VpHONw9AQ6K1po-Xjqu3ILMqw7BmloHCQnhcjrtp9V2IqwIDsvpbN7xyjQYen82m"
+          },
+          {
+            "title": "cedric.fm",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNuns-RbRW_vB73aAe2KHm-8J4F8nUdlCJiGftX78B7kOA-u0jOwEgB6lrQNb74fVzAlWvSdTtqAOjvJZ4YEV_aPC2_DQqtSYN9Wh3jR7vFqbZUKVckDiF715fTH1kN8pcG_o4Buk="
+          },
+          {
+            "title": "lesnumeriques.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvnKnZpxt0Rbb4PEhl9NVHXIDGa5JRHI8rrGrsMq6u55IaFRzjeG2ZCiO_ubw8b7O95oi_2s-QGXOWLab_jjcsaTTBm0WT5nluSu8_f9Rmbv8HZIssQUj_EYTYG7oV8FQD4MdWcookMzNx9eiSDDxx5_NAw-Bz"
+          },
+          {
+            "title": "wikipedia.org",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDWwSASdNnDNEsMz4__jB5wCzDA7wd2tTjyFh3EFaNsEZW0RgNEkxfCdV5rwpSFjGGxTnDa1gLW9sr20TH7ZKo-wZncUxEldjTDHMnir4sZYr_KpYeLXa_DLJKu_FqzIxT4rCB"
+          }
+        ]
+      }
+    },
+    "chatgpt": {
+      "keyword": "chatgpt en français",
+      "generated_at": "2026-04-26T01:01:27",
+      "brief": {
+        "top10": [
+          {
+            "rank": 1,
+            "domain": "openai.com",
+            "title": "ChatGPT",
+            "main_angle": "Accès direct à l'outil officiel ChatGPT, sans intermédiaire.",
+            "strength": "Site officiel, confiance maximale, accès direct à la dernière version (GPT-4o).",
+            "weakness": "Aucune contextualisation, pas de guide d'utilisation ou d'explication pour le marché français. C'est un outil brut."
+          },
+          {
+            "rank": 2,
+            "domain": "fr.wikipedia.org",
+            "title": "ChatGPT — Wikipédia",
+            "main_angle": "Définition encyclopédique, historique et technique de ChatGPT.",
+            "strength": "Contenu très structuré, factuel, avec de nombreuses références externes. Couvre l'historique des modèles (GPT-3.5, GPT-4, etc.).",
+            "weakness": "Angle académique et non pratique. Ne répond pas à l'intention 'comment utiliser' et encore moins à l'impact sur les métiers."
+          },
+          {
+            "rank": 3,
+            "domain": "hix.ai",
+            "title": "ChatGPT gratuit - Chat GPT français en ligne sans inscription - HIX.AI",
+            "main_angle": "Fournir un accès à ChatGPT via une interface tierce, en promettant l'absence d'inscription.",
+            "strength": "Répond à l'intention de gratuité et de facilité d'accès ('sans inscription'). L'interface est simple.",
+            "weakness": "Manque de crédibilité (outil tiers), contenu assez faible autour de l'outil, angle purement fonctionnel."
+          },
+          {
+            "rank": 4,
+            "domain": "chatbotgpt.fr",
+            "title": "ChatGPT gratuit en français ici avec Chatbot GPT",
+            "main_angle": "Alternative à l'outil officiel, se positionnant comme un chatbot utilisant la même technologie.",
+            "strength": "Titre et URL très ciblés sur les mots-clés 'gratuit' et 'français'. Accès direct à un chatbot.",
+            "weakness": "Confusion entre l'outil officiel et cette alternative. Le contenu est très orienté marketing pour leur propre solution (Botnation)."
+          },
+          {
+            "rank": 5,
+            "domain": "axiz.fr",
+            "title": "Comment Utiliser ChatGPT En Français Gratuitement ? 2026 - AXIZ...",
+            "main_angle": "Guide pratique pour créer un compte et utiliser la version gratuite de ChatGPT.",
+            "strength": "Article bien structuré (guide, FAQ), qui cible l'intention 'comment faire'.",
+            "weakness": "Contenu assez basique qui reste en surface. L'angle métier est quasi-inexistant."
+          },
+          {
+            "rank": 6,
+            "domain": "youtube.com",
+            "title": "BIEN UTILISER CHATGPT : LE TUTO COMPLET (et facile à suivre !)",
+            "main_angle": "Tutoriel vidéo complet pour débutants sur l'utilisation de ChatGPT.",
+            "strength": "Format vidéo très didactique, montre l'interface et les exemples en direct. Très pratique.",
+            "weakness": "Nécessite de regarder une longue vidéo. Ne permet pas de scanner rapidement l'information. Pas d'angle sur l'impact professionnel."
+          },
+          {
+            "rank": 7,
+            "domain": "jedha.co",
+            "title": "Formation ChatGPT : top 10 des meilleures en 2026 - Jedha",
+            "main_angle": "Comparatif des meilleures formations pour apprendre à utiliser ChatGPT dans un contexte professionnel.",
+            "strength": "Angle très pertinent pour la cible (salariés, reconversion). Contenu à forte valeur ajoutée qui va au-delà du simple 'comment utiliser'.",
+            "weakness": "L'objectif principal est de vendre leurs propres formations. Le contenu est un prétexte à la conversion."
+          },
+          {
+            "rank": 8,
+            "domain": "akademia.fr",
+            "title": "Formation ChatGPT pour Professionnels - Maîtriser l'IA Générative...",
+            "main_angle": "Page de destination pour une formation professionnelle sur ChatGPT.",
+            "strength": "Cible directement les professionnels et les entreprises avec un programme structuré.",
+            "weakness": "Page purement transactionnelle (vente de formation), ne répond pas à une intention informationnelle large."
+          },
+          {
+            "rank": 9,
+            "domain": "chattide.com",
+            "title": "ChatGPT en français: gratuit, en ligne et sans inscription - ChatTide",
+            "main_angle": "Offrir un accès alternatif à ChatGPT, en insistant sur la disponibilité et l'absence de blocage.",
+            "strength": "Promesse forte d'accès sans interruption et sans inscription.",
+            "weakness": "Site tiers peu connu, le contenu explicatif est très léger et générique."
+          },
+          {
+            "rank": 10,
+            "domain": "numerama.com",
+            "title": "TUTO Chat GPT en Français : Comment utiliser ChatGPT le AI Chatbot...",
+            "main_angle": "Tutoriel vidéo court expliquant les bases de l'inscription et du fonctionnement.",
+            "strength": "Média connu et crédible (Numerama). Format court et accessible.",
+            "weakness": "Contenu très court, date un peu et ne couvre que les aspects les plus élémentaires."
+          }
+        ],
+        "common_angles": [
+          "Comment accéder et utiliser ChatGPT gratuitement en France.",
+          "Qu'est-ce que ChatGPT (définition de base).",
+          "Alternatives à l'outil officiel d'OpenAI.",
+          "Guides et tutoriels pour débutants (création de compte, premières requêtes)."
+        ],
+        "weak_angles": [
+          "L'impact concret de ChatGPT sur les métiers en France (au-delà des généralités).",
+          "Cas d'usages avancés et spécifiques pour les salariés et freelances (productivité, création, analyse).",
+          "Les limites, risques et biais de l'outil dans un contexte professionnel (fiabilité des sources, confidentialité des données).",
+          "Comment intégrer ChatGPT dans un projet de reconversion professionnelle ou de montée en compétences."
+        ],
+        "winning_moves": [
+          "Créer un guide ultime qui fusionne le 'comment ça marche' pour débutants avec le 'pourquoi c'est crucial pour votre carrière'.",
+          "Intégrer des cas d'usages concrets et des exemples de prompts spécifiques à des métiers français (ex: 'Prompt pour un commercial B2B', 'Prompt pour un chargé de communication').",
+          "Adopter un angle critique et 'zéro bullshit' en abordant clairement les limites, les erreurs fréquentes et les risques (sécurité des données, IA hallucinatoires), ce que les concurrents évitent.",
+          "Structurer l'article autour d'un parcours utilisateur : Découverte (c'est quoi ?) -> Utilisation (comment faire ?) -> Maîtrise (comment l'intégrer à mon métier ?) -> Adaptation (quels sont les impacts sur mon secteur ?).",
+          "Compiler et vérifier des statistiques sourcées sur l'adoption de l'IA en France et l'impact sur l'emploi, pour asseoir l'autorité et la crédibilité (citability pour les LLMs)."
+        ],
+        "must_include_sections": [
+          "ChatGPT en Français : Le Guide Complet pour les Professionnels (Salariés & Freelances)",
+          "C'est quoi ChatGPT et pourquoi tout le monde en parle en 2026 ?",
+          "Comment Utiliser ChatGPT Gratuitement en France (Tutoriel étape par étape)",
+          "Au-delà du Gadget : 10 Cas d'Usages Concrets pour Booster votre Productivité au Travail",
+          "L'Impact de ChatGPT sur votre Métier : Menace ou Opportunité ?",
+          "Les Limites à Connaître : Fiabilité, Confidentialité et Biais de l'IA",
+          "Se Former à ChatGPT : La Nouvelle Compétence Indispensable pour votre Carrière"
+        ],
+        "citable_facts_to_verify": [
+          "Goldman Sachs estimait en mars 2023 à 300 millions le nombre d'emplois pouvant être détruits dans le monde.",
+          "Une étude d'OpenAI et de l'Université de Pennsylvanie estime que 80% des emplois verront au minimum 10% de leurs tâches transformées par l'IA.",
+          "Le cabinet McKinsey estimait en avril 2024 que plus de 30% des heures travaillées en Europe et aux Etats-Unis pourraient être automatisées.",
+          "16,3% de l'emploi salarié serait menacé par l'intelligence artificielle en France selon une étude de la Coface."
+        ],
+        "entities_to_mention": [
+          "OpenAI",
+          "GPT-4o",
+          "Google Gemini",
+          "Microsoft Copilot",
+          "HuggingChat",
+          "Perplexity AI",
+          "Qualiopi"
+        ],
+        "target_word_count": 3000,
+        "intent_type": "informational",
+        "featured_snippet_opportunity": "Liste à puces. Viser la question 'Quelles sont les applications de ChatGPT ?' avec une liste de cas d'usages professionnels : '1. Automatiser la rédaction d'emails et de rapports. 2. Générer des idées et des plans de contenu. 3. Traduire des documents techniques. 4. Analyser des données et créer des synthèses. 5. Préparer des présentations et des argumentaires.'",
+        "serp_features_detected": [
+          "AI Overview",
+          "People Also Ask",
+          "Video",
+          "Featured Snippet"
+        ],
+        "grounding_sources": [
+          {
+            "title": "societenumerique.gouv.fr",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGv1W9wXzf_llOOqv4aXNZqqzk0TZSUBpTlMj7VMdT_BQXwnejagZMD3oiqUpV4xY5M-a1RPNjcjMWoMM6ZXlsOeMPgZjUfeVThvxtJzp-WcHLKjqSgKh4o_G8BbMBHjkcbSFZ7u3RrxQuSZydoptj8q_hlnj6d13fdEj2kL6h9liEfnzgsY7nffL7LhqJGSqDWaeaVFhH8NxnyrMRTBFj_kQcmV3rbr1unVF3s9NCCPLWjVXMtGD1NqcFPVsqwLKwFhOd-PYyVESLPaYal5iNKLYxggg=="
+          },
+          {
+            "title": "trainingsquare.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHWavnRLs6AStusBUdW9PcMwawCfhRRC-KGr9AK6dHAcUGvOq_VdBjIAZtnvWl3A9WqFW8BgoRha-sN3mlo9cGNUqflFw_AnbGHY5j0EcgZ_hbCvSNQP0HLilM4ZXAgDgLzJ3r5B9OCBvyuDFy2ZujX0OBdBdiDxz5TpOsAslInBVrEZ8qtfq_Pms="
+          },
+          {
+            "title": "blogdumoderateur.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmArPy8X4MKTsI6fHjyfvbLMnQdrvyZit5mPPZpEdQKowbNf6rrdG7HpPOwWf842Cq33EcnZR3ulQv2bz3wKB8ddahbWhSb-I4pW8BfgxDkrNdSz_tKNoslPlEKzJxLE8KrO5ekZNIEc_rYgNTjdI8OBy9ToULV_T5eUCErtZgZfT7Q9wqh8EBfeM="
+          },
+          {
+            "title": "lesnumeriques.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMRlz5ftiaIdLPy181V3wmpQfRevBroO0jyJPgM4jaX2rXJ861nhS03NRMn-w0RuHvTAklQOuxn5KPU1LffOROyU2TgghrZ5gxSw1ILc7QS9whsXAKydr4iZjukjmaezk5uAdc33Cb3iAZEIhY1QnfG1y9BjBV8OeULuEZm7mYgppz4IC-Nk29ucWYDQH9Nj0lY0p-Kh6u7IjEYx9RQ57r4Kiu0_gZ1kRxHT9gbZiJZ0XuRmGngzh43G70jcoFNVKS7d_mMk9KcG9LFe0="
+          }
+        ]
+      }
+    },
+    "claude": {
+      "keyword": "claude ia en français",
+      "generated_at": "2026-04-26T01:01:54",
+      "brief": {
+        "top10": [
+          {
+            "rank": 1,
+            "domain": "anthropic.com",
+            "title": "Claude is now available in Europe",
+            "main_angle": "Annonce officielle de la disponibilité de Claude en Europe, y compris en France, avec détails sur les offres (web, iOS, Team) et les capacités multilingues.",
+            "strength": "Source officielle, information directe et fiable, annonce claire des produits et tarifs.",
+            "weakness": "Contenu de type communiqué de presse, peu de mise en pratique ou de comparaison pour un utilisateur final."
+          },
+          {
+            "rank": 2,
+            "domain": "comparateur-ia.fr",
+            "title": "Avis Claude AI : notre test complet en français",
+            "main_angle": "Test et avis détaillé de Claude, positionné comme une alternative crédible à ChatGPT, avec un focus sur ses forces (contexte long, éthique) et ses faiblesses.",
+            "strength": "Analyse comparative directe avec ChatGPT, structure claire (forces/faiblesses), orientation utilisateur pratique.",
+            "weakness": "L'analyse reste en surface sur les cas d'usage métier spécifiques à la reconversion ou l'impact sur le travail."
+          },
+          {
+            "rank": 3,
+            "domain": "lesnumeriques.com",
+            "title": "Comment essayer (un peu) Claude 3 d'Anthropic gratuitement depuis la France",
+            "main_angle": "Tutoriel pratique pour accéder à Claude 3 depuis la France avant sa disponibilité officielle, en expliquant les différentes versions (Opus, Sonnet, Haiku).",
+            "strength": "Répond à une intention de recherche précise et pratique (comment utiliser), ton direct et accessible.",
+            "weakness": "Article daté car Claude est maintenant officiellement disponible, l'angle principal est donc obsolète."
+          },
+          {
+            "rank": 4,
+            "domain": "blogdumoderateur.com",
+            "title": "Claude est disponible en France : comment tester le rival de ChatGPT",
+            "main_angle": "Annonce de la disponibilité de Claude en France, en le présentant comme le principal concurrent de ChatGPT et en détaillant ses capacités (texte, code, analyse d'image).",
+            "strength": "Titre clair et direct, bonne synthèse des fonctionnalités clés pour un utilisateur novice.",
+            "weakness": "Contenu informationnel assez générique, peu de profondeur sur l'application concrète pour des professionnels."
+          },
+          {
+            "rank": 5,
+            "domain": "jedha.co",
+            "title": "Les secrets pour utiliser Claude AI gratuitement en 2026 - Jedha",
+            "main_angle": "Guide pratique sur l'utilisation de la version gratuite de Claude en français, avec une comparaison des fonctionnalités face à ChatGPT gratuit.",
+            "strength": "Angle très pratique et orienté utilisateur (gratuit, en français), comparaison directe utile.",
+            "weakness": "Le titre est un peu clickbait (\"secrets\"), le contenu pourrait être plus approfondi sur les limites réelles du modèle gratuit pour des tâches professionnelles."
+          },
+          {
+            "rank": 6,
+            "domain": "fr.wikipedia.org",
+            "title": "Claude (modèle de langage) — Wikipédia",
+            "main_angle": "Présentation encyclopédique de Claude, son histoire, ses différentes versions, son financement et son approche technique (IA Constitutionnelle).",
+            "strength": "Source d'autorité, informations factuelles et structurées, bon pour la compréhension générale du produit et de l'entreprise.",
+            "weakness": "Contenu purement descriptif, aucune analyse pratique ou conseil pour l'audience cible."
+          },
+          {
+            "rank": 7,
+            "domain": "play.google.com",
+            "title": "Claude by Anthropic ‐ Applis sur Google Play",
+            "main_angle": "Page officielle de l'application Android, décrivant les fonctionnalités de l'assistant IA pour un usage mobile (écriture, recherche, code, analyse visuelle).",
+            "strength": "Source officielle, liste claire des cas d'usage sur mobile, avis utilisateurs.",
+            "weakness": "L'angle est purement promotionnel et centré sur l'application, pas sur l'écosystème Claude dans son ensemble."
+          },
+          {
+            "rank": 8,
+            "domain": "lesnumeriques.com",
+            "title": "Télécharger Claude AI - IA - Les Numériques",
+            "main_angle": "Page de téléchargement et de présentation générale de Claude AI, le positionnant comme un concurrent de ChatGPT avec un accent sur son IA éthique.",
+            "strength": "Page pratique orientée action (télécharger), résumé des points différenciants (IA constitutionnelle).",
+            "weakness": "Contenu assez générique et descriptif, similaire à d'autres articles du même média."
+          },
+          {
+            "rank": 9,
+            "domain": "zapier.com",
+            "title": "Claude vs. ChatGPT: What's the difference? [2026] - Zapier",
+            "main_angle": "Comparaison détaillée entre Claude et ChatGPT pour des cas d'usage professionnels, notamment l'écriture créative et le développement.",
+            "strength": "Analyse approfondie des différences, orientation vers des profils spécifiques (développeurs, rédacteurs), crédibilité de la marque Zapier.",
+            "weakness": "Article en anglais, ce qui peut être un frein pour une partie de l'audience cible francophone."
+          },
+          {
+            "rank": 10,
+            "domain": "the-intelligence-academy.com",
+            "title": "Comment utiliser Claude IA en 2026 : Guide pratique (cas concrets, 5 erreurs)",
+            "main_angle": "Guide avancé pour les professionnels, axé sur le ROI de Claude via des cas d'usage métier et l'intégration dans les workflows (CRM, etc.).",
+            "strength": "Angle très différenciant et à forte valeur ajoutée (ROI, workflows), citation de sources (OCDE, Bpifrance), vise une audience mature.",
+            "weakness": "Le positionnement est très orienté vers la vente de formation, ce qui peut nuire à la perception d'objectivité."
+          }
+        ],
+        "common_angles": [
+          "Annonce de la disponibilité de Claude en France/Europe.",
+          "Comparaison directe avec ChatGPT, souvent présenté comme le principal concurrent.",
+          "Présentation des différentes versions : Opus, Sonnet, Haiku.",
+          "Explication des fonctionnalités de base : génération de texte, résumé, code, analyse d'image."
+        ],
+        "weak_angles": [
+          "Cas d'usage concrets et approfondis pour la reconversion professionnelle (ex: comment utiliser Claude pour identifier des compétences transférables, préparer des entretiens, etc.).",
+          "Analyse de l'impact réel de Claude sur des métiers spécifiques (consultant, développeur, marketeur) avec des exemples de prompts et de résultats.",
+          "Guides pratiques sur l'intégration de Claude dans les outils du quotidien (Slack, Notion, etc.) pour les freelances et salariés.",
+          "Discussion sur les limites de Claude en français pour des tâches professionnelles complexes et nuancées."
+        ],
+        "winning_moves": [
+          "Créer un guide pratique ultime : 'Claude pour votre carrière : Le guide 2026 pour la reconversion et l'évolution professionnelle'.",
+          "Développer des études de cas détaillées par métier : 'Un mois avec Claude : Le bilan d'un consultant en marketing' ou 'Comment j'ai préparé ma reconversion de commercial à développeur avec Claude'.",
+          "Proposer un comparatif non pas seulement 'Claude vs ChatGPT' mais 'Claude vs ChatGPT vs Gemini pour les tâches professionnelles en France' (recherche d'emploi, veille, rédaction de rapports).",
+          "Créer une 'Prompt Library' spécialisée pour la reconversion et l'adaptation au travail, avec des exemples concrets à copier-coller dans Claude.",
+          "Réaliser une analyse approfondie de la gestion des longs documents (PDF de rapports, contrats) par Claude, un de ses points forts, avec un cas pratique pour un freelance ou un salarié (ex: analyser un appel d'offres de 50 pages)."
+        ],
+        "must_include_sections": [
+          "Qu'est-ce que Claude et pourquoi est-il différent de ChatGPT pour un professionnel français ?",
+          "Comment utiliser Claude concrètement pour sa carrière en 2026 ?",
+          "Cas pratique 1 : Utiliser Claude pour analyser son CV et identifier des pistes de reconversion.",
+          "Cas pratique 2 : Préparer un entretien d'embauche avec Claude (simulation, recherche sur l'entreprise).",
+          "Claude pour les freelances : 3 prompts pour gagner du temps sur des tâches administratives et commerciales.",
+          "Les limites à connaître : quand ne PAS utiliser Claude dans un contexte professionnel ?"
+        ],
+        "citable_facts_to_verify": [
+          "Disponibilité de Claude en Europe annoncée le 14 mai 2024.",
+          "Tarifs de l'abonnement Claude Pro (€18 + TVA/mois) et Team (€28 + TVA/utilisateur/mois).",
+          "Investissements de Google (2 milliards $) et Amazon (4 milliards $) dans Anthropic.",
+          "Claude possède un très bon niveau de compréhension et de maîtrise du français, de l'allemand, de l'espagnol, de l'italien."
+        ],
+        "entities_to_mention": [
+          "Anthropic",
+          "ChatGPT (OpenAI)",
+          "Gemini (Google)",
+          "Mistral AI",
+          "IA Constitutionnelle",
+          "RGPD"
+        ],
+        "target_word_count": 3000,
+        "intent_type": "informational",
+        "featured_snippet_opportunity": "Liste à puces. Formulation cible : 'Quelles sont les meilleures utilisations de Claude pour un professionnel en France ? 1. Analyser des documents longs (rapports, CV). 2. Préparer des entretiens et des négociations. 3. Rédiger des contenus professionnels (emails, rapports). 4. Brainstormer des idées de projets ou de carrière. 5. Aider au codage et à l'automatisation de tâches.'",
+        "serp_features_detected": [
+          "AI Overview",
+          "People Also Ask",
+          "Video",
+          "Image Pack"
+        ],
+        "grounding_sources": []
+      }
+    },
+    "cursor": {
+      "keyword": "cursor ide en français",
+      "generated_at": "2026-04-26T01:02:23",
+      "brief": {
+        "top10": [
+          {
+            "rank": 1,
+            "domain": "cours-et-fiches.com",
+            "title": "Cursor IDE — Tutoriel Complet en Français (2026) - Cours et Fiches",
+            "main_angle": "Tutoriel complet et détaillé pour installer et utiliser les fonctionnalités clés de Cursor, incluant des explications sur les concepts avancés comme le mode Agent.",
+            "strength": "Très structuré (FAQ, sections claires), contenu récent (2026), et couvre une large palette de fonctionnalités de base et avancées.",
+            "weakness": "Le contenu semble générique et manque d'un retour d'expérience personnel ou d'un cas d'usage concret et approfondi."
+          },
+          {
+            "rank": 2,
+            "domain": "youtube.com",
+            "title": "COURS COMPLET de A à Z sur Cursor AI (Formation Gratuite 2025) - YouTube",
+            "main_angle": "Masterclass vidéo très complète qui montre la création d'une fonctionnalité de A à Z, s'adressant aux développeurs qui veulent optimiser leur vitesse de codage.",
+            "strength": "Format vidéo engageant, démonstration pratique sur une vraie codebase, et contenu très dense (plus d'une heure).",
+            "weakness": "Le format vidéo n'est pas idéal pour une recherche d'information rapide ou pour copier-coller des commandes. Le contenu date de 2025."
+          },
+          {
+            "rank": 3,
+            "domain": "jedha.co",
+            "title": "Les 10 meilleures formations Cursor AI en 2026 - Jedha",
+            "main_angle": "Liste comparative de formations (gratuites et payantes) pour apprendre à utiliser Cursor, incluant des ressources comme des chaînes YouTube et la documentation officielle.",
+            "strength": "Répond à une intention de recherche précise (trouver une formation), bien structuré, et fournit des réponses directes aux questions fréquentes (FAQ).",
+            "weakness": "Contenu assez court qui ne fait que survoler les fonctionnalités de Cursor pour se concentrer sur la liste de formations."
+          },
+          {
+            "rank": 4,
+            "domain": "nxcode.com",
+            "title": "Tutoriel Cursor AI pour débutants : Guide complet 2026 - NxCode",
+            "main_angle": "Guide d'introduction destiné aux débutants, expliquant pas à pas l'installation, l'interface et les fonctionnalités essentielles de Cursor.",
+            "strength": "Très accessible pour les novices, bien structuré avec des listes à puces claires pour les commandes et les fonctionnalités.",
+            "weakness": "Manque de profondeur pour un utilisateur déjà familier avec les IDE ou l'IA, et reste très descriptif."
+          },
+          {
+            "rank": 5,
+            "domain": "maketime.io",
+            "title": "Guide Cursor 2026 : Creer une App sans Coder (Methode Complete) | Make Time",
+            "main_angle": "Angle original orienté 'no-code' ou 'low-code', promettant de créer une application de l'idée au MVP en utilisant Cursor, même sans savoir coder.",
+            "strength": "Angle très spécifique qui peut attirer une audience de reconversion non-technique. Promesse forte.",
+            "weakness": "Le titre est un peu trompeur car Cursor reste un outil pour développeurs. Le contenu n'est pas visible sans accéder à la page."
+          },
+          {
+            "rank": 6,
+            "domain": "audla.com",
+            "title": "Comprendre Cursor : l'éditeur de code propulsé par l'IA - Audla",
+            "main_angle": "Article de fond qui explique la philosophie de Cursor comme un 'binôme virtuel' et met en avant des cas d'usages créatifs (refactoring, génération de tests).",
+            "strength": "Angle qualitatif et inspirant, qui va au-delà du simple tutoriel. Met en avant le concept de 'Model Context Protocol' (MCP).",
+            "weakness": "Contenu un peu daté (2025) et peut-être trop conceptuel pour un utilisateur cherchant un tutoriel pratique."
+          },
+          {
+            "rank": 7,
+            "domain": "open-replay.com",
+            "title": "Comment configurer et utiliser Cursor pour la génération de code assistée par IA",
+            "main_angle": "Guide pratique listant les points clés et les fonctionnalités principales de Cursor, avec une section FAQ et une brève comparaison avec les concurrents.",
+            "strength": "Contenu concis et bien structuré, facile à scanner pour trouver une information précise. La FAQ est un bon point.",
+            "weakness": "Traduction automatique de l'anglais visible, ce qui nuit à la qualité perçue. Contenu assez basique."
+          },
+          {
+            "rank": 8,
+            "domain": "cursor.sh",
+            "title": "Cursor: The best way to code with AI",
+            "main_angle": "Page d'accueil officielle de l'outil, présentant les fonctionnalités phares avec des démos interactives et des témoignages.",
+            "strength": "Source d'information la plus fiable et à jour, visuellement attractif, permet de télécharger l'outil directement.",
+            "weakness": "Angle purement marketing, ne fournit pas un avis neutre ou un tutoriel détaillé pour un utilisateur en phase de découverte."
+          },
+          {
+            "rank": 9,
+            "domain": "is4.ai",
+            "title": "Cursor vs VS Code with Copilot: Best AI Code Editor 2026 | is4.ai",
+            "main_angle": "Comparatif détaillé entre Cursor et l'alternative principale (VS Code + Copilot), analysant les forces et faiblesses de chaque solution.",
+            "strength": "Très utile pour les utilisateurs qui hésitent entre les deux outils. L'analyse est nuancée ('ça dépend de vos priorités').",
+            "weakness": "Contenu en anglais, ce qui ne répond pas parfaitement à la requête 'en français'."
+          },
+          {
+            "rank": 10,
+            "domain": "medium.com",
+            "title": "Is Cursor better than VS Code with Copilot? Absolutely and it's not close | by Chris Dunlop | Medium",
+            "main_angle": "Article d'opinion très tranché, argumentant avec un exemple concret pourquoi Cursor est largement supérieur à VS Code avec Copilot.",
+            "strength": "Le ton personnel et l'exemple pratique (création d'une app en 2 prompts) sont très persuasifs.",
+            "weakness": "Contenu en anglais, subjectif et un peu daté (début 2025), ne couvre pas les évolutions récentes de Copilot."
+          }
+        ],
+        "common_angles": [
+          "Tutoriels d'installation et de configuration de base.",
+          "Présentation des fonctionnalités clés (Chat, Edit, Agent Mode).",
+          "Comparaison avec VS Code + GitHub Copilot.",
+          "Explication du concept de 'fork de VS Code' avec IA intégrée."
+        ],
+        "weak_angles": [
+          "Cas d'usage concrets pour des profils en reconversion (non-développeurs experts).",
+          "Analyse de l'impact sur la productivité et les compétences (comment cet outil change le métier).",
+          "Aspects économiques et retour sur investissement (le coût de 20$/mois est-il justifié pour un freelance ?).",
+          "Limites, risques et bonnes pratiques pour éviter les erreurs de l'IA (sécurité, qualité du code)."
+        ],
+        "winning_moves": [
+          "Créer un guide ultra-complet orienté 'reconversion' : 'Cursor pour ceux qui ne sont pas (encore) développeurs seniors'. Montrer comment l'outil aide à apprendre plus vite, à comprendre du code existant et à être autonome sur un projet.",
+          "Réaliser une étude de cas chiffrée : 'J'ai codé un projet freelance avec Cursor vs. sans IA. Voici le temps et l'argent économisés'. Détailler le processus, les prompts utilisés, les galères et le gain final.",
+          "Publier un comparatif 'zéro bullshit' : 'Cursor vs Copilot vs Alternatives Gratuites en 2026 : Lequel choisir selon votre métier (Dev, Data, Marketing Tech) ?'. Inclure un tableau récapitulatif basé sur des critères précis (facilité d'apprentissage, prix, puissance).",
+          "Aborder l'angle GEO (Generative Engine Optimization) : 'Comment utiliser Cursor pour que votre code soit mieux compris par les IA (et les humains)'. Expliquer les bonnes pratiques de prompt, l'utilisation des `.cursorrules` et la génération de documentation.",
+          "Créer une ressource pratique 'La boîte à outils du développeur augmenté' : un guide qui explique comment intégrer Cursor dans un workflow complet avec d'autres outils IA (ChatGPT pour l'architecture, Perplexity pour la recherche, etc.) pour maximiser sa productivité."
+        ],
+        "must_include_sections": [
+          "Cursor, c'est quoi ? L'explication simple pour les non-développeurs.",
+          "Installation et configuration en 5 minutes (même si vous partez de zéro).",
+          "Les 3 fonctionnalités qui vont changer votre façon de travailler (et comment les utiliser).",
+          "Étude de cas : Création d'un site portfolio en 1h avec Cursor (pour un freelance en reconversion).",
+          "Cursor vs. GitHub Copilot : Lequel est fait pour vous ? (Tableau comparatif).",
+          "Le prix de Cursor est-il justifié ? Analyse du retour sur investissement.",
+          "Au-delà du code : Comment Cursor peut vous aider à apprendre et à progresser ?"
+        ],
+        "citable_facts_to_verify": [
+          "Le prix de l'abonnement Pro est de 20$/mois.",
+          "Cursor est un fork de VS Code et est compatible avec ses extensions.",
+          "Cursor intègre plusieurs modèles d'IA, notamment ceux d'OpenAI (GPT) et d'Anthropic (Claude).",
+          "Le gain de productivité estimé pour les développeurs est de 30-40%."
+        ],
+        "entities_to_mention": [
+          "VS Code",
+          "GitHub Copilot",
+          "OpenAI (GPT-4)",
+          "Anthropic (Claude)",
+          "Anysphere",
+          "JetBrains AI Assistant"
+        ],
+        "target_word_count": 2500,
+        "intent_type": "informational",
+        "featured_snippet_opportunity": "Liste à puces. Formulation cible : 'Qu'est-ce que Cursor ? Cursor est un éditeur de code basé sur VS Code qui intègre une intelligence artificielle pour vous aider à : 1. Écrire du code plus vite (autocomplétion intelligente). 2. Modifier du code complexe en langage naturel. 3. Comprendre et déboguer des projets entiers. 4. Automatiser des tâches répétitives sur plusieurs fichiers.'",
+        "serp_features_detected": [
+          "Video",
+          "People Also Ask"
+        ],
+        "grounding_sources": []
+      }
+    },
+    "midjourney": {
+      "keyword": "midjourney prix avis",
+      "generated_at": "2026-04-26T01:02:55",
+      "brief": {
+        "top10": [
+          {
+            "rank": 1,
+            "domain": "promptfacile.com",
+            "title": "Midjourney Avis 2026 : V7, Tarifs, Webapp et Comparatif",
+            "main_angle": "Analyse critique et détaillée de Midjourney en 2026, axée sur les nouveautés (V7, webapp), les tarifs et un comparatif honnête avec ses concurrents directs.",
+            "strength": "Contenu très à jour (2026), bien structuré avec une table des matières, ton direct et honnête ('la partie honnête'), et des réponses claires aux questions clés (gratuité, Discord, usage commercial).",
+            "weakness": "Le design est un peu simple, et l'article pourrait bénéficier de plus de visuels générés pour illustrer ses propos."
+          },
+          {
+            "rank": 2,
+            "domain": "radinmalin.fr",
+            "title": "Comment avoir un abonnement Midjourney gratuit (ou premium à 2,58€/mois)",
+            "main_angle": "Angle 'bon plan' / 'hack' visant à contourner le coût de l'abonnement officiel via des plateformes de partage d'abonnements comme GamsGo.",
+            "strength": "Propose une solution concrète et chiffrée à un point de douleur majeur (le prix), avec un tableau comparatif clair des offres officielles pour justifier l'alternative.",
+            "weakness": "L'angle est très orienté 'économie' et non sur la qualité ou l'usage professionnel de l'outil. La solution proposée (partage de compte) peut soulever des questions sur la légalité et la sécurité."
+          },
+          {
+            "rank": 3,
+            "domain": "cybernews.com",
+            "title": "Midjourney Review 2026: Image Quality, Features & Pricing",
+            "main_angle": "Revue experte de Midjourney en 2026, évaluant la qualité des images, les fonctionnalités, le rapport qualité-prix et le positionnement par rapport à la concurrence.",
+            "strength": "Analyse approfondie avec des sections 'What I liked' / 'What I didn't like', une perspective sur l'évolution de l'outil depuis 2022 et l'intégration d'avis utilisateurs.",
+            "weakness": "Contenu en anglais qui peut ne pas être idéal pour le marché francophone cible, bien que Google le classe haut."
+          },
+          {
+            "rank": 4,
+            "domain": "tooladvisor.net",
+            "title": "Midjourney : c'est quoi ? Comment l'utiliser ? Le guide complet sur le générateur d'images par l'IA",
+            "main_angle": "Guide complet pour débutants, expliquant les bases de Midjourney, son fonctionnement, ses fonctionnalités et ses tarifs.",
+            "strength": "Très bon angle pour les novices, avec une structure simple (Qu'est-ce que c'est, à quoi ça sert, comment l'utiliser). Cite des chiffres de volume de recherche, ce qui assoit l'autorité.",
+            "weakness": "L'article date un peu dans ses informations (dernière mise à jour mentionnée implicitement en 2024/2025), ce qui est un point faible pour un outil qui évolue si vite."
+          },
+          {
+            "rank": 5,
+            "domain": "aixploria.com",
+            "title": "Midjourney: Reviews & Pricing (2026) + Prompt Guide (--cref, --sref)",
+            "main_angle": "Revue technique et guide de prompting avancé pour 2026, mettant en avant des fonctionnalités spécifiques comme 'Character Reference' et 'Stylize'.",
+            "strength": "Contenu à forte valeur ajoutée pour les utilisateurs déjà familiers avec Midjourney, avec des conseils pratiques sur les commandes et un tableau comparatif pertinent.",
+            "weakness": "Le contenu est un mélange de français et d'anglais, ce qui nuit à l'expérience utilisateur et au ciblage du marché francophone."
+          },
+          {
+            "rank": 6,
+            "domain": "le-nugg.fr",
+            "title": "Midjourney : gratuit ou payant, tout ce qu'il faut savoir",
+            "main_angle": "Article informatif simple qui répond directement à la question de la gratuité de Midjourney et présente les abonnements payants.",
+            "strength": "Titre clair qui cible une intention de recherche précise. L'article est concis et va droit au but.",
+            "weakness": "Contenu assez court et peu détaillé. Il manque une analyse approfondie et des conseils pratiques pour se démarquer."
+          },
+          {
+            "rank": 7,
+            "domain": "hubfi.fr",
+            "title": "Midjourney - Fonctionnalités, tarifs, alternatives et avis",
+            "main_angle": "Présentation générale de Midjourney sous forme de fiche outil, couvrant les fonctionnalités, les prix et les alternatives.",
+            "strength": "Structure claire et facile à lire, idéale pour un aperçu rapide. Le temps de lecture est indiqué, ce qui est une bonne pratique.",
+            "weakness": "Les informations sur les tarifs sont un peu confuses et potentiellement obsolètes (mention d'une formule 'Corporate' à 600$/an). L'article est très court (3 minutes de lecture)."
+          },
+          {
+            "rank": 8,
+            "domain": "geniart.fr",
+            "title": "Formules d'Abonnements - GenIArt - La référence Midjourney...",
+            "main_angle": "Page purement descriptive des plans d'abonnement de Midjourney, avec des instructions sur la manière de souscrire.",
+            "strength": "Traduction française directe et fidèle des informations officielles de Midjourney, ce qui en fait une source fiable sur les plans.",
+            "weakness": "Aucun angle éditorial ou avis. C'est une page informative, pas un article de fond. Propose une interface pour tester gratuitement qui semble être une fonctionnalité propre au site."
+          },
+          {
+            "rank": 9,
+            "domain": "youtube.com",
+            "title": "Quels sont les prix de Midjourney ? (Attention, y'a une douille)",
+            "main_angle": "Vidéo explicative des tarifs de Midjourney, avec une mise en garde sur un point précis : la TVA à ajouter aux prix affichés.",
+            "strength": "Le format vidéo est engageant. L'angle 'attention, il y a un piège' est un excellent hameçon pour capter l'attention et apporte une réelle valeur ajoutée.",
+            "weakness": "Le contenu date de 2023, ce qui le rend potentiellement obsolète sur certains détails des forfaits, même si le principe de la TVA reste valable."
+          },
+          {
+            "rank": 10,
+            "domain": "alphorm.com",
+            "title": "Choisir le Bon Abonnement MidJourney - Blog Alphorm",
+            "main_angle": "Guide pratique pour aider les utilisateurs à choisir le plan d'abonnement Midjourney le plus adapté à leurs besoins.",
+            "strength": "L'angle est très pertinent et orienté utilisateur. Il aborde la question non seulement du 'combien ça coûte' mais aussi du 'quel plan est fait pour moi'.",
+            "weakness": "Le contenu est lié à une offre de formation, ce qui peut être perçu comme un biais commercial. L'analyse des plans reste assez superficielle."
+          }
+        ],
+        "common_angles": [
+          "Présentation détaillée des différents plans tarifaires (Basic, Standard, Pro, Mega) avec les prix mensuels et annuels.",
+          "Explication de l'absence de version gratuite ou d'essai gratuit permanent.",
+          "Comparaison de Midjourney avec ses principales alternatives (DALL-E, Stable Diffusion).",
+          "Mention de la nécessité d'utiliser Discord, bien que la webapp commence à être évoquée."
+        ],
+        "weak_angles": [
+          "Analyse ROI (Retour sur Investissement) pour les professionnels : à partir de quand l'abonnement est-il rentable pour un freelance ou une agence ?",
+          "Cas d'usages concrets par métier : quel abonnement pour un graphiste, un marketeur, un architecte ? Avec des exemples de créations.",
+          "Analyse approfondie des subtilités des conditions d'utilisation (droits commerciaux, confidentialité des images selon les plans).",
+          "Tutoriels pratiques intégrés pour justifier le passage à un plan payant (ex: comment utiliser le mode 'Relax' ou le 'Stealth Mode')."
+        ],
+        "winning_moves": [
+          "Créer un simulateur/calculateur de coût interactif : 'Quel abonnement Midjourney pour votre usage ?'. L'utilisateur répond à 3-4 questions (volume d'images, besoin de confidentialité, usage commercial) et l'outil recommande le plan idéal avec une estimation du coût annuel, TVA incluse.",
+          "Réaliser des études de cas détaillées par profession (ex: 'J'ai utilisé Midjourney Pro pendant un mois comme Social Media Manager, voici mon bilan et ma rentabilité').",
+          "Publier un tableau comparatif exhaustif et à jour (Q2 2026) des 4 plans, non seulement sur le prix, mais aussi sur le coût par image 'rapide', les limites cachées, et le niveau de confidentialité réel.",
+          "Créer une section 'Avis d'experts vérifiés' avec des témoignages de professionnels français (graphistes, directeurs artistiques) qui partagent leur opinion sur le rapport qualité/prix de Midjourney pour leur activité.",
+          "Développer un glossaire des termes tarifaires de Midjourney ('Fast GPU time', 'Relax GPU time', 'Stealth Mode') avec des explications claires et des exemples concrets pour démystifier le jargon et aider à la décision."
+        ],
+        "must_include_sections": [
+          "Midjourney Prix 2026 : Le Tableau Comparatif Complet des Abonnements (TVA incluse)",
+          "Midjourney Gratuit : Mythe ou Réalité en 2026 ?",
+          "Quel Abonnement Midjourney Choisir ? (Guide pour Freelances et Salariés)",
+          "L'Avis de la Rédaction : Le rapport qualité/prix de Midjourney face à la concurrence",
+          "Les Coûts Cachés de Midjourney : Ce qu'il faut savoir avant de s'abonner (GPU Time, Stealth Mode...)",
+          "Rentabiliser son Abonnement Midjourney : Études de Cas par Métier"
+        ],
+        "citable_facts_to_verify": [
+          "Plan Basic : 10$/mois (8$/mois en annuel) pour 3.3h de temps GPU rapide.",
+          "Plan Standard : 30$/mois (24$/mois en annuel) pour 15h de temps GPU rapide + mode Relax illimité.",
+          "Plan Pro : 60$/mois (48$/mois en annuel) pour 30h de temps GPU rapide + mode Stealth.",
+          "Plan Mega : 120$/mois (96$/mois en annuel) pour 60h de temps GPU rapide.",
+          "L'usage commercial est autorisé sur tous les plans payants, mais le mode Stealth (privé) n'est disponible qu'à partir du plan Pro.",
+          "Les entreprises réalisant plus de 1 000 000$ de revenus bruts annuels doivent souscrire au minimum au plan Pro."
+        ],
+        "entities_to_mention": [
+          "Discord",
+          "DALL-E 3",
+          "Stable Diffusion",
+          "OpenAI",
+          "Adobe Firefly",
+          "Stripe (pour les paiements)"
+        ],
+        "target_word_count": 3000,
+        "intent_type": "informational",
+        "featured_snippet_opportunity": "Tableau. Viser un tableau comparatif des abonnements avec les colonnes : 'Plan', 'Prix Mensuel (€)', 'Prix Annuel (€)', 'Temps GPU Rapide', 'Mode Relax', 'Confidentialité (Stealth)', 'Idéal pour...'. La formulation cible serait : 'Quel est le prix de Midjourney ?'",
+        "serp_features_detected": [
+          "AI Overview",
+          "People Also Ask",
+          "Video",
+          "Featured Snippet"
+        ],
+        "grounding_sources": []
+      }
+    },
+    "notion-ai": {
+      "keyword": "notion ai avis",
+      "generated_at": "2026-04-26T01:03:23",
+      "brief": {
+        "top10": [
+          {
+            "rank": 1,
+            "domain": "lafriquedunet.fr",
+            "title": "Notre avis sur Notion ai en 2026 - Analyse & Test indépendant",
+            "main_angle": "Test complet de Notion AI avec un focus sur les cas d'usage pour entrepreneurs et content managers, incluant points forts et points faibles.",
+            "strength": "Article très structuré avec un avis tranché (note sur 10), des cas d'usages concrets et une identification claire des points forts/faibles.",
+            "weakness": "Le titre mentionne 2026 mais le contenu ne semble pas refléter des fonctionnalités radicalement nouvelles ou futures. L'analyse reste assez générique."
+          },
+          {
+            "rank": 2,
+            "domain": "youtube.com",
+            "title": "Notion AI VS ChatGPT: Which tool is truly productive? - YouTube",
+            "main_angle": "Comparaison vidéo entre Notion AI et ChatGPT à travers des tests pratiques (rédaction, synthèse) pour déterminer le meilleur outil selon l'usage.",
+            "strength": "Format vidéo engageant qui montre l'outil en action. Comparaison directe avec un concurrent très connu (ChatGPT), ce qui est une intention de recherche fréquente.",
+            "weakness": "Le contenu est moins accessible pour une recherche rapide d'information et moins optimisé pour le SEO textuel que les articles de blog."
+          },
+          {
+            "rank": 3,
+            "domain": "lecoleduscale.com",
+            "title": "Notion AI : Avis complet et méthodes pour automatiser son business en 2026",
+            "main_angle": "Guide pratique orienté business et automatisation, montrant comment utiliser Notion AI pour des tâches concrètes (CRM, SOP, propositions commerciales).",
+            "strength": "Angle très spécifique et actionnable pour une cible professionnelle (automatiser son business). Propose des méthodes concrètes qui vont au-delà d'une simple liste de fonctionnalités.",
+            "weakness": "Le positionnement est très niché sur l'automatisation, ce qui peut exclure les utilisateurs cherchant un avis plus général."
+          },
+          {
+            "rank": 4,
+            "domain": "cybernews.com",
+            "title": "Notion AI Review (2026): Features, Pricing, and If It's Worth It",
+            "main_angle": "Revue détaillée des fonctionnalités, de la performance et des tarifs de Notion AI, avec une conclusion sur sa pertinence pour les utilisateurs actuels de Notion.",
+            "strength": "Article bien structuré (Pros/Cons, Quick overview), facile à lire. Les tests sont clairs et les conclusions utiles pour la cible.",
+            "weakness": "Contenu en anglais, ce qui est un frein pour le marché cible francophone."
+          },
+          {
+            "rank": 5,
+            "domain": "blogdumoderateur.com",
+            "title": "Notion AI : l'assistant IA de Notion qui vous aide à rédiger et à trouver des idées",
+            "main_angle": "Présentation générale des fonctionnalités de Notion AI, de ses tarifs et des alternatives.",
+            "strength": "Site de forte autorité (BDM). Contenu clair, synthétique et bien structuré qui couvre les questions de base (fonctionnalités, prix).",
+            "weakness": "L'article est assez descriptif et manque d'un avis critique approfondi ou de cas d'usage avancés."
+          },
+          {
+            "rank": 6,
+            "domain": "marie-drouvin.com",
+            "title": "Notion AI : L'outil qui va (peut-être) transformer ta façon de travailler",
+            "main_angle": "Retour d'expérience personnel et didactique sur l'utilisation de Notion AI au quotidien, avec un ton accessible.",
+            "strength": "Le ton personnel et les exemples concrets (reformatage, rédaction) rendent l'article accessible et crédible.",
+            "weakness": "Manque de profondeur technique et d'analyse comparative face aux concurrents."
+          },
+          {
+            "rank": 7,
+            "domain": "reddit.com",
+            "title": "Des avis sur Notion AI - Reddit",
+            "main_angle": "Fil de discussion Reddit où des utilisateurs partagent leurs expériences et avis variés sur Notion AI.",
+            "strength": "Fournit des avis authentiques et des cas d'usage réels non filtrés par un angle marketing. La diversité des opinions donne une vue d'ensemble honnête.",
+            "weakness": "Contenu non structuré, difficile à parcourir pour obtenir une information précise. La fiabilité des avis est variable."
+          },
+          {
+            "rank": 8,
+            "domain": "everhour.com",
+            "title": "Notion AI vs ChatGPT: Which One Should You Use?",
+            "main_angle": "Comparaison détaillée entre Notion AI et ChatGPT sur de multiples critères (rédaction, productivité, prix, sécurité).",
+            "strength": "Tableau comparatif rapide et analyse point par point très complète. Utile pour un utilisateur qui hésite entre les deux outils.",
+            "weakness": "Contenu en anglais. L'angle est purement comparatif et ne donne pas un avis approfondi sur Notion AI seul."
+          },
+          {
+            "rank": 9,
+            "domain": "impli.fr",
+            "title": "Mon avis sur Notion (2026) génial ou usine à gaz ? Mon avis après 5 ans d'utilisation",
+            "main_angle": "Avis global sur Notion en tant qu'outil, avec une section dédiée à Notion AI, basé sur une utilisation de longue durée.",
+            "strength": "La crédibilité de l'avis est renforcée par l'expérience de 5 ans. La vidéo YouTube associée offre un format complémentaire.",
+            "weakness": "L'article porte sur Notion en général, la partie sur Notion AI n'est qu'une section et donc moins détaillée que les articles dédiés."
+          },
+          {
+            "rank": 10,
+            "domain": "hubfi.com",
+            "title": "Notion AI - Fonctionnalités, tarifs, alternatives et avis",
+            "main_angle": "Fiche synthétique présentant les fonctionnalités, le prix et les alternatives de Notion AI.",
+            "strength": "Contenu très concis et factuel, facile à scanner pour obtenir rapidement les informations essentielles.",
+            "weakness": "Manque cruellement de profondeur, d'analyse et d'avis personnel. C'est plus un annuaire qu'un article de fond."
+          }
+        ],
+        "common_angles": [
+          "Présentation des fonctionnalités de base (rédaction, résumé, brainstorming)",
+          "Comparaison avec ChatGPT",
+          "Analyse des tarifs et de la rentabilité (add-on payant)",
+          "Intégration native dans l'écosystème Notion comme principal avantage"
+        ],
+        "weak_angles": [
+          "Cas d'usage concrets pour la reconversion professionnelle (ex: aide à la rédaction de CV, préparation d'entretiens, analyse d'offres d'emploi)",
+          "Analyse critique de l'impact sur les métiers (comment l'outil change concrètement les workflows des rédacteurs, chefs de projet, etc.)",
+          "Comparaison approfondie avec des concurrents autres que ChatGPT (ex: Coda AI, Taskade, ClickUp AI)",
+          "Tests poussés des fonctionnalités avancées (Q&A sur la base de connaissance, automatisation via les bases de données IA)"
+        ],
+        "winning_moves": [
+          "Créer un test terrain \"Zéro Bullshit\" : Mettre Notion AI à l'épreuve sur des cas d'usage spécifiques à la reconversion (refaire un CV, préparer un plan de carrière, analyser 5 offres d'emploi) et partager les résultats bruts (prompts et réponses).",
+          "Adopter un angle \"Adaptation au travail de demain\" : Analyser comment Notion AI transforme concrètement 3 métiers (ex: consultant, créateur de contenu, freelance) en interviewant des professionnels qui l'utilisent.",
+          "Fournir une analyse comparative unique : Comparer Notion AI non seulement à ChatGPT, mais aussi à 2-3 concurrents intégrés (comme Coda AI ou ClickUp AI) sur des critères pertinents pour les salariés et freelances (collaboration, gestion de projet).",
+          "Créer une section \"Pour qui est VRAIMENT fait Notion AI ?\" : Définir des profils types (le salarié curieux, le freelance qui veut scaler, le manager d'équipe) et expliquer si l'outil est un gadget ou un game-changer pour eux.",
+          "Intégrer une dimension GEO (Generative Engine Optimization) : Structurer l'article avec des questions claires et des réponses directes pour viser l'AI Overview de Google, en utilisant des listes, des tableaux et des résumés concis."
+        ],
+        "must_include_sections": [
+          "Notion AI : L'avis d'un média spécialisé en reconversion professionnelle",
+          "Test complet : Notion AI peut-il vraiment vous aider à changer de métier ?",
+          "Cas d'usage concrets pour salariés et freelances (au-delà de la rédaction)",
+          "Notion AI vs. la concurrence : Lequel choisir en 2026 ?",
+          "Tarifs de Notion AI : Est-ce un investissement rentable pour votre carrière ?",
+          "Verdict : Faut-il intégrer Notion AI dans son quotidien professionnel ?"
+        ],
+        "citable_facts_to_verify": [
+          "Le prix de l'add-on Notion AI est de 10$ par mois et par utilisateur.",
+          "Notion AI utilise les modèles d'OpenAI (GPT-3.5/GPT-4) et d'Anthropic (Claude).",
+          "Notion a dépassé les 100 millions d'utilisateurs en 2025."
+        ],
+        "entities_to_mention": [
+          "ChatGPT",
+          "OpenAI",
+          "Anthropic (Claude)",
+          "Coda AI",
+          "ClickUp AI",
+          "Google Workspace"
+        ],
+        "target_word_count": 3000,
+        "intent_type": "informational",
+        "featured_snippet_opportunity": "Tableau comparatif : Viser un snippet sous forme de tableau comparant les points forts et faibles de Notion AI pour différents profils. Formulation cible : \"Tableau : Avantages et inconvénients de Notion AI pour les freelances vs. les salariés.\"",
+        "serp_features_detected": [
+          "AI Overview",
+          "People Also Ask",
+          "Video",
+          "Top Stories"
+        ],
+        "grounding_sources": [
+          {
+            "title": "lafabriquedunet.fr",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSFXqMhs6iYaIrqoZgzH1ip-Hgkt4Uy281aXSn8ZczyQTe5vgDncfXl-ZAFAQ9X-NuVL9msN9TnOrGkyi5kAEUZ_ss4mVARaPqN_n0eL6dMTph2fbrgcjtT-oL37Ry9Zjec0Qx4azAqy3IFQ=="
+          },
+          {
+            "title": "youtube.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsL2a2TRaikaTKR2yZ2fQn8mKYUHVq6hjHkyh6X4ZMw0UBGfrJ-fPiV57n8tqyFs-N2mdqYgTkfAT24VR6YNHDo59qzFjvZpI5TMI2a_arpC9zAZBl2PvNuzxOgVljtYn8vlnvEQ=="
+          },
+          {
+            "title": "businessornot.fr",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaH0qOGix7zDmwOIoVbNHCwfzkaMHJwcZO5c_TuRT9vBVUbV4K6vul1yj_Z1r2f2pdyQ5WLM68fBP0JlMIdxjZaEhK36jmortJ3Vf0KMJP3SxI_RV9PHt4VMwu9HsFGGe8BR09EuNzta9bdBhUK575io9KgPhelDq3nzO-6CbS7lLVEsBd-y8vAQI5U__F3z1LkqvbhKGEopQJMlwEb6bNIjEtX3wrJvyICg4="
+          },
+          {
+            "title": "cybernews.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb12mdm5wX8eZQTNzPsWheU6HHjBKCTPM67XrSLtDp77J-vWRcbZtd9w6KOA1-GGhSyRuLWgJyFCLC-qHeZt2VssoiXLR4-NfZUGTvlTvlp1VaoHEdk4V5KE9OrX3PDXXGRmNl5PDYYFDe"
+          },
+          {
+            "title": "blogdumoderateur.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7flZXV47HcHzLbqQxV3b47xLBP6CrZ9KwylHavhE0P1wYnDwOB6uPheMrUevJwTXbzxLELl6sXHfHnKhjVhhKfn76wQx9O6cy8fEoMt684HDMUt4ZzZPyhgMRhwuKC5H0uwMfxRQZrrNepw=="
+          },
+          {
+            "title": "mariedrouvin.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbJvTeHYeSSEdiObI-kjgSpIUGAmXQyvgcsH-rnB_XfAjSzITEpsOSi6buI4jlsmxv1upa-94ap9zhyLE5W8EFx49fVeV2GFx2GjHJ4CqPPWGHOsnFrF3TzjlXYfYYIBR2ugROnfX4V2q80V_1kw=="
+          },
+          {
+            "title": "reddit.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDOr8CU5xRixut02g9FYDVxB1Xg-R3wMs9FGuFtU7473VJ-QIznCWyuItuyvsVnp_gfgL553h97Cz6KhXHpZ5w67yFtxa2c6dw0apHYLzrw9oAlh8fzLLDsroWUyLybKkvEDslhzA7M_ptY4HsZYzsOHDF4wZejQ8qMSf6qTRwOmbmCn9lmKk="
+          },
+          {
+            "title": "everhour.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9ff7P-2IhxzkBc5S2xd_l27tzNfNqOwf4uLQ6itiQTI0SLH1RW0jhxndF_M3MZKi464vuXTYlTq7UNksni63r4epHcC7znzxrlL2r0p_HG2AzDzlFG9QP3lIKf7pwKrvo0Q3MMSfajYY="
+          },
+          {
+            "title": "youtube.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOuYnjySor4nIahjI4KLE1g7cA52sTP71FdDyMmSUtW-Nbq4c3SliIn67-Bqdp2ieOJy7K37V1ZHTLCLAsuqDxxVEGx3u382d4NpGAYWgUVCbX1A_YXXXdyYxU8eSpGhHrEP2ENw=="
+          },
+          {
+            "title": "hubfi.fr",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQgNOu5unPhWWppk1qYiBNFSH-Ogr-viDiQgkO0QhUbzcv-87Ku3QuYZumb37PmcAPCxmHcCsbXdxmC6vlXAeqfG-V9B2LNqQxSUN-zSOOoF4sZEIR"
+          },
+          {
+            "title": "cube.fr",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdh1jUwPo_ZfKBhj0nxKbJTAMFvKstx6NELnn9R2Glct2adoRiP72SB8s5I8n3F1q-YNlZiz4k2Ly5yEPMS1F7pW-of4YMltat_uZwGW3tf7K-t531q-fblnWS6rn87gduCcZ--CJ83DN3VUSJR14tCaa5qg=="
+          },
+          {
+            "title": "notionfacile.fr",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8EPatZ117WW1WqHz7tI03hltmIOgJg3RlAs9LfS4r48enTmFLXZt0cwxLGaS_A46YvZRQI6PJhGrgWvz6UIAaNU8D1O2c-QydhvUb1Evou2mokKV5-Skva5KCSadjz0nvP3bQiA=="
+          }
+        ]
+      }
+    },
+    "copilot": {
+      "keyword": "github copilot en français",
+      "generated_at": "2026-04-26T01:03:51",
+      "brief": {
+        "top10": [
+          {
+            "rank": 1,
+            "domain": "docs.github.com",
+            "title": "Démarrage rapide pour GitHub Copilot - GitHub Docs",
+            "main_angle": "Documentation officielle et guide de démarrage rapide pour installer et utiliser l'outil sur différents IDE.",
+            "strength": "Contenu officiel, exhaustif et structuré (démarrage, concepts, procédures, tutoriels). Très factuel.",
+            "weakness": "Aucun recul critique, avis d'utilisateur ou mise en perspective pour un non-développeur. Très technique."
+          },
+          {
+            "rank": 2,
+            "domain": "fr.wikipedia.org",
+            "title": "GitHub Copilot — Wikipédia",
+            "main_angle": "Définition encyclopédique de l'outil, son histoire, sa technologie (basée sur OpenAI Codex) et les controverses légales.",
+            "strength": "Source d'autorité, bonne vue d'ensemble historique et contextuelle (notamment sur les questions de licence).",
+            "weakness": "Contenu assez court, peu pratique et pas à jour sur les dernières fonctionnalités ou tarifs."
+          },
+          {
+            "rank": 3,
+            "domain": "blent.ai",
+            "title": "Tutoriel GitHub Copilot : tout savoir - Blent.ai",
+            "main_angle": "Tutoriel complet qui explique ce qu'est l'outil, ses fonctionnalités, comment l'utiliser et ses avantages/inconvénients.",
+            "strength": "Article bien structuré qui couvre l'ensemble du sujet pour un débutant, avec des exemples concrets (prompts, raccourcis).",
+            "weakness": "L'angle est très orienté développeur, sans prise de recul sur l'impact métier au sens large."
+          },
+          {
+            "rank": 4,
+            "domain": "youtube.com",
+            "title": "Apprendre GitHub COPILOT en juste 5 MINUTES - YouTube",
+            "main_angle": "Vidéo tutoriel très courte et dynamique pour installer et découvrir les fonctionnalités de base de Copilot.",
+            "strength": "Format vidéo très accessible et rapide à consommer pour une première découverte.",
+            "weakness": "Survole le sujet, manque de profondeur et d'analyse critique. Contenu très bref."
+          },
+          {
+            "rank": 5,
+            "domain": "cellenza.com",
+            "title": "GitHub Copilot : retour d'expérience d'un expert | Le blog de Cellenza",
+            "main_angle": "Retour d'expérience d'un développeur expert qui a utilisé Copilot pour apprendre un nouveau langage (Python).",
+            "strength": "Angle original et concret du 'test en conditions réelles' pour une tâche précise, ce qui est parlant.",
+            "weakness": "Très spécifique à un cas d'usage (apprentissage de Python), moins généraliste."
+          },
+          {
+            "rank": 6,
+            "domain": "gologic.ca",
+            "title": "Qu'est-ce que Github Copilot? Fonctionnement et avantages clés - GOLOGIC",
+            "main_angle": "Article de définition simple et rapide expliquant ce qu'est Copilot et ses principaux bénéfices.",
+            "strength": "Contenu simple à comprendre, bien pour une première approche très rapide.",
+            "weakness": "Très court, peu de détails, manque d'exemples et d'analyse approfondie. Pas de vision critique."
+          },
+          {
+            "rank": 7,
+            "domain": "zdnet.fr",
+            "title": "J'ai testé GitHub Copilot - et il se pourrait bien qu'il soit nul en ...",
+            "main_angle": "Article critique et test comparatif où le journaliste met en échec Copilot sur des tâches de programmation spécifiques.",
+            "strength": "Angle 'contre-point' rare dans la SERP, qui apporte une vision critique et nuancée.",
+            "weakness": "Le test est basé sur des prompts très spécifiques et peut ne pas refléter l'usage quotidien de l'outil."
+          },
+          {
+            "rank": 8,
+            "domain": "grafikart.fr",
+            "title": "Mon avis sur Github Copilot - Grafikart",
+            "main_angle": "Avis personnel et critique d'un développeur connu sur la première version de Copilot, avec des exemples concrets en vidéo.",
+            "strength": "Avis argumenté et transparent, basé sur une utilisation réelle. La vidéo montre bien les limites de l'outil à l'époque.",
+            "weakness": "L'article et la vidéo datent de 2021 et ne sont plus à jour par rapport aux versions actuelles de Copilot (Chat, etc.)."
+          },
+          {
+            "rank": 9,
+            "domain": "github.com",
+            "title": "Research: quantifying GitHub Copilot's impact on developer ...",
+            "main_angle": "Étude de recherche menée par GitHub pour quantifier l'impact de Copilot sur la productivité et la satisfaction des développeurs.",
+            "strength": "Contenu basé sur des données et des études, apportant des chiffres concrets (ex: 55% plus rapide).",
+            "weakness": "Source biaisée (GitHub promeut son propre produit), contenu en anglais."
+          },
+          {
+            "rank": 10,
+            "domain": "g2.com",
+            "title": "Avantages et Inconvénients de GitHub Copilot | Ce que les ... - G2",
+            "main_angle": "Agrégation d'avis utilisateurs vérifiés, synthétisés en listes d'avantages et d'inconvénients.",
+            "strength": "Synthèse de nombreux avis utilisateurs qui donne une vision globale et équilibrée des forces et faiblesses perçues.",
+            "weakness": "Manque de contexte et d'analyse, c'est une simple compilation d'avis bruts."
+          }
+        ],
+        "common_angles": [
+          "Présentation de l'outil (Qu'est-ce que c'est ?)",
+          "Tutoriels d'installation et d'utilisation de base (comment ça marche ?)",
+          "Liste des fonctionnalités principales (autocomplétion, chat, etc.)",
+          "Avis et retours d'expérience de développeurs"
+        ],
+        "weak_angles": [
+          "L'impact de Copilot sur les métiers non-techniques (chef de projet, product owner, etc.)",
+          "Analyse économique : le ROI de l'abonnement pour un freelance ou une entreprise",
+          "Copilot comme outil de reconversion : comment l'utiliser pour apprendre à coder plus vite ?",
+          "Comparaison détaillée et mise à jour avec les alternatives (Gemini Code Assist, Tabnine, etc.) pour un public français",
+          "Les risques et limites au-delà du code : sécurité, éthique, dépendance à l'outil"
+        ],
+        "winning_moves": [
+          "Créer un guide complet spécifiquement pour les non-développeurs et les profils en reconversion, en expliquant le 'Pourquoi' avant le 'Comment'.",
+          "Analyser le ROI de Copilot : combien de temps gagné vs le coût de 10$/mois ? Interviews de freelances français pour des cas concrets.",
+          "Dédier une large section à 'Copilot pour apprendre à coder' avec une méthode pas-à-pas pour les débutants en reconversion.",
+          "Faire une analyse comparative approfondie et récente (2026) des alternatives, en se concentrant sur les cas d'usage pour les salariés et freelances en France.",
+          "Aborder les questions stratégiques : 'Mon métier est-il menacé ?', 'Comment Copilot change la collaboration en équipe ?', 'Quelles nouvelles compétences développer ?'"
+        ],
+        "must_include_sections": [
+          "GitHub Copilot, c'est quoi ? (Expliqué simplement pour les non-codeurs)",
+          "Combien coûte GitHub Copilot en 2026 ? Le détail des offres (Free, Pro, Business)",
+          "Comment Copilot va changer votre façon de travailler (même si vous n'êtes pas développeur)",
+          "Apprendre à coder avec Copilot : Le guide pour accélérer sa reconversion",
+          "Analyse : Le gain de productivité justifie-t-il le prix ? (Avis et calculs de ROI)",
+          "Au-delà du code : les risques et les nouvelles compétences à maîtriser"
+        ],
+        "citable_facts_to_verify": [
+          "Les développeurs qui utilisent GitHub Copilot complètent leurs tâches 55% plus rapidement.",
+          "90% des développeurs se sentent plus épanouis dans leur travail avec GitHub Copilot.",
+          "Le prix de l'abonnement individuel est de 10$ par mois ou 100$ par an.",
+          "L'offre Business coûte 19$ par utilisateur et par mois."
+        ],
+        "entities_to_mention": [
+          "OpenAI",
+          "Visual Studio Code",
+          "JetBrains",
+          "Microsoft",
+          "Gemini Code Assist",
+          "Tabnine",
+          "Amazon CodeWhisperer"
+        ],
+        "target_word_count": 3000,
+        "intent_type": "informational",
+        "featured_snippet_opportunity": "Tableau comparatif des offres. Formulation cible : 'Quels sont les prix de GitHub Copilot ?' avec un tableau simple : Offre / Prix par mois / Pour qui ? / Fonctionnalité clé.",
+        "serp_features_detected": [
+          "AI Overview",
+          "People Also Ask",
+          "Video",
+          "Top Stories"
+        ],
+        "grounding_sources": [
+          {
+            "title": "zdnet.fr",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEta6KWH34LLBzmOrC-F9xxzQJnNSgbV47b-TqhG7FrGHxJkL2gEn_ekeDQir0NH2Y_GCdKexK9NpJ8HB-hAKqScvVvHuTKZZ_AOVZTaK_lbKHMKIYGqdY1b1uhBGLBvdMCrUHPHVZQKOdp9QBiwqwfFHYEUoYqPIwcMHggdTklcoupKAq5YdEpqCb03-Jedu8sNdTdefkS_QrLc8zLlr4blP16Q5Ka2lM6TdGnraDnzGSrq4mZPGuhJg=="
+          },
+          {
+            "title": "grafikart.fr",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcN5FzqfJR3j5lh_tz9Dpwpwc51FOJaBTXOLQZ054A3y2Y22iplODAYAfEu3iRPcMOSxpDpOArNsSZ-WH7c0r9HClPzsC6EyD-I2PWezc1muH2vKCeXGk5LobuthGlknQZyw=="
+          },
+          {
+            "title": "github.blog",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfjA957hl4ryPrQ2Xz-xnwKbqHIcUkWdYkGVbWjE30yAfJ-IESVho9pu3vM1AuCqEaXSlqHCqL2DktZSt76khmPQkUqY18lUn696Sdz52zI5d4V4LWJHuHI1KbJwFzUimZ9mc8lRFBWvGunPfhoYTJlFqmHss2fN6uwn-GzdkZFUW0wvMG07JU7oKdJjr4iaAqKoCrKzZ43aD2oYQIEUj-H31w5kkT7_vN9Oxv9crAc1OXrmOcTHFJ5Q=="
+          },
+          {
+            "title": "g2.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGApzjwyBz7ObNW64Z-RFdoglS4PUzvBbHkssYtkLdYNnoWSeD49dwSXzSSOjhFENKUHR4Ep0FRA_uxNwYNbXRH6n0BvdMHRTSmQukTO_yZlttGkDm_gIH35-mqmHAK-JpehZa26N44l1q-2snnCupSm5jphRXWPuqEj32Yc7mEAw=="
+          },
+          {
+            "title": "github.blog",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0i5ZnVbejwGBIufpp61zDnNPrRDmQTnmbqWIahRevEkG4urZFiBbxY02pC3VYC9i5GpCMqPwRT_05l08w9WIy0ma0g-4M9glQbzp0TPk8SbdqXDRiDjP3R2-s8Q8SXD4lJ72lbxMm2LZYsIDVEIPbrrBHBv3bWiPiUVBZYlZtMAutgfotFNXuTe5qSY91lFXlgzeM64uvPma9qUIctM1GB9h70rvpub_1bxcYMstpXzvy"
+          },
+          {
+            "title": "cloudeagle.ai",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELbZfGAcSpONJ6cVsAPs3ydsW2YwbPvCrJJomaYIas5CtC903wzH9TAnUp6jKG9vZu2l6BFHCIPIpedkdFeu3J2Su5Ec2kQQ5dOuvTqbBETDOBFQ0bBvwhEZ5GM5BPH5PAhM0I3dQ9orC4Y6yCqmTe3ITfCuUA"
+          },
+          {
+            "title": "pecollective.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoPY-M-uTEdbHMCmHqU-y-20lOFtO7uagR4USIGWO9rF6Lel5pkdh8JJvCecbZkvsUKoKe1JThKdo0tI6Nz2idF-eM8yWaYGQGLrG_ELtiOunO-7WLVwAqxvZjh0ZEhvxjSxHYorK1sSuyjXjTMk1e"
+          },
+          {
+            "title": "microsoft.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYr-UI7RegqenKGgvqyE12vS_AMjG3Fg4kRAlOhO5gPa_wG-Fi-UfrClDv2wvNWvbz5siIqPbuyL8f7loW9yBn0fU5En0_vhRvIkDf07dDGxwzYbpgcTg2scjcVVlsu3tfWniu6PNW4hqihi9H_O8zbeVbI3ml8LgJf3gcgg=="
+          }
+        ]
+      }
+    }
+  }
+}
