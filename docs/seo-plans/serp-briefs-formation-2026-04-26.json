@@ -1,0 +1,904 @@
+{
+  "generated_at": "2026-04-26T01:29:30",
+  "briefs": {
+    "se-former-ia-gratuitement": {
+      "keyword": "formation ia gratuite",
+      "generated_at": "2026-04-26T01:27:01",
+      "brief": {
+        "top10": [
+          {
+            "rank": 1,
+            "domain": "bdm-media.com",
+            "title": "IA : 10 formations gratuites pour développer ses compétences - BDM",
+            "main_angle": "Liste de formations gratuites offertes par les grandes entreprises de l'IA (Google, Microsoft, OpenAI) et des institutions.",
+            "strength": "Source reconnue (BDM), contenu frais (mars 2026), liste claire et bien structurée par type d'acteur (entreprises vs institutions).",
+            "weakness": "Angle très généraliste, peu de détails sur le public cible ou l'application concrète des compétences dans un contexte de reconversion."
+          },
+          {
+            "rank": 2,
+            "domain": "cloud.google.com",
+            "title": "Boostez votre carrière avec 7 nouvelles formations gratuites sur l'IA générative | Blog Google Cloud",
+            "main_angle": "Promotion des formations Google sur l'IA générative, avec un angle sur l'évolution de carrière.",
+            "strength": "Source officielle (Google), focus sur un sujet très recherché (IA générative), contenu orienté bénéfices carrière.",
+            "weakness": "Contenu promotionnel centré uniquement sur l'écosystème Google, manque d'objectivité et de comparaison."
+          },
+          {
+            "rank": 3,
+            "domain": "heure-ia.com",
+            "title": "Certification gratuite pour maîtriser l'IA générative",
+            "main_angle": "Landing page pour une certification gratuite unique, axée sur la productivité et les bénéfices directs pour les professionnels.",
+            "strength": "Proposition de valeur très claire (certification gratuite), mise en avant de la preuve sociale (+8000 apprenants) et d'un référentiel (UNESCO).",
+            "weakness": "Site peu connu, manque de contenu informationnel large, focus sur une seule offre propriétaire."
+          },
+          {
+            "rank": 4,
+            "domain": "francetravail.fr",
+            "title": "#Objectif IA : se former à l'intelligence artificielle | France Travail",
+            "main_angle": "Présentation du MOOC 'Objectif IA' en partenariat avec OpenClassrooms, ciblant les demandeurs d'emploi.",
+            "strength": "Autorité du domaine (France Travail), gratuité totale et accessibilité pour les débutants, caution institutionnelle forte.",
+            "weakness": "Ne couvre qu'une seule formation (Objectif IA), qui est une initiation de base et peut être insuffisante pour une reconversion."
+          },
+          {
+            "rank": 5,
+            "domain": "artduprompt.fr",
+            "title": "Les 40 meilleures formations ia gratuites 2026 ? - Art du prompt",
+            "main_angle": "Liste très exhaustive de formations gratuites, segmentée par profil (débutant, reconversion) et par fournisseur (Google, Nvidia, etc.).",
+            "strength": "Contenu très long et détaillé (40 formations), segmentation pertinente pour différents publics, mention de cas d'usage concrets.",
+            "weakness": "Qualité de la source moins établie, le volume peut être écrasant pour un débutant, manque de curation et d'avis critiques."
+          },
+          {
+            "rank": 6,
+            "domain": "plateya.com",
+            "title": "Les meilleures formations IA gratuites en 2025 : GPT, MOOC, badges pros et cas pratiques",
+            "main_angle": "Guide des formations gratuites avec un focus sur la valeur des certifications et l'application professionnelle.",
+            "strength": "Bonne structuration, mention de statistiques pour contextualiser l'importance de se former, distinction entre audit gratuit et certificat payant.",
+            "weakness": "Contenu datant de 2025 (dans le titre), pourrait être perçu comme moins à jour malgré la pertinence du fond."
+          },
+          {
+            "rank": 7,
+            "domain": "institutmontaigne.org",
+            "title": "Objectif IA | Institut Montaigne",
+            "main_angle": "Page de présentation officielle du programme de formation 'Objectif IA' pour le grand public.",
+            "strength": "Source d'autorité (think tank reconnu), description très claire des objectifs et du contenu du cours, forte légitimité.",
+            "weakness": "Page centrée sur un seul programme d'initiation, ne répond pas à la requête de manière comparative."
+          },
+          {
+            "rank": 8,
+            "domain": "google.com",
+            "title": "Développez aujourd'hui vos compétences en IA pour demain - Google Skills",
+            "main_angle": "Portail des formations IA de Google, mettant en avant les parcours d'apprentissage sur ses propres technologies (Gemini, Vertex AI).",
+            "strength": "Source officielle, accès direct à un catalogue de cours structurés par une entreprise leader du secteur.",
+            "weakness": "Écosystème fermé (uniquement Google), peut être technique et intimidant pour de vrais débutants en reconversion."
+          },
+          {
+            "rank": 9,
+            "domain": "nouvelleviepro.fr",
+            "title": "Comment se former à l'IA (intelligence artificielle) ? - Nouvelle Vie Professionnelle",
+            "main_angle": "Article conseil destiné aux personnes en reconversion professionnelle, expliquant pourquoi et comment se former à l'IA.",
+            "strength": "Angle éditorial parfaitement aligné avec la cible (reconversion), aborde le 'pourquoi' avant le 'comment'.",
+            "weakness": "La liste de formations est assez courte et moins détaillée que les articles purement listicles."
+          },
+          {
+            "rank": 10,
+            "domain": "startbrain.ai",
+            "title": "Formation IA gratuite : les meilleures en 2026 - startbrain.ai",
+            "main_angle": "Analyse critique des formations gratuites, comparant leur efficacité par rapport aux formations payantes et en entreprise.",
+            "strength": "Angle original et 'zéro bullshit', cite des statistiques (taux de complétion), segmente bien les limites du gratuit.",
+            "weakness": "Le site est moins connu, l'article pousse subtilement vers des solutions payantes ou B2B."
+          }
+        ],
+        "common_angles": [
+          "Listes de formations gratuites proposées par les géants de la tech (Google, Microsoft, IBM, OpenAI, Nvidia).",
+          "Mise en avant du MOOC d'initiation 'Objectif IA' (OpenClassrooms/Institut Montaigne).",
+          "Focus sur l'IA générative (ChatGPT, Gemini, Claude) et le prompt engineering.",
+          "Présentation de plateformes de MOOC comme Coursera, edX, FUN MOOC."
+        ],
+        "weak_angles": [
+          "Manque de curation par métier ou projet de reconversion (ex: 'Quelle formation pour un marketeur ?', 'pour un RH ?').",
+          "Analyse critique de la valeur réelle des certificats gratuits sur le marché du travail.",
+          "Absence de retours d'expérience ou de témoignages de personnes ayant suivi ces cours.",
+          "Peu de contenu sur le 'après' : comment appliquer concrètement les compétences acquises dans son travail ou sa recherche d'emploi."
+        ],
+        "winning_moves": [
+          "Créer un guide ultra-pratique : 'La meilleure formation IA gratuite pour VOTRE métier'. Segmenter l'article avec des recommandations spécifiques pour les 5-7 familles de métiers les plus impactées (Marketing, RH, Gestion de projet, Créatifs, Développeurs...).",
+          "Adopter un angle 'crash test' : s'inscrire et suivre 3 à 5 formations phares, et en faire un retour d'expérience détaillé (temps réel passé, difficulté, valeur du certificat, projet concret réalisé).",
+          "Intégrer une dimension 'parcours de reconversion' : présenter les formations comme des briques de compétences. Ex: 'Étape 1: Culture générale avec Objectif IA. Étape 2: Spécialisation métier avec le cours X de Google. Étape 3: Projet pratique pour votre portfolio'.",
+          "Ajouter une section 'Le bullshit du gratuit' : analyser de manière transparente les limites de chaque formation. (Ex: 'Ce certificat est bien pour votre culture, mais les recruteurs ne le connaissent pas', 'Ce cours est gratuit mais la certification est payante', 'Nécessite des pré-requis non mentionnés').",
+          "Enrichir le contenu avec des interviews ou des citations d'experts en recrutement et de professionnels ayant réussi leur montée en compétences, pour valider la pertinence des formations recommandées."
+        ],
+        "must_include_sections": [
+          "Pourquoi un salarié ou freelance DOIT se former à l'IA en 2026 (avec des stats à jour)",
+          "Les compétences IA les plus recherchées par les recruteurs (au-delà des titres de cours)",
+          "Notre sélection des meilleures formations IA gratuites par objectif (Découverte, Reconversion, Spécialisation)",
+          "Crash Test : Nous avons testé pour vous les 3 formations gratuites les plus populaires",
+          "Le guide pratique : Quelle formation IA gratuite choisir pour votre métier ? (Marketing, RH, etc.)",
+          "Au-delà de la formation : Comment valoriser vos nouvelles compétences IA sur votre CV et LinkedIn"
+        ],
+        "citable_facts_to_verify": [
+          "91% des entreprises françaises déclarent ne pas disposer des compétences nécessaires en intelligence artificielle (étude BCG et France Digitale 2024).",
+          "La part des salariés utilisant régulièrement l'IA générative a doublé, passant de 20 % à 43 % en un an.",
+          "Le taux de complétion moyen d'un MOOC gratuit est de 33% contre 85% pour les formations encadrées en entreprise.",
+          "Le programme 'Objectif IA' a atteint 350 000 inscrits et 210 000 certifiés."
+        ],
+        "entities_to_mention": [
+          "Google (Skills, Cloud, Gemini)",
+          "Microsoft (Learn, Copilot, Azure AI)",
+          "OpenAI (Academy, ChatGPT)",
+          "OpenClassrooms",
+          "Institut Montaigne",
+          "France Travail",
+          "Coursera",
+          "edX",
+          "FUN MOOC",
+          "NVIDIA",
+          "IBM",
+          "Anthropic (Claude)",
+          "Hugging Face"
+        ],
+        "target_word_count": 3500,
+        "intent_type": "informational",
+        "featured_snippet_opportunity": "Liste à puces répondant à la question 'Quelles sont les meilleures formations IA gratuites ?'. Formulation cible : 'Voici le top 5 des formations IA gratuites pour les professionnels en 2026 : 1. Elements of AI : Idéal pour une culture générale solide. 2. Google AI Essentials : Pour maîtriser les outils Google. 3. Objectif IA : L'initiation parfaite pour les débutants en France...'",
+        "serp_features_detected": [
+          "AI Overview",
+          "People Also Ask",
+          "Video",
+          "Image Pack"
+        ],
+        "grounding_sources": []
+      }
+    },
+    "financer-formation-ia-cpf": {
+      "keyword": "formation ia cpf",
+      "generated_at": "2026-04-26T01:27:30",
+      "brief": {
+        "top10": [
+          {
+            "rank": 1,
+            "domain": "google.com",
+            "title": "Les 10 meilleures formations en IA éligibles au CPF en 2026",
+            "main_angle": "Liste comparative et détaillée des meilleures formations IA finançables par le CPF, avec points forts et spécificités.",
+            "strength": "Contenu très structuré (liste, tableaux), riche en détails (prix, durée, programme) et bien expliqué sur le fonctionnement du CPF.",
+            "weakness": "Article long qui peut décourager, et le positionnement est celui d'un comparateur, pas d'un expert métier qui guide."
+          },
+          {
+            "rank": 2,
+            "domain": "elitek-cpf.com",
+            "title": "Intelligence Artificielle - Formations éligibles CPF - Elitek CPF",
+            "main_angle": "Page de vente directe pour une formation spécifique en IA pour chefs de projet, mettant en avant la double certification.",
+            "strength": "Très ciblé sur un métier (chef de projet), met en avant des certifications reconnues (Microsoft AI-900, RS 6776).",
+            "weakness": "Ne répond pas à l'intention de recherche large de l'utilisateur qui cherche à comparer les options. Trop commercial."
+          },
+          {
+            "rank": 3,
+            "domain": "jedha.co",
+            "title": "Les 10 meilleures Formations IA éligibles au CPF en 2026 - Jedha",
+            "main_angle": "Présentation des formations IA de l'organisme Jedha, en les positionnant comme des options de premier choix éligibles au CPF.",
+            "strength": "Notoriété de la marque Jedha dans la formation tech, contenu détaillé sur leurs propres programmes.",
+            "weakness": "Le titre promet un top 10 mais le contenu est centré sur leurs offres, ce qui peut être perçu comme un appât."
+          },
+          {
+            "rank": 4,
+            "domain": "mister-ia.com",
+            "title": "Financement de formation à l'IA : Guide pratique (CPF, OPCO, FSE+, AGEFICE) - Mister IA",
+            "main_angle": "Guide complet sur les différents dispositifs de financement de la formation IA, au-delà du CPF.",
+            "strength": "Angle très pratique et complet sur le financement, qui est une préoccupation majeure de la cible. Mentionne d'autres aides (OPCO, etc.).",
+            "weakness": "Moins centré sur la comparaison des formations elles-mêmes, plus sur l'aspect administratif et financier."
+          },
+          {
+            "rank": 5,
+            "domain": "skills4all.com",
+            "title": "Formation Intelligence Artificielle CPF (IA & Machine Learning) | Skills4All",
+            "main_angle": "Catalogue de formations IA de l'organisme Skills4All, toutes éligibles au CPF, avec un focus sur l'aspect pratique et métier.",
+            "strength": "Large catalogue de formations sur des aspects variés de l'IA (générative, Python, etc.).",
+            "weakness": "Manque de guidage pour l'utilisateur. C'est une liste de produits, pas un contenu qui aide à choisir."
+          },
+          {
+            "rank": 6,
+            "domain": "digi-atlas.com",
+            "title": "Formation IA générative : en ligne, finançable via CPF et certifiante - Digi Atlas",
+            "main_angle": "Page de destination pour une formation spécifique sur l'IA générative, mettant en avant les compétences concrètes acquises.",
+            "strength": "Très clair sur les objectifs pédagogiques et les compétences visées (ChatGPT, Gemini, Firefly, etc.).",
+            "weakness": "Page commerciale pour un seul produit, ne répond pas à l'intention de comparaison."
+          },
+          {
+            "rank": 7,
+            "domain": "maformation.fr",
+            "title": "Formation Intelligence artificielle CPF | MaFormation.fr",
+            "main_angle": "Agrégateur de formations IA éligibles au CPF, avec un moteur de recherche interne.",
+            "strength": "Plateforme connue qui agrège de nombreuses offres, ce qui donne un sentiment d'exhaustivité.",
+            "weakness": "Qualité des fiches formation hétérogène, manque de ligne éditoriale et de conseils personnalisés."
+          },
+          {
+            "rank": 8,
+            "domain": "boostyouria.com",
+            "title": "Notre offre CPF dédiée à l'Intelligence artificielle - Boost Your IA",
+            "main_angle": "Présentation d'une formation certifiante (RS6776) sur l'IA générative, axée sur la création de contenu et le respect des réglementations.",
+            "strength": "Met en avant la conformité (RGPD, AI Act) et l'aspect éthique, un différenciant.",
+            "weakness": "Encore une page produit qui ne permet pas à l'utilisateur de comparer les offres du marché."
+          },
+          {
+            "rank": 9,
+            "domain": "livementor.com",
+            "title": "Le Top 10 des meilleures formations IA - LiveMentor",
+            "main_angle": "Liste des meilleures formations IA selon différents objectifs (freelances, entrepreneurs, etc.), avec un focus sur leur propre formation.",
+            "strength": "Segmentation intéressante par objectif/cible (freelances, entrepreneurs), ce qui parle à notre marché cible.",
+            "weakness": "Le titre est un peu trompeur car il promeut fortement leur propre offre. Le lien avec le CPF n'est pas l'angle principal."
+          },
+          {
+            "rank": 10,
+            "domain": "youtube.com",
+            "title": "Comment se former à l'IA avec son CPF? - YouTube",
+            "main_angle": "Vidéo explicative sur l'intérêt de se former à l'IA et comment utiliser son CPF pour le faire, avec un ton direct et des exemples concrets.",
+            "strength": "Format vidéo qui peut bien performer. Adresse directement les peurs (être remplacé par l'IA) et les opportunités (revenu secondaire).",
+            "weakness": "Moins détaillé qu'un article de fond, sert de porte d'entrée vers une offre de formation spécifique."
+          }
+        ],
+        "common_angles": [
+          "Listes de type 'Top X des formations IA éligibles CPF'.",
+          "Explication du fonctionnement du CPF (comment vérifier ses droits, comment s'inscrire).",
+          "Focus sur l'IA générative (ChatGPT, Gemini, Midjourney) et le prompt engineering.",
+          "Mise en avant des certifications (souvent le même code RS6776 'Création de contenus... par l'usage responsable de l'IA générative').",
+          "Pages de vente directes d'organismes de formation."
+        ],
+        "weak_angles": [
+          "L'impact réel de l'IA sur des métiers spécifiques (au-delà des généralités marketing/communication).",
+          "Le retour sur investissement (ROI) attendu d'une telle formation : quel gain de productivité, quelle évolution salariale, quelles opportunités de reconversion ?",
+          "Analyse critique et 'zero bullshit' des programmes : beaucoup se ressemblent, quels sont les vrais différenciants ?",
+          "Le point de vue de ceux qui ont suivi les formations (témoignages vérifiés, études de cas).",
+          "Le futur du CPF pour les formations IA (régulations, évolution des financements)."
+        ],
+        "winning_moves": [
+          "Créer un guide complet qui ne se contente pas de lister, mais qui analyse et catégorise les formations par métier cible (ex: 'La meilleure formation IA pour les RH', '...pour les développeurs', '...pour les indépendants').",
+          "Adopter un angle 'enquête' : interviewer des anciens élèves, analyser en profondeur 3-4 formations phares (programme, qualité des intervenants, débouchés réels) pour offrir une perspective unique et crédible.",
+          "Développer un outil simple d'aide à la décision (quiz) : 'Quelle formation IA est faite pour vous ?' basé sur le métier actuel, les objectifs, le budget CPF et le temps disponible.",
+          "Créer un contenu pilier sur 'Le vrai coût d'une formation IA : au-delà du CPF' en incluant le temps, l'effort, les outils complémentaires et le manque à gagner potentiel pendant la formation.",
+          "Attaquer l'angle GEO (Generative Engine Optimization) en structurant le contenu sous forme de questions/réponses précises, facilement citables par les IA conversationnelles et les AI Overviews ('Quel est le prix moyen d'une formation IA CPF ?', 'Quelle certification IA est la plus reconnue en France ?')."
+        ],
+        "must_include_sections": [
+          "Formation IA et CPF : Le guide 2026 pour ne pas se tromper",
+          "Pourquoi se former à l'IA est devenu non-négociable pour votre carrière ?",
+          "Le piège des formations IA CPF : comment reconnaître une formation de qualité ?",
+          "Analyse comparative : Le banc d'essai des 5 formations IA CPF les plus populaires",
+          "CPF, OPCO, France Travail : Toutes les aides pour financer votre montée en compétences IA",
+          "Témoignages : Ils se sont formés à l'IA grâce à leur CPF, voici ce que ça a changé pour eux"
+        ],
+        "citable_facts_to_verify": [
+          "Le compte CPF est crédité de 500€ par an pour un salarié à temps plein, plafonné à 5000€.",
+          "Le reste à charge obligatoire de 100€ pour les salariés utilisant leur CPF.",
+          "L'existence et les codes des certifications, notamment la certification RS6776 'Création de contenus rédactionnels et visuels par l'usage responsable de l'intelligence artificielle générative'."
+        ],
+        "entities_to_mention": [
+          "Mon Compte Formation",
+          "France Compétences",
+          "LiveMentor",
+          "Jedha",
+          "DataBird",
+          "Skills4All",
+          "OPCO",
+          "France Travail (anciennement Pôle Emploi)",
+          "ChatGPT",
+          "Google Gemini",
+          "Microsoft Copilot"
+        ],
+        "target_word_count": 3000,
+        "intent_type": "informational",
+        "featured_snippet_opportunity": "Tableau comparatif. Viser un tableau qui compare 3 à 5 formations phares sur des critères clés : 'Organisme', 'Certification visée', 'Durée', 'Prix CPF', 'Idéal pour (profil type)'. La formulation cible pourrait être : 'Quel est le comparatif des meilleures formations IA éligibles au CPF ?'",
+        "serp_features_detected": [
+          "AI Overview",
+          "People Also Ask",
+          "Video"
+        ],
+        "grounding_sources": [
+          {
+            "title": "formationiacpf.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa9sIMhNG57vc97Taj6A4W6lfox82OPa_3LA9-lm5cha2el6iPnwJNiLmp7tVWN835GO5XW3aVAMayvO78PXGTt2jJvnkGGlBPfTOE-u3z2uH9xK_w"
+          },
+          {
+            "title": "elitek.fr",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0ECwVopgLIAdtgl6nGcuANdjssjAWv49Y-jW2Hpyc2dA1QHR4KNwbjfadbfhuYJbh3On5Ivmq5WnqUxyR6mavrNzgKDwre3odD3jyHuw025sDSy4Slj-SGH6dr_PmQMhLdzE6d8lJAF26UAW6nRCKnpPWdVyvXFs="
+          },
+          {
+            "title": "mister-ia.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZKCe9lhzZMX_wEg-Qo_kxZKcovU3GGm0yjVLrPDbBDQbY4NSsKVMmocQNLRwP5-RT7lPEg_k_QRwZ2t-M-Pvadp1lOfgI32fhlpEk1jedUK0EhZdjvKiEAj2-q77xKL2k9_hfOHtCORBgf7TaHvMR_4LFDQ=="
+          },
+          {
+            "title": "skills4all.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPBIoER5TfAyqwqJ2L30FQ_ofzgenP7a_pTU7-BMnTM6-JjNNhd_JRyGdmkPkw0_5BPVJ4jGPm6EDKU32I6Mze12uhMVpBXivqxuxmvvYMpoWNMjjuOgmgYuOvvEfTUN1GJMploh_aSEMM3SA5KnwHDfFJ8R-ZsRMj"
+          },
+          {
+            "title": "digi-atlas.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-TyVDpGdPyHxNmLQqtP7ljFbTuUiXeqjk6FuEjA4uznHR42tmBfMhaHEiI7ppcwWqy89w2uZK3Bpk4n5MrJGUiTobLQe7QEaRsL9qLdbHCwm5JuW9RF5heGEjui3Ri8fY06223SX_0z2gsQpvhYY="
+          },
+          {
+            "title": "boostyouria.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELQqELdxQsWhHwa9Fm3x9UYpwhLjVSHufnfYWqRk5ZEbpSpFg7MLkKJwxeipi2QLKZonW4-lmodlZIaleYONQ06QW6pJv_rtb9HFLWLnOr5Zcruzsu2U1gdKhdyrHA9N9v1ogFrh_8ECP6FoE="
+          },
+          {
+            "title": "livementor.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_9P9UOqrKquFaR4sElwF_GSv5A8hDgU3HWdfOAldIKkYJJAo-vITbkkNGzN_LENqB3arCBK-TKvGtaQB4087VZTFPYXokJN2RYXJnWOXHGGjMwjHjXiJW4-515g3iVLjapMdWHeqC6FGrGcjW6DYTbfr1"
+          },
+          {
+            "title": "youtube.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIBlRfXSfe09dIjhAE-rf_ZER17TWYNXsVIUliqUCY63E9oxM0iX2E_2SZcLH5H1QaXuCfFqERrIh2bSpcG-GOgp51jeh9Udk5P1zRyPsnWHZVpq9mbNLCAUcDNJ2uWS8KF8RG3Q=="
+          }
+        ]
+      }
+    },
+    "formation-ia-coursera-en-francais": {
+      "keyword": "formation ia coursera francais",
+      "generated_at": "2026-04-26T01:27:58",
+      "brief": {
+        "top10": [
+          {
+            "rank": 1,
+            "domain": "coursera.org",
+            "title": "L'IA pour tous | Coursera",
+            "main_angle": "Page de destination officielle du cours d'Andrew Ng, axée sur la démocratisation de l'IA pour un public non technique.",
+            "strength": "Page officielle du cours le plus populaire et reconnu pour les débutants, forte crédibilité (Andrew Ng).",
+            "weakness": "Ne concerne qu'un seul cours, ne compare pas et ne guide pas vers d'autres options en français sur la plateforme."
+          },
+          {
+            "rank": 2,
+            "domain": "coursera.org",
+            "title": "Meilleurs cours et certificats en Intelligence artificielle (IA) 2026 | Coursera",
+            "main_angle": "Page de catégorie listant et filtrant tous les cours et certificats liés à l'IA disponibles sur Coursera.",
+            "strength": "Vue d'ensemble exhaustive des options (Google, IBM, etc.), permet de comparer les durées, niveaux et compétences.",
+            "weakness": "Manque de curation et de conseils personnalisés. C'est un catalogue, pas un guide pour un profil spécifique."
+          },
+          {
+            "rank": 3,
+            "domain": "coursera.org",
+            "title": "Meilleurs cours et certificats en IA générative 2026 - Coursera",
+            "main_angle": "Page de catégorie dédiée spécifiquement aux formations sur l'IA générative.",
+            "strength": "Très spécifique et répond à une tendance de recherche forte (GenAI). Liste des cours de Google, IBM, etc.",
+            "weakness": "Trop niché pour la requête large, et comme la page de catégorie générale, manque de guidage éditorial."
+          },
+          {
+            "rank": 4,
+            "domain": "koino.fr",
+            "title": "IA : Top 12 des formations en intelligence artificielle - Koïno",
+            "main_angle": "Article de blog qui sélectionne et compare 12 formations IA, incluant des options sur Coursera (IBM AI Engineering).",
+            "strength": "Curation humaine, comparaison de différentes plateformes (pas que Coursera), inclut des options finançables (France Travail).",
+            "weakness": "Coursera n'est qu'une option parmi d'autres, le contenu n'est pas spécifiquement centré sur la requête."
+          },
+          {
+            "rank": 5,
+            "domain": "studyrama.com",
+            "title": "Les 5 meilleures formations pour se former à l'IA en 2025/2026 - Studyrama.com",
+            "main_angle": "Article de type 'listicle' présentant une sélection de 5 formations IA, dont une de Coursera.",
+            "strength": "Format facile à lire, crédibilité de la marque Studyrama, mentionne des aspects pratiques comme la durée et le prix.",
+            "weakness": "Contenu assez court, peu de détails sur chaque formation. La sélection est limitée à 5."
+          },
+          {
+            "rank": 6,
+            "domain": "talkpal.ai",
+            "title": "Les meilleurs cours d'IA sur Coursera pour maîtriser l'intelligence artificielle - Talkpal AI",
+            "main_angle": "Article de blog se concentrant exclusivement sur les cours d'IA de Coursera, en les catégorisant (débutant, avancé, sectoriel).",
+            "strength": "Répond très précisément à la requête, structure claire, bonne segmentation des types de cours.",
+            "weakness": "Site peu connu, l'angle 'Talkpal' (apprentissage de langue) semble un peu forcé et peut nuire à la crédibilité."
+          },
+          {
+            "rank": 7,
+            "domain": "coursera.org",
+            "title": "Introduction to Generative AI - Français | Coursera",
+            "main_angle": "Page de destination pour le cours d'introduction à l'IA générative de Google Cloud, en français.",
+            "strength": "Cours officiel de Google, très populaire et pertinent. Contenu court et accessible (micro-apprentissage).",
+            "weakness": "Très spécifique (un seul cours sur la GenAI), ne répond pas à une recherche plus large de formations IA."
+          },
+          {
+            "rank": 8,
+            "domain": "formalive.fr",
+            "title": "Meilleure Formation Intelligence Artificielle 2026 : Comparatif - Formalive",
+            "main_angle": "Comparatif de formations IA en France, segmenté par type de besoin (business, technique) et mentionnant Coursera comme 'meilleur point d'entrée'.",
+            "strength": "Très bonne segmentation de l'audience (business vs technique), mention des financements et des certifications reconnues (RNCP).",
+            "weakness": "Coursera est une option parmi d'autres, l'article ne se focalise pas dessus."
+          },
+          {
+            "rank": 9,
+            "domain": "jedha.co",
+            "title": "Les 10 meilleures certifications en Intelligence Artificielle en 2026 - Jedha",
+            "main_angle": "Liste des meilleures certifications IA, incluant plusieurs hébergées sur Coursera (Google, IBM).",
+            "strength": "Angle spécifique sur les 'certifications' qui a de la valeur pour les professionnels. Donne des estimations de coût et de durée.",
+            "weakness": "Jedha est un concurrent de Coursera, leur contenu est donc biaisé. L'article se concentre sur la certification, pas la formation dans son ensemble."
+          },
+          {
+            "rank": 10,
+            "domain": "coursera.org",
+            "title": "IA générative : au-delà du chatbot - Coursera",
+            "main_angle": "Page de destination pour un cours spécifique de la spécialisation 'Leader en IA générative' de Google.",
+            "strength": "Contenu officiel de Google, en français, et répondant à un besoin précis (aller plus loin que le chatbot).",
+            "weakness": "Trop spécifique, ne s'adresse qu'à une fraction de l'audience cible."
+          }
+        ],
+        "common_angles": [
+          "Listes de cours ('les meilleurs cours', 'top X formations').",
+          "Focalisation sur les cours pour débutants et de vulgarisation (ex: 'IA pour tous').",
+          "Mise en avant des certificats de grandes marques (Google, IBM, DeepLearning.AI).",
+          "Distinction entre IA générale et IA générative."
+        ],
+        "weak_angles": [
+          "Le parcours 'pas à pas' pour un salarié en reconversion (par où commencer, quelle suite logique ?).",
+          "L'application concrète des compétences acquises dans des métiers non-techniques (marketing, RH, etc.).",
+          "Analyse critique et comparative des cours au-delà de la description officielle (avis détaillés, retours d'expérience).",
+          "Le coût réel et le temps à investir pour un certificat complet (souvent masqué par l'abonnement mensuel)."
+        ],
+        "winning_moves": [
+          "Créer un guide 'Le Parcours Ultime Coursera en IA pour les Professionnels Francophones', en structurant l'article par profil (débutant total, manager, freelance, profil technique).",
+          "Pour chaque cours clé, intégrer des retours d'expérience vérifiés (forums, LinkedIn) et une analyse 'zéro bullshit' de ce que le cours apporte réellement à une carrière en France.",
+          "Développer une section 'Quel certificat Coursera pour quel métier ?' avec des exemples concrets : 'Vous êtes chef de projet, visez le certificat X pour apprendre à piloter un projet IA'.",
+          "Construire un tableau comparatif détaillé et actionnable qui va au-delà des listes : Nom du cours, Idéal pour (profil), Compétence clé acquise, Durée réelle estimée, Coût total estimé, Valeur sur le CV en France.",
+          "Créer une section 'Au-delà de la certification : comment valoriser votre formation Coursera' avec des conseils pour l'intégrer sur LinkedIn, en entretien, et via des projets personnels."
+        ],
+        "must_include_sections": [
+          "Introduction : Pourquoi Coursera est une référence pour se former à l'IA en France ?",
+          "Pour les débutants absolus : Par quel cours commencer pour comprendre l'IA sans se noyer ?",
+          "Pour les managers et chefs de projet : Les formations IA pour piloter et non pour coder",
+          "Pour les freelances et indépendants : Les certificats IA qui rassurent vos clients",
+          "Spécialisation IA Générative : Le guide des formations Coursera pour maîtriser les LLMs",
+          "Tableau comparatif des meilleurs certificats IA sur Coursera (Google vs. IBM vs. DeepLearning.AI)",
+          "Budget et temps : Combien coûte et combien de temps prend réellement une certification IA sur Coursera ?"
+        ],
+        "citable_facts_to_verify": [
+          "Le cours 'AI for Everyone' d'Andrew Ng a été suivi par des millions de personnes dans le monde.",
+          "Le coût de l'abonnement Coursera Plus est d'environ 46€ par mois en France.",
+          "Les certificats professionnels de Google sur Coursera (comme Google AI Essentials) peuvent être complétés en moins de 6 mois à raison de quelques heures par semaine."
+        ],
+        "entities_to_mention": [
+          "Coursera",
+          "Google",
+          "IBM",
+          "DeepLearning.AI",
+          "Andrew Ng",
+          "France Travail",
+          "CPF (Compte Personnel de Formation)",
+          "LinkedIn"
+        ],
+        "target_word_count": 3000,
+        "intent_type": "informational",
+        "featured_snippet_opportunity": "Liste à puces. Formulation cible : 'Quelles sont les meilleures formations IA en français sur Coursera ? 1. L'IA pour tous (DeepLearning.AI) - Idéal pour les débutants. 2. Google AI Essentials (Google) - Pour une vision pratique et business. 3. IBM AI Engineering (IBM) - Pour ceux qui visent un rôle plus technique.'",
+        "serp_features_detected": [
+          "AI Overview",
+          "People Also Ask",
+          "Video"
+        ],
+        "grounding_sources": []
+      }
+    },
+    "formation-ia-openclassrooms": {
+      "keyword": "formation ia openclassrooms",
+      "generated_at": "2026-04-26T01:28:35",
+      "brief": {
+        "top10": [
+          {
+            "rank": 1,
+            "domain": "openclassrooms.com",
+            "title": "Formation Développeur IA - OpenClassrooms",
+            "main_angle": "Présentation officielle du parcours diplômant 'Développeur IA' (Bac+3/4), axée sur la flexibilité, les projets professionnalisants et l'accompagnement par un mentor.",
+            "strength": "Page officielle, information de première main, détails sur le programme, les prérequis, les débouchés et les options de financement comme l'alternance.",
+            "weakness": "Manque de recul critique et d'avis externes. L'information est purement promotionnelle et ne compare pas l'offre à d'autres sur le marché."
+          },
+          {
+            "rank": 2,
+            "domain": "campus-region.fr",
+            "title": "Ingénieur Intelligence Artificielle | OpenClassrooms - Campus Région du numérique",
+            "main_angle": "Présentation du parcours 'Ingénieur IA' (Bac+5) en partenariat avec Microsoft, hébergée sur le site d'un acteur institutionnel (Campus Région du numérique).",
+            "strength": "La caution d'un partenaire institutionnel et de Microsoft renforce la crédibilité. Met en avant les compétences concrètes acquises (Azure, Machine Learning, etc.).",
+            "weakness": "Page de présentation simple, moins détaillée que le site officiel d'OpenClassrooms. Pas d'avis ou de retours d'expérience."
+          },
+          {
+            "rank": 3,
+            "domain": "solutions-numeriques.com",
+            "title": "OpenClassrooms lance un cycle de formations gratuit dédié à l'IA - Solutions-Numeriques",
+            "main_angle": "Article de presse annonçant le lancement de formations gratuites d'initiation à l'IA par OpenClassrooms, notamment sur ChatGPT.",
+            "strength": "Angle d'actualité et attractif (gratuité). Cite le co-fondateur, ce qui ajoute une touche de vision et de contexte.",
+            "weakness": "Information datée (octobre 2023) et ne concerne pas les formations diplômantes qui sont le cœur de la recherche. Contenu court."
+          },
+          {
+            "rank": 4,
+            "domain": "reddit.com",
+            "title": "Formation Openclassrooms IA : r/programmation - Reddit",
+            "main_angle": "Retour d'expérience critique et négatif d'un utilisateur sur la formation IA, pointant des problèmes de contenu, de ressources pédagogiques et d'éthique.",
+            "strength": "Témoignage authentique et détaillé qui aborde des points rarement traités (éthique des projets, qualité des ressources externes). Très forte crédibilité pour un public averti.",
+            "weakness": "Expérience subjective et isolée (l'utilisateur a arrêté après une semaine). Le format forum est moins structuré qu'un article de fond."
+          },
+          {
+            "rank": 5,
+            "domain": "openclassrooms.com",
+            "title": "Formation AI Engineer - OpenClassrooms",
+            "main_angle": "Présentation officielle du parcours 'AI Engineer', axée sur le déploiement en production et la maîtrise d'un large éventail de technologies.",
+            "strength": "Page très détaillée sur les technologies abordées (PySpark, BentoML, etc.), les missions du métier et les prérequis. Cible un public déjà technique.",
+            "weakness": "Contenu promotionnel, sans avis externes. La distinction avec le parcours 'Développeur IA' n'est pas évidente pour un non-initié."
+          },
+          {
+            "rank": 6,
+            "domain": "diplomeo.com",
+            "title": "Titre certifié niveau 7 ingénieur intelligence artificielle (financement par la région) à Openclassrooms Paris - Diplomeo",
+            "main_angle": "Fiche de présentation de la formation 'Ingénieur IA' sur un annuaire, agrémentée d'avis d'étudiants.",
+            "strength": "Combine une description officielle avec des avis d'étudiants vérifiés, offrant un point de vue plus équilibré. Les avis, même mitigés, sont un vrai plus.",
+            "weakness": "La présentation de la formation est basique. Le design de la page est chargé et la lecture des avis n'est pas optimale."
+          },
+          {
+            "rank": 7,
+            "domain": "openclassrooms.com",
+            "title": "Formation AI Project Management - OpenClassrooms",
+            "main_angle": "Présentation d'une formation courte et non-diplômante pour la gestion de projet IA, destinée à un public moins technique.",
+            "strength": "Cible une intention de recherche connexe (management de l'IA) et montre la diversité de l'offre d'OpenClassrooms.",
+            "weakness": "Ne répond pas à l'intention principale de l'utilisateur qui cherche une formation métier complète en IA. La page est en anglais."
+          },
+          {
+            "rank": 8,
+            "domain": "appvizer.fr",
+            "title": "Alternatives à OpenClassrooms : Comparez les logiciels similaires - Appvizer",
+            "main_angle": "Comparateur de plateformes e-learning, positionnant OpenClassrooms face à des concurrents comme 360Learning ou Docebo.",
+            "strength": "Répond à une intention de recherche secondaire ('alternatives à'). Propose une vue d'ensemble du marché des LMS.",
+            "weakness": "Comparaison très générique, axée sur les plateformes (LMS) plutôt que sur les formations spécifiques en IA. Pas pertinent pour l'utilisateur."
+          },
+          {
+            "rank": 9,
+            "domain": "openclassrooms.com",
+            "title": "Tirez un maximum de ce cours - OpenClassrooms",
+            "main_angle": "Page d'introduction à un cours gratuit sur l'IA générative, mettant l'accent sur la compréhension des enjeux et des limites.",
+            "strength": "Contenu d'initiation accessible, aborde les questions éthiques et les biais, ce qui est un bon point d'entrée pour les débutants.",
+            "weakness": "Ne correspond pas à la recherche d'une formation diplômante et professionnalisante. C'est un produit d'appel."
+          },
+          {
+            "rank": 10,
+            "domain": "jedha.co",
+            "title": "Avis sur OpenClassroom : quelles différences avec Jedha ?",
+            "main_angle": "Article comparatif qui oppose directement les formations d'OpenClassrooms à celles de Jedha (un concurrent direct) sur plusieurs critères (prix, accompagnement, spécialisation).",
+            "strength": "Comparaison directe et détaillée, aborde des points clés pour un futur étudiant (accompagnement, type de formation). Très pertinent pour quelqu'un en phase de décision.",
+            "weakness": "Contenu partial car rédigé par un concurrent. L'objectif est de mettre en avant les points forts de Jedha."
+          }
+        ],
+        "common_angles": [
+          "Présentation des parcours diplômants (Développeur IA, Ingénieur IA, AI Engineer).",
+          "Mise en avant de la pédagogie OpenClassrooms : 100% en ligne, flexibilité, projets concrets, mentorat individuel.",
+          "Détail des débouchés métiers et des compétences visées.",
+          "Informations sur les prérequis et les modalités de financement (alternance, CPF, etc.)."
+        ],
+        "weak_angles": [
+          "Analyse critique et impartiale des formations : la plupart des contenus sont soit promotionnels (OpenClassrooms) soit partiaux (concurrents, avis uniques).",
+          "Retour sur investissement (ROI) : aucun article n'analyse le salaire post-formation, la facilité à trouver un emploi, ou le coût réel par rapport à la valeur perçue.",
+          "Positionnement par rapport au marché : manque une analyse complète des alternatives (Jedha, DataScientest, Le Wagon, universités) avec leurs avantages et inconvénients spécifiques à l'IA.",
+          "Angle 'reconversion' : les contenus ne s'adressent pas spécifiquement aux personnes en reconversion avec leurs doutes, leurs contraintes et leurs besoins (ex: comment valoriser une expérience passée non-tech ?)."
+        ],
+        "winning_moves": [
+          "Créer le guide ultime et impartial 'Formation IA OpenClassrooms : L'analyse Zéro Bullshit pour 2026'.",
+          "Intégrer une analyse comparative détaillée face aux 3 principaux concurrents (Jedha, DataScientest, Le Wagon) sur des critères précis : coût total réel, durée, niveau technique requis, qualité de l'accompagnement, type de certification (RNCP), et spécialisations.",
+          "Compiler et synthétiser les avis authentiques (Reddit, Diplomeo, forums) pour offrir une vue équilibrée, en citant les points forts et les critiques récurrentes (qualité variable des mentors, ressources parfois datées).",
+          "Adopter un angle spécifique 'reconversion professionnelle' : interviewer des alumni ayant changé de carrière, donner des conseils pour financer sa formation quand on est salarié, et expliquer comment valoriser ce diplôme sur le marché du travail post-IA.",
+          "Analyser en profondeur le contenu des projets proposés par OpenClassrooms, en évaluant leur pertinence actuelle et en discutant des aspects éthiques, un point soulevé comme étant faible par les anciens élèves."
+        ],
+        "must_include_sections": [
+          "Formation IA OpenClassrooms : Vraie opportunité ou miroir aux alouettes ?",
+          "Les différents parcours IA d'OpenClassrooms décryptés (Développeur, Ingénieur, AI Engineer)",
+          "Analyse critique de la pédagogie OpenClassrooms : points forts et points faibles réels",
+          "Combien coûte réellement une formation IA chez OpenClassrooms ? (Frais cachés, financement...)",
+          "OpenClassrooms vs. la concurrence (Jedha, DataScientest, Le Wagon) : Lequel choisir pour une reconversion en IA ?",
+          "Avis d'anciens élèves : ce qu'ils ne vous disent pas sur la page de vente"
+        ],
+        "citable_facts_to_verify": [
+          "En France, sur les 5 dernières années, c'est près de 7 500 spécialistes IA, Machine Learning et Data Science qui étaient recherchés. (Source: EY pour l'OPIIEC citée par OpenClassrooms).",
+          "La formation Ingénieur IA est un diplôme de niveau 7 (Bac+5) enregistré au RNCP.",
+          "Le coût de la formation est de 650€ par mois (information issue d'un post Reddit datant de 2024, à vérifier pour 2026).",
+          "La formation 'Développeur IA' est un diplôme de niveau 6 (Bac+3/4)."
+        ],
+        "entities_to_mention": [
+          "OpenClassrooms",
+          "Microsoft Azure",
+          "Jedha",
+          "DataScientest",
+          "Le Wagon",
+          "France Travail",
+          "CPF (Compte Personnel de Formation)",
+          "RNCP (Répertoire National des Certifications Professionnelles)"
+        ],
+        "target_word_count": 3000,
+        "intent_type": "informational",
+        "featured_snippet_opportunity": "Tableau comparatif. Viser une formulation comme 'Tableau comparatif des formations IA OpenClassrooms' avec les colonnes : Nom du parcours, Niveau de diplôme, Durée indicative, Technologies clés, Idéal pour (profil type), Coût.",
+        "serp_features_detected": [
+          "AI Overview",
+          "People Also Ask",
+          "Video"
+        ],
+        "grounding_sources": []
+      }
+    },
+    "formation-ia-sans-bac": {
+      "keyword": "formation intelligence artificielle sans bac",
+      "generated_at": "2026-04-26T01:29:04",
+      "brief": {
+        "top10": [
+          {
+            "rank": 1,
+            "domain": "cnfdi.com",
+            "title": "Les métiers de l'Intelligence Artificielle accessibles sans diplôme technique - Cnfdi",
+            "main_angle": "Lister les métiers de l'IA non-techniques et les compétences douces requises, en rassurant sur l'accessibilité.",
+            "strength": "Très bien structuré avec des listes claires (métiers, compétences, secteurs), des chiffres clés et une FAQ.",
+            "weakness": "Contenu assez générique, promotion de leurs propres formations en filigrane, manque de témoignages concrets."
+          },
+          {
+            "rank": 2,
+            "domain": "cyber-place.com",
+            "title": "Formation IA sans diplôme - Apprendre l'Intelligence Artificielle sans prérequis - Cyber place",
+            "main_angle": "Démystifier l'accès à l'IA grâce aux outils no-code et se positionner comme la solution de formation pratique pour les profils business.",
+            "strength": "Angle très orienté 'business' et 'non-technique', mentionne des outils concrets (ChatGPT, Midjourney), s'adresse directement aux freelances et entrepreneurs.",
+            "weakness": "Page très commerciale et orientée conversion, manque de profondeur sur les parcours de formation alternatifs (hors leur propre offre)."
+          },
+          {
+            "rank": 3,
+            "domain": "skillco.fr",
+            "title": "Les métiers IA accessibles sans diplôme d'ingénieur - SkillCo",
+            "main_angle": "Présenter les opportunités de carrière en IA pour les non-ingénieurs, en listant des métiers et des plateformes de formation.",
+            "strength": "Met en avant des métiers concrets comme data analyst ou développeur, mentionne des plateformes reconnues (Coursera, Udacity).",
+            "weakness": "Contenu assez court, les métiers listés (data scientist, développeur) sont souvent perçus comme techniques, ce qui peut contredire le titre."
+          },
+          {
+            "rank": 4,
+            "domain": "free-work.com",
+            "title": "Comment se former aux métiers de l'IA ? | Free-Work",
+            "main_angle": "Mettre en avant des formations certifiantes spécifiques, notamment celles de Microsoft en partenariat avec Simplon, comme voie d'accès sans diplôme.",
+            "strength": "Cite un exemple très concret et reconnu (Ecole IA Microsoft by Simplon) qui est accessible aux demandeurs d'emploi sans diplôme requis.",
+            "weakness": "Article datant de 2021, potentiellement obsolète sur un sujet qui évolue très vite. Contenu très court."
+          },
+          {
+            "rank": 5,
+            "domain": "hellocharly.com",
+            "title": "Peut-on se former gratuitement à l'intelligence artificielle ? - Hello Charly",
+            "main_angle": "Répondre à la question de la gratuité en présentant des plateformes comme IBM SkillsBuild comme une solution accessible à tous et certifiante.",
+            "strength": "Angle sur la gratuité très attractif. Met en avant une plateforme concrète avec des bénéfices clairs (badges numériques, pour CV/LinkedIn).",
+            "weakness": "Très centré sur une seule solution (IBM), manque de panorama des autres options gratuites."
+          },
+          {
+            "rank": 6,
+            "domain": "ironhack.com",
+            "title": "Comment se former à l'intelligence artificielle en partant de zéro - Ironhack",
+            "main_angle": "Guider le débutant absolu sur les différentes manières de se former (autonomie, cadre structuré) en insistant sur le fait que l'IA n'est plus réservée aux profils techniques.",
+            "strength": "Très bon travail de réassurance pour le débutant, déconstruit les barrières mentales (pas besoin de coder au début). FAQ bien ciblée.",
+            "weakness": "Le contenu reste assez généraliste et sert de porte d'entrée vers leurs propres formations (bootcamps)."
+          },
+          {
+            "rank": 7,
+            "domain": "ai2-school.com",
+            "title": "Formation intelligence artificielle sans Baccalauréat - AI2",
+            "main_angle": "Présenter la Validation des Acquis de l'Expérience (VAE) comme la voie royale pour intégrer leurs formations (Bachelor/Mastère) sans le bac.",
+            "strength": "Angle très spécifique et actionnable pour une partie de la cible (ceux avec de l'expérience pro). Propose une solution structurée (VAE).",
+            "weakness": "Très auto-promotionnel, la VAE est une démarche administrative complexe qui n'est pas adaptée à tous les profils sans bac."
+          },
+          {
+            "rank": 8,
+            "domain": "blogdumoderateur.com",
+            "title": "IA : 10 formations gratuites pour développer ses compétences - BDM",
+            "main_angle": "Fournir une liste de formations gratuites offertes par les géants de la tech (Google, Microsoft, Anthropic, Hugging Face) pour monter en compétence.",
+            "strength": "Liste riche et crédible avec des noms d'entreprises très connus. Propose des options variées (généraliste, code, open-source).",
+            "weakness": "Ne cible pas spécifiquement le 'sans bac', mais plutôt la gratuité. Peut être intimidant pour un vrai débutant."
+          },
+          {
+            "rank": 9,
+            "domain": "excellence-vae.fr",
+            "title": "Devenir expert en intelligence artificielle : parcours et opportunités - Excellence VAE",
+            "main_angle": "Positionner la VAE comme une alternative au parcours académique traditionnel (Bac+5) pour faire reconnaître son expérience et obtenir un diplôme en IA.",
+            "strength": "Similaire à AI2 School, l'angle VAE est un différenciant fort. Le site est spécialisé dans cette démarche.",
+            "weakness": "Contredit l'intention 'sans bac' en affirmant que le parcours classique nécessite un bac scientifique et un bac+5. Très orienté VAE."
+          },
+          {
+            "rank": 10,
+            "domain": "jedha.co",
+            "title": "Les 10 meilleures formations en IA pour débutant en 2026 - Jedha",
+            "main_angle": "Lister les meilleures formations pour débutants, en affirmant qu'un emploi est possible sans diplôme préalable à condition de suivre un bootcamp professionnalisant.",
+            "strength": "Format liste ('Top 10') efficace. Répond directement à la question 'Peut-on obtenir un emploi dans l'IA sans diplôme ?'.",
+            "weakness": "Liste de leurs propres formations ou de formations partenaires. L'angle 'sans bac' est traité rapidement dans une FAQ."
+          }
+        ],
+        "common_angles": [
+          "Il n'est pas nécessaire d'avoir un diplôme technique ou d'ingénieur pour travailler dans l'IA.",
+          "Il existe de nombreuses formations en ligne, gratuites ou payantes, pour les débutants.",
+          "Les compétences non-techniques (éthique, communication, gestion de projet) sont de plus en plus recherchées.",
+          "Lister des métiers accessibles (Prompt Engineer, Chef de projet IA, Consultant IA, etc.)."
+        ],
+        "weak_angles": [
+          "Le parcours concret et étape par étape pour une personne sans bac (ex: chômeur de 40 ans).",
+          "Témoignages et études de cas réels de personnes reconverties dans l'IA sans diplôme initial.",
+          "La différence entre les formations qui donnent des compétences 'utilisateurs d'IA' et celles qui forment à des 'métiers de l'IA'.",
+          "Analyse critique des débouchés réels et des salaires pour les postes accessibles sans bac."
+        ],
+        "winning_moves": [
+          "Créer un guide ultra-concret 'Reconversion IA sans le Bac : Le Plan d'Action Étape par Étape en 6 mois', avec un calendrier type.",
+          "Intégrer des interviews et des témoignages vidéo/écrits de 3 profils types (ex: ancien artisan, ex-employée de bureau) ayant réussi leur transition.",
+          "Segmenter clairement l'article en deux parties : 1/ 'Devenir un utilisateur avancé de l'IA dans son métier actuel' (compétences) et 2/ 'Viser un nouveau métier dans l'IA' (reconversion).",
+          "Fournir une analyse sourcée et réaliste des salaires et des types de contrats (freelance vs CDI) pour les 5 métiers les plus accessibles sans bac, en se basant sur des données récentes.",
+          "Créer une section 'Boîte à outils du débutant' avec une sélection commentée de 5 ressources gratuites (1 cours, 1 newsletter, 1 chaîne Youtube, etc.) pour démarrer immédiatement, sans bullshit."
+        ],
+        "must_include_sections": [
+          "Mythe vs Réalité : Faut-il vraiment savoir coder pour travailler dans l'IA en 2026 ?",
+          "Les 3 voies possibles pour se former à l'IA sans le baccalauréat",
+          "Top 7 des métiers de l'IA qui ne requièrent pas de diplôme (et les salaires réalistes)",
+          "Plan d'action sur 6 mois : Votre reconversion dans l'IA, semaine par semaine",
+          "Financer sa formation IA : Les aides disponibles pour les salariés et demandeurs d'emploi",
+          "Paroles de reconvertis : Ils ont intégré le secteur de l'IA sans le bac"
+        ],
+        "citable_facts_to_verify": [
+          "Les offres d'emploi liées à l'IA générative ont augmenté de 274% entre 2019 et 2024 (source citée : PwC Jobs AI Barometer 2025).",
+          "Le marché français de l'IA représentera 25 milliards d'euros d'ici fin 2025.",
+          "Création de plus de 15 000 emplois non techniques dans le secteur IA en France d'ici 2025.",
+          "Le métier de 'prompt engineer' peut payer jusqu'à 300 000 euros par an."
+        ],
+        "entities_to_mention": [
+          "Simplon",
+          "Microsoft (pour son école IA)",
+          "IBM SkillsBuild",
+          "Google AI Essentials",
+          "Coursera",
+          "OpenClassrooms",
+          "Hugging Face",
+          "France Compétences",
+          "VAE (Validation des Acquis de l'Expérience)"
+        ],
+        "target_word_count": 3000,
+        "intent_type": "informational",
+        "featured_snippet_opportunity": "Liste à puces. Formulation cible : 'Quels métiers de l'IA sont accessibles sans bac ? 1. Prompt Engineer 2. Chef de Projet IA 3. Spécialiste en éthique de l'IA 4. Formateur IA 5. Consultant en stratégie IA. Ces postes valorisent des compétences pratiques et humaines plutôt qu'un diplôme académique.'",
+        "serp_features_detected": [
+          "AI Overview",
+          "People Also Ask",
+          "Video",
+          "Related Searches"
+        ],
+        "grounding_sources": []
+      }
+    },
+    "formation-ia-quiz-quel-niveau": {
+      "keyword": "quiz niveau intelligence artificielle",
+      "generated_at": "2026-04-26T01:29:30",
+      "brief": {
+        "top10": [
+          {
+            "rank": 1,
+            "domain": "welovedevs.com",
+            "title": "Test technique Intelligence Artificielle - Les bases | QCM & Quiz - WeLoveDevs.com",
+            "main_angle": "QCM technique pour développeurs juniors visant à préparer des entretiens d'embauche.",
+            "strength": "Positionnement clair pour les développeurs, questions techniques précises (deep learning, neurones, etc.), comparaison des résultats à la moyenne.",
+            "weakness": "Très orienté 'code' et 'dev', pas adapté à un public non-technique en reconversion. Le classement n'est pas encore disponible."
+          },
+          {
+            "rank": 2,
+            "domain": "yesweprompt.com",
+            "title": "Test de compétences IA | Evaluez votre niveau en IA gratuitement - Yes We Prompt",
+            "main_angle": "Évaluation des compétences en IA générative pour les professionnels, avec 5 niveaux de maîtrise.",
+            "strength": "Segmentation claire des niveaux (de 'Débutant' à 'Expert IA'), demande le profil de l'utilisateur pour contextualiser, design moderne.",
+            "weakness": "Le quiz semble plus axé sur l'usage des outils que sur la compréhension fondamentale de l'IA."
+          },
+          {
+            "rank": 3,
+            "domain": "novster.ai",
+            "title": "Quiz IA - Évaluez votre niveau - Novster AI",
+            "main_angle": "Quiz très court (8 questions) pour évaluer sa maîtrise de l'IA dans un contexte business.",
+            "strength": "Simple et rapide, orienté usage professionnel et optimisation business.",
+            "weakness": "Beaucoup trop court pour une évaluation sérieuse, questions très basiques sur le degré de connaissance auto-déclaré."
+          },
+          {
+            "rank": 4,
+            "domain": "leticket.ai",
+            "title": "Évalue ton niveau en IA avec AIvaluator - Le Ticket",
+            "main_angle": "Outil d'évaluation du niveau en IA par rapport aux autres utilisateurs.",
+            "strength": "Positionnement communautaire ('par rapport au reste'), marque forte dans l'écosystème IA francophone.",
+            "weakness": "La page est une simple annonce de l'outil, pas le quiz lui-même. L'utilisateur doit cliquer pour y accéder."
+          },
+          {
+            "rank": 5,
+            "domain": "faabul.com",
+            "title": "QUIZ SUR L'INTELLIGENCE ARTIFICIELLE - Faabul Live Quizzes",
+            "main_angle": "Quiz de culture générale sur l'IA (histoire, concepts de base, défis éthiques).",
+            "strength": "Couvre des aspects variés (histoire, éthique, culture pop comme Elon Musk), format interactif de quiz en direct.",
+            "weakness": "Angle très généraliste, pas spécifiquement axé sur les compétences professionnelles. L'interface est celle d'un outil de création de quiz."
+          },
+          {
+            "rank": 6,
+            "domain": "exploratv.ca",
+            "title": "L'intelligence artificielle en 10 questions - Quiz - ICI Explora",
+            "main_angle": "Quiz d'actualité et de culture générale sur l'IA (OpenAI, lois d'Asimov, test de Turing).",
+            "strength": "Questions ancrées dans l'actualité récente et les grands concepts historiques de l'IA.",
+            "weakness": "Contenu assez léger (10 questions), orienté média grand public canadien (Radio-Canada)."
+          },
+          {
+            "rank": 7,
+            "domain": "portfolio-and-co.com",
+            "title": "Testez vos connaissances en intelligence artificielle - Portfolio & Co",
+            "main_angle": "Quiz de 20 questions pour tester ses connaissances générales sur l'IA (chatbot, machine learning, domotique).",
+            "strength": "Le nombre de questions (20) est correct, les thèmes sont variés (supervisé, chatbot, AR).",
+            "weakness": "Design très daté, expérience utilisateur faible, ressemble à un simple article de blog avec des questions."
+          },
+          {
+            "rank": 8,
+            "domain": "quizz.biz",
+            "title": "Quiz Intelligence artificielle - Applications - Quizz.biz",
+            "main_angle": "Quiz simple sur les concepts de base et les applications de l'IA (ChatGPT, Siri, Machine Learning).",
+            "strength": "Très accessible pour les grands débutants.",
+            "weakness": "Plateforme de quiz générique, contenu très superficiel, beaucoup de publicités."
+          },
+          {
+            "rank": 9,
+            "domain": "vie-publique.fr",
+            "title": "Quiz. L'intelligence artificielle | vie-publique.fr",
+            "main_angle": "Quiz institutionnel pour tester ses connaissances sur l'IA d'un point de vue sociétal et historique.",
+            "strength": "Source officielle et crédible (gouvernement français), angle sérieux.",
+            "weakness": "Contenu assez court (10 questions) et académique, pas orienté compétences professionnelles."
+          },
+          {
+            "rank": 10,
+            "domain": "forms.office.com",
+            "title": "Quiz sur les connaissances des outils d'intelligence artificielle",
+            "main_angle": "Quiz basique réalisé sur Microsoft Forms pour évaluer la connaissance des outils IA (Perplexity, Claude, Midjourney).",
+            "strength": "Focalisé sur les outils, ce qui est pratique et concret.",
+            "weakness": "Format très amateur (Microsoft Forms), aucune analyse de la SERP, aucune valeur éditoriale ajoutée."
+          }
+        ],
+        "common_angles": [
+          "Évaluation des connaissances générales (définition de l'IA, histoire, test de Turing).",
+          "Quiz sous forme de QCM (Questionnaire à Choix Multiples).",
+          "Focalisation sur les applications et outils connus (ChatGPT, Midjourney, assistants vocaux).",
+          "Angle ludique et rapide pour 'tester son niveau'."
+        ],
+        "weak_angles": [
+          "L'évaluation de compétences pratiques et professionnelles ('prompt engineering', analyse critique, automatisation).",
+          "La connexion entre le niveau de compétence en IA et l'impact sur des métiers spécifiques.",
+          "Le 'après-quiz' : pas de parcours personnalisé ou de ressources pour progresser selon les résultats.",
+          "L'explication pédagogique des bonnes et mauvaises réponses pour transformer le quiz en outil d'apprentissage."
+        ],
+        "winning_moves": [
+          "Créer un quiz en deux parties : 1) Culture générale IA (concepts clés) 2) Compétences pratiques (analyse de prompt, choix du bon outil pour une tâche, détection de biais).",
+          "Segmenter les résultats non pas en 'niveaux' génériques mais en 'profils' liés au monde du travail (ex: 'L'Explorateur Curieux', 'L'Optimisateur de Process', 'Le Stratège IA').",
+          "Fournir une page de résultats ultra-détaillée pour chaque profil, avec les points forts, les axes d'amélioration, et un plan d'action personnalisé (articles à lire, formations à suivre).",
+          "Intégrer des questions situationnelles ('Mises en situation professionnelles') pour évaluer le raisonnement et pas seulement la connaissance factuelle.",
+          "Concevoir le quiz comme un véritable outil de diagnostic qui mène vers un écosystème de contenus (articles, guides, formations) pour accompagner la montée en compétences."
+        ],
+        "must_include_sections": [
+          "H2: Évaluez votre niveau en IA : Le test complet pour les professionnels",
+          "H2: Partie 1 : Maîtrisez-vous les concepts fondamentaux de l'IA ?",
+          "H2: Partie 2 : Savez-vous réellement utiliser l'IA dans votre métier ? (Mises en situation)",
+          "H2: Vos résultats : Quel est votre profil IA et comment progresser ?",
+          "H2: Au-delà du score : Les compétences IA qui feront la différence pour votre carrière",
+          "H2: FAQ : Questions fréquentes sur l'évaluation des compétences en Intelligence Artificielle"
+        ],
+        "citable_facts_to_verify": [
+          "Prédiction d'Elon Musk sur le moment où l'IA surpassera l'intelligence humaine (2025 selon un quiz).",
+          "Les trois lois de la robotique d'Isaac Asimov sont souvent citées comme référence culturelle.",
+          "Le pourcentage de professionnels par niveau de maîtrise de l'IA (ex: 'Expert IA - 1% des Pros' chez YesWePrompt)."
+        ],
+        "entities_to_mention": [
+          "OpenAI (ChatGPT, DALL-E)",
+          "Google (Gemini, LaMDA)",
+          "Midjourney",
+          "Claude (Anthropic)",
+          "Test de Turing",
+          "Yoshua Bengio"
+        ],
+        "target_word_count": 2500,
+        "intent_type": "informational",
+        "featured_snippet_opportunity": "Liste à puces. Formulation cible : 'Comment évaluer son niveau en intelligence artificielle ? 1. Testez vos connaissances fondamentales (définitions, histoire). 2. Évaluez votre maîtrise des outils IA (ChatGPT, Midjourney...). 3. Mettez-vous en situation professionnelle. 4. Analysez votre capacité à rédiger des prompts efficaces. 5. Mesurez votre esprit critique face aux résultats générés.'",
+        "serp_features_detected": [
+          "AI Overview",
+          "People Also Ask",
+          "Video"
+        ],
+        "grounding_sources": [
+          {
+            "title": "faabul.com",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFleBjaGujJbfwKML3Bd83uJKAvShFBb7lVxoqdJtNnXJG69RS9i5bYay6TNtfZ-8sk531JIbu0_J4V6EFfqj4jxiXmxCa653lGTBBe_6L4NJBiVFF3DYuCLH8CYDKSflrcrGmMn2RG31KiOnzJErFmNfPDCyCQ"
+          },
+          {
+            "title": "exploratv.ca",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeAm_RhEAf6vmGkvhcnht8Hy1Jd34MWUdzDFSnkHvKQff_kNkaHQXI9F4AOrvTHaEajAYSltyTm2Md3f--G1d7EhElwuQTeFZ0tcz5zMxuYnUPUlA_5mibjrBdD8OzcwT0i0fjeihRWoM_G9SSO2LTrkIiXQP3sBssAYbgXV41Jntkm6JtZ3_GTx_4cxrcOwixgQ=="
+          },
+          {
+            "title": "vie-publique.fr",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQET_0M0PFCV2Ugz_INEZLoDftBUqmWWuDY0sw5SgFU1gnb-SgRWoPJQWDohKlFYMSnldG8MdiEndlhj0m1XO3avTqf81rlr5xM0wSMgesPb-9Sh_pfjmPH_DtVNVewgeojcrgYxWMWeNHkjuoQ4WkWLBjNojr1wZv4B4II9W6qdFgg="
+          },
+          {
+            "title": "yes-we-prompt.fr",
+            "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt5fZb7e4rirxrxfyWjRcZJt6MSTLQbpQMi_KiRSlzbHbXNBP6URsanU00w8f1YEiVznJgF3kGBgmdk21u0uA_ckVfzeluHO3dXtkf5Me0SUQCHExmcTiPU0NKuPd2Sv4s2IFAlkn1"
+          }
+        ]
+      }
+    }
+  }
+}
