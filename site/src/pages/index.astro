@@ -10,6 +10,8 @@ import FAQ from "../components/FAQ.astro";
 import CTA from "../components/CTA.astro";
 import BlogCard from "../components/BlogCard.astro";
 import ActuDecrypte from "../components/ActuDecrypte.astro";
+import StoryRail from "../components/StoryRail.astro";
+import { homeFeaturedStories } from "../data/article_videos";
 import ScrambleText from "../components/ScrambleText.astro";
 import WaveText from "../components/WaveText.astro";
 import ExplodeText from "../components/ExplodeText.astro";
@@ -66,6 +68,9 @@ const recentPosts = (await getCollection("blog", ({ data }) => !data.draft))
 
   {/* 5. Actu Décrypte : news de la semaine */}
   <ActuDecrypte />
+
+  {/* 5.5 Story rail : vidéos vedettes attachées à des décryptages */}
+  <StoryRail stories={homeFeaturedStories()} tone="discrete" eyebrow="STORIES · LE FORMAT VIDÉO" title="À voir cette semaine" />
 
   {/* 6. Stats avec scramble */}
   <Stats />

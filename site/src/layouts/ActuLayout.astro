@@ -2,6 +2,8 @@
 import BaseLayout from "./BaseLayout.astro";
 import Breadcrumbs from "../components/Breadcrumbs.astro";
 import BrandHero from "../components/BrandHero.astro";
+import StoryRail from "../components/StoryRail.astro";
+import { storiesForArticle } from "../data/article_videos";
 import { siteConfig } from "../../site.config";
 import { fullUrl } from "../utils/config";
 import { jsonLdArticle, jsonLdBreadcrumbs } from "../utils/seo";
@@ -64,6 +66,7 @@ const {
 
 const articleUrl = fullUrl(`/actu/${slug}`);
 const dateStr = date.toISOString().split("T")[0];
+const stories = storiesForArticle(slug);
 
 const CATEGORY_LABELS: Record<string, string> = {
   menace: "Menace",
@@ -203,6 +206,11 @@ const jsonLd = [
           </footer>
         </div>
       </blockquote>
+    )}
+
+    {/* Video stories rail (rendu uniquement si l'article a des vidéos curées) */}
+    {stories.length > 0 && (
+      <StoryRail stories={stories} tone="prominent" />
     )}
 
     {/* Sources */}

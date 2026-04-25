@@ -1,0 +1,496 @@
+---
+import type { ArticleStory } from "../data/article_videos";
+
+interface Props {
+  story: ArticleStory;
+  isFirst?: boolean;
+}
+
+const { story, isFirst = false } = Astro.props;
+
+const accent = story.accent ?? "#e63946";
+const channelInitial = story.channelName.trim().charAt(0).toUpperCase();
+const showEnChip = story.audioLocale === "en";
+const enLabel = "Audio en anglais";
+
+const ariaLabel = `${story.channelName}, ${story.title}, ${story.duration}`;
+
+const thumbMax = `https://img.youtube.com/vi/${story.youtubeId}/maxresdefault.jpg`;
+const thumbHq = `https://img.youtube.com/vi/${story.youtubeId}/hqdefault.jpg`;
+---
+
+<button
+  type="button"
+  class:list={["story-card", { "story-card--first": isFirst }]}
+  data-story-card
+  data-story-id={story.id}
+  data-youtube-id={story.youtubeId}
+  data-article-slug={story.articleSlug}
+  style={`--accent: ${accent};`}
+  aria-label={ariaLabel}
+>
+  <span class="sc-frame" aria-hidden="true">
+    <span class="sc-halo"></span>
+    <span class="sc-anchor"></span>
+
+    <img
+      class="sc-thumb"
+      src={thumbMax}
+      data-fallback={thumbHq}
+      alt=""
+      loading="lazy"
+      decoding="async"
+      width="320"
+      height="568"
+    />
+
+    <span class="sc-vignette"></span>
+    <span class="sc-grain"></span>
+
+    <span class="sc-logo" title={story.channelName}>
+      <span class="sc-logo-text">{channelInitial}</span>
+    </span>
+
+    <span class="sc-play">
+      <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true">
+        <path d="M8 5.5v13l11,-6.5z" fill="currentColor"></path>
+      </svg>
+    </span>
+
+    <span class="sc-meta">
+      {showEnChip && (
+        <span class="sc-chip" title={enLabel}>EN</span>
+      )}
+      <span class="sc-duration">{story.duration}</span>
+    </span>
+
+    <span class="sc-title">{story.title}</span>
+
+    <span class="sc-corner sc-corner--tl"></span>
+    <span class="sc-corner sc-corner--br"></span>
+  </span>
+</button>
+
+<style>
+  .story-card {
+    aspect-ratio: 9 / 16;
+    --w: 140px;
+    --h: 250px;
+    --r: 14px;
+    width: var(--w);
+    height: var(--h);
+    flex: 0 0 auto;
+    padding: 0;
+    margin: 0;
+    background: transparent;
+    border: 0;
+    cursor: pointer;
+    position: relative;
+    perspective: 900px;
+    color: inherit;
+    font: inherit;
+    -webkit-tap-highlight-color: transparent;
+    transition: transform 280ms cubic-bezier(0.16, 1, 0.3, 1);
+    will-change: transform;
+  }
+
+  @media (min-width: 768px) {
+    .story-card {
+      --w: 180px;
+      --h: 320px;
+      --r: 16px;
+    }
+  }
+
+  .story-card:focus { outline: none; }
+
+  .sc-frame {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 100%;
+    border-radius: var(--r);
+    overflow: hidden;
+    background: #0e1320;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    box-shadow:
+      0 1px 0 rgba(255, 255, 255, 0.04) inset,
+      0 8px 24px rgba(15, 23, 42, 0.35);
+    transform-style: preserve-3d;
+    transition:
+      border-color 320ms cubic-bezier(0.16, 1, 0.3, 1),
+      box-shadow 320ms cubic-bezier(0.16, 1, 0.3, 1),
+      transform 320ms cubic-bezier(0.16, 1, 0.3, 1);
+    --rx: 0deg;
+    --ry: 0deg;
+    transform: rotateX(var(--rx)) rotateY(var(--ry));
+  }
+
+  .sc-halo {
+    position: absolute;
+    inset: -1px;
+    border-radius: inherit;
+    padding: 1px;
+    background: linear-gradient(
+      155deg,
+      color-mix(in oklab, var(--accent, #e63946) 70%, transparent) 0%,
+      color-mix(in oklab, var(--accent, #e63946) 55%, transparent) 50%,
+      color-mix(in oklab, var(--accent, #e63946) 30%, transparent) 100%
+    );
+    -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+    -webkit-mask-composite: xor;
+            mask-composite: exclude;
+    opacity: 0;
+    transition: opacity 320ms cubic-bezier(0.16, 1, 0.3, 1);
+    pointer-events: none;
+    z-index: 5;
+  }
+
+  .sc-anchor {
+    position: absolute;
+    inset: 0;
+    border-radius: inherit;
+    pointer-events: none;
+    z-index: 4;
+    opacity: 0;
+  }
+  .story-card--first .sc-anchor {
+    opacity: 1;
+    box-shadow: 0 0 0 0 color-mix(in oklab, var(--accent, #e63946) 50%, transparent);
+    animation: sc-pulse 2.6s cubic-bezier(0.16, 1, 0.3, 1) infinite;
+  }
+  @keyframes sc-pulse {
+    0% { box-shadow: 0 0 0 0 color-mix(in oklab, var(--accent, #e63946) 45%, transparent); }
+    70% { box-shadow: 0 0 0 14px color-mix(in oklab, var(--accent, #e63946) 0%, transparent); }
+    100% { box-shadow: 0 0 0 0 color-mix(in oklab, var(--accent, #e63946) 0%, transparent); }
+  }
+
+  .sc-thumb {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 1;
+    transition: transform 600ms cubic-bezier(0.16, 1, 0.3, 1), filter 320ms cubic-bezier(0.16, 1, 0.3, 1);
+    filter: saturate(0.94) contrast(1.02);
+    transform: scale(1.001);
+  }
+
+  .sc-vignette {
+    position: absolute;
+    inset: 0;
+    z-index: 2;
+    pointer-events: none;
+    background:
+      linear-gradient(180deg, rgba(14, 19, 32, 0.55) 0%, rgba(14, 19, 32, 0) 24%, rgba(14, 19, 32, 0) 48%, rgba(14, 19, 32, 0.78) 88%, rgba(14, 19, 32, 0.94) 100%);
+  }
+
+  .sc-grain {
+    position: absolute;
+    inset: 0;
+    z-index: 3;
+    pointer-events: none;
+    opacity: 0.08;
+    mix-blend-mode: overlay;
+    background-image: radial-gradient(rgba(255, 255, 255, 0.6) 0.5px, transparent 0.6px);
+    background-size: 3px 3px;
+  }
+
+  .sc-logo {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 28px;
+    height: 28px;
+    border-radius: 9px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: color-mix(in oklab, #0e1320 55%, transparent);
+    border: 1px solid rgba(255, 255, 255, 0.14);
+    backdrop-filter: blur(10px) saturate(1.2);
+    -webkit-backdrop-filter: blur(10px) saturate(1.2);
+    box-shadow:
+      0 1px 0 rgba(255, 255, 255, 0.08) inset,
+      0 4px 12px rgba(0, 0, 0, 0.35);
+    z-index: 6;
+    transform: translateZ(20px);
+  }
+  .sc-logo-text {
+    font-family: "JetBrains Mono", "Fira Code", Menlo, monospace;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    color: var(--accent, #e63946);
+    text-shadow: 0 0 12px color-mix(in oklab, var(--accent, #e63946) 40%, transparent);
+    line-height: 1;
+  }
+
+  .sc-play {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 52px;
+    height: 52px;
+    margin: -26px 0 0 -26px;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: color-mix(in oklab, #0e1320 70%, transparent);
+    border: 1px solid color-mix(in oklab, var(--accent, #e63946) 45%, transparent);
+    color: var(--accent, #e63946);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    box-shadow:
+      0 0 0 0 color-mix(in oklab, var(--accent, #e63946) 0%, transparent),
+      0 8px 28px rgba(0, 0, 0, 0.5);
+    z-index: 7;
+    transform: scale(0) translateZ(30px);
+    opacity: 0;
+    transition:
+      transform 360ms cubic-bezier(0.16, 1, 0.3, 1),
+      opacity 240ms cubic-bezier(0.16, 1, 0.3, 1),
+      box-shadow 360ms cubic-bezier(0.16, 1, 0.3, 1);
+    pointer-events: none;
+  }
+  .sc-play svg {
+    margin-left: 2px;
+  }
+
+  .sc-meta {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    z-index: 6;
+    transform: translateZ(20px);
+  }
+  .sc-duration {
+    font-family: "JetBrains Mono", "Fira Code", Menlo, monospace;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    color: rgba(244, 246, 251, 0.95);
+    padding: 3px 7px;
+    border-radius: 7px;
+    background: color-mix(in oklab, #0e1320 55%, transparent);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    backdrop-filter: blur(10px) saturate(1.2);
+    -webkit-backdrop-filter: blur(10px) saturate(1.2);
+    line-height: 1;
+    font-variant-numeric: tabular-nums;
+  }
+  .sc-chip {
+    font-family: "JetBrains Mono", "Fira Code", Menlo, monospace;
+    font-size: 9.5px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    color: #0e1320;
+    background: color-mix(in oklab, var(--accent, #e63946) 92%, white);
+    padding: 3px 6px;
+    border-radius: 6px;
+    line-height: 1;
+    box-shadow: 0 0 12px color-mix(in oklab, var(--accent, #e63946) 35%, transparent);
+  }
+
+  .sc-title {
+    position: absolute;
+    left: 12px;
+    right: 12px;
+    bottom: 36px;
+    z-index: 6;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    color: #f4f6fb;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 1.3;
+    letter-spacing: -0.005em;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+    transform: translateZ(15px);
+    text-align: left;
+    padding-right: 56px;
+  }
+  @media (min-width: 768px) {
+    .sc-title {
+      font-size: 14px;
+      bottom: 40px;
+      padding-right: 64px;
+    }
+  }
+
+  .sc-corner {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    z-index: 8;
+    pointer-events: none;
+    opacity: 0.45;
+    transition: opacity 320ms cubic-bezier(0.16, 1, 0.3, 1);
+  }
+  .sc-corner--tl {
+    top: 6px;
+    right: 8px;
+    border-top: 1px solid color-mix(in oklab, var(--accent, #e63946) 70%, transparent);
+    border-right: 1px solid color-mix(in oklab, var(--accent, #e63946) 70%, transparent);
+    border-radius: 0 4px 0 0;
+  }
+  .sc-corner--br {
+    bottom: 6px;
+    left: 8px;
+    border-bottom: 1px solid color-mix(in oklab, var(--accent, #e63946) 70%, transparent);
+    border-left: 1px solid color-mix(in oklab, var(--accent, #e63946) 70%, transparent);
+    border-radius: 0 0 0 4px;
+  }
+
+  .story-card:hover .sc-frame,
+  .story-card:focus-visible .sc-frame {
+    border-color: color-mix(in oklab, var(--accent, #e63946) 35%, rgba(255, 255, 255, 0.08));
+    box-shadow:
+      0 1px 0 rgba(255, 255, 255, 0.06) inset,
+      0 14px 36px rgba(0, 0, 0, 0.55),
+      0 0 32px color-mix(in oklab, var(--accent, #e63946) 22%, transparent);
+  }
+  .story-card:hover .sc-halo,
+  .story-card:focus-visible .sc-halo {
+    opacity: 1;
+  }
+  .story-card:hover .sc-thumb,
+  .story-card:focus-visible .sc-thumb {
+    transform: scale(1.04);
+    filter: saturate(1.05) contrast(1.04);
+  }
+  .story-card:hover .sc-play,
+  .story-card:focus-visible .sc-play {
+    transform: scale(1) translateZ(30px);
+    opacity: 1;
+    box-shadow:
+      0 0 0 6px color-mix(in oklab, var(--accent, #e63946) 12%, transparent),
+      0 12px 32px rgba(0, 0, 0, 0.55);
+  }
+  .story-card:hover .sc-corner,
+  .story-card:focus-visible .sc-corner {
+    opacity: 0.95;
+  }
+
+  .story-card:active {
+    transform: scale(0.985);
+  }
+
+  .story-card:focus-visible {
+    outline: 2px solid color-mix(in oklab, var(--accent, #e63946) 65%, transparent);
+    outline-offset: 4px;
+    border-radius: calc(var(--r) + 2px);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .story-card,
+    .sc-frame,
+    .sc-thumb,
+    .sc-play,
+    .sc-anchor {
+      transition-duration: 1ms !important;
+      animation: none !important;
+    }
+    .sc-frame {
+      transform: none !important;
+    }
+    .story-card:hover .sc-thumb,
+    .story-card:focus-visible .sc-thumb {
+      transform: none;
+    }
+    .story-card:hover .sc-play,
+    .story-card:focus-visible .sc-play {
+      transform: scale(1);
+    }
+    .story-card:active {
+      transform: none;
+    }
+  }
+
+  @media (hover: none) or (pointer: coarse) {
+    .sc-frame {
+      transform: none !important;
+    }
+  }
+</style>
+
+<script>
+  type CardEl = HTMLButtonElement & { __scBound?: boolean };
+  const MAX_TILT = 4;
+  const prefersReduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const finePointer = window.matchMedia("(hover: hover) and (pointer: fine)").matches;
+
+  function bind(card: CardEl) {
+    if (card.__scBound) return;
+    card.__scBound = true;
+
+    const img = card.querySelector<HTMLImageElement>(".sc-thumb");
+    if (img) {
+      img.addEventListener("error", () => {
+        const fb = img.dataset.fallback;
+        if (fb && img.src !== fb) img.src = fb;
+      }, { once: true });
+    }
+
+    const tiltEnabled = !prefersReduced && finePointer;
+    const frame = tiltEnabled ? card.querySelector<HTMLElement>(".sc-frame") : null;
+
+    let raf = 0;
+    let targetRX = 0;
+    let targetRY = 0;
+    let curRX = 0;
+    let curRY = 0;
+
+    const animate = () => {
+      if (!frame) return;
+      curRX += (targetRX - curRX) * 0.18;
+      curRY += (targetRY - curRY) * 0.18;
+      frame.style.setProperty("--rx", curRX.toFixed(2) + "deg");
+      frame.style.setProperty("--ry", curRY.toFixed(2) + "deg");
+      if (Math.abs(targetRX - curRX) > 0.05 || Math.abs(targetRY - curRY) > 0.05) {
+        raf = requestAnimationFrame(animate);
+      } else {
+        raf = 0;
+      }
+    };
+
+    const reset = () => {
+      targetRX = 0;
+      targetRY = 0;
+      if (frame && !raf) raf = requestAnimationFrame(animate);
+    };
+
+    card.addEventListener("click", () => {
+      reset();
+      const detail = {
+        id: card.dataset.storyId,
+        youtubeId: card.dataset.youtubeId,
+        articleSlug: card.dataset.articleSlug,
+      };
+      window.dispatchEvent(new CustomEvent("openStoryModal", { detail }));
+    });
+
+    if (!frame) return;
+
+    card.addEventListener("pointermove", (e) => {
+      const r = card.getBoundingClientRect();
+      const px = (e.clientX - r.left) / r.width;
+      const py = (e.clientY - r.top) / r.height;
+      targetRY = (px - 0.5) * 2 * MAX_TILT;
+      targetRX = (0.5 - py) * 2 * MAX_TILT;
+      if (!raf) raf = requestAnimationFrame(animate);
+    });
+
+    card.addEventListener("pointerleave", reset);
+    card.addEventListener("blur", reset);
+  }
+
+  document.querySelectorAll<CardEl>("[data-story-card]").forEach(bind);
+</script>

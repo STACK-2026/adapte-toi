@@ -1,0 +1,124 @@
+---
+import type { ArticleStory } from "../data/article_videos";
+import StoryCard from "./StoryCard.astro";
+
+interface Props {
+  stories: ArticleStory[];
+  /** "discrete" pour rail home, "prominent" pour fin d'article */
+  tone?: "discrete" | "prominent";
+  /** Override du H2 (par défaut "Comprendre en vidéo") */
+  title?: string;
+  /** Override de l'eyebrow (par défaut "STORIES · DECRYPTAGE") */
+  eyebrow?: string;
+}
+
+const {
+  stories,
+  tone = "discrete",
+  title = "Comprendre en vidéo",
+  eyebrow = "STORIES · DECRYPTAGE",
+} = Astro.props;
+---
+
+{stories.length > 0 && (
+  <section
+    class:list={["story-rail", `story-rail--${tone}`]}
+    aria-label={title}
+  >
+    <div class="sr-header">
+      <p class="sr-eyebrow">{eyebrow}</p>
+      {tone === "prominent" && (
+        <h2 class="sr-title">{title}</h2>
+      )}
+    </div>
+
+    <div class="sr-track-wrap">
+      <div class="sr-track" role="list">
+        {stories.map((story, idx) => (
+          <div class="sr-item" role="listitem">
+            <StoryCard story={story} isFirst={idx === 0} />
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+)}
+
+<style>
+  .story-rail {
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .story-rail--discrete { padding: 48px 0; }
+  .story-rail--prominent { padding: 64px 0; }
+
+  .sr-header {
+    max-width: 1200px;
+    margin: 0 auto 20px;
+    padding: 0 16px;
+  }
+  .sr-eyebrow {
+    font-family: "JetBrains Mono", "Fira Code", Menlo, monospace;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    opacity: 0.6;
+    color: var(--color-secondary, #1d3557);
+    margin: 0;
+  }
+  .story-rail--prominent .sr-title {
+    font-family: var(--font-display, "Space Grotesk", system-ui, sans-serif);
+    font-size: clamp(24px, 3vw, 36px);
+    font-weight: 700;
+    color: var(--color-secondary, #1d3557);
+    letter-spacing: -0.01em;
+    line-height: 1.15;
+    margin: 8px 0 0;
+  }
+
+  .sr-track-wrap {
+    width: 100%;
+    max-width: 1248px;
+    margin: 0 auto;
+    mask-image: linear-gradient(
+      to right,
+      transparent 0,
+      #000 32px,
+      #000 calc(100% - 32px),
+      transparent 100%
+    );
+    -webkit-mask-image: linear-gradient(
+      to right,
+      transparent 0,
+      #000 32px,
+      #000 calc(100% - 32px),
+      transparent 100%
+    );
+  }
+
+  .sr-track {
+    display: flex;
+    gap: 16px;
+    padding: 8px 24px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    -webkit-overflow-scrolling: touch;
+  }
+  .sr-track::-webkit-scrollbar { display: none; width: 0; height: 0; }
+
+  .sr-item {
+    flex: 0 0 auto;
+    scroll-snap-align: start;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .sr-track-wrap {
+      mask-image: none;
+      -webkit-mask-image: none;
+    }
+  }
+</style>
