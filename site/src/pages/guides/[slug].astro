@@ -64,7 +64,7 @@ if (guide.data.comparator && guide.data.comparator.items.length > 0) {
   <article class="max-w-3xl mx-auto px-4 py-12">
     <Breadcrumbs items={breadcrumbs} />
 
-    <header class="mb-10">
+    <header class="mb-10 fade-up">
       {guide.data.category && (
         <span class="inline-block bg-primary/10 text-primary text-sm font-medium px-3 py-1 rounded-full mb-4">
           {guide.data.category}
@@ -93,7 +93,7 @@ if (guide.data.comparator && guide.data.comparator.items.length > 0) {
     </header>
 
     {guide.data.tldr && guide.data.tldr.length > 0 && (
-      <aside class="bg-secondary/5 border-l-4 border-secondary rounded-r-xl p-5 sm:p-6 mb-10">
+      <aside class="bg-secondary/5 border-l-4 border-secondary rounded-r-xl p-5 sm:p-6 mb-10 fade-up" style="transition-delay: 100ms">
         <div class="text-xs font-bold uppercase tracking-widest text-secondary mb-3">L'essentiel en 30 secondes</div>
         <ul class="space-y-2 text-sm sm:text-base text-gray-800 leading-relaxed">
           {guide.data.tldr.map((point) => (
@@ -106,12 +106,12 @@ if (guide.data.comparator && guide.data.comparator.items.length > 0) {
       </aside>
     )}
 
-    <div class="prose max-w-none">
+    <div class="prose max-w-none fade-up" style="transition-delay: 200ms">
       <Content />
     </div>
 
     <!-- Maillage interne -->
-    <div class="mt-12 p-5 sm:p-6 bg-gray-50 rounded-2xl">
+    <div class="mt-12 p-5 sm:p-6 bg-gray-50 rounded-2xl fade-up">
       <p class="font-bold text-base sm:text-lg mb-4">Pour aller plus loin</p>
       <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
         <a href="/metiers" class="flex items-center gap-3 p-3 bg-white rounded-xl border border-gray-100 hover:border-primary/30 transition-colors text-sm">
