@@ -95,7 +95,7 @@ L'IA ne supprimera pas des métiers entiers, mais elle va **réduire certaines a
 ### Cadre dans l'architecture, le juridique ou l'informatique
 **Risque** : **25 à 31% de tes tâches** pourraient être automatisées d'ici 5 ans. Sans formation, tu risques de devenir obsolète.
 
-**Actions** :
+**Actions**
 1. **Identifie les tâches répétitives** (rédaction de contrats, analyse de données, génération de maquettes) et utilise des outils comme [Claude](/outils/claude) ou [ChatGPT](/outils/chatgpt). Notre [guide pour automatiser ton travail](/guides/automatiser-travail-ia) t'explique comment.
 2. **Forme-toi aux compétences complémentaires** : si tu es architecte, utilise [Midjourney](/outils/midjourney) pour les rendus 3D, mais concentre-toi sur la **créativité** et la relation client. Voir notre fiche [architecte IA](/metiers/architecte-ia).
 3. **Négocie une formation** avec ton employeur. Utilise notre [guide pour négocier ton salaire avec des compétences IA](/guides/negocier-salaire-competences-ia).
@@ -105,7 +105,7 @@ L'IA ne supprimera pas des métiers entiers, mais elle va **réduire certaines a
 ### Indépendant ou freelance (traducteur, graphiste, consultant)
 **Risque** : **20 à 25% de ton marché** pourrait se transformer d'ici 2 ans, surtout pour les tâches standardisées.
 
-**Actions** :
+**Actions**
 1. **Spécialise-toi** dans un créneau où l'IA est moins performante (traduction littéraire, design sur mesure, conseil stratégique). Voir notre fiche [consultant IA](/metiers/consultant-ia).
 2. **Intègre l'IA dans ton workflow** : utilise [Perplexity](/outils/perplexity) pour les recherches ou [Canva IA](/outils/canva-ai) pour les maquettes. Mais **ne vends pas du 100% automatisé**.
 3. **Automatise les tâches administratives** avec [Zapier](/outils/zapier) ou [Make](/outils/make). Voir notre [guide freelance et IA](/guides/freelance-ia-guide).
@@ -115,7 +115,7 @@ L'IA ne supprimera pas des métiers entiers, mais elle va **réduire certaines a
 ### En reconversion ou début de carrière
 **Risque** : Si tu choisis un métier très exposé (comptabilité basique, rédaction web générique), tu risques une concurrence avec des outils gratuits d'ici 3 ans.
 
-**Actions** :
+**Actions**
 1. **Évite les métiers 100% automatisables** : privilégie la santé, l'éducation ou l'artisanat. Voir notre [guide des études à éviter](/guides/etudes-inutiles-que-faire).
 2. **Forme-toi gratuitement** à l'IA via [Google Ateliers Numériques](https://learndigital.withgoogle.com/ateliersnumériques/) ou [OpenClassrooms](https://openclassrooms.com/fr/). Voir notre [guide pour se former gratuitement](/guides/se-former-ia-gratuitement).
 3. **Cible les métiers hybrides** : [data analyst IA](/metiers/data-analyst-ia) ou [journaliste spécialisé en vérification de contenus IA](/metiers/journaliste-ia).
@@ -125,7 +125,7 @@ L'IA ne supprimera pas des métiers entiers, mais elle va **réduire certaines a
 ### Dirigeant d'entreprise ou RH
 **Risque** : Sans formation, tu risques un retard face à des concurrents plus agiles.
 
-**Actions** :
+**Actions**
 1. **Audit tes processus** pour identifier les tâches automatisables avec [Copilot](/outils/copilot).
 2. **Lance un plan de formation** pour tes équipes. Voir notre [guide pour financer une formation IA avec le CPF](/guides/financer-formation-ia-cpf).
 3. **Recrute des profils hybrides** : [développeur IA](/metiers/developpeur-ia) ou [chef de projet IA](/metiers/chef-de-projet-ia).

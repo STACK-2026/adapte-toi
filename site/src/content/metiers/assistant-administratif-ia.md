@@ -50,11 +50,11 @@ Le métier d'assistant administratif est l'un des 5 plus exposés à l'IA en 202
 
 ## Top 5 outils pour pivoter IA-ready
 
-1. **[ChatGPT Plus](/outils/chatgpt/)** — mails, CR, drafts pro
-2. **[Notion AI](/outils/notion-ai/)** — base interne structurée
-3. **[Otter.ai](/outils/otter-ai/)** — CR réunions auto
-4. **[Make](/outils/make/)** — automation no-code (game-changer)
-5. **[Claude](/outils/claude/)** — analyse documents longs
+1. **[ChatGPT Plus](/outils/chatgpt/)** : mails, CR, drafts pro
+2. **[Notion AI](/outils/notion-ai/)** : base interne structurée
+3. **[Otter.ai](/outils/otter-ai/)** : CR réunions auto
+4. **[Make](/outils/make/)** : automation no-code (game-changer)
+5. **[Claude](/outils/claude/)** : analyse documents longs
 
 ## Salaires 2026
 

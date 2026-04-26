@@ -48,7 +48,7 @@ Le métier de community manager a explosé en productivité avec l'IA en 2026. L
 
 ## 1. ChatGPT Plus : le copy + les GPTs custom
 
-**La fonctionnalité killer pour CM 2026** : les GPTs custom. Tu crées un GPT par marque avec :
+**La fonctionnalité killer pour CM 2026** : les GPTs custom. Tu crées un GPT par marque avec
 - Ton de voix (chaleureux/corporate/punchy)
 - Audience cible (persona détaillé)
 - Sujets autorisés et interdits
@@ -57,15 +57,14 @@ Le métier de community manager a explosé en productivité avec l'IA en 2026. L
 
 Tu prompt "génère 5 posts LinkedIn pour [marque X] sur [thème]" et tu obtiens du contenu sur-mesure direct.
 
-**Prompts clés** :
-
-**Calendrier éditorial 30 jours** :
+**Prompts clés**
+**Calendrier éditorial 30 jours**
 > "Crée un calendrier éditorial 30 jours pour [marque/secteur] sur LinkedIn et Instagram. 4 posts/semaine. Mix : info sectorielle, témoignage client, contenu éducatif, contenu fun. Format tableau : date, plateforme, format, accroche, copy court 200 caractères, idée visuel."
 
-**Variantes A/B sur 1 message** :
+**Variantes A/B sur 1 message**
 > "À partir de cette accroche [X], génère 5 variantes : (1) plus émotionnelle, (2) plus chiffrée, (3) plus question, (4) plus controversée, (5) plus storytelling. 200 caractères max chacune."
 
-**Réponses commentaires automatisées** :
+**Réponses commentaires automatisées**
 > "Voici 20 commentaires reçus sur ce post. Pour chaque, drafts une réponse engageante de 50 mots dans le ton [marque]. Identifie les commentaires à modérer (haineux, off-topic) et les commentaires VIP (clients influents)."
 
 **ROI** : un CM qui rédige 50 posts/semaine gagne 30 minutes par post = **17h/semaine** soit 70h/mois pour 20 dollars d'abonnement.
@@ -76,13 +75,13 @@ Voir notre [fiche complète ChatGPT](/outils/chatgpt/).
 
 ## 2. DALL-E (inclus dans ChatGPT Plus) pour les visuels
 
-**Cas d'usage CM** :
+**Cas d'usage CM**
 - Visuels carrés pour LinkedIn (1:1 ou 4:5)
 - Stories Instagram (9:16)
 - Banners blog
 - Illustrations posts (sans texte intégré, à mettre dans Canva après)
 
-**Prompt type** :
+**Prompt type**
 > "Génère 3 visuels carrés pour un post LinkedIn sur l'IA et l'emploi en France. Fond bleu nuit, illustration minimaliste, sans texte. Style éditorial pro."
 
 **Limite** : DALL-E peut bricoler avec le texte dans l'image. Pour les visuels avec texte propre, génère sans texte puis ajoute-le dans Canva.
@@ -95,7 +94,7 @@ Voir notre [comparateur Midjourney vs DALL-E vs Firefly](/guides/midjourney-vs-d
 
 ## 3. Canva AI pour les volumes et les templates
 
-**Pourquoi indispensable pour les CMs** : Canva AI Magic Studio est conçu pour les volumes :
+**Pourquoi indispensable pour les CMs** : Canva AI Magic Studio est conçu pour les volumes
 - **Magic Design** : génération de design à partir d'un prompt en 30 secondes
 - **Magic Resize** : adaptation cross-formats automatique (1 visuel → 10 formats)
 - **Magic Edit** : retouche par prompt
@@ -103,7 +102,7 @@ Voir notre [comparateur Midjourney vs DALL-E vs Firefly](/guides/midjourney-vs-d
 
 **Workflow type** : tu génères 1 visuel core dans Canva, Magic Resize te le décline en LinkedIn (carré, paysage, banner), Instagram (carré, story, reel cover), Twitter (header, post). 30 minutes pour 10 formats.
 
-**Prix** :
+**Prix**
 - **Canva Pro à 12 dollars/mois** : Magic Studio complet + 100M+ photos/templates pro
 - **Canva Teams à 30 dollars/mois pour 5** : Brand Hub partagé, parfait pour agences
 
@@ -113,14 +112,14 @@ Voir notre [fiche Canva AI](/outils/canva-ai/).
 
 ## 4. Buffer AI pour le scheduling intelligent
 
-**Fonctions IA Buffer 2026** :
+**Fonctions IA Buffer 2026**
 - Suggestions de meilleur jour/heure de publication selon ta data
 - Génération de variantes par plateforme automatique (1 post → version LinkedIn, Instagram, Twitter)
 - Analyse engagement post-publication en langage naturel
 - Tracking ROI par campagne
 - Hashtag recommendations basées sur la performance
 
-**Prix** :
+**Prix**
 - Buffer Essentials 12 dollars/mois : 3 channels, 100 posts schedulés
 - Buffer Team 24 dollars/utilisateur : 5+ channels, équipes
 - Buffer Agency : sur devis
@@ -131,7 +130,7 @@ Voir notre [fiche Canva AI](/outils/canva-ai/).
 
 ## 5. Notion AI pour le calendrier éditorial structuré
 
-**Cas d'usage CM** :
+**Cas d'usage CM**
 - Base "Calendrier éditorial" en table avec 200+ posts
 - Templates par marque/format/plateforme
 - Bibliothèque d'inspirations (screenshots, articles, references)

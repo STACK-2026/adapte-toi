@@ -48,7 +48,7 @@ Le journalisme est l'un des métiers les plus impactés par l'IA en 2026, et les
 
 ## L'IA et le métier de journaliste en 2026
 
-**Ce qui est automatisé à 70%** :
+**Ce qui est automatisé à 70%**
 - Vérification de faits (Perplexity avec sources cliquables)
 - Synthèse de longs documents (Claude 200+ pages en 5 min)
 - Transcription d'interviews (Otter)
@@ -58,7 +58,7 @@ Le journalisme est l'un des métiers les plus impactés par l'IA en 2026, et les
 - Veille thématique structurée (Notion AI)
 - Reformulation et correction stylistique
 
-**Ce qui reste 100% humain (et déontologie OBLIGATOIRE)** :
+**Ce qui reste 100% humain (et déontologie OBLIGATOIRE)**
 - Enquête et terrain
 - Protection des sources confidentielles
 - Décision éditoriale (qu'écrire, qu'omettre)
@@ -85,23 +85,23 @@ Le journalisme est l'un des métiers les plus impactés par l'IA en 2026, et les
 
 ## Top 5 outils IA à maîtriser
 
-### 1. [Perplexity Pro](/outils/perplexity/) — l'arme du journaliste 2026
+### 1. [Perplexity Pro](/outils/perplexity/) : l'arme du journaliste 2026
 
 Vérification d'un chiffre, brief rapide d'un sujet, citations vérifiées, vérification d'un événement récent. ROI : 1h gagnée par jour de vérification. **20 euros/mois.**
 
-### 2. [Claude Pro](/outils/claude/) — longs formats et enquêtes
+### 2. [Claude Pro](/outils/claude/) : longs formats et enquêtes
 
 Analyse de 50 documents anonymisés (chronologie, acteurs, contradictions), réécriture stylistique d'un long format, synthèse pour dossier multi-sources. **20 dollars/mois.**
 
-### 3. [ChatGPT Plus](/outils/chatgpt/) — brèves et brainstorm
+### 3. [ChatGPT Plus](/outils/chatgpt/) : brèves et brainstorm
 
 Brève à partir d'un communiqué, brainstorm 20 titres, traduction dépêche AFP/Reuters journalistique, réécriture niveau (vulgarisation/expert). **20 dollars/mois.**
 
-### 4. [Otter.ai](/outils/otter-ai/) — transcription auto
+### 4. [Otter.ai](/outils/otter-ai/) : transcription auto
 
 Interview de 1h transcrite et résumée en 5 min vs 3h manuelle. Identifie les interlocuteurs, extrait verbatims forts. **17 dollars/mois.**
 
-### 5. [Notion AI](/outils/notion-ai/) — base sources et veille
+### 5. [Notion AI](/outils/notion-ai/) : base sources et veille
 
 Base sources/contacts avec spécialités, veille thématique structurée, suivi sujets en cours, Q&A workspace. **22 dollars/mois.**
 

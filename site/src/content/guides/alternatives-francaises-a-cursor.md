@@ -54,18 +54,18 @@ L'IA code souveraine française a fait un bond en 2025-2026. Mistral a sorti Cod
 
 **Continue** : extension open source (VS Code, JetBrains) qui te donne une expérience type Cursor : autocomplétion, chat dans l'IDE, édition multi-fichiers. Gratuite, multi-providers (peut utiliser Codestral, Mistral Large, GPT-5, Claude, etc.).
 
-**Workflow type** :
+**Workflow type**
 1. Installe Continue (gratuit, marketplace VS Code)
 2. Configure le provider Mistral avec ton API key Codestral
 3. Tu codes : autocomplétion via Codestral, Cmd+I pour le chat, Cmd+L pour l'édition
 4. Pour les projets sensibles : auto-héberge Codestral en local via Ollama, Continue pointe vers ton instance locale, le code ne quitte jamais ta machine
 
-**Prix** :
+**Prix**
 - Continue : gratuit (open source)
 - Codestral via API Mistral : tier gratuit avec quotas généreux (1000 requêtes/jour), payant au-delà selon usage
 - Codestral auto-hébergé via Ollama : gratuit (juste les ressources de ta machine ou serveur)
 
-**Cas d'usage où Codestral brille** :
+**Cas d'usage où Codestral brille**
 - Code FR-only (ton équipe code en français, commentaires français)
 - Code propriétaire sensible (banque, santé, défense, code client confidentiel)
 - Auto-hébergement obligatoire (contraintes RGPD ou contractuelles)
@@ -94,7 +94,7 @@ Voir notre [comparateur Cursor vs GitHub Copilot](/guides/cursor-vs-github-copil
 
 **Pour qui** : devs qui veulent un assistant tout-en-un (chat + code + recherche web + autres tâches) plutôt qu'un IDE spécialisé.
 
-**Fonctions code** :
+**Fonctions code**
 - Canvas pour la rédaction et l'édition de code
 - Codestral intégré
 - Mode multimodal (analyse de captures d'écran de code)
@@ -112,7 +112,7 @@ Voir notre [fiche complète Claude](/outils/claude/) (équivalent international)
 
 **Pour qui** : administrations FR, ministères, collectivités, organismes publics qui développent en interne.
 
-**Particularités** :
+**Particularités**
 - Open source (code disponible sur GitHub)
 - Auto-hébergeable en France (data 100% sur le territoire)
 - Inclut des fonctions code basées sur Codestral
@@ -126,7 +126,7 @@ Voir notre [fiche complète Claude](/outils/claude/) (équivalent international)
 
 **Pourquoi c'est utile** : Hugging Chat te donne accès à plusieurs modèles open source (Codestral, Llama, Qwen, etc.) avec hébergement Europe possible.
 
-**Cas d'usage** :
+**Cas d'usage**
 - Tester plusieurs modèles avant choix produit
 - Recherche IA / NLP
 - Communauté OSS française
@@ -139,7 +139,7 @@ Voir notre [fiche complète Claude](/outils/claude/) (équivalent international)
 
 **Pourquoi c'est unique** : tu télécharges le modèle Codestral, tu le run en local sur ta machine ou ton serveur. Le code ne quitte jamais ton infra.
 
-**Setup** :
+**Setup**
 1. Installe **Ollama** (Mac, Linux, Windows). Gratuit.
 2. `ollama pull codestral`
 3. Configure **Continue** (ton extension IDE) pour pointer vers `localhost:11434`

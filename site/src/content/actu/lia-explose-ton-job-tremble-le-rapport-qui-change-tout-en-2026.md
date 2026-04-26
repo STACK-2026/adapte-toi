@@ -83,25 +83,25 @@ L'IA avance plus vite que les régulateurs, les travailleurs et les entreprises.
 ## Pour toi concrètement
 
 **Développeur junior (ou futur développeur).**
-L'IA change les règles du recrutement. Les entreprises veulent des profils capables de collaborer avec elle. Actions :
+L'IA change les règles du recrutement. Les entreprises veulent des profils capables de collaborer avec elle. Actions
 1. Maîtrise un outil comme [Copilot](/outils/copilot) ou [Cursor](/outils/cursor). Montre en entretien comment tu l'utilises.
 2. Spécialise-toi dans un domaine où l'IA est limitée (cybersécurité, embedded systems). Voir notre [guide](/guides/automatiser-travail-ia).
 3. Crée un projet prouvant ta capacité à superviser l'IA (bot Discord avec [Claude](/outils/claude), outil d'analyse de logs avec [ChatGPT](/outils/chatgpt)). Documente-le sur GitHub.
 
 **Métier automatisable (comptable, assistant, service client).**
-Ton poste n'est pas condamné, mais transformé. Actions :
+Ton poste n'est pas condamné, mais transformé. Actions
 1. Automatise les tâches répétitives avec [Zapier](/outils/zapier), [Notion AI](/outils/notion-ai) ou [Otter AI](/outils/otter-ai).
 2. Forme-toi à l'analyse de données (même basique). Commence par notre [guide gratuit](/guides/se-former-ia-gratuitement).
 3. Deviens le "référent IA" de ton équipe. Propose une formation interne sur les outils que tu maîtrises.
 
 **Reconversion (ou en réflexion).**
-L'IA crée des opportunités, mais il faut cibler les bons métiers. Actions :
+L'IA crée des opportunités, mais il faut cibler les bons métiers. Actions
 1. Fais un bilan de compétences avec notre [outil](/outils/claude).
 2. Vise les secteurs où l'IA peine (santé, éducation, artisanat). Exemple : [consultant IA](/metiers/consultant-ia).
 3. Finance ta formation avec ton CPF. Voir notre [guide](/guides/financer-formation-ia-cpf).
 
 **Manager ou chef d'entreprise.**
-Intègre l'IA intelligemment. Actions :
+Intègre l'IA intelligemment. Actions
 1. Audit tes processus pour identifier les tâches automatisables.
 2. Forme tes équipes aux outils comme [ChatGPT](/outils/chatgpt) ou [Midjourney](/outils/midjourney). Voir notre [guide](/guides/automatiser-travail-ia).
 3. Recrute des profils hybrides (tech + métier). Exemple : [chef de projet IA](/metiers/chef-de-projet-ia).

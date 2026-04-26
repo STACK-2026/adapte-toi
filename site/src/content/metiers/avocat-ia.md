@@ -48,7 +48,7 @@ Le métier d'avocat est en transformation profonde en 2026. Les analyses de cont
 
 ## L'IA et le métier d'avocat en 2026 : ce qui change vraiment
 
-**Ce qui est largement automatisé** :
+**Ce qui est largement automatisé**
 - Analyse de contrats (Claude lit 200 pages en 5 minutes)
 - Recherche jurisprudentielle (Doctrine + Perplexity)
 - Drafts d'actes répétitifs (assignations, conclusions, requêtes)
@@ -56,7 +56,7 @@ Le métier d'avocat est en transformation profonde en 2026. Les analyses de cont
 - Réponses aux questions client basiques par chatbot
 - Veille réglementaire automatisée
 
-**Ce qui reste 100% humain** :
+**Ce qui reste 100% humain**
 - Plaidoirie et représentation devant les tribunaux
 - Stratégie contentieuse complexe
 - Négociation et médiation
@@ -82,23 +82,23 @@ Le métier d'avocat est en transformation profonde en 2026. Les analyses de cont
 
 ## Top 5 outils IA à maîtriser
 
-### 1. Doctrine — la référence juridique IA française
+### 1. Doctrine : la référence juridique IA française
 
 Couverture exhaustive du droit français (Cass, CE, CJUE, Cours d'appel), commentaires de doctrine, IA de recherche sémantique mature. Indispensable pour qui pratique le droit français sérieusement. **80 à 200 dollars/mois selon plan.**
 
-### 2. [Claude Pro](/outils/claude/) — l'analyse de contrats 200+ pages
+### 2. [Claude Pro](/outils/claude/) : l'analyse de contrats 200+ pages
 
 Tu uploads un contrat anonymisé, Claude te sort en 5 minutes : 5 clauses risquées, ambiguïtés juridiques, manquements 2026 (code civil, code commerce, RGPD), 5 reformulations défensives à proposer en négo. **20 dollars/mois.**
 
-### 3. [ChatGPT Plus](/outils/chatgpt/) — drafts d'actes et mails
+### 3. [ChatGPT Plus](/outils/chatgpt/) : drafts d'actes et mails
 
 Pour les drafts répétitifs (assignations, conclusions, mails clients), ChatGPT Plus est le couteau suisse rédactionnel. **Plan Team minimum (25 dollars) si tu touches à des données client identifiables.**
 
-### 4. [Perplexity Pro](/outils/perplexity/) — la veille rapide
+### 4. [Perplexity Pro](/outils/perplexity/) : la veille rapide
 
 Différence avec Doctrine : Perplexity ratisse le web (presse spé, blogs juridiques, sources institutionnelles). Combiné avec Doctrine, c'est imbattable pour briefer un secteur client en 5 minutes avant un rendez-vous. **20 euros/mois.**
 
-### 5. [Notion AI](/outils/notion-ai/) — la base interne
+### 5. [Notion AI](/outils/notion-ai/) : la base interne
 
 Templates d'actes, veille thématique structurée, Q&A workspace, suivi des dossiers clients. Indispensable pour les cabinets de 2 à 20 personnes. **22 dollars/mois.**
 
@@ -164,19 +164,19 @@ Voir notre [guide reconversion IA complet](/guides/reconversion-ia-guide-complet
 
 ## Pour aller plus loin
 
-**Outils IA pour avocats** :
+**Outils IA pour avocats**
 - [Guide outils IA pour avocat (5 outils détaillés)](/guides/outils-ia-pour-avocat/)
 - [Claude](/outils/claude/), [ChatGPT](/outils/chatgpt/), [Perplexity](/outils/perplexity/), [Notion AI](/outils/notion-ai/)
 
-**Comparateurs** :
+**Comparateurs**
 - [Claude vs ChatGPT](/guides/claude-vs-chatgpt/) : pour analyse de contrats
 - [Perplexity vs Google](/guides/perplexity-vs-google/) : pour la veille
 
-**Reconversion** :
+**Reconversion**
 - [Guide reconversion IA complet](/guides/reconversion-ia-guide-complet/)
 - [Pillar formation IA gratuite](/guides/se-former-ia-gratuitement/)
 - [IA Europe réglementation](/guides/ia-europe-reglementation/)
 
-**Métiers connexes** :
+**Métiers connexes**
 - [Consultant IA](/metiers/consultant-ia/)
 - [Tous les métiers IA](/metiers/)

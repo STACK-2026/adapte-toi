@@ -50,24 +50,24 @@ L'IA génératrice d'image souveraine française est moins mature que pour le te
 
 **Pourquoi c'est l'option n°1** : Pixtral est intégré nativement dans Le Chat de Mistral. Pas besoin d'app séparée, tu génères tes images dans la même interface où tu poses tes questions textuelles.
 
-**Fonctions clés** :
+**Fonctions clés**
 - Génération d'images à partir d'un prompt FR ou EN
 - Analyse d'images en input (multimodal)
 - Variations sur une image générée
 - Hébergement Europe garanti
 - RGPD strict, opt-out par défaut sur Le Chat Pro
 
-**Cas d'usage** :
+**Cas d'usage**
 - Visuels pour blog professionnel B2B
 - Illustrations articles de presse
 - Posts LinkedIn / sociaux (banners, visuels)
 - Moodboards de base pour briefs créatifs
 - Supports formation interne
 
-**Prompt type** :
+**Prompt type**
 > "Génère un visuel carré pour un post LinkedIn sur l'IA et l'emploi en France. Fond bleu institutionnel, illustration minimaliste, professionnel, sans texte intégré."
 
-**Prix** :
+**Prix**
 - **Le Chat Free** : Pixtral avec quotas
 - **Le Chat Pro à 14.99 euros/mois** : Pixtral illimité + assistant complet
 - **Le Chat Team à 24.99 euros/utilisateur/mois** : workspace équipe
@@ -88,18 +88,18 @@ Voir notre [fiche complète Midjourney](/outils/midjourney/) et [comparateur Mid
 
 **Pourquoi c'est unique** : Stable Diffusion (Stability AI + open source) peut être hébergé localement sur ta machine. Tes prompts et images ne quittent jamais ton hardware.
 
-**Setup pour les créatifs pro** :
+**Setup pour les créatifs pro**
 1. **Hardware** : GPU RTX 3060 minimum, idéal RTX 4090 (1500-3000 euros)
 2. **Logiciel** : ComfyUI (le plus avancé) ou Automatic1111 (le plus facile), gratuits
 3. **Modèles** : FLUX.1 dev (le top open source 2026), SDXL, modèles fine-tunés Civitai
 4. **Génération locale illimitée**, pas de quota, qualité contrôlable
 
-**Communautés FR actives** :
+**Communautés FR actives**
 - Discord Stable Diffusion France (5000+ membres)
 - Civitai (modèles partagés, dont français)
 - YouTube : chaînes francophones tutos (FlorianAI, Underscore_, etc.)
 
-**Cas d'usage** :
+**Cas d'usage**
 - Code propriétaire ultra-sensible (visuels brand non-publiés)
 - Fine-tuning sur ton style propre (entraîne le modèle sur tes propres œuvres)
 - Génération massive (illimitée car local)
@@ -113,7 +113,7 @@ Voir notre [fiche complète Midjourney](/outils/midjourney/) et [comparateur Mid
 
 **Pour qui** : devs et chercheurs qui veulent tester plusieurs modèles open source d'image.
 
-**Cas d'usage** :
+**Cas d'usage**
 - Comparer FLUX.1, SDXL, Stable Diffusion 3 rapidement
 - Recherche IA / NLP visuel
 - Communauté open source francophone

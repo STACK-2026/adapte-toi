@@ -48,7 +48,7 @@ Le métier d'enseignant en France est en transformation profonde en 2026, mais a
 
 ## L'IA et le métier d'enseignant en 2026
 
-**Ce qui est automatisable (autorisé EN)** :
+**Ce qui est automatisable (autorisé EN)**
 - Préparation de cours et supports
 - Génération d'exercices différenciés (par niveau)
 - Évaluations type avec corrigés (pré-validation humaine)
@@ -57,7 +57,7 @@ Le métier d'enseignant en France est en transformation profonde en 2026, mais a
 - Aide à la correction (pré-tri + feedback type)
 - Veille pédagogique et disciplinaire
 
-**Ce qui reste 100% humain (et OBLIGATOIRE)** :
+**Ce qui reste 100% humain (et OBLIGATOIRE)**
 - Pédagogie en classe (relation, motivation, adaptation au moment)
 - Évaluation finale et notation officielle (interdit AI)
 - Décisions disciplinaires (interdit AI)
@@ -84,23 +84,23 @@ Le métier d'enseignant en France est en transformation profonde en 2026, mais a
 
 ## Top 5 outils IA à maîtriser
 
-### 1. [ChatGPT Plus / Team](/outils/chatgpt/) — supports cours
+### 1. [ChatGPT Plus / Team](/outils/chatgpt/) : supports cours
 
 Génération exercices différenciés (15 par niveau), évaluation type avec corrigé, mails parents, préparation entretien parent-prof. **Plan Team 25 dollars** si tu touches des données identifiables élèves.
 
-### 2. [Claude Pro](/outils/claude/) — différenciation
+### 2. [Claude Pro](/outils/claude/) : différenciation
 
 Cohérence stylistique sur les longs cours adaptés à 3 niveaux. Analyse de copies anonymisées pour identifier erreurs fréquentes. **20 dollars/mois.**
 
-### 3. Diffit — adaptation textes par niveau
+### 3. Diffit : adaptation textes par niveau
 
 Tu colles un texte (Le Monde, extrait littéraire, document historique), Diffit te le redonne adapté à tes 6e en 2 minutes avec quiz et activités. **Free limité, Pro 12 dollars/mois.**
 
-### 4. [Notion AI](/outils/notion-ai/) — base pédagogique
+### 4. [Notion AI](/outils/notion-ai/) : base pédagogique
 
 Base de cours organisée par classe/matière/chapitre, templates fiches cours/contrôles, suivi élèves anonymisé, veille disciplinaire structurée. **22 dollars/mois.**
 
-### 5. [Perplexity](/outils/perplexity/) — veille et sources
+### 5. [Perplexity](/outils/perplexity/) : veille et sources
 
 Vérifier un fait historique avec sources, recherche pédagogique pointue (PISA 2025), comparer approches internationales. **Gratuit suffit pour 95% des profs.**
 

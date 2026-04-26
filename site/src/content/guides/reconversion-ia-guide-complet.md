@@ -34,8 +34,7 @@ tldr:
 
 <h2 id="réalité">La réalité : qui est vraiment menacé ?</h2>
 
-Pas tout le monde de la même façon. L'étude Anthropic de mars 2026 donne les chiffres les plus précis à ce jour :
-
+Pas tout le monde de la même façon. L'étude Anthropic de mars 2026 donne les chiffres les plus précis à ce jour
 | Secteur | Baisse des offres | Risque |
 |---------|-------------------|--------|
 | Centres d'appels / support client | -67% | Très élevé |
@@ -61,19 +60,19 @@ Avant de tout plaquer, prends 30 minutes pour répondre honnêtement à ces ques
 
 La reconversion (changer de métier) est radicale et risquée. La montée en compétences (ajouter l'IA à ton métier actuel) est plus rapide et moins risquée. Dans 80% des cas, la montée en compétences suffit.
 
-**Reconversion nécessaire si** :
+**Reconversion nécessaire si**
 - Ton métier est automatisable à plus de 70% (saisie de données, support client niveau 1, traduction généraliste)
 - Tu n'aimes plus ce que tu fais (l'IA est juste le déclencheur)
 - Ton secteur est en déclin structurel (indépendamment de l'IA)
 
-**Montée en compétences suffisante si** :
+**Montée en compétences suffisante si**
 - Ton métier a une forte composante relationnelle ou créative
 - L'IA augmente ton métier plus qu'elle ne le remplace
 - Tu aimes ton domaine et tu veux y rester
 
 ### Question 2 : qu'est-ce que je sais faire que l'IA ne sait pas faire ?
 
-Fais la liste de tes compétences et classe-les en deux colonnes :
+Fais la liste de tes compétences et classe-les en deux colonnes
 - **Automatisable** : saisie, reporting, recherche d'information, rédaction standard, calculs, planification
 - **Non automatisable** : négociation, empathie, créativité, jugement en situation complexe, gestion de crise, relation de confiance, travail physique
 
@@ -81,7 +80,7 @@ Si ta colonne "non automatisable" est vide ou presque, c'est un signal fort.
 
 ### Question 3 : combien de temps et d'argent je peux investir ?
 
-Sois réaliste :
+Sois réaliste
 - **2 semaines + 0 euros** : tu peux apprendre les bases de l'IA et intégrer les outils dans ton travail ([guide formation gratuite](/guides/se-former-ia-gratuitement))
 - **3 mois + CPF** : tu peux obtenir une certification reconnue ([guide financement](/guides/financer-formation-ia-cpf))
 - **6-12 mois + PTP** : tu peux te reconvertir complètement (formation longue financée + salaire maintenu)
@@ -112,7 +111,7 @@ Commence toujours par le gratuit ([guide formation gratuite](/guides/se-former-i
 
 C'est la phase la plus délicate. Tu cherches tes premières missions ou ton premier poste dans le nouveau domaine.
 
-**Stratégies qui marchent** :
+**Stratégies qui marchent**
 - **Le pivot interne** : propose à ton employeur de prendre en charge un projet lié à l'IA dans ton entreprise. C'est le chemin le moins risqué.
 - **Le freelance test** : prends tes premières missions sur Malt ou Crème de la Crème en parallèle de ton CDI. Ça valide la demande du marché avant de sauter.
 - **La candidature ciblée** : postule sur des postes "hybrides" qui combinent ton expertise sectorielle + les compétences IA que tu as acquises.
@@ -125,8 +124,7 @@ Tu as fait la transition. Maintenant, construis ta crédibilité dans le nouveau
 
 <h2 id="métiers-porteurs">Les métiers qui recrutent en 2026</h2>
 
-Les métiers les plus demandés combinent expertise humaine + maîtrise de l'IA :
-
+Les métiers les plus demandés combinent expertise humaine + maîtrise de l'IA
 | Métier | Salaire moyen | Demande | Accessibilité |
 |--------|--------------|---------|---------------|
 | Prompt engineer / IA strategist | 45-65K euros | Forte | Moyenne (pas de diplôme requis, compétences prouvées) |
@@ -146,8 +144,7 @@ Consulte nos [fiches métier](/métiers) pour des analyses détaillées de chaqu
 
 <h2 id="financement">Comment financer ta reconversion</h2>
 
-Tu n'as pas besoin de payer de ta poche. Voici les principaux dispositifs :
-
+Tu n'as pas besoin de payer de ta poche. Voici les principaux dispositifs
 - **CPF** : 500 euros/an cumulables jusqu'à 5 000 euros. Pour les formations certifiantes. [Guide complet](/guides/financer-formation-ia-cpf)
 - **PTP** : formation + salaire financés à 100%. Pour les reconversions longues (3-12 mois). Le dispositif le plus puissant.
 - **AIF** : jusqu'à 8 000 euros pour les demandeurs d'emploi (France Travail)

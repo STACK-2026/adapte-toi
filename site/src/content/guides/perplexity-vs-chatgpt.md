@@ -100,7 +100,7 @@ Si tu cherches "perplexity ai en français", voici ce qui compte vraiment.
 
 **Limite gratuite** : 5 recherches Pro par jour (avec GPT-4o ou Claude). Au-delà, tu bascules sur Sonar (le modèle maison de Perplexity, plus rapide mais moins fin). Pour la majorité des recherches quotidiennes, c'est largement suffisant.
 
-**Cas d'usage où Perplexity FR explose ChatGPT** :
+**Cas d'usage où Perplexity FR explose ChatGPT**
 - Vérification d'un chiffre cité dans un article (sources sourcées en 10 secondes)
 - Résumé d'une décision politique récente avec liens vers les textes officiels
 - Comparaison de prix ou d'offres en France (mutuelle, formation CPF, fournisseur énergie)
@@ -118,7 +118,7 @@ ChatGPT en français aussi est natif. OpenAI a 900 millions d'utilisateurs hebdo
 
 **ChatGPT mémorise ton contexte** : si tu lui dis une fois "je suis comptable en France, focus sur la fiscalité française et le PCG", il s'en souvient pour les sessions suivantes (si Memory est activé).
 
-**Cas d'usage où ChatGPT FR explose Perplexity** :
+**Cas d'usage où ChatGPT FR explose Perplexity**
 - Rédaction d'un email professionnel ou commercial
 - Génération d'un compte-rendu de réunion à partir de notes
 - Brainstorm créatif (titres, slogans, idées d'articles)

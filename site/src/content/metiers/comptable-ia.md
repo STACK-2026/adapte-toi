@@ -48,7 +48,7 @@ Le métier de comptable est l'un des plus transformés par l'IA en 2026. L'[OCDE
 
 ## L'IA et la comptabilité en 2026 : ce qui change vraiment
 
-**Ce qui est déjà automatisé à 80%** :
+**Ce qui est déjà automatisé à 80%**
 - Saisie des écritures (Pennylane, Cegid IA, EBP IA)
 - Catégorisation des dépenses (95% de précision en 2026)
 - Lettrage et rapprochement bancaire (suggestions IA quasi parfaites)
@@ -56,7 +56,7 @@ Le métier de comptable est l'un des plus transformés par l'IA en 2026. L'[OCDE
 - Génération de rapports clients récurrents
 - Réponses aux questions client basiques par chatbot
 
-**Ce qui reste 100% humain** :
+**Ce qui reste 100% humain**
 - Conseil stratégique (transmission, optimisation fiscale complexe)
 - Arbitrages en zone grise réglementaire
 - Relation client de confiance (signature visa, expert-comptable)
@@ -82,7 +82,7 @@ Le métier de comptable est l'un des plus transformés par l'IA en 2026. L'[OCDE
 
 ## Top 5 outils IA à maîtriser absolument
 
-### 1. [Pennylane](https://www.pennylane.com) — la compta IA française
+### 1. [Pennylane](https://www.pennylane.com) : la compta IA française
 
 **Pourquoi obligatoire** : Pennylane est l'outil de comptabilité française avec le plus de fonctions IA natives en 2026. Catégorisation auto à 95%, lettrage suggéré, OCR factures, alertes anomalies, drafts mails client.
 
@@ -90,19 +90,19 @@ Le métier de comptable est l'un des plus transformés par l'IA en 2026. L'[OCDE
 
 **ROI** : un cabinet 5 personnes gagne 60h/mois soit 3600 dollars de productivité pour 150 dollars d'abonnement.
 
-### 2. [Claude Pro](/outils/claude/) — l'analyse de bilans 200 pages
+### 2. [Claude Pro](/outils/claude/) : l'analyse de bilans 200 pages
 
 Claude excelle sur les longs documents. Upload un bilan PME 3 exercices, obtiens en 5 min : trajectoire financière, 5 signaux d'alerte BFR/trésorerie/endettement, 3 hypothèses sur la stratégie du dirigeant, 5 questions à poser en review. **20 dollars/mois.**
 
-### 3. [ChatGPT Plus](/outils/chatgpt/) — la communication client
+### 3. [ChatGPT Plus](/outils/chatgpt/) : la communication client
 
 Pour 60% du temps comptable qui est dans la communication (mails, comptes-rendus, justifications). ChatGPT te fait gagner 4-6h/semaine. Mode voix Advanced parfait pour préparer un appel client en marchant. **20 dollars/mois.**
 
-### 4. [Notion AI](/outils/notion-ai/) — la veille fiscale structurée
+### 4. [Notion AI](/outils/notion-ai/) : la veille fiscale structurée
 
 Crée une base par thème fiscal (TVA, IS, transmission, social), Notion AI te résume hebdo. Q&A workspace : "Toutes mes notes sur la déductibilité des frais véhicules ces 12 mois". **22 dollars/mois.**
 
-### 5. [Perplexity](/outils/perplexity/) — les recherches réglementaires
+### 5. [Perplexity](/outils/perplexity/) : les recherches réglementaires
 
 Légifrance c'est lent, Bofip peu intuitif. Perplexity te donne la réponse synthétisée avec sources cliquables en 30 secondes. Le gratuit suffit pour 90% des recherches d'un comptable.
 
@@ -170,16 +170,16 @@ Voir notre [guide freelance IA](/guides/freelance-ia-guide/) pour la structurati
 
 ## Formation recommandée 2026
 
-**Niveau 1 (gratuit, 4 semaines)** :
+**Niveau 1 (gratuit, 4 semaines)**
 - Elements of AI (30h, 100% FR)
 - Google AI Essentials sur Coursera (10h, audit gratuit)
 - Pratique ChatGPT + Claude + Pennylane
 
-**Niveau 2 (CPF, 9 mois)** :
+**Niveau 2 (CPF, 9 mois)**
 - [OpenClassrooms parcours Data Analyst](/guides/formation-ia-openclassrooms/) (RNCP 6, CPF intégral)
 - Pennylane Certified (gratuit pour les utilisateurs)
 
-**Niveau 3 (avancé, 18 mois)** :
+**Niveau 3 (avancé, 18 mois)**
 - DSCG ou DEC en parallèle si pas déjà fait
 - Specialization Coursera "AI for Finance" en autonomie
 
@@ -217,27 +217,27 @@ Voir notre [guide freelance IA](/guides/freelance-ia-guide/) pour la structurati
 
 ## Pour aller plus loin
 
-**Outils IA pour comptables** :
+**Outils IA pour comptables**
 - [Guide outils IA pour comptable (5 outils détaillés)](/guides/outils-ia-pour-comptable/)
 - [Pennylane](https://www.pennylane.com), [Claude](/outils/claude/), [ChatGPT](/outils/chatgpt/), [Notion AI](/outils/notion-ai/), [Perplexity](/outils/perplexity/)
 
-**Comparateurs utiles** :
+**Comparateurs utiles**
 - [Claude vs ChatGPT](/guides/claude-vs-chatgpt/) : pour analyse de bilans
 - [Notion AI vs ChatGPT](/guides/notion-ai-vs-chatgpt/) : pour la veille fiscale
 
-**Reconversion** :
+**Reconversion**
 - [Guide reconversion IA complet](/guides/reconversion-ia-guide-complet/)
 - [Formation IA via OpenClassrooms](/guides/formation-ia-openclassrooms/)
 - [Financer ta formation IA via le CPF](/guides/financer-formation-ia-cpf/)
 - [Quel niveau IA es-tu ? Le quiz](/guides/formation-ia-quiz-quel-niveau/)
 
-**Métiers connexes** :
+**Métiers connexes**
 - [Analyste financier IA](/metiers/analyste-financier-ia/)
 - [Data Analyst IA](/metiers/data-analyst-ia/)
 - [Consultant IA](/metiers/consultant-ia/)
 - [Tous les métiers IA](/metiers/)
 
-**Décryptages actu** :
+**Décryptages actu**
 - [Vague licenciements IA 2026](/actu/vague-licenciements-ia-2026-klarna-ibm-duolingo/)
 - [BMO France Travail 2026 décrypté](/guides/bmo-france-travail-2026/)
 - [Tracker licenciements IA 2026](/guides/licenciements-ia-2026-tracker/)

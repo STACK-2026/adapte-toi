@@ -75,26 +75,26 @@ Cette phrase illustre le virage stratégique de l'armée américaine. Maven a ma
 ## Pour toi concrètement
 
 **Data analyst ou développeur·se en reconversion.**
-Les compétences en IA militaire sont transférables à la logistique, la santé ou l'agriculture :
+Les compétences en IA militaire sont transférables à la logistique, la santé ou l'agriculture
 - **Vision par ordinateur** : les algorithmes de détection d'objets sont adaptables. Forme-toi sur [OpenCV](https://opencv.org) ou [TensorFlow](https://www.tensorflow.org) via notre [guide gratuit](/guides/se-former-ia-gratuitement).
 - **Maintenance prédictive** : les systèmes militaires anticipent les pannes. Explore [Siemens MindSphere](https://new.siemens.com/global/en/products/automation/industry-software/mindsphere.html) ou [IBM Maximo](https://www.ibm.com/products/maximo).
 - **Cybersécurité** : les compétences en protection des infrastructures sont recherchées. Consulte notre fiche [métier consultant IA en cybersécurité](/metiers/consultant-ia) et les certifications comme [CEH](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/).
 *Action à 90 jours* : Postule à [TechVets](https://techvets.co) ou [Le Wagon](https://www.lewagon.com) pour une formation en data science.
 
 **Consultant·e ou chef·fe de projet.**
-Les armées ont besoin de profils capables de faire le lien entre besoins opérationnels et solutions techniques :
+Les armées ont besoin de profils capables de faire le lien entre besoins opérationnels et solutions techniques
 - **Gestion de projets IA** : forme-toi aux méthodologies agiles et à [SAFe](https://www.scaledagileframework.com). Notre [guide chef de projet IA](/metiers/chef-de-projet-ia) donne les bases.
 - **Éthique et conformité** : l'UE impose des règles strictes. Étudie l'[AI Act](https://artificialintelligenceact.eu) et les certifications comme [Certified AI Ethics Professional](https://www.ethicscertification.org).
 *Action à 90 jours* : Contacte [Thales](https://www.thalesgroup.com) ou [Airbus Defence](https://www.airbus.com/en/defence) pour des missions freelance. Utilise [Claude](/outils/claude) pour rédiger des propositions.
 
 **Étudiant·e ou jeune diplômé·e.**
-Les armées recrutent des juniors pour former des experts en IA militaire :
+Les armées recrutent des juniors pour former des experts en IA militaire
 - **Stages et alternances** : programmes comme [Cybersecurity Talent Initiative](https://www.cybertalentinitiative.org) (US) ou [Defence Cyber School](https://www.gov.uk/government/organisations/defence-cyber-school) (UK) offrent des formations. En France, le [Commandement de la Cyberdéfense](https://www.defense.gouv.fr/ciie) propose des stages.
 - **Hackathons** : participe à [Hack the Pentagon](https://www.hackthepentagon.com) ou [Defence Innovation Challenge](https://www.defenceinnovationchallenge.fr).
 *Action à 90 jours* : Suis un cours en ligne sur l'IA militaire, comme ce [module Coursera](https://www.coursera.org/learn/ai-military-applications). Consulte notre [guide sur les études inutiles](/guides/etudes-inutiles-que-faire).
 
 **Freelance ou entrepreneur·se.**
-Les technologies militaires sont une opportunité pour les startups :
+Les technologies militaires sont une opportunité pour les startups
 - **Recyclage de technologies** : les algorithmes de détection ou de maintenance prédictive s'adaptent à l'agriculture ou la santé.
 - **Partenariats public-privé** : les gouvernements européens subventionnent des projets appliquant l'IA militaire au civil. Cible les appels à projets comme [DefInvest](https://www.definvest.fr).
 - **Outils low-code** : utilise [Perplexity](/outils/perplexity) ou [Copilot](/outils/copilot) pour automatiser des tâches.

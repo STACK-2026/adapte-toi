@@ -48,11 +48,11 @@ L'analyste financier face à l'IA en 2026 : 70% des modèles répétitifs sont a
 
 ## Top 5 outils
 
-1. **[Claude Pro](/outils/claude/)** — analyse de bilans/contrats 200+ pages
-2. **[ChatGPT Plus](/outils/chatgpt/)** — Code Interpreter pour Python/Excel financier
-3. **[Perplexity](/outils/perplexity/)** — veille marché et benchmarks
-4. **[Notion AI](/outils/notion-ai/)** — base analyses structurée
-5. **Bloomberg GPT / Refinitiv AI** — outils pro entreprise
+1. **[Claude Pro](/outils/claude/)** : analyse de bilans/contrats 200+ pages
+2. **[ChatGPT Plus](/outils/chatgpt/)** : Code Interpreter pour Python/Excel financier
+3. **[Perplexity](/outils/perplexity/)** : veille marché et benchmarks
+4. **[Notion AI](/outils/notion-ai/)** : base analyses structurée
+5. **Bloomberg GPT / Refinitiv AI** : outils pro entreprise
 
 ## Salaires 2026
 

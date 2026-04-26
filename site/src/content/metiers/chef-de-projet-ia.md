@@ -48,11 +48,11 @@ Le métier de chef de projet est à un tournant majeur en 2026. Selon [Anthropic
 
 ## Top 5 outils
 
-1. **[Notion AI](/outils/notion-ai/)** — PRD, roadmap, wiki équipe (game-changer pour PMs)
-2. **[ChatGPT Plus](/outils/chatgpt/)** — brainstorm features, user research synthesis
-3. **[Claude Pro](/outils/claude/)** — analyse discovery longue, recommandations
-4. **[Otter.ai](/outils/otter-ai/)** — CR réunions auto en français
-5. **[Gamma](/outils/gamma/)** — decks stakeholders qualité agence
+1. **[Notion AI](/outils/notion-ai/)** : PRD, roadmap, wiki équipe (game-changer pour PMs)
+2. **[ChatGPT Plus](/outils/chatgpt/)** : brainstorm features, user research synthesis
+3. **[Claude Pro](/outils/claude/)** : analyse discovery longue, recommandations
+4. **[Otter.ai](/outils/otter-ai/)** : CR réunions auto en français
+5. **[Gamma](/outils/gamma/)** : decks stakeholders qualité agence
 
 **Combo** : 80 dollars/mois.
 

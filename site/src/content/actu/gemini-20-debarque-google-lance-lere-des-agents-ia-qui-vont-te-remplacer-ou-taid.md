@@ -85,13 +85,13 @@ Cette phrase marque un tournant. L'IA passe d'outil passif à collègue autonome
 ## Pour toi concrètement
 
 ### Développeur·se ou tech
-**À faire dans les 90 jours** :
+**À faire dans les 90 jours**
 1. Teste Gemini 2.0 Flash via [Google AI Studio](https://ai.google.dev/). Compare-le à Copilot ou Cursor sur un projet réel.
 2. Forme-toi aux architectures agentiques avec [LangChain](https://www.langchain.com/) ou [AutoGen](https://microsoft.github.io/autogen/). Apprends à orchestrer des agents.
 3. Spécialise-toi dans les "zones grises" : sécurité, éthique, interfaces humain-IA.
 4. Protège ton employabilité : juniors, travaillez sur des projets open-source avec Gemini 2.0. Seniors, concentrez-vous sur la conception de systèmes.
 
-**Ressources** :
+**Ressources**
 - [Fiche métier développeur·se IA](/metiers/developpeur-ia)
 - [Guide pour automatiser ton travail](/guides/automatiser-travail-ia)
 - [Outil Cursor](/outils/cursor)
@@ -99,13 +99,13 @@ Cette phrase marque un tournant. L'IA passe d'outil passif à collègue autonome
 ---
 
 ### Consultant·e, analyste ou chercheur·se
-**À faire dans les 90 jours** :
+**À faire dans les 90 jours**
 1. Utilise Deep Research pour générer des rapports préliminaires. Ajoute ta valeur avec des analyses critiques.
 2. Automatise tes veilles : configure Gemini 2.0 pour des synthèses quotidiennes.
 3. Vends des "audits IA" à tes clients : identifie où Gemini 2.0 peut automatiser leurs processus.
 4. Monte en compétences en prompt engineering avancé avec notre [guide débutant](/guides/prompt-engineering-debutant).
 
-**Ressources** :
+**Ressources**
 - [Fiche métier consultant·e IA](/metiers/consultant-ia)
 - [Guide pour se former à l'IA gratuitement](/guides/se-former-ia-gratuitement)
 - [Outil Perplexity](/outils/perplexity)
@@ -113,13 +113,13 @@ Cette phrase marque un tournant. L'IA passe d'outil passif à collègue autonome
 ---
 
 ### Chargé·e de clientèle ou community manager
-**À faire dans les 90 jours** :
+**À faire dans les 90 jours**
 1. Teste Project Astra ou [Claude 3.5 Sonnet](/outils/claude) pour gérer des conversations complexes. Identifie les limites de l'IA.
 2. Crée des scripts pour l'IA : templates de réponses pour les demandes basiques.
 3. Forme-toi à la supervision d'agents : détecte hallucinations et biais.
 4. Propose un pilote à ton employeur : testez Gemini 2.0 sur un canal spécifique.
 
-**Ressources** :
+**Ressources**
 - [Fiche métier chargé·e de clientèle IA](/metiers/charge-clientele-ia)
 - [Guide pour négocier ton salaire avec des compétences IA](/guides/negocier-salaire-competences-ia)
 - [Outil Otter.ai](/outils/otter-ai)
@@ -127,13 +127,13 @@ Cette phrase marque un tournant. L'IA passe d'outil passif à collègue autonome
 ---
 
 ### En reconversion ou sans emploi
-**À faire dans les 90 jours** :
+**À faire dans les 90 jours**
 1. Cible les métiers résistants à l'IA : créativité, empathie, prise de décision en contexte flou. Consulte notre [liste](/guides/ia-emploi-chiffres-cles).
 2. Apprends à travailler avec l'IA : formation gratuite sur [Google AI Essentials](https://www.cloudskillsboost.google/) ou notre [guide prompt engineering](/guides/prompt-engineering-debutant).
 3. Crée un projet perso avec Gemini 2.0 : blog, bot Discord, newsletter automatisée.
 4. Postule dans les entreprises adoptant l'IA : startups tech, cabinets de conseil, services innovation.
 
-**Ressources** :
+**Ressources**
 - [Guide de reconversion avec l'IA](/guides/reconversion-ia-guide-complet)
 - [Fiche métier journaliste IA](/metiers/journaliste-ia)
 - [Outil Canva IA](/outils/canva-ai)

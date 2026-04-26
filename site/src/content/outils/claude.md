@@ -127,7 +127,7 @@ Tu sors préparé comme jamais. Note : Claude n'a pas de mode voix, pour s'entra
 
 C'est LA force absolue de Claude vs ChatGPT.
 
-**Workflow** : upload un PDF de 100 à 200 pages (contrat, étude, rapport McKinsey, mémoire). Pose des questions précises :
+**Workflow** : upload un PDF de 100 à 200 pages (contrat, étude, rapport McKinsey, mémoire). Pose des questions précises
 - "Identifie les 5 clauses les plus risquées de ce contrat avec les pages exactes"
 - "Résume les conclusions de cette étude en 10 points et liste les sources sur lesquelles elles s'appuient"
 - "Quels sont les 3 points où ce rapport contredit le rapport [autre PDF également uploadé] ?"
@@ -205,7 +205,7 @@ Pour le verdict détaillé, va voir notre [comparateur Claude vs ChatGPT](/guide
 4. Teste avec un document : upload un PDF, demande "Résume en 10 points clés et identifie 3 actions à prendre"
 5. Si tu es Pro : crée un Project pour ton client/sujet principal et upload tes docs de contexte une fois pour toutes
 
-## Notre verdict : 9/10
+## Notre verdict : 9.5/10
 
 Claude est en 2026 le meilleur assistant IA pour les actifs francophones qui produisent du texte sérieux, analysent des documents longs ou travaillent sur des dossiers complexes. La qualité d'écriture, le respect des contraintes, la gestion des longs documents en font la référence pour les rédacteurs, juristes, consultants, chercheurs.
 

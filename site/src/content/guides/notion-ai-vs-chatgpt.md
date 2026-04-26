@@ -100,7 +100,7 @@ Notion AI fonctionne parfaitement en français. C'est même un de ses points for
 
 **La génération de contenu en français est excellente.** Drafts d'emails, briefs de meeting, descriptions de projets, listes de questions d'entretien : la qualité est équivalente à ChatGPT en français.
 
-**Cas d'usage où Notion AI FR brille** :
+**Cas d'usage où Notion AI FR brille**
 - Synthèse hebdomadaire de tes notes de réunion en français
 - Q&A sur ton wiki d'équipe ("trouve la procédure d'onboarding")
 - Génération de PRD ou specs produit en français
@@ -234,7 +234,7 @@ Ce workflow est validé sur des centaines de freelances et solo founders du top 
 
 **AI add-on à 10 dollars/utilisateur/mois** : génération illimitée, Q&A workspace, AI blocks dans les pages, Notion Agents.
 
-**Inclut Notion lui-même** :
+**Inclut Notion lui-même**
 - Free : 1000 blocs perso (illimité avec partage limité)
 - Plus à 12 dollars/mois : illimité perso, partage équipe
 - Business à 24 dollars/mois : SSO, advanced permissions
@@ -262,19 +262,19 @@ Ce workflow est validé sur des centaines de freelances et solo founders du top 
 
 <h2 id="limites">Limites zéro bullshit</h2>
 
-**Notion AI** :
+**Notion AI**
 - Bridé hors contexte Notion. Si tu ouvres Notion AI sur une page vide pour brainstormer, l'expérience est moins fluide qu'un chat ChatGPT classique.
 - Q&A workspace excellent en moyenne, mais peut halluciner sur des pages mal structurées. Plus tes pages sont propres et tagguées, mieux Notion AI fonctionne.
 - Pas de mode voix, pas de génération d'image native fluide, pas de Code Interpreter.
 - L'addon AI à 10 dollars s'ajoute au prix Notion (Plus 12 dollars, Business 24 dollars). Le coût réel est plus proche de 22 à 34 dollars/mois qu'à 10 dollars.
 
-**ChatGPT** :
+**ChatGPT**
 - Aucun contexte de ton travail par défaut. Tu dois lui briefer à chaque session, sauf à utiliser Memory (qui a aussi ses limites).
 - Pas d'intégration native avec ton wiki d'équipe ou tes bases de données.
 - Memory peut polluer ton expérience si tu travailles sur des sujets très différents.
 - Génération de texte brillante mais parfois trop générique sans contexte précis.
 
-**Limite RGPD** :
+**Limite RGPD**
 - Notion AI dit ne pas entraîner sur ton contenu (engagement contractuel).
 - ChatGPT free entraîne sur tes prompts. ChatGPT Plus permet l'opt-out. Team et Enterprise opt-out par défaut.
 - Pour les données sensibles (RH, juridique, financier), prends les plans pro avec opt-out par défaut sur les deux outils.

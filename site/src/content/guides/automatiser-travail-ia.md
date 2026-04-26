@@ -30,20 +30,19 @@ McKinsey estime que 30% des heures travaillées dans les économies avancées po
 
 <h2 id="identifier">Étape 1 : identifier tes tâches automatisables</h2>
 
-Pendant 1 semaine, note toutes les tâches que tu fais et classe-les dans ce tableau :
-
+Pendant 1 semaine, note toutes les tâches que tu fais et classe-les dans ce tableau
 | Tâche | Fréquence | Temps/semaine | Automatisable ? |
 |-------|-----------|---------------|-----------------|
 | Exemple : trier les emails | Quotidien | 3h | Oui (filtres + IA) |
 | Exemple : négocier un contrat | Ponctuel | 4h | Non (relation humaine) |
 
-**Les tâches automatisables ont ces caractéristiques** :
+**Les tâches automatisables ont ces caractéristiques**
 - Tu les fais plus d'1 fois par semaine
 - Le process est toujours le même (ou très similaire)
 - Elles impliquent du copier-coller, du tri, du classement, de la saisie
 - Elles ne demandent pas de jugement complexe
 
-**Les plus gros gisements** (par métier) :
+**Les plus gros gisements** (par métier)
 - **Administratif** : emails, planning, classement, reporting (70-90% automatisable)
 - **Commercial** : prospection, CRM, devis, relances (50-70%)
 - **Marketing** : posts sociaux, reporting, veille, email marketing (60-80%)
@@ -67,7 +66,7 @@ Pendant 1 semaine, note toutes les tâches que tu fais et classe-les dans ce tab
 | Workflows complexes multi-étapes | [Make.com](/outils/make) | Moyen |
 | Analyse de données | ChatGPT Advanced Data Analysis | Moyen |
 
-**La stack minimale** (50 euros/mois) :
+**La stack minimale** (50 euros/mois)
 - [ChatGPT](/outils/chatgpt) ou [Claude](/outils/claude) (20 euros/mois) : le cerveau
 - [Make.com](/outils/make) (9 euros/mois) : les connexions
 - [Notion AI](/outils/notion-ai) (10 euros/mois) : l'organisation
@@ -77,13 +76,12 @@ Pendant 1 semaine, note toutes les tâches que tu fais et classe-les dans ce tab
 
 <h2 id="premier-workflow">Étape 3 : créer ton premier workflow</h2>
 
-Commençons simple. Voici un workflow que tu peux créer en 15 minutes sur Make.com :
-
+Commençons simple. Voici un workflow que tu peux créer en 15 minutes sur Make.com
 ### Workflow : "Nouvelle facture reçue par email -> extraction -> tableau"
 
 **Déclencheur** : un email arrive dans ton Gmail avec une pièce jointe PDF
 
-**Actions** :
+**Actions**
 1. Make.com détecte l'email (module Gmail "Watch emails")
 2. Extrait la pièce jointe PDF
 3. Envoie le PDF à l'API ChatGPT avec le prompt : "Extrais de cette facture : fournisseur, date, montant HT, montant TTC, numéro de facture. Réponds en JSON."

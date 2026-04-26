@@ -95,7 +95,7 @@ Firefly = Photoshop boosté par IA, avec droits commerciaux garantis Adobe. Gene
 
 ## 5 fonctions clés à maîtriser
 
-### 1. Generative Fill (Photoshop) — THE killer feature
+### 1. Generative Fill (Photoshop) : THE killer feature
 
 Sélectionne, prompt, génère. Tu ajoutes/remplaces/supprimes en 30 secondes ce qui prenait 30 minutes en retouche manuelle. Indispensable.
 

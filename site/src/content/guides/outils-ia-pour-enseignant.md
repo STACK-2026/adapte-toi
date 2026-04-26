@@ -48,18 +48,17 @@ Le métier d'enseignant en France est en transformation profonde en 2026. L'Édu
 
 ## 1. ChatGPT Plus pour les supports de cours
 
-**Cas d'usage** :
-
-**Génération d'exercices différenciés** :
+**Cas d'usage**
+**Génération d'exercices différenciés**
 > "Génère 15 exercices sur [thème du cours] niveau [X]. 5 niveau facile, 5 niveau attendu, 5 niveau approfondissement. Format : énoncé + correction. Vocabulaire adapté au niveau."
 
-**Évaluation type avec corrigé** :
+**Évaluation type avec corrigé**
 > "Crée un contrôle de 1h sur [chapitre] niveau [classe], format type Bac/brevet. 4 exercices, barème /20, corrigé détaillé. Inclus 1 question d'analyse pour différencier les bons élèves."
 
-**Mail aux parents** :
+**Mail aux parents**
 > "Rédige un mail pour informer les parents d'un Élève_X qu'il a fait des progrès en [matière] mais doit travailler sa concentration en classe. Ton bienveillant constructif, propose 2 actions concrètes."
 
-**Préparation entretien parent-prof** :
+**Préparation entretien parent-prof**
 > "Pour un entretien avec les parents d'un Élève_Y en difficulté en [matière], prépare-moi : 5 questions à leur poser, 3 sujets sensibles à aborder avec tact, 3 propositions d'action."
 
 **ROI** : un prof qui prépare 5 cours par semaine gagne 1h par cours = 5h/semaine = 200h/an. Soit **5 jours de vacances supplémentaires** par an pour 20 dollars/mois.
@@ -72,10 +71,10 @@ Voir notre [fiche complète ChatGPT](/outils/chatgpt/).
 
 **Pourquoi c'est utile** : la cohérence stylistique de Claude sur les longs textes le rend excellent pour adapter un même cours à 3 niveaux différents en gardant une logique pédagogique.
 
-**Prompt clé** :
+**Prompt clé**
 > "Voici mon cours actuel sur [thème, niveau attendu collège/lycée]. Adapte-le pour 3 niveaux : (1) élèves en difficulté = vocabulaire simple, plus d'exemples concrets, plus court ; (2) niveau attendu = équilibre théorie/pratique ; (3) élèves avancés = concepts plus poussés, ouvertures, projets. Format exploitable en classe."
 
-**Bonus** : Claude excelle aussi sur l'analyse de copies anonymisées :
+**Bonus** : Claude excelle aussi sur l'analyse de copies anonymisées
 > "Voici 10 copies anonymisées (Élève_A à Élève_J) sur le même sujet. Identifie les 5 erreurs les plus fréquentes, propose une remediation collective de 30 minutes pour les corriger."
 
 Voir notre [comparateur Claude vs ChatGPT](/guides/claude-vs-chatgpt/).
@@ -84,7 +83,7 @@ Voir notre [comparateur Claude vs ChatGPT](/guides/claude-vs-chatgpt/).
 
 ## 3. Diffit : l'outil pédagogique spécialisé
 
-**Pourquoi c'est unique** : Diffit est conçu spécifiquement pour l'éducation. Tu colles un texte (article de presse, extrait littéraire, document historique), Diffit te génère automatiquement :
+**Pourquoi c'est unique** : Diffit est conçu spécifiquement pour l'éducation. Tu colles un texte (article de presse, extrait littéraire, document historique), Diffit te génère automatiquement
 - Adaptations à différents niveaux de lecture (CP, CE1, CE2, CM1, 6e, 5e, 4e, 3e, lycée)
 - Quiz de compréhension
 - Vocabulaire à expliquer
@@ -99,7 +98,7 @@ Voir notre [comparateur Claude vs ChatGPT](/guides/claude-vs-chatgpt/).
 
 ## 4. Notion AI pour la base pédagogique
 
-**Cas d'usage** :
+**Cas d'usage**
 - Base de cours organisée par classe / matière / chapitre
 - Templates de fiches cours, contrôles, projets
 - Suivi élèves anonymisé (par numéro)
@@ -112,7 +111,7 @@ Voir [fiche Notion AI](/outils/notion-ai/).
 
 ## 5. Perplexity pour la veille et les sources
 
-**Cas d'usage** :
+**Cas d'usage**
 - Vérifier un fait historique avec sources (avant de l'enseigner)
 - Recherche pédagogique pointue ("dernières études PISA 2025 sur compréhension de lecture")
 - Comparer des approches pédagogiques internationales
@@ -124,20 +123,20 @@ Le gratuit suffit pour 95% des profs. Voir [fiche Perplexity](/outils/perplexity
 
 ## Cadre Education Nationale 2026 : ce qui est autorisé
 
-**Autorisé** :
+**Autorisé**
 - Préparation de cours, supports, exercices
 - Adaptation et différenciation pédagogique
 - Aide à la correction (pré-tri)
 - Communication avec les familles
 - Veille disciplinaire et formation continue
 
-**Strictement interdit** :
+**Strictement interdit**
 - Évaluation et notation finale uniquement par IA (illégal AI Act 2026 + cadre EN)
 - Décision disciplinaire automatisée
 - Profilage des élèves par IA
 - Données identifiables des élèves dans les LLMs grand public
 
-**Recommandations EN** :
+**Recommandations EN**
 - Formation continue obligatoire (M@gistère, CANOPE)
 - Charte établissement écrite
 - Information des élèves et parents

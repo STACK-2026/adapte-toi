@@ -50,18 +50,17 @@ Le métier de RH et recruteur est l'un des plus impactés par l'IA en 2026. Les 
 
 ## 1. ChatGPT Team pour fiches de poste et offres
 
-**Cas d'usage critiques** :
-
-**Rédaction fiche de poste** :
+**Cas d'usage critiques**
+**Rédaction fiche de poste**
 > "Rédige une fiche de poste pour un [titre] dans une [type d'entreprise] en France 2026. Missions (5-7), compétences techniques, soft skills, profil recherché, fourchette salariale réaliste 2026. Ton inclusif, attractif, évite les clichés. Format LinkedIn-ready."
 
-**Annonce LinkedIn punchy** :
+**Annonce LinkedIn punchy**
 > "Génère 3 versions d'annonce LinkedIn pour ce poste [colle fiche]. Variations : (1) ton informel startup, (2) ton corporate plus formel, (3) ton "raconte une histoire". 200 mots max chacune."
 
-**Mail de relance candidat** :
+**Mail de relance candidat**
 > "Rédige un mail de relance bienveillant pour un candidat qui n'a pas répondu après notre première offre. Ton chaleureux, propose un appel rapide, pas de pression."
 
-**Feedback de refus diplomatique** :
+**Feedback de refus diplomatique**
 > "Rédige un mail de refus pour un candidat (CV solide mais pas le bon fit). Ton humain et constructif. Mentionne 1-2 forces objectives. Ouvre la porte pour le futur."
 
 **ROI** : un recruteur qui rédige 20 fiches/mois gagne 1h par fiche = 20h/mois soit **1000+ dollars de productivité** pour 25 dollars d'abonnement.
@@ -74,13 +73,13 @@ Voir notre [fiche complète ChatGPT](/outils/chatgpt/).
 
 **Pourquoi Claude pour ce cas** : capacité à gérer plusieurs longs CVs d'un coup et à comparer finement.
 
-**Prompt screening 10 CVs** :
+**Prompt screening 10 CVs**
 > "Voici 10 CVs anonymisés [upload]. Pour le poste de [X] avec ces critères critiques [Y]. Classe-les en 3 groupes : Top 3 à voir absolument, Mid 4 à voir si temps, Out 3 à écarter avec raison. Justification courte par CV."
 
-**Prompt audit CV individuel** :
+**Prompt audit CV individuel**
 > "Analyse ce CV anonymisé pour un poste de [Y]. Identifie : (1) 3 forces majeures, (2) 3 questions à poser en entretien, (3) 2 red flags à creuser, (4) compatibilité avec notre culture [briefe]."
 
-**Prompt CR entretien** :
+**Prompt CR entretien**
 > "Voici mes notes brutes de l'entretien avec [Candidat anonyme] pour [poste]. Génère un CR structuré : profil, compétences techniques, soft skills, motivation, points de vigilance, recommandation finale, salaire à proposer."
 
 Voir notre [comparateur Claude vs ChatGPT](/guides/claude-vs-chatgpt/).
@@ -91,7 +90,7 @@ Voir notre [comparateur Claude vs ChatGPT](/guides/claude-vs-chatgpt/).
 
 **Ce que c'est** : plateforme d'entretiens vidéo structurés où le candidat répond à des questions enregistrées, l'IA analyse réponse, ton, expression.
 
-**Cadre légal France 2026** :
+**Cadre légal France 2026**
 - Consentement explicite obligatoire du candidat
 - Alternative non-IA accessible (entretien humain sur demande)
 - Décision finale humaine obligatoire (AI Act 2026)
@@ -107,7 +106,7 @@ Voir notre [comparateur Claude vs ChatGPT](/guides/claude-vs-chatgpt/).
 
 **Pour qui** : équipes RH internes ou cabinets de recrutement gérant 100+ recrutements/an.
 
-**Fonctions IA** :
+**Fonctions IA**
 - Screening auto sur 50+ critères
 - Sourcing automatisé sur LinkedIn/job boards
 - Recommandations matching candidat-poste
@@ -120,7 +119,7 @@ Voir notre [comparateur Claude vs ChatGPT](/guides/claude-vs-chatgpt/).
 
 ## 5. Notion AI pour la base candidats interne
 
-**Cas d'usage** :
+**Cas d'usage**
 - Base de candidats actifs et passifs structurée
 - Templates fiches de poste, mails, CR
 - Suivi des recrutements en cours

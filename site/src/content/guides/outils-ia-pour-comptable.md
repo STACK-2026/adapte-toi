@@ -54,16 +54,16 @@ L'IA transforme le métier de comptable plus vite que prévu. Selon l'[OCDE 2025
 
 ### Cas d'usage concrets
 
-**Mail de relance client en retard de paiement** :
+**Mail de relance client en retard de paiement**
 > "Rédige un email de relance pour un client B2B en retard de 30 jours sur la facture [X]. Ton ferme mais respectueux, mentionne les pénalités légales selon l'article L441-10 du code de commerce, propose un plan de paiement en 3 fois. 150 mots max."
 
-**Réponse à une question fiscale d'un client** :
+**Réponse à une question fiscale d'un client**
 > "Reformule cette réponse pour un dirigeant non-comptable : [collage de ta réponse technique]. Garde la précision juridique mais simplifie le vocabulaire. Ton pédagogique."
 
-**Compte-rendu de réunion bilan** :
+**Compte-rendu de réunion bilan**
 > "Transforme ces notes brutes en CR client structuré : situation comptable au [date], 3 points d'attention, 5 actions recommandées avec deadlines, prochaine échéance."
 
-**Préparation d'un audit fiscal** :
+**Préparation d'un audit fiscal**
 > "Liste les 15 points de vigilance pour un audit fiscal d'une PME française secteur [X], CA [Y] euros. Inclus les dernières nouveautés 2026."
 
 ### ROI calculé
@@ -80,16 +80,16 @@ Voir notre [fiche complète ChatGPT](/outils/chatgpt/).
 
 ### Cas d'usage concrets
 
-**Analyse rapide d'un bilan PME** :
+**Analyse rapide d'un bilan PME**
 > "Voici le bilan en pièce jointe d'une PME française secteur [X] sur 3 exercices. Analyse : (1) trajectoire financière sur 3 ans, (2) 5 signaux d'alerte BFR/trésorerie/endettement, (3) 3 hypothèses sur la stratégie du dirigeant, (4) 5 questions à poser en review."
 
-**Audit d'un contrat client** :
+**Audit d'un contrat client**
 > "Analyse ce contrat de prestation de services. Identifie les 5 clauses les plus risquées pour notre cabinet, suggère des reformulations défensives, et liste les points à négocier."
 
-**Synthèse d'une étude sectorielle** :
+**Synthèse d'une étude sectorielle**
 > "Voici un rapport McKinsey 2026 sur le secteur [X] (200 pages). Synthétise en 10 points clés exploitables pour conseiller mes clients PME du secteur."
 
-**Préparation d'un plan comptable spécifique** :
+**Préparation d'un plan comptable spécifique**
 > "À partir de cet appel d'offres public et de la doc sectorielle, génère un projet de plan comptable adapté avec spécificités du secteur. Mentionne les comptes auxiliaires recommandés."
 
 ### ROI calculé
@@ -130,16 +130,16 @@ Un cabinet qui passe de Cegid/EBP classique à Pennylane gagne en moyenne **30 �
 
 ### Cas d'usage concrets
 
-**Veille fiscale hebdomadaire** :
+**Veille fiscale hebdomadaire**
 - Crée une page Notion par thème (TVA, IS, CFE, social, transmission)
 - Ajoute les actu importantes au fil de l'eau
 - Demande à Notion AI : *"Synthèse des changements fiscaux ce mois sur l'IS pour les PME"*
 
-**Base de questions clients récurrentes** :
+**Base de questions clients récurrentes**
 - Catalogue toutes les questions reçues (avec réponses)
 - Notion AI Q&A : *"Trouve toutes mes notes sur la question : récupération de TVA sur véhicules de société"*
 
-**Templates de mails / CR / livrables** :
+**Templates de mails / CR / livrables**
 - Crée 20 templates dans Notion
 - Notion AI génère le mail final adapté au contexte client précis
 
@@ -157,13 +157,13 @@ Voir notre [fiche complète Notion AI](/outils/notion-ai/) et [comparateur Notio
 
 ### Cas d'usage concrets
 
-**Vérification d'un seuil 2026** :
+**Vérification d'un seuil 2026**
 > "Quel est le seuil de franchise en base de TVA pour les prestations de service en 2026 en France, avec les dernières modifications ?"
 
-**Recherche jurisprudentielle** :
+**Recherche jurisprudentielle**
 > "Décisions du Conseil d'État 2025-2026 sur la déductibilité des frais de mission pour les dirigeants de SAS. Synthèse + références."
 
-**Recherche réglementaire pointue** :
+**Recherche réglementaire pointue**
 > "Comment fonctionne le pacte Dutreil pour la transmission d'entreprise familiale en 2026, conditions actuelles, abattements, durée d'engagement ?"
 
 ### Verdict

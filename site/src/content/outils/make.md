@@ -213,17 +213,17 @@ Le principal frein : courbe d'apprentissage 1-2 semaines vs Zapier plus accessib
 <!-- maillage:auto -->
 ## Pour aller plus loin
 
-**Outils complémentaires** :
+**Outils complémentaires**
 - [ChatGPT](/outils/chatgpt/), [Claude](/outils/claude/) (intégration API)
 - [Zapier](/outils/zapier/) (alternative classique)
 - [HubSpot](/outils/hubspot/), [Notion AI](/outils/notion-ai/) (CRM/workspace à connecter)
 
-**Métiers qui l'utilisent** :
+**Métiers qui l'utilisent**
 - [Marketing IA](/metiers/marketing-ia/), [Commercial IA](/metiers/commercial-ia/), [Community manager IA](/metiers/community-manager-ia/)
 - [RH recruteur IA](/metiers/rh-recruteur-ia/), [Comptable IA](/metiers/comptable-ia/)
 - [Assistant administratif IA](/metiers/assistant-administratif-ia/) (Office Manager IA-ready)
 
-**Guides** :
+**Guides**
 - [Outils IA pour marketing](/guides/outils-ia-pour-marketing/)
 - [Outils IA pour commercial](/guides/outils-ia-pour-commercial/)
 - [Pillar formation IA gratuite](/guides/se-former-ia-gratuitement/)

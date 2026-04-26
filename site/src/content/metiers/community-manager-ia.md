@@ -48,7 +48,7 @@ Le métier de community manager a explosé en productivité avec l'IA en 2026. L
 
 ## L'IA et le métier de CM en 2026
 
-**Ce qui est automatisé à 70%** :
+**Ce qui est automatisé à 70%**
 - Calendrier éditorial mensuel (ChatGPT en 5 min)
 - Copy posts avec variantes A/B (ChatGPT API)
 - Visuels rapides (DALL-E, Canva AI Magic Studio)
@@ -58,7 +58,7 @@ Le métier de community manager a explosé en productivité avec l'IA en 2026. L
 - Reporting engagement (Buffer + ChatGPT analyse)
 - Veille concurrentielle automatisée
 
-**Ce qui reste 100% humain** :
+**Ce qui reste 100% humain**
 - Stratégie de marque sociale (positionnement, ton)
 - Relation communauté de fond (lecteurs, fans, influenceurs)
 - Gestion de crise (bad buzz, troll, controverse)
@@ -85,23 +85,23 @@ Le métier de community manager a explosé en productivité avec l'IA en 2026. L
 
 ## Top 5 outils IA à maîtriser
 
-### 1. [ChatGPT Plus](/outils/chatgpt/) — copy + GPTs custom
+### 1. [ChatGPT Plus](/outils/chatgpt/) : copy + GPTs custom
 
 Calendrier éditorial 30 jours, variantes A/B sur 1 message, réponses commentaires automatisées. **GPTs custom par marque** : ton de voix, audience cible, charte = posts sur-mesure direct. **20 dollars/mois.**
 
-### 2. DALL-E (inclus ChatGPT Plus) ou [Canva AI](/outils/canva-ai/) — visuels
+### 2. DALL-E (inclus ChatGPT Plus) ou [Canva AI](/outils/canva-ai/) : visuels
 
 DALL-E pour la rapidité (inclus Plus), Canva AI Magic Design + Magic Resize + Magic Edit pour les volumes. **Canva Pro 12 dollars/mois.**
 
-### 3. Buffer AI — scheduling intelligent
+### 3. Buffer AI : scheduling intelligent
 
 Suggestions meilleur jour/heure de publication, génération variantes par plateforme, analyse engagement post-publication, hashtag recommendations. **Essentials 12 dollars/mois.**
 
-### 4. [Notion AI](/outils/notion-ai/) — calendrier éditorial structuré
+### 4. [Notion AI](/outils/notion-ai/) : calendrier éditorial structuré
 
 Base "Calendrier éditorial" en table avec 200+ posts, templates par marque/format, bibliothèque inspirations, suivi performance. **22 dollars/mois.**
 
-### 5. [Claude Pro](/outils/claude/) — stratégie de marque
+### 5. [Claude Pro](/outils/claude/) : stratégie de marque
 
 Analyse de brief brand long, recommandations stratégiques, audit de comptes existants, brief de campagne. **20 dollars/mois.**
 

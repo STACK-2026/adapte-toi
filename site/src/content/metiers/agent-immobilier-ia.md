@@ -46,15 +46,15 @@ Le métier d'agent immobilier face à l'IA en 2026 : automatisations massives su
 
 ## Top 5 outils
 
-1. **[ChatGPT Plus](/outils/chatgpt/)** — annonces, mails prospection, scripts visite
-2. **[Notion AI](/outils/notion-ai/)** — CRM clients/biens structuré
-3. **[Claude](/outils/claude/)** — analyse compromis et CGV longs
-4. **[Otter.ai](/outils/otter-ai/)** — transcription RDV vendeurs
-5. **Pricehubble / Estimimo** — estimations IA pro (50-200 dollars/mois)
+1. **[ChatGPT Plus](/outils/chatgpt/)** : annonces, mails prospection, scripts visite
+2. **[Notion AI](/outils/notion-ai/)** : CRM clients/biens structuré
+3. **[Claude](/outils/claude/)** : analyse compromis et CGV longs
+4. **[Otter.ai](/outils/otter-ai/)** : transcription RDV vendeurs
+5. **Pricehubble / Estimimo** : estimations IA pro (50-200 dollars/mois)
 
 ## Salaires 2026
 
-Variable selon ventes :
+Variable selon ventes
 - Junior : 20-32K fixe + commissions (total 40-50K)
 - Confirmé : 30-50K fixe + commissions (total 60-90K)
 - Manager d'agence : 50-80K

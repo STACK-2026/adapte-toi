@@ -198,8 +198,7 @@ Le CEP est le meilleur point de départ si tu ne sais pas par où commencer. Le 
 
 <h2 id="regionales">Les aides régionales</h2>
 
-Chaque région propose ses propres aides à la formation. Quelques exemples :
-
+Chaque région propose ses propres aides à la formation. Quelques exemples
 - **Île-de-France** : Aide Individuelle Régionale (AIR), jusqu'à 6 000 euros
 - **Auvergne-Rhône-Alpes** : Pass Compétences, formations qualifiantes prises en charge
 - **Nouvelle-Aquitaine** : chéquier qualification, formations prioritaires financées

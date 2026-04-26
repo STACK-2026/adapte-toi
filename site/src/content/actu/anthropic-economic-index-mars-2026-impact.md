@@ -61,7 +61,7 @@ Les chiffres qui sortent sont parmi les plus nets jamais produits sur la questio
 
 **Deux.** Les chiffres sont choc mais ne sont pas universels. Ils concernent des entreprises qui ont adopté Claude de manière intensive (en moyenne 60 % des employés administratifs avec un compte actif). Les PME françaises traditionnelles sont loin de ce niveau d'intégration. La vague arrive, elle n'est pas encore passée.
 
-**Trois.** Le rapport distingue clairement trois effets :
+**Trois.** Le rapport distingue clairement trois effets
 - Effet de substitution (remplacement de tâches et donc d'emplois) : fort sur les juniors et les postes standardisés.
 - Effet de complémentarité (augmentation de la productivité des humains) : fort sur les seniors et les postes à forte expertise.
 - Effet de création (nouveaux rôles qui n'existaient pas) : encore faible, concentré sur les prompt engineers, AI workflow designers, data stewards.
@@ -72,8 +72,7 @@ Cette typologie est importante, parce que l'opposition "IA tue l'emploi" versus 
 
 ## Les chiffres qui comptent
 
-Voici la grille des impacts mesurés, par secteur, sur les entreprises équipées Claude :
-
+Voici la grille des impacts mesurés, par secteur, sur les entreprises équipées Claude
 - **Centres d'appels service client** : -67 % d'embauches junior, -12 % de masse salariale globale.
 - **Rédaction marketing et content** : -53 % d'embauches junior, -28 % pour les postes intermédiaires.
 - **Traduction et transcription** : -41 % d'offres, seules les traductions juridiques et techniques résistent.
@@ -82,7 +81,7 @@ Voici la grille des impacts mesurés, par secteur, sur les entreprises équipée
 - **Journalisme d'agence** : -46 % sur le desk, les postes enquête et terrain résistent.
 - **Analystes financiers junior** : -22 % de postes, forte polarisation entre analyses quant haute et reporting automatisé.
 
-Côté positif :
+Côté positif
 - **Prompt engineering et IA ops** : +380 % de postes ouverts en 18 mois, base faible.
 - **Product managers avec expertise IA** : +42 % de salaire médian versus non-IA.
 - **Profils hybrides métier + IA** (comptable qui sait automatiser, juriste qui sait prompter) : +15 à +25 % de rémunération, à poste équivalent.
@@ -96,7 +95,7 @@ C'est une phrase qu'aucun dirigeant d'OpenAI ou de Google n'a prononcée. C'est 
 
 ## Pour toi concrètement
 
-**Tu es junior sur un métier listé rouge** (centre d'appels, rédaction marketing, traduction, dév junior, compta niveau 1). La stratégie à 12 mois :
+**Tu es junior sur un métier listé rouge** (centre d'appels, rédaction marketing, traduction, dév junior, compta niveau 1). La stratégie à 12 mois
 - Monter d'un cran sur l'expertise (spécialisation, secteur, technique), là où l'IA ne suffit pas.
 - Devenir le junior qui *orchestre* l'IA dans son service. C'est le rôle le plus défendable parce qu'il n'existe pas encore de formation officielle dessus. Apprends sur le tas, documente tes workflows, rends-les visibles.
 - Changer d'entreprise au bon moment : les boîtes équipées Claude sont celles où le marché se reconfigure le plus vite. Rester dans une boîte non équipée est un sursis, pas une protection.

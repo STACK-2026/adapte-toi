@@ -48,7 +48,7 @@ Le métier de développeur connaît la transformation la plus profonde de tous l
 
 ## L'IA et le métier de dev en 2026
 
-**Ce qui est largement automatisé** :
+**Ce qui est largement automatisé**
 - Boilerplate (CRUD, getters/setters, classes basiques)
 - Tests unitaires standard
 - Documentation API et README
@@ -57,7 +57,7 @@ Le métier de développeur connaît la transformation la plus profonde de tous l
 - Code review niveau 1 (Copilot Code Review)
 - Recherche dans la doc (Perplexity, Phind)
 
-**Ce qui reste 100% humain** :
+**Ce qui reste 100% humain**
 - Architecture système et choix techniques
 - Debug complexe (root cause, race conditions)
 - Décisions de tradeoff (perf vs lisibilité, build vs buy)
@@ -85,23 +85,23 @@ Le métier de développeur connaît la transformation la plus profonde de tous l
 
 ## Top 5 outils IA à maîtriser
 
-### 1. [Cursor](/outils/cursor/) — l'éditeur AI-first
+### 1. [Cursor](/outils/cursor/) : l'éditeur AI-first
 
 Fork VS Code repensé autour de l'IA. Refactos multi-fichiers (Composer), Background Agents qui codent en arrière-plan, indexation projet entière, Cmd K inline edit. **Pro 20 dollars/mois.**
 
-### 2. [GitHub Copilot](/outils/copilot/) — l'extension multi-IDE
+### 2. [GitHub Copilot](/outils/copilot/) : l'extension multi-IDE
 
 Fonctionne dans VS Code, JetBrains, Visual Studio, Xcode, Neovim. Indispensable si tu codes en Java/Kotlin/C#/Swift. **Pro 10 dollars/mois ou gratuit étudiants.**
 
-### 3. [Claude Code (CLI)](/outils/claude/) — automatisations CLI
+### 3. [Claude Code (CLI)](/outils/claude/) : automatisations CLI
 
 CLI Anthropic pour automatiser les tâches dev complexes : refactoring multi-fichiers, génération de tests, migrations entre frameworks. **Inclus dans Claude Pro 20 dollars/mois.**
 
-### 4. [ChatGPT Plus](/outils/chatgpt/) — la polyvalence
+### 4. [ChatGPT Plus](/outils/chatgpt/) : la polyvalence
 
 Code Interpreter (exécution Python en sandbox), Canvas (édition de code partagée), mode voix avancé pour brainstorm en marchant, DALL-E pour les visuels de doc. **20 dollars/mois.**
 
-### 5. [Perplexity](/outils/perplexity/) — doc et debug rapide
+### 5. [Perplexity](/outils/perplexity/) : doc et debug rapide
 
 Recherche sur une bibliothèque récente avec sources, debug d'erreur (paste l'erreur, Perplexity te sort la solution + sources), veille tech. **Gratuit suffit pour 90% des cas.**
 

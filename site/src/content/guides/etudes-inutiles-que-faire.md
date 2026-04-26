@@ -88,7 +88,7 @@ Négociation, présentation orale, travail en équipe, gestion de conflit, empat
 
 ### Tu es en L1-L3 (licence)
 
-**Ne lâche pas.** Le diplôme reste un signal utile. Mais ajoute :
+**Ne lâche pas.** Le diplôme reste un signal utile. Mais ajoute
 - 1h par jour sur ChatGPT/Claude pour tes travaux (apprends à prompter, pas à copier)
 - 1 certification gratuite en parallèle (Google AI Essentials, Elements of AI)
 - 1 stage dans une entreprise qui utilise l'IA

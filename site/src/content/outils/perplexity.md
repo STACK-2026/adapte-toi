@@ -192,8 +192,7 @@ C'est la question que tout le monde se pose en 2026 : Perplexity remplace-t-il G
 
 ## Alternatives à Perplexity en 2026
 
-Si tu veux tester d'autres moteurs de réponse IA :
-
+Si tu veux tester d'autres moteurs de réponse IA
 - **[ChatGPT](/outils/chatgpt/)** avec le mode Search activé : alternative la plus complète, plus créatif mais sources moins propres
 - **[Claude](/outils/claude/)** avec sa nouvelle fonction recherche web : excellent pour les analyses longues
 - **Le Chat de Mistral** : alternative française hébergée en Europe, monte vite en qualité, voir notre [comparatif des alternatives françaises à Perplexity](/guides/alternatives-francaises-a-perplexity/)

@@ -44,10 +44,10 @@ Le chargé de clientèle est le métier le plus impacté par l'IA en 2026 selon 
 
 ## Top 4 outils pour pivoter IA-ready
 
-1. **[ChatGPT Plus](/outils/chatgpt/)** — drafts mails clients, tonalité ajustable
-2. **[Notion AI](/outils/notion-ai/)** — base clients structurée
-3. **[HubSpot](/outils/hubspot/)** AI — CRM avec IA (CSM standard)
-4. **[Claude](/outils/claude/)** — analyse longues docs client
+1. **[ChatGPT Plus](/outils/chatgpt/)** : drafts mails clients, tonalité ajustable
+2. **[Notion AI](/outils/notion-ai/)** : base clients structurée
+3. **[HubSpot](/outils/hubspot/)** AI : CRM avec IA (CSM standard)
+4. **[Claude](/outils/claude/)** : analyse longues docs client
 
 ## Salaires 2026
 

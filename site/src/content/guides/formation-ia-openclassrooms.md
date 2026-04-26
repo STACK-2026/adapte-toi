@@ -55,7 +55,7 @@ OpenClassrooms est en 2026 le leader français de la formation en ligne diplôma
 
 OpenClassrooms est un organisme de formation français créé en 2007 (sous le nom Site du Zéro), basé à Paris. En 2026 il revendique 4 millions d'apprenants actifs, 1000+ parcours, 95% certifiants RNCP. Sa particularité : combiner du contenu en ligne (vidéos, exercices) avec un mentorat humain hebdomadaire.
 
-**Ce qui le distingue** :
+**Ce qui le distingue**
 - **CPF intégral** : la quasi-totalité des parcours diplômants sont CPF-éligibles à 100%
 - **RNCP** : 70% des parcours délivrent un diplôme RNCP reconnu par l'État
 - **Mentorat 1-1** : un mentor pro affecté, sessions hebdomadaires en visio
@@ -143,13 +143,13 @@ Si ton CPF a 8000+ dollars : **0 dollars** pour Data Scientist.
 
 C'est le différenciateur clé vs Coursera, edX et tous les MOOCs autodidactes.
 
-**Comment ça marche** :
+**Comment ça marche**
 - Mentor pro affecté dès le début (en France, francophone, expérience 5+ ans dans le métier cible)
 - 1 session de 1h en visio chaque semaine
 - Le mentor relit tes projets, te challenge, t'oriente, débloque tes points durs
 - Communication asynchrone via la plateforme entre les sessions
 
-**Ce que ça apporte** :
+**Ce que ça apporte**
 - **Taux de complétion** : 70% chez OpenClassrooms vs 4-10% sur les MOOCs autodidactes
 - **Réseau pro** : ton mentor est ton premier contact pro dans le secteur
 - **Réalisme du marché** : le mentor te dit ce qui se passe vraiment dans le métier (pas la théorie)
@@ -201,7 +201,7 @@ Voir notre [guide formation IA Coursera en français](/guides/formation-ia-cours
 
 **Le RNCP en 2 phrases** : Répertoire National des Certifications Professionnelles. Les diplômes RNCP sont reconnus par l'État français comme équivalents aux diplômes universitaires. Niveau 5 = Bac+2, niveau 6 = Bac+3, niveau 7 = Bac+5.
 
-**Ce que ça veut dire concrètement** :
+**Ce que ça veut dire concrètement**
 - 92% des recruteurs tech en France reconnaissent les diplômes OpenClassrooms (LinkedIn Recruiting Survey 2025)
 - Tu peux postuler à des offres "Bac+5 requis" avec un RNCP 7 OpenClassrooms
 - Tu peux obtenir l'accès à des concours publics (banque, administration) qui exigent un niveau Bac+3 ou plus

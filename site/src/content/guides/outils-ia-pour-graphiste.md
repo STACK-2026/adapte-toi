@@ -50,14 +50,14 @@ Le métier de graphiste a connu sa plus grande transformation en 2026 avec la ma
 
 **Pourquoi c'est devenu obligatoire** : Midjourney v7 est la référence absolue 2026 sur la qualité artistique. Aucun concurrent n'égale sa signature esthétique, sa cohérence entre prompts, sa gestion du photoréalisme.
 
-**Cas d'usage clés** :
+**Cas d'usage clés**
 - Moodboards de marque (20 visuels d'inspiration en 15 min)
 - Portraits stylisés pour identité de marque
 - Illustrations éditoriales pour blogs/magazines
 - Visuels publicitaires premium
 - Concept art pour clients créatifs
 
-**Prompt structuré qui marche** :
+**Prompt structuré qui marche**
 > "portrait d'une femme française élégante, années 1960, style photographique cinématographique, lumière douce du matin, couleurs pastel, fond flou de café parisien --ar 4:5 --style raw --stylize 200 --v 7"
 
 **Plan Pro obligatoire pour les freelances** : 60 dollars/mois pour la licence commerciale + stealth mode (indispensable pour le travail client).
@@ -68,7 +68,7 @@ Voir notre [fiche complète Midjourney](/outils/midjourney/) et [comparateur Mid
 
 ## 2. Adobe Firefly (Creative Cloud) : la production sécurisée
 
-**Pourquoi c'est complémentaire à Midjourney** : Firefly est intégré nativement dans Photoshop, Illustrator, Express avec des fonctions IA :
+**Pourquoi c'est complémentaire à Midjourney** : Firefly est intégré nativement dans Photoshop, Illustrator, Express avec des fonctions IA
 - **Generative Fill** : retouche de photos par prompt (suppression d'objet, remplacement de fond)
 - **Generative Recolor** : variantes de couleurs sur un visuel
 - **Generative Expand** : extension d'image au-delà du cadre original
@@ -76,7 +76,7 @@ Voir notre [fiche complète Midjourney](/outils/midjourney/) et [comparateur Mid
 
 **Avantage juridique unique** : Adobe garantit l'indemnisation IP en plan Enterprise. Si tu te fais attaquer pour une suggestion Firefly, Adobe te défend. Aucun autre générateur ne fait ça.
 
-**Workflow type** :
+**Workflow type**
 1. Midjourney génère le moodboard et la direction créative
 2. Tu choisis 5 visuels forts
 3. Photoshop + Firefly retouche / adapte / variantise
@@ -90,15 +90,14 @@ Voir [fiche Adobe Firefly](/outils/adobe-firefly/).
 
 ## 3. ChatGPT Plus pour les briefs et le copy
 
-**Cas d'usage graphiste** :
-
-**Brief créatif structuré** :
+**Cas d'usage graphiste**
+**Brief créatif structuré**
 > "Pour un client [type, secteur], je dois créer une identité visuelle. Génère un brief de moodboard : 5 directions créatives possibles avec mots-clés visuels, palette type, références culturelles, tonalité émotionnelle."
 
-**Génération de copy pour visuels** :
+**Génération de copy pour visuels**
 > "Pour un visuel publicitaire de [produit X] cible [Y], génère 10 accroches de 5-7 mots maximum. Mix punchline/question/promesse."
 
-**Slogans de marque** :
+**Slogans de marque**
 > "Génère 30 slogans pour une marque [secteur] qui se positionne sur [valeurs]. Court (3-7 mots), mémorable, en français pas traduit."
 
 Voir [fiche ChatGPT](/outils/chatgpt/).
@@ -109,7 +108,7 @@ Voir [fiche ChatGPT](/outils/chatgpt/).
 
 **Pour qui** : graphistes qui travaillent avec des PME, des CMs, des marketeurs sur des volumes élevés (posts sociaux, présentations, banners).
 
-**Magic Studio Canva 2026** :
+**Magic Studio Canva 2026**
 - Magic Design (génération de design à partir d'un prompt)
 - Magic Resize (adaptation cross-formats automatique)
 - Magic Edit (retouche par prompt)
@@ -127,7 +126,7 @@ Voir [fiche Canva AI](/outils/canva-ai/).
 
 **Pour qui** : UX/UI designers, designers produit, équipes startup.
 
-**Fonctions IA natives 2026** :
+**Fonctions IA natives 2026**
 - Génération de variantes (mêmes composants, styles différents)
 - Fill avec IA (placeholders intelligents)
 - Génération de copy en français
@@ -154,8 +153,7 @@ Voir [fiche Canva AI](/outils/canva-ai/).
 
 ## Sécurité juridique : le sujet critique des graphistes pro
 
-**Hiérarchie de risque** :
-
+**Hiérarchie de risque**
 **Tier 1 (le plus sûr)** : Adobe Firefly Enterprise avec indemnisation IP. Pour les marques régulées, banques, pharmas, B2B sensibles.
 
 **Tier 2 (sûr pour la majorité)** : Midjourney Pro avec licence commerciale + stealth mode. Pour le créatif standard et freelance pro.

@@ -75,7 +75,7 @@ Cours en ligne créé par l'université d'Helsinki et MinnaLearn. Utilisé par p
 
 ### France Université Numérique (FUN-MOOC)
 
-La plateforme de MOOCs des universités françaises propose plusieurs cours gratuits sur l'IA :
+La plateforme de MOOCs des universités françaises propose plusieurs cours gratuits sur l'IA
 - "L'intelligence artificielle avec intelligence" (INRIA)
 - "Objectif IA" (Institut Montaigne + OpenClassrooms)
 - "Introduction au machine learning" (université Paris-Saclay)
@@ -162,7 +162,7 @@ Tu maîtrises les outils IA, maintenant tu veux les connecter entre eux pour aut
 
 La plateforme d'automatisation la plus accessible. Tu connectes tes outils (Gmail, Slack, Google Sheets, CRM, ChatGPT...) avec des blocs visuels, sans coder. La version gratuite permet 1 000 opérations par mois.
 
-**Exemples d'automatisations** :
+**Exemples d'automatisations**
 - Nouveau lead dans ton CRM -> email de bienvenue personnalisé par IA -> notification Slack
 - Nouveau article de blog concurrent -> résumé par Claude -> post LinkedIn généré automatiquement
 - Facture reçue par email -> extraction des données par IA -> saisie automatique dans ton logiciel comptable

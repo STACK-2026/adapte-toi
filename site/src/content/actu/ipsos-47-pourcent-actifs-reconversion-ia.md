@@ -55,7 +55,7 @@ Mais le chiffre qui fait vraiment trembler les DRH n'est pas celui-là. C'est le
 
 ## Ce qu'on en dit vraiment
 
-**Un.** Le mot "reconversion" dit plusieurs choses à la fois. Ipsos distingue trois niveaux :
+**Un.** Le mot "reconversion" dit plusieurs choses à la fois. Ipsos distingue trois niveaux
 - Changer de métier dans le même secteur (ex : commercial → formateur interne) : 21 % des cas.
 - Changer de secteur mais avec des compétences transférables (RH → coach indépendant) : 38 %.
 - Changement radical, souvent avec formation longue (cadre banque → maraîcher, avocate → prof de yoga) : 41 %.
@@ -87,7 +87,7 @@ C'est le basculement silencieux du marché du travail français. Les entreprises
 
 ## Pour toi concrètement
 
-**Tu fais partie des 47 %.** Avant de faire quoi que ce soit, pose-toi cinq questions sur un bout de papier :
+**Tu fais partie des 47 %.** Avant de faire quoi que ce soit, pose-toi cinq questions sur un bout de papier
 - Qu'est-ce qui me pousse vraiment à partir (sens, salaire, peur IA, environnement) ?
 - Quel métier cible je vise, ou je ne sais pas encore ?
 - Combien de temps et d'argent je peux mobiliser ?

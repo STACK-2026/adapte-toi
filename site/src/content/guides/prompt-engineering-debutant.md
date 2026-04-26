@@ -60,7 +60,7 @@ L'IA adapte son vocabulaire, son niveau de détail et ses recommandations au rô
 
 ### Règle 2 : sois précis sur ce que tu veux
 
-Ne dis pas "écris un texte". Dis :
+Ne dis pas "écris un texte". Dis
 - **Le format** : email, article, liste, tableau, script vidéo, fiche produit
 - **La longueur** : 150 mots, 3 paragraphes, 1 page
 - **Le ton** : formel, décontracté, technique, vulgarisé
@@ -69,7 +69,7 @@ Ne dis pas "écris un texte". Dis :
 
 ### Règle 3 : donne du contexte
 
-Plus l'IA a d'informations, meilleur est le résultat. Donne-lui :
+Plus l'IA a d'informations, meilleur est le résultat. Donne-lui
 - **Qui tu es** : ton métier, ton entreprise, ton secteur
 - **À qui tu t'adresses** : le destinataire, son profil, ses attentes
 - **Le contexte** : pourquoi tu écris, quel est le problème, quel est l'historique
@@ -82,7 +82,7 @@ Si tu as un modèle, montre-le à l'IA. C'est la technique du "few-shot" : tu do
 
 ### Règle 5 : itère et affine
 
-Le premier résultat n'est jamais parfait. Affine :
+Le premier résultat n'est jamais parfait. Affine
 - *"C'est bien mais raccourcis le 2e paragraphe."*
 - *"Ajoute des chiffres concrets."*
 - *"Le ton est trop formel, rends-le plus direct."*
@@ -102,9 +102,8 @@ Demande à l'IA de réfléchir étape par étape avant de répondre. Ça amélio
 
 ### Structure imposée
 
-Impose un format de sortie précis :
-
-*"Réponds avec cette structure exacte :
+Impose un format de sortie précis
+*"Réponds avec cette structure exacte
 - Résumé (3 lignes)
 - Points forts (liste)
 - Points faibles (liste)
@@ -112,14 +111,12 @@ Impose un format de sortie précis :
 
 ### Persona + contraintes négatives
 
-Dis ce que tu ne veux PAS autant que ce que tu veux :
-
+Dis ce que tu ne veux PAS autant que ce que tu veux
 *"Ne commence pas par 'Bien sûr'. Ne fais pas de liste à puces sauf si je le demande. Ne sois pas condescendant. Pas de jargon marketing."*
 
 ### Mega-prompt (contexte riche)
 
-Pour les tâches complexes, donne un brief complet en un seul message :
-
+Pour les tâches complexes, donne un brief complet en un seul message
 *"Tu es [rôle]. Je travaille dans [secteur]. Mon objectif est [X]. Mon audience est [Y]. Les contraintes sont [Z]. Le ton doit être [T]. Le format est [F]. Voici un exemple de ce que je veux : [exemple]. Maintenant, fais [tâche]."*
 
 ---
@@ -176,21 +173,20 @@ Le texte IA a souvent un "ton IA" reconnaissable (phrases trop lisses, structure
 
 <h2 id="exercices">Exercices pratiques</h2>
 
-Essaie ces exercices maintenant (gratuits, sur ChatGPT ou Claude) :
-
+Essaie ces exercices maintenant (gratuits, sur ChatGPT ou Claude)
 **Exercice 1 - Email de relance**
-Ouvre ChatGPT ou Claude. Copie ce prompt et adapte-le à ta situation :
+Ouvre ChatGPT ou Claude. Copie ce prompt et adapte-le à ta situation
 *"Tu es [ton métier]. Rédige un email de relance pour [situation]. Ton : [ton souhaité]. Maximum [X] mots."*
 
 **Exercice 2 - Synthèse d'un document**
-Copie un texte long (article, rapport, email) et demande :
+Copie un texte long (article, rapport, email) et demande
 *"Résume ce texte en 5 points clés, puis donne-moi les 3 actions concrètes à retenir."*
 
 **Exercice 3 - Brainstorming**
 *"Je suis [métier] et je cherche des idées pour [objectif]. Donne-moi 10 idées originales, classées par faisabilité (facile/moyen/difficile)."*
 
 **Exercice 4 - Analyse critique**
-Copie un de tes textes (email, article, présentation) et demande :
+Copie un de tes textes (email, article, présentation) et demande
 *"Analyse ce texte. Points forts, points faibles, suggestions d'amélioration concrètes. Sois direct et honnête."*
 
 ---

@@ -49,7 +49,7 @@ L'agriculteur face à l'IA en 2026 : métier SAFE structurellement, mais qui se 
 
 ## Outils IA pertinents
 
-1. **[ChatGPT](/outils/chatgpt/)** gratuit — admin, demandes PAC, mails clients
+1. **[ChatGPT](/outils/chatgpt/)** gratuit : admin, demandes PAC, mails clients
 2. Drones DJI Agriculture, capteurs IoT, logiciels filière
 
 ## Sources

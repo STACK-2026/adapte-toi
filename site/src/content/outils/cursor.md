@@ -79,7 +79,7 @@ Tu connais Word qui souligne tes fautes en rouge ? Cursor fait pareil pour le co
 
 C'est un **éditeur de code** (le logiciel où les développeurs écrivent leurs programmes), basé sur **VS Code** (l'éditeur de référence dans le monde, créé par Microsoft), mais avec l'IA intégrée nativement pour aider à écrire du code.
 
-Concrètement, Cursor te permet de :
+Concrètement, Cursor te permet de
 1. **Compléter ton code automatiquement** quand tu tapes (autocomplétion intelligente)
 2. **Discuter avec une IA** dans une fenêtre intégrée pour poser des questions sur ton code
 3. **Modifier plusieurs fichiers en une fois** avec un seul prompt en langage naturel

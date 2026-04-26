@@ -33,7 +33,7 @@ Selon [PwC (2025)](https://www.pwc.com/gx/en/issues/artificial-intelligence.html
 
 Si tu produis 3 fois plus pour le même salaire, tu es sous-payé. Si ton employeur te remplaçait par quelqu'un sans compétences IA, il perdrait cette productivité. C'est ta position de négociation.
 
-**Les chiffres qui appuient** :
+**Les chiffres qui appuient**
 - **+25%** de salaire moyen pour les profils IA-ready (PwC 2025)
 - **+270%** de croissance des offres mentionnant l'IA (LinkedIn 2024)
 - **47%** des actifs envisagent une reconversion (Ipsos) : la concurrence pour les profils IA est faible
@@ -44,12 +44,12 @@ Si tu produis 3 fois plus pour le même salaire, tu es sous-payé. Si ton employ
 
 ### Étape 1 : quantifie ta productivité IA
 
-Pendant 2-4 semaines, note précisément :
+Pendant 2-4 semaines, note précisément
 - Les tâches que tu automatises avec l'IA
 - Le temps gagné par tâche (en heures/semaine)
 - La qualité produite (meilleure, équivalente, ou nouvelle)
 
-**Exemple concret** :
+**Exemple concret**
 - "Je rédige les comptes-rendus de réunion avec Otter.ai : 2h gagnées/semaine"
 - "J'automatise le reporting hebdo avec Make.com + ChatGPT : 3h gagnées/semaine"
 - "Je produis 3x plus de contenus marketing avec Claude : valeur estimée à 2 000 euros/mois de production en plus"
@@ -62,7 +62,7 @@ Si en plus tu produis des résultats supplémentaires (plus de contenu, plus de 
 
 ### Étape 3 : benchmark ton marché
 
-Recherche les salaires de ton poste + compétences IA sur :
+Recherche les salaires de ton poste + compétences IA sur
 - **Glassdoor** / **Indeed** : filtres par compétence
 - **Figures.hr** : benchmark salaires France par poste
 - **Malt** : TJM des freelances de ton profil (si tu es tenté de partir, ton employeur doit le savoir)
@@ -78,7 +78,7 @@ Recherche les salaires de ton poste + compétences IA sur :
 
 ### Les faits
 
-*"Concrètement, j'ai :
+*"Concrètement, j'ai
 - Automatisé [tâche X] qui me prenait [Y heures/semaine], soit [Z heures/an] de temps libéré
 - Augmenté ma production de [X]% sur [domaine]
 - Mis en place [outil/process] qui profite à toute l'équipe

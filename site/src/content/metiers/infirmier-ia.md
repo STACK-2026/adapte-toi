@@ -58,9 +58,9 @@ Le métier d'infirmier est l'un des plus protégés de l'IA en 2026. Score 2/10.
 
 ## Top 3 outils IA pertinents
 
-1. **[ChatGPT](/outils/chatgpt/) gratuit** — rédaction de transmissions, veille
-2. **[Notion AI](/outils/notion-ai/)** — base interne service
-3. **[Otter.ai](/outils/otter-ai/)** — CR de réunions équipe
+1. **[ChatGPT](/outils/chatgpt/) gratuit** : rédaction de transmissions, veille
+2. **[Notion AI](/outils/notion-ai/)** : base interne service
+3. **[Otter.ai](/outils/otter-ai/)** : CR de réunions équipe
 
 **Combo** : 0 à 50 dollars/mois. L'usage IA reste secondaire, le métier fonctionne 100% en physique avec le patient.
 

@@ -48,18 +48,17 @@ Le métier de consultant est l'un des plus transformés par l'IA en 2026. Les an
 
 ## 1. Claude Pro : l'arme absolue du consultant
 
-**Cas d'usage clés** :
-
-**Audit de documentation client** (50-200 pages) :
+**Cas d'usage clés**
+**Audit de documentation client** (50-200 pages)
 > "Voici tous les docs du client [anonymisé] : rapport stratégique 2024, bilan financier 3 ans, audit qualité 2025. Identifie : (1) 5 problèmes prioritaires, (2) 3 quick wins, (3) 5 opportunités stratégiques 2026, (4) 3 risques sous-estimés, (5) 5 questions à poser au COMEX en kickoff."
 
-**Benchmark sectoriel** :
+**Benchmark sectoriel**
 > "Voici 10 documents publics de concurrents secteur [X]. Synthèse comparative : positionnement de chacun, propositions de valeur, gaps de marché, opportunité pour notre client."
 
-**Recommandations stratégiques** :
+**Recommandations stratégiques**
 > "À partir des 5 problèmes identifiés et du benchmark, génère un plan d'action 12 mois pour notre client : 8 chantiers priorisés (impact × effort), KPIs cibles, jalons trimestriels."
 
-**Production rapport final 30+ pages** :
+**Production rapport final 30+ pages**
 > "À partir des analyses ci-dessus + ces données client [colle], rédige un rapport 30 pages structuré : exec summary, contexte, analyses, recommandations, plan d'action, annexes. Ton McKinsey-style sec et factuel."
 
 **ROI** : audit qui prenait 4 jours en 1 jour. Sur 10 missions/an = 30 jours de capacité supplémentaire = +30K dollars potentiels.
@@ -70,15 +69,14 @@ Voir notre [fiche complète Claude](/outils/claude/) et [comparateur Claude vs C
 
 ## 2. ChatGPT Plus pour le brainstorm et la production
 
-**Cas d'usage** :
-
-**Brainstorm angles d'attaque** :
+**Cas d'usage**
+**Brainstorm angles d'attaque**
 > "Pour une mission de [type] dans le secteur [X], donne-moi 30 angles d'analyse possibles. Mix court terme/moyen terme/disruption. Inclus 5 angles non-conventionnels."
 
-**Frameworks personnalisés** :
+**Frameworks personnalisés**
 > "Génère un framework d'analyse pour évaluer la maturité IA d'une PME française : 8 dimensions, 3 niveaux par dimension, scoring sur 100, recommandations associées."
 
-**Slides texte avec Gamma-ready output** :
+**Slides texte avec Gamma-ready output**
 > "Pour ce rapport [colle], génère le storyboard d'un deck 15 slides : titre + 3 bullets par slide. Format : 1 ligne titre, 3 lignes bullets, focus message clé. Direct exploitable dans Gamma."
 
 Voir notre [fiche ChatGPT](/outils/chatgpt/).
@@ -87,15 +85,14 @@ Voir notre [fiche ChatGPT](/outils/chatgpt/).
 
 ## 3. Perplexity Pro pour la veille et le briefing
 
-**Cas d'usage** :
-
-**Brief secteur en 5 min avant kickoff** :
+**Cas d'usage**
+**Brief secteur en 5 min avant kickoff**
 > "Synthèse du marché du [secteur X] en France en 2026 : taille, top 5 acteurs avec parts de marché, principaux enjeux 2026, dernières actu majeures, sources citées."
 
-**Veille concurrentielle hebdo** :
+**Veille concurrentielle hebdo**
 > "Quelles sont les annonces des 5 concurrents [liste] ce mois ? Synthèse + sources cliquables."
 
-**Vérification d'un chiffre dans un rapport** :
+**Vérification d'un chiffre dans un rapport**
 > "L'étude McKinsey 2025 dit-elle vraiment que 40% des emplois français sont automatisables ? Cite la source précise."
 
 Voir notre [fiche Perplexity](/outils/perplexity/) et [comparateur Perplexity vs Google](/guides/perplexity-vs-google/).
@@ -104,7 +101,7 @@ Voir notre [fiche Perplexity](/outils/perplexity/) et [comparateur Perplexity vs
 
 ## 4. Notion AI pour la base missions
 
-**Cas d'usage consultant** :
+**Cas d'usage consultant**
 - Base clients/missions structurée (avec docs anonymisés)
 - Templates : audit, recommandations, rapports, propositions
 - Library de frameworks et methodologies
@@ -119,7 +116,7 @@ Voir [fiche Notion AI](/outils/notion-ai/).
 
 **Pourquoi c'est unique** : Gamma génère des slides de qualité agence à partir d'un prompt texte. Designs propres, animations subtiles, intégrations data, tout en français.
 
-**Workflow Gamma + ChatGPT** :
+**Workflow Gamma + ChatGPT**
 1. ChatGPT génère le storyboard texte (15 slides : titre + bullets)
 2. Tu colles dans Gamma → slides pro générées en 2 min
 3. Tu adaptes 5 slides au branding client

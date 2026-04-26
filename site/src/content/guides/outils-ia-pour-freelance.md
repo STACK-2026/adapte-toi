@@ -52,7 +52,7 @@ Le freelance qui maîtrise l'IA en 2026 facture 3x plus que le freelance traditi
 
 **Pourquoi le marché paie cette prime** : les clients PME et startups cherchent des freelances qui livrent vite, avec qualité, sans surcoût. Le freelance IA-ready livre en 2 jours ce qui prenait 5 jours, à qualité supérieure.
 
-**ROI sur le stack à 60 dollars/mois** :
+**ROI sur le stack à 60 dollars/mois**
 - 1 jour facturé à 350 dollars = stack rentabilisé pour 6 mois
 - 1 mission de 3000 dollars (3 jours sans IA, 1 jour avec) = +5000 dollars de marge annuelle si tu reproduis ce gain 10 fois
 - 12 missions/an avec 50% gain temps = +30K dollars de capacité supplémentaire
@@ -61,15 +61,14 @@ Le freelance qui maîtrise l'IA en 2026 facture 3x plus que le freelance traditi
 
 ## 1. ChatGPT Plus : la production rapide
 
-**Cas d'usage freelance** :
-
-**A/ Proposition commerciale** :
+**Cas d'usage freelance**
+**A/ Proposition commerciale**
 > "Rédige une proposition commerciale pour un client [type] qui veut [mission Y, durée Z, budget K dollars]. 3 pages : compréhension besoin, approche, livrables/planning, tarification. Ton pro direct."
 
-**B/ Brief de mission à valider** :
+**B/ Brief de mission à valider**
 > "À partir de ces notes brutes du kickoff [colle], génère un brief client structuré avec compréhension besoin, contraintes, livrables, planning, points à clarifier."
 
-**C/ Recap fin de mission + facture** :
+**C/ Recap fin de mission + facture**
 > "Voici les notes des échanges client + livrables réalisés. Génère : (1) recap final avec impact mesuré, (2) email de remerciement avec proposition de suite, (3) facture standard avec mentions légales FR (SIRET, TVA non applicable art. 293 B si micro)."
 
 Voir [fiche ChatGPT](/outils/chatgpt/).
@@ -80,7 +79,7 @@ Voir [fiche ChatGPT](/outils/chatgpt/).
 
 **Indispensable pour** : rédacteurs, copywriters, consultants, juristes, journalistes qui produisent des documents 3000+ mots.
 
-**Cas d'usage type** :
+**Cas d'usage type**
 - Audit complet d'un site (10 pages livrable)
 - Recommandations stratégiques basées sur 50 pages de docs client
 - Article SEO 2500 mots cohérent du début à la fin
@@ -94,7 +93,7 @@ Voir notre [comparateur Claude vs ChatGPT](/guides/claude-vs-chatgpt/) pour le v
 
 **Cas d'usage critique freelance** : avant chaque RDV prospect, tu fais 5 minutes de brief Perplexity.
 
-**Prompt type** :
+**Prompt type**
 > "Que sait-on publiquement de [entreprise X] et de son DG [Y] : actu 2026, levée de fonds éventuelle, problématique métier probable, faiblesses publiques. Cite tes sources."
 
 **Résultat** : 5 minutes de prep qui transforment ton appel découverte en discussion ciblée. Taux de conversion qui grimpe.
@@ -115,7 +114,7 @@ Voir [fiche Perplexity](/outils/perplexity/).
 
 ## 5. Notion AI : pour structurer ton activité freelance
 
-**Cas d'usage freelance** :
+**Cas d'usage freelance**
 - Base clients : projets en cours, historique, factures, contacts
 - Templates : propositions, contrats, factures, CR client
 - Veille : actu sectorielle, tendances, opportunités

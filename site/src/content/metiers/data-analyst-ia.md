@@ -48,7 +48,7 @@ Le data analyst est l'un des métiers les plus en tension en France en 2026. Le 
 
 ## L'IA et le métier de data analyst en 2026
 
-**Ce qui est automatisé** :
+**Ce qui est automatisé**
 - Requêtes SQL basiques (ChatGPT/Claude génèrent les SELECT)
 - Scripts Python répétitifs (pandas, numpy)
 - Dashboards standardisés (Tableau, Power BI templates)
@@ -56,7 +56,7 @@ Le data analyst est l'un des métiers les plus en tension en France en 2026. Le 
 - Détection d'anomalies basique (Anomaly Detection auto)
 - Exploration data initiale (Code Interpreter ChatGPT)
 
-**Ce qui reste humain** :
+**Ce qui reste humain**
 - Identification des questions business pertinentes
 - Lecture stratégique des résultats (et pas just la corrélation)
 - Communication des insights aux non-techniques
@@ -72,11 +72,11 @@ Métier transformé, pas remplacé. Senior + IA = très protégé.
 
 ## Top 5 outils IA à maîtriser
 
-1. **[ChatGPT Plus](/outils/chatgpt/)** — SQL, Python, Excel, Code Interpreter
-2. **[Claude Pro](/outils/claude/)** — analyse longs rapports data, recommandations
-3. **[Cursor](/outils/cursor/)** — coder Python efficacement
-4. **[Notion AI](/outils/notion-ai/)** — structurer insights et documentation
-5. **[Perplexity](/outils/perplexity/)** — veille tech data + sources
+1. **[ChatGPT Plus](/outils/chatgpt/)** : SQL, Python, Excel, Code Interpreter
+2. **[Claude Pro](/outils/claude/)** : analyse longs rapports data, recommandations
+3. **[Cursor](/outils/cursor/)** : coder Python efficacement
+4. **[Notion AI](/outils/notion-ai/)** : structurer insights et documentation
+5. **[Perplexity](/outils/perplexity/)** : veille tech data + sources
 
 **Combo** : ChatGPT Plus + Claude Pro + Cursor = 60 dollars/mois.
 

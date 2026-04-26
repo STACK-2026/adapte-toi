@@ -48,7 +48,7 @@ Le métier de graphiste a connu sa plus grande transformation en 2026 avec la ma
 
 ## L'IA et le métier de graphiste en 2026
 
-**Ce qui est massivement automatisé** :
+**Ce qui est massivement automatisé**
 - Visuels sociaux basiques (posts LinkedIn, Instagram, banners)
 - Déclinaisons de format (Magic Resize Canva)
 - Retouches photo basique (Generative Fill Firefly)
@@ -57,7 +57,7 @@ Le métier de graphiste a connu sa plus grande transformation en 2026 avec la ma
 - Illustrations éditoriales standardisées
 - Templates et présentations
 
-**Ce qui reste premium humain** :
+**Ce qui reste premium humain**
 - Direction artistique de marque
 - Identité visuelle complète (logo, charte, brand book)
 - Créativité originale et signature
@@ -84,23 +84,23 @@ Le métier de graphiste a connu sa plus grande transformation en 2026 avec la ma
 
 ## Top 5 outils IA à maîtriser
 
-### 1. [Midjourney Pro](/outils/midjourney/) — l'arme créative
+### 1. [Midjourney Pro](/outils/midjourney/) : l'arme créative
 
 Référence absolue 2026 sur la qualité artistique. Moodboards, portraits stylisés, illustrations éditoriales, visuels publicitaires premium, concept art. **Plan Pro 60 dollars/mois OBLIGATOIRE pour les freelances** (licence commerciale + stealth mode).
 
-### 2. [Adobe Firefly](/outils/adobe-firefly/) (Creative Cloud) — production sécurisée
+### 2. [Adobe Firefly](/outils/adobe-firefly/) (Creative Cloud) : production sécurisée
 
 Intégré Photoshop, Illustrator, Express. Generative Fill, Recolor, Expand. Indemnisation IP Adobe pour clients sensibles (banques, pharmas, marques régulées). **Adobe Creative Cloud All Apps 60 dollars/mois inclut Firefly.**
 
-### 3. [ChatGPT Plus](/outils/chatgpt/) — briefs et copy
+### 3. [ChatGPT Plus](/outils/chatgpt/) : briefs et copy
 
 Brief créatif structuré, génération de copy pour visuels, slogans de marque, accroches publicitaires. **20 dollars/mois.**
 
-### 4. [Canva AI](/outils/canva-ai/) — volumes simples
+### 4. [Canva AI](/outils/canva-ai/) : volumes simples
 
 Magic Design, Magic Resize, Magic Edit, Magic Switch. Pour les CMs et marketeurs ou les volumes secondaires d'un studio. **Pro 12 dollars/mois.**
 
-### 5. [Claude](/outils/claude/) — pour la stratégie de marque
+### 5. [Claude](/outils/claude/) : pour la stratégie de marque
 
 Analyse de brief client (longues docs), recommandations stratégiques, rédaction de cahier des charges. **20 dollars/mois.**
 

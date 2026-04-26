@@ -88,7 +88,7 @@ La phrase est honnête, donc brutale. Elle explicite le mécanisme le plus fréq
 
 **Tu es junior sur un métier exposé.** Regarde le turnover de ton service sur les 18 derniers mois. Ce n'est pas le nombre de licenciements qui compte, c'est le nombre de postes *non remplacés* après un départ. Si personne ne remplace, ton poste est déjà dans la file d'attente. Tu as 12 à 24 mois pour bouger, soit dans la boîte vers un poste plus défendable, soit ailleurs.
 
-**Tu es dans un grand groupe français.** Les signaux à surveiller :
+**Tu es dans un grand groupe français.** Les signaux à surveiller
 - Gel du recrutement junior sur 6+ mois.
 - Plan de départ volontaire ouvert "à tous volontaires, toutes fonctions".
 - Dispositifs d'upskilling IA massifs et soudains (ils préparent souvent une réorganisation de postes).

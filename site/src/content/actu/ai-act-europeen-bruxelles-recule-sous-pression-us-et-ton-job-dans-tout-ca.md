@@ -46,7 +46,7 @@ draft: false
 ---
 
 ## Le fait
-L'Union européenne reporte l'application de l'[AI Act](/guides/ia-europe-reglementation), première loi mondiale encadrant l'IA, sous pression des États-Unis et des géants tech (Microsoft, OpenAI, Mistral). Selon le [Financial Times](https://www.ft.com), la Commission européenne annonce le **19 novembre 2025** :
+L'Union européenne reporte l'application de l'[AI Act](/guides/ia-europe-reglementation), première loi mondiale encadrant l'IA, sous pression des États-Unis et des géants tech (Microsoft, OpenAI, Mistral). Selon le [Financial Times](https://www.ft.com), la Commission européenne annonce le **19 novembre 2025**
 - Un **délai d'un an** pour les IA "à haut risque" (recrutement, biométrie, surveillance), sans obligations de transparence ou d'audit.
 - Une **suspension des règles** pour les fournisseurs d'IA générative (OpenAI, Mistral) jusqu'en **août 2027**.
 - Un **renforcement de l'AI Office**, mais avec un an de retard.

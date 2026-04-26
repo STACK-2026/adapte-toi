@@ -186,20 +186,20 @@ Le seul frein éthique : assure-toi de respecter le droit à l'image et le conse
 <!-- maillage:auto -->
 ## Pour aller plus loin
 
-**Outils similaires** :
+**Outils similaires**
 - [Descript](/outils/descript/) (édition audio par texte)
 - [Otter.ai](/outils/otter-ai/) (transcription)
 
-**Outils complémentaires** :
+**Outils complémentaires**
 - [ChatGPT](/outils/chatgpt/) (rédaction scripts)
 - [Claude](/outils/claude/) (longs contenus)
 
-**Métiers qui l'utilisent** :
+**Métiers qui l'utilisent**
 - [Journaliste IA](/metiers/journaliste-ia/)
 - [Community manager IA](/metiers/community-manager-ia/)
 - [Copywriter IA](/metiers/copywriter-ia/)
 
-**Guides** :
+**Guides**
 - [Guide freelance IA](/guides/freelance-ia-guide/)
 - [Pillar formation IA gratuite](/guides/se-former-ia-gratuitement/)
 

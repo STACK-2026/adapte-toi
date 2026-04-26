@@ -95,7 +95,7 @@ Tu décris une image en français ou en anglais (un portrait, un paysage, une il
 
 Mythe. Midjourney n'a **pas de plan gratuit** ni de période d'essai gratuit permanente depuis 2023. Toute formule payante est mensuelle ou annuelle, sans rétractation.
 
-Si tu veux tester la génération d'image IA gratuitement avant d'investir :
+Si tu veux tester la génération d'image IA gratuitement avant d'investir
 - **DALL-E via ChatGPT free** : 2 à 3 images par jour
 - **Adobe Firefly free** : 25 crédits gratuits par mois
 - **Bing Image Creator** : gratuit avec quotas (basé sur DALL-E)
@@ -161,14 +161,12 @@ Une fois convaincu, Midjourney reste la référence qualité.
 
 ## Midjourney en français : prompt et workflow
 
-L'interface Midjourney (site web ou Discord) reste en anglais comme tous les outils créatifs. Mais les prompts en français fonctionnent parfaitement. Tu peux écrire :
-
+L'interface Midjourney (site web ou Discord) reste en anglais comme tous les outils créatifs. Mais les prompts en français fonctionnent parfaitement. Tu peux écrire
 > "portrait d'une femme française élégante, années 1960, style photographique cinématographique, lumière douce du matin, couleurs pastel, fond flou de café parisien"
 
 Tu obtiens exactement le rendu décrit. La qualité est égale à un prompt en anglais.
 
-**Astuce de pro** : les prompts experts mélangent FR pour le sujet et EN pour les paramètres techniques :
-
+**Astuce de pro** : les prompts experts mélangent FR pour le sujet et EN pour les paramètres techniques
 > "portrait femme française élégante --ar 3:4 --style raw --stylize 200 --v 7"
 
 Les paramètres après `--` (aspect ratio, style, stylization, version du modèle) sont des termes techniques qui restent en anglais.
@@ -177,11 +175,11 @@ Les paramètres après `--` (aspect ratio, style, stylization, version du modèl
 
 **Midjourney v7 est en 2026 la référence absolue sur la qualité artistique.** Personne n'égale sa signature esthétique, sa cohérence entre prompts, sa gestion du photoréalisme. Pour les graphistes, DAs, illustrateurs : c'est l'outil de production sérieuse.
 
-**Mais le prix Pro à 60 dollars/mois en fait aussi le plus cher.** En face :
+**Mais le prix Pro à 60 dollars/mois en fait aussi le plus cher.** En face
 - DALL-E via ChatGPT Plus : 20 dollars (avec assistant IA en prime)
 - Adobe Firefly Standard : 10 dollars (avec sécurité juridique max)
 
-**Notre verdict pour le rapport qualité/prix** :
+**Notre verdict pour le rapport qualité/prix**
 - Tu es créatif pro qui vit du visuel : **Midjourney Pro vaut chaque dollar**
 - Tu es créatif occasionnel : **DALL-E ou Firefly suffit largement**
 - Tu veux le combo gagnant en 2026 : **DALL-E + Firefly à 30 dollars** + Midjourney Standard 30 dollars = 60 dollars total pour la productivité top 1%

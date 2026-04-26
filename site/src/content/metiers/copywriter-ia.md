@@ -48,11 +48,11 @@ Le métier de copywriter face à l'IA en 2026 : -53% d'offres génériques selon
 
 ## Top 5 outils
 
-1. **[Claude Pro](/outils/claude/)** — référence absolue pour les longs formats
-2. **[ChatGPT Plus](/outils/chatgpt/)** — variantes A/B et brainstorm
-3. **[Surfer SEO](/outils/surfer-seo/)** — pour ranker sur Google
-4. **[Jasper](/outils/jasper/)** — production marketing volume
-5. **[Notion AI](/outils/notion-ai/)** — calendrier éditorial structuré
+1. **[Claude Pro](/outils/claude/)** : référence absolue pour les longs formats
+2. **[ChatGPT Plus](/outils/chatgpt/)** : variantes A/B et brainstorm
+3. **[Surfer SEO](/outils/surfer-seo/)** : pour ranker sur Google
+4. **[Jasper](/outils/jasper/)** : production marketing volume
+5. **[Notion AI](/outils/notion-ai/)** : calendrier éditorial structuré
 
 **Combo** : 100 dollars/mois.
 

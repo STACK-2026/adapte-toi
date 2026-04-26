@@ -48,7 +48,7 @@ Le métier de RH et recruteur est l'un des plus impactés par l'IA en 2026. Les 
 
 ## L'IA et le métier RH/recruteur en 2026
 
-**Ce qui est automatisé à 70%** :
+**Ce qui est automatisé à 70%**
 - Sourcing volumique (LinkedIn Recruiter, Lever, Greenhouse)
 - Pré-tri de CVs (Claude, Lever AI, Greenhouse AI)
 - Rédaction fiches de poste (ChatGPT)
@@ -57,7 +57,7 @@ Le métier de RH et recruteur est l'un des plus impactés par l'IA en 2026. Les 
 - Mails relance et feedback (ChatGPT)
 - Lead scoring candidats
 
-**Ce qui reste 100% humain (et c'est OBLIGATOIRE selon AI Act 2026)** :
+**Ce qui reste 100% humain (et c'est OBLIGATOIRE selon AI Act 2026)**
 - Décision finale d'embauche
 - Entretien d'évaluation approfondi
 - Négociation salaire
@@ -84,23 +84,23 @@ Le métier de RH et recruteur est l'un des plus impactés par l'IA en 2026. Les 
 
 ## Top 5 outils IA à maîtriser
 
-### 1. [ChatGPT Team](/outils/chatgpt/) — fiches poste, mails, feedback
+### 1. [ChatGPT Team](/outils/chatgpt/) : fiches poste, mails, feedback
 
 Plan Team 25 dollars/utilisateur (opt-out training par défaut, OBLIGATOIRE pour les RH selon RGPD). Rédaction fiche de poste, annonce LinkedIn, mail relance, feedback diplomatique de refus.
 
-### 2. [Claude Pro/Team](/outils/claude/) — analyse CVs
+### 2. [Claude Pro/Team](/outils/claude/) : analyse CVs
 
 Pour 10-50 CVs, Claude classe en Top/Mid/Out avec justification. Pour audits CV individuels et CR entretien structurés. **20-30 dollars/utilisateur.**
 
-### 3. HireVue — entretiens vidéo IA
+### 3. HireVue : entretiens vidéo IA
 
 Plateforme structurée pour les recrutements volumiques. Cadre légal France 2026 strict.
 
-### 4. Lever AI ou Greenhouse AI — ATS intelligent
+### 4. Lever AI ou Greenhouse AI : ATS intelligent
 
 Pour 100+ recrutements/an. Screening auto, sourcing automatisé, recommandations matching. **6000-30000 dollars/an.**
 
-### 5. [Notion AI](/outils/notion-ai/) — base candidats interne
+### 5. [Notion AI](/outils/notion-ai/) : base candidats interne
 
 Templates fiches de poste/mails/CR, suivi recrutements, Q&A workspace. **22 dollars/mois.**
 

@@ -48,7 +48,7 @@ Le métier de commercial B2B en France traverse sa plus grande transformation de
 
 ## L'IA et le métier de commercial en 2026
 
-**Ce qui est automatisé à 70%** :
+**Ce qui est automatisé à 70%**
 - Sourcing prospects (Apollo, ZoomInfo, LinkedIn Sales Nav)
 - Enrichissement contacts (5+ data points par prospect)
 - Personnalisation mails à scale (ChatGPT API)
@@ -58,7 +58,7 @@ Le métier de commercial B2B en France traverse sa plus grande transformation de
 - Suivi pipeline et relances
 - Analyses performance (forecast, win rate)
 
-**Ce qui reste 100% humain** :
+**Ce qui reste 100% humain**
 - Closing complexe et négociation prix
 - Gestion de la relation long terme
 - Account management stratégique
@@ -85,15 +85,15 @@ Le métier de commercial B2B en France traverse sa plus grande transformation de
 
 ## Top 5 outils IA à maîtriser
 
-### 1. [ChatGPT Plus](/outils/chatgpt/) — la personnalisation à scale
+### 1. [ChatGPT Plus](/outils/chatgpt/) : la personnalisation à scale
 
 Mail de prospection ultra-personnalisé en 30 secondes, préparation appel découverte avec questions/objections/angles, scripts d'appels variantes. **20 dollars/mois.**
 
-### 2. [Claude Pro](/outils/claude/) — CR et propositions longues
+### 2. [Claude Pro](/outils/claude/) : CR et propositions longues
 
 CR détaillé d'appel d'1h à partir de notes brutes. Proposition commerciale 5-10 pages personnalisée. Analyse historique client pour upsell. **20 dollars/mois.**
 
-### 3. Apollo — la prospection IA à scale
+### 3. Apollo : la prospection IA à scale
 
 Database 270M contacts B2B, enrichissement IA, séquences auto avec personalisation IA générative, tracking ouvertures/clics. **49-200 dollars/mois selon plan.**
 
@@ -101,7 +101,7 @@ Database 270M contacts B2B, enrichissement IA, séquences auto avec personalisat
 
 Lead scoring auto sur 50+ critères, drafts mails personnalisés depuis CRM, prédictions probabilité closing, reporting natural language. **Sales Hub Pro 100 dollars/mois.**
 
-### 5. [Otter.ai](/outils/otter-ai/) — transcription appels auto
+### 5. [Otter.ai](/outils/otter-ai/) : transcription appels auto
 
 Transcrit Zoom/Meet/Teams en français, identifie les interlocuteurs, résumé + actions + next steps, export HubSpot 1 clic. **Pro 17 dollars/mois.**
 

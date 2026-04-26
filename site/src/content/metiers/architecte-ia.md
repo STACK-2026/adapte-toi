@@ -46,11 +46,11 @@ Le métier d'architecte est SAFE structurellement de l'IA : la signature respons
 
 ## Top 5 outils
 
-1. **[Midjourney Pro](/outils/midjourney/)** — moodboards et rendus d'ambiance
-2. **[ChatGPT Plus](/outils/chatgpt/)** — briefs client, cahiers des charges, mails
-3. **[Claude Pro](/outils/claude/)** — analyse contrats/CGV/CCTP longs
-4. **[Adobe Firefly](/outils/adobe-firefly/)** — retouches Photoshop intégrées
-5. **Veras AI / Architechtures.ai** — rendus IA spécialisés architecture (30-100 dollars/mois)
+1. **[Midjourney Pro](/outils/midjourney/)** : moodboards et rendus d'ambiance
+2. **[ChatGPT Plus](/outils/chatgpt/)** : briefs client, cahiers des charges, mails
+3. **[Claude Pro](/outils/claude/)** : analyse contrats/CGV/CCTP longs
+4. **[Adobe Firefly](/outils/adobe-firefly/)** : retouches Photoshop intégrées
+5. **Veras AI / Architechtures.ai** : rendus IA spécialisés architecture (30-100 dollars/mois)
 
 ## Salaires 2026
 

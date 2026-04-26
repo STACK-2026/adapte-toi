@@ -48,21 +48,20 @@ Le marketing est l'un des métiers les plus transformés par l'IA en 2026. Les m
 
 ## 1. ChatGPT Plus pour la production quotidienne
 
-**5 cas d'usage marketing** :
-
-**A/ Brainstorm de 30 angles pour une campagne** :
+**5 cas d'usage marketing**
+**A/ Brainstorm de 30 angles pour une campagne**
 > "Donne-moi 30 angles de communication pour le lancement de [produit X] auprès d'une cible [Y]. Mix info/émotion/témoignage/débat. Ton percutant, chiffré quand possible."
 
-**B/ Variantes ads** :
+**B/ Variantes ads**
 > "Génère 5 variantes de copy LinkedIn Ads pour ce produit : [brief]. Headline 100 caractères, intro 150 caractères, CTA. Tester 5 angles différents."
 
-**C/ Calendrier éditorial mensuel** :
+**C/ Calendrier éditorial mensuel**
 > "Crée un calendrier éditorial pour [marque/secteur] : 12 posts LinkedIn et 4 articles blog ce mois. Variétez les formats. Cible : [persona]."
 
-**D/ Personas à partir de feedbacks** :
+**D/ Personas à partir de feedbacks**
 > "Voici 50 verbatims clients [colle]. Synthétise en 3 personas type avec démographie, jobs to be done, frustrations, langage qu'ils utilisent."
 
-**E/ Traduction multi-langue** :
+**E/ Traduction multi-langue**
 > "Traduis cette landing page en EN/ES/IT, ton commercial direct, équivalents culturels (pas de traduction littérale). Adapte les CTA aux conventions de chaque marché."
 
 Voir notre [fiche complète ChatGPT](/outils/chatgpt/).
@@ -73,10 +72,10 @@ Voir notre [fiche complète ChatGPT](/outils/chatgpt/).
 
 **Cas d'usage** : analyse longue de marché, briefs créatifs détaillés, audits de site, recommandations stratégiques.
 
-**Prompt audit site** :
+**Prompt audit site**
 > "Audite cette landing page (URL ou texte collé). Identifie : (1) 5 frictions UX, (2) 3 opportunités SEO, (3) 5 améliorations copy, (4) 3 tests A/B prioritaires."
 
-**Prompt analyse concurrentielle** :
+**Prompt analyse concurrentielle**
 > "Voici 5 sites concurrents [URL ou contenu collé]. Synthèse : positionnement de chacun, propositions de valeur, gaps de marché, opportunité pour notre marque."
 
 Voir [fiche Claude](/outils/claude/) et [comparateur Claude vs ChatGPT](/guides/claude-vs-chatgpt/).
@@ -87,7 +86,7 @@ Voir [fiche Claude](/outils/claude/) et [comparateur Claude vs ChatGPT](/guides/
 
 **Pourquoi c'est unique** : Surfer SEO analyse le top 10 Google sur ton mot-clé et te dit précisément combien de mots, de H2/H3, de mots-clés sémantiques tu dois inclure pour ranker.
 
-**Workflow Surfer + ChatGPT** :
+**Workflow Surfer + ChatGPT**
 1. Tu rentres ton mot-clé cible dans Surfer
 2. Surfer te génère un brief précis (longueur, structure, sémantique)
 3. Tu colles le brief dans ChatGPT/Claude pour rédiger
@@ -100,7 +99,7 @@ Voir [fiche Claude](/outils/claude/) et [comparateur Claude vs ChatGPT](/guides/
 
 ## 4. DALL-E (ChatGPT) pour les visuels rapides
 
-**Cas d'usage marketing** :
+**Cas d'usage marketing**
 - Visuels pour posts LinkedIn (carrousels, banners)
 - Illustrations articles blog
 - Moodboards rapides pour brief brand
@@ -112,7 +111,7 @@ Voir [fiche Claude](/outils/claude/) et [comparateur Claude vs ChatGPT](/guides/
 
 ## 5. HubSpot AI pour le CRM intelligent
 
-**Fonctions IA natives 2026** :
+**Fonctions IA natives 2026**
 - Lead scoring automatique
 - Drafts de mails personnalisés à partir du contexte CRM
 - Prédictions de propension à convertir

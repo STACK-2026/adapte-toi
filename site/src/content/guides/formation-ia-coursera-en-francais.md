@@ -49,8 +49,7 @@ Coursera est en 2026 la plateforme de formation en ligne avec le plus gros catal
 
 <h2 id="francais">Coursera fonctionne-t-il en français ?</h2>
 
-Oui, Coursera est accessible aux francophones en 2026, avec des nuances à connaître :
-
+Oui, Coursera est accessible aux francophones en 2026, avec des nuances à connaître
 - **Interface, paiement, dashboard, support** : 100% traduits en français
 - **Sous-titres français vérifiés** : sur 80% du catalogue, dont la quasi-totalité des formations IA grand public (Google, IBM, deeplearning.ai, Andrew Ng)
 - **Cours 100% en français** : Elements of AI (Université d'Helsinki), Programmation Python pour la science des données (Université de Genève), plusieurs cours FUN-MOOC
@@ -116,7 +115,7 @@ Spécialisation LLMs : architecture, fine-tuning, RAG, alignement. **La formatio
 | **Coursera Plus** | 59 dollars/mois ou 399 dollars/an | Accès illimité à 7000+ cours et 90% des Specializations | 10% du catalogue exclu (certaines certifs Pro) |
 | **Specialization Certificate** | 49 dollars/mois × durée | Suite de cours liés + certificat de spécialisation | Engagement plus long |
 
-**Notre conseil** :
+**Notre conseil**
 - **Tu testes ou tu n'es pas sûr de finir** : commence en audit gratuit
 - **Tu veux UN certificat précis** (ex : Google AI Essentials) : achat à l'unité 49 dollars
 - **Tu veux multiplier les certifs en 6 mois** : Coursera Plus 59 dollars/mois (rentabilisé dès le 2e cours)
@@ -165,11 +164,11 @@ Voir notre [pillar formation IA gratuite](/guides/se-former-ia-gratuitement/) po
 
 **Ce qui ne marche PAS** : les cours Coursera classiques (Google AI Essentials, AI for Everyone, deeplearning.ai). Ils ne sont pas inscrits au Répertoire Spécifique RS ou RNCP français, donc non éligibles CPF.
 
-**Ce qui marche** :
+**Ce qui marche**
 - Specializations packagées avec un organisme de formation français qui les rend CPF-éligibles (Studi, Skill & You, etc.)
 - Certains parcours via [OpenClassrooms](/guides/formation-ia-openclassrooms/) qui partage du contenu Coursera-like
 
-**Workaround pratique** :
+**Workaround pratique**
 1. Tu utilises ton CPF pour payer une formation OpenClassrooms ou Studi (CPF-éligibles)
 2. En parallèle (ou avant), tu fais Coursera Plus en autodidacte (59 dollars/mois sur 6 mois = 354 dollars sortis de ta poche)
 3. Tu cumules les deux apprentissages

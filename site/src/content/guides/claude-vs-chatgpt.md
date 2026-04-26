@@ -100,7 +100,7 @@ Anthropic a particulièrement soigné les langues européennes depuis Claude 3, 
 
 **La cohérence stylistique est sa marque de fabrique.** Si tu lui dis "rédige sur le ton chaleureux et direct, vouvoiement, sans jargon", Claude tient ce ton sur 5000 mots sans dérailler. ChatGPT a tendance à varier subtilement, ce qui se sent en relecture.
 
-**Cas d'usage où Claude FR brille** :
+**Cas d'usage où Claude FR brille**
 - Rédaction d'un livre blanc, d'un mémoire, d'un rapport long
 - Analyse d'un contrat de 100 pages avec questions juridiques précises
 - Réécriture stylistique (passage du jargon corporate au ton accessible)
@@ -118,7 +118,7 @@ ChatGPT est utilisé par 900 millions d'utilisateurs hebdomadaires dont une part
 
 **L'écosystème français de ChatGPT est massif** : 100 GPTs custom français, des dizaines de plugins, des communautés sur Discord, YouTube, LinkedIn. Pour apprendre à bien utiliser ChatGPT en français, les ressources gratuites pleuvent.
 
-**Cas d'usage où ChatGPT FR brille** :
+**Cas d'usage où ChatGPT FR brille**
 - Brainstorm créatif rapide (slogans, titres, idées campagne)
 - Génération d'image pour blog ou réseaux sociaux
 - Apprentissage d'une langue par conversation vocale

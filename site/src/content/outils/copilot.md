@@ -185,7 +185,7 @@ Pour le verdict détaillé par profil, voir notre [comparateur Cursor vs GitHub 
 | **Business** | 19 dollars/utilisateur/mois | Pro + admin policies, audit logs, IP indemnification, exclusions de données privées. |
 | **Enterprise** | 39 dollars/utilisateur/mois | Business + fine-tuning sur ton code privé, modèles personnalisés, SLA, Knowledge Bases. |
 
-**Notre conseil** :
+**Notre conseil**
 - Étudiant ou mainteneur OSS : Free, indispensable pour ta formation
 - Solo dev qui ne fait pas de gros refactos : Pro à 10 dollars/mois
 - Solo dev qui fait des gros refactos : passe à [Cursor Pro](/outils/cursor/) à 20 dollars

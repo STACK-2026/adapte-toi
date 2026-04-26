@@ -44,7 +44,7 @@ Le métier de médecin est en transformation profonde en 2026 avec l'arrivée de
 
 ## L'IA et le métier de médecin en 2026
 
-**Ce qui est assisté par IA en 2026** :
+**Ce qui est assisté par IA en 2026**
 - Transcription auto de la consultation (Otter, Whisper)
 - Synthèse de longs dossiers patient (Claude, Med-PaLM)
 - Aide au diagnostic radiologique (Aidoc, Gleamer, Med-PaLM 2)
@@ -54,7 +54,7 @@ Le métier de médecin est en transformation profonde en 2026 avec l'arrivée de
 - Drafts mails confrères et patients
 - Pré-tri des examens complémentaires à demander
 
-**Ce qui reste 100% humain (et OBLIGATOIRE par la loi)** :
+**Ce qui reste 100% humain (et OBLIGATOIRE par la loi)**
 - Diagnostic final et signature médicale
 - Examen clinique physique
 - Décision thérapeutique
@@ -82,23 +82,23 @@ Le métier de médecin est en transformation profonde en 2026 avec l'arrivée de
 
 ## Top 5 outils IA pour médecins en 2026
 
-### 1. [Otter.ai](/outils/otter-ai/) — transcription consultation auto
+### 1. [Otter.ai](/outils/otter-ai/) : transcription consultation auto
 
 Tu actives Otter pendant la consultation (avec consentement patient), il transcrit en français, génère un CR structuré. Économie : 30 min par consultation = 15h/semaine. **17 dollars/mois.** RGPD strict en plan Pro.
 
-### 2. [Claude Pro](/outils/claude/) — synthèse de dossier patient
+### 2. [Claude Pro](/outils/claude/) : synthèse de dossier patient
 
 Pour les patients complexes avec 100+ pages d'historique. Tu uploads (anonymisé), Claude te sort en 5 min : synthèse parcours, traitements en cours, signaux d'alerte, questions à poser. **20 dollars/mois.**
 
-### 3. Med-PaLM 2 (Google) ou Aidoc — aide diagnostic imagerie
+### 3. Med-PaLM 2 (Google) ou Aidoc : aide diagnostic imagerie
 
 Outils pro de radiologie/anatomopathologie. Pré-tri des examens, détection d'anomalies, suggestion de diagnostics différentiels. Toujours validé par le radiologue/anatomopathologiste. Déploiement en hôpital via DSI (pas grand public).
 
-### 4. [Perplexity Pro](/outils/perplexity/) Academic Focus — veille scientifique
+### 4. [Perplexity Pro](/outils/perplexity/) Academic Focus : veille scientifique
 
 Tu poses une question médicale précise, Perplexity te sort la réponse synthétisée avec citations PubMed/PMC. **20 euros/mois.** Indispensable pour rester à jour sur les recommandations.
 
-### 5. [ChatGPT Plus](/outils/chatgpt/) ou OpenEvidence — drafts mails et veille
+### 5. [ChatGPT Plus](/outils/chatgpt/) ou OpenEvidence : drafts mails et veille
 
 Pour les drafts de mails confrères, courriers patients, ordonnances longues type. Plan Team minimum (25 dollars) pour les données identifiables.
 

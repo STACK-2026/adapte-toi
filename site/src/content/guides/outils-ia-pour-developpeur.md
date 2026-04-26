@@ -64,7 +64,7 @@ Voir notre [fiche complète Cursor](/outils/cursor/) et [comparateur Cursor vs C
 
 **Plus avantages business** : indemnisation IP en plan Business/Enterprise, intégration GitHub native (PR review, Codespaces), prix accessible.
 
-**Plan recommandé** :
+**Plan recommandé**
 - Étudiant : gratuit via Student Pack
 - Solo : Pro 10 dollars/mois
 - Équipe : Business 19 dollars/utilisateur/mois
@@ -77,7 +77,7 @@ Voir notre [fiche complète Copilot](/outils/copilot/).
 
 **Ce que c'est** : une CLI Anthropic qui te permet d'utiliser Claude depuis ton terminal pour automatiser des tâches complexes.
 
-**Cas d'usage** :
+**Cas d'usage**
 - Refactoring multi-fichiers en CLI : `claude refactor "convert to async/await" src/`
 - Génération de tests pour un module entier
 - Migration entre frameworks (React → Vue, Express → Fastify, etc.)
@@ -93,7 +93,7 @@ Voir notre [fiche complète Claude](/outils/claude/).
 
 ## 4. ChatGPT Plus pour la polyvalence
 
-**Cas d'usage dev complémentaire** :
+**Cas d'usage dev complémentaire**
 - Code Interpreter pour analyser un CSV en langage naturel
 - Mode voix pour brainstormer une architecture en marchant
 - DALL-E pour générer des illustrations de doc technique
@@ -105,7 +105,7 @@ Voir notre [fiche ChatGPT](/outils/chatgpt/) et [comparateur Claude vs ChatGPT](
 
 ## 5. Perplexity pour la doc et le debug rapide
 
-**Cas d'usage** :
+**Cas d'usage**
 - Recherche sur une bibliothèque récente avec sources cliquables
 - Debug d'une erreur précise (paste l'erreur, Perplexity te sort la solution + sources)
 - Veille technologique sur les frameworks émergents

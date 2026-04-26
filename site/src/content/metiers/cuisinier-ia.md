@@ -51,8 +51,8 @@ Le métier de cuisinier est SAFE de l'IA en 2026. Score 2/10. Le BMO France Trav
 
 ## Top 2 outils IA pertinents
 
-1. **[ChatGPT](/outils/chatgpt/) gratuit** — cartes multi-langue, calculs marges, fiches techniques
-2. **[Claude](/outils/claude/) gratuit** — rédaction longue (charte, communication)
+1. **[ChatGPT](/outils/chatgpt/) gratuit** : cartes multi-langue, calculs marges, fiches techniques
+2. **[Claude](/outils/claude/) gratuit** : rédaction longue (charte, communication)
 
 L'usage IA reste très secondaire dans ce métier.
 

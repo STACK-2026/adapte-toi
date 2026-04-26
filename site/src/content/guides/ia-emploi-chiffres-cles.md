@@ -155,8 +155,7 @@ Consulte nos [fiches métier](/métiers) pour une analyse métier par métier av
 
 <h2 id="sources">Sources complètes</h2>
 
-Toutes les études citées dans ce guide sont accessibles publiquement. Voici les références :
-
+Toutes les études citées dans ce guide sont accessibles publiquement. Voici les références
 - Anthropic (mars 2026) : étude interne sur les offres d'emploi
 - [OCDE (2025)](https://www.oecd.org/en/topics/sub-issues/ai-and-the-future-of-work.html) : "Employment Outlook", chapitre IA et automatisation
 - McKinsey Global Institute (2024) : "The economic potential of generative AI"

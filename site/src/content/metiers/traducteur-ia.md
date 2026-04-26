@@ -40,8 +40,8 @@ Le métier de traducteur est l'un des plus menacés par l'IA en 2026. DeepL, Cla
 
 ## Top 2 outils IA pour les traducteurs survivants
 
-1. **[Claude](/outils/claude/)** — meilleur LLM pour les longs textes en français (post-édition)
-2. **[ChatGPT Plus](/outils/chatgpt/)** — variantes rapides, recherche terminologique
+1. **[Claude](/outils/claude/)** : meilleur LLM pour les longs textes en français (post-édition)
+2. **[ChatGPT Plus](/outils/chatgpt/)** : variantes rapides, recherche terminologique
 
 ## Salaires 2026
 

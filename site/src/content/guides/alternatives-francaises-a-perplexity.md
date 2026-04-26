@@ -52,7 +52,7 @@ L'IA souveraine française a fait des progrès considérables en 2025-2026. Mist
 
 **Pourquoi c'est l'option n°1** : Mistral est la pépite française de l'IA générative. Depuis 2025, Le Chat intègre une fonction recherche web native avec sources cliquables, fonctionnalités équivalentes à Perplexity à 80% en 2026.
 
-**Fonctions clés** :
+**Fonctions clés**
 - Recherche web avec sources citées en français
 - Multi-modèles Mistral (Large 2, Large 3, Codestral, Pixtral)
 - Mode Canvas pour la rédaction longue
@@ -60,13 +60,13 @@ L'IA souveraine française a fait des progrès considérables en 2025-2026. Mist
 - Mode voix (en beta 2026)
 - Hébergement Europe garanti
 
-**Plans** :
+**Plans**
 - **Free** : généreux, recherches illimitées avec quota
 - **Pro à 14.99 euros/mois** : modèles avancés, recherches Pro illimitées, upload fichiers
 - **Team à 24.99 euros/utilisateur/mois** : workspace partagé, admin, RGPD strict
 - **Enterprise** : data residency France, SSO, conformité RGPD/AI Act
 
-**Cas d'usage où Le Chat brille** :
+**Cas d'usage où Le Chat brille**
 - Veille concurrentielle FR (sources francophones priorisées)
 - Recherche réglementaire française ([Légifrance](https://www.legifrance.gouv.fr/), Bofip, jurisprudences)
 - Analyses de marché européennes
@@ -88,7 +88,7 @@ L'IA souveraine française a fait des progrès considérables en 2025-2026. Mist
 
 **Différenciation** : Lumières est optimisé pour les sources académiques, papers de recherche, données scientifiques. Plus pointu sur les sujets scientifiques que Le Chat grand public.
 
-**Cas d'usage** :
+**Cas d'usage**
 - Recherche dans les bases scientifiques françaises (HAL, Persée)
 - Synthèse de papers académiques
 - Vulgarisation scientifique pour médias
@@ -104,13 +104,13 @@ L'IA souveraine française a fait des progrès considérables en 2025-2026. Mist
 
 **Pour qui** : administrations, collectivités, ministères, organismes publics.
 
-**Particularités** :
+**Particularités**
 - Open source (auto-hébergeable)
 - Basé sur Mistral
 - Données 100% en France (cloud souverain ou on-premise)
 - Conformité RGPD + référentiel de sécurité des opérateurs d'importance vitale
 
-**Cas d'usage** :
+**Cas d'usage**
 - Recherche dans [Légifrance](https://www.legifrance.gouv.fr/), JORF, codes
 - Synthèses de notes ministérielles
 - Réponses aux usagers (chatbots service public)
@@ -124,7 +124,7 @@ L'IA souveraine française a fait des progrès considérables en 2025-2026. Mist
 
 **Pourquoi c'est utile** : Hugging Chat est l'interface Hugging Face vers les meilleurs modèles open source. Tu peux choisir entre Mistral, Llama, Qwen, etc. avec hébergement variable (Europe possible).
 
-**Cas d'usage** :
+**Cas d'usage**
 - Comparer plusieurs modèles open source
 - Tester avant intégration dans un produit
 - Recherche IA / NLP
@@ -140,7 +140,7 @@ L'IA souveraine française a fait des progrès considérables en 2025-2026. Mist
 
 **Pour qui** : linguistes, chercheurs en sciences du langage, équipes NLP académiques.
 
-**Particularités** :
+**Particularités**
 - Open source
 - Datasets français de qualité scientifique
 - Modèles spécialisés français (vs modèles multilingues plus génériques)

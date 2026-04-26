@@ -48,7 +48,7 @@ Le marketing est l'un des métiers les plus transformés par l'IA en 2026. Selon
 
 ## L'IA et le marketing en 2026 : ce qui change vraiment
 
-**Ce qui est automatisé à 70%** :
+**Ce qui est automatisé à 70%**
 - Rédaction de copy publicitaire (variantes A/B en quelques secondes)
 - Calendriers éditoriaux (30 idées en 5 min via ChatGPT)
 - Visuels rapides pour réseaux sociaux (DALL-E, Canva AI, Midjourney)
@@ -58,7 +58,7 @@ Le marketing est l'un des métiers les plus transformés par l'IA en 2026. Selon
 - A/B testing automatisé
 - Reporting en langage naturel
 
-**Ce qui reste 100% humain** :
+**Ce qui reste 100% humain**
 - Stratégie de marque et positionnement
 - Direction artistique premium
 - Relationnel partenaires/influenceurs
@@ -84,23 +84,23 @@ Le marketing est l'un des métiers les plus transformés par l'IA en 2026. Selon
 
 ## Top 5 outils IA à maîtriser absolument
 
-### 1. [ChatGPT Plus](/outils/chatgpt/) — la production quotidienne
+### 1. [ChatGPT Plus](/outils/chatgpt/) : la production quotidienne
 
 Brainstorm 30 angles de campagne en 5 minutes, génération copy variantes A/B, calendrier éditorial mensuel, personas à partir de feedbacks, traduction multi-langue avec ton ajusté. **20 dollars/mois.** GPTs custom par marque pour personnaliser à scale.
 
-### 2. [Claude Pro](/outils/claude/) — la stratégie
+### 2. [Claude Pro](/outils/claude/) : la stratégie
 
 Analyse de marché longue, audits de site, recommandations stratégiques 30+ pages, analyse concurrentielle multi-sources. La cohérence stylistique de Claude sur les longs documents en fait la référence. **20 dollars/mois.**
 
-### 3. [Surfer SEO](/outils/surfer-seo/) — pour ranker sur Google
+### 3. [Surfer SEO](/outils/surfer-seo/) : pour ranker sur Google
 
 Surfer analyse le top 10 Google et te dit précisément quoi écrire pour ranker. Workflow Surfer + ChatGPT = articles en page 1 en 2-4 semaines vs 3-6 mois sans. **89 dollars/mois.**
 
-### 4. DALL-E (inclus ChatGPT Plus) ou [Midjourney](/outils/midjourney/) — les visuels
+### 4. DALL-E (inclus ChatGPT Plus) ou [Midjourney](/outils/midjourney/) : les visuels
 
 DALL-E pour la rapidité B2B (inclus dans Plus). Midjourney pour la qualité créative B2C premium. Voir notre [comparateur Midjourney vs DALL-E vs Firefly](/guides/midjourney-vs-dalle-vs-firefly/).
 
-### 5. [HubSpot](/outils/hubspot/) AI ou Make + ChatGPT API — l'automation
+### 5. [HubSpot](/outils/hubspot/) AI ou Make + ChatGPT API : l'automation
 
 HubSpot Pro 100 dollars/mois pour une PME, ou Make + ChatGPT API à 70 dollars pour les startups. Lead scoring, drafts mails, prédictions, segmentation auto.
 
@@ -160,20 +160,20 @@ Mistral, Doctolib, Algolia, etc. Salaire 60-90K + equity. Voir [guide reconversi
 
 ## Pour aller plus loin
 
-**Outils** :
+**Outils**
 - [Guide outils IA pour marketing](/guides/outils-ia-pour-marketing/)
 - [ChatGPT](/outils/chatgpt/), [Claude](/outils/claude/), [Surfer SEO](/outils/surfer-seo/), [HubSpot](/outils/hubspot/), [Canva AI](/outils/canva-ai/)
 
-**Comparateurs** :
+**Comparateurs**
 - [Midjourney vs DALL-E vs Firefly](/guides/midjourney-vs-dalle-vs-firefly/)
 - [Claude vs ChatGPT](/guides/claude-vs-chatgpt/)
 
-**Reconversion** :
+**Reconversion**
 - [Guide reconversion IA complet](/guides/reconversion-ia-guide-complet/)
 - [Pillar formation IA gratuite](/guides/se-former-ia-gratuitement/)
 - [Guide freelance IA](/guides/freelance-ia-guide/)
 
-**Métiers connexes** :
+**Métiers connexes**
 - [Community manager IA](/metiers/community-manager-ia/)
 - [Copywriter IA](/metiers/copywriter-ia/)
 - [Commercial IA](/metiers/commercial-ia/)

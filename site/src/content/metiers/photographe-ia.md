@@ -42,10 +42,10 @@ Le métier de photographe est polarisé en 2026. Stock photo et illustration gé
 
 ## Top 4 outils
 
-1. **[Midjourney](/outils/midjourney/) Pro** — moodboards, photos d'inspiration (60 dollars/mois)
-2. **[Adobe Firefly](/outils/adobe-firefly/)** Creative Cloud — Generative Fill, retouche pro (60 dollars/mois)
-3. **[ChatGPT Plus](/outils/chatgpt/)** — copy site web, mails clients
-4. **Lightroom + Photoshop classiques** — retouche photo
+1. **[Midjourney](/outils/midjourney/) Pro** : moodboards, photos d'inspiration (60 dollars/mois)
+2. **[Adobe Firefly](/outils/adobe-firefly/)** Creative Cloud : Generative Fill, retouche pro (60 dollars/mois)
+3. **[ChatGPT Plus](/outils/chatgpt/)** : copy site web, mails clients
+4. **Lightroom + Photoshop classiques** : retouche photo
 
 ## Salaires 2026
 

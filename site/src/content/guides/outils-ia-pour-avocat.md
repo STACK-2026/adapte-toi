@@ -50,7 +50,7 @@ L'IA transforme la pratique du droit en 2026 plus vite qu'on ne le pensait. Les 
 
 **Workflow type** : tu uploads un contrat de 100+ pages anonymisé, Claude te sort un audit en 5 minutes que ferais en 3 heures à la main.
 
-**Prompt qui marche** :
+**Prompt qui marche**
 > "Voici un contrat de [type] anonymisé. Analyse : (1) 5 clauses risquées pour [partie X], (2) ambiguïtés juridiques, (3) manquements légaux 2026, (4) reformulations défensives, (5) précédents jurisprudentiels pertinents."
 
 **ROI** : 12 contrats analysés/mois × 2h économisées = 24h, soit **3000+ dollars de temps facturable** pour 20 dollars d'abonnement.
@@ -63,7 +63,7 @@ Voir notre [fiche complète Claude](/outils/claude/) et [comparateur Claude vs C
 
 **Cas d'usage** : drafts d'actes répétitifs (assignations, conclusions, requêtes), mails clients, négociation écrite.
 
-**Prompt pour des conclusions** :
+**Prompt pour des conclusions**
 > "Génère un projet de conclusions [demandeur/défendeur] pour un litige [type] devant le tribunal de [type]. Argumentaire en 3 moyens principaux : [briefe les faits anonymisés]. Cite les articles applicables et les jurisprudences récentes."
 
 **Sécurité** : prends Team minimum (25 dollars/mois) avec opt-out training par défaut. Pour ultra-sensible, Enterprise + data residency EU.
@@ -76,7 +76,7 @@ Voir notre [fiche complète ChatGPT](/outils/chatgpt/).
 
 **Pourquoi c'est unique** : Doctrine est l'outil pro français le plus mature pour les recherches jurisprudentielles avec IA. Couverture exhaustive du droit français (Cass, CE, CJUE, Cours d'appel), commentaires de doctrine, intégration native d'IA pour les recherches sémantiques.
 
-**Cas d'usage** :
+**Cas d'usage**
 - Recherche jurisprudentielle pointue ("décisions Cass Com 2024-2026 sur la responsabilité du dirigeant")
 - Veille thématique automatisée
 - Génération de drafts d'actes en lien avec le droit français
@@ -92,7 +92,7 @@ Voir notre [fiche complète ChatGPT](/outils/chatgpt/).
 
 **Différence avec Doctrine** : Perplexity ratisse le web (presse spé, blogs juridiques, sources institutionnelles), Doctrine ratisse les sources juridiques officielles. Combinés, c'est imbattable.
 
-**Cas d'usage** :
+**Cas d'usage**
 - Briefer un secteur client en 5 minutes avant un rendez-vous
 - Vérifier un fait dans un dossier presse
 - Comparer des positionnements de concurrents (cabinets, contentieux)
@@ -103,7 +103,7 @@ Voir notre [fiche complète Perplexity](/outils/perplexity/) et [comparateur Per
 
 ## 5. Notion AI pour la base interne
 
-**Cas d'usage** :
+**Cas d'usage**
 - Base de templates d'actes (avec variants client)
 - Veille thématique structurée par contentieux
 - Q&A sur la base interne du cabinet

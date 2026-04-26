@@ -50,18 +50,17 @@ Le journalisme est l'un des métiers les plus impactés par l'IA en 2026, et les
 
 **Pourquoi c'est devenu indispensable** : Perplexity te donne une réponse synthétisée avec sources cliquables en 30 secondes. Pour un journaliste qui doit vérifier 20 faits par jour, c'est un game-changer absolu vs Google.
 
-**Cas d'usage critiques** :
-
-**Vérification d'un chiffre** :
+**Cas d'usage critiques**
+**Vérification d'un chiffre**
 > "L'étude Ipsos 2025 dit-elle vraiment que 47% des actifs français envisagent une reconversion ? Cite la source précise et la méthodologie."
 
-**Brief rapide d'un sujet** :
+**Brief rapide d'un sujet**
 > "Synthèse du débat actuel sur l'AI Act 2026 en France : positions des principaux acteurs (OpenAI, Mistral, gouvernement FR, CNIL), enjeux 2026."
 
-**Citations vérifiées** :
+**Citations vérifiées**
 > "Quand et où exactement a [personnalité X] dit telle phrase sur l'IA ? Cite la source originale."
 
-**Vérification d'un événement récent** :
+**Vérification d'un événement récent**
 > "Que s'est-il passé concrètement à [événement Y] hier ? Cite 5 sources françaises et internationales convergentes."
 
 **ROI** : 1h gagnée par jour de vérification = 20h/mois pour 20 dollars/mois. Pour un journaliste à 25 dollars/heure brute = **500 dollars de productivité/mois pour 20 dollars d'abonnement**. ROI x25.
@@ -72,15 +71,14 @@ Voir notre [fiche complète Perplexity](/outils/perplexity/) et [comparateur Per
 
 ## 2. Claude Pro pour les longs formats et enquêtes
 
-**Cas d'usage** :
-
-**Enquête : analyse de 50 documents** :
+**Cas d'usage**
+**Enquête : analyse de 50 documents**
 > "Voici 50 documents anonymisés (rapports, mails, comptes-rendus) sur l'affaire [X]. Identifie : (1) chronologie des événements, (2) acteurs principaux et leur rôle, (3) contradictions entre sources, (4) éléments factuels confirmés vs allégations à vérifier, (5) angles d'enquête à creuser."
 
-**Réécriture stylistique d'un long format** :
+**Réécriture stylistique d'un long format**
 > "Voici mon brouillon d'enquête 5000 mots [colle]. Audit : (1) longueur et rythme, (2) cohérence narrative, (3) formulations à clarifier, (4) sections trop techniques pour le lecteur grand public. Ne réécris pas, propose des corrections."
 
-**Synthèse pour un dossier multi-sources** :
+**Synthèse pour un dossier multi-sources**
 > "Pour mon dossier sur [sujet] : voici 10 articles de presse, 3 rapports institutionnels, 2 études académiques. Synthétise en 2000 mots les positions, données convergentes et points de désaccord."
 
 Voir notre [comparateur Claude vs ChatGPT](/guides/claude-vs-chatgpt/).
@@ -89,18 +87,17 @@ Voir notre [comparateur Claude vs ChatGPT](/guides/claude-vs-chatgpt/).
 
 ## 3. ChatGPT Plus pour les brèves et le brainstorm
 
-**Cas d'usage** :
-
-**Brèves** :
+**Cas d'usage**
+**Brèves**
 > "À partir de ce communiqué de presse [colle], rédige une brève de 200 mots pour notre site. Ton journalistique direct, factuel, sourcé."
 
-**Brainstorm titres** :
+**Brainstorm titres**
 > "Génère 20 titres pour cet article [colle ton brouillon]. Mix info/question/punch/débat. Adapté à un site presse FR grand public."
 
-**Traduction d'une dépêche AP/Reuters/AFP** :
+**Traduction d'une dépêche AP/Reuters/AFP**
 > "Traduis cette dépêche en français journalistique. Garde la précision factuelle, adapte les références culturelles US aux lecteurs FR."
 
-**Réécriture niveau (vulgarisation ou approfondissement)** :
+**Réécriture niveau (vulgarisation ou approfondissement)**
 > "Réécris cet article (technique IA) pour : version 1 grand public sans jargon, version 2 lecteur expert. 800 mots chacune."
 
 Voir notre [fiche ChatGPT](/outils/chatgpt/).
@@ -109,7 +106,7 @@ Voir notre [fiche ChatGPT](/outils/chatgpt/).
 
 ## 4. Otter.ai pour les interviews
 
-**Workflow type** :
+**Workflow type**
 1. Otter rejoint ton appel Zoom/Meet/Teams ou enregistre en présentiel (Pro app)
 2. Transcription temps réel en français
 3. Identification automatique des interlocuteurs
@@ -124,7 +121,7 @@ Voir [fiche Otter](/outils/otter-ai/).
 
 ## 5. Notion AI pour la base sources et veille
 
-**Cas d'usage journaliste** :
+**Cas d'usage journaliste**
 - Base sources (contacts) avec spécialités, historique de citation
 - Veille thématique structurée
 - Suivi des sujets en cours

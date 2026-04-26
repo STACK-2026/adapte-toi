@@ -63,7 +63,7 @@ Anthropic va embaucher des milliers d'ingénieurs, data scientists et experts en
 Mythos, conçu pour contrer les cyberattaques, a déjà fuité. Les entreprises vont recruter massivement des **analystes en cybersécurité capables de travailler avec des LLM**. Un métier critique, avec des salaires en hausse.
 
 **4. Freelances et petites boîtes en difficulté**
-Anthropic et Google contrôlent désormais une part majeure du compute. Les indépendants et petites entreprises devront :
+Anthropic et Google contrôlent désormais une part majeure du compute. Les indépendants et petites entreprises devront
 - Payer des tarifs prohibitifs pour les mêmes puces.
 - Se rabattre sur des solutions moins performantes.
 - Se spécialiser dans des niches (agriculture, logistique locale) où les géants sont absents.

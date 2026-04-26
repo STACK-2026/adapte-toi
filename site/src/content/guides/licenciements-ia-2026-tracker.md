@@ -58,7 +58,7 @@ La vague de licenciements liés à l'IA est devenue tangible en 2026. Klarna, IB
 | Avril 2026 | 16 000 | Cas multiples PME US + EU |
 | **Total visible** | **75 000+** | Tracker Adapte-toi |
 
-**Précisions importantes** :
+**Précisions importantes**
 - Ce sont les cas explicitement annoncés et liés à l'IA
 - Le "silencieux" (non-remplacement après attrition naturelle, freeze hiring) est probablement 2-3x plus élevé
 - France représente environ 5% du volume mondial (étant donné le poids économique)
@@ -163,8 +163,7 @@ La vague de licenciements liés à l'IA est devenue tangible en 2026. Klarna, IB
 
 <h2 id="decryptage">Décryptage : IA cause ou prétexte ?</h2>
 
-**Mix des deux selon les cas** :
-
+**Mix des deux selon les cas**
 **60% des cas** : l'IA est explicitement citée comme raison (gain de productivité, automation). Klarna, IBM, Salesforce sont des exemples typiques où la justification est cohérente avec les faits (Klarna a vraiment automatisé 67% du service client).
 
 **40% des cas** : c'est une opportunité de restructurer après une croissance excessive 2020-2022 ou un stress économique, avec l'IA comme facilitateur narratif. Snap est un cas typique : l'entreprise va mal indépendamment de l'IA, l'IA donne juste un prétexte plus acceptable que "on s'est trompés sur notre stratégie".
@@ -177,7 +176,7 @@ La vague de licenciements liés à l'IA est devenue tangible en 2026. Klarna, IB
 
 Les médias parlent surtout des destructions. Voici les créations qui contrebalancent.
 
-**Selon [LinkedIn Economic Graph 2026](https://economicgraph.linkedin.com/)** :
+**Selon [LinkedIn Economic Graph 2026](https://economicgraph.linkedin.com/)**
 - +35% d'offres mentionnent l'IA en 2026 vs 2025
 - +47% spécifiquement sur les fonctions marketing IA
 - +60% sur les rôles tech IA (dev IA, data scientist, AI engineer)
@@ -202,7 +201,7 @@ Va voir notre [BMO 2026 décrypté](/guides/bmo-france-travail-2026/) et notre [
 
 Selon PwC 2025, les profils "métier d'origine + IA-ready" gagnent 25% de plus. C'est souvent le meilleur ROI court terme.
 
-**Plan 3 mois** :
+**Plan 3 mois**
 - Mois 1 : maîtrise [ChatGPT](/outils/chatgpt/) ou [Le Chat](/guides/alternatives-francaises-a-chatgpt/)
 - Mois 2 : ajoute [Claude](/outils/claude/) ou [Perplexity](/outils/perplexity/) selon métier
 - Mois 3 : adopte 1 outil métier IA spécifique (voir nos [12 guides outils IA pour métier](/guides/))
@@ -231,7 +230,7 @@ Ne reste pas. Lance un side project IA. Construis un portfolio. Forme-toi via [O
 
 <h2 id="methodologie">Méthodologie de notre tracker</h2>
 
-**Sources** :
+**Sources**
 - Communiqués officiels d'entreprises (10-K, 8-K SEC, communiqués FR)
 - Press releases entreprises et CEO statements
 - Layoffs.fyi (tracker public sectoriel)
@@ -239,7 +238,7 @@ Ne reste pas. Lance un side project IA. Construis un portfolio. Forme-toi via [O
 - LinkedIn Economic Graph pour les flux d'emploi
 - Notre veille hebdo (3 décryptages par jour sur adapte-toi.com)
 
-**Critères inclusion** :
+**Critères inclusion**
 - Annonce officielle (pas rumeur)
 - Mention IA explicite OU implicite forte (productivité, automation, "AI-first")
 - Volume significatif (>100 postes ou >5% effectif)
@@ -247,7 +246,7 @@ Ne reste pas. Lance un side project IA. Construis un portfolio. Forme-toi via [O
 
 **Mise à jour** : fin de chaque mois, sur cette page. Cumul actualisé + nouveaux cas majeurs.
 
-**Limites** :
+**Limites**
 - Sous-représentation des PME (moins de communication publique)
 - Sur-représentation US vs France (la communication US est plus transparente)
 - Le "silencieux" (non-remplacement) n'est pas chiffré

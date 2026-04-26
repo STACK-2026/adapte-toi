@@ -108,7 +108,7 @@ L'IA identifie les phrases qui contiennent une action ("On doit envoyer le devis
 
 ### 4. Recherche dans tes conversations passées
 
-Tu peux chercher un mot-clé dans toutes tes réunions. *"Qu'est-ce qu'on avait dit sur le pricing du nouveau produit ?"* — Otter retrouve le passage exact.
+Tu peux chercher un mot-clé dans toutes tes réunions. *"Qu'est-ce qu'on avait dit sur le pricing du nouveau produit ?"* : Otter retrouve le passage exact.
 
 ### 5. Intégrations natives
 
@@ -179,11 +179,11 @@ Le principal frein : la confidentialité (US) pour les réunions ultra-sensibles
 <!-- maillage:auto -->
 ## Pour aller plus loin
 
-**Outils similaires** :
+**Outils similaires**
 - [ElevenLabs](/outils/elevenlabs/) (synthèse vocale)
 - [Descript](/outils/descript/) (édition audio par texte)
 
-**Métiers qui l'utilisent** :
+**Métiers qui l'utilisent**
 - [Commercial IA](/metiers/commercial-ia/)
 - [Journaliste IA](/metiers/journaliste-ia/)
 - [RH recruteur IA](/metiers/rh-recruteur-ia/)
@@ -191,7 +191,7 @@ Le principal frein : la confidentialité (US) pour les réunions ultra-sensibles
 - [Médecin IA](/metiers/medecin-ia/)
 - [Chef de projet IA](/metiers/chef-de-projet-ia/)
 
-**Guides** :
+**Guides**
 - [Outils IA pour commercial](/guides/outils-ia-pour-commercial/)
 - [Outils IA pour RH recruteur](/guides/outils-ia-pour-rh-recruteur/)
 - [Outils IA pour journaliste](/guides/outils-ia-pour-journaliste/)

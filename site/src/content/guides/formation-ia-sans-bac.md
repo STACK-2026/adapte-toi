@@ -56,13 +56,12 @@ Tu n'as pas le bac et tu te demandes si une carrière IA est encore possible en 
 
 <h2 id="legalite">Le bac n'est pas obligatoire (la réalité légale 2026)</h2>
 
-**Aucune loi française n'impose le bac pour exercer les métiers IA non-réglementés** : développeur, data analyst, data scientist, AI engineer, consultant IA, prompt engineer, freelance dev. Le bac est exigé uniquement pour :
-
+**Aucune loi française n'impose le bac pour exercer les métiers IA non-réglementés** : développeur, data analyst, data scientist, AI engineer, consultant IA, prompt engineer, freelance dev. Le bac est exigé uniquement pour
 - Les concours de la fonction publique (administration, banque centrale, etc.)
 - Certains diplômes universitaires d'État (Master classique, doctorat)
 - Quelques métiers réglementés non-IA (médecin, avocat, expert-comptable)
 
-**Pour 95% des emplois IA en France**, ton portfolio + tes certifs RNCP suffisent largement. Les recruteurs tech (startups, scale-ups, agences digitales, ESN) regardent désormais :
+**Pour 95% des emplois IA en France**, ton portfolio + tes certifs RNCP suffisent largement. Les recruteurs tech (startups, scale-ups, agences digitales, ESN) regardent désormais
 1. Tes projets concrets sur GitHub
 2. Tes certifications RNCP (OpenClassrooms, AFPA, bootcamps)
 3. Ton aptitude au prompt-coding (test technique en entretien)
@@ -76,11 +75,11 @@ Le diplôme initial pèse 20% du dossier, le reste c'est le skill démontré. C'
 
 **Pourquoi c'est l'option n°1 pour la plupart des sans-bac** : OpenClassrooms accepte tout apprenant motivé, sans exigence de bac formel. Tu signes un parcours diplômant RNCP qui te donne un diplôme reconnu par l'État.
 
-**Parcours adaptés** :
+**Parcours adaptés**
 - **Développeur d'application Python** (RNCP 5, équivalent Bac+2). 9 mois, 5500 dollars CPF-éligible.
 - **Data Analyst** (RNCP 6, équivalent Bac+3). 9 mois, 5500 dollars.
 
-**Comment ça se passe** :
+**Comment ça se passe**
 1. Inscription gratuite sur openclassrooms.com
 2. Diagnostic d'aptitude (test logique, motivation, projet pro)
 3. Pas de demande de relevé de notes ou diplôme
@@ -96,7 +95,7 @@ Voir notre [guide complet formation IA OpenClassrooms](/guides/formation-ia-open
 
 **Pourquoi c'est rapide** : 9 à 12 semaines à temps plein pour devenir dev junior employable. Format intensif qui marche bien pour les motivés.
 
-**Bootcamps français reconnus, accessibles sans bac** :
+**Bootcamps français reconnus, accessibles sans bac**
 - **Le Wagon** : 9 semaines, 8500 dollars (CPF possible), Paris/Bordeaux/Lille/Lyon/online. Test sélectif au préalable.
 - **Wild Code School** : 5 mois, 7000 dollars (CPF + Pôle Emploi). Plus accessible côté sélection.
 - **Holberton School** : 24 mois en alternance, gratuit en alternance. Formation intensive.
@@ -114,12 +113,12 @@ Voir notre [guide complet formation IA OpenClassrooms](/guides/formation-ia-open
 
 **Pourquoi c'est sous-utilisé** : peu de gens savent que l'AFPA (organisme public) propose des formations IA accessibles aux demandeurs d'emploi, gratuites, parfois rémunérées.
 
-**Parcours AFPA pertinents en 2026** :
+**Parcours AFPA pertinents en 2026**
 - **Développeur web et web mobile** (titre pro RNCP 5). 8 mois.
 - **Concepteur développeur d'applications** (titre pro RNCP 6). 18 mois.
 - **AI Engineer** (annoncé fin 2026, à valider).
 
-**Conditions** :
+**Conditions**
 - Demandeur d'emploi inscrit à France Travail
 - Pas de prérequis bac formel
 - Financement intégral par France Travail + rémunération AFPA possible (450 à 700 dollars/mois)
@@ -132,8 +131,7 @@ Voir notre [guide complet formation IA OpenClassrooms](/guides/formation-ia-open
 
 **Pourquoi ça marche en 2026** : avec [Cursor](/outils/cursor/), [ChatGPT](/outils/chatgpt/) et [Claude](/outils/claude/), tu peux apprendre à coder en autodidacte 3x plus vite qu'en 2020. La barrière à l'entrée a chuté.
 
-**Plan 6 mois pour un autodidacte sérieux** :
-
+**Plan 6 mois pour un autodidacte sérieux**
 **Mois 1** : Elements of AI (gratuit, FR) + tutoriel Cursor (gratuit) + premier site portfolio HTML/CSS basique
 
 **Mois 2** : Python via Kaggle Learn (gratuit) + petit projet "scrapeur de news" en code avec Cursor + ChatGPT
@@ -160,11 +158,11 @@ Voir notre [pillar formation IA gratuite](/guides/se-former-ia-gratuitement/) po
 
 **Le combo gagnant pour les jeunes sans bac** : tu te formes ET tu touches un salaire (43% à 100% du SMIC selon ton âge).
 
-**Voies possibles** :
+**Voies possibles**
 - **Contrat d'apprentissage** : 1 à 2 ans, formation 25-50% du temps + entreprise 50-75%. CFA partenaire.
 - **Contrat de professionnalisation** : 6 mois à 24 mois, formation 15-25% + entreprise. Salaire 55% à 85% du SMIC.
 
-**OF/CFA français qui prennent sans bac** :
+**OF/CFA français qui prennent sans bac**
 - **EPSI** (Bac+3 dev) : entrée possible avec niveau bac (équivalence ou test)
 - **Studi** (parcours dev/data) : ouvert sans bac sur certains parcours
 - **3W Academy** : alternance dev sans bac
@@ -180,13 +178,13 @@ Voir notre [pillar formation IA gratuite](/guides/se-former-ia-gratuitement/) po
 
 **Le hack peu connu** : la **Validation des Acquis de l'Expérience** te permet d'obtenir un diplôme RNCP français après 1 an d'expérience pro dans le métier.
 
-**Comment ça marche** :
+**Comment ça marche**
 1. Tu travailles 12 mois minimum dans un métier IA (CDI, CDD, freelance, alternance)
 2. Tu déposes un dossier VAE auprès de l'organisme certificateur (France Compétences, université, OF)
 3. Tu passes un jury (oral, présentation de tes réalisations)
 4. Le jury te délivre tout ou partie du diplôme RNCP
 
-**Diplômes accessibles via VAE en 2026** :
+**Diplômes accessibles via VAE en 2026**
 - Concepteur Développeur d'Applications (RNCP 6)
 - Data Analyst (RNCP 6)
 - Manager IA en entreprise (RNCP 7)
@@ -201,7 +199,7 @@ Voir notre [pillar formation IA gratuite](/guides/se-former-ia-gratuitement/) po
 
 **Pourquoi ça peut marcher sans diplôme** : sur Malt, Upwork, Comet, le client regarde ton portfolio et tes recommandations, pas ton diplôme.
 
-**Stratégie 6 mois pour démarrer freelance sans bac** :
+**Stratégie 6 mois pour démarrer freelance sans bac**
 1. **Mois 1-3** : autodidaxie (voie 4) ou bootcamp court
 2. **Mois 4** : crée un profil Malt + portfolio site perso + 5 projets visibles
 3. **Mois 5** : missions à 200-300 dollars/jour pour démarrer (under-pricing volontaire pour collecter avis)

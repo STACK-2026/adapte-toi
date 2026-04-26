@@ -185,16 +185,16 @@ Le principal frein : prix élevé (89 dollars+) pour les solos qui publient peu.
 <!-- maillage:auto -->
 ## Pour aller plus loin
 
-**Outils complémentaires** :
+**Outils complémentaires**
 - [ChatGPT](/outils/chatgpt/), [Claude](/outils/claude/) (rédaction)
 - [Jasper](/outils/jasper/), [Copy.ai](/outils/copy-ai/) (alternatives copywriting)
 
-**Guides** :
+**Guides**
 - [Outils IA pour marketing](/guides/outils-ia-pour-marketing/)
 - [Outils IA pour journaliste](/guides/outils-ia-pour-journaliste/)
 - [Pillar formation IA gratuite](/guides/se-former-ia-gratuitement/)
 
-**Métiers qui l'utilisent** :
+**Métiers qui l'utilisent**
 - [Marketing IA](/metiers/marketing-ia/)
 - [Copywriter IA](/metiers/copywriter-ia/)
 - [Journaliste IA](/metiers/journaliste-ia/)

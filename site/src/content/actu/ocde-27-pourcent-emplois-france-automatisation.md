@@ -67,8 +67,7 @@ Sauf que la plupart des articles qui reprennent ce chiffre s'arrêtent là. Ils 
 
 ## Les chiffres qui comptent
 
-Pour naviguer sans se perdre, retiens ces quatre repères :
-
+Pour naviguer sans se perdre, retiens ces quatre repères
 - **27 %** : emplois français à exposition élevée d'ici 2030 (OCDE 2024).
 - **14 %** : emplois à exposition très élevée (plus de 70 % des tâches automatisables), soit environ 2,1 millions de postes.
 - **32 %** : emplois qui vont voir leur contenu se transformer significativement, sans disparaître (la zone grise, souvent oubliée).
@@ -85,7 +84,7 @@ C'est la clé politique du dossier. Tout le débat français tourne autour de ce
 
 **Tu veux savoir si ton métier est dans les 27 %.** Va directement dans notre [catalogue de fiches métiers](/métiers). Chaque fiche a un score d'exposition de 1 à 10. Si ton métier n'y figure pas, il est probablement à exposition faible, mais contacte-nous pour qu'on le traite.
 
-**Tu es dans une zone à risque élevé.** Ne panique pas, mais ne temporise pas non plus. Les trois actions concrètes à mener en 90 jours :
+**Tu es dans une zone à risque élevé.** Ne panique pas, mais ne temporise pas non plus. Les trois actions concrètes à mener en 90 jours
 - Lister les 5 tâches qui prennent le plus de ton temps dans ta semaine type.
 - Tester un LLM (Claude, ChatGPT) sur chacune de ces tâches pour voir où il te dépasse et où il plafonne.
 - Identifier la compétence complémentaire (pas la compétence remplaçable) que ton poste demande et que tu ne maîtrises pas encore. La faire financer par ton CPF, un plan de dev RH, une VAE.

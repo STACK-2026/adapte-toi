@@ -29,8 +29,7 @@ L'Europe joue un rôle unique dans la révolution IA. D'un côté, elle est le p
 
 <h2 id="ai-act">L'EU AI Act : ce que ça change pour toi</h2>
 
-L'EU AI Act est entré en vigueur progressivement depuis 2024. C'est la première loi au monde qui encadre l'intelligence artificielle. Concrètement, elle classe les systèmes IA en 4 niveaux de risque :
-
+L'EU AI Act est entré en vigueur progressivement depuis 2024. C'est la première loi au monde qui encadre l'intelligence artificielle. Concrètement, elle classe les systèmes IA en 4 niveaux de risque
 | Niveau | Exemples | Obligations |
 |--------|----------|-------------|
 | **Inacceptable** (interdit) | Scoring social, manipulation subliminale, surveillance de masse | Interdit en Europe |
@@ -52,13 +51,13 @@ L'EU AI Act est entré en vigueur progressivement depuis 2024. C'est la premièr
 
 L'Europe représente environ 20% du marché mondial de l'IA, derrière les États-Unis (40%) et la Chine (25%). Mais l'écart se réduit.
 
-**Les chiffres clés** :
+**Les chiffres clés**
 - **166 000+ offres IA** publiées en France, n°1 européen (LinkedIn 2024)
 - **500 000+ postes IA** ouverts en Europe (estimation Eurostat 2025)
 - **+35%** de croissance annuelle des emplois liés à l'IA en Europe
 - **25-30%** de déficit de compétences IA (les postes ne trouvent pas de candidats)
 
-**Les secteurs qui recrutent le plus en Europe** :
+**Les secteurs qui recrutent le plus en Europe**
 1. Finance et assurance (scoring, détection de fraude, compliance)
 2. Santé (diagnostic assisté, recherche pharmaceutique)
 3. Automobile (véhicules autonomes, production)
@@ -69,8 +68,7 @@ L'Europe représente environ 20% du marché mondial de l'IA, derrière les État
 
 <h2 id="france">La France, leader européen en offres IA</h2>
 
-La France est le pays européen qui publie le plus d'offres d'emploi liées à l'IA. Plusieurs facteurs expliquent cette position :
-
+La France est le pays européen qui publie le plus d'offres d'emploi liées à l'IA. Plusieurs facteurs expliquent cette position
 **L'écosystème tech français** : Station F (le plus grand incubateur au monde), French Tech, Bpifrance. La France a le 3e écosystème de startups au monde.
 
 **La recherche française** : l'INRIA, le CNRS, les grandes écoles (Polytechnique, ENS, CentraleSupélec) produisent parmi les meilleurs chercheurs IA au monde. Yann LeCun (Meta, Turing Award) est français.

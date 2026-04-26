@@ -83,8 +83,7 @@ Tu vis dans Notion, tu actives Notion AI, et soudain Notion connaît tes pages, 
 
 C'est l'une des questions les plus posées. Réponse : oui, de façon structurée, là où ChatGPT seul reste plus erratique.
 
-**Le workflow reconversion avec Notion AI** :
-
+**Le workflow reconversion avec Notion AI**
 1. **Crée un workspace dédié** "Ma reconversion 2026" avec 5 pages : Bilan compétences actuelles, Métiers cibles explorés, Plan de formation, Candidatures en cours, Notes d'entretien.
 
 2. **Bilan compétences** : Notion AI peut analyser ton CV uploadé. *"Identifie mes 5 compétences les plus monnayables sur le marché 2026 et 3 pistes de reconversion privilégiant les métiers où l'IA crée des opportunités."*

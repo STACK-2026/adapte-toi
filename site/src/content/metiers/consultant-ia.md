@@ -48,7 +48,7 @@ Le métier de consultant est l'un des plus transformés par l'IA en 2026. Les an
 
 ## L'IA et le métier de consultant en 2026
 
-**Ce qui est automatisé à 70%** :
+**Ce qui est automatisé à 70%**
 - Analyse de documents client (50-200 pages en 5 min via Claude)
 - Benchmarks sectoriels et cartographie concurrents
 - Synthèses de rapports de marché
@@ -58,7 +58,7 @@ Le métier de consultant est l'un des plus transformés par l'IA en 2026. Les an
 - Slides decks (Gamma à partir d'un prompt)
 - Reporting et tableaux de bord
 
-**Ce qui reste 100% humain** :
+**Ce qui reste 100% humain**
 - Expertise sectorielle profonde (transmission, relation, contexte)
 - Décisions stratégiques et arbitrages
 - Relation client de confiance
@@ -85,23 +85,23 @@ Le métier de consultant est l'un des plus transformés par l'IA en 2026. Les an
 
 ## Top 5 outils IA à maîtriser
 
-### 1. [Claude Pro](/outils/claude/) — l'arme absolue du consultant
+### 1. [Claude Pro](/outils/claude/) : l'arme absolue du consultant
 
 Audit de 50-200 pages docs client, benchmark 10 concurrents, recommandations stratégiques 30 pages, production rapport final McKinsey-style. **20 dollars/mois.**
 
-### 2. [ChatGPT Plus](/outils/chatgpt/) — brainstorm et frameworks
+### 2. [ChatGPT Plus](/outils/chatgpt/) : brainstorm et frameworks
 
 30 angles d'analyse sectorielle en 5 min, frameworks personnalisés (maturité IA, scoring sur 100), storyboard slides decks Gamma-ready. **20 dollars/mois.**
 
-### 3. [Perplexity Pro](/outils/perplexity/) — veille et briefing
+### 3. [Perplexity Pro](/outils/perplexity/) : veille et briefing
 
 Brief secteur client en 5 minutes avant kickoff, veille concurrentielle hebdo avec sources, vérification chiffres dans rapports. **20 euros/mois.**
 
-### 4. [Notion AI](/outils/notion-ai/) — base missions
+### 4. [Notion AI](/outils/notion-ai/) : base missions
 
 Base clients/missions, templates audits/recommandations/rapports, library frameworks, suivi temps + facturation, Q&A workspace. **22 dollars/mois.**
 
-### 5. [Gamma](/outils/gamma/) — slides decks pro
+### 5. [Gamma](/outils/gamma/) : slides decks pro
 
 Génère slides de qualité agence à partir d'un prompt. Workflow ChatGPT (storyboard) → Gamma (design) → adaptation 30%. Deck client en 1h vs 4-6h. **8-16 dollars/mois.**
 

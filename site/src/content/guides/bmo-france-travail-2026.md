@@ -52,13 +52,13 @@ Le BMO 2026 (Besoins en Main d'Œuvre) de France Travail vient de sortir : 2.7M+
 
 <h2 id="vue-densemble">Vue d'ensemble du [BMO France Travail 2026](https://statistiques.francetravail.fr/category/bmo)</h2>
 
-**Chiffres clés** :
+**Chiffres clés**
 - **2.7M+ projets de recrutement** annoncés en France pour 2026
 - **60% jugés difficiles** à pourvoir par les employeurs
 - **+5% vs 2025** sur le volume (résilience malgré ralentissement éco)
 - **Top secteurs** : santé (390K projets), commerce (320K), services aux particuliers (280K), industrie (260K), construction (210K)
 
-**Évolution 2020-2026** :
+**Évolution 2020-2026**
 - 2020 : 2.0M projets (covid)
 - 2022 : 2.5M projets
 - 2024 : 2.6M projets
@@ -111,7 +111,7 @@ Source : [BMO France Travail 2026](https://statistiques.francetravail.fr/categor
 
 Un métier en tension qui sera automatisé à 60% par l'IA dans 5 ans n'est pas un bon plan de carrière. Voici le croisement BMO × exposition IA selon l'[Anthropic Economic Index](https://www.anthropic.com/economic-index) 2026, l'[OCDE 2025](https://www.oecd.org/en/topics/sub-issues/ai-and-the-future-of-work.html) et nos analyses sectorielles.
 
-**Score d'exposition IA** :
+**Score d'exposition IA**
 - 1-3/10 : faible (peu automatisable, valeur humaine forte)
 - 4-6/10 : moyenne (certaines tâches automatisables, métier transformé)
 - 7-10/10 : élevée (métier menacé, reconversion à anticiper)
@@ -194,8 +194,7 @@ Ces métiers recrutent en 2026 mais l'IA les transforme rapidement. Si tu es dé
 
 <h2 id="metiers-ia">Métiers IA en forte demande France 2026</h2>
 
-Le BMO 2026 cumule sur les "Ingénieurs et cadres tech" mais voici le détail des métiers IA en tension :
-
+Le BMO 2026 cumule sur les "Ingénieurs et cadres tech" mais voici le détail des métiers IA en tension
 | Métier IA | Projets 2026 | Salaire junior | Salaire senior | Voie de formation |
 |-----------|--------------|----------------|----------------|--------------------|
 | Développeur IA | 40K (estim.) | 45-55K | 70-100K | OpenClassrooms, École 42, Wild Code School |
@@ -246,7 +245,7 @@ Pour la reconversion vers ces métiers, voir notre [pillar formation IA gratuite
 
 **Limites** : sous-représentation des TPE (moins de 10 salariés), volume freelance et auto-entrepreneurs non comptés.
 
-**Notre traitement Adapte-toi** : croisement avec :
+**Notre traitement Adapte-toi** : croisement avec
 - [Anthropic Economic Index (mars 2026)](https://www.anthropic.com/economic-index) sur l'exposition IA
 - [OCDE 2025](https://www.oecd.org/en/topics/sub-issues/ai-and-the-future-of-work.html) sur l'automatisation
 - [LinkedIn Salary Insights 2026](https://www.linkedin.com/salary/) sur les salaires

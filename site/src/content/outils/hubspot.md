@@ -153,8 +153,7 @@ L'IA conversationnelle qui pilote tout HubSpot. Crée des contacts, lance des em
 
 ## Workflow IA complet : Apollo + HubSpot + ChatGPT
 
-Pour un setup commercial top 1% en 2026 :
-
+Pour un setup commercial top 1% en 2026
 1. **[Apollo](https://www.apollo.io)** (100 dollars/mois) : sourcing 270M contacts B2B + enrichissement IA
 2. **HubSpot Pro** (100 dollars/utilisateur) : CRM + lead scoring + automation
 3. **[ChatGPT Plus](/outils/chatgpt/)** (20 dollars) : personnalisation copy à scale
@@ -207,16 +206,16 @@ Pour grands comptes, Salesforce reste devant. Pour solos, Pipedrive ou Brevo plu
 <!-- maillage:auto -->
 ## Pour aller plus loin
 
-**Outils complémentaires** :
+**Outils complémentaires**
 - [ChatGPT](/outils/chatgpt/), [Claude](/outils/claude/) (drafts personalisés)
 - [Otter.ai](/outils/otter-ai/) (transcription appels)
 - [Make](/outils/make/), [Zapier](/outils/zapier/) (automation no-code)
 
-**Guides** :
+**Guides**
 - [Outils IA pour commercial](/guides/outils-ia-pour-commercial/)
 - [Outils IA pour marketing](/guides/outils-ia-pour-marketing/)
 
-**Métiers qui l'utilisent** :
+**Métiers qui l'utilisent**
 - [Commercial IA](/metiers/commercial-ia/)
 - [Marketing IA](/metiers/marketing-ia/)
 - [Charge de clientèle IA](/metiers/charge-clientele-ia/)

@@ -98,7 +98,7 @@ L'interface de Cursor reste en anglais, comme tout VS Code (les éditeurs de cod
 
 **Les commentaires de code en français sont parfaitement compris.** Cursor utilise tes commentaires comme contexte, donc si tu commentes en français, il génèrera du code cohérent avec ton style.
 
-**Cas d'usage où le français Cursor brille** :
+**Cas d'usage où le français Cursor brille**
 - Documentation interne d'une équipe FR (génération de docstrings en français)
 - Onboarding de juniors francophones (explications pédagogiques en français)
 - Refacto avec contraintes business expliquées en français dans le prompt
@@ -204,7 +204,7 @@ Notre [guide reconversion IA](/guides/reconversion-ia-guide-complet/) couvre tou
 
 **Copilot gagne sur l'écosystème.** Si tu cherches l'intégration la plus fluide avec GitHub, le plan le plus accessible (gratuit étudiant, 10 dollars solo, 19 dollars business), et le standard validé par les grandes boîtes tech, c'est Copilot. Pas glamour, ultra-efficace.
 
-**Recommandation finale** :
+**Recommandation finale**
 - Tu apprends ou tu fais tes premiers projets : **Copilot gratuit étudiant** ou **Cursor Hobby**
 - Tu freelance ou tu pousses ta productivité solo : **Cursor Pro** à 20 dollars
 - Tu bosses en équipe en entreprise : **Copilot Business** à 19 dollars

@@ -52,7 +52,7 @@ L'IA souveraine française a fait des progrès remarquables en 2025-2026. Mistra
 
 **Pourquoi c'est l'option n°1** : Mistral, fondé à Paris en 2023, est devenu en 2026 la pépite européenne de l'IA générative. Le Chat est leur assistant grand public et professionnel, hébergé en Europe avec RGPD strict.
 
-**Fonctions clés 2026** :
+**Fonctions clés 2026**
 - Multi-modèles Mistral (Large 2, Large 3, Codestral, Pixtral, Mistral Small)
 - Recherche web native avec sources citées
 - Mode Canvas pour la rédaction longue
@@ -62,13 +62,13 @@ L'IA souveraine française a fait des progrès remarquables en 2025-2026. Mistra
 - Hébergement Europe garanti
 - Opt-out training par défaut sur plans payants
 
-**Plans 2026** :
+**Plans 2026**
 - **Free** : généreux, modèles Mistral Small illimité + Large 2 avec quotas
 - **Pro à 14.99 euros/mois** : tous modèles illimités, recherche Pro, upload fichiers, canvas
 - **Team à 24.99 euros/utilisateur/mois** : workspace partagé, admin, opt-out par défaut
 - **Enterprise** : data residency France, SSO, AI Act conformité
 
-**Cas d'usage où Le Chat brille** :
+**Cas d'usage où Le Chat brille**
 - Communication interne entreprise FR (RGPD strict)
 - Analyses de marché européennes
 - Rédaction professionnelle française (qualité éditoriale excellente)
@@ -96,13 +96,13 @@ L'IA souveraine française a fait des progrès remarquables en 2025-2026. Mistra
 
 **Conçu par** : DINUM (Direction Interministérielle du Numérique), équipe Etalab.
 
-**Particularités** :
+**Particularités**
 - 100% open source (code disponible sur GitHub)
 - Auto-hébergeable en France (cloud souverain ou on-premise)
 - Basé sur Mistral (modèles fine-tunés pour l'admin)
 - Conformité RGPD + RGS (référentiel général de sécurité)
 
-**Cas d'usage administratif** :
+**Cas d'usage administratif**
 - Aide à la rédaction d'actes administratifs
 - Synthèses de notes ministérielles
 - Réponses chatbots service public (déjà déployé sur certains sites .gouv.fr)
@@ -118,7 +118,7 @@ L'IA souveraine française a fait des progrès remarquables en 2025-2026. Mistra
 
 **Différenciation** : Lumières est un projet Mistral focalisé sur la recherche, l'éducation et la culture scientifique. Plus pointu sur les sources académiques que Le Chat grand public.
 
-**Cas d'usage** :
+**Cas d'usage**
 - Vulgarisation scientifique
 - Synthèse de papers académiques
 - Aide à la rédaction de mémoires/thèses
@@ -132,7 +132,7 @@ L'IA souveraine française a fait des progrès remarquables en 2025-2026. Mistra
 
 **Pourquoi c'est utile** : Hugging Chat est l'interface Hugging Face vers les meilleurs modèles open source. Tu choisis entre Mistral, Llama, Qwen, etc. avec hébergement variable (Europe possible).
 
-**Cas d'usage** :
+**Cas d'usage**
 - Comparer plusieurs modèles open source rapidement
 - Tester avant intégration en produit (R&D)
 - Communauté française de chercheurs/devs IA

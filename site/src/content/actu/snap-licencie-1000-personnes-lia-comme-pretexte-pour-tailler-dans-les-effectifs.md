@@ -82,25 +82,25 @@ Cette phrase est un chef-d'œuvre d'AI-washing. Spiegel ne parle pas d'innovatio
 ## Pour toi concrètement
 
 **Tu es community manager ou chargé de clientèle dans la tech.**
-Snap licencie en masse ses équipes marketing et vente. Ton métier est en première ligne. **À faire dans les 90 jours** :
+Snap licencie en masse ses équipes marketing et vente. Ton métier est en première ligne. **À faire dans les 90 jours**
 - Automatise tes tâches répétitives avec des outils comme [Zapier](/outils/zapier) ou [Make](/outils/make) pour te concentrer sur la stratégie.
 - Monte en compétences sur l'IA : forme-toi au [prompt engineering](/guides/prompt-engineering-debutant) et utilise [ChatGPT](/outils/chatgpt) pour générer des idées de contenu.
 - Pivote vers des rôles hybrides : combine tes compétences en relation client avec de l'analyse data ([guide pour devenir data analyst IA](/metiers/data-analyst-ia)).
 
 **Tu es développeur ou data analyst.**
-Les métiers tech ne sont pas épargnés, surtout si tu travailles sur des tâches standardisées (maintenance, reporting). **À faire dans les 90 jours** :
+Les métiers tech ne sont pas épargnés, surtout si tu travailles sur des tâches standardisées (maintenance, reporting). **À faire dans les 90 jours**
 - Spécialise-toi dans des niches porteuses : [développement IA](/metiers/developpeur-ia) ou [architecture cloud](/metiers/consultant-ia).
 - Utilise des outils comme [Copilot](/outils/copilot) ou [Cursor](/outils/cursor) pour coder plus vite, mais ne te laisse pas remplacer par eux.
 - Documente tes projets sur GitHub ou un portfolio : les recruteurs cherchent des profils qui savent **utiliser** l'IA, pas juste des exécutants.
 
 **Tu es en reconversion ou tu envisages de quitter la tech.**
-Ces licenciements sont un signal d'alarme. La tech n'est plus un eldorado. **À faire dans les 90 jours** :
+Ces licenciements sont un signal d'alarme. La tech n'est plus un eldorado. **À faire dans les 90 jours**
 - Identifie les métiers résistants à l'automatisation : [consultant IA](/metiers/consultant-ia), [chef de projet IA](/metiers/chef-de-projet-ia), ou [formateur en compétences IA](/metiers/enseignant-ia).
 - Finance ta formation avec ton CPF : notre [guide pour financer une formation IA](/guides/financer-formation-ia-cpf) t'explique comment.
 - Explore des secteurs moins exposés : santé, éducation, ou artisanat. Consulte notre [guide des métiers d'avenir hors tech](/guides/reconversion-ia-guide-complet).
 
 **Tu es freelance ou indépendant.**
-Les entreprises comme Snap externalisent de plus en plus leurs besoins. **À faire dans les 90 jours** :
+Les entreprises comme Snap externalisent de plus en plus leurs besoins. **À faire dans les 90 jours**
 - Propose des services hybrides : combine ton expertise métier avec de l'IA (ex : un community manager qui utilise [Midjourney](/outils/midjourney) pour créer des visuels).
 - Monte en gamme : forme-toi à des outils comme [Notion AI](/outils/notion-ai) ou [Gamma](/outils/gamma) pour automatiser tes livrables.
 - Trouve des clients hors tech : les PME et les associations ont besoin de compétences IA, mais sans les budgets des géants.

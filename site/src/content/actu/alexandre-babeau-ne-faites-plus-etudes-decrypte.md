@@ -67,8 +67,7 @@ Les détracteurs (et ils sont nombreux : Hugues Draelants, Louis Maurin, une par
 
 ## Les chiffres qui comptent
 
-Quelques données à garder en tête quand tu liras les critiques du livre :
-
+Quelques données à garder en tête quand tu liras les critiques du livre
 - **27 %** des emplois en France sont exposés à un risque élevé d'automatisation d'ici 2030 (source OCDE 2024, soit environ 4 millions de postes).
 - **47 %** des actifs français envisagent une reconversion professionnelle en 2025-2026, avec la montée en compétences IA parmi les trois motivations principales (Ipsos pour Amalgame, 2025).
 - **67 %** de baisse d'embauche chez les juniors dans certains centres d'appels américains sur 2024-2025, quand l'IA a été déployée (Anthropic Economic Index, mars 2026).

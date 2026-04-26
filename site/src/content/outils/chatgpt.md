@@ -167,7 +167,7 @@ Pour le détail, va voir nos comparateurs : [Claude vs ChatGPT](/guides/claude-v
 
 Selon l'[Anthropic Economic Index](https://www.anthropic.com/economic-index) 2026, 39% des actifs français utilisent désormais ChatGPT au moins 1 fois par semaine au travail. Selon l'[OCDE 2025](https://www.oecd.org/en/topics/sub-issues/ai-and-the-future-of-work.html), 27% des emplois français sont exposés à l'automatisation IA. Selon Ipsos 2025, 47% des actifs envisagent une reconversion.
 
-**La grille de lecture honnête** :
+**La grille de lecture honnête**
 - Ton métier ne disparaîtra pas du jour au lendemain. Mais celui qui ne maîtrise pas les outils IA en 2027 sera moins compétitif que celui qui les maîtrise.
 - Les premiers métiers transformés sont ceux qui produisent du texte, du code, des images, des slides. Vois nos [fiches métiers](/metiers/) pour le détail par profession.
 - L'opportunité : ceux qui maîtrisent ChatGPT gagnent 25% de salaire en plus selon PwC 2025, et 270% de croissance d'offres d'emploi mentionnant l'IA selon LinkedIn.

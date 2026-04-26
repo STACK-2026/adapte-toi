@@ -58,8 +58,7 @@ OpenAI a annoncé le 22 avril 2026 le déploiement de **GPT for Clinicians**, un
 
 OpenAI a partenarisé avec **12 hôpitaux universitaires américains** pour déployer GPT for Clinicians, un fork du GPT-5 entraîné sur des corpus médicaux validés (UpToDate, PubMed, Mayo Clinic Knowledge Base, NIH datasets). L'outil est accessible exclusivement aux médecins authentifiés via leur DSI hospitalière, jamais aux patients en direct.
 
-Les 5 cas d'usage déployés en avril 2026 :
-
+Les 5 cas d'usage déployés en avril 2026
 1. **Transcription consultation auto** : enregistrement chiffré local, transcription en temps réel, génération de CR structuré
 2. **Synthèse de dossier patient** : compression de 50-200 pages en 5 minutes (analyses, antécédents, traitements en cours, signaux d'alerte)
 3. **Aide au diagnostic différentiel** : à partir des symptômes saisis, GPT propose 5-10 hypothèses diagnostiques avec probabilités relatives et examens à demander
@@ -90,7 +89,7 @@ Selon [Renaud Dekode](https://renaud-dekode.fr/ia-clinique-france-2026) (avril 2
 
 ### Ce qui change déjà en 2026
 
-Les médecins français qui veulent anticiper utilisent **dès aujourd'hui** des outils similaires en autonomie :
+Les médecins français qui veulent anticiper utilisent **dès aujourd'hui** des outils similaires en autonomie
 - **[Otter.ai](/outils/otter-ai/)** pour la transcription consultation (avec consentement patient)
 - **[Claude Pro](/outils/claude/)** pour la synthèse de dossier patient anonymisé
 - **[Perplexity Pro](/outils/perplexity/)** Academic Focus pour la veille scientifique sourcée
@@ -108,11 +107,10 @@ Voir notre [fiche métier complète médecin IA](/metiers/medecin-ia/).
 
 ## Le contre-récit : ce qui reste 100% humain (et c'est obligatoire)
 
-Selon le Pr Jean-Emmanuel Bibault, oncologue radiothérapeute à l'HEGP et conseiller IA pour le CNOM :
-
+Selon le Pr Jean-Emmanuel Bibault, oncologue radiothérapeute à l'HEGP et conseiller IA pour le CNOM
 > "L'IA clinique ne remplace pas le médecin. Elle lui rend du temps pour le patient. C'est le seul usage acceptable, et c'est aussi le plus puissant."
 
-Ce qui reste obligatoirement humain (loi française 2026) :
+Ce qui reste obligatoirement humain (loi française 2026)
 - Diagnostic final et signature médicale
 - Examen clinique physique
 - Décision thérapeutique

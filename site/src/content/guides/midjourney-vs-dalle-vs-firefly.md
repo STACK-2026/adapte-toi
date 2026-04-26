@@ -169,7 +169,7 @@ C'est le vrai sujet des freelances et des entreprises en France en 2026. Beaucou
 
 **DALL-E (via ChatGPT)** : OpenAI te donne le droit d'utilisation commerciale incluse dans ChatGPT Plus (20 dollars) et ChatGPT Pro (200 dollars). Pas de garantie d'indemnisation comme Adobe, mais usage commercial autorisé. Comme Midjourney, des controverses sur les sources d'entraînement existent mais aucun jugement défavorable n'a affecté les utilisateurs finaux.
 
-**En France spécifiquement**, le droit d'auteur est plus protecteur que le droit US. Pour un livrable client important, le bon réflexe est de :
+**En France spécifiquement**, le droit d'auteur est plus protecteur que le droit US. Pour un livrable client important, le bon réflexe est de
 1. Privilégier Firefly pour l'image finale en B2B sensible
 2. Utiliser Midjourney pour l'inspiration et le moodboard, puis Firefly pour la version finale
 3. Documenter le prompt et le process (preuve de création)

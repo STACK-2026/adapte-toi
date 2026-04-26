@@ -50,13 +50,13 @@ Le métier de commercial B2B en France traverse sa plus grande transformation de
 
 **Le secret du commercial 2026** : ne plus jamais envoyer un mail de prospection générique. ChatGPT te permet de personnaliser à scale avec des prompts simples.
 
-**Prompt mail de prospection ultra-personnalisé** :
+**Prompt mail de prospection ultra-personnalisé**
 > "Tu es commercial pour [notre solution]. Cible : [prospect Y] (rôle, entreprise, secteur). Voici ce que je sais d'eux : [3 infos LinkedIn/site]. Génère un mail qui : (1) mentionne 1 fait précis sur leur entreprise, (2) propose une valeur précise, (3) CTA simple discovery 15 min, (4) ton chaleureux pas corporate, (5) 100 mots max."
 
-**Préparation d'un appel découverte** :
+**Préparation d'un appel découverte**
 > "Je vais appeler le DG de [entreprise X] secteur [Y]. Voici ce que je sais : [briefe]. Donne-moi : (1) 5 questions de découverte ouvertes, (2) 3 objections probables et comment y répondre, (3) 2 angles différenciateurs vs nos concurrents [Z]."
 
-**Scripts d'appels** :
+**Scripts d'appels**
 > "Génère 3 versions de pitch téléphonique de 30 secondes pour [solution] vers [persona]. Variations de ton : informatif, problèmes, opportunités. Format : accroche / valeur / question."
 
 **ROI** : un SDR qui personnalise tous ses mails passe de 3% à 15-20% de taux de réponse. Sur 100 mails/jour = +12 à 17 RDV par mois supplémentaires.
@@ -67,12 +67,12 @@ Voir notre [fiche complète ChatGPT](/outils/chatgpt/).
 
 ## 2. Claude Pro pour les comptes-rendus et propositions longues
 
-**Cas d'usage** :
+**Cas d'usage**
 - CR détaillé d'un appel d'1h (à partir de notes brutes)
 - Proposition commerciale 5-10 pages personnalisée
 - Analyse de l'historique client (mails, CR, factures) pour préparer un upsell
 
-**Prompt CR appel** :
+**Prompt CR appel**
 > "Voici les notes brutes d'un appel découverte client [X]. Transforme en CR pro : contexte, problématiques identifiées, besoins exprimés, objections soulevées, next steps avec deadlines. Format adapté à un CRM HubSpot."
 
 Voir notre [comparateur Claude vs ChatGPT](/guides/claude-vs-chatgpt/) pour le verdict détaillé.
@@ -83,7 +83,7 @@ Voir notre [comparateur Claude vs ChatGPT](/guides/claude-vs-chatgpt/) pour le v
 
 **Pourquoi c'est devenu le standard 2026** : Apollo combine database de 270M+ contacts B2B, enrichissement IA, séquences automatisées avec personnalisation par IA générative, et tracking ouvertures/clics.
 
-**Workflow Apollo + ChatGPT** :
+**Workflow Apollo + ChatGPT**
 1. Définis ton ICP dans Apollo (secteur, taille, rôle, technos)
 2. Apollo te sort 1000 contacts qualifiés
 3. Apollo IA enrichit chaque contact avec 5+ data points
@@ -91,7 +91,7 @@ Voir notre [comparateur Claude vs ChatGPT](/guides/claude-vs-chatgpt/) pour le v
 5. Apollo envoie en séquence (mail 1 jour 0, mail 2 jour 3, mail 3 jour 7)
 6. Tu gères les réponses humainement
 
-**Prix** :
+**Prix**
 - Apollo Basic : 49 dollars/mois (300 crédits)
 - Apollo Professional : 99 dollars/mois (1000 crédits)
 - Apollo Custom : 200+ dollars (heavy users)
@@ -102,7 +102,7 @@ Voir notre [comparateur Claude vs ChatGPT](/guides/claude-vs-chatgpt/) pour le v
 
 ## 4. HubSpot CRM avec IA native
 
-Fonctions IA HubSpot 2026 :
+Fonctions IA HubSpot 2026
 - Lead scoring automatique sur 50+ critères
 - Drafts mails personnalisés à partir du contexte CRM
 - Prédictions de probabilité de closing
@@ -117,7 +117,7 @@ Fonctions IA HubSpot 2026 :
 
 **Pour qui** : tout commercial qui passe 5+ heures/semaine en réunions clients.
 
-**Workflow** :
+**Workflow**
 1. Otter rejoint ton appel Zoom/Meet/Teams (ou enregistre en présentiel)
 2. Transcription temps réel en français
 3. Résumé auto + actions identifiées + next steps

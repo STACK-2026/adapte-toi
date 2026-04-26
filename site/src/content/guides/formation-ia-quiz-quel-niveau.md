@@ -137,7 +137,7 @@ Tu lis des papers, tu publies du code, tu peux fine-tuner un modèle pour un use
 
 **Cible 3 mois** : passer Utilisateur (4/10).
 
-**Plan** :
+**Plan**
 1. **Semaine 1-2** : suis Elements of AI (gratuit, 100% FR, 30h)
 2. **Semaine 3-4** : crée un compte sur ChatGPT et Perplexity (gratuit). Pose 5 questions par jour pendant 2 semaines.
 3. **Mois 2** : suis Google AI Essentials sur Coursera (gratuit en audit, 10h, sous-titres FR)
@@ -149,7 +149,7 @@ Tu lis des papers, tu publies du code, tu peux fine-tuner un modèle pour un use
 
 **Cible 3 mois** : passer Bricoleur (5/10).
 
-**Plan** :
+**Plan**
 1. Lis [notre comparatif Perplexity vs ChatGPT](/guides/perplexity-vs-chatgpt/) et [Claude vs ChatGPT](/guides/claude-vs-chatgpt/)
 2. Maîtrise le prompt engineering : Learn Prompting (gratuit) + Anthropic Prompt Engineering Guide (gratuit)
 3. Crée un compte Make.com (gratuit) et fais 3 automatisations IA (par exemple : nouveau mail → résumé GPT → notif Slack)
@@ -161,7 +161,7 @@ Tu lis des papers, tu publies du code, tu peux fine-tuner un modèle pour un use
 
 **Cible 6 mois** : passer Confirmé (8/10).
 
-**Plan** :
+**Plan**
 1. Apprends Python via Kaggle Learn (gratuit) ou Codecademy
 2. Suis la Machine Learning Specialization d'Andrew Ng sur Coursera (3 mois, audit gratuit ou 79 dollars cert)
 3. Construis 3 projets perso : (1) chatbot RAG sur tes propres docs, (2) automatisation pro de ton métier, (3) mini-app web avec IA intégrée
@@ -174,7 +174,7 @@ Tu lis des papers, tu publies du code, tu peux fine-tuner un modèle pour un use
 
 **Cible 12 mois** : passer Expert (9-10/10).
 
-**Plan** :
+**Plan**
 1. Suis la Deep Learning Specialization d'Andrew Ng (4 mois)
 2. Lis et implémente 5 papers récents (transformer, GPT, BERT, RAG, agents)
 3. Contribue à un projet open source (LangChain, llama.cpp, ou un projet métier)
@@ -185,7 +185,7 @@ Tu lis des papers, tu publies du code, tu peux fine-tuner un modèle pour un use
 
 ### Si tu es Expert (9-10/10)
 
-**Tu n'as pas besoin de formation classique.** Reste à jour via :
+**Tu n'as pas besoin de formation classique.** Reste à jour via
 - arXiv daily (papers du jour)
 - Twitter/X : suis 30 chercheurs IA majeurs
 - Conférences : NeurIPS, ICLR, EMNLP, France IA Days

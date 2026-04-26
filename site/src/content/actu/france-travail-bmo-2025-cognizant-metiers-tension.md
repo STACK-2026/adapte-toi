@@ -82,7 +82,7 @@ Le mot important est *migration*. Le marché du travail français n'est pas en t
 
 ## Pour toi concrètement
 
-**Tu veux savoir si ton secteur est du bon côté de la migration.** Grille rapide :
+**Tu veux savoir si ton secteur est du bon côté de la migration.** Grille rapide
 - Aide à la personne, santé, BTP, maintenance, restauration, agriculture : côté tension, faiblement exposé IA. Stratégie : monter en qualification dans ton secteur, ne pas partir.
 - Marketing, communication, rédaction, traduction, support client, comptabilité niveau 1 : côté sur-offre, fortement exposé IA. Stratégie : bifurquer dans les 18 mois, ou devenir le profil hybride qui maîtrise l'IA de ton secteur.
 - Tech, data, ingénierie, recherche : côté tension, faiblement exposé IA mais avec forte reconfiguration interne. Stratégie : maintenir le niveau technique en permanence, ne pas se laisser distancer.
