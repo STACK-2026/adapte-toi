@@ -294,7 +294,7 @@ Pour explorer plus d'outils créatifs, vois nos fiches détaillées [Midjourney]
 - Midjourney v7 release notes 2026
 - OpenAI GPT-Image-1 documentation 2026
 - Adobe Firefly Generative AI 2026 commercial license terms
-- Adobe Stock training data disclosure 2024
+- [Adobe Stock training data disclosure 2024](https://www.adobe.com/legal/firefly-faq.html)
 - US District Court NorCal class action vs Midjourney 2024 (status update 2026)
 
 ## Pour aller plus loin

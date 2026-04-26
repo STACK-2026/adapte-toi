@@ -234,8 +234,8 @@ Notre recommandation : si ton workspace Notion a 50+ pages, prends l'addon. Si t
 
 - Notion roadmap publique 2026 (Notion Agents, Q&A workspace, modèles)
 - Notion CGU 2026 : engagement non-training sur données utilisateur
-- Lefebvre Dalloz (2026) : adoption IA en entreprise française
-- Stack Overflow Developer Survey 2025 : adoption Notion en équipes tech
+- [Lefebvre Dalloz (2026)](https://www.lefebvre-dalloz.fr/) : adoption IA en entreprise française
+- [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2024/) : adoption Notion en équipes tech
 
 <!-- maillage:auto -->
 ## Pour aller plus loin

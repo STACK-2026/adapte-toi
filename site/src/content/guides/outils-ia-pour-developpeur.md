@@ -154,10 +154,10 @@ Voir [pillar formation IA gratuite](/guides/se-former-ia-gratuitement/) et [fich
 
 ## Sources
 
-- GitHub Octoverse 2025 + Studies productivité Copilot 2026
-- Stack Overflow Developer Survey 2025 : adoption AI coding tools
-- LinkedIn 2026 : +60% d'offres dev mentionnant l'IA
-- Apec Tech (2025) : salaires devs IA-ready France
+- [GitHub Octoverse 2025](https://github.blog/news-insights/octoverse/) + Studies productivité Copilot 2026
+- [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2024/) : adoption AI coding tools
+- [LinkedIn 2026](https://www.linkedin.com/) : +60% d'offres dev mentionnant l'IA
+- [Apec Tech (2025)](https://www.apec.fr/) : salaires devs IA-ready France
 
 ## Pour aller plus loin
 

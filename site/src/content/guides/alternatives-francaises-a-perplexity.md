@@ -68,7 +68,7 @@ L'IA souveraine française a fait des progrès considérables en 2025-2026. Mist
 
 **Cas d'usage où Le Chat brille** :
 - Veille concurrentielle FR (sources francophones priorisées)
-- Recherche réglementaire française (Légifrance, Bofip, jurisprudences)
+- Recherche réglementaire française ([Légifrance](https://www.legifrance.gouv.fr/), Bofip, jurisprudences)
 - Analyses de marché européennes
 - Communication interne en entreprise FR (RGPD strict)
 
@@ -111,7 +111,7 @@ L'IA souveraine française a fait des progrès considérables en 2025-2026. Mist
 - Conformité RGPD + référentiel de sécurité des opérateurs d'importance vitale
 
 **Cas d'usage** :
-- Recherche dans Légifrance, JORF, codes
+- Recherche dans [Légifrance](https://www.legifrance.gouv.fr/), JORF, codes
 - Synthèses de notes ministérielles
 - Réponses aux usagers (chatbots service public)
 - Aide à la rédaction d'actes administratifs
@@ -214,11 +214,11 @@ Voir notre [fiche complète Perplexity](/outils/perplexity/) et [comparateur Per
 
 ## Sources
 
-- Mistral public roadmap 2026
-- DINUM (gouv FR) : projet Albert 2025-2026
+- [Mistral public roadmap 2026](https://mistral.ai/news/)
+- [DINUM (gouv FR)](https://www.numerique.gouv.fr/dinum/) : projet Albert 2025-2026
 - Hugging Face stats 2026
-- AI Act 2026 (UE) : exigences souveraineté
-- Anthropic Economic Index (mars 2026) : adoption IA en France
+- [AI Act 2026 (UE)](https://artificialintelligenceact.eu/) : exigences souveraineté
+- [Anthropic Economic Index (mars 2026)](https://www.anthropic.com/economic-index) : adoption IA en France
 
 ## Pour aller plus loin
 

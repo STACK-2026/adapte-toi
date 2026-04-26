@@ -250,8 +250,8 @@ Compte 3 à 4 mois entre la première démarche et le début de la formation. Co
 - France Travail : dispositifs demandeurs d'emploi (AIF, POEI, etc.)
 - France Compétences : référentiel des certifications, VAE
 - mon-cep.org : Conseil en Évolution Professionnelle
-- OCDE (2025) : 27% des emplois français exposés à l'automatisation
-- Ipsos (2025) : 47% des actifs français envisagent une reconversion
+- [OCDE (2025)](https://www.oecd.org/en/topics/sub-issues/ai-and-the-future-of-work.html) : 27% des emplois français exposés à l'automatisation
+- [Ipsos (2025)](https://www.ipsos.com/fr-fr) : 47% des actifs français envisagent une reconversion
 
 <!-- maillage:auto -->
 ## Pour aller plus loin

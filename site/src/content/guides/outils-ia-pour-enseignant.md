@@ -184,11 +184,11 @@ Voir [pillar formation IA gratuite](/guides/se-former-ia-gratuitement/) et [fich
 
 ## Sources
 
-- Education Nationale (2024-2026) : cadre IA dans l'enseignement
-- AI Act 2026 (Union Européenne) : décisions automatisées et éducation
+- [Education Nationale (2024-2026)](https://www.education.gouv.fr/intelligence-artificielle) : cadre IA dans l'enseignement
+- [AI Act 2026 (Union Européenne)](https://artificialintelligenceact.eu/) : décisions automatisées et éducation
 - M@gistère : modules de formation continue IA
 - CANOPE : ressources pédagogiques IA 2025-2026
-- CNIL (2025) : recommandations sur l'IA en milieu scolaire
+- [CNIL (2025)](https://www.cnil.fr/fr/intelligence-artificielle) : recommandations sur l'IA en milieu scolaire
 
 ## Pour aller plus loin
 

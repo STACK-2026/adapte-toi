@@ -164,9 +164,9 @@ Stack minimale : 50 euros/mois. Rentabilisée dès 2 heures gagnées par semaine
 ## Sources
 
 - McKinsey (2024) : 30% des heures automatisables d'ici 2030
-- PwC (2025) : les équipes qui automatisent gagnent 30-40% de productivité
+- [PwC (2025)](https://www.pwc.com/gx/en/issues/artificial-intelligence.html) : les équipes qui automatisent gagnent 30-40% de productivité
 - Make.com : 500 000+ entreprises utilisatrices, 1 500+ applications connectées
-- OCDE (2025) : 27% des emplois français exposés à l'automatisation
+- [OCDE (2025)](https://www.oecd.org/en/topics/sub-issues/ai-and-the-future-of-work.html) : 27% des emplois français exposés à l'automatisation
 
 <!-- maillage:auto -->
 ## Pour aller plus loin

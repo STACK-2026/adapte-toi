@@ -108,7 +108,7 @@ Make.com est l'outil d'automatisation le plus puissant accessible sans coder. Si
 
 - Make.com : 1 500+ intégrations, utilisé par 500 000+ entreprises
 - McKinsey (2024) : 30% des heures de travail automatisables
-- PwC (2025) : les équipes qui automatisent gagnent 30-40% de productivité
+- [PwC (2025)](https://www.pwc.com/gx/en/issues/artificial-intelligence.html) : les équipes qui automatisent gagnent 30-40% de productivité
 
 <!-- maillage:auto -->
 ## Pour aller plus loin

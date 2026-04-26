@@ -93,7 +93,7 @@ Canva AI est l'outil le plus accessible pour créer des visuels professionnels s
 ## Sources
 
 - Canva (2026) : 190+ millions d'utilisateurs mensuels
-- PwC (2025) : +25% de salaire pour les profils maîtrisant les outils IA
+- [PwC (2025)](https://www.pwc.com/gx/en/issues/artificial-intelligence.html) : +25% de salaire pour les profils maîtrisant les outils IA
 
 <!-- maillage:auto -->
 ## Pour aller plus loin

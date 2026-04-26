@@ -129,7 +129,7 @@ Voir notre [fiche complète Perplexity](/outils/perplexity/) et [comparateur Per
 
 ## Limites zéro bullshit
 
-**Limite 1 : hallucinations sur le droit pointu.** Les LLMs peuvent inventer un article ou se tromper de version. Toujours vérifier sur Légifrance ou Doctrine pour les décisions à prendre.
+**Limite 1 : hallucinations sur le droit pointu.** Les LLMs peuvent inventer un article ou se tromper de version. Toujours vérifier sur [Légifrance](https://www.legifrance.gouv.fr/) ou Doctrine pour les décisions à prendre.
 
 **Limite 2 : RGPD partiel sans Team/Enterprise.** Plans gratuits/Plus : risque secret pro réel. À éviter pour les vrais dossiers.
 
@@ -152,10 +152,10 @@ Voir notre [pillar formation IA gratuite](/guides/se-former-ia-gratuitement/) et
 
 ## Sources
 
-- OCDE (2025) : impact IA sur métiers juridiques, prévisions 2028
-- CNB (2025) : enquête sur l'IA dans les cabinets d'avocats français
+- [OCDE (2025)](https://www.oecd.org/en/topics/sub-issues/ai-and-the-future-of-work.html) : impact IA sur métiers juridiques, prévisions 2028
+- [CNB (2025)](https://www.cnb.avocat.fr/) : enquête sur l'IA dans les cabinets d'avocats français
 - Doctrine public stats 2026
-- Anthropic Economic Index (mars 2026) : adoption IA secteurs juridiques
+- [Anthropic Economic Index (mars 2026)](https://www.anthropic.com/economic-index) : adoption IA secteurs juridiques
 
 ## Pour aller plus loin
 

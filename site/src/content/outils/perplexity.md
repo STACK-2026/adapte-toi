@@ -210,7 +210,7 @@ Adapte-toi ne vend pas Perplexity. Voici les vraies limites à connaître avant 
 
 **Limite 3 : pas de cartographie ni de mode local.** Sur 100% des recherches géographiques (restau, médecin, itinéraire), Perplexity est inférieur à Google.
 
-**Limite 4 : juridique français pointu = prudent.** Perplexity peut halluciner sur le code du travail récent ou les jurisprudences. Toujours vérifier via Légifrance ou un avocat pour les décisions importantes.
+**Limite 4 : juridique français pointu = prudent.** Perplexity peut halluciner sur le code du travail récent ou les jurisprudences. Toujours vérifier via [Légifrance](https://www.legifrance.gouv.fr/) ou un avocat pour les décisions importantes.
 
 **Limite 5 : addiction au follow-up.** Tu commences sur "vérifier un chiffre Ipsos" et tu finis 30 minutes plus tard sur l'histoire des sondages politiques. Garde-toi du temps chronométré sur les missions précises.
 
@@ -238,9 +238,9 @@ Si tu hésites : teste 2 semaines en gratuit. Si tu te retrouves à utiliser Per
 
 - Perplexity AI public stats 2026 : 15+ millions d'utilisateurs mensuels actifs
 - Perplexity public roadmap 2026 (modèles, fonctions, plans Enterprise)
-- PwC (2025) : +25% de salaire pour les profils maîtrisant les outils IA
-- Lefebvre Dalloz (2026) : 1 professionnel sur 2 a adopté l'IA en entreprise
-- LinkedIn Economic Graph (2025) : croissance des outils IA dans les recherches utilisateur
+- [PwC (2025)](https://www.pwc.com/gx/en/issues/artificial-intelligence.html) : +25% de salaire pour les profils maîtrisant les outils IA
+- [Lefebvre Dalloz (2026)](https://www.lefebvre-dalloz.fr/) : 1 professionnel sur 2 a adopté l'IA en entreprise
+- [LinkedIn Economic Graph (2025)](https://economicgraph.linkedin.com/) : croissance des outils IA dans les recherches utilisateur
 
 <!-- maillage:auto -->
 ## Pour aller plus loin

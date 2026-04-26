@@ -195,8 +195,8 @@ Voir [pillar formation IA gratuite](/guides/se-former-ia-gratuitement/) et [fich
 
 - Midjourney v7 release notes 2026
 - Adobe Firefly Generative AI 2026 commercial license terms
-- Apec Tech (2025) : tarifs graphistes IA-ready
-- LinkedIn 2026 : +50% offres design IA-ready
+- [Apec Tech (2025)](https://www.apec.fr/) : tarifs graphistes IA-ready
+- [LinkedIn 2026](https://www.linkedin.com/) : +50% offres design IA-ready
 
 ## Pour aller plus loin
 

@@ -146,10 +146,10 @@ Les métiers qui combinent expertise humaine + IA : content strategist, data ana
 
 - Laurent Alexandre et Olivier Babeau, "Ne faites plus d'études" (Buchet-Chastel, octobre 2025)
 - Institut des hautes études (janvier 2026) : citation sur la formation des humains face aux machines
-- Ipsos (2025) : 78% des étudiants 18-25 ans utilisent ChatGPT régulièrement
+- [Ipsos (2025)](https://www.ipsos.com/fr-fr) : 78% des étudiants 18-25 ans utilisent ChatGPT régulièrement
 - Anthropic (mars 2026) : -53% copywriting, -48% gestion de projets, -34% conseil IT
-- OCDE (2025) : 27% des emplois français exposés à l'automatisation
-- PwC (2025) : +25% de salaire pour les profils IA-ready
+- [OCDE (2025)](https://www.oecd.org/en/topics/sub-issues/ai-and-the-future-of-work.html) : 27% des emplois français exposés à l'automatisation
+- [PwC (2025)](https://www.pwc.com/gx/en/issues/artificial-intelligence.html) : +25% de salaire pour les profils IA-ready
 
 <!-- maillage:auto -->
 ## Pour aller plus loin

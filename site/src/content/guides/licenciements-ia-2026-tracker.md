@@ -177,7 +177,7 @@ La vague de licenciements liés à l'IA est devenue tangible en 2026. Klarna, IB
 
 Les médias parlent surtout des destructions. Voici les créations qui contrebalancent.
 
-**Selon LinkedIn Economic Graph 2026 (France)** :
+**Selon [LinkedIn Economic Graph 2026](https://economicgraph.linkedin.com/)** :
 - +35% d'offres mentionnent l'IA en 2026 vs 2025
 - +47% spécifiquement sur les fonctions marketing IA
 - +60% sur les rôles tech IA (dev IA, data scientist, AI engineer)
@@ -235,7 +235,7 @@ Ne reste pas. Lance un side project IA. Construis un portfolio. Forme-toi via [O
 - Communiqués officiels d'entreprises (10-K, 8-K SEC, communiqués FR)
 - Press releases entreprises et CEO statements
 - Layoffs.fyi (tracker public sectoriel)
-- Anthropic Economic Index 2026 pour les analyses macro
+- [Anthropic Economic Index](https://www.anthropic.com/economic-index) 2026 pour les analyses macro
 - LinkedIn Economic Graph pour les flux d'emploi
 - Notre veille hebdo (3 décryptages par jour sur adapte-toi.com)
 
@@ -256,13 +256,13 @@ Ne reste pas. Lance un side project IA. Construis un portfolio. Forme-toi via [O
 
 ## Sources
 
-- Layoffs.fyi (tracker indépendant US)
-- Anthropic Economic Index (mars 2026)
-- LinkedIn Economic Graph 2026 (France)
-- BMO France Travail 2026
+- [Layoffs.fyi](https://layoffs.fyi/)
+- [Anthropic Economic Index (mars 2026)](https://www.anthropic.com/economic-index)
+- [LinkedIn Economic Graph 2026](https://economicgraph.linkedin.com/)
+- [BMO France Travail 2026](https://statistiques.francetravail.fr/category/bmo)
 - Communiqués officiels Klarna, IBM, Salesforce, Snap, Block, Duolingo, Meta, Amazon, Cisco
-- PwC Global AI Study (2025)
-- OCDE 2025 : automatisation des emplois français
+- [PwC Global AI Study (2025)](https://www.pwc.com/gx/en/issues/artificial-intelligence.html)
+- [OCDE 2025](https://www.oecd.org/en/topics/sub-issues/ai-and-the-future-of-work.html) : automatisation des emplois français
 
 ## Pour aller plus loin
 

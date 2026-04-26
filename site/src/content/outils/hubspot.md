@@ -89,7 +89,7 @@ HubSpot est le meilleur CRM pour les PME et les freelances grâce à sa version 
 ## Sources
 
 - HubSpot (2026) : 200 000+ clients dans 120+ pays
-- PwC (2025) : les équipes commerciales IA voient +30-40% de productivité
+- [PwC (2025)](https://www.pwc.com/gx/en/issues/artificial-intelligence.html) : les équipes commerciales IA voient +30-40% de productivité
 - McKinsey (2024) : 30% des heures de travail automatisables
 
 <!-- maillage:auto -->

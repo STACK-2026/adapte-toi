@@ -125,8 +125,8 @@ La France est le pays européen qui publie le plus d'offres d'emploi liées à l
 - LinkedIn (2024) : France n°1 européen en offres IA (166 000+)
 - Eurostat (2025) : données emploi numérique en Europe
 - Plan France 2030 : 2,2 milliards d'euros pour l'IA
-- OCDE (2025) : 27% des emplois français exposés à l'automatisation
-- PwC (2025) : +25% de salaire pour les profils IA-ready
+- [OCDE (2025)](https://www.oecd.org/en/topics/sub-issues/ai-and-the-future-of-work.html) : 27% des emplois français exposés à l'automatisation
+- [PwC (2025)](https://www.pwc.com/gx/en/issues/artificial-intelligence.html) : +25% de salaire pour les profils IA-ready
 
 <!-- maillage:auto -->
 ## Pour aller plus loin

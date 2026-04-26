@@ -106,7 +106,7 @@ L'IA souveraine française a fait des progrès remarquables en 2025-2026. Mistra
 - Aide à la rédaction d'actes administratifs
 - Synthèses de notes ministérielles
 - Réponses chatbots service public (déjà déployé sur certains sites .gouv.fr)
-- Recherche dans Légifrance, JORF, codes
+- Recherche dans [Légifrance](https://www.legifrance.gouv.fr/), JORF, codes
 
 **Limite** : interface plus technique que Le Chat. UX optimisée pour les agents publics formés. Pour le grand public ou l'usage perso, Le Chat est plus accessible.
 
@@ -217,11 +217,11 @@ Voir notre [fiche complète ChatGPT](/outils/chatgpt/) et [comparateur Claude vs
 
 ## Sources
 
-- Mistral public roadmap 2026 (Le Chat Pro, Pixtral, Codestral)
-- DINUM (gouv FR) : projet Albert 2025-2026
+- [Mistral public roadmap 2026](https://mistral.ai/news/) (Le Chat Pro, Pixtral, Codestral)
+- [DINUM (gouv FR)](https://www.numerique.gouv.fr/dinum/) : projet Albert 2025-2026
 - Hugging Face stats 2026
-- AI Act 2026 (UE) : exigences souveraineté et RGPD
-- Anthropic Economic Index (mars 2026)
+- [AI Act 2026 (UE)](https://artificialintelligenceact.eu/) : exigences souveraineté et RGPD
+- [Anthropic Economic Index (mars 2026)](https://www.anthropic.com/economic-index)
 
 ## Pour aller plus loin
 

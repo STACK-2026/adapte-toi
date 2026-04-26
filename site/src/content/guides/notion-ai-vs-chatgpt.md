@@ -297,7 +297,7 @@ Pour explorer plus d'outils dans la même catégorie, vois nos fiches détaillé
 
 - Notion roadmap publique 2026 (Notion Agents, Q&A workspace)
 - OpenAI ChatGPT 2026 release notes
-- Lefebvre Dalloz (2026) : adoption IA en entreprise
+- [Lefebvre Dalloz (2026)](https://www.lefebvre-dalloz.fr/) : adoption IA en entreprise
 - Notion CGU 2026 : engagement non-training sur les données utilisateur
 
 ## Pour aller plus loin

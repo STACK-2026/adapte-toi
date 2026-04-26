@@ -32,7 +32,7 @@ L'IA ne supprime pas le freelancing, elle le transforme en opportunité massive.
 
 <h2 id="pourquoi">Pourquoi le freelance IA est une opportunité en 2026</h2>
 
-**La demande explose.** Selon le Baromètre Lefebvre Dalloz (2026), 1 professionnel sur 2 a adopté l'IA, mais la majorité ne sait pas l'utiliser efficacement. Les entreprises cherchent des experts pour les accompagner, et elles préfèrent un freelance à 500-1 000 euros/jour plutôt qu'un cabinet de conseil à 2 000 euros/jour.
+**La demande explose.** Selon le Baromètre [Lefebvre Dalloz (2026)](https://www.lefebvre-dalloz.fr/), 1 professionnel sur 2 a adopté l'IA, mais la majorité ne sait pas l'utiliser efficacement. Les entreprises cherchent des experts pour les accompagner, et elles préfèrent un freelance à 500-1 000 euros/jour plutôt qu'un cabinet de conseil à 2 000 euros/jour.
 
 **La productivité est décuplée.** Un rédacteur freelance qui maîtrise Claude produit 5 articles par jour au lieu de 1. Un consultant qui utilise Perplexity + ChatGPT fait un benchmark en 2 heures au lieu de 2 jours. Un designer qui utilise Midjourney livre 10 concepts au lieu de 3. Le temps gagné, c'est du revenu supplémentaire ou du temps libre.
 
@@ -204,8 +204,8 @@ Crée-toi un portfolio en faisant 2-3 projets gratuits pour des amis, des associ
 
 ## Sources
 
-- PwC (2025) : +25% de salaire pour les profils maîtrisant l'IA
-- Lefebvre Dalloz (2026) : 1 professionnel sur 2 a adopté l'IA
+- [PwC (2025)](https://www.pwc.com/gx/en/issues/artificial-intelligence.html) : +25% de salaire pour les profils maîtrisant l'IA
+- [Lefebvre Dalloz (2026)](https://www.lefebvre-dalloz.fr/) : 1 professionnel sur 2 a adopté l'IA
 - LinkedIn (2024) : +270% de croissance des offres mentionnant l'IA
 - Malt (2025) : le TJM moyen des freelances tech en France est de 550 euros
 

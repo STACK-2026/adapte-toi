@@ -32,7 +32,7 @@ Le prompt, c'est l'instruction que tu donnes à une intelligence artificielle. C
 
 <h2 id="pourquoi">Pourquoi le prompt engineering est important</h2>
 
-La différence entre un résultat médiocre et un résultat excellent tient souvent à 3 phrases de prompt. Selon PwC (2025), les professionnels qui maîtrisent les outils IA gagnent en moyenne 25% de plus que leurs homologues. Et la compétence n°1 pour maîtriser ces outils, c'est le prompt engineering.
+La différence entre un résultat médiocre et un résultat excellent tient souvent à 3 phrases de prompt. Selon [PwC (2025)](https://www.pwc.com/gx/en/issues/artificial-intelligence.html), les professionnels qui maîtrisent les outils IA gagnent en moyenne 25% de plus que leurs homologues. Et la compétence n°1 pour maîtriser ces outils, c'est le prompt engineering.
 
 **Un exemple concret :**
 
@@ -217,11 +217,11 @@ En tant que métier à plein temps, c'est de moins en moins courant (les IA s'am
 
 <h2 id="sources">Sources</h2>
 
-- PwC (2025) : +25% de salaire pour les profils maîtrisant les outils IA
+- [PwC (2025)](https://www.pwc.com/gx/en/issues/artificial-intelligence.html) : +25% de salaire pour les profils maîtrisant les outils IA
 - Learn Prompting (learnprompting.org) : guide open-source de prompt engineering
 - Anthropic Prompt Engineering Guide : techniques avancées officielles
 - OpenAI Cookbook : exemples et bonnes pratiques
-- OCDE (2025) : 27% des emplois français exposés à l'automatisation
+- [OCDE (2025)](https://www.oecd.org/en/topics/sub-issues/ai-and-the-future-of-work.html) : 27% des emplois français exposés à l'automatisation
 
 <!-- maillage:auto -->
 ## Pour aller plus loin

@@ -88,7 +88,7 @@ Jasper est excellent pour les équipes marketing qui produisent beaucoup de cont
 ## Sources
 
 - Jasper (2026) : 100 000+ clients, $80M+ ARR
-- PwC (2025) : +25% de salaire pour les profils maîtrisant les outils IA
+- [PwC (2025)](https://www.pwc.com/gx/en/issues/artificial-intelligence.html) : +25% de salaire pour les profils maîtrisant les outils IA
 - HubSpot (2025) : tests A/B emails IA vs humains, résultats comparables
 
 <!-- maillage:auto -->

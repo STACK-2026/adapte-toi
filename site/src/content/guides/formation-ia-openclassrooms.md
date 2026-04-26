@@ -229,11 +229,11 @@ Voir notre [guide formation IA Coursera en français](/guides/formation-ia-cours
 
 ## Sources
 
-- OpenClassrooms public stats 2026 : 4M apprenants actifs
+- [OpenClassrooms public stats 2026](https://about.openclassrooms.com/) : 4M apprenants actifs
 - LinkedIn Recruiting Survey 2025 : reconnaissance diplômes RNCP par recruteurs
-- France Compétences (RNCP) : référentiels 2026
-- Compte Personnel de Formation : décret 2024 sur le co-financement
-- Apec Tech (2025) : salaires d'embauche post-formation reconversion IA
+- [France Compétences (RNCP)](https://www.francecompetences.fr/) : référentiels 2026
+- [Compte Personnel de Formation : décret 2024](https://www.service-public.fr/particuliers/vosdroits/N14018) sur le co-financement
+- [Apec Tech (2025)](https://www.apec.fr/) : salaires d'embauche post-formation reconversion IA
 
 ## Pour aller plus loin
 

@@ -243,8 +243,8 @@ Notre recommandation : teste Basic à 10 dollars pendant 1 mois, fais 5 vrais ca
 
 - Midjourney v7 release notes 2026
 - Midjourney pricing page (vérifié avril 2026)
-- Stack Overflow Developer Survey 2025 : adoption AI image tools
-- Adobe Stock training data disclosure 2024
+- [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2024/) : adoption AI image tools
+- [Adobe Stock training data disclosure 2024](https://www.adobe.com/legal/firefly-faq.html)
 - US District Court NorCal class action vs Midjourney (status 2026)
 
 <!-- maillage:auto -->

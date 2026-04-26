@@ -219,11 +219,11 @@ Pour explorer plus d'outils dans la même catégorie, vois nos fiches détaillé
 
 ## Sources
 
-- Anthropic public roadmap 2026 (Claude Sonnet 4.6, Opus 4, Haiku 4.5)
-- OpenAI roadmap 2026 (GPT-5, GPT-4.1, o3)
+- [Anthropic public roadmap 2026](https://www.anthropic.com/news) (Claude Sonnet 4.6, Opus 4, Haiku 4.5)
+- [OpenAI roadmap 2026](https://openai.com/) (GPT-5, GPT-4.1, o3)
 - SWE-bench leaderboard 2026 (benchmarks code)
 - LMSYS Chatbot Arena 2026 (préférences utilisateurs)
-- Lefebvre Dalloz (2026) : adoption IA en entreprise
+- [Lefebvre Dalloz (2026)](https://www.lefebvre-dalloz.fr/) : adoption IA en entreprise
 
 ## Pour aller plus loin
 

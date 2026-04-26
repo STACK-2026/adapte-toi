@@ -165,9 +165,9 @@ Voir [pillar formation IA gratuite](/guides/se-former-ia-gratuitement/), [guide 
 ## Sources
 
 - Malt Freelance Index 2026 : tarifs jour freelance France
-- LinkedIn Economic Graph (2025) : +47% d'offres mentionnant l'IA dans les missions freelance
-- Apec Tech (2025) : tarifs freelance IA-ready
-- Anthropic Economic Index (mars 2026) : adoption IA chez freelances
+- [LinkedIn Economic Graph (2025)](https://economicgraph.linkedin.com/) : +47% d'offres mentionnant l'IA dans les missions freelance
+- [Apec Tech (2025)](https://www.apec.fr/) : tarifs freelance IA-ready
+- [Anthropic Economic Index (mars 2026)](https://www.anthropic.com/economic-index) : adoption IA chez freelances
 
 ## Pour aller plus loin
 

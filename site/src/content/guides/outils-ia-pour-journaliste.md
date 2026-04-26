@@ -175,10 +175,10 @@ Voir [pillar formation IA gratuite](/guides/se-former-ia-gratuitement/) et [fich
 
 ## Sources
 
-- SNJ (Syndicat National des Journalistes) : charte IA 2025-2026
+- [SNJ (Syndicat National des Journalistes)](https://www.snj.fr/)
 - Le Monde, Le Figaro, Les Échos : chartes IA publiques 2026
-- Reuters Institute Digital News Report 2026 : adoption IA dans rédactions
-- Anthropic Economic Index (mars 2026) : adoption IA secteurs presse
+- [Reuters Institute Digital News Report 2026](https://reutersinstitute.politics.ox.ac.uk/digital-news-report) : adoption IA dans rédactions
+- [Anthropic Economic Index (mars 2026)](https://www.anthropic.com/economic-index) : adoption IA secteurs presse
 
 ## Pour aller plus loin
 

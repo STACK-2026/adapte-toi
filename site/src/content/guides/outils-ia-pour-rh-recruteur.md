@@ -185,10 +185,10 @@ Voir notre [pillar formation IA gratuite](/guides/se-former-ia-gratuitement/) et
 
 ## Sources
 
-- LinkedIn 2026 : +40% recruteurs FR utilisant ChatGPT régulièrement
-- AI Act 2026 (Union Européenne) : décision automatisée et candidat
-- CNIL (2025) : recommandations sur l'IA en RH
-- Anthropic Economic Index (mars 2026) : adoption IA en services RH
+- [LinkedIn 2026](https://www.linkedin.com/) : +40% recruteurs FR utilisant ChatGPT régulièrement
+- [AI Act 2026 (Union Européenne)](https://artificialintelligenceact.eu/) : décision automatisée et candidat
+- [CNIL (2025)](https://www.cnil.fr/fr/intelligence-artificielle) : recommandations sur l'IA en RH
+- [Anthropic Economic Index (mars 2026)](https://www.anthropic.com/economic-index) : adoption IA en services RH
 
 ## Pour aller plus loin
 

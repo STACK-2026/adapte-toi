@@ -316,14 +316,14 @@ Si tu pars de zéro et veux être opérationnel en 6 mois, voici la séquence qu
 
 <h2 id="sources">Sources</h2>
 
-- PwC (2025) : +25% de salaire pour les profils maîtrisant l'IA
-- Ipsos (2025) : 47% des actifs français envisagent une reconversion
-- OCDE (2025) : 27% des emplois français exposés à l'automatisation
+- [PwC (2025)](https://www.pwc.com/gx/en/issues/artificial-intelligence.html) : +25% de salaire pour les profils maîtrisant l'IA
+- [Ipsos (2025)](https://www.ipsos.com/fr-fr) : 47% des actifs français envisagent une reconversion
+- [OCDE (2025)](https://www.oecd.org/en/topics/sub-issues/ai-and-the-future-of-work.html) : 27% des emplois français exposés à l'automatisation
 - LinkedIn (2024) : +270% de croissance des offres mentionnant l'IA
 - LinkedIn Recruiting (2026) : enquête sur la reconnaissance des certifications IA
-- Lefebvre Dalloz (2026) : 1 professionnel sur 2 a adopté l'IA
-- OpenAI (2026) : ChatGPT utilisé par 900 millions de personnes par semaine
-- Anthropic Economic Index (mars 2026) : impact de l'IA générative sur l'emploi
+- [Lefebvre Dalloz (2026)](https://www.lefebvre-dalloz.fr/) : 1 professionnel sur 2 a adopté l'IA
+- [OpenAI (2026)](https://openai.com/) : ChatGPT utilisé par 900 millions de personnes par semaine
+- [Anthropic Economic Index (mars 2026)](https://www.anthropic.com/economic-index) : impact de l'IA générative sur l'emploi
 - Cognizant (février 2026) : 93% des métiers impactés par l'IA
 
 <!-- maillage:auto -->

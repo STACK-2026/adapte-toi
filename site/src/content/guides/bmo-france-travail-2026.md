@@ -1,6 +1,6 @@
 ---
 title: "BMO France Travail 2026 décrypté : top 30 métiers en tension × IA"
-description: "Le BMO France Travail 2026 décrypté : top 30 métiers en tension croisés avec leur exposition IA. 2.7M projets recrutement, secteurs gagnants, données Dares."
+description: "BMO France Travail 2026 décrypté : top 30 métiers en tension croisés avec leur exposition IA. 2.7M projets, secteurs gagnants, données Dares."
 date: 2026-04-26
 lastReviewed: 2026-04-26
 author: "Léa Moreau"
@@ -50,7 +50,7 @@ Le BMO 2026 (Besoins en Main d'Œuvre) de France Travail vient de sortir : 2.7M+
 
 ---
 
-<h2 id="vue-densemble">Vue d'ensemble du BMO France Travail 2026</h2>
+<h2 id="vue-densemble">Vue d'ensemble du [BMO France Travail 2026](https://statistiques.francetravail.fr/category/bmo)</h2>
 
 **Chiffres clés** :
 - **2.7M+ projets de recrutement** annoncés en France pour 2026
@@ -103,13 +103,13 @@ Le BMO 2026 (Besoins en Main d'Œuvre) de France Travail vient de sortir : 2.7M+
 | 29 | Mécaniciens automobiles | 16K | 70% | 1.3 à 1.8 SMIC |
 | 30 | Saisonniers agricoles | 250K (saisonnier) | variable | SMIC |
 
-Source : BMO France Travail 2026, statistiques.francetravail.fr.
+Source : [BMO France Travail 2026](https://statistiques.francetravail.fr/category/bmo), statistiques.francetravail.fr.
 
 ---
 
 <h2 id="bmo-ia">Croisement BMO × exposition IA : la lecture qui change tout</h2>
 
-Un métier en tension qui sera automatisé à 60% par l'IA dans 5 ans n'est pas un bon plan de carrière. Voici le croisement BMO × exposition IA selon l'Anthropic Economic Index 2026, l'OCDE 2025 et nos analyses sectorielles.
+Un métier en tension qui sera automatisé à 60% par l'IA dans 5 ans n'est pas un bon plan de carrière. Voici le croisement BMO × exposition IA selon l'[Anthropic Economic Index](https://www.anthropic.com/economic-index) 2026, l'[OCDE 2025](https://www.oecd.org/en/topics/sub-issues/ai-and-the-future-of-work.html) et nos analyses sectorielles.
 
 **Score d'exposition IA** :
 - 1-3/10 : faible (peu automatisable, valeur humaine forte)
@@ -206,7 +206,7 @@ Le BMO 2026 cumule sur les "Ingénieurs et cadres tech" mais voici le détail de
 | Consultant IA | 8K | 50-65K | 80-150K | Reconversion expérience + IA |
 | Chief AI Officer | <500 | NA | 200K+ | 10+ ans XP + leadership |
 
-**Source** : LinkedIn Salary Insights 2026, Apec Tech 2025, Welcome to the Jungle 2026.
+**Source** : [LinkedIn Salary Insights 2026](https://www.linkedin.com/salary/), Apec Tech 2025, Welcome to the Jungle 2026.
 
 Pour la reconversion vers ces métiers, voir notre [pillar formation IA gratuite](/guides/se-former-ia-gratuitement/) et [guide formation IA via OpenClassrooms](/guides/formation-ia-openclassrooms/).
 
@@ -232,7 +232,7 @@ Pour la reconversion vers ces métiers, voir notre [pillar formation IA gratuite
 
 ### Pour tout le monde
 
-**Gardez votre métier actuel + ajoutez 2 outils IA dans votre quotidien**. Anthropic Economic Index 2026 montre que les profils "métier d'origine + IA-ready" gagnent 25% de plus (PwC 2025). C'est souvent le meilleur ROI court terme.
+**Gardez votre métier actuel + ajoutez 2 outils IA dans votre quotidien**. [Anthropic Economic Index](https://www.anthropic.com/economic-index) 2026 montre que les profils "métier d'origine + IA-ready" gagnent 25% de plus (PwC 2025). C'est souvent le meilleur ROI court terme.
 
 ---
 
@@ -247,23 +247,23 @@ Pour la reconversion vers ces métiers, voir notre [pillar formation IA gratuite
 **Limites** : sous-représentation des TPE (moins de 10 salariés), volume freelance et auto-entrepreneurs non comptés.
 
 **Notre traitement Adapte-toi** : croisement avec :
-- Anthropic Economic Index (mars 2026) sur l'exposition IA
-- OCDE 2025 sur l'automatisation
-- LinkedIn Salary Insights 2026 sur les salaires
+- [Anthropic Economic Index (mars 2026)](https://www.anthropic.com/economic-index) sur l'exposition IA
+- [OCDE 2025](https://www.oecd.org/en/topics/sub-issues/ai-and-the-future-of-work.html) sur l'automatisation
+- [LinkedIn Salary Insights 2026](https://www.linkedin.com/salary/) sur les salaires
 - Apec Tech 2025 sur les profils tech
 
 ---
 
 ## Sources
 
-- BMO France Travail / Dares 2026 (publication officielle mars 2026)
-- statistiques.francetravail.fr (données par bassin)
-- Anthropic Economic Index (mars 2026) : exposition IA par métier
-- OCDE 2025 : 27% emplois français exposés à l'automatisation
-- LinkedIn Salary Insights 2026 : salaires France
-- Apec Tech (2025) : marché des cadres tech français
+- [BMO France Travail / Dares 2026](https://statistiques.francetravail.fr/category/bmo)
+- [statistiques.francetravail.fr](https://statistiques.francetravail.fr/)
+- [Anthropic Economic Index (mars 2026)](https://www.anthropic.com/economic-index) : exposition IA par métier
+- [OCDE 2025](https://www.oecd.org/en/topics/sub-issues/ai-and-the-future-of-work.html) : 27% emplois français exposés à l'automatisation
+- [LinkedIn Salary Insights 2026](https://www.linkedin.com/salary/) : salaires France
+- [Apec Tech (2025)](https://www.apec.fr/) : marché des cadres tech français
 - Welcome to the Jungle 2026 : tendances métiers
-- France Stratégie (2026) : prospective des métiers à 2030
+- [France Stratégie (2026)](https://www.strategie.gouv.fr/publications/intelligence-artificielle-emploi) : prospective des métiers à 2030
 
 ## Pour aller plus loin
 

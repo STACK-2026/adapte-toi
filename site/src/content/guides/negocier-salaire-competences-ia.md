@@ -15,7 +15,7 @@ tldr:
   - "Erreurs à éviter : attendre l'entretien annuel, négocier sans preuves, accepter la première contre-offre."
 ---
 
-Selon PwC (2025), les professionnels qui maîtrisent les outils IA gagnent en moyenne 25% de plus que leurs homologues sans compétences IA. C'est le différentiel salarial le plus important depuis l'arrivée d'Internet dans les années 2000. Et contrairement à ce qu'on pourrait croire, tu n'as pas besoin de changer de job pour en profiter. Tu peux négocier une augmentation dans ton poste actuel, à condition de le faire intelligemment.
+Selon [PwC (2025)](https://www.pwc.com/gx/en/issues/artificial-intelligence.html), les professionnels qui maîtrisent les outils IA gagnent en moyenne 25% de plus que leurs homologues sans compétences IA. C'est le différentiel salarial le plus important depuis l'arrivée d'Internet dans les années 2000. Et contrairement à ce qu'on pourrait croire, tu n'as pas besoin de changer de job pour en profiter. Tu peux négocier une augmentation dans ton poste actuel, à condition de le faire intelligemment.
 
 ## Sommaire
 
@@ -128,11 +128,11 @@ Si tu es le seul à maîtriser l'IA dans l'équipe ET que tu formes les autres, 
 
 ## Sources
 
-- PwC (2025) : +25% de salaire pour les profils maîtrisant l'IA
+- [PwC (2025)](https://www.pwc.com/gx/en/issues/artificial-intelligence.html) : +25% de salaire pour les profils maîtrisant l'IA
 - LinkedIn (2024) : +270% de croissance des offres mentionnant l'IA
-- Ipsos (2025) : 47% des actifs envisagent une reconversion
+- [Ipsos (2025)](https://www.ipsos.com/fr-fr) : 47% des actifs envisagent une reconversion
 - Malt (2025) : TJM moyen freelance tech en France : 550 euros
-- OCDE (2025) : 27% des emplois français exposés à l'automatisation
+- [OCDE (2025)](https://www.oecd.org/en/topics/sub-issues/ai-and-the-future-of-work.html) : 27% des emplois français exposés à l'automatisation
 
 <!-- maillage:auto -->
 ## Pour aller plus loin

@@ -187,11 +187,11 @@ Voir notre [fiche complète Midjourney](/outils/midjourney/) et [comparateur Mid
 
 ## Sources
 
-- Mistral public roadmap 2026 (Pixtral, Le Chat)
+- [Mistral public roadmap 2026](https://mistral.ai/news/) (Pixtral, Le Chat)
 - Stability AI roadmap 2026 (Stable Diffusion 3, FLUX.1)
 - Hugging Face image generation models 2026
 - Civitai community stats 2026
-- AI Act 2026 (UE) : exigences souveraineté image générée
+- [AI Act 2026 (UE)](https://artificialintelligenceact.eu/) : exigences souveraineté image générée
 
 ## Pour aller plus loin
 

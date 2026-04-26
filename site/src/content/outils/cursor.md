@@ -217,9 +217,9 @@ Notre recommandation : Hobby gratuit pour 2 semaines de découverte, puis Pro à
 
 - Anysphere (Cursor) public stats 2026 : 1M+ devs payants
 - Cursor public roadmap 2026 (Composer, Background Agents)
-- Stack Overflow Developer Survey 2025 : adoption AI coding tools
+- [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2024/) : adoption AI coding tools
 - Anthropic / OpenAI 2026 model releases (GPT-5, Claude 4.6)
-- LinkedIn Economic Graph (2025) : skills demand développeurs France
+- [LinkedIn Economic Graph (2025)](https://economicgraph.linkedin.com/) : skills demand développeurs France
 
 <!-- maillage:auto -->
 ## Pour aller plus loin

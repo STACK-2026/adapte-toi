@@ -164,10 +164,10 @@ Voir notre [pillar formation IA gratuite](/guides/se-former-ia-gratuitement/) et
 
 ## Sources
 
-- LinkedIn 2026 : +35% offres SDR mentionnant l'IA
+- [LinkedIn 2026](https://www.linkedin.com/) : +35% offres SDR mentionnant l'IA
 - Apollo benchmarks 2025-2026 (taux de réponse séquences personnalisées)
 - HubSpot State of Sales 2026
-- Anthropic Economic Index (mars 2026) : adoption IA en B2B sales
+- [Anthropic Economic Index (mars 2026)](https://www.anthropic.com/economic-index) : adoption IA en B2B sales
 
 ## Pour aller plus loin
 

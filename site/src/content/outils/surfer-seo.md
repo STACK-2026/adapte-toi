@@ -89,8 +89,8 @@ Surfer SEO est l'outil de référence pour l'optimisation de contenu SEO. Si tu 
 ## Sources
 
 - Surfer SEO : utilisé par 100 000+ créateurs de contenu
-- OCDE (2025) : 27% des emplois français exposés à l'automatisation
-- PwC (2025) : +25% de salaire pour les profils maîtrisant les outils IA
+- [OCDE (2025)](https://www.oecd.org/en/topics/sub-issues/ai-and-the-future-of-work.html) : 27% des emplois français exposés à l'automatisation
+- [PwC (2025)](https://www.pwc.com/gx/en/issues/artificial-intelligence.html) : +25% de salaire pour les profils maîtrisant les outils IA
 
 <!-- maillage:auto -->
 ## Pour aller plus loin

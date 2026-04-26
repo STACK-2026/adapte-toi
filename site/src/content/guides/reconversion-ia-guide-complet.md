@@ -233,14 +233,14 @@ Montée en compétences : 2 semaines à 3 mois. Reconversion complète : 6 à 12
 <h2 id="sources">Sources</h2>
 
 - Anthropic (mars 2026) : étude impact IA sur l'emploi (-67% centres d'appels, -53% copywriting, -48% gestion de projets)
-- OCDE (2025) : 27% des emplois français (4M+ postes) exposés à l'automatisation
-- Ipsos (2025) : 47% des actifs français envisagent une reconversion
+- [OCDE (2025)](https://www.oecd.org/en/topics/sub-issues/ai-and-the-future-of-work.html) : 27% des emplois français (4M+ postes) exposés à l'automatisation
+- [Ipsos (2025)](https://www.ipsos.com/fr-fr) : 47% des actifs français envisagent une reconversion
 - McKinsey (2024) : 30% des heures de travail automatisables d'ici 2030
-- PwC (2025) : +25% de salaire pour les profils IA-ready
+- [PwC (2025)](https://www.pwc.com/gx/en/issues/artificial-intelligence.html) : +25% de salaire pour les profils IA-ready
 - Jensen Huang, PDG Nvidia (2024) : "les métiers manuels sont les grands gagnants de l'ère de l'IA"
 - Laurent Alexandre et Olivier Babeau, "Ne faites plus d'études" (Buchet-Chastel, 2025)
 - Cognizant "New Work, New World" (février 2026) : 93% des métiers impactés
-- France Travail BMO 2025 : données métiers en tension
+- [France Travail BMO 2025](https://statistiques.francetravail.fr/category/bmo) : données métiers en tension
 
 <!-- maillage:auto -->
 ## Pour aller plus loin

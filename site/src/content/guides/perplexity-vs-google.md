@@ -280,7 +280,7 @@ Pour explorer plus d'outils dans la même catégorie, vois nos fiches détaillé
 - Perplexity AI roadmap publique 2026
 - Alphabet Q4 2025 earnings report : revenus publicitaires Google Search
 - Etude Ipsos pour Adecco 2025 : intentions de reconversion en France
-- Lefebvre Dalloz (2026) : adoption IA en entreprise
+- [Lefebvre Dalloz (2026)](https://www.lefebvre-dalloz.fr/) : adoption IA en entreprise
 
 ## Pour aller plus loin
 

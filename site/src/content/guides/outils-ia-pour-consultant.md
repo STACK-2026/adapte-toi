@@ -170,10 +170,10 @@ Voir [pillar formation IA gratuite](/guides/se-former-ia-gratuitement/) et [fich
 
 ## Sources
 
-- Anthropic Economic Index (mars 2026) : adoption IA dans le conseil
-- LinkedIn 2026 : +35% offres consultant mentionnant l'IA
-- Apec Tech (2025) : tarifs consultants IA-ready
-- Lefebvre Dalloz (2026) : adoption IA en cabinet de conseil
+- [Anthropic Economic Index (mars 2026)](https://www.anthropic.com/economic-index) : adoption IA dans le conseil
+- [LinkedIn 2026](https://www.linkedin.com/) : +35% offres consultant mentionnant l'IA
+- [Apec Tech (2025)](https://www.apec.fr/) : tarifs consultants IA-ready
+- [Lefebvre Dalloz (2026)](https://www.lefebvre-dalloz.fr/) : adoption IA en cabinet de conseil
 
 ## Pour aller plus loin
 

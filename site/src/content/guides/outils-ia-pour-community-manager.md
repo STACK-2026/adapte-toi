@@ -183,10 +183,10 @@ Voir [pillar formation IA gratuite](/guides/se-former-ia-gratuitement/) et [fich
 
 ## Sources
 
-- LinkedIn 2026 : +60% offres CM mentionnant l'IA
+- [LinkedIn 2026](https://www.linkedin.com/) : +60% offres CM mentionnant l'IA
 - Buffer State of Social 2026
 - Hootsuite Social Trends 2026
-- Anthropic Economic Index (mars 2026) : adoption IA en marketing/CM
+- [Anthropic Economic Index (mars 2026)](https://www.anthropic.com/economic-index) : adoption IA en marketing/CM
 
 ## Pour aller plus loin
 

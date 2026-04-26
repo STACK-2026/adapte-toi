@@ -271,11 +271,11 @@ Pour chaque métier en 2026, on a écrit un guide dédié avec les meilleurs out
 
 ## Sources
 
-- LinkedIn Economic Graph (2026) : adoption outils IA gratuits France
-- Anthropic Economic Index (mars 2026)
-- Mistral public roadmap 2026
+- [LinkedIn Economic Graph (2026)](https://economicgraph.linkedin.com/) : adoption outils IA gratuits France
+- [Anthropic Economic Index (mars 2026)](https://www.anthropic.com/economic-index)
+- [Mistral public roadmap 2026](https://mistral.ai/news/)
 - Microsoft Copilot stats publiques 2026
-- GitHub Octoverse 2025 (Student Pack)
+- [GitHub Octoverse 2025](https://github.blog/news-insights/octoverse/) (Student Pack)
 - Adobe Firefly free plan 2026
 
 ## Pour aller plus loin

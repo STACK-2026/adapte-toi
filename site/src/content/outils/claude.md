@@ -193,7 +193,7 @@ Pour le verdict détaillé, va voir notre [comparateur Claude vs ChatGPT](/guide
 
 **Limite 4 : moins connu, parfois besoin d'expliquer.** Tes collègues et clients connaissent ChatGPT, pas toujours Claude. Tu devras parfois expliquer ce que c'est.
 
-**Limite 5 : juridique français pointu = prudent.** Comme tous les LLMs, Claude peut halluciner sur le code du travail récent ou les jurisprudences. Toujours vérifier via Légifrance ou un avocat.
+**Limite 5 : juridique français pointu = prudent.** Comme tous les LLMs, Claude peut halluciner sur le code du travail récent ou les jurisprudences. Toujours vérifier via [Légifrance](https://www.legifrance.gouv.fr/) ou un avocat.
 
 **Limite 6 : RGPD partiel.** Hébergement US, plan Enterprise nécessaire pour data residency européenne. Anthropic est plus prudent qu'OpenAI sur ces aspects mais reste US.
 
@@ -215,11 +215,11 @@ Notre recommandation honnête : teste les deux gratuitement pendant 2 semaines, 
 
 ## Sources
 
-- Anthropic public roadmap 2026 (Claude Sonnet 4.6, Opus 4, Haiku 4.5)
+- [Anthropic public roadmap 2026](https://www.anthropic.com/news) (Claude Sonnet 4.6, Opus 4, Haiku 4.5)
 - SWE-bench leaderboard 2026 (benchmarks code)
 - LMSYS Chatbot Arena 2026 (préférences utilisateurs)
-- Stack Overflow Developer Survey 2025 : Claude Code parmi les outils les plus utilisés
-- Lefebvre Dalloz (2026) : adoption IA en entreprise française
+- [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2024/) : Claude Code parmi les outils les plus utilisés
+- [Lefebvre Dalloz (2026)](https://www.lefebvre-dalloz.fr/) : adoption IA en entreprise française
 
 <!-- maillage:auto -->
 ## Pour aller plus loin

@@ -265,12 +265,12 @@ Oui, Le Chat de Mistral inclut désormais une fonction de recherche avec sources
 
 ## Sources
 
-- Anthropic Economic Index (mars 2026)
+- [Anthropic Economic Index (mars 2026)](https://www.anthropic.com/economic-index)
 - OpenAI usage stats (2026) : 900M utilisateurs hebdomadaires ChatGPT
 - Perplexity AI public roadmap 2026
-- LinkedIn Economic Graph (2025) : adoption des outils IA en France
-- Lefebvre Dalloz (2026) : 1 professionnel sur 2 a adopté l'IA
-- OCDE (2025) : 27% des emplois français exposés à l'automatisation
+- [LinkedIn Economic Graph (2025)](https://economicgraph.linkedin.com/) : adoption des outils IA en France
+- [Lefebvre Dalloz (2026)](https://www.lefebvre-dalloz.fr/) : 1 professionnel sur 2 a adopté l'IA
+- [OCDE (2025)](https://www.oecd.org/en/topics/sub-issues/ai-and-the-future-of-work.html) : 27% des emplois français exposés à l'automatisation
 
 ## Pour aller plus loin
 

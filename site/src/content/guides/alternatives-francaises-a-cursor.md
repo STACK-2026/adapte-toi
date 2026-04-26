@@ -214,11 +214,11 @@ Voir notre [fiche complète Cursor](/outils/cursor/) et [comparateur Cursor vs G
 
 ## Sources
 
-- Mistral public roadmap 2026 (Codestral, Le Chat, Pixtral)
+- [Mistral public roadmap 2026](https://mistral.ai/news/) (Codestral, Le Chat, Pixtral)
 - Continue.dev open source : adoption 2025-2026
-- DINUM (gouv FR) : projet Albert avec fonctions code
+- [DINUM (gouv FR)](https://www.numerique.gouv.fr/dinum/) : projet Albert avec fonctions code
 - SWE-bench leaderboard 2026 : Codestral vs concurrents
-- AI Act 2026 (UE) : exigences souveraineté code
+- [AI Act 2026 (UE)](https://artificialintelligenceact.eu/) : exigences souveraineté code
 
 ## Pour aller plus loin
 

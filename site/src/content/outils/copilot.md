@@ -234,10 +234,10 @@ Notre recommandation : Copilot gratuit pour les étudiants, Pro à 10 dollars po
 ## Sources
 
 - GitHub Copilot product roadmap 2026
-- GitHub Octoverse 2025 (utilisateurs Copilot)
+- [GitHub Octoverse 2025](https://github.blog/news-insights/octoverse/) (utilisateurs Copilot)
 - Studies GitHub 2024-2026 sur productivité Copilot
-- Stack Overflow Developer Survey 2025 : adoption AI coding tools
-- JetBrains State of Developer Ecosystem 2025
+- [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2024/) : adoption AI coding tools
+- [JetBrains State of Developer Ecosystem 2025](https://www.jetbrains.com/lp/devecosystem-2024/)
 
 <!-- maillage:auto -->
 ## Pour aller plus loin

@@ -168,8 +168,8 @@ Voir notre [pillar formation IA gratuite](/guides/se-former-ia-gratuitement/) et
 
 ## Sources
 
-- LinkedIn Economic Graph (2026) : +47% offres marketing IA
-- Anthropic Economic Index (mars 2026) : adoption IA marketing en France
+- [LinkedIn Economic Graph (2026)](https://economicgraph.linkedin.com/) : +47% offres marketing IA
+- [Anthropic Economic Index (mars 2026)](https://www.anthropic.com/economic-index) : adoption IA marketing en France
 - Surfer SEO public stats 2025
 - HubSpot State of Marketing 2026
 

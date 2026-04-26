@@ -165,7 +165,7 @@ Pour le détail, va voir nos comparateurs : [Claude vs ChatGPT](/guides/claude-v
 
 ## L'impact de ChatGPT sur ton métier : menace ou opportunité ?
 
-Selon l'Anthropic Economic Index 2026, 39% des actifs français utilisent désormais ChatGPT au moins 1 fois par semaine au travail. Selon l'OCDE 2025, 27% des emplois français sont exposés à l'automatisation IA. Selon Ipsos 2025, 47% des actifs envisagent une reconversion.
+Selon l'[Anthropic Economic Index](https://www.anthropic.com/economic-index) 2026, 39% des actifs français utilisent désormais ChatGPT au moins 1 fois par semaine au travail. Selon l'[OCDE 2025](https://www.oecd.org/en/topics/sub-issues/ai-and-the-future-of-work.html), 27% des emplois français sont exposés à l'automatisation IA. Selon Ipsos 2025, 47% des actifs envisagent une reconversion.
 
 **La grille de lecture honnête** :
 - Ton métier ne disparaîtra pas du jour au lendemain. Mais celui qui ne maîtrise pas les outils IA en 2027 sera moins compétitif que celui qui les maîtrise.
@@ -206,7 +206,7 @@ Notre angle Adapte-toi : utiliser ChatGPT pour devenir 3x plus productif dans to
 
 **Limite 5 : Memory peut polluer.** Si tu actives Memory, ChatGPT mémorise des préférences qui peuvent biaiser des sessions futures sans que tu t'en rendes compte. Audit régulier dans Settings > Personalization.
 
-**Limite 6 : juridique français pointu = prudent.** ChatGPT peut halluciner sur le code du travail récent ou les jurisprudences FR. Toujours vérifier auprès de Légifrance ou d'un avocat.
+**Limite 6 : juridique français pointu = prudent.** ChatGPT peut halluciner sur le code du travail récent ou les jurisprudences FR. Toujours vérifier auprès de [Légifrance](https://www.legifrance.gouv.fr/) ou d'un avocat.
 
 ## Démarrage rapide en 5 minutes
 
@@ -224,12 +224,12 @@ Les vraies limites sont sur les sources (préférer [Perplexity](/outils/perplex
 
 ## Sources
 
-- OpenAI usage stats 2026 : 900M utilisateurs hebdomadaires
-- Anthropic Economic Index (mars 2026) : adoption IA en France
-- OCDE (2025) : 27% des emplois français exposés à l'automatisation
-- PwC (2025) : +25% de salaire pour les profils maîtrisant l'IA
-- LinkedIn Economic Graph (2024) : +270% de croissance des offres mentionnant l'IA
-- Ipsos (2025) : 47% des actifs français envisagent une reconversion
+- [OpenAI usage stats 2026](https://openai.com/) : 900M utilisateurs hebdomadaires
+- [Anthropic Economic Index (mars 2026)](https://www.anthropic.com/economic-index) : adoption IA en France
+- [OCDE (2025)](https://www.oecd.org/en/topics/sub-issues/ai-and-the-future-of-work.html) : 27% des emplois français exposés à l'automatisation
+- [PwC (2025)](https://www.pwc.com/gx/en/issues/artificial-intelligence.html) : +25% de salaire pour les profils maîtrisant l'IA
+- [LinkedIn Economic Graph (2024)](https://economicgraph.linkedin.com/) : +270% de croissance des offres mentionnant l'IA
+- [Ipsos (2025)](https://www.ipsos.com/fr-fr) : 47% des actifs français envisagent une reconversion
 
 <!-- maillage:auto -->
 ## Pour aller plus loin

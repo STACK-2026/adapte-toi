@@ -226,11 +226,11 @@ Pour le détail par métier, voir nos [fiches métiers IA](/metiers/) (26 fiches
 
 ## Sources
 
-- Apec Tech (2025) : grille des compétences IA en entreprise
+- [Apec Tech (2025)](https://www.apec.fr/) : grille des compétences IA en entreprise
 - LinkedIn Skills 2026 : skills demand IA en France
 - Kaggle Survey 2025 : niveau auto-déclaré des praticiens IA
-- France Stratégie (2026) : prospective des métiers IA en France
-- Anthropic Economic Index (mars 2026) : adoption IA en entreprise
+- [France Stratégie (2026)](https://www.strategie.gouv.fr/publications/intelligence-artificielle-emploi) : prospective des métiers IA en France
+- [Anthropic Economic Index (mars 2026)](https://www.anthropic.com/economic-index) : adoption IA en entreprise
 
 ## Pour aller plus loin
 

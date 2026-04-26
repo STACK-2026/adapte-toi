@@ -70,7 +70,7 @@ Tu cherches les vrais chiffres sur l'impact de l'IA sur l'emploi ? Pas des opini
 
 **+270% de croissance** des offres d'emploi mentionnant l'intelligence artificielle entre 2019 et 2024. **166 000+ offres IA** publiées en France, n°1 européen.
 
-### 9. Baromètre Lefebvre Dalloz (2026)
+### 9. Baromètre [Lefebvre Dalloz (2026)](https://www.lefebvre-dalloz.fr/)
 
 **1 professionnel sur 2** a adopté au moins un outil IA dans sa pratique quotidienne en France. Les professions juridiques et comptables sont les plus avancées dans l'adoption.
 
@@ -158,18 +158,18 @@ Consulte nos [fiches métier](/métiers) pour une analyse métier par métier av
 Toutes les études citées dans ce guide sont accessibles publiquement. Voici les références :
 
 - Anthropic (mars 2026) : étude interne sur les offres d'emploi
-- OCDE (2025) : "Employment Outlook", chapitre IA et automatisation
+- [OCDE (2025)](https://www.oecd.org/en/topics/sub-issues/ai-and-the-future-of-work.html) : "Employment Outlook", chapitre IA et automatisation
 - McKinsey Global Institute (2024) : "The economic potential of generative AI"
 - FMI (2024) : "Gen-AI: Artificial Intelligence and the Future of Work"
 - Cognizant (février 2026) : "New Work, New World"
-- PwC (2025) : "Global AI Jobs Barometer"
+- [PwC (2025)](https://www.pwc.com/gx/en/issues/artificial-intelligence.html) : "Global AI Jobs Barometer"
 - Ipsos pour Jedha (2025) : "Les Français et la reconversion professionnelle"
-- LinkedIn Economic Graph (2024) : données offres d'emploi IA
-- Baromètre Lefebvre Dalloz (2026) : adoption de l'IA par les professionnels
-- France Travail BMO 2025 : Besoins en Main-d'Oeuvre
+- [LinkedIn Economic Graph (2024)](https://economicgraph.linkedin.com/) : données offres d'emploi IA
+- Baromètre [Lefebvre Dalloz (2026)](https://www.lefebvre-dalloz.fr/) : adoption de l'IA par les professionnels
+- [France Travail BMO 2025](https://statistiques.francetravail.fr/category/bmo) : Besoins en Main-d'Oeuvre
 - Bpifrance Le Lab (2025) : "PME et intelligence artificielle"
 - Siemens (2026) : communiqué requalification 6 000 salariés
-- OpenAI (2026) : données d'utilisation ChatGPT
+- [OpenAI (2026)](https://openai.com/) : données d'utilisation ChatGPT
 - World Economic Forum (2025) : "Future of Jobs Report"
 - Goldman Sachs (2024) : "The Potentially Large Effects of AI on Economic Growth"
 

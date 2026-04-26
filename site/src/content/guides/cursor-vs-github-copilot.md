@@ -219,8 +219,8 @@ Pour explorer plus d'outils dans la même catégorie, vois nos fiches détaillé
 - Cursor public roadmap 2026 (Anysphere)
 - GitHub Copilot product roadmap 2026
 - StackOverflow Developer Survey 2025 : adoption AI coding tools
-- LinkedIn Economic Graph (2025) : skills demand développeurs France
-- JetBrains State of Developer Ecosystem 2025
+- [LinkedIn Economic Graph (2025)](https://economicgraph.linkedin.com/) : skills demand développeurs France
+- [JetBrains State of Developer Ecosystem 2025](https://www.jetbrains.com/lp/devecosystem-2024/)
 
 ## Pour aller plus loin
 

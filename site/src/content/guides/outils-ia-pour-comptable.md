@@ -32,7 +32,7 @@ faq:
     answer: "Le Chat de Mistral (Paris) est la principale alternative française, hébergée en Europe, RGPD-friendly. La qualité monte vite mais reste en dessous de ChatGPT Plus en 2026. Pour les cabinets RGPD-stricts, c'est l'option recommandée."
 ---
 
-L'IA transforme le métier de comptable plus vite que prévu. Selon l'OCDE 2025, 40 à 60% des tâches comptables répétitives (saisie, lettrage, contrôles basiques) seront automatisées d'ici 2028. Mais les comptables qui maîtrisent les outils IA deviennent des conseillers à plus forte valeur, pas des disparus. Ce guide te donne les 5 outils à connaître absolument en 2026, avec les prompts qui marchent vraiment et les pièges RGPD à éviter.
+L'IA transforme le métier de comptable plus vite que prévu. Selon l'[OCDE 2025](https://www.oecd.org/en/topics/sub-issues/ai-and-the-future-of-work.html), 40 à 60% des tâches comptables répétitives (saisie, lettrage, contrôles basiques) seront automatisées d'ici 2028. Mais les comptables qui maîtrisent les outils IA deviennent des conseillers à plus forte valeur, pas des disparus. Ce guide te donne les 5 outils à connaître absolument en 2026, avec les prompts qui marchent vraiment et les pièges RGPD à éviter.
 
 ## Top 5 outils IA pour comptables en 2026
 
@@ -153,7 +153,7 @@ Voir notre [fiche complète Notion AI](/outils/notion-ai/) et [comparateur Notio
 
 ## 5. Perplexity : pour les recherches réglementaires en 30 secondes
 
-**Pourquoi un comptable a besoin de Perplexity** : Légifrance c'est lent, Bofip c'est peu intuitif. Perplexity te donne la réponse synthétisée avec les sources cliquables en 30 secondes.
+**Pourquoi un comptable a besoin de Perplexity** : [Légifrance](https://www.legifrance.gouv.fr/) c'est lent, Bofip c'est peu intuitif. Perplexity te donne la réponse synthétisée avec les sources cliquables en 30 secondes.
 
 ### Cas d'usage concrets
 
@@ -196,7 +196,7 @@ Voir notre [fiche complète Perplexity](/outils/perplexity/).
 
 **Limite 1 : RGPD strict.** Ne JAMAIS uploader des données client identifiables dans les versions gratuites des LLMs. Pour ChatGPT Plus, active l'opt-out training. Pour des données ultra-sensibles, prends Team (25 dollars) ou Enterprise.
 
-**Limite 2 : hallucinations sur le droit fiscal pointu.** Les LLMs peuvent inventer un article de loi inexistant ou se tromper de version. Toujours vérifier sur Légifrance ou Bofip pour les décisions à prendre.
+**Limite 2 : hallucinations sur le droit fiscal pointu.** Les LLMs peuvent inventer un article de loi inexistant ou se tromper de version. Toujours vérifier sur [Légifrance](https://www.legifrance.gouv.fr/) ou Bofip pour les décisions à prendre.
 
 **Limite 3 : Pennylane ne remplace pas le jugement comptable.** L'auto-catégorisation à 95% reste 5% d'erreurs à corriger. Tu valides chaque clôture humainement.
 
@@ -217,11 +217,11 @@ Voir notre [pillar formation IA gratuite](/guides/se-former-ia-gratuitement/) po
 
 ## Sources
 
-- OCDE (2025) : impact IA sur métiers comptables, prévisions 2028
-- Pennylane public stats 2025-2026 (utilisateurs, fonctions IA)
-- LinkedIn Salary Insights 2026 : salaires comptables IA-ready
-- Anthropic Economic Index (mars 2026) : adoption IA en services aux entreprises
-- Apec Tech (2025) : compétences IA en cabinet comptable
+- [OCDE (2025)](https://www.oecd.org/en/topics/sub-issues/ai-and-the-future-of-work.html) : impact IA sur métiers comptables, prévisions 2028
+- [Pennylane public stats 2025-2026](https://www.pennylane.com/) (utilisateurs, fonctions IA)
+- [LinkedIn Salary Insights 2026](https://www.linkedin.com/salary/) : salaires comptables IA-ready
+- [Anthropic Economic Index (mars 2026)](https://www.anthropic.com/economic-index) : adoption IA en services aux entreprises
+- [Apec Tech (2025)](https://www.apec.fr/) : compétences IA en cabinet comptable
 
 ## Pour aller plus loin
 
