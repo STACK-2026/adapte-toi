@@ -56,7 +56,7 @@ if (guide.data.comparator && guide.data.comparator.items.length > 0) {
   title={`${guide.data.title} | ${siteConfig.name}`}
   description={guide.data.description}
   canonicalUrl={guideUrl}
-  ogImage={guide.data.image}
+  ogImage={guide.data.image ?? `/og/guides/${guide.id}.png`}
   ogType="article"
   publishedTime={dateStr}
   jsonLd={jsonLd}

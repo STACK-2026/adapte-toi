@@ -79,7 +79,7 @@ if (fiche.data.relatedTools && fiche.data.relatedTools.length > 0) {
   title={`${fiche.data.title} | ${siteConfig.name}`}
   description={fiche.data.description}
   canonicalUrl={ficheUrl}
-  ogImage={fiche.data.image}
+  ogImage={fiche.data.image ?? `/og/metiers/${fiche.id}.png`}
   ogType="article"
   publishedTime={dateStr}
   jsonLd={jsonLd}

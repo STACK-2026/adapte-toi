@@ -81,6 +81,7 @@ if (outil.data.alternatives && outil.data.alternatives.length > 0) {
   title={`${outil.data.title} | ${siteConfig.name}`}
   description={outil.data.description}
   canonicalUrl={outilUrl}
+  ogImage={outil.data.image ?? `/og/outils/${outil.id}.png`}
   ogType="article"
   publishedTime={dateStr}
   jsonLd={jsonLd}
