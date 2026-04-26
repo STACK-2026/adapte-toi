@@ -5,7 +5,7 @@ outil: "Claude"
 category: "Assistant"
 pricing: "Gratuit · 20 dollars/mois (Pro) · 100 dollars/mois (Max)"
 website: "https://claude.ai"
-rating: 9
+rating: 9.5
 ratingCount: 198
 date: 2026-04-13
 lastReviewed: 2026-04-26

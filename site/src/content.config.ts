@@ -44,6 +44,22 @@ const metiers = defineCollection({
     imageAlt: z.string().optional(),
     keywords: z.string().optional(),
     draft: z.boolean().default(false),
+    // Salaires fourchettes (rich snippets Occupation)
+    salaryRange: z.object({
+      junior: z.string(),
+      senior: z.string(),
+      currency: z.string().default("EUR"),
+    }).optional(),
+    // Outils IA recommandes (maillage interne + ItemList schema)
+    relatedTools: z.array(z.object({
+      name: z.string(),
+      url: z.string(),
+    })).optional(),
+    // FAQ structuree (rich snippets FAQPage)
+    faq: z.array(z.object({
+      question: z.string(),
+      answer: z.string(),
+    })).optional(),
   }),
 });
 

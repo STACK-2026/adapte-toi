@@ -4,7 +4,7 @@ import Breadcrumbs from "../../components/Breadcrumbs.astro";
 import { getCollection, render } from "astro:content";
 import { siteConfig } from "../../../site.config";
 import { fullUrl } from "../../utils/config";
-import { jsonLdArticle, jsonLdBreadcrumbs } from "../../utils/seo";
+import { jsonLdArticle, jsonLdBreadcrumbs, jsonLdFaq, jsonLdItemList } from "../../utils/seo";
 
 export async function getStaticPaths() {
   const fiches = await getCollection("metiers", ({ data }) => !data.draft);
@@ -46,7 +46,7 @@ const riskColors: Record<string, { bg: string; text: string; label: string }> = 
 
 const risk = riskColors[fiche.data.riskLevel];
 
-const jsonLd = [
+const jsonLd: any[] = [
   jsonLdArticle({
     title: fiche.data.title,
     description: fiche.data.description,
@@ -57,6 +57,22 @@ const jsonLd = [
   }),
   jsonLdBreadcrumbs(breadcrumbs),
 ];
+
+if (fiche.data.faq && fiche.data.faq.length > 0) {
+  jsonLd.push(jsonLdFaq(fiche.data.faq));
+}
+
+if (fiche.data.relatedTools && fiche.data.relatedTools.length > 0) {
+  jsonLd.push(jsonLdItemList({
+    name: `Outils IA recommandés pour ${fiche.data.metier}`,
+    description: `Top outils IA à connaître pour le métier de ${fiche.data.metier} en 2026`,
+    url: ficheUrl,
+    items: fiche.data.relatedTools.map(t => ({
+      name: t.name,
+      url: t.url.startsWith("http") ? t.url : fullUrl(t.url),
+    })),
+  }));
+}
 ---
 
 <BaseLayout
