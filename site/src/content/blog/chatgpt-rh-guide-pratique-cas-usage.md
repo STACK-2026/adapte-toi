@@ -127,7 +127,7 @@ Un chatbot RH intégrant ChatGPT répond instantanément aux questions récurren
 
 ChatGPT détecte les anomalies de paie, génère les tableaux de bord sociaux et produit les rapports réglementaires. L'équipe RH se concentre sur l'analyse plutôt que sur la collecte de données.
 
-Consulte notre [fiche métier DRH à l'ère de l'IA](/métiers/drh-intelligence-artificielle) pour un plan d'action détaillé sur cette transformation.
+Consulte notre [fiche métier DRH à l'ère de l'IA](/metiers/drh-intelligence-artificielle) pour un plan d'action détaillé sur cette transformation.
 
 ## Communication interne et engagement collaborateurs
 

@@ -85,7 +85,7 @@ Tu n'as rien à faire de la politique, tu veux juste comprendre ton avenir pro. 
 
 **Deux.** Le format Ruffin (questionner une IA en public) est reproductible. Tu peux l'utiliser pour ton propre métier : pose à Claude les cinq questions que tu n'oses pas poser à ton manager sur l'avenir de ton poste, compare avec ce que dit ton entreprise officiellement, tu auras une vue plus honnête que n'importe quelle newsletter interne.
 
-**Trois.** Si tu es [community manager](/métiers/community-manager-ia), [journaliste](/métiers/journaliste-ia) ou [enseignant](/métiers/enseignant-ia), ce dispositif te concerne directement. La grille de lecture "dialoguer avec l'IA en public" est en train de devenir un format médiatique à part entière. Apprends à le maîtriser avant qu'il devienne obligatoire.
+**Trois.** Si tu es [community manager](/metiers/community-manager-ia), [journaliste](/metiers/journaliste-ia) ou [enseignant](/metiers/enseignant-ia), ce dispositif te concerne directement. La grille de lecture "dialoguer avec l'IA en public" est en train de devenir un format médiatique à part entière. Apprends à le maîtriser avant qu'il devienne obligatoire.
 
 ## Le verdict Adapte-toi
 

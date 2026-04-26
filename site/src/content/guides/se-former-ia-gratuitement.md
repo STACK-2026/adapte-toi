@@ -222,14 +222,14 @@ La plateforme communautaire de l'IA. Des milliers de modèles gratuits à utilis
 
 | Ton métier | Apprends en priorité | Outil principal | Temps |
 |-----------|---------------------|-----------------|-------|
-| Comptable | Pennylane + Claude pour la veille fiscale | [Fiche comptable](/métiers/comptable-ia) | 2 semaines |
-| Commercial | CRM + séquences de prospection IA | [Fiche commercial](/métiers/commercial-ia) | 2 semaines |
-| RH / Recruteur | ATS intelligent + Claude pour les offres | [Fiche RH](/métiers/rh-recruteur-ia) | 2 semaines |
-| Marketing | Jasper/Claude + Surfer SEO + Canva AI | [Fiche marketing](/métiers/marketing-ia) | 3 semaines |
-| Rédacteur | Claude + Surfer SEO + prompt avancé | [Fiche copywriter](/métiers/copywriter-ia) | 1 semaine |
-| Développeur | Cursor + Claude Code + GitHub Copilot | [Fiche développeur](/métiers/developpeur-ia) | 1 semaine |
-| Graphiste | Midjourney + Adobe Firefly + Figma AI | [Fiche graphiste](/métiers/graphiste-ia) | 2 semaines |
-| Chef de projet | Monday.com AI + Notion AI + Fireflies | [Fiche chef de projet](/métiers/chef-de-projet-ia) | 2 semaines |
+| Comptable | Pennylane + Claude pour la veille fiscale | [Fiche comptable](/metiers/comptable-ia) | 2 semaines |
+| Commercial | CRM + séquences de prospection IA | [Fiche commercial](/metiers/commercial-ia) | 2 semaines |
+| RH / Recruteur | ATS intelligent + Claude pour les offres | [Fiche RH](/metiers/rh-recruteur-ia) | 2 semaines |
+| Marketing | Jasper/Claude + Surfer SEO + Canva AI | [Fiche marketing](/metiers/marketing-ia) | 3 semaines |
+| Rédacteur | Claude + Surfer SEO + prompt avancé | [Fiche copywriter](/metiers/copywriter-ia) | 1 semaine |
+| Développeur | Cursor + Claude Code + GitHub Copilot | [Fiche développeur](/metiers/developpeur-ia) | 1 semaine |
+| Graphiste | Midjourney + Adobe Firefly + Figma AI | [Fiche graphiste](/metiers/graphiste-ia) | 2 semaines |
+| Chef de projet | Monday.com AI + Notion AI + Fireflies | [Fiche chef de projet](/metiers/chef-de-projet-ia) | 2 semaines |
 
 ---
 

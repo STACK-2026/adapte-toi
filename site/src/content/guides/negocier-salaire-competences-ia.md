@@ -144,14 +144,14 @@ Si tu es le seul à maîtriser l'IA dans l'équipe ET que tu formes les autres, 
 - [Chiffres clés IA et emploi](/guides/ia-emploi-chiffres-cles/)
 
 **Métiers qui appliquent ces conseils :**
-- [Développeur IA](/métiers/developpeur-ia/)
-- [Data analyst IA](/métiers/data-analyst-ia/)
-- [Consultant IA](/métiers/consultant-ia/)
+- [Développeur IA](/metiers/developpeur-ia/)
+- [Data analyst IA](/metiers/data-analyst-ia/)
+- [Consultant IA](/metiers/consultant-ia/)
 
 **Outils IA à tester :**
 - [ChatGPT](/outils/chatgpt/)
 - [Claude](/outils/claude/)
 - [Perplexity](/outils/perplexity/)
 
-Explore tous nos [guides stratégiques](/guides/), les [fiches métiers IA](/métiers/) et le [catalogue d'outils](/outils/).
+Explore tous nos [guides stratégiques](/guides/), les [fiches métiers IA](/metiers/) et le [catalogue d'outils](/outils/).
 

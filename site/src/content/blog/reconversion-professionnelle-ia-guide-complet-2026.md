@@ -93,7 +93,7 @@ Ceux qui maîtrisent IA + expertise humaine :
 - **Scénariste IA-assisté** : 45k-75k€  
 - **Architecte d'intérieur IA** : 40k-70k€
 
-Consulte notre [section métiers](/métiers/) pour des fiches détaillées avec salaires et formations par poste. Les plus consultees cette semaine : [developpeur IA](/métiers/developpeur-ia), [data analyst IA](/métiers/data-analyst-ia), [chef de projet IA](/métiers/chef-de-projet-ia), [consultant IA](/métiers/consultant-ia), [commercial IA](/métiers/commercial-ia), [marketing IA](/métiers/marketing-ia) et [RH recruteur IA](/métiers/rh-recruteur-ia). Les profils plus sensibles, comme [copywriter](/métiers/copywriter-ia), [traducteur](/métiers/traducteur-ia), [photographe](/métiers/photographe-ia) ou [comptable](/métiers/comptable-ia), trouveront dans leurs fiches dediees une cartographie des passerelles viables.
+Consulte notre [section métiers](/metiers/) pour des fiches détaillées avec salaires et formations par poste. Les plus consultees cette semaine : [developpeur IA](/metiers/developpeur-ia), [data analyst IA](/metiers/data-analyst-ia), [chef de projet IA](/metiers/chef-de-projet-ia), [consultant IA](/metiers/consultant-ia), [commercial IA](/metiers/commercial-ia), [marketing IA](/metiers/marketing-ia) et [RH recruteur IA](/metiers/rh-recruteur-ia). Les profils plus sensibles, comme [copywriter](/metiers/copywriter-ia), [traducteur](/metiers/traducteur-ia), [photographe](/metiers/photographe-ia) ou [comptable](/metiers/comptable-ia), trouveront dans leurs fiches dediees une cartographie des passerelles viables.
 
 ![Métiers avenir IA 2026 salaires formation reconversion professionnelle](IMAGE_2)
 
@@ -243,7 +243,7 @@ Julie, 38 ans, charge de clientele dans une grande banque regionale depuis 14 an
 
 Etape 1 : **diagnostic honnete**. Elle utilise notre [bilan de competences IA](/outils) et notre [guide chiffres cles emploi IA](/guides/ia-emploi-chiffres-cles). Score d'exposition 8/10. Ses forces : relation client B2C premium, pedagogie, reglementation bancaire, une premiere expérience d'analyse risques. Ses manques : aucune pratique technique IA, pas de code, pas de data viz.
 
-Etape 2 : **choix de cible**. Plutôt que devenir developpeuse IA (trop loin de son ADN), elle opte pour [consultante transformation IA secteur bancaire](/métiers/consultant-ia) : un métier hybride qui valorise ses 14 ans de terrain banque + des competences IA a construire. Salaire cible : 58-72k EUR.
+Etape 2 : **choix de cible**. Plutôt que devenir developpeuse IA (trop loin de son ADN), elle opte pour [consultante transformation IA secteur bancaire](/metiers/consultant-ia) : un métier hybride qui valorise ses 14 ans de terrain banque + des competences IA a construire. Salaire cible : 58-72k EUR.
 
 Etape 3 : **formation**. Elle mobilise son [CPF](/guides/financer-formation-ia-cpf) (4 200 EUR disponibles), obtient un abondement employeur de 3 000 EUR negocie en expliquant que la montee en competences profite aussi a l'agence, et finance le reste en credit formation BPI. Total : 9 800 EUR. Programme : un certificat prompt engineering de 6 semaines, un bootcamp data literacy de 10 semaines, et une certification AI Ethics de Stanford Online. Elle lit aussi notre [guide se former IA gratuitement](/guides/se-former-ia-gratuitement) pour completer avec des ressources ouvertes.
 
@@ -268,35 +268,35 @@ Les données suivantes sont verifiees au 14 avril 2026 via les publications offi
 - **Taux de réussite reconversion progressive** : 67% (France Travail).
 - **Taux de réussite reconversion brutale** : 34% (France Travail, même etude).
 - **Délai médian de reconversion reussie** : 14 mois (CEREQ 2025).
-- **Secteurs en tension absolue** : [developpement IA](/métiers/developpeur-ia), [data](/métiers/data-analyst-ia), [consultants specialises](/métiers/consultant-ia), [infirmiers](/métiers/infirmier-ia), [enseignants specialises](/métiers/enseignant-ia) (France Travail BMO 2026).
+- **Secteurs en tension absolue** : [developpement IA](/metiers/developpeur-ia), [data](/metiers/data-analyst-ia), [consultants specialises](/metiers/consultant-ia), [infirmiers](/metiers/infirmier-ia), [enseignants specialises](/metiers/enseignant-ia) (France Travail BMO 2026).
 
 ## Passerelles métier par métier : ou aller selon d'ou tu pars
 
 Au-dela des statistiques globales, chaque métier a ses propres passerelles vers l'ere IA. Extrait du referentiel Adapte-toi :
 
-- [Comptable](/métiers/comptable-ia) : passerelle naturelle vers [analyste financier IA](/métiers/analyste-financier-ia) ou auditeur IA reglementaire.
-- [Community manager](/métiers/community-manager-ia) : evolution vers superviseur contenu IA ou strategiste marketing augmente ([marketing IA](/métiers/marketing-ia)).
-- [Commercial](/métiers/commercial-ia) : transition vers consultant adoption outils IA B2B.
-- [Journaliste](/métiers/journaliste-ia) : pivot vers fact-checker IA, editeur de prompts pour redactions.
-- [Enseignant](/métiers/enseignant-ia) : formateur prompt engineering grand public, concepteur de parcours adaptatifs.
-- [Avocat](/métiers/avocat-ia) : specialisation en droit de l'IA, AI Act, conformite.
-- [Graphiste](/métiers/graphiste-ia) : director IA avec maitrise de [Midjourney](/outils/midjourney), [Adobe Firefly](/outils/adobe-firefly), [Canva AI](/outils/canva-ai).
-- [Copywriter](/métiers/copywriter-ia) : editeur senior d'outputs IA, prompt engineer copy, specialisation secteur.
-- [Traducteur](/métiers/traducteur-ia) : post-editeur IA, expert qualité, traduction assermentee (zones protegees).
-- [Photographe](/métiers/photographe-ia) : direction artistique generative, portrait physique premium.
-- [Architecte](/métiers/architecte-ia) : BIM + IA generative, ecoconception augmentee avec les données [ADEME](https://www.ademe.fr/).
-- [Agriculteur](/métiers/agriculteur-ia) : agriculture de precision, gestion capteurs + IA predictive.
-- [Cuisinier](/métiers/cuisinier-ia) : pilotage menus dynamiques, gestion stocks IA, relation client augmentee.
-- [Plombier](/métiers/plombier-ia) : diagnostic predictif via IoT + IA, métier protege physiquement.
-- [Infirmier](/métiers/infirmier-ia) : coordination parcours augmentee, triage IA, métier en tension forte.
-- [RH recruteur](/métiers/rh-recruteur-ia) : specialisation ethique IA recrutement, conformite AI Act.
-- [Developpeur](/métiers/developpeur-ia) : pairprog avec [Copilot](/outils/copilot), [Cursor](/outils/cursor), specialisation LLM ops.
-- [Chef de projet](/métiers/chef-de-projet-ia) : chef de projet IA sectoriel, adoption change management.
-- [Consultant](/métiers/consultant-ia) : verticalisation (banque, sante, industrie), specialisation reglementaire.
-- [Data analyst](/métiers/data-analyst-ia) : transition naturelle vers ML engineer junior ou analytics engineer.
-- [Assistant administratif](/métiers/assistant-administratif-ia) : office manager augmente, pilotage workflows [Zapier](/outils/zapier) et [Make](/outils/make).
-- [Charge de clientele](/métiers/charge-clientele-ia) : conseiller expert premium, supervision IA conversationnelle.
-- [Agent immobilier](/métiers/agent-immobilier-ia) : staging IA, pricing algorithmique, matching client augmente.
+- [Comptable](/metiers/comptable-ia) : passerelle naturelle vers [analyste financier IA](/metiers/analyste-financier-ia) ou auditeur IA reglementaire.
+- [Community manager](/metiers/community-manager-ia) : evolution vers superviseur contenu IA ou strategiste marketing augmente ([marketing IA](/metiers/marketing-ia)).
+- [Commercial](/metiers/commercial-ia) : transition vers consultant adoption outils IA B2B.
+- [Journaliste](/metiers/journaliste-ia) : pivot vers fact-checker IA, editeur de prompts pour redactions.
+- [Enseignant](/metiers/enseignant-ia) : formateur prompt engineering grand public, concepteur de parcours adaptatifs.
+- [Avocat](/metiers/avocat-ia) : specialisation en droit de l'IA, AI Act, conformite.
+- [Graphiste](/metiers/graphiste-ia) : director IA avec maitrise de [Midjourney](/outils/midjourney), [Adobe Firefly](/outils/adobe-firefly), [Canva AI](/outils/canva-ai).
+- [Copywriter](/metiers/copywriter-ia) : editeur senior d'outputs IA, prompt engineer copy, specialisation secteur.
+- [Traducteur](/metiers/traducteur-ia) : post-editeur IA, expert qualité, traduction assermentee (zones protegees).
+- [Photographe](/metiers/photographe-ia) : direction artistique generative, portrait physique premium.
+- [Architecte](/metiers/architecte-ia) : BIM + IA generative, ecoconception augmentee avec les données [ADEME](https://www.ademe.fr/).
+- [Agriculteur](/metiers/agriculteur-ia) : agriculture de precision, gestion capteurs + IA predictive.
+- [Cuisinier](/metiers/cuisinier-ia) : pilotage menus dynamiques, gestion stocks IA, relation client augmentee.
+- [Plombier](/metiers/plombier-ia) : diagnostic predictif via IoT + IA, métier protege physiquement.
+- [Infirmier](/metiers/infirmier-ia) : coordination parcours augmentee, triage IA, métier en tension forte.
+- [RH recruteur](/metiers/rh-recruteur-ia) : specialisation ethique IA recrutement, conformite AI Act.
+- [Developpeur](/metiers/developpeur-ia) : pairprog avec [Copilot](/outils/copilot), [Cursor](/outils/cursor), specialisation LLM ops.
+- [Chef de projet](/metiers/chef-de-projet-ia) : chef de projet IA sectoriel, adoption change management.
+- [Consultant](/metiers/consultant-ia) : verticalisation (banque, sante, industrie), specialisation reglementaire.
+- [Data analyst](/metiers/data-analyst-ia) : transition naturelle vers ML engineer junior ou analytics engineer.
+- [Assistant administratif](/metiers/assistant-administratif-ia) : office manager augmente, pilotage workflows [Zapier](/outils/zapier) et [Make](/outils/make).
+- [Charge de clientele](/metiers/charge-clientele-ia) : conseiller expert premium, supervision IA conversationnelle.
+- [Agent immobilier](/metiers/agent-immobilier-ia) : staging IA, pricing algorithmique, matching client augmente.
 
 ## Guides complementaires pour approfondir
 

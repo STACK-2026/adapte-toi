@@ -136,14 +136,14 @@ La France est le pays européen qui publie le plus d'offres d'emploi liées à l
 - [Se former à l'IA gratuitement](/guides/se-former-ia-gratuitement/)
 
 **Métiers qui appliquent ces conseils :**
-- [Développeur IA](/métiers/developpeur-ia/)
-- [Data analyst IA](/métiers/data-analyst-ia/)
-- [Consultant IA](/métiers/consultant-ia/)
+- [Développeur IA](/metiers/developpeur-ia/)
+- [Data analyst IA](/metiers/data-analyst-ia/)
+- [Consultant IA](/metiers/consultant-ia/)
 
 **Outils IA à tester :**
 - [ChatGPT](/outils/chatgpt/)
 - [Claude](/outils/claude/)
 - [Perplexity](/outils/perplexity/)
 
-Explore tous nos [guides stratégiques](/guides/), les [fiches métiers IA](/métiers/) et le [catalogue d'outils](/outils/).
+Explore tous nos [guides stratégiques](/guides/), les [fiches métiers IA](/metiers/) et le [catalogue d'outils](/outils/).
 

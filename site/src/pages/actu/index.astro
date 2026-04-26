@@ -22,6 +22,22 @@ const posts = (await getCollection("actu", ({ data }) => !data.draft))
 const counts: Record<string, number> = {};
 for (const p of posts) counts[p.data.category] = (counts[p.data.category] ?? 0) + 1;
 
+// Archives par semaine ISO : group posts by year-week
+function isoWeek(date: Date): string {
+  const d = new Date(Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()));
+  const dayNum = d.getUTCDay() || 7;
+  d.setUTCDate(d.getUTCDate() + 4 - dayNum);
+  const yearStart = new Date(Date.UTC(d.getUTCFullYear(), 0, 1));
+  const weekNum = Math.ceil(((d.getTime() - yearStart.getTime()) / 86400000 + 1) / 7);
+  return `${d.getUTCFullYear()}-W${String(weekNum).padStart(2, "0")}`;
+}
+const weekCounts: Record<string, number> = {};
+for (const p of posts) {
+  const w = isoWeek(p.data.date);
+  weekCounts[w] = (weekCounts[w] ?? 0) + 1;
+}
+const sortedWeeks = Object.keys(weekCounts).sort().reverse().slice(0, 8);
+
 const featured = posts[0];
 const rest = posts.slice(1);
 
@@ -79,6 +95,20 @@ const breadcrumbs = [
             ) : null
           )}
         </nav>
+
+        {sortedWeeks.length > 0 && (
+          <nav class="flex flex-wrap items-center gap-2 mb-10" aria-label="Archives par semaine">
+            <span class="text-xs font-semibold uppercase tracking-wider text-gray-500 mr-2">Archives :</span>
+            {sortedWeeks.map((w) => (
+              <a
+                href={`/actu/semaine/${w}/`}
+                class="text-xs bg-gray-100 text-gray-700 px-3 py-1 rounded-full font-medium hover:bg-secondary hover:text-white transition-colors"
+              >
+                {w} ({weekCounts[w]})
+              </a>
+            ))}
+          </nav>
+        )}
 
         {featured && (
           <article class="mb-12 group">

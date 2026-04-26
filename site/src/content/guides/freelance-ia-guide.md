@@ -50,7 +50,7 @@ L'IA ne supprime pas le freelancing, elle le transforme en opportunité massive.
 
 **TJM** : 400-700 euros/jour | **Revenu mensuel** : 4 000-8 000 euros
 
-**Pour qui avant** : rédacteurs, journalistes, chargés de communication. Voir [fiche rédacteur](/métiers/copywriter-ia).
+**Pour qui avant** : rédacteurs, journalistes, chargés de communication. Voir [fiche rédacteur](/metiers/copywriter-ia).
 
 ### 2. Le consultant transformation IA
 
@@ -60,7 +60,7 @@ L'IA ne supprime pas le freelancing, elle le transforme en opportunité massive.
 
 **TJM** : 600-1 200 euros/jour | **Revenu mensuel** : 6 000-15 000 euros
 
-**Pour qui avant** : consultants, chefs de projet, managers. Voir [fiche consultant](/métiers/consultant-ia).
+**Pour qui avant** : consultants, chefs de projet, managers. Voir [fiche consultant](/metiers/consultant-ia).
 
 ### 3. L'automatiseur no-code
 
@@ -80,7 +80,7 @@ L'IA ne supprime pas le freelancing, elle le transforme en opportunité massive.
 
 **TJM** : 400-900 euros/jour | **Revenu mensuel** : 4 000-10 000 euros
 
-**Pour qui avant** : graphistes, DA, designers. Voir [fiche graphiste](/métiers/graphiste-ia).
+**Pour qui avant** : graphistes, DA, designers. Voir [fiche graphiste](/metiers/graphiste-ia).
 
 ### 5. Le formateur IA
 
@@ -90,7 +90,7 @@ L'IA ne supprime pas le freelancing, elle le transforme en opportunité massive.
 
 **TJM** : 800-1 500 euros/jour | **Revenu mensuel** : 5 000-12 000 euros (quelques jours par mois suffisent)
 
-**Pour qui avant** : formateurs, enseignants, consultants, managers. Voir [fiche enseignant](/métiers/enseignant-ia).
+**Pour qui avant** : formateurs, enseignants, consultants, managers. Voir [fiche enseignant](/metiers/enseignant-ia).
 
 ---
 
@@ -213,20 +213,21 @@ Crée-toi un portfolio en faisant 2-3 projets gratuits pour des amis, des associ
 ## Pour aller plus loin
 
 **Guides connexes :**
+- [Outils IA pour freelance : la stack qui te triple la productivité](/guides/outils-ia-pour-freelance/)
 - [Automatiser ton travail avec l'IA](/guides/automatiser-travail-ia/)
 - [Négocier ton salaire avec des compétences IA](/guides/negocier-salaire-competences-ia/)
 - [Reconversion IA : guide complet](/guides/reconversion-ia-guide-complet/)
 - [Prompt engineering débutant](/guides/prompt-engineering-debutant/)
 
 **Métiers qui appliquent ces conseils :**
-- [Développeur IA](/métiers/developpeur-ia/)
-- [Data analyst IA](/métiers/data-analyst-ia/)
-- [Consultant IA](/métiers/consultant-ia/)
+- [Développeur IA](/metiers/developpeur-ia/)
+- [Data analyst IA](/metiers/data-analyst-ia/)
+- [Consultant IA](/metiers/consultant-ia/)
 
 **Outils IA à tester :**
 - [ChatGPT](/outils/chatgpt/)
 - [Claude](/outils/claude/)
 - [Perplexity](/outils/perplexity/)
 
-Explore tous nos [guides stratégiques](/guides/), les [fiches métiers IA](/métiers/) et le [catalogue d'outils](/outils/).
+Explore tous nos [guides stratégiques](/guides/), les [fiches métiers IA](/metiers/) et le [catalogue d'outils](/outils/).
 
