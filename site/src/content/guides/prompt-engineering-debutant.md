@@ -3,7 +3,7 @@ title: "Prompt engineering pour débutants : guide pratique 2026"
 description: "Apprends à formuler des instructions efficaces pour ChatGPT, Claude et les autres. Le guide complet, gratuit."
 date: 2026-04-13
 lastReviewed: 2026-04-13
-author: "Theo Marchand"
+author: "Théo Marchand"
 category: "outils-ia"
 readingTime: "15 min"
 keywords: "prompt engineering, écrire un prompt, utiliser ChatGPT, prompt Claude, guide prompt débutant 2026"

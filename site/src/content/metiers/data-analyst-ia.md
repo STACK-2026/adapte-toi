@@ -7,7 +7,7 @@ riskLevel: "moyen"
 sector: "Data et technologie"
 date: 2026-04-13
 lastReviewed: 2026-04-13
-author: "Theo Marchand"
+author: "Théo Marchand"
 keywords: "data analyst IA, analyste données intelligence artificielle, data science IA 2026, impact IA data, ChatGPT SQL"
 draft: false
 ---

@@ -7,7 +7,7 @@ riskLevel: "faible"
 sector: "Restauration et hôtellerie"
 date: 2026-04-13
 lastReviewed: 2026-04-13
-author: "Theo Marchand"
+author: "Théo Marchand"
 keywords: "cuisinier IA, restaurateur intelligence artificielle, restauration IA 2026, impact IA cuisine, métier cuisinier avenir"
 draft: false
 ---

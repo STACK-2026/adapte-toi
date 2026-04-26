@@ -7,7 +7,7 @@ riskLevel: "moyen"
 sector: "Marketing et communication"
 date: 2026-04-13
 lastReviewed: 2026-04-13
-author: "Theo Marchand"
+author: "Théo Marchand"
 keywords: "marketing IA, responsable marketing intelligence artificielle, chef de produit IA 2026, automatisation marketing, martech IA"
 draft: false
 ---

@@ -3,7 +3,7 @@ title: "Devenir freelance grâce à l'IA : le guide ultime 2026"
 description: "Comment lancer ton activité de freelance augmenté par l'IA. Positionnement, outils, tarifs, clients. Guide gratuit."
 date: 2026-04-13
 lastReviewed: 2026-04-13
-author: "Theo Marchand"
+author: "Théo Marchand"
 category: "freelance-ia"
 readingTime: "14 min"
 keywords: "freelance IA, devenir freelance intelligence artificielle, consultant IA indépendant, freelance augmenté 2026"

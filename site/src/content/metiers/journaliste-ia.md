@@ -7,7 +7,7 @@ riskLevel: "eleve"
 sector: "Médias et information"
 date: 2026-04-13
 lastReviewed: 2026-04-13
-author: "Theo Marchand"
+author: "Théo Marchand"
 keywords: "journaliste IA, presse intelligence artificielle, média IA 2026, rédaction automatique, impact IA journalisme"
 draft: false
 ---

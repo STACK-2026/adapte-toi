@@ -3,7 +3,7 @@ title: "IA et emploi : toutes les études et chiffres clés en 2026"
 description: "Les 15 études majeures sur l'impact de l'IA sur l'emploi. Chiffres, sources, analyse. Tout en un seul endroit."
 date: 2026-04-13
 lastReviewed: 2026-04-13
-author: "Theo Marchand"
+author: "Théo Marchand"
 category: "etudes-rapports"
 readingTime: "10 min"
 keywords: "IA emploi chiffres, études IA travail 2026, impact IA emploi France, Anthropic OCDE McKinsey données"

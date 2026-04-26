@@ -7,7 +7,7 @@ riskLevel: "eleve"
 sector: "Management et organisation"
 date: 2026-04-13
 lastReviewed: 2026-04-13
-author: "Theo Marchand"
+author: "Théo Marchand"
 keywords: "chef de projet IA, project manager intelligence artificielle, gestion de projet 2026, impact IA management"
 draft: false
 ---

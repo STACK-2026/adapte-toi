@@ -7,7 +7,7 @@ riskLevel: "faible"
 sector: "Agriculture"
 date: 2026-04-13
 lastReviewed: 2026-04-13
-author: "Theo Marchand"
+author: "Théo Marchand"
 keywords: "agriculteur IA, agriculture intelligence artificielle, agriculture de précision, drones agricoles 2026"
 draft: false
 ---

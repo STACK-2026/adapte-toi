@@ -7,7 +7,7 @@ riskLevel: "eleve"
 sector: "Communication et marketing"
 date: 2026-04-13
 lastReviewed: 2026-04-13
-author: "Theo Marchand"
+author: "Théo Marchand"
 keywords: "rédacteur web IA, copywriter intelligence artificielle, métier rédacteur 2026, Jasper AI, impact IA rédaction"
 draft: false
 ---

@@ -7,7 +7,7 @@ riskLevel: "faible"
 sector: "Artisanat et bâtiment"
 date: 2026-04-13
 lastReviewed: 2026-04-13
-author: "Theo Marchand"
+author: "Théo Marchand"
 keywords: "plombier IA, artisan intelligence artificielle, métier manuel IA 2026, BTP IA, électricien avenir"
 draft: false
 ---

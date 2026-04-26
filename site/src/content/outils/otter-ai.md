@@ -8,7 +8,7 @@ website: "https://otter.ai"
 rating: 7
 date: 2026-04-13
 lastReviewed: 2026-04-13
-author: "Theo Marchand"
+author: "Théo Marchand"
 keywords: "Otter.ai, transcription IA, compte-rendu réunion IA, résumé réunion automatique, Otter guide"
 draft: false
 ---

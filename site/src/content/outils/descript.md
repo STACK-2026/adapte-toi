@@ -8,7 +8,7 @@ website: "https://www.descript.com"
 rating: 8
 date: 2026-04-13
 lastReviewed: 2026-04-13
-author: "Theo Marchand"
+author: "Théo Marchand"
 keywords: "Descript, montage vidéo IA, édition podcast IA, Descript guide 2026, transcription vidéo"
 draft: false
 ---

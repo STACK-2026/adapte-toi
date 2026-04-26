@@ -7,7 +7,7 @@ riskLevel: "tres-eleve"
 sector: "Relation client et support"
 date: 2026-04-13
 lastReviewed: 2026-04-13
-author: "Theo Marchand"
+author: "Théo Marchand"
 keywords: "chargé de clientèle IA, support client intelligence artificielle, centre appel IA 2026, chatbot, impact IA service client"
 draft: false
 ---
