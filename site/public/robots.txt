@@ -34,3 +34,4 @@ Allow: /
 
 Sitemap: https://adapte-toi.com/sitemap-index.xml
 Sitemap: https://adapte-toi.com/sitemap-news.xml
+Sitemap: https://adapte-toi.com/ai-sitemap.xml
