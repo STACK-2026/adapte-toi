@@ -2,7 +2,7 @@
 title: "Indeed Hiring Lab avril 2026 : le marche de l'emploi recule, les offres IA explosent (le paradoxe francais)"
 description: "Le rapport Indeed Hiring Lab France avril 2026 confirme un paradoxe : volume d'offres divise par 2 depuis decembre 2022, mais offres IA en progression. 21% en dev info, 15% en sysadmin, 12% en banque-finance. Decryptage adapte-toi."
 date: 2026-04-29
-category: "marche-emploi"
+category: "chiffre"
 impactLevel: 4
 author: "Léa Moreau"
 keyQuote:
