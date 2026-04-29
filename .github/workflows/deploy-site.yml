@@ -59,6 +59,13 @@ jobs:
           workingDirectory: site
           command: pages deploy dist --project-name=adapte-toi-site --branch=main --commit-dirty=true
 
+      - name: Ping IndexNow
+        if: success()
+        env:
+          SITE_URL: https://adapte-toi.com
+          INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
+        run: python3 scripts/indexnow_ping.py || true
+
       - name: Alert on failure
         if: failure()
         env:
