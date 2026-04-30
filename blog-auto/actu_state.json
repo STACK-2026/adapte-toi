@@ -1,8 +1,5 @@
 {
   "seen_urls": [
-    "https://huggingface.co/blog/eu-ai-act-oss",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMFBaUnByaFFSY3dlVlB3OUxGTzdTeWU0MnBTeEIxUm1iZ2NvNlZmTm96aHhTSDJ1LTB4V0xkVFBfV1V4azQ2a2VpYjVEaEE1eEcxcXhha0d4dG8zeWlXYmYzWlZKUzRRd0ZWT3Fha3lrZENnQ2gtR0tYOVA0VC1CbXFBUVh1R2NPSnc",
-    "https://openai.com/index/swe-lancer",
     "https://courriercadres.com/quiet-cracking-pourquoi-autant-de-salaries-craquent-en-silence",
     "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
     "https://huggingface.co/blog/dell-ai-applications",
@@ -4999,7 +4996,10 @@
     "https://openai.com/index/superalignment-fast-grants",
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQmR1cE9CWFdjVEZuejJSOXJQWDE3cDZrTF9LUUpCaG5LN3dWM3E3SUJKNkM4M2swNDRIc2xlZFJmMkpydWVrSVExQ3V0Y3JaWjVRNUprdlA3ZFMzdEw0dlVETjVybWxCTkRLZUcxRzFRc1hsRmtuaUk4OXRUcWh3Z3RhWE9ZUFhuUnc",
     "https://www.franceinfo.fr/politique/presidentielle-2027-bruno-retailleau-ralliera-edouard-philippe-assure-eric-ciotti-pour-qui-lr-a-disparu_7956239.html#xtor=RSS-3-%5Bgeneral%5D",
-    "https://www.hiringlab.org/fr/blog/2026/04/01/avril-2026-lia-progresse-dans-un-marche-du-travail-en-recul/"
+    "https://www.hiringlab.org/fr/blog/2026/04/01/avril-2026-lia-progresse-dans-un-marche-du-travail-en-recul/",
+    "https://www.cnbc.com/2026/03/31/oracle-layoffs-ai-spending.html",
+    "https://www.wsws.org/en/articles/2026/04/02/clmg-a02.html",
+    "https://www.lemondeinformatique.fr/actualites/lire-oracle-supprime-10-000-postes-pour-financer-ses-datacenters-ia-99835.html"
   ],
   "seen_hashes": [
     "9f4ab50144c2415f",
