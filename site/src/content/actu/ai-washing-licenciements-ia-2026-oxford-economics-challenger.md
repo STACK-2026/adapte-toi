@@ -60,6 +60,8 @@ schemaFaq: true
 lastReviewed: 2026-05-02
 reviewedBy: "Léa Moreau"
 draft: false
+image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Bureaux vides au crépuscule, lumière froide"
 ---
 
 L'AI washing est officiellement entre dans le vocabulaire RH en 2026. Au premier trimestre, [Challenger Gray & Christmas](https://www.challengergray.com/blog/challenger-report-march-cuts-rise-25-from-february-ai-leads-reasons/) a recense 27 645 licenciements aux Etats-Unis officiellement imputes a l'intelligence artificielle. Mais [Oxford Economics demonte ce narratif](https://fortune.com/2026/01/07/ai-layoffs-convenient-corporate-fiction-true-false-oxford-economics-productivity/) : dans la majorite des cas, l'IA ne remplace personne. Elle sert d'alibi a une restructuration classique.
