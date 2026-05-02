@@ -7,6 +7,8 @@ category: "metiers-ia"
 tags: ["journaliste IA", "métier journaliste intelligence artificielle"]
 keywords: "journaliste IA, métier journaliste intelligence artificielle"
 draft: false
+image: "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Journaliste devant un ordinateur, salle de presse"
 ---
 
 ---
