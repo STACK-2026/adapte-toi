@@ -7,6 +7,8 @@ category: "formation"
 tags: ["formation IA payante", "comparatif formation IA"]
 keywords: "formation IA payante, comparatif formation IA"
 draft: false
+image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Etudiant prenant des notes lors d'une formation"
 ---
 
 ---
