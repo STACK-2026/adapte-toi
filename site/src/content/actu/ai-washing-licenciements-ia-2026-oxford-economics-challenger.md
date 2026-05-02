@@ -2,7 +2,7 @@
 title: "AI washing 2026 : pourquoi les entreprises t'enfument quand elles licencient au nom de l'IA"
 description: "Oxford Economics et Challenger Gray demontent le narratif des licenciements IA en 2026 : 27 645 suppressions imputees a l'IA au T1 aux Etats-Unis, mais 39% des dirigeants licencient en anticipation, pas en realite. Decryptage adapte-toi."
 date: 2026-05-02
-category: "decryptage"
+category: "etude"
 impactLevel: 4
 author: "Léa Moreau"
 keyQuote:
