@@ -1,6 +1,5 @@
 {
   "seen_urls": [
-    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZDhtLW5sLVFjeDVONTNxMk1HdUFSMFh6LW9ObU5TTTJfeHBncElISTNjbnMya0gxUXo4QjY4d09sdlhHTC0zSmZRdTgzVHZLT1dSVzNUOV9YekRtNmNDNHNOZTBWS2lqdzlGSkEtRFRqWTFLR1JBVXI2dDFNZ05iRC0weFRMMlRYbWpibTBRVTVMZHk4TjY4MC1uYUJFNXpMejJPYTl0Umk0WFVPODZ0T00yZDlWNkVpLVlTQWZ5LUNVSTQ",
     "https://www.reddit.com/r/LocalLLaMA/comments/1sqhfjr/local_llm_setup_for_coding_pair_programming_style",
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qbVNLZ3MzRU1WRXJsWXRzWXVzdlE4M2k3Ymt0ZW5TcDBGa19mUE53ekxhVTV0UWxYUGpwYTNBdnVFZk94YzRhNGZLVG5yVHc1d3VnejVrcmxpX3pucEHSAWNBVV95cUxOcGlKYlY5TjFxR3cxU3JEcHNFd3BFbnFHNGdnZkw5WTkxajZkNkR2b2Yyekk4WHRPOEkycVVVakRkcjE5M1ltc1pRTmpic3ZKbVp1SE95UmR0V1F6VDBLS2I3eVE",
     "https://www.lemonde.fr/economie/article/2026/04/16/le-plan-de-relance-de-kering-peine-a-convaincre_6680569_3234.html",
@@ -4999,7 +4998,8 @@
     "https://next.ink/brief_article/les-effets-de-lia-sur-lemploi-sont-exageres-par-les-entreprises-selon-oxford-economics/",
     "https://www.challengergray.com/blog/challenger-report-march-cuts-rise-25-from-february-ai-leads-reasons/",
     "https://fortune.com/2026/05/03/chinese-court-layoffs-workers-ai-replacement-labor-market/",
-    "https://www.rts.ch/info/economie/2026/article/meta-va-licencier-8000-employes-pour-compenser-ses-investissements-dans-l-ia-29221254.html"
+    "https://www.rts.ch/info/economie/2026/article/meta-va-licencier-8000-employes-pour-compenser-ses-investissements-dans-l-ia-29221254.html",
+    "https://www.gartner.com/en/newsroom/press-releases/2026-05-05-gartner-says-autonomous-business-and-artificial-intelligence-layoffs-may-create-budget-room-but-do-not-deliver-returns"
   ],
   "seen_hashes": [
     "9f4ab50144c2415f",
@@ -10023,6 +10023,7 @@
     "gemini-20-debarque-google-lance-lere-des-agents-ia-qui-vont-te-remplacer-ou-taid",
     "lia-en-entreprise-le-vrai-bilan-des-suppressions-demplois-en-2026",
     "5-millions-demplois-menaces-par-lia-en-france-le-vrai-decryptage-des-chiffres-qu",
-    "meta-8000-licenciements-mai-2026-pari-ia-zuckerberg-decrypte"
+    "meta-8000-licenciements-mai-2026-pari-ia-zuckerberg-decrypte",
+    "gartner-mai-2026-licenciements-ia-pas-de-roi-decryptage"
   ]
 }
