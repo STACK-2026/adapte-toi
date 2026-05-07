@@ -53,4 +53,4 @@ jobs:
         if: failure()
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-        run: python blog-auto/alert_cron_failure.py "${{ github.workflow }}" "${{ github.run_id }}"
+        run: python3 blog-auto/alert_cron_failure.py "${{ github.workflow }}" "${{ github.run_id }}"

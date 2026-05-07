@@ -2,7 +2,7 @@
 title: "PayPal vire 4760 personnes pour faire de l'IA : ce que ca change pour ton job dans la fintech en France"
 description: "Le 5 mai 2026, PayPal annonce 4 760 suppressions de postes (20 pour cent des effectifs) pour financer un pari IA de 1,5 milliard de dollars. Decryptage adapte-toi : ce que la decision dit du marche fintech, des metiers a risque et de tes leviers en France."
 date: 2026-05-07
-category: "licenciements"
+category: "etude"
 impactLevel: 5
 author: "Léa Moreau"
 keyQuote:
