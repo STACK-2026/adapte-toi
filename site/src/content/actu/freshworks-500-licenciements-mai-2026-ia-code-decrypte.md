@@ -1,8 +1,8 @@
 ---
 title: "Freshworks licencie 500 personnes : 'plus de la moitié de notre code est écrit par l'IA', dit le CEO"
-description: "Le 6 mai 2026, Freshworks supprime 500 postes (11% des effectifs) malgré une croissance Q1 de 16%. Dennis Woodside lie ouvertement les coupes au code IA et à l'automatisation des tâches répétitives. Décryptage adapte-toi pour les ingénieurs et fonctions tech en France."
+description: "Le 6 mai 2026, Freshworks supprime 500 postes (11% des effectifs) malgré +16% Q1. Le CEO lie les coupes au code IA. Décryptage adapte-toi pour les ingénieurs en France."
 date: 2026-05-08
-category: "actu"
+category: "etude"
 impactLevel: 4
 author: "Léa Moreau"
 keyQuote:
