@@ -28,7 +28,15 @@ jobs:
           echo "$(date -u +%Y-%m-%dT%H:%M:%SZ)" > site/public/.rebuild-marker
           git add site/public/.rebuild-marker
           git diff --cached --quiet || git commit -m "rebuild: daily guard $(date -u +%Y-%m-%d)"
-          git push origin main
+          # Resist concurrent pushes: rebase on remote, retry up to 3 times.
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin main || true
+            if git push; then exit 0; fi
+            echo "push attempt $i failed, retrying..."
+            sleep 3
+          done
+          echo "push failed after 3 attempts" >&2
+          exit 1
 
       - name: Alert on failure
         if: failure()
