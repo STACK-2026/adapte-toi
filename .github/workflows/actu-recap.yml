@@ -30,12 +30,6 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Random delay
-        run: |
-          SLEEP=$((RANDOM % 2700))
-          echo "Sleeping ${SLEEP}s"
-          sleep $SLEEP
-
       - name: Run recap
         run: |
           cd blog-auto

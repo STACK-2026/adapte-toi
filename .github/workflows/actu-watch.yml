@@ -63,12 +63,6 @@ jobs:
       - name: Install dependencies
         run: pip install -r blog-auto/requirements.txt
 
-      - name: Random delay (avoid cron hour signal)
-        run: |
-          SLEEP=$((RANDOM % 5400))
-          echo "Sleeping ${SLEEP}s before run"
-          sleep $SLEEP
-
       - name: Run actu_watch (Mistral by default, Claude fallback)
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
