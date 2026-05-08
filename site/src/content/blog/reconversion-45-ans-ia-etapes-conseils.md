@@ -9,8 +9,6 @@ keywords: "reconversion 45 ans IA, reconversion senior IA"
 draft: false
 ---
 
-# Reconversion à 45 ans avec l'IA : ton expérience est ton superpouvoir (pas ton frein)
-
 <aside data-speakable="true" class="tldr" style="background:#f5f5f5;padding:16px;border-left:4px solid #6b46c1;margin:20px 0;"><strong>En bref :</strong> À 45 ans, ta <strong>reconversion 45 ans IA</strong> n'est pas un risque, mais une opportunité stratégique. Selon McKinsey, les profils expérimentés maîtrisant l'IA gagnent 25% de plus que les juniors. Cet article te donne des roadmaps concrètes pour 3 profils types, les salaires réels en 2026, et un plan d'action pour financer ta formation sans tout quitter. Ton âge ? Un atout que les 25 ans n'auront jamais.</aside>
 
 ![Cadre 45 ans analysant une roadmap de reconversion IA sur un écran holographique](IMAGE_1)

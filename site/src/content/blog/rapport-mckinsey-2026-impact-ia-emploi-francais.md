@@ -9,8 +9,6 @@ keywords: "étude McKinsey IA emploi, rapport IA France"
 draft: false
 ---
 
-# Rapport McKinsey 2026 : L'IA va-t-elle détruire ton emploi ? La vérité sans filtre
-
 <aside data-speakable="true" class="tldr" style="background:#f5f5f5;padding:16px;border-left:4px solid #6b46c1;margin:20px 0;">
 <strong>En bref :</strong> Le rapport McKinsey 2026 confirme que <strong>30% des heures travaillées en France</strong> pourraient être automatisées par l'IA d'ici 2030. Les métiers des centres d'appels (-67%), de la rédaction (-53%) et du conseil (-48%) sont les plus menacés. Mais l'IA crée aussi des opportunités : +25% de salaire pour les profils "IA-ready", et des métiers inédits émergent. Adapte-toi te donne le décryptage complet et un plan d'action concret pour transformer cette révolution en opportunité.
 </aside>

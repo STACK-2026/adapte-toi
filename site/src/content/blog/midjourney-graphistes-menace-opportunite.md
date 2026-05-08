@@ -9,8 +9,6 @@ keywords: "Midjourney graphiste, IA graphisme, outils IA design"
 draft: false
 ---
 
-# Midjourney pour graphistes : Menace ou opportunité en 2026 ?
-
 <aside data-speakable="true" class="tldr" style="background:#f5f5f5;padding:16px;border-left:4px solid #6b46c1;margin:20px 0;">
 <strong>En bref :</strong> L'arrivée de <strong>Midjourney pour les graphistes</strong> divise la profession. Selon l'OCDE, 42% des tâches créatives pourraient être automatisées d'ici 2028. Pourtant, les graphistes qui maîtrisent l'IA voient leurs revenus augmenter de 25% (PwC). Adapte-toi analyse les chiffres, les compétences clés et te propose un plan d'action concret pour transformer cette révolution en opportunité.
 </aside>
