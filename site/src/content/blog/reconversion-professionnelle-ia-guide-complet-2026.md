@@ -31,8 +31,6 @@ La **reconversion professionnelle IA** n'est plus une option, c'est une nécessi
 
 Selon [l'OCDE](https://www.oecd.org/employment-outlook/), 27% des emplois français (soit plus de 4 millions de postes) sont exposés à un risque d'automatisation élevé. Les chiffres officiels de [l'INSEE](https://www.insee.fr/fr/statistiques) et les projections publiées par [France Stratégie](https://www.stratégie.gouv.fr/publications) convergent : d'après McKinsey, 30% des heures travaillées pourraient être automatisées d'ici 2030. Les [statistiques France Travail](https://www.francetravail.org/statistiques-analyses/) confirment la recomposition accéléré des besoins de main-d'oeuvre, avec des tensions inedites sur les métiers hybrides.
 
-![Graphique impact IA emplois France statistiques reconversion professionnelle](IMAGE_1)
-
 La reconversion professionnelle (aussi appelée transition de carrière) désigne le processus par lequel un travailleur change de métier, de secteur ou de fonction pour s'adapter aux évolutions technologiques et économiques. Face à l'IA, elle devient un mécanisme de survie professionnelle.
 
 L'étude Ipsos révèle que 47% des actifs français envisagent déjà une reconversion. Mais attention : envisager ne suffit plus. Les premiers touchés sont déjà en reconversion forcée, comme le prouvent les -67% d'offres d'emploi dans les centres d'appels selon l'étude Anthropic de mars 2026.
@@ -94,8 +92,6 @@ Ceux qui maîtrisent IA + expertise humaine :
 - **Architecte d'intérieur IA** : 40k-70k€
 
 Consulte notre [section métiers](/metiers/) pour des fiches détaillées avec salaires et formations par poste. Les plus consultees cette semaine : [developpeur IA](/metiers/developpeur-ia), [data analyst IA](/metiers/data-analyst-ia), [chef de projet IA](/metiers/chef-de-projet-ia), [consultant IA](/metiers/consultant-ia), [commercial IA](/metiers/commercial-ia), [marketing IA](/metiers/marketing-ia) et [RH recruteur IA](/metiers/rh-recruteur-ia). Les profils plus sensibles, comme [copywriter](/metiers/copywriter-ia), [traducteur](/metiers/traducteur-ia), [photographe](/metiers/photographe-ia) ou [comptable](/metiers/comptable-ia), trouveront dans leurs fiches dediees une cartographie des passerelles viables.
-
-![Métiers avenir IA 2026 salaires formation reconversion professionnelle](IMAGE_2)
 
 ## Plan d'action pour une reconversion réussie
 
@@ -166,8 +162,6 @@ Chaque région propose des aides spécifiques :
 **Income Share Agreements** : tu paies après avoir trouvé un emploi. Lambda School France lance en juin 2026.
 
 **Prêts formation à taux zéro** : partenariat BPI/gouvernement pour les reconversions IA (3% d'intérêt maximum).
-
-![Financement formation IA reconversion CPF aides 2026 budget](IMAGE_3)
 
 ## Les compétences IA indispensables
 

@@ -32,8 +32,6 @@ Voici ce que tu dois savoir d'emblée : selon PwC, les collaborateurs qui maîtr
 
 On corrige ça maintenant.
 
-![Grille complète salaires métiers intelligence artificielle France 2026](IMAGE_1)
-
 ---
 
 ## Grille complète des salaires IA en France (2026) : du junior à l'expert {#grille-complete}
@@ -107,8 +105,6 @@ Un ML Engineer senior salarié à 90 000 € brut annuel touche environ **5 800 
 Mais attention : 180 jours facturés, c'est le niveau d'un freelance avec un réseau solide et une réputation établie. En débutant, compte plutôt 100 à 130 jours la première année. Le freelancing en IA est attractif, mais il ne s'improvise pas.
 
 Les profils LLM et NLP ont actuellement les TJM les plus dynamiques du marché tech, portés par l'explosion de la demande en agents IA et RAG (Retrieval-Augmented Generation).
-
-![Comparaison TJM freelance IA versus salaire salarié en France 2026](IMAGE_2)
 
 ---
 
@@ -253,8 +249,6 @@ La bonne nouvelle : avec un portfolio solide (projets GitHub documentés, contri
 L'OCDE estime que 27% des emplois français, soit plus de 4 millions de postes, sont exposés à un risque d'automatisation élevé. La reconversion vers l'IA est une stratégie solide - à condition de viser les bons créneaux.
 
 > **Consulte aussi** : notre [guide complet sur la reconversion professionnelle à l'ère de l'IA](/guides/reconversion-professionnelle-ia) pour structurer ton parcours.
-
-![Salaires métiers IA France comparaison junior senior freelance 2026](IMAGE_3)
 
 ---
 

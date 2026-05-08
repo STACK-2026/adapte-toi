@@ -29,8 +29,6 @@ Les **métiers menacés par l'intelligence artificielle** représentent aujourd'
 
 Cette transformation ne touche plus seulement les tâches répétitives. L'IA générative s'attaque désormais aux métiers intellectuels, créatifs et relationnels. McKinsey estime que 30% des heures travaillées pourraient être automatisées d'ici 2030.
 
-![Graphique évolution métiers menacés IA 2024-2026 statistiques Anthropic](IMAGE_1)
-
 Voici le classement des 15 professions les plus à risque basé sur les données consolidées d'Anthropic, McKinsey et l'OCDE :
 
 | Rang | Métier | Baisse prévue | Source |
@@ -93,8 +91,6 @@ La baisse de 48% des offres pour les chefs de projet digitaux révèle une autom
 
 Les chefs de projet qui s'en sortent développent des compétences en conduite du changement et gestion des parties prenantes. L'humain reste indispensable pour négocier, motiver et résoudre les conflits.
 
-![Dashboard IA gestion projet automatisation tâches chef projet](IMAGE_2)
-
 ## Finance et comptabilité automatisées
 
 45% de baisse pour les comptables junior d'après McKinsey. L'automatisation frappe de plein fouet :
@@ -151,8 +147,6 @@ Développe ton expertise sur les tâches à forte valeur ajoutée : stratégie, 
 
 **3. La reconversion anticipée**
 47% des actifs français envisagent une reconversion selon Ipsos. Mieux vaut anticiper que subir.
-
-![Professionnel formation IA reconversion métiers futur compétences](IMAGE_3)
 
 **Secteurs qui recrutent massivement :**
 - Cybersécurité (+85% LinkedIn 2024-2026)

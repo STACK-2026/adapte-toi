@@ -32,8 +32,6 @@ Le marche des formations IA payantes explose - et avec lui, le nombre d'arnaques
 
 Chez Adapte-toi, on n'a rien a vendre. Aucune formation maison, aucun partenariat commercial. Ce comparatif existe pour une seule raison : te donner les informations reelles pour choisir une formation IA payante qui te fasse progresser, pas juste t'alleger le portefeuille.
 
-![Comparatif 2026 des meilleures formations IA payantes pour professionnels](IMAGE_1)
-
 ---
 
 ## Tableau comparatif 2026 : 8 formations IA payantes passees au crible {#tableau-comparatif}
@@ -116,8 +114,6 @@ Tu es deja en poste, tu veux comprendre l'IA pour mieux manager, mieux decider, 
 > **Consulte notre [guide complet sur la reconversion IA](/guides/reconversion-professionnelle-ia) pour savoir quelle direction prendre avant de choisir une formation.**
 
 ---
-
-![Infographie objectifs formations IA payantes 2026 par profil professionnel](IMAGE_2)
 
 ---
 
@@ -304,8 +300,6 @@ Des "formateurs IA" vendent 300 EUR une selection de tutoriels qui existent grat
 Le label Qualiopi est delivre par des organismes accredites par l'Etat. Il garantit la qualite du processus pedagogique. Ce n'est pas une garantie absolue, mais c'est un minimum. Une formation IA payante sans Qualiopi ne peut pas etre financee par un OPCO ni par France Travail.
 
 ---
-
-![Pieges formations IA payantes 2026 - checklist avant de signer](IMAGE_3)
 
 ---
 

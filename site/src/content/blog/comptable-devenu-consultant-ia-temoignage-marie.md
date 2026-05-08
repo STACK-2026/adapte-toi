@@ -26,8 +26,6 @@ draft: false
 
 ---
 
-![Marie ancienne comptable reconvertie consultante IA témoignage réel](IMAGE_1)
-
 Ce témoignage de reconversion IA est celui de Marie, 38 ans, ancienne collaboratrice comptable dans un cabinet parisien de taille moyenne. Aujourd'hui, elle facture ses missions en tant que consultante IA indépendante. Ni développeuse, ni data scientist : une professionnelle des chiffres qui a compris avant tout le monde que son secteur allait se transformer, et qui a décidé d'en être l'actrice plutôt que la victime.
 
 Voilà son histoire, sans filtre.
@@ -117,8 +115,6 @@ Quand Marie a commencé à parler de "consultant IA" à ses collègues comptable
 ### La recherche du premier client : le vrai défi
 
 Avoir des compétences ne suffit pas. Avoir un portfolio ne suffit pas. Le premier client de conseil IA est le plus difficile à obtenir. Marie a eu la chance que son cabinet soit son premier terrain d'expérimentation, ce qui lui a donné une crédibilité initiale. Sans cela, elle estime qu'elle aurait mis 6 mois de plus.
-
-![Parcours reconversion comptable vers consultant IA étapes difficultés](IMAGE_2)
 
 ---
 
@@ -253,8 +249,6 @@ Des organismes comme l'Afpa proposent des parcours IA accessibles aux profils no
 - Les forums thématiques : des sous-reddits francophones aux Discord spécialisés
 
 Consulte notre [fiche métier consultant IA](/metiers/consultant-ia) pour une description détaillée du poste, des compétences requises et des fourchettes de salaire à jour.
-
-![Plan action reconversion IA profil non-technique étapes concrètes](IMAGE_3)
 
 ---
 

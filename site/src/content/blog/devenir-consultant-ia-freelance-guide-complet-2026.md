@@ -27,8 +27,6 @@ draft: false
 
 ---
 
-![Freelance IA en France 2026 guide complet consultant indépendant intelligence artificielle](IMAGE_1)
-
 Le mot "freelance IA" est partout. Sur LinkedIn, dans les newsletters, dans les titres putaclics promettant 15 000 euros par mois en télétravail depuis Bali. La réalité est plus nuancée, et c'est exactement ce qu'on va te raconter ici.
 
 Ce guide s'adresse à toi si tu envisages de te lancer comme **consultant IA freelance** en 2026 : profil tech ou non-tech, débutant ou en reconversion, sans réseau client ni portfolio. On va tout poser à plat : les chiffres réels, les métiers qui recrutent, ce qui ne marche pas, et un plan d'action concret.
@@ -119,8 +117,6 @@ Voici le tableau de référence pour te positionner. Données issues des platefo
 - "Consultant IA généraliste" sans verticale métier : tu seras en concurrence avec tout le monde
 
 **Le bon positionnement** : combine un métier de la liste ci-dessus avec une verticale sectorielle (santé, finance, RH, marketing). "Consultant IA transformation pour directions RH" est 10 fois plus vendable que "consultant IA".
-
-![Tableau comparatif métiers freelance IA TJM compétences profils France 2026](IMAGE_2)
 
 ### Focus : l'architecte LLM, le métier le plus demandé
 
@@ -230,8 +226,6 @@ C'est la question que tout le monde pose et à laquelle personne ne répond vrai
 **Les ESN (ex-SSII)** : même logique. Beaucoup ont des demandes IA qu'elles ne peuvent pas servir faute de profils internes. Ils ont des processus de référencement freelance : consulte leur site carrières ou appelle directement leur direction des achats.
 
 **Les réseaux sectoriels** : si tu te positionnes sur la santé, rejoins les associations professionnelles du secteur. Les décideurs de ces organisations sont tes futurs clients, et ils se font confiance entre eux. Un recommandé vaut dix candidatures à froid.
-
-![Stratégie acquisition clients freelance IA France LinkedIn Malt Upwork 2026](IMAGE_3)
 
 ### Ce qui ne fonctionne pas (et que tout le monde essaie quand même)
 

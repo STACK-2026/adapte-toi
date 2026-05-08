@@ -25,8 +25,6 @@ draft: false
 
 **ChatGPT pour les RH** révolutionne la gestion des ressources humaines en 2026. Selon l'étude Deloitte, 78% des services RH utilisent déjà des **outils IA par métier** pour optimiser leurs processus. Les **IA ressources humaines** permettent de gagner 12 heures par semaine selon PwC, soit l'équivalent d'1,5 jour de travail.
 
-![ChatGPT interface RH dashboard avec statistiques et analytics](IMAGE_1)
-
 **L'intelligence artificielle en RH** ne remplace pas l'humain, elle l'augmente. D'après le baromètre Lefebvre Dalloz 2026, 89% des DRH qui utilisent ChatGPT déclarent avoir plus de temps pour les missions à forte valeur ajoutée : stratégie, accompagnement des équipes, développement des talents.
 
 Les chiffres parlent d'eux-mêmes :
@@ -89,8 +87,6 @@ ChatGPT analyse les compétences actuelles et les objectifs pour créer un plan 
 ### Génération de contenus pédagogiques
 
 L'IA produit des quiz, cas pratiques et supports de formation en quelques minutes. La DRH de BNP Paribas économise 25 heures par mois sur la création de contenu.
-
-![Formation IA personnalisée avec modules adaptatifs et tracking progrès](IMAGE_2)
 
 ### Coaching et accompagnement automatisé
 
@@ -167,8 +163,6 @@ L'IA analyse 15 variables (ancienneté, évaluations, formations suivies, mobili
 - Score satisfaction manager
 - Participation événements entreprise
 - Évolution salaire vs marché
-
-![Dashboard analytics RH avec prédictions turnover et recommandations](IMAGE_3)
 
 ### Optimisation des parcours de carrière
 

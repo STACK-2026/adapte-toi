@@ -13,8 +13,6 @@ draft: false
 <strong>En bref :</strong> L'arrivée de <strong>Midjourney pour les graphistes</strong> divise la profession. Selon l'OCDE, 42% des tâches créatives pourraient être automatisées d'ici 2028. Pourtant, les graphistes qui maîtrisent l'IA voient leurs revenus augmenter de 25% (PwC). Adapte-toi analyse les chiffres, les compétences clés et te propose un plan d'action concret pour transformer cette révolution en opportunité.
 </aside>
 
-![Graphiste devant un écran affichant des créations Midjourney avec outils de design](IMAGE_1)
-
 ## Sommaire
 - [Midjourney et l'IA : La fin des graphistes ou une nouvelle ère créative ?](#midjourney-et-lia-la-fin-des-graphistes-ou-une-nouvelle-ere-creative)
 - [État des lieux du marché : Ce que révèlent les chiffres de France Travail et de l'APEC](#etat-des-lieux-du-marche-ce-que-revelent-les-chiffres-de-france-travail-et-de-lapec)
@@ -97,8 +95,6 @@ Tous les graphistes ne sont pas égaux face à Midjourney. Adapte-toi a analysé
    - Pourquoi valorisé ? Les entreprises ont besoin d'experts pour naviguer dans le flou juridique actuel
 
 Cette segmentation rappelle celle observée dans d'autres secteurs impactés par l'IA. Comme l'explique notre guide sur [l'avocat vs IA](/blog/avocat-vs-ia-comment-adapter-rester-competitif/), les professionnels qui ajoutent une couche stratégique à leur expertise technique s'en sortent mieux.
-
-![Interface de Midjourney avec exemples de prompts professionnels pour graphistes](IMAGE_2)
 
 ---
 
@@ -303,8 +299,6 @@ Tu as compris les enjeux, identifié les compétences à acquérir. Maintenant, 
    - Tutoriels YouTube "Midjourney pour les graphistes"
 
 Cette approche de reconversion professionnelle s'inspire des méthodes développées dans notre guide sur [l'architecte face à l'IA générative](/blog/architecte-ia-generative-revolution-secteur/).
-
-![Workspace moderne avec outils de design IA et créations hybrides humain-machine](IMAGE_3)
 
 ---
 

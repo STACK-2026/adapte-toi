@@ -13,8 +13,6 @@ draft: false
 <strong>En bref :</strong> Ton <strong>CPF formation IA</strong> peut financer ta reconversion vers les métiers de l'IA - mais attention aux pièges. Selon l'OCDE, 27% des emplois français sont menacés par l'automatisation. Ce guide Adapte-toi te montre comment choisir une formation adaptée à ton profil, analyser 5 programmes éligibles CPF, et maximiser ton budget (jusqu'à +25% de salaire selon PwC). Avec des aides complémentaires comme celles de France Travail, tu peux te former sans dépenser un centime.
 </aside>
 
-![Femme consultant une formation IA éligible CPF sur ordinateur](IMAGE_1)
-
 Tu as entendu parler des promesses de l'IA : salaires boostés, métiers d'avenir, reconversion express. Mais entre les formations à 8000€ et les arnaques aux CPF, comment t'y retrouver ? Chez Adapte-toi, on te donne les clés pour utiliser ton **CPF formation IA** intelligemment - sans bullshit ni fausses promesses.
 
 ## L'IA va-t-elle vraiment tuer ton job ? Ce que disent les chiffres
@@ -145,8 +143,6 @@ Notre [parcours de reconversion développeur vers expert IA](/blog/developpeur-e
 
 ## Les 3 niveaux de compétences en IA : Où en es-tu ?
 
-![Pyramide des compétences IA avec 3 niveaux : Utiliser, Piloter, Créer](IMAGE_2)
-
 ### Niveau 1 : UTILISER (Outils no-code)
 
 **Compétences visées** :
@@ -272,8 +268,6 @@ Certaines fondations financent les formations tech :
 > **Conseil pratique** : Cumule les aides ! Notre record : Thomas a financé sa formation Data Scientist (8000€) avec **0€ de reste à charge** en combinant CPF (5000€) + AIF (2000€) + aide régionale (1000€).
 
 Pour savoir comment [créer ton business plan si tu vises le freelancing](/blog/business-plan-consultant-ia-freelance-modele-gratuit/), consulte notre guide complet.
-
-![Homme analysant ses options de financement pour une formation IA sur tablette](IMAGE_3)
 
 ## L'impact réel de l'IA sur ton salaire : les chiffres que personne ne dit
 

@@ -41,8 +41,6 @@ La distinction posée par IBM est utile ici : le *développeur IA* code les pipe
 
 Selon LinkedIn, les offres d'emploi estampillées "IA" ont progressé de **270% entre 2019 et 2024** en France. D'après France Travail (BMO 2025), les profils IA/data figurent parmi les métiers les plus en tension. La demande dépasse structurellement l'offre de candidats qualifiés.
 
-![Développeur expert IA travaillant sur un pipeline machine learning en 2026](IMAGE_1)
-
 > **Définition encyclopédique** : Le développeur expert IA désigne tout professionnel chargé de concevoir des systèmes d'apprentissage automatique (machine learning), de traitement du langage naturel (NLP), de vision par ordinateur ou d'IA générative, et de les déployer dans des environnements de production à l'échelle industrielle.
 
 ---
@@ -125,8 +123,6 @@ Tu connais les données, SQL, parfois Python. Tu dois acquérir les concepts de 
 
 **3. Les profils non-tech (marketing, finance, RH)**
 La reconversion est possible mais exige de partir de zéro sur la partie technique. Délai réaliste : 18 à 30 mois. Il faut d'abord apprendre à coder (Python), puis les maths (algèbre linéaire, probabilités), puis le ML. C'est un engagement majeur.
-
-![Parcours de reconversion développeur IA formations certifiantes et compétences requises](IMAGE_2)
 
 ### Formations certifiantes vs diplômantes : que choisir ?
 
@@ -233,8 +229,6 @@ Le "développeur IA" n'est pas un métier monolithique. En 2026, il se décline 
 - Barrière à l'entrée : la plus haute. Doctorat souvent attendu
 
 > **Pour aller plus loin sur les métiers IA, consulte notre [fiche métier MLOps Engineer](/metiers/mlops-engineer) et notre [fiche Data Scientist vs AI Engineer](/metiers/data-scientist-vs-ai-engineer).**
-
-![Cartographie des spécialisations développeur IA NLP MLOps générative computer vision](IMAGE_3)
 
 ---
 

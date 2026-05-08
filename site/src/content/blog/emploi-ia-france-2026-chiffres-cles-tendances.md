@@ -47,8 +47,6 @@ L'etude Anthropic de mars 2026 apporte l'eclairage le plus precis a date : les o
 
 Mais l'autre face du tableau existe aussi. D'apres le WEF, pour chaque emploi detruit, l'IA en cree entre 1,3 et 1,7 nouveaux. Le solde est potentiellement positif - a condition d'avoir les bonnes competences.
 
-![Graphique croissance offres emploi IA France 2019 2026 marche travail](IMAGE_1)
-
 ---
 
 ## Les 3 grandes familles de metiers IA en 2026 {#familles}
@@ -110,8 +108,6 @@ Consulte notre [guide complet du chef de projet IA](/metiers/chef-de-projet-ia) 
 ## Salaires IA en France : la vraie grille 2026 {#salaires}
 
 Les promesses de salaires font vendre des formations. On va faire autrement : donnees brutes, sources nommees, distinctions claires.
-
-![Tableau salaires metiers IA France 2026 CDI freelance Paris regions](IMAGE_2)
 
 ### CDI vs Freelance : une difference qui compte
 
@@ -230,8 +226,6 @@ Retrouve notre [guide complet sur l'IA pour les metiers RH](/guides/ia-metiers-r
 ## Se former a l'IA en 2026 : formations utiles vs formations bullshit {#formation}
 
 Le marche de la formation IA est devenu un terrain de chasse. Certains organismes facturent 8 000 EUR pour ce que Google propose gratuitement. On va etre direct.
-
-![Formation IA 2026 certifications gratuites payantes comparaison France](IMAGE_3)
 
 ### Les formations gratuites qui valent vraiment quelque chose
 

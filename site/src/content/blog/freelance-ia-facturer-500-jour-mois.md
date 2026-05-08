@@ -63,8 +63,6 @@ Le TJM d'un freelance IA varie énormément selon la spécialisation, l'expérie
 
 Selon les données Malt 2026, les ingénieurs IA facturent en moyenne **22% de plus par jour** que les autres freelances IT. La demande de consultants IA a bondi de **250% entre 2023 et 2026**, ce qui crée une tension sur l'offre favorable aux freelances bien positionnés.
 
-![Grille des TJM freelance IA France 2026 segmentée par métier et expérience](IMAGE_1)
-
 ---
 
 ## Quel tarif fixer quand tu arrives en reconversion ? {#tarif-reconversion}
@@ -190,8 +188,6 @@ Formule : **(Ton TJM x Nombre de jours estimés) x 1.3**
 
 Le coefficient 1.3 couvre les allers-retours client, les imprévus, et la valeur de la certitude que tu offres. Si le client négocie, tu peux descendre à x1.15. En dessous, reviens au TJM.
 
-![Comparaison TJM vs forfait pour consultant IA freelance avantages inconvénients](IMAGE_2)
-
 ---
 
 ## Missions concrètes à 600-1200€/jour : les business cases réels {#missions-concretes}
@@ -289,8 +285,6 @@ Sur 220 jours ouvrés/an :
 - 5-10 jours de "vide" entre deux missions
 
 Résultat réel : **145-160 jours facturés**, et ça sur une bonne année. Les débuts sont plus difficiles : compte 80-100 jours la première année.
-
-![Calcul revenu net freelance IA France simulation micro-entreprise SASU](IMAGE_3)
 
 ---
 

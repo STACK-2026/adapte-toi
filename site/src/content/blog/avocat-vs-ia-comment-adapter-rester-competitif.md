@@ -25,8 +25,6 @@ L'**avocat IA** n'est plus une perspective d'avenir mais une réalité de 2026. 
 
 Le constat d'Adapte-toi, le media indépendant sur la reconversion IA, est sans appel : le métier d'avocat traditionnel disparaît. Pas demain, maintenant. Les cabinets qui refusent cette évolution perdent des parts de marché face à ceux qui intègrent massivement l'IA dans leur process.
 
-![Graphique évolution emploi avocat avec intelligence artificielle jusqu'en 2030](IMAGE_2)
-
 ## Avocat et IA : le choc des chiffres qui dérangent
 
 L'impact de l'IA sur la profession d'avocat dépasse les prévisions les plus pessimistes. D'après l'étude Anthropic de mars 2026, les métiers de conseil juridique subissent une contraction de 34% des offres d'emploi traditionnelles. Cette donnée reflète une réalité que beaucoup d'avocats refusent encore d'admettre.
@@ -121,8 +119,6 @@ Ces avocats développent des compétences adjacentes : psychologie, négociation
 A contrario, l'avocat "traditionnel" qui refuse l'IA disparaît. Celui qui facture ses heures de recherche jurisprudentielle ou de rédaction d'actes standards se fait systématiquement concurrencer par des confrères plus productifs.
 
 Les cabinets généralistes sans positionnement clair souffrent le plus. Ils subissent la pression tarifaire des legaltech ET la concurrence des spécialistes ultra-pointus.
-
-![Avocat spécialisé IA analysant contrats avec algorithmes machine learning](IMAGE_3)
 
 ## Ton salaire d'avocat face à l'IA : hausse ou effondrement ?
 

@@ -32,8 +32,6 @@ Le journaliste IA n'est plus un concept de science-fiction. C'est une réalité 
 
 Cet article, c'est l'analyse que personne d'autre ne te fait : pas de jargon, pas de formation à te vendre, juste les faits, les outils concrets, les témoignages et un plan d'action pour ne pas rater le virage.
 
-![Journaliste utilisant un outil IA en rédaction pour analyser des données](IMAGE_1)
-
 ---
 
 ## L'IA, menace ou opportunité pour les journalistes en 2026 ? {#menace-ou-opportunite}
@@ -125,8 +123,6 @@ Des outils comme **Fact-Check Explorer** de Google, **ClaimBuster** ou les assis
 Générer des variantes de titres, des meta descriptions, des suggestions de mots-clés secondaires, des reformulations pour les réseaux sociaux : toutes ces tâches sont parfaitement adaptées aux LLMs. Le journaliste garde le contrôle éditorial, l'IA gère le formatage de distribution.
 
 **Gain de temps estimé** : 30 à 45 minutes par article sur les tâches de distribution.
-
-![Workflow journaliste IA : transcription, analyse données, veille, fact-checking](IMAGE_2)
 
 > **Consulte notre [guide des outils IA pour les métiers de la communication](/outils/ia-communication) pour des tests approfondis et des avis vérifiés sur chaque outil.**
 
@@ -237,8 +233,6 @@ Comment te positionner sur le marché :
 ### Ce qu'on pense des formations payantes
 
 Les formations du CFPJ, de l'ESJ Pro ou de Sciences Po sur l'IA et le journalisme ont une valeur réelle pour la reconnaissance institutionnelle. Si ta rédaction finance, prends-les. Si tu dois les payer toi-même (500 à 2000 euros), assure-toi qu'elles incluent des cas pratiques sur tes thématiques et des intervenants qui travaillent réellement dans des rédactions, pas uniquement des consultants.
-
-![Plan de formation journaliste IA : compétences data, outils, certifications 2026](IMAGE_3)
 
 ---
 

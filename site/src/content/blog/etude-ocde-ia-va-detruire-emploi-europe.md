@@ -26,8 +26,6 @@ draft: false
 
 ---
 
-![Graphique OCDE impact intelligence artificielle emploi Europe 2023](IMAGE_1)
-
 ## Ce que l'OCDE dit vraiment sur l'IA et l'emploi {#ce-que-locde-dit-vraiment}
 
 L'étude OCDE IA emploi la plus complète à ce jour est le rapport *Perspectives de l'emploi de l'OCDE 2023*, publié par l'Organisation de Coopération et de Développement Économiques sous la direction de son Secrétaire général Mathias Cormann. Sa conclusion principale : **27% des emplois dans les pays de l'OCDE correspondent à des professions fortement exposées au risque d'automatisation**.
@@ -113,8 +111,6 @@ Selon l'étude Anthropic de mars 2026, les baisses d'offres d'emploi les plus sp
 - **Conseil IT** : -34%
 
 Ces chiffres ne viennent pas d'une projection. Ils mesurent des destructions d'offres d'emploi déjà enregistrées. C'est du présent, pas du futur.
-
-![Tableau risques automatisation métiers qualifiés intelligence artificielle 2026](IMAGE_2)
 
 La bonne nouvelle, que l'OCDE souligne aussi : ces mêmes profils qualifiés ont généralement plus de ressources (formation continue, mobilité, réseaux) pour s'adapter. Le risque est réel, la capacité d'adaptation l'est aussi.
 
@@ -202,8 +198,6 @@ Les soft skills ne sont pas un refuge pour ceux qui refusent d'apprendre le num�
 - Leadership dans l'incertitude
 
 Laurent Alexandre, co-auteur du livre *Ne faites plus d'études* (Buchet-Chastel, octobre 2025) avec Olivier Babeau, va plus loin : selon lui, la distinction ne sera pas entre ceux qui "savent l'IA" et les autres, mais entre ceux qui comprennent les limites de l'IA et ceux qui lui font aveuglément confiance.
-
-![Compétences clés protéger carrière face intelligence artificielle OCDE 2026](IMAGE_3)
 
 > Adapte-toi, le média indépendant sur la reconversion à l'ère de l'IA, a compilé un guide complet des compétences à développer selon ton secteur. Consulte notre [guide reconversion professionnelle](/guides/reconversion-professionnelle-ia) pour aller plus loin.
 

@@ -13,8 +13,6 @@ draft: false
 <strong>En bref :</strong> Le rapport McKinsey 2026 confirme que <strong>30% des heures travaillées en France</strong> pourraient être automatisées par l'IA d'ici 2030. Les métiers des centres d'appels (-67%), de la rédaction (-53%) et du conseil (-48%) sont les plus menacés. Mais l'IA crée aussi des opportunités : +25% de salaire pour les profils "IA-ready", et des métiers inédits émergent. Adapte-toi te donne le décryptage complet et un plan d'action concret pour transformer cette révolution en opportunité.
 </aside>
 
-![Graphique montrant la répartition des métiers impactés par l'IA en France selon McKinsey 2026](IMAGE_1)
-
 ## IA et emploi : Ce que le rapport McKinsey 2026 nous dit vraiment (et ce qu'il oublie)
 
 L'**étude McKinsey IA emploi** 2026 sur l'impact de l'intelligence artificielle sur le marché français est tombée comme un coup de massue. **30% des heures travaillées pourraient être automatisées d'ici 2030** selon le McKinsey Global Institute - soit 12 millions d'emplois transformés ou supprimés en France. Mais derrière ces chiffres chocs, que se cache-t-il vraiment ?
@@ -98,8 +96,6 @@ D'après PwC (2025), les profils maîtrisant ces compétences gagnent **25% de p
    - *Ressource* : Guide chef de projet digital IA
 
 *"Ces compétences ne sont pas réservées aux ingénieurs"* rappelle Adapte-toi. **"Un comptable peut devenir consultant IA, un commercial peut se reconvertir en sales ops IA - les parcours sont multiples."**
-
-![Infographie des compétences les plus recherchées en 2026 dans le domaine de l'IA](IMAGE_2)
 
 ### Le plan d'action Adapte-toi pour monter en compétences
 
@@ -232,8 +228,6 @@ Selon l'étude McKinsey IA emploi croisée avec les données PwC 2025 :
    - *Mission* : Concevoir des expériences en réalité virtuelle générées par IA
    - *Salaire* : 55-85k€/an
    - *Outils* : [MidJourney vs autres outils créatifs](/blog/canva-vs-midjourney-quel-outil-ia-creatifs/)
-
-![Schéma des nouveaux métiers émergents liés à l'intelligence artificielle en 2026](IMAGE_3)
 
 ### Comment anticiper les métiers de demain ?
 

@@ -11,8 +11,6 @@ draft: false
 
 <aside data-speakable="true" class="tldr" style="background:#f5f5f5;padding:16px;border-left:4px solid #6b46c1;margin:20px 0;"><strong>En bref :</strong> À 45 ans, ta <strong>reconversion 45 ans IA</strong> n'est pas un risque, mais une opportunité stratégique. Selon McKinsey, les profils expérimentés maîtrisant l'IA gagnent 25% de plus que les juniors. Cet article te donne des roadmaps concrètes pour 3 profils types, les salaires réels en 2026, et un plan d'action pour financer ta formation sans tout quitter. Ton âge ? Un atout que les 25 ans n'auront jamais.</aside>
 
-![Cadre 45 ans analysant une roadmap de reconversion IA sur un écran holographique](IMAGE_1)
-
 ## Reconversion 45 ans IA : oublie tout ce qu'on t'a dit, ton âge est ton meilleur atout
 
 Tu as 45 ans, 20 ans d'expérience, et tu te demandes si l'IA est une opportunité ou une menace pour ta carrière. Spoiler : c'est la meilleure nouvelle depuis ton premier CDI. Selon l'étude Anthropic de mars 2026, 68% des reconversions réussies dans l'IA concernent des profils de 40-55 ans. Pourquoi ? Parce que l'IA a besoin de ce que tu as en abondance : **contexte métier, jugement stratégique, et capacité à gérer des humains** (ce que les algorithmes ne savent toujours pas faire).
@@ -57,8 +55,6 @@ C'est **exactement ce dont l'IA a besoin** : des humains qui savent **traduire l
 > "Un bon consultant IA à 45 ans vaut 10 data scientists à 25 ans. Parce qu'il sait poser les bonnes questions avant même de toucher au clavier." - Cédric Villani, mathématicien et député (2026)
 
 L'exemple type ? [Les consultants SAP qui se reconvertissent vers l'IA](/blog/consultant-sap-vers-expert-ia-parcours-transition/) avec un succès remarquable. Leur connaissance des processus métiers leur donne un avantage énorme sur les profils purement techniques.
-
-![Graphique comparant les salaires avant et après reconversion IA par tranche d'âge](IMAGE_2)
 
 ## Les 3 voies royales de la reconversion 45 ans IA pour les cadres expérimentés (avec roadmaps détaillées)
 
@@ -232,8 +228,6 @@ Source : Enquête Adapte-toi sur 300 reconvertis (2026) + données France Travai
 > "À 45 ans, tu n'es pas en reconversion, tu es en upgrade. Le marché paie pour ton expérience, pas pour tes années d'études. L'IA est juste l'outil qui te permet de facturer ton vrai prix." - Olivier Babeau, économiste (2026)
 
 Les [salaires dans l'IA en France en 2026](/blog/emploi-ia-france-2026-chiffres-cles-tendances/) confirment cette tendance : les profils expérimentés tirent leur épingle du jeu.
-
-![Cadre senior en formation IA présentant un projet à son équipe](IMAGE_3)
 
 ## Le plan d'action concret : formations, financement et CV (étapes par étapes)
 

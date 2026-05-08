@@ -39,8 +39,6 @@ Selon une enquete citee par Hashmeta en 2025, environ 80% des marketeurs interro
 
 > **Claude (definiton fonctionnelle pour le marketing)** : assistant IA d'Anthropic base sur l'architecture Constitutional AI, specialise dans la comprehension de contextes longs, la redaction nuancee et l'analyse de donnees textuelles. Utilise par les marketeurs pour la creation de contenu, la veille concurrentielle, la personnalisation et l'automatisation de reportings.
 
-![Claude AI interface marketing outil IA analyse contenu professionnel](IMAGE_1)
-
 Anthropic, la societe derriere Claude, a ete cofondee par d'anciens chercheurs d'OpenAI (la societe derriere ChatGPT). L'approche est differente : Anthropic met la securite et la fiabilite au centre, ce qui se traduit par un modele moins "complaisant" mais plus fiable sur des taches editoriales sensibles. Pour un marketeur qui signe des contenus sous son propre nom, c'est une difference qui compte.
 
 ---
@@ -125,8 +123,6 @@ Claude gere parfaitement les declinaisons multi-canaux. Un seul article source p
 | Podcast | Script d'intro 2 min | Rythme oral, transitions naturelles |
 
 La cle : fournir a Claude le contenu source une fois, puis demander chaque declinaison en specifiant le canal, l'objectif et le ton. Tu obtiens 5 formats en moins de 20 minutes.
-
-![Workflow creation contenu marketing Claude AI reseaux sociaux blog SEO](IMAGE_2)
 
 ### Contenu long format : rapports, livres blancs, etudes
 
@@ -257,8 +253,6 @@ Claude s'integre via API dans des workflows Zapier ou HubSpot. Exemples d'automa
 Ces automatisations ne remplacent pas le jugement humain. Elles eliminent les taches mecaniques pour que tu te concentres sur la strategie.
 
 Pour aller plus loin sur les outils IA qui s'integrent dans ton workflow, consulte notre [guide des outils IA pour le marketing](/guides/outils-ia-marketing).
-
-![Automatisation marketing Claude AI Zapier HubSpot workflow professionnel](IMAGE_3)
 
 ---
 
