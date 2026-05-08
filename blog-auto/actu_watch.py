@@ -451,8 +451,51 @@ def extract_slug_from_mdx(mdx: str) -> str:
     return slugify(title, 80)
 
 
+_ACTU_CATEGORY_ENUM = {
+    "menace", "etude", "annonce", "politique", "outil", "voix", "chiffre",
+}
+_ACTU_DESC_MAX = 260
+
+
+def _sanitize_actu_frontmatter(mdx: str) -> str:
+    """Clamp description to 260 chars and force category into the enum.
+
+    Astro content schema rejects out-of-bounds values and the whole build
+    fails. Generators occasionally drift (longer descs, off-list cats),
+    so we coerce here rather than fail the whole pipeline.
+    """
+    def _fix_desc(m: re.Match) -> str:
+        desc = m.group(2)
+        if len(desc) <= _ACTU_DESC_MAX:
+            return m.group(0)
+        # truncate at last space before cap, then add a period
+        cut = desc[: _ACTU_DESC_MAX - 1]
+        sp = cut.rfind(" ")
+        if sp > _ACTU_DESC_MAX - 40:
+            cut = cut[:sp]
+        return f'description: {m.group(1)}{cut.rstrip(",;:- ")}{m.group(1)}'
+
+    mdx = re.sub(
+        r'^description:\s*(["\'])(.+?)\1\s*$',
+        _fix_desc, mdx, count=1, flags=re.MULTILINE,
+    )
+
+    def _fix_cat(m: re.Match) -> str:
+        cat = m.group(2)
+        if cat in _ACTU_CATEGORY_ENUM:
+            return m.group(0)
+        return f'category: {m.group(1)}etude{m.group(1)}'
+
+    mdx = re.sub(
+        r'^category:\s*(["\'])(.+?)\1\s*$',
+        _fix_cat, mdx, count=1, flags=re.MULTILINE,
+    )
+    return mdx
+
+
 def write_article(mdx: str, slug: str) -> Path:
     ACTU_DIR.mkdir(parents=True, exist_ok=True)
+    mdx = _sanitize_actu_frontmatter(mdx)
     path = ACTU_DIR / f"{slug}.md"
     # Ne JAMAIS écraser un fichier existant
     i = 2
