@@ -29,6 +29,10 @@ draft: false
 
 ## C'est quoi Make.com ? La définition simple {#cest-quoi-makecom}
 
+![a computer screen with a phone and a tablet](https://images.unsplash.com/photo-1648134859187-71dadc9f815a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Nzg4MzB8MHwxfHNlYXJjaHwyfHx3b3JrZmxvdyUyMGF1dG9tYXRpb24lMjBkYXNoYm9hcmR8ZW58MXwwfHx8MTc3ODYwMDQzOXww&ixlib=rb-4.1.0&q=80&w=1080&w=1200&h=630&fit=crop&q=80)
+*Credit: [Team Nocoloco](https://unsplash.com/@teamnocoloco) via Unsplash*
+
+
 **Make.com (anciennement Integromat) est une plateforme d'automatisation no-code qui permet de connecter différentes applications - Gmail, Slack, Notion, Google Sheets, Airtable - et de créer des workflows automatisés sans écrire une seule ligne de code.** Grâce à son interface visuelle en "bulles" reliées entre elles, tu conçois des scénarios pour que des tâches répétitives s'exécutent automatiquement, à intervalles réguliers ou en réponse à un déclencheur précis.
 
 Concrètement : un client remplit un formulaire sur ton site. Make.com le détecte, envoie un email de bienvenue, crée une ligne dans ton Google Sheets, et notifie ton Slack. Tout ça sans que tu aies levé le petit doigt.
@@ -105,6 +109,10 @@ Pour aller plus loin sur le choix de tes outils IA, consulte notre [guide des ou
 ---
 
 ## 7 automatisations concrètes pour ta carrière et ta productivité {#7-automatisations}
+
+![black laptop computer turned on](https://images.unsplash.com/photo-1483817101829-339b08e8d83f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Nzg4MzB8MHwxfHNlYXJjaHw1fHxuby1jb2RlJTIwcGxhdGZvcm0lMjBpbnRlcmZhY2V8ZW58MXwwfHx8MTc3ODYwMDQzOXww&ixlib=rb-4.1.0&q=80&w=1080&w=1200&h=630&fit=crop&q=80)
+*Credit: [Lewis Kang'ethe Ngugi](https://unsplash.com/@ngeshlew) via Unsplash*
+
 
 **Voici sept cas d'usages réels, testés, utiles dès cette semaine.** Classés du plus simple au plus avancé.
 
@@ -243,6 +251,10 @@ C'est comme ça qu'on apprend. Pas autrement.
 
 ## Make.com, une compétence clé pour ta reconversion {#reconversion}
 
+![Man standing in a cluttered industrial workshop.](https://images.unsplash.com/photo-1764115424737-25aca6f47835?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Nzg4MzB8MHwxfHNlYXJjaHwzfHxidXNpbmVzcyUyMHByb2Nlc3MlMjBhdXRvbWF0aW9ufGVufDF8MHx8fDE3Nzg2MDA0NDB8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&h=630&fit=crop&q=80)
+*Credit: [Zoshua Colah](https://unsplash.com/@zoshuacolah) via Unsplash*
+
+
 **Savoir automatiser avec Make.com est aujourd'hui aussi stratégique pour ta carrière que de savoir utiliser Excel l'était il y a 20 ans.** Et dans 5 ans, ce sera probablement encore plus basique que ça.
 
 Selon Ipsos, 47% des actifs français envisagent une reconversion professionnelle. Selon LinkedIn, les offres mentionnant des compétences IA ont progressé de 270% entre 2019 et 2024. Et selon PwC, les profils capables de travailler avec des outils d'automatisation et d'IA gagnent 25% de plus que la moyenne.
@@ -314,6 +326,15 @@ Selon Cognizant (février 2026), 93% des métiers sont déjà impactés par l'IA
 Commence par un seul scénario. Automatise une seule tâche. Mesure le temps gagné. Puis recommence.
 
 Pour aller plus loin dans ta stratégie de reconversion à l'ère de l'IA, explore les [guides et fiches métier d'Adapte-toi](/guides) - le media francophone indépendant qui dit la vérité sur l'impact de l'IA sur l'emploi.
+
+## Sources et references
+
+- [Make.com - documentation officielle](https://www.make.com/en/help) : 1500+ tutoriels, exemples par module
+- [Make.com pricing & limits 2026](https://www.make.com/en/pricing) : plans, operations, scenarios
+- [State of No-Code 2025 - Zapier report](https://zapier.com/blog/no-code-report/) : 62% des PME utilisent un outil no-code (vs 38% en 2022)
+- [Gartner Hyperautomation forecast](https://www.gartner.com/en/articles/what-is-hyperautomation) : marche $2.4B en 2027 (CAGR 18%)
+- [Make.com community templates](https://www.make.com/en/templates) : 7000+ scenarios pre-faits
+
 
 ---
 
