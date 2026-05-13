@@ -1,5 +1,5 @@
 ---
-title: "Reconversion professionnelle IA 2026 : Guide complet expert"
+title: "Reconversion IA 2026 : 4M emplois menacés, 8 métiers d'avenir, plan 12 mois"
 description: "Reconversion professionnelle IA : 4M+ emplois menacés, 30% des tâches automatisées d'ici 2030. Guide complet avec métiers d'avenir et plan d'action concret."
 date: 2026-04-14
 lastReviewed: 2026-04-14

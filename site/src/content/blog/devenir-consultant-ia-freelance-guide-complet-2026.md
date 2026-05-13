@@ -1,6 +1,6 @@
 ---
-title: "Devenir Freelance IA : Guide Complet 2026 (Zéro Bullshit)"
-description: "Devenir freelance IA en 2026 : TJM réalistes, métiers qui recrutent, plan 90 jours. Guide complet pour profils tech ET non-tech. Données vérifiées."
+title: "Consultant IA freelance 2026 : TJM 450-900€, plan 90 jours, profils tech + non-tech"
+description: "Consultant IA freelance 2026 : TJM 450-900€ réels, 8 métiers qui recrutent, plan 90 jours testé. Profils tech ET non-tech. Données Malt + INSEE."
 date: 2026-04-22
 author: "Camille Renard"
 category: "freelance-ia"
