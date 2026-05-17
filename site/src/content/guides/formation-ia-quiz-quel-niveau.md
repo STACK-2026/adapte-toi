@@ -3,7 +3,7 @@ title: "Quel niveau d'IA as-tu ? Le quiz pour choisir ta formation en 2026"
 description: "Quiz autodiagnostic gratuit : évalue ton niveau IA en 10 questions et reçois un parcours de formation personnalisé. Débutant, intermédiaire, avancé."
 date: 2026-04-26
 lastReviewed: 2026-04-26
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 category: "formation"
 readingTime: "8 min"
 keywords: "quiz niveau ia, evaluer niveau intelligence artificielle, autodiagnostic ia, quel formation ia choisir, debutant intermediaire avance ia"

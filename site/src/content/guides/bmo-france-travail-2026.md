@@ -3,7 +3,7 @@ title: "BMO France Travail 2026 décrypté : top 30 métiers en tension × IA"
 description: "BMO France Travail 2026 décrypté : top 30 métiers en tension croisés avec leur exposition IA. 2.7M projets, secteurs gagnants, données Dares."
 date: 2026-04-26
 lastReviewed: 2026-04-26
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 category: "Baromètre"
 readingTime: "13 min"
 keywords: "bmo france travail 2026, bmo 2026, métiers en tension 2026, besoins en main d'oeuvre 2026, france travail bmo, dares enquête bmo, métiers ia 2026 france"

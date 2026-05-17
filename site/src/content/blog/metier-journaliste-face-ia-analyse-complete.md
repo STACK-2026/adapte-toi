@@ -2,7 +2,7 @@
 title: "Journaliste face à l'IA en 2026 : analyse complète du métier"
 description: "IA et journalisme : menace réelle ou opportunité ? Compétences, outils, salaires, éthique. Analyse complète avec données chiffrées pour les journalistes en 2026"
 date: 2026-04-30
-author: "Camille Renard"
+author: "La Rédaction Adapte-toi"
 category: "metiers-ia"
 tags: ["journaliste IA", "métier journaliste intelligence artificielle"]
 keywords: "journaliste IA, métier journaliste intelligence artificielle"

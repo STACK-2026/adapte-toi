@@ -3,7 +3,7 @@ title: "Alternatives françaises à Perplexity en 2026 : Le Chat Mistral et autr
 description: "Les 5 alternatives françaises à Perplexity en 2026 : Le Chat Mistral, Lumières, Albert, Coqui, Hugging Chat FR. RGPD, prix, qualité, verdict."
 date: 2026-04-26
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "Alternatives FR"
 readingTime: "9 min"
 keywords: "alternative française perplexity, ia recherche française, le chat mistral, alternative perplexity france, ia souveraine france, rgpd ia recherche"

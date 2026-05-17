@@ -2,7 +2,7 @@
 title: "Salaires IA en France 2026 : grille complète par poste"
 description: "Grille complète des salaires IA en France en 2026 : junior, senior, freelance, par ville. Data Scientist, ML Engineer, prompt engineer - toutes les données."
 date: 2026-05-05
-author: "Camille Renard"
+author: "La Rédaction Adapte-toi"
 category: "actu-emploi"
 tags: ["salaire IA France", "rémunération métiers IA"]
 keywords: "salaire IA France, rémunération métiers IA"

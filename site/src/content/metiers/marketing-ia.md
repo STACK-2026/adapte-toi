@@ -7,7 +7,7 @@ riskLevel: "eleve"
 sector: "Marketing et communication"
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "marketing IA 2026, marketeur intelligence artificielle, Surfer SEO, HubSpot AI, salaire marketing IA, reconversion marketing"
 draft: false
 salaryRange:

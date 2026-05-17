@@ -3,7 +3,7 @@ title: "Reconversion professionnelle à l'ère de l'IA : le guide complet 2026"
 description: "Tout comprendre pour te reconvertir face à l'IA. Étapes, financement, métiers porteurs, erreurs à éviter. Guide gratuit."
 date: 2026-04-13
 lastReviewed: 2026-04-13
-author: "Camille Renard"
+author: "La Rédaction Adapte-toi"
 category: "reconversion"
 readingTime: "18 min"
 keywords: "reconversion professionnelle IA, reconversion intelligence artificielle 2026, changer de métier IA, guide reconversion"

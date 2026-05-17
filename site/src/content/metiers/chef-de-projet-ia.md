@@ -7,7 +7,7 @@ riskLevel: "eleve"
 sector: "Management et organisation"
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "chef de projet IA 2026, project manager IA, product manager, Notion AI, salaire chef projet, reconversion management"
 draft: false
 salaryRange:

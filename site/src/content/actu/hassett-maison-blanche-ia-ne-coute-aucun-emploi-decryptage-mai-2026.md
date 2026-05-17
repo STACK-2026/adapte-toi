@@ -4,7 +4,7 @@ description: "Hassett (Maison Blanche) affirme sur CNBC qu'il n'y a 'no sign in 
 date: 2026-05-14
 category: "etude"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "There's no sign in the data that AI is costing anybody their job right now, but we are studying the future of AI and what it means for the workforce, so we've got a big taskforce on that."
   author: "Kevin Hassett"
@@ -57,7 +57,7 @@ relatedOutils:
 keywords: "Hassett IA emplois, Maison Blanche IA chômage, Kevin Hassett NEC IA, Challenger avril 2026 IA, licenciements IA 2026 chiffres, IA détruit emplois ou pas, AI job cuts statistiques, IA emploi France 2026, déni Maison Blanche IA travail"
 schemaFaq: true
 lastReviewed: 2026-05-14
-reviewedBy: "Léa Moreau"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 image: "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Façade de la Maison Blanche au crépuscule, ambiance politique américaine"

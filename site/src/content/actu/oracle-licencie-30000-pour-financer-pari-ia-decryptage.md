@@ -4,7 +4,7 @@ description: "Oracle a annonce fin mars 2026 jusqu'a 30 000 licenciements par e-
 date: 2026-04-30
 category: "menace"
 impactLevel: 5
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 schemaFaq: true
 keyQuote:
   text: "Oracle is racing to build out AI data centers fast enough to service the 300 billion OpenAI contract signed in September, and the math of that contract only works if Oracle cuts deep and spends deeper."
@@ -62,7 +62,7 @@ relatedOutils:
   - "cursor"
 keywords: "Oracle licenciements 2026, Oracle 30000 emplois IA, Stargate OpenAI Oracle 300 milliards, plan social tech IA, licenciements IA avril 2026, Larry Ellison Safra Catz, datacenters IA Oracle, IA emploi France"
 lastReviewed: 2026-04-30
-reviewedBy: "Léa Moreau"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 image: "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Salle serveurs et open space d'entreprise tech"

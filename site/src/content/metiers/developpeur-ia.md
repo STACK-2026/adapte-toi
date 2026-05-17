@@ -7,7 +7,7 @@ riskLevel: "moyen"
 sector: "Tech et développement"
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "developpeur IA 2026, software engineer IA, Cursor Copilot, salaire developpeur IA, vibe coding, IA Engineer, reconversion developpeur"
 draft: false
 salaryRange:

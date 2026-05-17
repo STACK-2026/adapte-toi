@@ -9,7 +9,7 @@ rating: 8.5
 ratingCount: 234
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "GitHub Copilot, GitHub Copilot en français, copilot prix, copilot avis, copilot vs cursor, copilot gratuit, github copilot 2026, AI code assistant"
 draft: false
 pricingPlans:

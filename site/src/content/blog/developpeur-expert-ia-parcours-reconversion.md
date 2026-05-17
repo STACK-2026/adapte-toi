@@ -2,7 +2,7 @@
 title: "Développeur expert IA : reconversion, salaires et parcours"
 description: "De dev à expert IA : salaires réels, compétences clés, spécialisations et témoignages de reconvertis. Le guide sans bullshit pour réussir ta transition en 2026."
 date: 2026-05-06
-author: "Theo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "temoignages"
 tags: ["développeur expert IA", "reconversion développeur IA"]
 keywords: "développeur expert IA, reconversion développeur IA"

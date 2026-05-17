@@ -9,7 +9,7 @@ rating: 9
 ratingCount: 213
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "Midjourney, Midjourney prix, Midjourney avis, Midjourney 2026, Midjourney gratuit, Midjourney vs DALL-E, génération images IA, alternative Midjourney"
 draft: false
 pricingPlans:

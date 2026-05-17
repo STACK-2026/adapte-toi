@@ -2,7 +2,7 @@
 title: "Certification IA : Top 10 des diplômes reconnus en France"
 description: "Comparatif des 10 meilleures certifications IA en France : coût, éligibilité CPF, profil cible. Guide zéro bullshit pour salarié, freelance ou en reconversion."
 date: 2026-05-15
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 category: "formation"
 tags: ["certification IA", "diplôme IA", "formation certifiante IA"]
 keywords: "certification IA, diplôme IA, formation certifiante IA"

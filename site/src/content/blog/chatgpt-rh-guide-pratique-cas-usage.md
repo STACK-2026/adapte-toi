@@ -2,7 +2,7 @@
 title: "ChatGPT pour les RH : Guide pratique et 15 cas d'usage"
 description: "Découvre comment ChatGPT révolutionne les RH : 15 cas d'usage concrets, prompts prêts à l'emploi et retour d'expérience de DRH qui transforment leur métier."
 date: 2026-04-17
-author: "Camille Renard"
+author: "La Rédaction Adapte-toi"
 category: "outils-ia"
 tags: ["outils IA par métier", "ChatGPT RH", "IA ressources humaines"]
 keywords: "outils IA par métier, ChatGPT RH, IA ressources humaines"

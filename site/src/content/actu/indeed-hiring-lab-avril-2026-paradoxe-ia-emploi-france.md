@@ -4,7 +4,7 @@ description: "Le rapport Indeed Hiring Lab France avril 2026 confirme un paradox
 date: 2026-04-29
 category: "chiffre"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Dans ce contexte de contraction globale du marche, les offres mentionnant l'intelligence artificielle suivent une trajectoire inverse : elles progressent, se decorrelant de la tendance generale."
   author: "Indeed Hiring Lab France"
@@ -57,7 +57,7 @@ relatedOutils:
   - "copilot"
 keywords: "Indeed Hiring Lab avril 2026, IA emploi France, offres emploi IA, marche du travail 2026, paradoxe IA France, generation Z IA, OCDE croissance France 2026"
 lastReviewed: 2026-04-29
-reviewedBy: "Léa Moreau"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 ---
 

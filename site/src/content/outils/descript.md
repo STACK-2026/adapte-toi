@@ -9,7 +9,7 @@ rating: 8
 ratingCount: 132
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "Descript, Descript en français, édition vidéo IA, voice cloning, podcast IA, alternative ElevenLabs vidéo"
 draft: false
 pricingPlans:

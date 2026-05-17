@@ -7,7 +7,7 @@ riskLevel: "eleve"
 sector: "Médias et information"
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "journaliste IA 2026, presse intelligence artificielle, Perplexity journaliste, fact-checking IA, salaire journaliste, charte SNJ IA, reconversion journaliste"
 draft: false
 salaryRange:

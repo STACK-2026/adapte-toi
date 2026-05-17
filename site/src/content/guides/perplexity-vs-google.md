@@ -3,7 +3,7 @@ title: "Perplexity vs Google : Google ne suffit plus en 2026 ?"
 description: "Perplexity vs Google : moteur de réponse IA contre moteur de recherche. Test 5 scénarios pro, business models opposés, verdict par métier."
 date: 2026-04-25
 lastReviewed: 2026-04-25
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "Comparateur"
 readingTime: "13 min"
 keywords: "perplexity vs google, perplexity ou google, remplacer google par perplexity, moteur de réponse IA, perplexity ai en français, alternative à google"

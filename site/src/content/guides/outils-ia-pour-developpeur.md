@@ -3,7 +3,7 @@ title: "Outils IA pour développeur en 2026 : top 5 testés (vibe coding)"
 description: "Les 5 meilleurs outils IA pour devs francophones en 2026 : Cursor, GitHub Copilot, Claude Code, ChatGPT, Perplexity. Stack complet, ROI, prompts."
 date: 2026-04-26
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "Outils par métier"
 readingTime: "9 min"
 keywords: "outils ia developpeur, ia code, cursor copilot, claude code, ia python, vibe coding, developpeur ia 2026, stack dev ia"

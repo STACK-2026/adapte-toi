@@ -3,7 +3,7 @@ title: "Automatiser 80% de ton travail avec l'IA : méthode pas à pas"
 description: "Identifie tes tâches automatisables, choisis les bons outils, crée tes premiers workflows. Guide pratique gratuit."
 date: 2026-04-13
 lastReviewed: 2026-04-13
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 category: "outils-ia"
 readingTime: "12 min"
 keywords: "automatiser travail IA, automatisation tâches, Make.com workflow, gagner du temps IA, automatiser sans coder"

@@ -4,7 +4,7 @@ description: "Le géant danois du diabète s'allie à OpenAI pour concevoir des 
 date: 2026-04-21
 category: "outil"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "La biologie humaine est d'une complexité extraordinaire. Un seul programme peut s'étendre sur des années, voire des décennies."
   author: "Fiona Marshall, directrice de la recherche biomédicale chez Novartis"
@@ -40,7 +40,7 @@ relatedOutils:
 imageAlt: "Un scientifique utilise une interface d'IA pour concevoir une molécule pharmaceutique sur un écran holographique."
 keywords: "pharmacie, IA, médicaments, Novo Nordisk, OpenAI, reconversion, biotech, fibrose pulmonaire, Rentosertib, Insilico Medicine"
 lastReviewed: 2026-04-21
-reviewedBy: "Rédaction Adapte-toi"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 ---
 

@@ -6,7 +6,7 @@ import StoryRail from "../components/StoryRail.astro";
 import { storiesForArticle } from "../data/article_videos";
 import { siteConfig } from "../../site.config";
 import { fullUrl } from "../utils/config";
-import { jsonLdArticle, jsonLdBreadcrumbs } from "../utils/seo";
+import { jsonLdNewsArticle, jsonLdBreadcrumbs } from "../utils/seo";
 import { getCollection } from "astro:content";
 
 interface Source {
@@ -101,14 +101,18 @@ const outilsItems = relatedOutils
   .map((id) => allOutils.find((o) => o.id === id))
   .filter(Boolean) as any[];
 
+const lastReviewedStr = lastReviewed ? lastReviewed.toISOString().split("T")[0] : undefined;
+
 const jsonLd = [
-  jsonLdArticle({
+  jsonLdNewsArticle({
     title,
     description,
     url: articleUrl,
     datePublished: dateStr,
+    dateModified: lastReviewedStr,
     image,
     author,
+    section: CATEGORY_LABELS[category] ?? category,
     keywords: keywords?.split(",").map((k) => k.trim()),
   }),
   jsonLdBreadcrumbs(breadcrumbs),

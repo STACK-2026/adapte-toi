@@ -3,7 +3,7 @@ title: "Formation IA OpenClassrooms en 2026 : parcours CPF, RNCP, mentorat"
 description: "OpenClassrooms et l'IA en 2026 : 8 parcours testés (data analyst, AI engineer, prompt engineer), prix CPF, mentorat, reconnaissance RNCP. Le guide complet."
 date: 2026-04-26
 lastReviewed: 2026-04-26
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 category: "formation"
 readingTime: "11 min"
 keywords: "formation ia openclassrooms, openclassrooms ia, openclassrooms cpf ia, parcours data analyst, openclassrooms avis, formation ia rnCP, mentorat ia"

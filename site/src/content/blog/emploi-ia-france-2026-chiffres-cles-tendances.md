@@ -2,7 +2,7 @@
 title: "Emploi IA France 2026 : 4M postes menacés, 78M créés, 8 métiers en tension"
 description: "Marché emploi IA France 2026 : salaires réels, métiers porteurs, reconversions concrètes. Données sourcées, zéro bullshit. 4M+ postes menacés, 78M créés."
 date: 2026-04-20
-author: "Theo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "actu-emploi"
 tags: ["emploi IA 2026", "marché emploi IA France", "recrutement IA"]
 keywords: "emploi IA 2026, marché emploi IA France, recrutement IA"

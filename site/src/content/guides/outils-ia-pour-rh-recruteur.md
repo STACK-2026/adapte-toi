@@ -3,7 +3,7 @@ title: "Outils IA pour RH et recruteur en 2026 : top 5 testés (RGPD inclus)"
 description: "Les 5 meilleurs outils IA pour RH et recruteurs en 2026 : ChatGPT, Claude, HireVue, Lever AI, Notion. Prompts, RGPD candidat, ROI mesuré."
 date: 2026-04-26
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "Outils par métier"
 readingTime: "10 min"
 keywords: "outils ia rh, ia recrutement, chatgpt rh, ia candidat, ats ia, lever ia, recrutement ia france, formation ia rh"

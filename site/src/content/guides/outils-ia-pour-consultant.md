@@ -3,7 +3,7 @@ title: "Outils IA pour consultant en 2026 : top 5 testés (ROI x10)"
 description: "Les 5 meilleurs outils IA pour consultants francophones en 2026 : Claude, ChatGPT, Perplexity, Notion AI, Gamma. Stack, prompts, ROI mesuré."
 date: 2026-04-26
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "Outils par métier"
 readingTime: "8 min"
 keywords: "outils ia consultant, ia conseil, ia consulting, claude consultant, chatgpt consulting, formation ia consultant, freelance consultant ia"

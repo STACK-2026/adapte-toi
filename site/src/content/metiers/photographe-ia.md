@@ -7,7 +7,7 @@ riskLevel: "eleve"
 sector: "Création visuelle"
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "photographe IA 2026, videaste intelligence artificielle, Midjourney photo, photo mariage, corporate, freelance photographe"
 draft: false
 salaryRange:

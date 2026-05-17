@@ -2,7 +2,7 @@
 title: "Consultant IA freelance 2026 : TJM 450-900€, plan 90 jours, profils tech + non-tech"
 description: "Consultant IA freelance 2026 : TJM 450-900€ réels, 8 métiers qui recrutent, plan 90 jours testé. Profils tech ET non-tech. Données Malt + INSEE."
 date: 2026-04-22
-author: "Camille Renard"
+author: "La Rédaction Adapte-toi"
 category: "freelance-ia"
 tags: ["freelance IA", "consultant IA", "devenir freelance IA"]
 keywords: "freelance IA, consultant IA, devenir freelance IA"

@@ -3,7 +3,7 @@ title: "L'IA en Europe : réglementation, emploi et opportunités en 2026"
 description: "EU AI Act, marché de l'emploi IA en Europe, opportunités par pays. Le guide pour comprendre le paysage européen."
 date: 2026-04-13
 lastReviewed: 2026-04-13
-author: "Camille Renard"
+author: "La Rédaction Adapte-toi"
 category: "actu-emploi"
 readingTime: "9 min"
 keywords: "IA Europe, EU AI Act, réglementation IA, emploi IA Europe 2026, marché travail IA européen"

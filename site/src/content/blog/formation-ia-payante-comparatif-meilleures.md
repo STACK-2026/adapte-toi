@@ -2,7 +2,7 @@
 title: "Formation IA payante : comparatif des 8 meilleures en 2026"
 description: "Comparatif 2026 des 8 meilleures formations IA payantes : prix réels, durée, financement CPF, certification. Zéro bullshit, analyse critique par profil."
 date: 2026-05-01
-author: "Theo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "formation"
 tags: ["formation IA payante", "comparatif formation IA"]
 keywords: "formation IA payante, comparatif formation IA"

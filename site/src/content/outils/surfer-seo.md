@@ -9,7 +9,7 @@ rating: 8
 ratingCount: 156
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "Surfer SEO, Surfer en français, optimisation SEO IA, SEO France, Content Editor, ROI SEO"
 draft: false
 pricingPlans:

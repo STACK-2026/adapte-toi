@@ -2,7 +2,7 @@
 title: "Étude OCDE : l'IA va-t-elle détruire l'emploi en Europe ?"
 description: "27% des emplois européens exposés à l'IA selon l'OCDE. Ce que ça veut dire pour toi, quels métiers sont menacés et comment agir dès maintenant."
 date: 2026-05-08
-author: "Camille Renard"
+author: "La Rédaction Adapte-toi"
 category: "etudes-rapports"
 tags: ["étude OCDE IA emploi", "rapport OCDE intelligence artificielle"]
 keywords: "étude OCDE IA emploi, rapport OCDE intelligence artificielle"

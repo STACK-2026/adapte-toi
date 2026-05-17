@@ -4,7 +4,7 @@ description: "L'IA inonde le marché de contenus culturels synthétiques, menaç
 date: 2026-04-24
 category: "menace"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "La culture, c'est ce qui fonde notre humanité, ce qui nous distingue de la machine. Si on perd cette spécificité, à quoi sert alors l'espèce humaine ?"
   author: "Pascal Chind, coprésident de l'association Fabrication Humaine"
@@ -36,7 +36,7 @@ relatedOutils:
 imageAlt: "Illustration d'une main humaine tenant un pinceau face à un écran affichant des œuvres générées par IA"
 keywords: "IA, art, création, culture, artistes, emploi, reconversion, label, Fabrication Humaine, droit d'auteur, automatisation"
 lastReviewed: 2026-04-24
-reviewedBy: "Rédaction Adapte-toi"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 ---
 

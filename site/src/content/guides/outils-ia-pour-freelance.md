@@ -3,7 +3,7 @@ title: "Outils IA pour freelance en 2026 : top 5 testés (ROI x100)"
 description: "Les 5 meilleurs outils IA pour freelances francophones en 2026 : ChatGPT, Claude, Perplexity, Cursor, Notion AI. Stack à 60 euros/mois pour facturer 3x plus."
 date: 2026-04-26
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "Outils par métier"
 readingTime: "9 min"
 keywords: "outils ia freelance, ia indépendant, stack ia freelance, productivité freelance ia, freelance 2026 ia, formation freelance ia"

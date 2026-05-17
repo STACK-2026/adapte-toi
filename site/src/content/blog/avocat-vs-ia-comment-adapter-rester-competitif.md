@@ -2,7 +2,7 @@
 title: "Avocat vs IA : Comment s'adapter et rester compétitif"
 description: ""
 date: 2026-04-27
-author: "Camille Renard"
+author: "La Rédaction Adapte-toi"
 category: "metiers-ia"
 tags: ["avocat IA", "métier avocat intelligence artificielle"]
 keywords: "avocat IA, métier avocat intelligence artificielle"

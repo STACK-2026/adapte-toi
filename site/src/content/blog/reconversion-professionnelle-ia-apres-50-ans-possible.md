@@ -2,7 +2,7 @@
 title: "Reconversion IA après 50 ans : guide complet 2026"
 description: "Reconversion IA 50 ans : métiers accessibles, compétences transférables, formations, témoignages. Le guide zero bullshit pour seniors ambitieux. 3 niveaux d'acc"
 date: 2026-05-13
-author: "Camille Renard"
+author: "La Rédaction Adapte-toi"
 category: "reconversion"
 tags: ["reconversion IA 50 ans", "reconversion senior intelligence artificielle"]
 keywords: "reconversion IA 50 ans, reconversion senior intelligence artificielle"

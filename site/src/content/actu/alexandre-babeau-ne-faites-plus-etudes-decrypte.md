@@ -4,7 +4,7 @@ description: "Décryptage du pavé d'octobre 2025 de Laurent Alexandre et Olivie
 date: 2026-04-15
 category: "voix"
 impactLevel: 5
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Les études supérieures ne préparent plus au monde qui existera demain, elles forment des générations à des modèles mentaux qui appartiennent déjà au passé."
   author: "Laurent Alexandre et Olivier Babeau"
@@ -41,7 +41,7 @@ relatedOutils:
   - "chatgpt"
 keywords: "ne faites plus d'études, laurent alexandre, olivier babeau, études inutiles IA, diplôme remise en cause"
 lastReviewed: 2026-04-15
-reviewedBy: "Rédaction Adapte-toi"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 ---
 

@@ -2,7 +2,7 @@
 title: "Comptable devenu consultant IA : le témoignage de Marie"
 description: "Marie, 38 ans, ancienne comptable, est aujourd'hui consultante IA. Son parcours sans filtre : déclic, galères, formations, salaire. Un témoignage réel."
 date: 2026-04-21
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 category: "temoignages"
 tags: ["témoignage reconversion IA", "comptable consultant IA"]
 keywords: "témoignage reconversion IA, comptable consultant IA"

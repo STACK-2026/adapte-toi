@@ -3,7 +3,7 @@ title: "Tes études ne servent plus à rien ? Ce que tu peux faire maintenant"
 description: "Le diplôme ne garantit plus rien face à l'IA. Ce que les étudiants et jeunes diplômés peuvent faire concrètement."
 date: 2026-04-13
 lastReviewed: 2026-04-13
-author: "Camille Renard"
+author: "La Rédaction Adapte-toi"
 category: "reconversion"
 readingTime: "11 min"
 keywords: "études inutiles IA, diplôme inutile intelligence artificielle, ne faites plus d'études, Laurent Alexandre, étudiant IA 2026"

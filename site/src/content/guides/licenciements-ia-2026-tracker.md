@@ -3,7 +3,7 @@ title: "Licenciements IA 2026 : le tracker mensuel (mis à jour)"
 description: "Tracker mensuel des licenciements liés à l'IA en 2026 : Klarna, IBM, Snap, Block, Duolingo, Salesforce, secteurs touchés. Méthodologie + leçons à tirer."
 date: 2026-04-26
 lastReviewed: 2026-04-26
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 category: "Baromètre"
 readingTime: "12 min"
 keywords: "licenciements ia 2026, vague licenciements ia, klarna ia, ibm licenciements, plan social ia, ia remplace emploi, suppression emploi ia 2026"

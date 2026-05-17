@@ -7,7 +7,7 @@ riskLevel: "eleve"
 sector: "Communication et marketing"
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "copywriter IA 2026, redacteur web ia, Jasper Copy.ai, salaire copywriter, brand voice ia, freelance copywriter ia"
 draft: false
 salaryRange:

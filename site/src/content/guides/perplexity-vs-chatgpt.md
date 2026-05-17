@@ -3,7 +3,7 @@ title: "Perplexity vs ChatGPT : lequel choisir en 2026 (verdict par métier)"
 description: "Perplexity ou ChatGPT en 2026 ? Tableau comparatif, prix, version française, verdict par profil. Le guide tranché pour choisir le bon outil."
 date: 2026-04-25
 lastReviewed: 2026-04-25
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "Comparateur"
 readingTime: "14 min"
 keywords: "perplexity vs chatgpt, perplexity ai en français, chatgpt en français, perplexity ou chatgpt, comparatif perplexity chatgpt, alternative chatgpt, choisir IA"

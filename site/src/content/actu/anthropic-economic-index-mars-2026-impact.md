@@ -4,7 +4,7 @@ description: "Anthropic publie en mars 2026 l'une des études les plus précises
 date: 2026-04-11
 category: "etude"
 impactLevel: 5
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Nous ne sommes pas là pour cacher ce que notre produit fait au marché du travail. Nous sommes là pour le mesurer et le dire."
   author: "Jack Clark"
@@ -43,7 +43,7 @@ relatedOutils:
   - "copilot"
 keywords: "anthropic economic index, claude impact emploi, -67% centres appels, rapport IA emploi 2026"
 lastReviewed: 2026-04-15
-reviewedBy: "Rédaction Adapte-toi"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 ---
 

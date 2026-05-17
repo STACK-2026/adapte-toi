@@ -2,7 +2,7 @@
 title: "Traducteur et IA : survivre à DeepL et ChatGPT en 2026"
 description: "IA et traducteurs : menace réelle ou opportunité ? Chiffres 2026, comparatif outils, nouvelles compétences et plan d'action concret pour s'adapter."
 date: 2026-05-11
-author: "Theo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "metiers-ia"
 tags: ["traducteur IA", "métier traducteur intelligence artificielle"]
 keywords: "traducteur IA, métier traducteur intelligence artificielle"

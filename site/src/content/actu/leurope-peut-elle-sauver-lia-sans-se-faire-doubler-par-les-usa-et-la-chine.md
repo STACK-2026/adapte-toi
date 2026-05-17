@@ -4,7 +4,7 @@ description: "Gilles Babinet et Pascale Seivy tirent la sonnette d'alarme : l'Eu
 date: 2026-04-17
 category: "voix"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "L'Europe a toutes les cartes en main. Elle dispose de talents, d'infrastructures, et d'un leadership potentiel sur les enjeux climatiques. À condition de dépasser ses propres blocages, elle peut s'imposer comme le continent où l'innovation technologique se met pleinement au service de l'environnement."
   author: "Gilles Babinet, entrepreneur et président de la Mission CaféIA"
@@ -34,7 +34,7 @@ relatedOutils:
   - "midjourney"
 keywords: "IA européenne, régulation IA, souveraineté numérique, IA frugale, Green Deal, AI Act, Gilles Babinet, Lombard Odier, Mistral, Kyutai, transition écologique"
 lastReviewed: 2026-04-17
-reviewedBy: "Rédaction Adapte-toi"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 ---
 

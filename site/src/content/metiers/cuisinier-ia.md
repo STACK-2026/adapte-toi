@@ -7,7 +7,7 @@ riskLevel: "faible"
 sector: "Restauration et hôtellerie"
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "cuisinier IA 2026, chef intelligence artificielle, BMO cuisinier, restauration IA, salaire cuisinier, formation cuisine"
 draft: false
 salaryRange:

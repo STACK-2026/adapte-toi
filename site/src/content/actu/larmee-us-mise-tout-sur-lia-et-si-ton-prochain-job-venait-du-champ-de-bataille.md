@@ -4,7 +4,7 @@ description: "Le Pentagone accélère son virage IA avec le projet Maven. Décry
 date: 2026-04-23
 category: "politique"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Drew Cukor et ses soutiens ont toujours eu pour ce projet des ambitions bien plus larges que la surveillance: dès le départ, ils voulaient s'aider de l'IA pour cibler des personnes et des objets."
   author: "Katrina Manson, dans *Project Maven. A Marine Colonel, his Team, and the Dawn of AI Warfare*"
@@ -42,7 +42,7 @@ relatedOutils:
 imageAlt: "Un drone militaire survolant un paysage désertique, avec des données d'IA superposées en transparence."
 keywords: "IA militaire, projet Maven, reconversion, data analyst, consultant IA, Pentagone, drones, automatisation, emploi, formation"
 lastReviewed: 2026-04-23
-reviewedBy: "Rédaction Adapte-toi"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 ---
 

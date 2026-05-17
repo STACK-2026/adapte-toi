@@ -3,7 +3,7 @@ title: "Outils IA pour enseignant en 2026 : top 5 testés (cadre Education Natio
 description: "Les 5 meilleurs outils IA pour enseignants français en 2026 : ChatGPT, Claude, Notion AI, Diffit, Perplexity. Cadre légal EN, prompts, RGPD élève."
 date: 2026-04-26
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "Outils par métier"
 readingTime: "9 min"
 keywords: "outils ia enseignant, ia education nationale, chatgpt prof, ia pédagogie, ia cours, formation ia enseignant, ia école"

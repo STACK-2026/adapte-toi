@@ -4,7 +4,7 @@ description: "Amazon triple son investissement dans Anthropic et signe un contra
 date: 2026-04-22
 category: "annonce"
 impactLevel: 5
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Ce n'est plus vraiment une startup."
   author: "Siècle Digital, à propos d'Anthropic"
@@ -41,7 +41,7 @@ relatedOutils:
 imageAlt: "Un data center AWS avec des serveurs Trainium, symbolisant l'alliance entre Amazon et Anthropic pour dominer l'IA."
 keywords: "Anthropic, Amazon, AWS, IA générative, Trainium, cloud, reconversion, métiers IA, automatisation, puces IA"
 lastReviewed: 2026-04-22
-reviewedBy: "Rédaction Adapte-toi"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 ---
 

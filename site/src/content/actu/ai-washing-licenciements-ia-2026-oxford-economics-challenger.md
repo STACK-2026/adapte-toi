@@ -4,7 +4,7 @@ description: "Oxford Economics et Challenger Gray demontent le narratif des lice
 date: 2026-05-02
 category: "etude"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Les entreprises ne semblent pas remplacer leurs employes par l'IA a grande echelle. Attribuer une reduction d'effectifs a l'adoption de l'IA transmet un message plus positif aux investisseurs que d'avouer des echecs commerciaux classiques."
   author: "Oxford Economics"
@@ -58,7 +58,7 @@ relatedOutils:
 keywords: "AI washing 2026, licenciements IA, Oxford Economics emploi, Challenger Gray Christmas T1 2026, IA emploi France, fiction entreprise IA, suppressions postes IA, IA pretexte licenciement"
 schemaFaq: true
 lastReviewed: 2026-05-02
-reviewedBy: "Léa Moreau"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureaux vides au crépuscule, lumière froide"

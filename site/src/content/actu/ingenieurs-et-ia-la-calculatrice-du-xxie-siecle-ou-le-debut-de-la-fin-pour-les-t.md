@@ -4,7 +4,7 @@ description: "Trois ingénieurs témoignent : l'IA est devenue leur assistant qu
 date: 2026-04-21
 category: "voix"
 impactLevel: 3
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "C'est comme une calculatrice : je pourrais faire sans, mais je serais moins efficace."
   author: "Étienne, ingénieur en bureau d'études"
@@ -39,7 +39,7 @@ relatedOutils:
 imageAlt: "Un ingénieur utilisant une tablette avec une interface IA, entouré de schémas techniques et de données."
 keywords: "ingénieur, IA, automatisation, bureau d'études, éco-conception, métallurgie, ChatGPT, compétences techniques, reconversion, productivité"
 lastReviewed: 2026-04-21
-reviewedBy: "Rédaction Adapte-toi"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 ---
 

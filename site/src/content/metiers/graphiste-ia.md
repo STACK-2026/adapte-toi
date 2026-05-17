@@ -7,7 +7,7 @@ riskLevel: "eleve"
 sector: "Création et design"
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "graphiste IA 2026, designer intelligence artificielle, Midjourney graphiste, Adobe Firefly, salaire graphiste IA, freelance graphiste, reconversion graphiste"
 draft: false
 salaryRange:

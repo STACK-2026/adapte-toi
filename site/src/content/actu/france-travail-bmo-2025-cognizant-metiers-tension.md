@@ -4,7 +4,7 @@ description: "D'un côté France Travail recense 2,77 millions de projets de rec
 date: 2026-04-10
 category: "etude"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Le paradoxe français de 2026 : un marché du travail avec 2,77 millions d'intentions d'embauche et des secteurs entiers qui ne trouvent personne, pendant que d'autres voient leur embauche junior fondre. Ce n'est pas une crise, c'est une migration."
   author: "Synthèse Adapte-toi"
@@ -41,7 +41,7 @@ relatedOutils:
   - "perplexity"
 keywords: "france travail bmo 2025, cognizant new work new world, métiers tension france, 2,77 millions recrutements"
 lastReviewed: 2026-04-15
-reviewedBy: "Rédaction Adapte-toi"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 ---
 

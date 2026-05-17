@@ -3,7 +3,7 @@ title: "Financer ta formation IA : CPF, PTP, AIF et toutes les aides en 2026"
 description: "Tous les dispositifs pour financer ta reconversion IA : CPF, PTP, AIF, FNE, Pro-A. Guide complet avec montants et démarches."
 date: 2026-04-13
 lastReviewed: 2026-04-13
-author: "Camille Renard"
+author: "La Rédaction Adapte-toi"
 category: "formation"
 readingTime: "10 min"
 keywords: "financer formation IA CPF, formation IA CPF 2026, PTP reconversion, AIF France Travail, financement reconversion professionnelle"

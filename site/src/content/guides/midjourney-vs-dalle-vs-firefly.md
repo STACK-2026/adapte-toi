@@ -3,7 +3,7 @@ title: "Midjourney vs DALL-E vs Firefly : duel pro 2026 (verdict par métier)"
 description: "Midjourney, DALL-E ou Firefly en 2026 ? Test sur 5 prompts pro, licences commerciales, prix, version française. Le guide tranché par profil."
 date: 2026-04-25
 lastReviewed: 2026-04-25
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "Comparateur"
 readingTime: "14 min"
 keywords: "midjourney vs dalle, dalle vs midjourney, adobe firefly, meilleur generateur image ia, midjourney prix, dalle prix, firefly prix, generateur image ia pro"

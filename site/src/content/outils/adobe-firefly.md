@@ -9,7 +9,7 @@ rating: 8
 ratingCount: 167
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "Adobe Firefly, Firefly en français, Generative Fill, Photoshop IA, droits commerciaux IA, alternative Midjourney sécurisée"
 draft: false
 pricingPlans:

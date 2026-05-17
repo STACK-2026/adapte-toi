@@ -7,7 +7,7 @@ riskLevel: "moyen"
 sector: "Conseil et stratégie"
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "consultant IA 2026, conseil intelligence artificielle, audit IA, McKinsey, BCG, salaire consultant IA, freelance consulting, reconversion consultant"
 draft: false
 salaryRange:

@@ -4,7 +4,7 @@ description: "OpenAI déploie GPT spécialisé clinicien dans les hôpitaux US. 
 date: 2026-04-26
 category: "outil"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "L'IA clinique ne remplace pas le médecin. Elle lui rend du temps pour le patient. C'est le seul usage acceptable, et c'est aussi le plus puissant."
   author: "Pr Jean-Emmanuel Bibault"
@@ -48,7 +48,7 @@ relatedOutils:
   - "perplexity"
 keywords: "GPT for Clinicians, IA medecin France, OpenAI sante, Med-PaLM, AI Act medical, intelligence artificielle clinique, BMO medecin"
 lastReviewed: 2026-04-26
-reviewedBy: "Léa Moreau"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 ---
 

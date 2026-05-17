@@ -4,7 +4,7 @@ description: "Snap supprime 1000 postes et justifie ça par l'IA. Mais derrière
 date: 2026-04-22
 category: "menace"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "L'IA permettrait de réduire les tâches répétitives et d'accroître la vitesse d'exécution. De petites équipes armées d'outils automatisés auraient déjà montré la voie."
   author: "Evan Spiegel, PDG de Snap"
@@ -40,7 +40,7 @@ relatedOutils:
 imageAlt: "Un employé de Snap regarde son écran avec un message de licenciement, tandis qu'un robot IA travaille à sa place en arrière-plan."
 keywords: "licenciements IA, Snap, AI-washing, réalité augmentée, reconversion tech, automatisation emplois, Evan Spiegel, Silicon Valley"
 lastReviewed: 2026-04-22
-reviewedBy: "Rédaction Adapte-toi"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 ---
 

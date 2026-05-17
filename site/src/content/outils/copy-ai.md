@@ -9,7 +9,7 @@ rating: 7
 ratingCount: 98
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "Copy.ai, Copy.ai en français, rédaction marketing IA, alternative Jasper, copywriting freelance"
 draft: false
 pricingPlans:

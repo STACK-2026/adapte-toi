@@ -7,7 +7,7 @@ riskLevel: "moyen"
 sector: "Vente et développement commercial"
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "commercial IA 2026, SDR ia, business developer ia, Apollo ia, prospection b2b ia, salaire commercial ia, reconversion commercial"
 draft: false
 salaryRange:

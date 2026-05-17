@@ -2,7 +2,7 @@
 title: "Midjourney pour graphistes : Menace ou opportunité ?"
 description: ""
 date: 2026-04-28
-author: "Theo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "outils-ia"
 tags: ["Midjourney graphiste", "IA graphisme", "outils IA design"]
 keywords: "Midjourney graphiste, IA graphisme, outils IA design"

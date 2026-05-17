@@ -7,7 +7,7 @@ riskLevel: "moyen"
 sector: "Data et technologie"
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "data analyst IA 2026, analyste données, salaire data analyst, OpenClassrooms data, Python IA, ChatGPT SQL, reconversion data"
 draft: false
 salaryRange:

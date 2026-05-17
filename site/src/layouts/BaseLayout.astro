@@ -36,18 +36,30 @@ const {
 
 const imageUrl = ogImage?.startsWith("http") ? ogImage : `${siteConfig.url}${ogImage}`;
 
-// Default Organization JSON-LD injected on EVERY page so listing/hub pages
-// (which don't pass page-specific jsonLd) still expose the brand entity.
-const defaultOrgJsonLd = {
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  name: siteConfig.name,
-  url: siteConfig.url,
-  description: siteConfig.description,
-};
-
+// The brand entity is emitted ONCE as a NewsMediaOrganization. On pages that
+// already carry an Org-type entity (homepage uses jsonLdHomepage) we skip
+// the default reference; on every other page we attach a lightweight
+// reference (publisher) so the brand graph is consistent without duplication.
 const pageJsonLd = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
-const jsonLdArray = [defaultOrgJsonLd, ...pageJsonLd];
+const hasOrgEntity = pageJsonLd.some((n: any) => {
+  const t = n?.["@type"];
+  if (typeof t !== "string") return false;
+  return t === "Organization" || t === "NewsMediaOrganization";
+});
+const brandRef = hasOrgEntity
+  ? null
+  : {
+      "@context": "https://schema.org",
+      "@type": "NewsMediaOrganization",
+      "@id": `${siteConfig.url}#publisher`,
+      name: siteConfig.name,
+      url: siteConfig.url,
+      logo: {
+        "@type": "ImageObject",
+        url: `${siteConfig.url}/og-default.png`,
+      },
+    };
+const jsonLdArray = brandRef ? [brandRef, ...pageJsonLd] : pageJsonLd;
 ---
 
 <!doctype html>

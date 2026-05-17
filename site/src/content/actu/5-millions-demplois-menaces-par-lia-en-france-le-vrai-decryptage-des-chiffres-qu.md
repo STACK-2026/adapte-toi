@@ -4,7 +4,7 @@ description: "L'IA générative pourrait toucher 16,3% des emplois français d'i
 date: 2026-04-19
 category: "chiffre"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Un métier sur huit a plus de 30% de ses tâches automatisables"
   author: "Axelle Arquié, cofondatrice de l'Observatoire des emplois menacés et émergents (OEM)"
@@ -40,7 +40,7 @@ relatedOutils:
 imageAlt: "Un architecte utilisant une tablette avec un rendu 3D généré par IA, entouré de plans papier et d'un écran affichant des données."
 keywords: "IA emploi France, automatisation métiers qualifiés, reconversion professionnelle IA, Coface OEM étude, 5 millions emplois menacés, plan Osez l'IA, métiers exposés IA, formation IA 2030"
 lastReviewed: 2026-04-19
-reviewedBy: "Rédaction Adapte-toi"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 ---
 

@@ -4,7 +4,7 @@ description: "Le 7 mai 2026, Cloudflare supprime 1 100 postes (environ 20% des e
 date: 2026-05-12
 category: "menace"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Les actions d'aujourd'hui ne sont ni un exercice de réduction de coûts, ni une évaluation de la performance individuelle ; elles définissent comment une société de croissance opère et crée de la valeur à l'ère de l'IA agentique."
   author: "Matthew Prince et Michelle Zatlyn"
@@ -58,7 +58,7 @@ relatedOutils:
 keywords: "Cloudflare licenciements mai 2026, Cloudflare 1100 emplois IA, Matthew Prince agentic AI, licenciements IA 2026, support client IA remplacement, AI Act licenciement France, AI agents productivité, reconversion IA tech"
 schemaFaq: true
 lastReviewed: 2026-05-12
-reviewedBy: "Léa Moreau"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Salle de serveurs avec baies réseau et câbles, infrastructure cloud"

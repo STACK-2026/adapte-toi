@@ -4,7 +4,7 @@ description: "Meta déploie un outil de surveillance totale des employés pour n
 date: 2026-04-23
 category: "menace"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "La vision que nous construisons est celle d'un environnement où nos agents réalisent l'essentiel du travail, et où notre rôle consiste à les diriger, les évaluer et les aider à s'améliorer."
   author: "Andrew Bosworth, directeur technique de Meta"
@@ -39,7 +39,7 @@ relatedOutils:
 imageAlt: "Un écran d'ordinateur avec un œil géant qui observe les mouvements de souris, symbolisant la surveillance de Meta."
 keywords: "Meta, surveillance employés, IA, RGPD, droit du travail, automatisation, emploi tech, Andrew Bosworth, Model Capability Initiative, MCI"
 lastReviewed: 2026-04-23
-reviewedBy: "Rédaction Adapte-toi"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 ---
 

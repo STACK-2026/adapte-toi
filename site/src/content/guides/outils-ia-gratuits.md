@@ -3,7 +3,7 @@ title: "50 outils IA gratuits en 2026 : annuaire complet (par usage et métier)"
 description: "L'annuaire complet des 50 meilleurs outils IA gratuits en 2026 : assistant, recherche, code, image, vidéo, productivité, voix. Testés et classés par usage."
 date: 2026-04-26
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "Hub"
 readingTime: "15 min"
 keywords: "outils ia gratuits, ia gratuit 2026, meilleurs outils ia gratuits, ia français gratuit, annuaire outils ia, top outils ia gratuits, ia gratuit france"

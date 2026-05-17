@@ -3,7 +3,7 @@ title: "Outils IA pour graphiste en 2026 : top 5 testés (sécurité juridique)"
 description: "Les 5 meilleurs outils IA pour graphistes français en 2026 : Midjourney, Adobe Firefly, ChatGPT, Canva AI, Figma AI. Workflows, licences, ROI."
 date: 2026-04-26
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "Outils par métier"
 readingTime: "9 min"
 keywords: "outils ia graphiste, ia design, midjourney graphiste, firefly photoshop, adobe ia, canva ia, figma ia, formation ia graphiste"

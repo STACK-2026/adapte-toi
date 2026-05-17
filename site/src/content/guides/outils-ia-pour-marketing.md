@@ -3,7 +3,7 @@ title: "Outils IA pour marketing en 2026 : top 5 testés (workflows complets)"
 description: "Les 5 meilleurs outils IA pour marketeurs en 2026 : ChatGPT, Claude, Surfer SEO, DALL-E, HubSpot AI. Workflows, prompts, ROI calculé, alternatives."
 date: 2026-04-26
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "Outils par métier"
 readingTime: "10 min"
 keywords: "outils ia marketing, ia marketing france, chatgpt marketing, surfer seo ia, marketing automation ia, formation ia marketing"

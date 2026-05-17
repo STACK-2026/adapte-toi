@@ -2,7 +2,7 @@
 title: "Rapport McKinsey 2026 : Impact de l'IA sur l'emploi français"
 description: ""
 date: 2026-04-23
-author: "Theo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "etudes-rapports"
 tags: ["étude McKinsey IA emploi", "rapport IA France"]
 keywords: "étude McKinsey IA emploi, rapport IA France"

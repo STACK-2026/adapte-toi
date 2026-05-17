@@ -7,7 +7,7 @@ riskLevel: "moyen"
 sector: "Santé"
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 keywords: "medecin IA 2026, intelligence artificielle clinique, GPT for clinicians, Med-PaLM, salaire medecin, BMO medecin, IA diagnostic"
 draft: false
 salaryRange:

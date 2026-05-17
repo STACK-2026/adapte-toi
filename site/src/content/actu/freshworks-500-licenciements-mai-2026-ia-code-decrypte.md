@@ -4,7 +4,7 @@ description: "Le 6 mai 2026, Freshworks supprime 500 postes (11% des effectifs) 
 date: 2026-05-08
 category: "etude"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Alors que notre activité se porte bien, le rythme de l'ère IA et les récents changements internes ont modifié notre manière d'opérer."
   author: "Dennis Woodside"
@@ -58,7 +58,7 @@ relatedOutils:
 keywords: "Freshworks licenciements mai 2026, Freshworks 500 emplois IA, Dennis Woodside AI code, licenciements IA 2026, QA testing IA remplacement, AI Act licenciement France, dev junior IA Copilot Cursor, reconversion IA tech"
 schemaFaq: true
 lastReviewed: 2026-05-08
-reviewedBy: "Léa Moreau"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Code source affiché sur écran d'ordinateur, ambiance bureau tech"

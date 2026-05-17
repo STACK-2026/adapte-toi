@@ -7,7 +7,7 @@ riskLevel: "moyen"
 sector: "Immobilier"
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "agent immobilier IA 2026, immobilier intelligence artificielle, Pricehubble, estimation IA, ChatGPT immobilier, impact IA immobilier"
 draft: false
 salaryRange:

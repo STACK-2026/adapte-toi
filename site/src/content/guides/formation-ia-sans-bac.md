@@ -3,7 +3,7 @@ title: "Formation IA sans le bac : 7 voies réelles en 2026 (RNCP, freelance, au
 description: "Se former à l'IA sans le bac en 2026 : 7 parcours concrets (OpenClassrooms RNCP, autodidaxie, freelance, AFPA), financements, témoignages, salaires."
 date: 2026-04-26
 lastReviewed: 2026-04-26
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 category: "formation"
 readingTime: "11 min"
 keywords: "formation ia sans bac, formation intelligence artificielle sans diplome, devenir développeur IA sans bac, RNCP IA sans bac, reconversion IA sans diplome"

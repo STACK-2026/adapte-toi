@@ -2,7 +2,7 @@
 title: "DRH et IA 2026 : le métier RH transformé en profondeur"
 description: "L'IA transforme le métier de DRH en 2026 : recrutement, formation, éthique. Compétences requises, outils concrets et nouveaux rôles. Guide complet et chiffré."
 date: 2026-05-14
-author: "Theo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "metiers-ia"
 tags: ["DRH IA", "métier RH intelligence artificielle"]
 keywords: "DRH IA, métier RH intelligence artificielle"

@@ -3,7 +3,7 @@ title: "Négocier une augmentation grâce à tes compétences IA"
 description: "+25% de salaire pour les profils IA-ready (PwC). Comment négocier ton augmentation avec des arguments concrets."
 date: 2026-04-13
 lastReviewed: 2026-04-13
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 category: "reconversion"
 readingTime: "8 min"
 keywords: "négocier salaire IA, augmentation compétences IA, salaire intelligence artificielle 2026, PwC salaire IA"

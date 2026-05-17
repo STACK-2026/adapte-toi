@@ -7,7 +7,7 @@ riskLevel: "eleve"
 sector: "Finance et gestion"
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 keywords: "analyste financier IA 2026, contrôleur gestion IA, Bloomberg GPT, salaire analyste, finance IA, reconversion finance"
 draft: false
 salaryRange:

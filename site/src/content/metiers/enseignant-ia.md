@@ -7,7 +7,7 @@ riskLevel: "faible"
 sector: "Éducation et formation"
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 keywords: "enseignant IA 2026, professeur intelligence artificielle, ChatGPT prof, Diffit, M@gistère, formation IA enseignant, pédagogie IA"
 draft: false
 salaryRange:

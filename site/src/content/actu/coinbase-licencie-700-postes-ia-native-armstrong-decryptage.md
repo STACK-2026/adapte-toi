@@ -4,7 +4,7 @@ description: "Le 5 mai 2026, Coinbase a supprimé 700 postes (14% des effectifs)
 date: 2026-05-13
 category: "etude"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "We are not just reducing headcount and cutting costs, we're fundamentally changing how we operate: rebuilding Coinbase as an intelligence, with humans around the edge aligning it."
   author: "Brian Armstrong"
@@ -58,7 +58,7 @@ relatedOutils:
 keywords: "Coinbase licenciements mai 2026, Coinbase 700 emplois IA, Brian Armstrong AI-native, player-coach Coinbase, pods AI-native, tiny teams IA, licenciements IA 2026, reconversion IA France, manager intermédiaire IA"
 schemaFaq: true
 lastReviewed: 2026-05-13
-reviewedBy: "Léa Moreau"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 image: "https://images.unsplash.com/photo-1518544866330-95a2bec01da2?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Pièce de monnaie Bitcoin posée sur un écran affichant des graphiques de marché, ambiance fintech"

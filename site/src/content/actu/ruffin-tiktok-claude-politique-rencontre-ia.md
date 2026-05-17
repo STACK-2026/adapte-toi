@@ -4,7 +4,7 @@ description: "François Ruffin publie une série de TikTok où il dialogue en di
 date: 2026-04-14
 category: "voix"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Je ne veux pas de cette IA. Mais si elle est là, je refuse de laisser Sam Altman et Elon Musk être les seuls à écrire son mode d'emploi."
   author: "François Ruffin"
@@ -39,7 +39,7 @@ relatedOutils:
   - "chatgpt"
 keywords: "ruffin tiktok claude, IA politique france, ruffin claude anthropic, IA gauche francaise"
 lastReviewed: 2026-04-15
-reviewedBy: "Rédaction Adapte-toi"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 ---
 

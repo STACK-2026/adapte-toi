@@ -3,7 +3,7 @@ title: "Alternatives françaises à Midjourney en 2026 : Pixtral et autres"
 description: "Les alternatives françaises à Midjourney en 2026 : Pixtral (Mistral), Stable Diffusion auto-hébergé, Hugging Face. RGPD, souveraineté, qualité, verdict."
 date: 2026-04-26
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "Alternatives FR"
 readingTime: "8 min"
 keywords: "alternative française midjourney, pixtral mistral, stable diffusion français, ia image française, génération image rgpd, ia image souveraine"

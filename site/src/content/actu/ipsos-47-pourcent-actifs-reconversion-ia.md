@@ -4,7 +4,7 @@ description: "L'étude Ipsos 2025 pour Amalgame dessine un marché du travail fr
 date: 2026-04-12
 category: "etude"
 impactLevel: 5
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Pour la première fois en vingt ans, l'envie de changer de métier dépasse l'envie de changer d'entreprise. Ce n'est plus de la mobilité, c'est de la bifurcation."
   author: "Brice Teinturier"
@@ -41,7 +41,7 @@ relatedOutils:
   - "perplexity"
 keywords: "ipsos 47 pourcent reconversion, reconversion professionnelle france 2025, baromètre reconversion ipsos, actifs envisagent reconversion"
 lastReviewed: 2026-04-15
-reviewedBy: "Rédaction Adapte-toi"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 ---
 

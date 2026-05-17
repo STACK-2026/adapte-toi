@@ -7,7 +7,7 @@ riskLevel: "faible"
 sector: "Agriculture"
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 keywords: "agriculteur IA 2026, agriculture intelligence artificielle, agriculture précision, drones agricoles, salaire agriculteur, MSA"
 draft: false
 salaryRange:

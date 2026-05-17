@@ -4,7 +4,7 @@ description: "Le chiffre OCDE de 27 % revient partout, mais personne ne précise
 date: 2026-04-13
 category: "etude"
 impactLevel: 5
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "L'exposition à l'automatisation ne signifie pas la destruction. Elle signifie la transformation. Mais la transformation sans formation, c'est la destruction."
   author: "Stefano Scarpetta"
@@ -43,7 +43,7 @@ relatedOutils:
   - "copilot"
 keywords: "OCDE 27% emplois, automatisation france 2030, emplois menacés IA OCDE, 4 millions emplois"
 lastReviewed: 2026-04-15
-reviewedBy: "Rédaction Adapte-toi"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 ---
 

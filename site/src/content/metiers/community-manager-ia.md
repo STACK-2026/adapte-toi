@@ -7,7 +7,7 @@ riskLevel: "eleve"
 sector: "Communication digitale"
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "community manager IA 2026, social media manager IA, CM ChatGPT, Buffer AI, Canva IA, salaire CM IA, freelance CM IA"
 draft: false
 salaryRange:

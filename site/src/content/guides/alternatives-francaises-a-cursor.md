@@ -3,7 +3,7 @@ title: "Alternatives françaises à Cursor et Copilot en 2026 : Mistral Codestra
 description: "Les 5 alternatives françaises à Cursor et GitHub Copilot en 2026 : Codestral via Continue, Le Chat, Albert, Hugging Chat. RGPD, prix, qualité."
 date: 2026-04-26
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "Alternatives FR"
 readingTime: "9 min"
 keywords: "alternative française cursor, alternative copilot france, codestral mistral, ia code française, continue mistral, ia souveraine code, rgpd code"

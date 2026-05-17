@@ -9,7 +9,7 @@ rating: 8
 ratingCount: 124
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "Gamma, Gamma en français, slides IA, alternative PowerPoint, présentations IA, deck consultant"
 draft: false
 pricingPlans:

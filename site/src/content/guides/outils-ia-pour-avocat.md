@@ -3,7 +3,7 @@ title: "Outils IA pour avocat en 2026 : top 5 testés (sécurité RGPD)"
 description: "Les 5 meilleurs outils IA pour avocats en 2026 : Claude pour les contrats, ChatGPT pour les actes, Doctrine, Perplexity, Notion AI. Prompts inclus, RGPD strict."
 date: 2026-04-26
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "Outils par métier"
 readingTime: "9 min"
 keywords: "outils ia avocat, ia juridique, chatgpt avocat, claude analyse contrat, doctrine ia, ia droit france, formation ia avocat"

@@ -3,7 +3,7 @@ title: "Notion AI vs ChatGPT : le duo gagnant pour ta carrière en 2026"
 description: "Notion AI ou ChatGPT en 2026 ? Comparatif détaillé prix, productivité, version française, workflow hybride, verdict par métier."
 date: 2026-04-25
 lastReviewed: 2026-04-25
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "Comparateur"
 readingTime: "13 min"
 keywords: "notion ai vs chatgpt, notion ai en français, chatgpt en français, notion ai prix, notion ai ou chatgpt, productivité ia, notion ia avis"

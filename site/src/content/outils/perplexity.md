@@ -9,7 +9,7 @@ rating: 8.5
 ratingCount: 142
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "Perplexity, Perplexity AI en français, perplexity ai français, alternative Google, recherche IA, Perplexity Pro, Perplexity prix, Perplexity avis"
 draft: false
 pricingPlans:

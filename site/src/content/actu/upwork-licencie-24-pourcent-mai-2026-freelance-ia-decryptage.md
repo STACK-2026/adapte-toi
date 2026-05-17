@@ -4,7 +4,7 @@ description: "Le 7 mai 2026, Upwork annonce 145 suppressions de postes (environ 
 date: 2026-05-16
 category: "menace"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "AI means smaller, differently resourced teams in product and engineering can make a bigger impact than ever. Two pizza teams are dead."
   author: "Hayden Brown"
@@ -55,7 +55,7 @@ relatedOutils:
 keywords: "Upwork licenciements mai 2026, Upwork 145 emplois IA, Hayden Brown two pizza teams, plateforme freelance IA, freelance France IA agentique, AI Act licenciement, reconversion freelance IA, GSV Upwork AI"
 schemaFaq: true
 lastReviewed: 2026-05-16
-reviewedBy: "Léa Moreau"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 image: "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureau de freelance avec ordinateur portable, carnet et café, lumière du matin"

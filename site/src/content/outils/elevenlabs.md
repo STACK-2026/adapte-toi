@@ -9,7 +9,7 @@ rating: 9
 ratingCount: 178
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "ElevenLabs, ElevenLabs en français, synthèse vocale IA, voice cloning, doublage IA, voix IA 2026, alternative voice IA"
 draft: false
 pricingPlans:

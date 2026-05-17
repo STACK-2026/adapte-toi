@@ -4,7 +4,7 @@ description: "L'UE s'apprête à reporter l'AI Act sous la pression américaine,
 date: 2026-04-19
 category: "politique"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "L'UE privilégie la prudence et la coordination avec ses alliés, face à la montée en puissance des États-Unis et de la Chine dans l'IA."
   author: "Frédéric Olivieri, Siècle Digital"
@@ -41,7 +41,7 @@ relatedOutils:
 imageAlt: "Drapeau européen déchiré avec des circuits imprimés en arrière-plan, symbolisant le recul de l'UE sur la régulation de l'IA."
 keywords: "AI Act, régulation IA, Europe, emploi, reconversion, OpenAI, Mistral, recrutement automatisé, souveraineté tech, biais algorithmiques, transparence IA, États-Unis, Chine, diplomatie tech"
 lastReviewed: 2026-04-19
-reviewedBy: "Rédaction Adapte-toi"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 ---
 

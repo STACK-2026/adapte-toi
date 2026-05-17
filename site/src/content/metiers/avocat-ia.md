@@ -7,7 +7,7 @@ riskLevel: "moyen"
 sector: "Juridique"
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 keywords: "avocat IA 2026, juriste intelligence artificielle, Doctrine IA, automatisation juridique, salaire avocat IA, reconversion avocat, RGPD avocat"
 draft: false
 salaryRange:

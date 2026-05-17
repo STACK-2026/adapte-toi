@@ -4,7 +4,7 @@ description: "Le 5 mai 2026, PayPal annonce 4 760 suppressions de postes (20 pou
 date: 2026-05-07
 category: "etude"
 impactLevel: 5
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Nous prenons des mesures deliberees pour affuter notre strategie, simplifier notre organisation et ameliorer a la fois notre trajectoire de croissance et notre structure de couts en concentrant nos investissements la ou ils auront le plus grand impact. Mobiliser l'IA de maniere plus intensive dans nos processus de developpement nous y aidera de maniere significative."
   author: "Enrique Lores, CEO de PayPal"
@@ -62,7 +62,7 @@ relatedOutils:
 keywords: "PayPal licenciements 2026, PayPal IA, Enrique Lores PayPal, fintech licenciements IA, AI Act fintech, PayPal France, plan economies PayPal, Coinbase licenciements IA, reconversion IA fintech, droit travail IA"
 schemaFaq: true
 lastReviewed: 2026-05-07
-reviewedBy: "Léa Moreau"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 image: "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureau de fintech avec ecrans de paiement et logo flou en arriere-plan"

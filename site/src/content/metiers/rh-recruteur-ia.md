@@ -7,7 +7,7 @@ riskLevel: "moyen"
 sector: "Ressources humaines"
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 keywords: "rh ia 2026, recruteur intelligence artificielle, Lever AI, HireVue, salaire rh ia, reconversion rh, AI Act recrutement"
 draft: false
 salaryRange:

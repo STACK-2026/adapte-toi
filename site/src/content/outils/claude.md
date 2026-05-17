@@ -9,7 +9,7 @@ rating: 9.5
 ratingCount: 198
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "Claude, Claude IA en français, claude anthropic, claude prix, claude vs chatgpt, claude pro, claude max, Anthropic, alternative ChatGPT"
 draft: false
 pricingPlans:

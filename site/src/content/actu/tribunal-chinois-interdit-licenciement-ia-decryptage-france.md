@@ -4,7 +4,7 @@ description: "Le 30 avril 2026, le tribunal intermediaire de Hangzhou a juge ill
 date: 2026-05-04
 category: "politique"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Les motifs de rupture invoques par l'entreprise ne relevaient ni d'une reduction d'activite ni de difficultes operationnelles, et ne remplissaient pas la condition legale rendant impossible la poursuite du contrat de travail."
   author: "Tribunal intermediaire populaire de Hangzhou"
@@ -58,7 +58,7 @@ relatedOutils:
 keywords: "licenciement IA Chine, tribunal Hangzhou IA, AI Act licenciement, droit du travail IA France, remplacement IA emploi, jurisprudence IA 2026, PSE IA France, reconversion IA"
 schemaFaq: true
 lastReviewed: 2026-05-04
-reviewedBy: "Léa Moreau"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 image: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Marteau de juge devant un ecran d'ordinateur, ambiance feutree"

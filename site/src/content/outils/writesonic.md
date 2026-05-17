@@ -9,7 +9,7 @@ rating: 7
 ratingCount: 87
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "Writesonic, Writesonic en français, ChatSonic, alternative Jasper, rédaction IA prix"
 draft: false
 pricingPlans:

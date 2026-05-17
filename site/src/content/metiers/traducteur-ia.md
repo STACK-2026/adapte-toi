@@ -7,7 +7,7 @@ riskLevel: "tres-eleve"
 sector: "Langues et communication"
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "traducteur IA 2026, traduction intelligence artificielle, DeepL, post-edition, traducteur assermenté, reconversion traducteur"
 draft: false
 salaryRange:

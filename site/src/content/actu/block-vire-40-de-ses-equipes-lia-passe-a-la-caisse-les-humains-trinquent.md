@@ -4,7 +4,7 @@ description: "Block, géant des paiements, licencie 4 000 personnes en misant to
 date: 2026-04-19
 category: "menace"
 impactLevel: 5
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "La plupart des entreprises sont en retard. D'ici un an, la majorité d'entre elles arrivera à la même conclusion et procédera aux mêmes changements structurels."
   author: "Jack Dorsey, PDG de Block"
@@ -41,7 +41,7 @@ relatedOutils:
 imageAlt: "Jack Dorsey, PDG de Block, lors d'une conférence sur le bitcoin en 2021, devant un écran affichant des graphiques financiers générés par IA."
 keywords: "Block, IA, licenciements, fintech, cols blancs, automatisation, reconversion, Jack Dorsey, Square, Cash App, marché du travail, tech"
 lastReviewed: 2026-04-19
-reviewedBy: "Rédaction Adapte-toi"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 ---
 

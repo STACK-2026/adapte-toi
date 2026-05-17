@@ -154,7 +154,10 @@ export const siteConfig = {
     enabled: true,
     name: "Le Signal",
     postsPerPage: 12,
-    defaultAuthor: "La rédaction Adapte-toi",
+    // Signature collective : tous les contenus sont signés au nom de la
+    // rédaction. Décision éditoriale (mai 2026) pour éviter les pen names
+    // individuels et porter une voix de média plutôt que de personnalités.
+    defaultAuthor: "La Rédaction Adapte-toi",
     catégories: [
       "reconversion",
       "métiers-ia",
@@ -165,22 +168,77 @@ export const siteConfig = {
       "freelance-ia",
       "études-rapports",
     ],
-    authors: [
+    // L'équipe éditoriale est décrite par rôles, pas par noms.
+    // Le détail est consultable sur /a-propos/.
+    editorialBoard: [
       {
-        name: "Camille Renard",
-        rôle: "Journaliste emploi et reconversion",
-        bio: "10 ans de veille sur les mutations du marche du travail. Ancienne RH reconvertie en journaliste spécialisée.",
+        role: "Rédaction en chef",
+        scope: "Ligne éditoriale, validation des publications, supervision factuelle",
       },
       {
-        name: "Theo Marchand",
-        rôle: "Analyste IA et données emploi",
-        bio: "Data analyst passionne par l'impact economique de l'IA. Decrypte les études et les chiffres pour les rendre accessibles.",
+        role: "Cellule Décrypte",
+        scope: "Veille quotidienne sur l'actualité IA × emploi (3 publications/jour)",
       },
       {
-        name: "Sarah Bellamy",
-        rôle: "Coach carrière et formatrice",
-        bio: "Accompagne les actifs en reconversion depuis 8 ans. Specialisee dans les transitions vers les métiers du numérique.",
+        role: "Cellule Métiers",
+        scope: "Rédaction et mise à jour des fiches métier, scoring d'exposition IA",
       },
+      {
+        role: "Cellule Données",
+        scope: "Sourcing institutionnel (OCDE, INSEE, France Travail), agrégation Baromètre",
+      },
+      {
+        role: "Cellule Outils",
+        scope: "Tests et revues d'outils IA, comparatifs, mises à jour tarifaires",
+      },
+    ],
+  },
+
+  // Identité & gouvernance éditoriale (utilisée par NewsMediaOrganization).
+  // Décommenter founderName si tu acceptes l'attribution publique du
+  // fondateur dans le schéma JSON-LD (signal E-E-A-T plus fort pour Google
+  // mais expose ton identité dans Knowledge Graph / Publisher Center).
+  founder: {
+    // founderName: "Augustin Foucheres",
+    foundingDate: "2026-04",
+  },
+
+  // URLs des pages de politique éditoriale.
+  // Ces pages sont obligatoires pour Google Publisher Center et
+  // pour le schéma NewsMediaOrganization.
+  policies: {
+    publishing: "/politique-editoriale/",
+    ethics: "/charte-editoriale/",
+    corrections: "/politique-de-correction/",
+    feedback: "/a-propos/",
+    diversity: "/charte-editoriale/#diversite",
+    unnamedSources: "/charte-editoriale/#sources-anonymes",
+    funding: "/sources-financement/",
+    masthead: "/a-propos/",
+  },
+
+  // Liens sociaux pour sameAs (autorité)
+  socialLinks: [
+    // "https://x.com/adaptetoi",
+    // "https://linkedin.com/company/adapte-toi",
+    // "https://www.youtube.com/@adapte-toi",
+  ],
+
+  // Pour knowsAbout (signal sémantique au knowledge graph)
+  media: {
+    knowsAbout: [
+      "Reconversion professionnelle",
+      "Intelligence artificielle",
+      "Marché du travail",
+      "Formation professionnelle",
+      "Métiers menacés par l'IA",
+      "Compte personnel de formation",
+      "ChatGPT",
+      "Claude",
+      "Outils IA",
+      "Anthropic Economic Index",
+      "OCDE emploi",
+      "France Travail",
     ],
   },
 

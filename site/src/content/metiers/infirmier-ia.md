@@ -7,7 +7,7 @@ riskLevel: "faible"
 sector: "Santé"
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 keywords: "infirmier IA 2026, aide-soignant intelligence artificielle, BMO infirmier, sante IA, salaire infirmier, IADE IPDE"
 draft: false
 salaryRange:

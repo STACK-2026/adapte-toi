@@ -3,7 +3,7 @@ title: "Se former à l'IA gratuitement en 2026 : toutes les ressources (pillar)"
 description: "Le guide complet pour apprendre l'IA gratuitement en 2026 : 5 niveaux, 30 ressources testées, parcours par profil, certifications. Pas de bootcamp à 5000 euros."
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 category: "formation"
 readingTime: "15 min"
 keywords: "formation IA gratuite, se former intelligence artificielle, cours IA en ligne gratuit, apprendre IA 2026, formation IA sans coder, formation ia cpf, formation ia coursera"

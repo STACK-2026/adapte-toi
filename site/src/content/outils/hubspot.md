@@ -9,7 +9,7 @@ rating: 8.5
 ratingCount: 198
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "HubSpot CRM, HubSpot en français, HubSpot AI, CRM gratuit IA, alternative Salesforce, lead scoring IA"
 draft: false
 pricingPlans:

@@ -2,7 +2,7 @@
 title: "Claude AI marketing : guide pratique complet 2026"
 description: "Claude AI change la donne pour les marketeurs. Cas d'usage, prompts avancés, GEO, Artifacts : le guide complet pour booster ta productivité en 2026."
 date: 2026-05-04
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 category: "outils-ia"
 tags: ["Claude AI marketing", "outils IA marketing", "IA pour marketeurs"]
 keywords: "Claude AI marketing, outils IA marketing, IA pour marketeurs"

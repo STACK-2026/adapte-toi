@@ -4,7 +4,7 @@ description: "82% des jeunes managers utilisent ChatGPT comme coach professionne
 date: 2026-04-21
 category: "outil"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Ce qui est fascinant avec l'IA, c'est qu'elle n'a ni émotion ni biais."
   author: "Jessica, manager dans une agence parisienne"
@@ -42,7 +42,7 @@ relatedOutils:
 imageAlt: "Un manager utilisant ChatGPT sur son ordinateur portable pour préparer un entretien d'évaluation"
 keywords: "ChatGPT, coach professionnel, IA emploi, management, feedback, formation continue, reconversion, soft skills, productivité"
 lastReviewed: 2026-04-21
-reviewedBy: "Rédaction Adapte-toi"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 ---
 

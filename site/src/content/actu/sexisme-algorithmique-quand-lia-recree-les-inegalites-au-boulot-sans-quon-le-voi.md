@@ -4,7 +4,7 @@ description: "Les IA amplifient les biais sexistes dans le recrutement, les sala
 date: 2026-04-24
 category: "menace"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Nous entrons sans nous en rendre compte dans une nouvelle ère d'inégalité entre les sexes, propulsée à une vitesse vertigineuse par la mise en œuvre d'outils d'IA non testés."
   author: "Laura Bates"
@@ -40,7 +40,7 @@ relatedOutils:
 imageAlt: "Illustration montrant une femme devant un écran d'IA affichant des données biaisées, avec des stéréotypes de genre en filigrane"
 keywords: "biais algorithmiques, sexisme, IA, recrutement, salaire, prêt bancaire, AI Act, discrimination, genre, reconversion"
 lastReviewed: 2026-04-24
-reviewedBy: "Rédaction Adapte-toi"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 ---
 

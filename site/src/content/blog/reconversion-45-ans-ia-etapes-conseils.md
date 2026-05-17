@@ -2,7 +2,7 @@
 title: "Reconversion à 45 ans avec l'IA : Étapes et conseils"
 description: ""
 date: 2026-04-29
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 category: "reconversion"
 tags: ["reconversion 45 ans IA", "reconversion senior IA"]
 keywords: "reconversion 45 ans IA, reconversion senior IA"

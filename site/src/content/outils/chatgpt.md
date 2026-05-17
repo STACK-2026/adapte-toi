@@ -9,7 +9,7 @@ rating: 9
 ratingCount: 287
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "ChatGPT, ChatGPT en français, chatgpt français, OpenAI, GPT-5, ChatGPT Plus prix, ChatGPT gratuit, ChatGPT avis, alternative ChatGPT"
 draft: false
 pricingPlans:

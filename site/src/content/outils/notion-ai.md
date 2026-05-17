@@ -9,7 +9,7 @@ rating: 8.5
 ratingCount: 142
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "Notion AI, Notion AI avis, Notion AI prix, Notion intelligence artificielle, Notion AI vs ChatGPT, Notion AI en français, productivité IA"
 draft: false
 pricingPlans:

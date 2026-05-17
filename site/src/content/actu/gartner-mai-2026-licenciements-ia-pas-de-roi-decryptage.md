@@ -4,7 +4,7 @@ description: "Gartner publie le 5 mai 2026 une enquete sur 350 dirigeants : 80% 
 date: 2026-05-06
 category: "etude"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Beaucoup de PDG se tournent vers les licenciements pour demontrer des retours rapides sur l'IA, mais cette disposition est mal placee. Les reductions d'effectifs peuvent creer de la marge budgetaire, mais elles ne creent pas de retour."
   author: "Helen Poitevin, Distinguished VP Analyst, Gartner"
@@ -66,7 +66,7 @@ relatedOutils:
 keywords: "Gartner IA licenciements 2026, autonomous business ROI, Helen Poitevin Gartner, AI workforce reduction etude, IA emploi etude mai 2026, supply chain entry-level IA, AI layoffs no ROI, decryptage Gartner adapte-toi"
 schemaFaq: true
 lastReviewed: 2026-05-06
-reviewedBy: "Léa Moreau"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Tableau de bord financier sur ecran, lumiere bleue froide"

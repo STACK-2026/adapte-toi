@@ -2,7 +2,7 @@
 title: "Mon Compte Formation IA 2026 : 5 formations CPF éligibles + aides cumulables"
 description: "Mon Compte Formation IA 2026 : 5 formations CPF analysées, aides France Travail cumulables, +25% salaire moyen post-formation (PwC)."
 date: 2026-04-24
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 category: "formation"
 tags: ["CPF formation IA", "financement reconversion IA"]
 keywords: "CPF formation IA, financement reconversion IA"

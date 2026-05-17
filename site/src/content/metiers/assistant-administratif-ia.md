@@ -7,7 +7,7 @@ riskLevel: "tres-eleve"
 sector: "Administration et support"
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 keywords: "assistant administratif IA 2026, secrétaire ia, reconversion assistant, office manager ia, automatisation bureau, metiers menaces ia"
 draft: false
 salaryRange:

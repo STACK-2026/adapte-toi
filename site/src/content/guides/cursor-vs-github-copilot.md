@@ -3,7 +3,7 @@ title: "Cursor vs GitHub Copilot : lequel choisir pour coder en 2026"
 description: "Cursor ou GitHub Copilot en 2026 ? Comparatif détaillé prix, fonctionnalités, vitesse, version française, verdict par profil dev. Le guide tranché."
 date: 2026-04-25
 lastReviewed: 2026-04-25
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "Comparateur"
 readingTime: "13 min"
 keywords: "cursor vs copilot, cursor vs github copilot, cursor ide, github copilot, cursor en français, copilot en français, cursor prix, github copilot prix"

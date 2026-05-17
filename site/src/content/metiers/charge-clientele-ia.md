@@ -7,7 +7,7 @@ riskLevel: "tres-eleve"
 sector: "Relation client et support"
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "chargé de clientèle IA 2026, support client ia, téléconseiller, chatbot, Klarna, reconversion support, Customer Success Manager"
 draft: false
 salaryRange:

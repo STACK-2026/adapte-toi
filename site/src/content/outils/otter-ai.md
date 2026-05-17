@@ -9,7 +9,7 @@ rating: 8
 ratingCount: 134
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "Otter.ai, Otter en français, transcription IA, compte-rendu réunion, résumé auto, alternative Notta, Modjo"
 draft: false
 pricingPlans:

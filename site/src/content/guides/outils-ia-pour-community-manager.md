@@ -3,7 +3,7 @@ title: "Outils IA pour community manager en 2026 : top 5 testés (workflow compl
 description: "Les 5 meilleurs outils IA pour CM francophones en 2026 : ChatGPT, DALL-E, Canva AI, Buffer AI, Notion AI. Stack à 50 euros/mois pour x3 productivité."
 date: 2026-04-26
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "Outils par métier"
 readingTime: "9 min"
 keywords: "outils ia community manager, ia cm, chatgpt cm, social media ia, buffer ia, canva ia, formation ia community manager, automatisation cm"

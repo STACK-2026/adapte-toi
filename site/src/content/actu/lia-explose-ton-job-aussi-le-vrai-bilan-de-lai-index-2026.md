@@ -4,7 +4,7 @@ description: "L'AI Index 2026 révèle une industrie de l'IA en hypercroissance,
 date: 2026-04-20
 category: "etude"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "L'IA va très vite, tandis que le reste du monde peine à suivre."
   author: "AI Index 2026, Institute for Human-Centered Artificial Intelligence"
@@ -39,7 +39,7 @@ relatedOutils:
 imageAlt: "Graphique montrant l'explosion des dépenses en IA et des incidents liés à l'IA depuis 2020"
 keywords: "IA, emploi, AI Index 2026, Chine, États-Unis, robotique, reconversion, développeurs, coûts IA, impact écologique"
 lastReviewed: 2026-04-20
-reviewedBy: "Rédaction Adapte-toi"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 ---
 

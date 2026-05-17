@@ -3,7 +3,7 @@ title: "Outils IA pour comptable en 2026 : top 5 testés (prompts inclus)"
 description: "Les 5 meilleurs outils IA pour comptables en 2026 : ChatGPT, Claude, Pennylane, Notion AI, Perplexity. Prompts prêts, ROI, limites RGPD."
 date: 2026-04-26
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "Outils par métier"
 readingTime: "10 min"
 keywords: "outils ia comptable, ia comptabilité, chatgpt comptable, automatiser comptabilité ia, ia expert comptable, formation ia comptable"

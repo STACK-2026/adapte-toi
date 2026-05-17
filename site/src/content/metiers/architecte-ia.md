@@ -7,7 +7,7 @@ riskLevel: "moyen"
 sector: "Construction et urbanisme"
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 keywords: "architecte IA 2026, architecture intelligence artificielle, BIM IA, Midjourney architecte, Veras AI, salaire architecte"
 draft: false
 salaryRange:

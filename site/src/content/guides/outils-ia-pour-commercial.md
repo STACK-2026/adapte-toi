@@ -3,7 +3,7 @@ title: "Outils IA pour commercial en 2026 : top 5 testés (prospection)"
 description: "Les 5 meilleurs outils IA pour commerciaux B2B en 2026 : ChatGPT, Claude, Apollo IA, HubSpot, Otter. Prompts prospection, ROI, RGPD."
 date: 2026-04-26
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "Outils par métier"
 readingTime: "9 min"
 keywords: "outils ia commercial, ia prospection b2b, chatgpt commercial, apollo ia, vente ia france, sdr ia, formation ia commercial"

@@ -4,7 +4,7 @@ description: "Google injecte jusqu'à 40 milliards dans Anthropic, son rival en 
 date: 2026-04-25
 category: "annonce"
 impactLevel: 5
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "L'accès au compute devient le nouveau nerf de la guerre en IA : sans puces et sans data centers, même les meilleurs algorithmes ne valent rien."
   author: "Analyste senior, TechCrunch"
@@ -42,7 +42,7 @@ relatedOutils:
 imageAlt: "Un data center rempli de serveurs TPU Google, avec le logo Anthropic en surimpression."
 keywords: "Anthropic, Google, IA, investissement, compute, puces TPU, Claude, Mythos, emploi tech, reconversion, data analyst, développeur IA, cybersécurité"
 lastReviewed: 2026-04-25
-reviewedBy: "Rédaction Adapte-toi"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 ---
 

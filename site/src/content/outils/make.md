@@ -9,7 +9,7 @@ rating: 9
 ratingCount: 234
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "Make.com, Make en français, automation no-code, alternative Zapier, ChatGPT API automation, IA workflow, n8n alternative"
 draft: false
 pricingPlans:

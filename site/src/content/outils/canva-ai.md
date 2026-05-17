@@ -9,7 +9,7 @@ rating: 8
 ratingCount: 287
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "Canva AI, Canva en français, Magic Studio, Magic Design, Magic Resize, alternative Adobe Express, design CM"
 draft: false
 pricingPlans:

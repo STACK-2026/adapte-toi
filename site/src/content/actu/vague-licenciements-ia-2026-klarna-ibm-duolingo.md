@@ -4,7 +4,7 @@ description: "Pendant deux ans, les plans sociaux évoquaient la 'réorganisatio
 date: 2026-04-09
 category: "menace"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Nous embauchons moins parce que l'IA nous permet de ne pas embaucher. Le dire est plus honnête que de faire semblant."
   author: "Sebastian Siemiatkowski"
@@ -47,7 +47,7 @@ relatedOutils:
   - "copilot"
 keywords: "licenciements IA 2026, klarna licenciements, IBM pause embauche IA, duolingo licenciements IA, vague licenciements IA"
 lastReviewed: 2026-04-15
-reviewedBy: "Rédaction Adapte-toi"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 ---
 

@@ -4,7 +4,7 @@ description: "Le 20 mai 2026, Meta démarre un plan de 8000 suppressions de post
 date: 2026-05-05
 category: "etude"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Des projets qui auparavant auraient nécessité de grosses équipes sont maintenant menés à bien par une seule personne de grand talent."
   author: "Mark Zuckerberg"
@@ -58,7 +58,7 @@ relatedOutils:
 keywords: "Meta licenciements mai 2026, Meta 8000 emplois IA, Zuckerberg AI capex, Superintelligence Labs Alexandr Wang, licenciements IA 2026, AI Act licenciement, reconversion IA France, Meta 20 mai 2026"
 schemaFaq: true
 lastReviewed: 2026-05-05
-reviewedBy: "Léa Moreau"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 image: "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Logo Meta sur une façade d'immeuble en verre, ambiance corporate moderne"

@@ -3,7 +3,7 @@ title: "Alternatives françaises à ChatGPT en 2026 : Le Chat Mistral et autres"
 description: "Les 5 alternatives françaises à ChatGPT en 2026 : Le Chat Mistral, Albert, Lumières, Hugging Chat. RGPD, prix, qualité, verdict honnête."
 date: 2026-04-26
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "Alternatives FR"
 readingTime: "9 min"
 keywords: "alternative française chatgpt, le chat mistral, alternative chatgpt france, ia souveraine france, rgpd ia, mistral ai français"

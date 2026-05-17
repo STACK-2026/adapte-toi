@@ -4,7 +4,7 @@ description: "France Travail va lancer un outil de signalement des formations do
 date: 2026-04-18
 category: "politique"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "« Chamanisme, mission de l'âme, guérison karmique » : on a identifié des mots-clés qui nous paraissaient véritablement ne pas être en rapport avec de la formation professionnelle."
   author: "Hervé Jouanneau, directeur orientation et formation de France Travail"
@@ -33,7 +33,7 @@ relatedOutils:
 imageAlt: "Capture d'écran du site de France Travail avec une formation intitulée « Rencontre avec les êtres de la nature » en surbrillance rouge."
 keywords: "formation professionnelle, France Travail, dérives sectaires, Qualiopi, reconversion, financement CPF, Miviludes, Carif-Oref, emploi, arnaque"
 lastReviewed: 2026-04-18
-reviewedBy: "Rédaction Adapte-toi"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 ---
 

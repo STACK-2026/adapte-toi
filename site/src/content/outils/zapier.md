@@ -9,7 +9,7 @@ rating: 8
 ratingCount: 234
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "Zapier, Zapier en français, automation, Zapier vs Make, no-code, alternative Zapier"
 draft: false
 pricingPlans:

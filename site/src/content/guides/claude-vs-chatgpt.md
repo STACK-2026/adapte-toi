@@ -3,7 +3,7 @@ title: "Claude vs ChatGPT : lequel choisir en 2026 (verdict par métier)"
 description: "Claude ou ChatGPT en 2026 ? Comparatif détaillé prix, contexte, écriture, code, version française. Le guide tranché pour choisir."
 date: 2026-04-25
 lastReviewed: 2026-04-25
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "Comparateur"
 readingTime: "13 min"
 keywords: "claude vs chatgpt, claude ou chatgpt, claude sonnet vs gpt, anthropic claude prix, claude en français, chatgpt en français, anthropic vs openai"

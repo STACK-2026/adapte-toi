@@ -9,7 +9,7 @@ rating: 9
 ratingCount: 156
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "Cursor, Cursor IDE, cursor en français, cursor vs copilot, cursor prix, cursor ide avis, vibe coding, AI code editor, alternative VS Code"
 draft: false
 pricingPlans:

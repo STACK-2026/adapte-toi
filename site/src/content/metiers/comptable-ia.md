@@ -7,7 +7,7 @@ riskLevel: "eleve"
 sector: "Finance et gestion"
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 keywords: "comptable IA 2026, comptabilité intelligence artificielle, expert-comptable IA, Pennylane, automatisation comptable, salaire comptable IA, reconversion comptable"
 draft: false
 salaryRange:

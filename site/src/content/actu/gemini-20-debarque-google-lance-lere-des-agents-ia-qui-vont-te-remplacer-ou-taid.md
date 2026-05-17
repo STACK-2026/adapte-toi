@@ -4,7 +4,7 @@ description: "Google sort Gemini 2.0, un modèle d'IA conçu pour agir à ta pla
 date: 2024-12-20
 category: "outil"
 impactLevel: 5
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Si Gemini 1.0 était fait pour organiser et comprendre l'information, Gemini 2.0 est conçu pour la rendre bien plus utile."
   author: "Sundar Pichai, CEO de Google et Alphabet"
@@ -43,7 +43,7 @@ relatedOutils:
 imageAlt: "Capture d'écran de l'interface Gemini 2.0 affichant une conversation avec génération d'image et recherche intégrée"
 keywords: "Gemini 2.0, Google, IA agentique, automatisation, reconversion, métiers menacés, développement IA, assistants autonomes, multimodalité, Deep Research"
 lastReviewed: 2024-12-20
-reviewedBy: "Rédaction Adapte-toi"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 ---
 

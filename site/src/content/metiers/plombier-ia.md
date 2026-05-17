@@ -7,7 +7,7 @@ riskLevel: "faible"
 sector: "Artisanat et bâtiment"
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 keywords: "plombier IA 2026, electricien intelligence artificielle, artisan BTP IA, BMO BTP, salaire plombier, formation CAP"
 draft: false
 salaryRange:

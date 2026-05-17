@@ -4,7 +4,7 @@ description: "En 2026, l'IA grignote 15% des tâches administratives et menace 3
 date: 2026-04-22
 category: "menace"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "L'IA ne supprime pas des emplois, elle supprime des tâches. Mais quand 80% de ton travail disparaît, ton poste devient un fantôme."
   author: "Damien Hontang, CEO de Cobl"
@@ -42,7 +42,7 @@ relatedOutils:
 imageAlt: "Un bureau d'entreprise vide avec un écran affichant 'Productivité optimisée par IA' en gros caractères"
 keywords: "IA entreprise, suppression emplois, automatisation, reconversion professionnelle, Cobl, Damien Hontang, cols blancs, Dares, France 2026"
 lastReviewed: 2026-04-22
-reviewedBy: "Rédaction Adapte-toi"
+reviewedBy: "La Rédaction Adapte-toi"
 draft: false
 ---
 

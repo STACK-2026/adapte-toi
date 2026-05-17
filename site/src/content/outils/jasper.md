@@ -9,7 +9,7 @@ rating: 7
 ratingCount: 142
 date: 2026-04-13
 lastReviewed: 2026-04-26
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 keywords: "Jasper, Jasper en français, copywriting IA, rédaction marketing, alternative ChatGPT marketing, Brand Voice"
 draft: false
 pricingPlans:
