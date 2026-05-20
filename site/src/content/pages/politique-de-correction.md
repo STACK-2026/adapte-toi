@@ -10,7 +10,7 @@ Nous publions plusieurs centaines d'analyses, chiffres et recommandations chaque
 
 Adapte-toi traite de sujets à enjeu direct pour ses lecteurs : décisions de carrière, choix de formation, lecture de l'avenir d'un métier. Une erreur factuelle peut conduire un lecteur à un mauvais choix. Nous prenons donc ces erreurs au sérieux, plus que la plupart des médias d'opinion.
 
-Notre politique de correction est inspirée des standards internationaux du journalisme : [Trust Project](https://thetrustproject.org/), [International Fact-Checking Network (IFCN)](https://www.poynter.org/ifcn/), recommandations du Conseil de presse — adaptées aux contraintes d'un média indépendant.
+Notre politique de correction est inspirée des standards internationaux du journalisme : [Trust Project](https://thetrustproject.org/), [International Fact-Checking Network (IFCN)](https://www.poynter.org/ifcn/), recommandations du Conseil de presse, adaptées aux contraintes d'un média indépendant.
 
 ## Ce que nous considérons comme une erreur
 

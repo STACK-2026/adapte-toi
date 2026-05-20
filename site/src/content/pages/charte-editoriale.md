@@ -45,7 +45,7 @@ Le format est toujours identifiable visuellement et dans l'URL (ex. `/actu/` pou
 
 ## 4. Pluralisme {#diversite}
 
-Adapte-toi traite d'un sujet — l'impact de l'IA sur le travail — qui concerne l'ensemble de la population active française. Notre traitement de l'information doit refléter cette diversité.
+Adapte-toi traite d'un sujet, l'impact de l'IA sur le travail, qui concerne l'ensemble de la population active française. Notre traitement de l'information doit refléter cette diversité.
 
 ### Représentation des métiers et des territoires
 
@@ -57,7 +57,7 @@ Nous nous engageons à couvrir équitablement :
 - la diversité géographique (Paris, métropoles, villes moyennes, ruralité) ;
 - les profils en début, milieu et fin de carrière.
 
-Concrètement, nos fiches métier sont sélectionnées pour représenter ce spectre — pas uniquement les métiers tertiaires parisiens.
+Concrètement, nos fiches métier sont sélectionnées pour représenter ce spectre, pas uniquement les métiers tertiaires parisiens.
 
 ### Représentation des personnes
 

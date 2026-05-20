@@ -8,7 +8,7 @@ lastUpdated: 2026-05-17
 
 Adapte-toi est un média francophone indépendant dédié à un sujet précis : **l'impact de l'intelligence artificielle sur le travail et la reconversion professionnelle en France**. Nous n'écrivons pas sur tout. Nous n'écrivons que sur ce sujet, et nous essayons d'y être les meilleurs.
 
-Notre lecteur type est un actif français — salarié, indépendant ou demandeur d'emploi — qui veut comprendre concrètement ce qui change pour son métier, et savoir quoi faire. Pas un rapport théorique. Pas un panorama macro-économique. Une information utilisable.
+Notre lecteur type est un actif français, salarié, indépendant ou demandeur d'emploi, qui veut comprendre concrètement ce qui change pour son métier, et savoir quoi faire. Pas un rapport théorique. Pas un panorama macro-économique. Une information utilisable.
 
 ## Ce qu'on couvre
 
@@ -25,7 +25,7 @@ Tout sujet qui ne rentre pas dans ces cinq cases n'est pas publié sur Adapte-to
 Trois critères, dans cet ordre :
 
 1. **Utilité pour le lecteur.** L'article doit lui permettre de prendre une décision (rester / partir, se former / pas, utiliser un outil / pas).
-2. **Possibilité de vérification.** S'il n'y a pas de source institutionnelle ou de donnée vérifiable, on ne publie pas — ou alors on publie comme tribune signalée comme telle.
+2. **Possibilité de vérification.** S'il n'y a pas de source institutionnelle ou de donnée vérifiable, on ne publie pas, ou alors on publie comme tribune signalée comme telle.
 3. **Angle distinctif.** Si dix autres médias ont déjà couvert exactement le même sujet sous le même angle, on ne se contente pas de paraphraser : on apporte un éclairage spécifique (analyse sectorielle française, conséquence pour un métier précis, méthodologie comparée).
 
 Les sujets sont proposés dans la cellule de rédaction lors d'une réunion hebdomadaire, validés par la rédaction en chef, puis programmés.
@@ -56,11 +56,11 @@ Un article ne sort que lorsque ces trois validations sont passées. Aucune publi
 
 Tous nos articles sont signés au nom de **La Rédaction Adapte-toi**. C'est un choix éditorial assumé, expliqué en détail sur notre page [À propos](/a-propos/). En résumé : chaque article étant relu par plusieurs personnes, l'attribution individuelle ne reflèterait pas la réalité du travail.
 
-Quand un sujet le justifie — interview, tribune extérieure, témoignage d'un expert — la personne citée est identifiée précisément dans le corps de l'article, avec ses fonctions et son rattachement. Mais la signature globale reste celle de la rédaction.
+Quand un sujet le justifie, interview, tribune extérieure, témoignage d'un expert, la personne citée est identifiée précisément dans le corps de l'article, avec ses fonctions et son rattachement. Mais la signature globale reste celle de la rédaction.
 
 ## Pluralisme et indépendance
 
-Adapte-toi n'est rattaché à aucun parti politique, aucun syndicat, aucun groupe de presse, aucun organisme de formation, aucun éditeur d'outil. Notre [modèle de financement](/sources-financement/) — essentiellement l'affiliation sur les outils que nous recommandons — est entièrement détaillé en transparence.
+Adapte-toi n'est rattaché à aucun parti politique, aucun syndicat, aucun groupe de presse, aucun organisme de formation, aucun éditeur d'outil. Notre [modèle de financement](/sources-financement/), essentiellement l'affiliation sur les outils que nous recommandons, est entièrement détaillé en transparence.
 
 Nous nous interdisons :
 
