@@ -1,6 +1,6 @@
 ---
 title: "Cisco licencie près de 4 000 salariés en mai 2026 le jour d'un trimestre record : décryptage AI era"
-description: "Le 13 mai 2026, Cisco annonce moins de 4 000 suppressions de postes (sous 5% des effectifs) le jour même où le groupe publie 15,8 milliards de dollars de revenu Q3 et 9 milliards d'orders IA visés en FY26. Décryptage adapte-toi pour les salariés et freelances français de la tech."
+description: "Le 13 mai 2026, Cisco supprime moins de 4 000 postes (sous 5% des effectifs) le jour où le groupe publie 15,8 Md$ de revenu Q3 et 9 Md$ d'orders IA visés en FY26. Décryptage pour les salariés et freelances français de la tech."
 date: 2026-05-22
 category: "menace"
 impactLevel: 4
