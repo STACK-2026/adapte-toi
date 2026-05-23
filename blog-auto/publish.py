@@ -736,4 +736,20 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except KeyboardInterrupt:
+        sys.exit(130)
+    except Exception as _e:  # graceful skip on paid API outage
+        _msg = str(_e).lower()
+        _skip_tokens = (
+            "credit balance", "credit balance is too low", "invalid api key",
+            "authentication", "bad request", "400 client error",
+            "rate limit", "402 client error", "403 client error",
+            "anthropic.badrequesterror", "anthropic.authenticationerror",
+            "anthropic.permissiondeniederror", "anthropic.ratelimiterror",
+        )
+        if any(_t in _msg for _t in _skip_tokens):
+            print(f"[SKIP] API unavailable, will retry next cron: {_e}", file=sys.stderr)
+            sys.exit(0)
+        raise
