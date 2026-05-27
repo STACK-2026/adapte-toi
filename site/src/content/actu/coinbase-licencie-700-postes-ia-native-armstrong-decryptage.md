@@ -1,6 +1,6 @@
 ---
 title: "Coinbase licencie 700 personnes pour devenir AI-native : ce que la stratégie Brian Armstrong t'apprend sur ton job"
-description: "Le 5 mai 2026, Coinbase a supprimé 700 postes (14% des effectifs) pour se réorganiser en pods AI-native et remplacer les pure managers par des player-coaches. Décryptage adapte-toi : ce que ça change pour les fonctions support et la tech en France."
+description: "Le 5 mai 2026, Coinbase a supprimé 700 postes (14% des effectifs) pour se réorganiser en pods AI-native et remplacer les pure managers par des..."
 date: 2026-05-13
 category: "etude"
 impactLevel: 4

@@ -1,6 +1,6 @@
 ---
 title: "Microsoft propose un rachat volontaire a 8 750 salaries pour financer son pari IA : decryptage de la regle de 70"
-description: "Microsoft a annonce le 23 avril 2026 un plan de departs volontaires inedit, vise par environ 8 750 salaries americains via la regle de 70 (age + anciennete). Decryptage Adapte-toi : chiffres, charge 900M$, contexte IA, impact pour ton job en France."
+description: "Microsoft a annonce le 23 avril 2026 un plan de departs volontaires inedit, vise par environ 8 750 salaries americains via la regle de 70 (age +..."
 date: 2026-05-18
 category: "menace"
 impactLevel: 4

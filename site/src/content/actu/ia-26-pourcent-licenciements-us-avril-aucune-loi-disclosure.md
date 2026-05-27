@@ -1,6 +1,6 @@
 ---
 title: "L'IA officiellement cause numero 1 des licenciements US deux mois de suite : 26% des coupes en avril, et toujours aucune loi pour le dire"
-description: "Challenger confirme l'IA cause numero un des licenciements US en avril 2026 (21 490 postes, 26% du total), deuxieme mois consecutif. Aucune loi federale n'impose la transparence."
+description: "Challenger confirme l'IA cause numero un des licenciements US en avril 2026 (21 490 postes, 26% du total), deuxieme mois consecutif. Aucune loi federale..."
 date: 2026-05-19
 category: "menace"
 impactLevel: 4

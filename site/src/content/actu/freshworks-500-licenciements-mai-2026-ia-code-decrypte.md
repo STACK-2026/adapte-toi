@@ -1,6 +1,6 @@
 ---
 title: "Freshworks licencie 500 personnes : 'plus de la moitié de notre code est écrit par l'IA', dit le CEO"
-description: "Le 6 mai 2026, Freshworks supprime 500 postes (11% des effectifs) malgré +16% Q1. Le CEO lie les coupes au code IA. Décryptage adapte-toi pour les ingénieurs en France."
+description: "Le 6 mai 2026, Freshworks supprime 500 postes (11% des effectifs) malgré +16% Q1. Le CEO lie les coupes au code IA. Décryptage adapte-toi pour les..."
 date: 2026-05-08
 category: "etude"
 impactLevel: 4

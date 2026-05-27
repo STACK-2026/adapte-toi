@@ -1,6 +1,6 @@
 ---
 title: "Sexisme algorithmique : quand l'IA recrée les inégalités au boulot sans qu'on le voie"
-description: "Les IA amplifient les biais sexistes dans le recrutement, les salaires et les prêts bancaires. Décryptage des mécanismes invisibles qui pénalisent les femmes au travail, et comment s'en protéger."
+description: "Les IA amplifient les biais sexistes dans le recrutement, les salaires et les prêts bancaires. Décryptage des mécanismes invisibles qui pénalisent les..."
 image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Salle serveur d'un data center avec baies réseau alignées, lumière bleutée"
 date: 2026-04-24

@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare licencie 1 100 personnes alors que son CA bat un record : l'IA agentique devient un motif officiel"
-description: "Le 7 mai 2026, Cloudflare supprime 1 100 postes (environ 20% des effectifs) malgré 639,8 M$ de CA Q1 (+34%). Le CEO Matthew Prince justifie par l'ère agentique IA. Décryptage adapte-toi pour la France."
+description: "Le 7 mai 2026, Cloudflare supprime 1 100 postes (environ 20% des effectifs) malgré 639,8 M$ de CA Q1 (+34%). Le CEO Matthew Prince justifie par l'ère..."
 date: 2026-05-12
 category: "menace"
 impactLevel: 4

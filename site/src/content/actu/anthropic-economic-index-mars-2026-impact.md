@@ -1,6 +1,6 @@
 ---
 title: "Anthropic Economic Index : -67 % de juniors dans les centres d'appels, le rapport qui chiffre ce que tout le monde suspectait"
-description: "Anthropic publie en mars 2026 l'une des études les plus précises jamais produites sur l'impact de Claude sur l'emploi. Les chiffres par secteur sont brutaux, on les décortique métier par métier."
+description: "Anthropic publie en mars 2026 l'une des études les plus précises jamais produites sur l'impact de Claude sur l'emploi. Les chiffres par secteur sont..."
 image: "https://images.unsplash.com/photo-1518544866330-95a2bec01da2?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Pièce de monnaie Bitcoin posée sur un écran affichant des graphiques de marché, ambiance fintech"
 date: 2026-04-11

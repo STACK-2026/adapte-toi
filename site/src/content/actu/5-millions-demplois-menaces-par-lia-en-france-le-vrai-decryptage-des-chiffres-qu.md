@@ -1,6 +1,6 @@
 ---
 title: "5 millions d'emplois menacés par l'IA en France : le vrai décryptage des chiffres qui font peur"
-description: "L'IA générative pourrait toucher 16,3% des emplois français d'ici 2030, soit 5 millions de personnes. On te dit quels métiers sont vraiment en danger, pourquoi les cadres sont en première ligne, et comment te préparer concrètement."
+description: "L'IA générative pourrait toucher 16,3% des emplois français d'ici 2030, soit 5 millions de personnes. On te dit quels métiers sont vraiment en danger,..."
 image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureau vide la nuit avec ecran allume affichant une interface d'agent IA en activite"
 date: 2026-04-19

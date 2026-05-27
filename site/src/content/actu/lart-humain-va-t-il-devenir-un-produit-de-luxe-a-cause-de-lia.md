@@ -1,6 +1,6 @@
 ---
 title: "L'art humain va-t-il devenir un produit de luxe à cause de l'IA ?"
-description: "L'IA inonde le marché de contenus culturels synthétiques, menaçant la valeur des œuvres humaines. Deux experts décryptent ce risque et proposent des solutions concrètes pour les artistes et les consommateurs."
+description: "L'IA inonde le marché de contenus culturels synthétiques, menaçant la valeur des œuvres humaines. Deux experts décryptent ce risque et proposent des..."
 image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Salle serveur d'un data center avec baies réseau alignées, lumière bleutée"
 date: 2026-04-24

@@ -1,6 +1,6 @@
 ---
 title: "L'IA explose, ton job aussi ? Le vrai bilan de l'AI Index 2026"
-description: "L'AI Index 2026 révèle une industrie de l'IA en hypercroissance, mais avec des coûts cachés : emplois en danger, opinion publique méfiante, et Chine qui rattrape les États-Unis. On décrypte ce que ça change pour toi."
+description: "L'AI Index 2026 révèle une industrie de l'IA en hypercroissance, mais avec des coûts cachés : emplois en danger, opinion publique méfiante, et Chine qui..."
 image: "https://images.unsplash.com/photo-1518544866330-95a2bec01da2?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Pièce de monnaie Bitcoin posée sur un écran affichant des graphiques de marché, ambiance fintech"
 date: 2026-04-20

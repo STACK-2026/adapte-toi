@@ -1,6 +1,6 @@
 ---
 title: "Etude Gartner mai 2026 : 80% des entreprises qui licencient au nom de l'IA n'ont aucun ROI a montrer"
-description: "Gartner publie le 5 mai 2026 une enquete sur 350 dirigeants : 80% des organisations qui deploient l'IA autonome reduisent leurs effectifs, mais ces coupes ne se traduisent pas en retour sur investissement. Decryptage adapte-toi pour ton job."
+description: "Gartner publie le 5 mai 2026 une enquete sur 350 dirigeants : 80% des organisations qui deploient l'IA autonome reduisent leurs effectifs, mais ces coupes..."
 date: 2026-05-06
 category: "etude"
 impactLevel: 4

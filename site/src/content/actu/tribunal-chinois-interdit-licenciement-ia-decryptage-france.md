@@ -1,6 +1,6 @@
 ---
 title: "Un tribunal chinois interdit de licencier pour cause d'IA : ce que ca change pour ton job en France"
-description: "Le 30 avril 2026, le tribunal intermediaire de Hangzhou a juge illegal le licenciement d'un salarie remplace par un grand modele de langage. Decryptage adapte-toi : ce que ce precedent dit du droit du travail face a l'IA, et ce que tu peux opposer en France."
+description: "Le 30 avril 2026, le tribunal intermediaire de Hangzhou a juge illegal le licenciement d'un salarie remplace par un grand modele de langage. Decryptage..."
 date: 2026-05-04
 category: "politique"
 impactLevel: 4
