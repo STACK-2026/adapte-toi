@@ -39,7 +39,6 @@ relatedOutils:
   - "chatgpt"
   - "copilot"
   - "zapier"
-imageAlt: "Un employé de Snap regarde son écran avec un message de licenciement, tandis qu'un robot IA travaille à sa place en arrière-plan."
 keywords: "licenciements IA, Snap, AI-washing, réalité augmentée, reconversion tech, automatisation emplois, Evan Spiegel, Silicon Valley"
 lastReviewed: 2026-04-22
 reviewedBy: "La Rédaction Adapte-toi"

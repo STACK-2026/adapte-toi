@@ -42,7 +42,6 @@ relatedOutils:
   - "copilot"
   - "cursor"
   - "perplexity"
-imageAlt: "Capture d'écran de l'interface Gemini 2.0 affichant une conversation avec génération d'image et recherche intégrée"
 keywords: "Gemini 2.0, Google, IA agentique, automatisation, reconversion, métiers menacés, développement IA, assistants autonomes, multimodalité, Deep Research"
 lastReviewed: 2024-12-20
 reviewedBy: "La Rédaction Adapte-toi"

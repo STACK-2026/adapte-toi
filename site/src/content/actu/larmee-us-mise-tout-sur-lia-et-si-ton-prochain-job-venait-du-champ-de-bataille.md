@@ -41,7 +41,6 @@ relatedOutils:
   - "perplexity"
   - "copilot"
   - "cursor"
-imageAlt: "Un drone militaire survolant un paysage désertique, avec des données d'IA superposées en transparence."
 keywords: "IA militaire, projet Maven, reconversion, data analyst, consultant IA, Pentagone, drones, automatisation, emploi, formation"
 lastReviewed: 2026-04-23
 reviewedBy: "La Rédaction Adapte-toi"

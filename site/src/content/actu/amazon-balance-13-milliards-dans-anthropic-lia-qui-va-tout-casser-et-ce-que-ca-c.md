@@ -40,7 +40,6 @@ relatedOutils:
   - "chatgpt"
   - "copilot"
   - "cursor"
-imageAlt: "Un data center AWS avec des serveurs Trainium, symbolisant l'alliance entre Amazon et Anthropic pour dominer l'IA."
 keywords: "Anthropic, Amazon, AWS, IA générative, Trainium, cloud, reconversion, métiers IA, automatisation, puces IA"
 lastReviewed: 2026-04-22
 reviewedBy: "La Rédaction Adapte-toi"

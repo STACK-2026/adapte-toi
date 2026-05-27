@@ -38,7 +38,6 @@ relatedOutils:
   - "claude"
   - "chatgpt"
   - "perplexity"
-imageAlt: "Un écran d'ordinateur avec un œil géant qui observe les mouvements de souris, symbolisant la surveillance de Meta."
 keywords: "Meta, surveillance employés, IA, RGPD, droit du travail, automatisation, emploi tech, Andrew Bosworth, Model Capability Initiative, MCI"
 lastReviewed: 2026-04-23
 reviewedBy: "La Rédaction Adapte-toi"

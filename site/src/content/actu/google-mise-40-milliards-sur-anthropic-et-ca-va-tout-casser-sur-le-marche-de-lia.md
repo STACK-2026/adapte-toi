@@ -41,7 +41,6 @@ relatedOutils:
   - "chatgpt"
   - "copilot"
   - "cursor"
-imageAlt: "Un data center rempli de serveurs TPU Google, avec le logo Anthropic en surimpression."
 keywords: "Anthropic, Google, IA, investissement, compute, puces TPU, Claude, Mythos, emploi tech, reconversion, data analyst, développeur IA, cybersécurité"
 lastReviewed: 2026-04-25
 reviewedBy: "La Rédaction Adapte-toi"

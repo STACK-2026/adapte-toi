@@ -38,7 +38,6 @@ relatedOutils:
   - "claude"
   - "chatgpt"
   - "copilot"
-imageAlt: "Graphique montrant l'explosion des dépenses en IA et des incidents liés à l'IA depuis 2020"
 keywords: "IA, emploi, AI Index 2026, Chine, États-Unis, robotique, reconversion, développeurs, coûts IA, impact écologique"
 lastReviewed: 2026-04-20
 reviewedBy: "La Rédaction Adapte-toi"

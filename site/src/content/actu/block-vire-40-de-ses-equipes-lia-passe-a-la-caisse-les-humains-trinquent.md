@@ -40,7 +40,6 @@ relatedOutils:
   - "chatgpt"
   - "copilot"
   - "zapier"
-imageAlt: "Jack Dorsey, PDG de Block, lors d'une conférence sur le bitcoin en 2021, devant un écran affichant des graphiques financiers générés par IA."
 keywords: "Block, IA, licenciements, fintech, cols blancs, automatisation, reconversion, Jack Dorsey, Square, Cash App, marché du travail, tech"
 lastReviewed: 2026-04-19
 reviewedBy: "La Rédaction Adapte-toi"

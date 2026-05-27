@@ -39,7 +39,6 @@ relatedOutils:
   - "chatgpt"
   - "copilot"
   - "cursor"
-imageAlt: "Graphique montrant l'explosion des coûts d'entraînement des modèles d'IA en 2026"
 keywords: "IA, emploi, AI Index 2026, automatisation, reconversion, Chine, États-Unis, robots, coûts IA, recrutement, développeurs"
 lastReviewed: 2026-04-20
 reviewedBy: "La Rédaction Adapte-toi"

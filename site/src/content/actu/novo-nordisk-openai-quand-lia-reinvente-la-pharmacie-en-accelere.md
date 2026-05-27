@@ -39,7 +39,6 @@ relatedOutils:
   - "chatgpt"
   - "claude"
   - "copilot"
-imageAlt: "Un scientifique utilise une interface d'IA pour concevoir une molécule pharmaceutique sur un écran holographique."
 keywords: "pharmacie, IA, médicaments, Novo Nordisk, OpenAI, reconversion, biotech, fibrose pulmonaire, Rentosertib, Insilico Medicine"
 lastReviewed: 2026-04-21
 reviewedBy: "La Rédaction Adapte-toi"

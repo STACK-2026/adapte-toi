@@ -40,7 +40,6 @@ relatedOutils:
   - "chatgpt"
   - "perplexity"
   - "copilot"
-imageAlt: "Drapeau européen déchiré avec des circuits imprimés en arrière-plan, symbolisant le recul de l'UE sur la régulation de l'IA."
 keywords: "AI Act, régulation IA, Europe, emploi, reconversion, OpenAI, Mistral, recrutement automatisé, souveraineté tech, biais algorithmiques, transparence IA, États-Unis, Chine, diplomatie tech"
 lastReviewed: 2026-04-19
 reviewedBy: "La Rédaction Adapte-toi"

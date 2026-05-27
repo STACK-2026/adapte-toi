@@ -35,7 +35,6 @@ relatedOutils:
   - "claude"
   - "midjourney"
   - "notion-ai"
-imageAlt: "Illustration d'une main humaine tenant un pinceau face à un écran affichant des œuvres générées par IA"
 keywords: "IA, art, création, culture, artistes, emploi, reconversion, label, Fabrication Humaine, droit d'auteur, automatisation"
 lastReviewed: 2026-04-24
 reviewedBy: "La Rédaction Adapte-toi"

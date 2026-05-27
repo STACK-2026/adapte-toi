@@ -38,7 +38,6 @@ relatedOutils:
   - "chatgpt"
   - "copilot"
   - "cursor"
-imageAlt: "Un ingénieur utilisant une tablette avec une interface IA, entouré de schémas techniques et de données."
 keywords: "ingénieur, IA, automatisation, bureau d'études, éco-conception, métallurgie, ChatGPT, compétences techniques, reconversion, productivité"
 lastReviewed: 2026-04-21
 reviewedBy: "La Rédaction Adapte-toi"

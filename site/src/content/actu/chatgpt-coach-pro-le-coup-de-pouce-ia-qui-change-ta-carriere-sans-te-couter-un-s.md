@@ -41,7 +41,6 @@ relatedOutils:
   - "claude"
   - "perplexity"
   - "notion-ai"
-imageAlt: "Un manager utilisant ChatGPT sur son ordinateur portable pour préparer un entretien d'évaluation"
 keywords: "ChatGPT, coach professionnel, IA emploi, management, feedback, formation continue, reconversion, soft skills, productivité"
 lastReviewed: 2026-04-21
 reviewedBy: "La Rédaction Adapte-toi"

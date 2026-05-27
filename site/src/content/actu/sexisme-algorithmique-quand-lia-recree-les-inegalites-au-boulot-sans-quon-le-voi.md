@@ -39,7 +39,6 @@ relatedOutils:
   - "claude"
   - "chatgpt"
   - "midjourney"
-imageAlt: "Illustration montrant une femme devant un écran d'IA affichant des données biaisées, avec des stéréotypes de genre en filigrane"
 keywords: "biais algorithmiques, sexisme, IA, recrutement, salaire, prêt bancaire, AI Act, discrimination, genre, reconversion"
 lastReviewed: 2026-04-24
 reviewedBy: "La Rédaction Adapte-toi"

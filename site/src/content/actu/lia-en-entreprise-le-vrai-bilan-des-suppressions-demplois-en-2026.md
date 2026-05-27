@@ -41,7 +41,6 @@ relatedOutils:
   - "copilot"
   - "zapier"
   - "notion-ai"
-imageAlt: "Un bureau d'entreprise vide avec un écran affichant 'Productivité optimisée par IA' en gros caractères"
 keywords: "IA entreprise, suppression emplois, automatisation, reconversion professionnelle, Cobl, Damien Hontang, cols blancs, Dares, France 2026"
 lastReviewed: 2026-04-22
 reviewedBy: "La Rédaction Adapte-toi"

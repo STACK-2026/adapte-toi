@@ -32,7 +32,6 @@ relatedGuides:
 relatedOutils:
   - "perplexity"
   - "notion-ai"
-imageAlt: "Capture d'écran du site de France Travail avec une formation intitulée « Rencontre avec les êtres de la nature » en surbrillance rouge."
 keywords: "formation professionnelle, France Travail, dérives sectaires, Qualiopi, reconversion, financement CPF, Miviludes, Carif-Oref, emploi, arnaque"
 lastReviewed: 2026-04-18
 reviewedBy: "La Rédaction Adapte-toi"

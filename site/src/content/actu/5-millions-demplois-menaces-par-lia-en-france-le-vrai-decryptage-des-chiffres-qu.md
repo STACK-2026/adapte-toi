@@ -39,7 +39,6 @@ relatedOutils:
   - "claude"
   - "chatgpt"
   - "perplexity"
-imageAlt: "Un architecte utilisant une tablette avec un rendu 3D généré par IA, entouré de plans papier et d'un écran affichant des données."
 keywords: "IA emploi France, automatisation métiers qualifiés, reconversion professionnelle IA, Coface OEM étude, 5 millions emplois menacés, plan Osez l'IA, métiers exposés IA, formation IA 2030"
 lastReviewed: 2026-04-19
 reviewedBy: "La Rédaction Adapte-toi"
