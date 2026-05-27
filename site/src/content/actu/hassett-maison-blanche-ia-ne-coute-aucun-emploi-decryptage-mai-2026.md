@@ -1,6 +1,6 @@
 ---
 title: "Hassett (Maison Blanche) : 'aucun signe que l'IA coûte des emplois' face à 49 135 coupes IA en 2026"
-description: "Hassett (Maison Blanche) affirme sur CNBC qu'il n'y a 'no sign in the data' que l'IA détruit des emplois — face aux 49 135 coupes IA documentées en 2026."
+description: "Hassett (Maison Blanche) affirme sur CNBC qu'il n'y a 'no sign in the data' que l'IA détruit des emplois , face aux 49 135 coupes IA documentées en 2026."
 date: 2026-05-14
 category: "etude"
 impactLevel: 4
