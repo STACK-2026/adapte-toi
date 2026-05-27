@@ -1,6 +1,8 @@
 ---
 title: "Google mise 40 milliards sur Anthropic, et ça va tout casser sur le marché de l'IA"
 description: "Google injecte jusqu'à 40 milliards dans Anthropic, son rival en IA. Un coup de poker qui va accélérer la course aux talents, aux puces et aux emplois, voici ce que ça change pour toi."
+image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Bureau vide la nuit avec ecran allume affichant une interface d'agent IA en activite"
 date: 2026-04-25
 category: "annonce"
 impactLevel: 5

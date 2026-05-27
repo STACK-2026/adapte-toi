@@ -1,6 +1,8 @@
 ---
 title: "Ruffin sur TikTok avec Claude : quand la gauche découvre l'IA en live"
 description: "François Ruffin publie une série de TikTok où il dialogue en direct avec Claude sur l'emploi et la désindustrialisation. Le député insoumis utilise l'IA pour déconstruire l'IA. On décrypte pourquoi c'est un tournant politique."
+image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Bureau vide la nuit avec ecran allume affichant une interface d'agent IA en activite"
 date: 2026-04-14
 category: "voix"
 impactLevel: 4

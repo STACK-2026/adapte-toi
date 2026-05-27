@@ -1,6 +1,8 @@
 ---
 title: "Comptable et IA en 2026 : 80% automatisé, 20% qui valent gros"
 description: "Comptable face à l'IA en 2026 : score d'impact 7/10, salaires, outils essentiels (Pennylane, Claude, ChatGPT), trajectoires de reconversion vers le conseil."
+image: "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Bureau de fintech avec ecrans de paiement et logo flou en arriere-plan"
 metier: "Comptable / Expert-comptable"
 riskScore: 7
 riskLevel: "eleve"

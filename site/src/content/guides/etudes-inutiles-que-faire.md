@@ -1,6 +1,8 @@
 ---
 title: "Tes études ne servent plus à rien ? Ce que tu peux faire maintenant"
 description: "Le diplôme ne garantit plus rien face à l'IA. Ce que les étudiants et jeunes diplômés peuvent faire concrètement."
+image: "https://images.unsplash.com/photo-1518544866330-95a2bec01da2?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Pièce de monnaie Bitcoin posée sur un écran affichant des graphiques de marché, ambiance fintech"
 date: 2026-04-13
 lastReviewed: 2026-04-13
 author: "La Rédaction Adapte-toi"

@@ -1,6 +1,8 @@
 ---
 title: "Formation IA sans le bac : 7 voies réelles en 2026 (RNCP, freelance, autodidaxie)"
 description: "Se former à l'IA sans le bac en 2026 : 7 parcours concrets (OpenClassrooms RNCP, autodidaxie, freelance, AFPA), financements, témoignages, salaires."
+image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Etudiant prenant des notes lors d'une formation"
 date: 2026-04-26
 lastReviewed: 2026-04-26
 author: "La Rédaction Adapte-toi"

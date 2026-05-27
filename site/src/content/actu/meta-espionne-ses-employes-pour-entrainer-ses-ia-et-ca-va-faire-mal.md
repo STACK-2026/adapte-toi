@@ -1,6 +1,8 @@
 ---
 title: "Meta espionne ses employés pour entraîner ses IA, et ça va faire mal"
 description: "Meta déploie un outil de surveillance totale des employés pour nourrir ses IA. Entre RGPD, droit du travail et dystopie tech, voici ce que ça change pour toi."
+image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Bureaux corporate avec open space et ecran d'ordinateur affichant un graphique financier"
 date: 2026-04-23
 category: "menace"
 impactLevel: 4

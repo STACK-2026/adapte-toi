@@ -1,6 +1,8 @@
 ---
 title: "Claude AI marketing : guide pratique complet 2026"
 description: "Claude AI change la donne pour les marketeurs. Cas d'usage, prompts avancés, GEO, Artifacts : le guide complet pour booster ta productivité en 2026."
+image: "https://images.unsplash.com/photo-1648134859187-71dadc9f815a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Nzg4MzB8MHwxfHNlYXJjaHwyfHx3b3JrZmxvdyUyMGF1dG9tYXRpb24lMjBkYXNoYm9hcmR8ZW58MXwwfHx8MTc3ODYwMDQzOXww&ixlib=rb-4.1.0&q=80&w=1080&w=1200&h=630&fit=crop&q=80"
+imageAlt: "Claude AI marketing : guide pratique complet 2026"
 date: 2026-05-04
 author: "La Rédaction Adapte-toi"
 category: "outils-ia"

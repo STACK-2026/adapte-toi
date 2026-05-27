@@ -1,6 +1,8 @@
 ---
 title: "Développeur et IA en 2026 : +60% d'offres, productivité x2, le code change"
 description: "Développeur face à l'IA en 2026 : score 5/10 (transformé pas remplacé), salaires +25%, outils (Cursor, Copilot, Claude), trajectoires senior et IA Engineer."
+image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Bureau vide la nuit avec ecran allume affichant une interface d'agent IA en activite"
 metier: "Développeur / Software engineer"
 riskScore: 5
 riskLevel: "moyen"

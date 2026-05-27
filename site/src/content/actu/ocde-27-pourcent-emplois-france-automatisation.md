@@ -1,6 +1,8 @@
 ---
 title: "OCDE : 27 % des emplois français exposés à l'automatisation d'ici 2030, ce que le rapport ne dit pas assez fort"
 description: "Le chiffre OCDE de 27 % revient partout, mais personne ne précise ce qu'il recouvre vraiment. On décortique le rapport, on nomme les secteurs, on sépare les postes qui disparaissent de ceux qui mutent."
+image: "https://images.unsplash.com/photo-1518544866330-95a2bec01da2?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Pièce de monnaie Bitcoin posée sur un écran affichant des graphiques de marché, ambiance fintech"
 date: 2026-04-13
 category: "etude"
 impactLevel: 5

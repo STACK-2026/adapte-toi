@@ -1,6 +1,8 @@
 ---
 title: "Certification IA : Top 10 des diplômes reconnus en France"
 description: "Comparatif des 10 meilleures certifications IA en France : coût, éligibilité CPF, profil cible. Guide zéro bullshit pour salarié, freelance ou en reconversion."
+image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Etudiant prenant des notes lors d'une formation"
 date: 2026-05-15
 author: "La Rédaction Adapte-toi"
 category: "formation"

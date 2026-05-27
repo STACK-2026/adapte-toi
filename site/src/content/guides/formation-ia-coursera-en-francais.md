@@ -1,6 +1,8 @@
 ---
 title: "Formation IA Coursera en français : 12 cours gratuits ou certifiants en 2026"
 description: "Coursera en français pour l'IA en 2026 : 12 formations testées (Google, IBM, deeplearning.ai), prix réels, certifications utiles, parcours par niveau."
+image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Etudiant prenant des notes lors d'une formation"
 date: 2026-04-26
 lastReviewed: 2026-04-26
 author: "La Rédaction Adapte-toi"

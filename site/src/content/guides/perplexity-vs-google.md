@@ -1,6 +1,8 @@
 ---
 title: "Perplexity vs Google : Google ne suffit plus en 2026 ?"
 description: "Perplexity vs Google : moteur de réponse IA contre moteur de recherche. Test 5 scénarios pro, business models opposés, verdict par métier."
+image: "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Logo Meta sur une façade d'immeuble en verre, ambiance corporate moderne"
 date: 2026-04-25
 lastReviewed: 2026-04-25
 author: "La Rédaction Adapte-toi"

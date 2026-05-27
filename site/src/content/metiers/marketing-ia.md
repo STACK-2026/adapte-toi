@@ -1,6 +1,8 @@
 ---
 title: "Marketing et IA en 2026 : 70% du travail transformé, +47% d'offres"
 description: "Marketeur face à l'IA en 2026 : score 7/10, salaires, outils (ChatGPT, Surfer SEO, HubSpot AI), trajectoires de spécialisation IA marketing."
+image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Bureau vide la nuit avec ecran allume affichant une interface d'agent IA en activite"
 metier: "Marketeur / Responsable marketing"
 riskScore: 7
 riskLevel: "eleve"

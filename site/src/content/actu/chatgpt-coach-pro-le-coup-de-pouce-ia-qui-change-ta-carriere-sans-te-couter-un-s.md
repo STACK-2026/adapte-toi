@@ -1,6 +1,8 @@
 ---
 title: "ChatGPT coach pro : le coup de pouce IA qui change ta carrière (sans te coûter un SMIC)"
 description: "82% des jeunes managers utilisent ChatGPT comme coach professionnel. On décrypte pourquoi cet outil IA devient indispensable pour gérer une équipe, négocier ou se former - et comment l'utiliser sans se faire avoir."
+image: "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Journaliste devant un ordinateur, salle de presse"
 date: 2026-04-21
 category: "outil"
 impactLevel: 4

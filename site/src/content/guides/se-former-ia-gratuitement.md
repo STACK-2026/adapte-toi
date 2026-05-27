@@ -1,6 +1,8 @@
 ---
 title: "Se former à l'IA gratuitement en 2026 : toutes les ressources (pillar)"
 description: "Le guide complet pour apprendre l'IA gratuitement en 2026 : 5 niveaux, 30 ressources testées, parcours par profil, certifications. Pas de bootcamp à 5000 euros."
+image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Etudiant prenant des notes lors d'une formation"
 date: 2026-04-13
 lastReviewed: 2026-04-26
 author: "La Rédaction Adapte-toi"

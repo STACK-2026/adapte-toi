@@ -1,6 +1,8 @@
 ---
 title: "Farfadets, chamanisme, formations bidon : France Travail passe à l'attaque (enfin)"
 description: "France Travail va lancer un outil de signalement des formations douteuses après des scandales à répétition. 250 déjà retirées, mais le système reste troué comme une passoire."
+image: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Marteau de juge devant un ecran d'ordinateur, ambiance feutree"
 date: 2026-04-18
 category: "politique"
 impactLevel: 4

@@ -1,6 +1,8 @@
 ---
 title: "Automatiser 80% de ton travail avec l'IA : méthode pas à pas"
 description: "Identifie tes tâches automatisables, choisis les bons outils, crée tes premiers workflows. Guide pratique gratuit."
+image: "https://images.unsplash.com/photo-1648134859187-71dadc9f815a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Nzg4MzB8MHwxfHNlYXJjaHwyfHx3b3JrZmxvdyUyMGF1dG9tYXRpb24lMjBkYXNoYm9hcmR8ZW58MXwwfHx8MTc3ODYwMDQzOXww&ixlib=rb-4.1.0&q=80&w=1080&w=1200&h=630&fit=crop&q=80"
+imageAlt: "Automatiser 80% de ton travail avec l'IA : méthode pas à pas"
 date: 2026-04-13
 lastReviewed: 2026-04-13
 author: "La Rédaction Adapte-toi"

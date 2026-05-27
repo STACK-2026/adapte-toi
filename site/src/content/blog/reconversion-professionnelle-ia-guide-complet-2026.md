@@ -1,6 +1,8 @@
 ---
 title: "Reconversion IA 2026 : 4M emplois menacés, 8 métiers d'avenir, plan 12 mois"
 description: "Reconversion professionnelle IA : 4M+ emplois menacés, 30% des tâches automatisées d'ici 2030. Guide complet avec métiers d'avenir et plan d'action concret."
+image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Bureau vide la nuit avec ecran allume affichant une interface d'agent IA en activite"
 date: 2026-04-14
 lastReviewed: 2026-04-14
 reviewedBy: "La Rédaction Adapte-toi"

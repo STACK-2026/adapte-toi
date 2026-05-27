@@ -1,6 +1,8 @@
 ---
 title: "Avocat et IA en 2026 : 60% des tâches automatisées, mais tu signes toujours"
 description: "Avocat face à l'IA en 2026 : score d'impact 6/10, salaires, outils (Doctrine, Claude, ChatGPT), trajectoires de spécialisation. Sécurité RGPD critique."
+image: "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Bureau de fintech avec ecrans de paiement et logo flou en arriere-plan"
 metier: "Avocat / Juriste"
 riskScore: 6
 riskLevel: "moyen"

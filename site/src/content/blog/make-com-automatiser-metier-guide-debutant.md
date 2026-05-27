@@ -1,6 +1,8 @@
 ---
 title: "Make.com débutant : automatiser son métier avec l'IA"
 description: "Make.com permet d'automatiser tes tâches répétitives sans coder. Guide complet 2026 : cas d'usages, comparatif Zapier, IA intégrée et reconversion."
+image: "https://images.unsplash.com/photo-1648134859187-71dadc9f815a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Nzg4MzB8MHwxfHNlYXJjaHwyfHx3b3JrZmxvdyUyMGF1dG9tYXRpb24lMjBkYXNoYm9hcmR8ZW58MXwwfHx8MTc3ODYwMDQzOXww&ixlib=rb-4.1.0&q=80&w=1080&w=1200&h=630&fit=crop&q=80"
+imageAlt: "Make.com débutant : automatiser son métier avec l'IA"
 date: 2026-05-12
 author: "La Rédaction Adapte-toi"
 category: "outils-ia"

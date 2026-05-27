@@ -1,6 +1,8 @@
 ---
 title: "L'IA en entreprise : le vrai bilan des suppressions d'emplois en 2026"
 description: "En 2026, l'IA grignote 15% des tâches administratives et menace 300 000 postes en France. On te dit quels métiers trinquent, qui en profite, et comment te préparer avant que ton job ne soit automatisé."
+image: "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Salle serveurs et open space d'entreprise tech"
 date: 2026-04-22
 category: "menace"
 impactLevel: 4

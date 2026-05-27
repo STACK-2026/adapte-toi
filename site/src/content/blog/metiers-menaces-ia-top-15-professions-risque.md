@@ -1,6 +1,8 @@
 ---
 title: "Métiers menacés par l'IA : Top 15 des professions à risque 2"
 description: "15 métiers menacés par l'IA selon Anthropic 2026 : -67% centres d'appels, -53% rédaction. Découvre les professions à risque et les stratégies d'adaptation."
+image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Etudiant prenant des notes lors d'une formation"
 date: 2026-04-15
 author: "La Rédaction Adapte-toi"
 category: "métiers-ia"

@@ -1,6 +1,8 @@
 ---
 title: "Développeur expert IA : reconversion, salaires et parcours"
 description: "De dev à expert IA : salaires réels, compétences clés, spécialisations et témoignages de reconvertis. Le guide sans bullshit pour réussir ta transition en 2026."
+image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Bureaux corporate avec open space et ecran d'ordinateur affichant un graphique financier"
 date: 2026-05-06
 author: "La Rédaction Adapte-toi"
 category: "temoignages"

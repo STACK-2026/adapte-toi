@@ -1,6 +1,8 @@
 ---
 title: "Alternatives françaises à Cursor et Copilot en 2026 : Mistral Codestral"
 description: "Les 5 alternatives françaises à Cursor et GitHub Copilot en 2026 : Codestral via Continue, Le Chat, Albert, Hugging Chat. RGPD, prix, qualité."
+image: "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Bureau de fintech avec ecrans de paiement et logo flou en arriere-plan"
 date: 2026-04-26
 lastReviewed: 2026-04-26
 author: "La Rédaction Adapte-toi"

@@ -1,6 +1,8 @@
 ---
 title: "Étude OCDE : l'IA va-t-elle détruire l'emploi en Europe ?"
 description: "27% des emplois européens exposés à l'IA selon l'OCDE. Ce que ça veut dire pour toi, quels métiers sont menacés et comment agir dès maintenant."
+image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Bureau vide la nuit avec ecran allume affichant une interface d'agent IA en activite"
 date: 2026-05-08
 author: "La Rédaction Adapte-toi"
 category: "etudes-rapports"

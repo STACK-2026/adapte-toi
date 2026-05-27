@@ -1,6 +1,8 @@
 ---
 title: "DRH et IA 2026 : le métier RH transformé en profondeur"
 description: "L'IA transforme le métier de DRH en 2026 : recrutement, formation, éthique. Compétences requises, outils concrets et nouveaux rôles. Guide complet et chiffré."
+image: "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Journaliste devant un ordinateur, salle de presse"
 date: 2026-05-14
 author: "La Rédaction Adapte-toi"
 category: "metiers-ia"

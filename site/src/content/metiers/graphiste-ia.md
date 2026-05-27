@@ -1,6 +1,8 @@
 ---
 title: "Graphiste et IA en 2026 : génériques morts, premium x3 plus payés"
 description: "Graphiste face à l'IA en 2026 : score 8/10, salaires, outils (Midjourney, Firefly, Photoshop), trajectoires Direction Artistique et freelance pro."
+image: "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Bureau de fintech avec ecrans de paiement et logo flou en arriere-plan"
 metier: "Graphiste / Designer / Directeur artistique"
 riskScore: 8
 riskLevel: "eleve"

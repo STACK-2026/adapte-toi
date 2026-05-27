@@ -1,6 +1,8 @@
 ---
 title: "50 outils IA gratuits en 2026 : annuaire complet (par usage et métier)"
 description: "L'annuaire complet des 50 meilleurs outils IA gratuits en 2026 : assistant, recherche, code, image, vidéo, productivité, voix. Testés et classés par usage."
+image: "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Bureau de fintech avec ecrans de paiement et logo flou en arriere-plan"
 date: 2026-04-26
 lastReviewed: 2026-04-26
 author: "La Rédaction Adapte-toi"

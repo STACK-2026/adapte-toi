@@ -1,6 +1,8 @@
 ---
 title: "Rapport McKinsey 2026 : Impact de l'IA sur l'emploi français"
 description: ""
+image: "https://images.unsplash.com/photo-1518544866330-95a2bec01da2?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Pièce de monnaie Bitcoin posée sur un écran affichant des graphiques de marché, ambiance fintech"
 date: 2026-04-23
 author: "La Rédaction Adapte-toi"
 category: "etudes-rapports"

@@ -1,6 +1,8 @@
 ---
 title: "Devenir freelance grâce à l'IA : le guide ultime 2026"
 description: "Comment lancer ton activité de freelance augmenté par l'IA. Positionnement, outils, tarifs, clients. Guide gratuit."
+image: "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Bureau de freelance avec ordinateur portable, carnet et café, lumière du matin"
 date: 2026-04-13
 lastReviewed: 2026-04-13
 author: "La Rédaction Adapte-toi"

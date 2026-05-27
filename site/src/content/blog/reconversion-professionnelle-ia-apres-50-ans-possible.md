@@ -1,6 +1,8 @@
 ---
 title: "Reconversion IA après 50 ans : guide complet 2026"
 description: "Reconversion IA 50 ans : métiers accessibles, compétences transférables, formations, témoignages. Le guide zero bullshit pour seniors ambitieux. 3 niveaux d'acc"
+image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Bureau vide la nuit avec ecran allume affichant une interface d'agent IA en activite"
 date: 2026-05-13
 author: "La Rédaction Adapte-toi"
 category: "reconversion"

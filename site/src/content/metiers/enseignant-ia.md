@@ -1,6 +1,8 @@
 ---
 title: "Enseignant et IA en 2026 : 8-15h gagnées par semaine, pédagogie 100% humaine"
 description: "Enseignant face à l'IA en 2026 : score 3/10 (SAFE), salaires Education Nationale, outils (ChatGPT, Claude, Diffit), cadre légal EN strict."
+image: "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Bureau de fintech avec ecrans de paiement et logo flou en arriere-plan"
 metier: "Enseignant / Professeur / Formateur"
 riskScore: 3
 riskLevel: "faible"

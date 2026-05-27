@@ -1,6 +1,8 @@
 ---
 title: "AI Act européen : Bruxelles recule sous pression US, et ton job dans tout ça ?"
 description: "L'UE s'apprête à reporter l'AI Act sous la pression américaine, un coup dur pour la régulation, mais une aubaine pour les boîtes qui misent sur l'IA sans garde-fous. On décrypte ce que ça change pour ton emploi, ta reconversion et la souveraineté tech."
+image: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Marteau de juge devant un ecran d'ordinateur, ambiance feutree"
 date: 2026-04-19
 category: "politique"
 impactLevel: 4

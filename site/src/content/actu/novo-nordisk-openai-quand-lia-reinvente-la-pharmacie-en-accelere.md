@@ -1,6 +1,8 @@
 ---
 title: "Novo Nordisk + OpenAI : quand l'IA réinvente la pharmacie en accéléré"
 description: "Le géant danois du diabète s'allie à OpenAI pour concevoir des médicaments en 2 ans au lieu de 10. Qui va gagner, qui va perdre, et comment en profiter ?"
+image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Bureau vide la nuit avec ecran allume affichant une interface d'agent IA en activite"
 date: 2026-04-21
 category: "outil"
 impactLevel: 4

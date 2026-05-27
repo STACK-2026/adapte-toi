@@ -1,6 +1,8 @@
 ---
 title: "Agent immobilier et IA en 2026 : estimations auto, le contact humain prime"
 description: "Agent immobilier face à l'IA en 2026 : score 5/10, salaires (commission), outils (Estimimo, ChatGPT, Pricehubble), relation client reste reine."
+image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Bureau vide la nuit avec ecran allume affichant une interface d'agent IA en activite"
 metier: "Agent immobilier / Conseiller immobilier"
 riskScore: 5
 riskLevel: "moyen"

@@ -1,6 +1,8 @@
 ---
 title: "Emploi IA Suisse romande : salaires et opportunités 2026"
 description: "Les offres IA en Suisse ont été multipliées par 10 depuis 2018. Salaires, métiers qui recrutent et plan de reconversion concret pour la Suisse romande."
+image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Bureaux corporate avec open space et ecran d'ordinateur affichant un graphique financier"
 date: 2026-05-19
 author: "Theo Marchand"
 category: "actu-emploi"

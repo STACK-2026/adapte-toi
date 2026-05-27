@@ -1,6 +1,8 @@
 ---
 title: "L'IA explose, ton job tremble : le rapport qui change tout en 2026"
 description: "L'AI Index 2026 révèle une industrie en hypercroissance, des coûts environnementaux stratosphériques et un public de plus en plus méfiant. On décrypte ce que ça veut dire pour ton emploi, maintenant."
+image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Bureau vide la nuit avec ecran allume affichant une interface d'agent IA en activite"
 date: 2026-04-20
 category: "chiffre"
 impactLevel: 5

@@ -1,6 +1,8 @@
 ---
 title: "Cursor vs GitHub Copilot : lequel choisir pour coder en 2026"
 description: "Cursor ou GitHub Copilot en 2026 ? Comparatif détaillé prix, fonctionnalités, vitesse, version française, verdict par profil dev. Le guide tranché."
+image: "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Logo Meta sur une façade d'immeuble en verre, ambiance corporate moderne"
 date: 2026-04-25
 lastReviewed: 2026-04-25
 author: "La Rédaction Adapte-toi"

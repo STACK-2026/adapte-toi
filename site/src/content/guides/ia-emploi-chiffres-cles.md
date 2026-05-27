@@ -1,6 +1,8 @@
 ---
 title: "IA et emploi : toutes les études et chiffres clés en 2026"
 description: "Les 15 études majeures sur l'impact de l'IA sur l'emploi. Chiffres, sources, analyse. Tout en un seul endroit."
+image: "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Bureau de fintech avec ecrans de paiement et logo flou en arriere-plan"
 date: 2026-04-13
 lastReviewed: 2026-04-13
 author: "La Rédaction Adapte-toi"

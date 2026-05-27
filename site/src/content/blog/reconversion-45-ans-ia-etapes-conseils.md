@@ -1,6 +1,8 @@
 ---
 title: "Reconversion à 45 ans avec l'IA : Étapes et conseils"
 description: ""
+image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Bureaux corporate avec open space et ecran d'ordinateur affichant un graphique financier"
 date: 2026-04-29
 author: "La Rédaction Adapte-toi"
 category: "reconversion"

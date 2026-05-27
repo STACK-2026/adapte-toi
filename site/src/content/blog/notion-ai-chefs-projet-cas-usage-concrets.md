@@ -1,6 +1,8 @@
 ---
 title: "Notion AI pour chefs de projet : 10 cas d'usage concrets 202"
 description: "Notion AI booste vraiment la gestion de projet ? Cas d'usage concrets, comparatif ChatGPT/Copilot, limites et avis. Guide complet 2026 par Adapte-toi."
+image: "https://images.unsplash.com/photo-1648134859187-71dadc9f815a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Nzg4MzB8MHwxfHNlYXJjaHwyfHx3b3JrZmxvdyUyMGF1dG9tYXRpb24lMjBkYXNoYm9hcmR8ZW58MXwwfHx8MTc3ODYwMDQzOXww&ixlib=rb-4.1.0&q=80&w=1080&w=1200&h=630&fit=crop&q=80"
+imageAlt: "Notion AI pour chefs de projet : 10 cas d'usage concrets 202"
 date: 2026-05-18
 author: "Camille Renard"
 category: "outils-ia"

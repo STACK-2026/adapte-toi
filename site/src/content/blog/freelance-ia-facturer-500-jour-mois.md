@@ -1,6 +1,8 @@
 ---
 title: "Freelance IA : facturer 500€/jour en 6 mois (guide 2026)"
 description: "TJM freelance IA en 2026 : grille complète par métier, calcul de tarif et plan en 6 mois pour atteindre 500€/jour. Données réelles, zéro bullshit."
+image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Bureau vide la nuit avec ecran allume affichant une interface d'agent IA en activite"
 date: 2026-05-07
 author: "La Rédaction Adapte-toi"
 category: "freelance-ia"

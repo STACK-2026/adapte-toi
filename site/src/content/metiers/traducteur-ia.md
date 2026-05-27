@@ -1,6 +1,8 @@
 ---
 title: "Traducteur et IA en 2026 : 90% automatisé, post-éditeur et juridique survivent"
 description: "Traducteur face à l'IA en 2026 : score 9/10, salaires, urgence reconversion vers post-édition spécialisée, traduction juridique/médicale assermentée."
+image: "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Bureau de fintech avec ecrans de paiement et logo flou en arriere-plan"
 metier: "Traducteur / Interprète"
 riskScore: 9
 riskLevel: "tres-eleve"

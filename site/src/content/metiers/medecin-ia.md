@@ -1,6 +1,8 @@
 ---
 title: "Médecin et IA en 2026 : 32K projets BMO, ChatGPT clinicien, le diagnostic change"
 description: "Médecin face à l'IA en 2026 : score 4/10, salaires, IA clinique (GPT for Clinicians, Med-PaLM), 32K projets BMO non pourvus, métier transformé pas remplacé."
+image: "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?w=1200&h=630&fit=crop&q=80&auto=format"
+imageAlt: "Bureau de fintech avec ecrans de paiement et logo flou en arriere-plan"
 metier: "Médecin / Praticien hospitalier / Médecin libéral"
 riskScore: 4
 riskLevel: "moyen"
