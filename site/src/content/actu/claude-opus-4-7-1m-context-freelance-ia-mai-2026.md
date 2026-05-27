@@ -80,7 +80,7 @@ draft: false
 
 Anthropic vient de pousser la série Claude 4 à un cran qu'on n'avait jamais vu : Opus 4.7 et Sonnet 4.6 tournent désormais avec une fenêtre de contexte de **1 million de tokens** sur l'API, et Haiku 4.5 ramène le ticket d'entrée à un coût ridicule. Officiellement, c'est une mise à jour produit. Sur le terrain freelance et coder en France, c'est un séisme silencieux : les missions qui prenaient une semaine se règlent en deux jours, le prix au forfait remplace le taux journalier, et la valeur bascule du volume vers l'expertise contextuelle.
 
-Tu es développeur indépendant, consultant IA ou copywriter avec une grosse base documentaire ? Ce dossier te concerne. On a recoupé l'[annonce Anthropic 1M tokens](https://www.anthropic.com/news/1m-context), les benchmarks [Claude 4](https://www.anthropic.com/news/claude-4) et [Opus 4.1](https://www.anthropic.com/news/claude-opus-4-1), le [pricing API](https://www.anthropic.com/pricing), les couvertures [TechCrunch](https://techcrunch.com/2025/08/12/anthropic-doubles-claude-sonnet-4s-context-window-to-1m-tokens/) et [The Verge](https://www.theverge.com/news/758017/anthropic-claude-sonnet-4-1-million-tokens-context), et les chiffres du [Stanford AI Index 2025](https://aiindex.stanford.edu/report/).
+Tu es développeur indépendant, consultant IA ou copywriter avec une grosse base documentaire ? Ce dossier te concerne. On a recoupé l'[annonce Anthropic 1M tokens](https://www.anthropic.com/news/1m-context), les benchmarks [Claude 4](https://www.anthropic.com/news/claude-4) et [Opus 4.1](https://www.anthropic.com/news/claude-opus-4-1), le [pricing API](https://www.anthropic.com/pricing), les couvertures TechCrunch et The Verge, et les chiffres du [Stanford AI Index 2025](https://aiindex.stanford.edu/report/).
 
 Si tu vends ton temps en mode régie sans avoir intégré Claude Opus 4.7, ton tarif horaire va se faire grignoter par les confrères qui livrent 3x plus vite, et par les clients qui prompent eux-mêmes leur codebase. La fenêtre 1M change la nature de ce que tu vends.
 
@@ -101,7 +101,7 @@ Anthropic structure désormais sa gamme en trois étages très lisibles. Opus 4.
 
 Le vrai changement, ce n'est pas un score ponctuel. C'est l'addition de trois propriétés qui n'existaient pas ensemble jusque-là.
 
-**Premier point : la fenêtre 1M tokens en production**. [TechCrunch](https://techcrunch.com/2025/08/12/anthropic-doubles-claude-sonnet-4s-context-window-to-1m-tokens/) chiffre la conversion à environ 75 000 lignes de code ou 750 000 mots dans un seul appel. Concrètement, ça veut dire qu'un dépôt monorepo de taille moyenne tient dans un prompt, qu'un dossier de 300 PDFs juridiques tient dans un prompt, qu'un dataset CSV de plusieurs millions de lignes condensé en tabulaires textes tient dans un prompt. La déclinaison Bedrock chez AWS est en disponibilité générale, l'accès direct API est passé en GA après la phase beta de l'été 2025.
+**Premier point : la fenêtre 1M tokens en production**. TechCrunch chiffre la conversion à environ 75 000 lignes de code ou 750 000 mots dans un seul appel. Concrètement, ça veut dire qu'un dépôt monorepo de taille moyenne tient dans un prompt, qu'un dossier de 300 PDFs juridiques tient dans un prompt, qu'un dataset CSV de plusieurs millions de lignes condensé en tabulaires textes tient dans un prompt. La déclinaison Bedrock chez AWS est en disponibilité générale, l'accès direct API est passé en GA après la phase beta de l'été 2025.
 
 **Deuxième point : la stabilité sur les tâches longues**. Anthropic documente dans la [page produit Claude 4](https://www.anthropic.com/news/claude-4) qu'Opus 4 a tenu plus de **7 heures de coding autonome** lors des tests Rakuten, et que la série suivante repousse ce plafond au-delà de 30 heures sur certains workflows. Pour un coder freelance, ça change la donne : tu peux lancer un agent sur un refactor complexe en fin de journée et récupérer un PR exploitable le lendemain matin, là où GPT-4 classique perdait le fil au bout de 90 minutes.
 
@@ -133,7 +133,7 @@ Action 90 jours : intègre [Cursor](/outils/cursor/) à ton workflow, branche-le
 
 ## Impact métier numéro 2 : consultants IA freelance
 
-Le consultant IA qui vendait des audits de maturité en cinq jours est le plus exposé. Pas parce que la demande baisse, [France Num](https://www.francenum.gouv.fr/guides-et-conseils/strategie-numerique/comment-utiliser-lintelligence-artificielle-dans-votre-entreprise) chiffre une demande TPE-PME qui double sur 18 mois. Mais parce que ton client peut désormais ingérer son propre dossier dans Claude Opus 4.7 et obtenir un premier diagnostic gratuit en 20 minutes.
+Le consultant IA qui vendait des audits de maturité en cinq jours est le plus exposé. Pas parce que la demande baisse, France Num chiffre une demande TPE-PME qui double sur 18 mois. Mais parce que ton client peut désormais ingérer son propre dossier dans Claude Opus 4.7 et obtenir un premier diagnostic gratuit en 20 minutes.
 
 Ce que tu vendais avant : temps de lecture, cartographie de processus, priorisation. Tout ça, Claude le fait. Ce que tu vends maintenant : la responsabilité, le jugement réglementaire, l'interprétation business, la coordination humaine du déploiement. Le consultant qui survit en 2026 n'est pas celui qui produit le meilleur livrable, c'est celui qui prend la décision avec le client.
 
@@ -161,11 +161,11 @@ Action 90 jours : construis un master prompt sectoriel exploitant 200K tokens en
 
 Recoupage des sources publiques.
 
-[Indeed Hiring Lab](https://www.hiringlab.org/2024/09/25/ai-at-work-charts/) suit la part d'offres tech mentionnant des outils IA générative. La courbe US dépasse **15% des offres tech** fin 2024 et continue de monter. La France suit avec 9 à 12 mois de retard. Q3 2026 chez nous = niveau US fin 2024.
+Indeed Hiring Lab suit la part d'offres tech mentionnant des outils IA générative. La courbe US dépasse **15% des offres tech** fin 2024 et continue de monter. La France suit avec 9 à 12 mois de retard. Q3 2026 chez nous = niveau US fin 2024.
 
 [Stanford AI Index 2025](https://aiindex.stanford.edu/report/) chiffre les gains de productivité observés sur le coding et l'écriture entre **15 et 55%** selon les études, effet plus marqué pour les profils débutants à intermédiaires. L'écart entre junior IA-equipped et junior non équipé se creuse.
 
-[France Num](https://www.francenum.gouv.fr/guides-et-conseils/strategie-numerique/comment-utiliser-lintelligence-artificielle-dans-votre-entreprise) documente une adoption IA dans les TPE PME françaises encore basse (sous 20%), mais en accélération nette. Ton marché de mission est loin de la saturation. [Dares](https://dares.travail-emploi.gouv.fr/) et le BMO France Travail 2026 confirment : demande sur profils dev + IA en hausse, demande sur dev pur en ralentissement. Voir notre [guide chiffres clés IA emploi](/guides/ia-emploi-chiffres-cles/).
+France Num documente une adoption IA dans les TPE PME françaises encore basse (sous 20%), mais en accélération nette. Ton marché de mission est loin de la saturation. [Dares](https://dares.travail-emploi.gouv.fr/) et le BMO France Travail 2026 confirment : demande sur profils dev + IA en hausse, demande sur dev pur en ralentissement. Voir notre [guide chiffres clés IA emploi](/guides/ia-emploi-chiffres-cles/).
 
 Synthèse : le marché ne se contracte pas, il se rebat. Le freelance IA français qui passe Q3 2026 sans avoir intégré la série Claude 4 perd 30 à 50% de productivité compétitive. C'est mesurable.
 
@@ -223,11 +223,11 @@ Techniquement oui. C'est l'enjeu. Le freelance qui vendait du temps d'exécution
 - [Introducing Claude 4 - Anthropic](https://www.anthropic.com/news/claude-4)
 - [Claude Opus 4.1 - Anthropic](https://www.anthropic.com/news/claude-opus-4-1)
 - [Anthropic Pricing - Anthropic](https://www.anthropic.com/pricing)
-- [Anthropic's Claude can now handle longer tasks - TechCrunch](https://techcrunch.com/2025/08/12/anthropic-doubles-claude-sonnet-4s-context-window-to-1m-tokens/)
-- [Anthropic launches Claude Sonnet 4 with 1 million tokens of context - The Verge](https://www.theverge.com/news/758017/anthropic-claude-sonnet-4-1-million-tokens-context)
+- Anthropic's Claude can now handle longer tasks - TechCrunch
+- Anthropic launches Claude Sonnet 4 with 1 million tokens of context - The Verge
 - [Stanford AI Index Report 2025 - Stanford HAI](https://aiindex.stanford.edu/report/)
-- [Indeed Hiring Lab - AI at Work](https://www.hiringlab.org/2024/09/25/ai-at-work-charts/)
-- [France Num - L'IA pour les TPE PME](https://www.francenum.gouv.fr/guides-et-conseils/strategie-numerique/comment-utiliser-lintelligence-artificielle-dans-votre-entreprise)
+- Indeed Hiring Lab - AI at Work
+- France Num - L'IA pour les TPE PME
 - [Règlement (UE) 2024/1689 - AI Act - EUR-Lex](https://eur-lex.europa.eu/eli/reg/2024/1689/oj)
 - [Dares - publications travail-emploi](https://dares.travail-emploi.gouv.fr/)
 - [CNIL - IA et RGPD](https://www.cnil.fr/fr/ia-comment-etre-en-conformite-avec-le-rgpd)

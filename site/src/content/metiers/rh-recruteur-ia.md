@@ -124,7 +124,7 @@ Templates fiches de poste/mails/CR, suivi recrutements, Q&A workspace. **22 doll
 | Head of Talent / DRH PME | 80-120K | 800-1200 dollars/jour |
 | Freelance RH IA-ready | NA | 500-1000 dollars/jour |
 
-**Source** : [Apec Tech (2025)](https://www.apec.fr/), [LinkedIn Salary Insights 2026](https://www.linkedin.com/salary/).
+**Source** : [Apec Tech (2025)](https://www.apec.fr/), LinkedIn Salary Insights 2026.
 
 ## 3 trajectoires en 2026
 

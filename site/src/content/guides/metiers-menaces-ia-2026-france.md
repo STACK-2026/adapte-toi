@@ -476,16 +476,16 @@ Ce guide s'appuie sur des données institutionnelles publiques ou des études in
 ### Sources institutionnelles
 
 - [OCDE, Employment Outlook 2024, The Net Effects of AI on Jobs](https://www.oecd.org/en/publications/oecd-employment-outlook-2024_ac8b3538-en.html) : exposition globale des emplois, 27 % fortement exposés, 14 % entièrement automatisables.
-- [Coface / Observatoire de l'emploi métier 2025](https://www.coface.com/fr/news-economie-et-insights) : 16,3 % salariés français exposés, 5 millions de postes avec automatisation ≥30 %.
+- Coface / Observatoire de l'emploi métier 2025 : 16,3 % salariés français exposés, 5 millions de postes avec automatisation ≥30 %.
 - [Anthropic Economic Index, mars 2026](https://www.anthropic.com/economic-index) : évolution des offres d'emploi par secteur sur 24 mois.
 - [INSEE, Statistiques emploi](https://www.insee.fr/fr/statistiques) : recul de 3 % de l'emploi salarié informatique 2023-2025, concentré sur les 15-29 ans.
-- [France Travail, BMO 2025](https://www.francetravail.org/statistiques-analyses/enquetes/bmo.html) : besoins en main d'œuvre par métier et région, métiers en tension.
+- France Travail, BMO 2025 : besoins en main d'œuvre par métier et région, métiers en tension.
 - [World Economic Forum, Future of Jobs Report 2026](https://www.weforum.org/publications/the-future-of-jobs-report-2026/) : 69 millions d'emplois créés mondialement d'ici 2030.
 - [McKinsey Global Institute, Generative AI Research](https://www.mckinsey.com/mgi/our-research) : taille du marché IA générative, secteurs prioritaires.
 - [Apec, Études et publications](https://corporate.apec.fr/home/nos-etudes.html) : fourchettes salariales métiers tech et nouveaux métiers IA en France.
 - [DARES, Rapports sur les transformations du travail](https://dares.travail-emploi.gouv.fr/publications) : analyse française des évolutions de l'emploi.
 - [Goldman Sachs, The Potentially Large Effects of Artificial Intelligence on Economic Growth](https://www.goldmansachs.com/insights/articles/generative-ai-could-raise-global-gdp-by-7-percent) : 300 millions d'emplois mondiaux exposés.
-- [Commission de l'intelligence artificielle, Rapport mars 2024](https://www.elysee.fr/emmanuel-macron/2024/03/13/rapport-de-la-commission-de-lintelligence-artificielle) : préconisations françaises sur l'IA et le travail.
+- Commission de l'intelligence artificielle, Rapport mars 2024 : préconisations françaises sur l'IA et le travail.
 
 ### Méthodologie de calcul du score d'exposition
 

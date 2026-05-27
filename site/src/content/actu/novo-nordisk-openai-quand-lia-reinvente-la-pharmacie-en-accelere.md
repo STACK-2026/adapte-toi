@@ -85,7 +85,7 @@ Cette citation rappelle l'ampleur du défi : la pharmacie traditionnelle est len
 - **60-90 jours** : Postule chez Novo Nordisk, Insilico Medicine, ou des CROs comme IQVIA. Les salaires pour les profils hybrides data/biologie explosent : jusqu'à +40% par rapport à un data analyst classique (source : [Apec](https://www.apec.fr)).
 
 **Tu es étudiant en santé ou en sciences.**
-- **0-30 jours** : Intègre l'IA dans ton cursus. Si tu es en pharmacie, choisis des options comme "Biologie computationnelle". Si tu es en informatique, oriente-toi vers des masters en bioinformatique (ex : [Master Bioinfo de Paris-Saclay](https://www.universite-paris-saclay.fr/formation/master/bioinformatique)).
+- **0-30 jours** : Intègre l'IA dans ton cursus. Si tu es en pharmacie, choisis des options comme "Biologie computationnelle". Si tu es en informatique, oriente-toi vers des masters en bioinformatique (ex : Master Bioinfo de Paris-Saclay).
 - **30-60 jours** : Participe à des hackathons santé/IA, comme ceux organisés par [Hacking Health](https://hackinghealth.ca/). C'est un excellent moyen de te faire repérer par des recruteurs.
 - **60-90 jours** : Postule à des programmes de double diplôme ou des échanges avec des universités comme l'ETH Zurich ou le MIT, où l'IA médicale est déjà intégrée dans les cursus.
 

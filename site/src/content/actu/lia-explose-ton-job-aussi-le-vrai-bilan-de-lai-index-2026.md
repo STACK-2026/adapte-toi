@@ -92,7 +92,7 @@ L'IA avance plus vite que les régulations, les compétences et les mentalités.
 
 **Tu es en reconversion ou au chômage.**
 - **Action 1** : Évite les formations classiques. Privilégie la créativité, la gestion de projet ou l'IA. Voir notre [guide de reconversion avec l'IA](/guides/reconversion-ia-guide-complet).
-- **Action 2** : Utilise des outils gratuits : [Kaggle](https://www.kaggle.com/), [Hugging Face](https://huggingface.co/), [fast.ai](https://course.fast.ai/). Consulte notre [guide pour se former gratuitement](/guides/se-former-ia-gratuitement).
+- **Action 2** : Utilise des outils gratuits : Kaggle, [Hugging Face](https://huggingface.co/), [fast.ai](https://course.fast.ai/). Consulte notre [guide pour se former gratuitement](/guides/se-former-ia-gratuitement).
 - **Action 3** : Crée un portfolio avec des projets concrets (ex : analyse d'images avec [Claude](/outils/claude)). Les recruteurs veulent des preuves.
 
 ## Le verdict Adapte-toi

@@ -77,7 +77,7 @@ L'analyste financier face à l'IA en 2026 : 70% des modèles répétitifs sont a
 
 - [Anthropic Economic Index (mars 2026)](https://www.anthropic.com/economic-index)
 - [Apec Tech (2025)](https://www.apec.fr/)
-- [LinkedIn Salary Insights 2026](https://www.linkedin.com/salary/)
+- LinkedIn Salary Insights 2026
 - [PwC (2025)](https://www.pwc.com/gx/en/issues/artificial-intelligence.html)
 
 ## Pour aller plus loin

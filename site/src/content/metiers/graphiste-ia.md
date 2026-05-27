@@ -124,7 +124,7 @@ Analyse de brief client (longues docs), recommandations stratégiques, rédactio
 | Direction Artistique | 60-90K + variable | 800-1500 dollars/jour |
 | Freelance créatif premium | NA | 800-2000 dollars/jour |
 
-**Source** : [Apec Tech (2025)](https://www.apec.fr/), [LinkedIn Salary Insights 2026](https://www.linkedin.com/salary/), benchmarks studios créatifs 2026.
+**Source** : [Apec Tech (2025)](https://www.apec.fr/), LinkedIn Salary Insights 2026, benchmarks studios créatifs 2026.
 
 ## 3 trajectoires gagnantes en 2026
 
@@ -155,7 +155,7 @@ Stack à 130 dollars/mois rentabilisé en 1 jour facturé. Tarif 500-1500 dollar
 ## Sources
 
 - Midjourney v7 release notes 2026
-- [Adobe Stock training data disclosure 2024](https://www.adobe.com/legal/firefly-faq.html)
+- Adobe Stock training data disclosure 2024
 - [Apec Tech (2025)](https://www.apec.fr/) : tarifs graphistes IA-ready
 - [LinkedIn 2026](https://economicgraph.linkedin.com/) : +50% offres design IA-ready
 

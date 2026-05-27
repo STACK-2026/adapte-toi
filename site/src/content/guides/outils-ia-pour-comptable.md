@@ -221,7 +221,7 @@ Voir notre [pillar formation IA gratuite](/guides/se-former-ia-gratuitement/) po
 
 - [OCDE (2025)](https://www.oecd.org/en/topics/sub-issues/ai-and-the-future-of-work.html) : impact IA sur métiers comptables, prévisions 2028
 - [Pennylane public stats 2025-2026](https://www.pennylane.com/) (utilisateurs, fonctions IA)
-- [LinkedIn Salary Insights 2026](https://www.linkedin.com/salary/) : salaires comptables IA-ready
+- LinkedIn Salary Insights 2026 : salaires comptables IA-ready
 - [Anthropic Economic Index (mars 2026)](https://www.anthropic.com/economic-index) : adoption IA en services aux entreprises
 - [Apec Tech (2025)](https://www.apec.fr/) : compétences IA en cabinet comptable
 

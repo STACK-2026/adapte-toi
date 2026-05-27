@@ -217,7 +217,7 @@ Voir notre [pillar formation IA gratuite](/guides/se-former-ia-gratuitement/) po
 - [Coursera Impact Report 2025](https://about.coursera.org/press)
 - LinkedIn Recruiting Survey 2026 : reconnaissance des certifications IA
 - France Université Numérique (FUN-MOOC) : partenariats Coursera 2026
-- [Compte Personnel de Formation : décret 2024](https://www.service-public.fr/particuliers/vosdroits/N14018) sur le co-financement
+- Compte Personnel de Formation : décret 2024 sur le co-financement
 - [PwC (2025)](https://www.pwc.com/gx/en/issues/artificial-intelligence.html) : +25% de salaire pour les profils maîtrisant l'IA
 
 ## Pour aller plus loin

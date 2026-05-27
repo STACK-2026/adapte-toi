@@ -85,7 +85,7 @@ L'Agence Nationale de Sécurité du Médicament (ANSM) et le [Conseil National d
 
 ### 4. Premiers pilotes français
 
-Selon [Renaud Dekode](https://renaud-dekode.fr/ia-clinique-france-2026) (avril 2026), 4 CHU français participent à des pilotes : APHP Paris, CHU de Lyon, CHU de Bordeaux, CHU de Lille. Pas de calendrier officiel de déploiement national mais 2027-2028 attendu.
+Selon Renaud Dekode (avril 2026), 4 CHU français participent à des pilotes : APHP Paris, CHU de Lyon, CHU de Bordeaux, CHU de Lille. Pas de calendrier officiel de déploiement national mais 2027-2028 attendu.
 
 ## Impact concret sur les médecins français
 
@@ -153,7 +153,7 @@ Le bon moment pour se former à l'IA clinique, c'est maintenant. Pas pour suivre
 ## Sources et liens utiles
 
 - [GPT for Clinicians - OpenAI Research (avril 2026)](https://openai.com/research/gpt-clinicians)
-- [L'IA clinique arrive en France - Renaud Dekode](https://renaud-dekode.fr/ia-clinique-france-2026)
+- L'IA clinique arrive en France - Renaud Dekode
 - [Conseil National de l'Ordre des Médecins - Recommandations IA 2026](https://www.conseil-national.medecin.fr)
 - [Anthropic Economic Index 2026](https://www.anthropic.com/economic-index)
 - [BMO France Travail 2026 (médecins : 32K projets)](https://statistiques.francetravail.fr/category/bmo)

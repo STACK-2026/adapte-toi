@@ -73,7 +73,7 @@ Le métier d'architecte est SAFE structurellement de l'IA : la signature respons
 ## Sources
 
 - [Apec Tech (2025)](https://www.apec.fr/)
-- [LinkedIn Salary Insights 2026](https://www.linkedin.com/salary/)
+- LinkedIn Salary Insights 2026
 - Conseil National Ordre des Architectes 2026
 
 ## Pour aller plus loin

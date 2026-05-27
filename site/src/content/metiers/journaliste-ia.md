@@ -137,7 +137,7 @@ Base sources/contacts avec spécialités, veille thématique structurée, suivi 
 | GR enquête / éditorialiste senior | 50-80K | 500-700 dollars/jour |
 | Brand Journalism scale-up | 45-75K + equity | NA |
 
-**Source** : SNJ 2026, [Apec Tech (2025)](https://www.apec.fr/), [LinkedIn Salary Insights 2026](https://www.linkedin.com/salary/).
+**Source** : SNJ 2026, [Apec Tech (2025)](https://www.apec.fr/), LinkedIn Salary Insights 2026.
 
 ## 3 trajectoires en 2026
 

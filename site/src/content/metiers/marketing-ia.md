@@ -124,7 +124,7 @@ HubSpot Pro 100 dollars/mois pour une PME, ou Make + ChatGPT API à 70 dollars p
 | Head of Marketing | 70-120K | 1200-2000 dollars/jour |
 | CMO scale-up | 100-180K + variable | NA |
 
-**Source** : [Apec Tech (2025)](https://www.apec.fr/), [LinkedIn Salary Insights 2026](https://www.linkedin.com/salary/).
+**Source** : [Apec Tech (2025)](https://www.apec.fr/), LinkedIn Salary Insights 2026.
 
 ## 3 trajectoires testées
 

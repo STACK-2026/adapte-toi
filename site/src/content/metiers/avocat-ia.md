@@ -121,7 +121,7 @@ Templates d'actes, veille thématique structurée, Q&A workspace, suivi des doss
 | Senior associé | 80-200K | 1000-2500 dollars/jour |
 | Freelance compliance/IA | NA | 800-1500 dollars/jour |
 
-**Source** : [Apec Tech (2025)](https://www.apec.fr/), CNB 2025, [LinkedIn Salary Insights 2026](https://www.linkedin.com/salary/).
+**Source** : [Apec Tech (2025)](https://www.apec.fr/), CNB 2025, LinkedIn Salary Insights 2026.
 
 **Point clé** : les avocats spécialisés Tech/IA/RGPD facturent 40-60% de plus que les généralistes en 2026.
 
@@ -162,7 +162,7 @@ Voir notre [guide reconversion IA complet](/guides/reconversion-ia-guide-complet
 - [Anthropic Economic Index (mars 2026)](https://www.anthropic.com/economic-index)
 - [OCDE (2025)](https://www.oecd.org/en/topics/sub-issues/ai-and-the-future-of-work.html)
 - [Apec Tech (2025)](https://www.apec.fr/)
-- [LinkedIn Salary Insights 2026](https://www.linkedin.com/salary/)
+- LinkedIn Salary Insights 2026
 
 ## Pour aller plus loin
 

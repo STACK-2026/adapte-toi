@@ -72,7 +72,7 @@ L'Italie et la France ont des cadres stricts, mais d'autres pays (comme l'Irland
 ## Les chiffres qui comptent
 - **Employés concernés** : Meta n'a pas précisé si tous les salariés sont visés ou s'il existe des exceptions.
 - **Illégalité en Italie** : La surveillance électronique de la productivité y est interdite (source Next.ink).
-- **Keyloggers interdits** : La CNIL les considère comme disproportionnés ([CNIL](https://www.cnil.fr/fr/la-surveillance-des-salaries)).
+- **Keyloggers interdits** : La CNIL les considère comme disproportionnés (CNIL).
 - **Obligations en France** : L'employeur doit informer les salariés et consulter le CSE, mais sans obligation de suivre leur avis.
 
 ---

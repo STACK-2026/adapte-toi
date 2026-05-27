@@ -186,7 +186,7 @@ Recommandation : combo **Midjourney Pro + Adobe Creative Cloud All Apps = 120 do
 
 ## Sources
 
-- [Adobe Stock training data disclosure 2024](https://www.adobe.com/legal/firefly-faq.html)
+- Adobe Stock training data disclosure 2024
 - Adobe Firefly Generative AI 2026 commercial license terms
 - [Apec Tech (2025)](https://www.apec.fr/) : tarifs graphistes IA-ready
 

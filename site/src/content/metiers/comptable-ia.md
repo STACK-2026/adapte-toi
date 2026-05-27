@@ -140,7 +140,7 @@ Le comptable de 2026 qui réussit est celui qui combine maîtrise technique des 
 | Senior IA-ready | 55-75K Paris, 45-60K région | 600-1200 dollars/jour |
 | Expert-comptable IA | 75-150K (associé) | 1200-2000 dollars/jour |
 
-**Source** : [Apec Tech (2025)](https://www.apec.fr/), [LinkedIn Salary Insights 2026](https://www.linkedin.com/salary/), nos analyses 2026.
+**Source** : [Apec Tech (2025)](https://www.apec.fr/), LinkedIn Salary Insights 2026, nos analyses 2026.
 
 **Point clé** : le delta IA-ready vs non est de **+25% à 35%** dès la séniorité confirmée. À l'horizon 2028, l'écart se creuse encore.
 

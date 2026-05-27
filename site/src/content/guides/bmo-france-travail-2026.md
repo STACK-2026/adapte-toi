@@ -207,7 +207,7 @@ Le BMO 2026 cumule sur les "Ingénieurs et cadres tech" mais voici le détail de
 | Consultant IA | 8K | 50-65K | 80-150K | Reconversion expérience + IA |
 | Chief AI Officer | <500 | NA | 200K+ | 10+ ans XP + leadership |
 
-**Source** : [LinkedIn Salary Insights 2026](https://www.linkedin.com/salary/), Apec Tech 2025, Welcome to the Jungle 2026.
+**Source** : LinkedIn Salary Insights 2026, Apec Tech 2025, Welcome to the Jungle 2026.
 
 Pour la reconversion vers ces métiers, voir notre [pillar formation IA gratuite](/guides/se-former-ia-gratuitement/) et [guide formation IA via OpenClassrooms](/guides/formation-ia-openclassrooms/).
 
@@ -250,7 +250,7 @@ Pour la reconversion vers ces métiers, voir notre [pillar formation IA gratuite
 **Notre traitement Adapte-toi** : croisement avec
 - [Anthropic Economic Index (mars 2026)](https://www.anthropic.com/economic-index) sur l'exposition IA
 - [OCDE 2025](https://www.oecd.org/en/topics/sub-issues/ai-and-the-future-of-work.html) sur l'automatisation
-- [LinkedIn Salary Insights 2026](https://www.linkedin.com/salary/) sur les salaires
+- LinkedIn Salary Insights 2026 sur les salaires
 - Apec Tech 2025 sur les profils tech
 
 ---
@@ -261,10 +261,10 @@ Pour la reconversion vers ces métiers, voir notre [pillar formation IA gratuite
 - [statistiques.francetravail.fr](https://statistiques.francetravail.fr/)
 - [Anthropic Economic Index (mars 2026)](https://www.anthropic.com/economic-index) : exposition IA par métier
 - [OCDE 2025](https://www.oecd.org/en/topics/sub-issues/ai-and-the-future-of-work.html) : 27% emplois français exposés à l'automatisation
-- [LinkedIn Salary Insights 2026](https://www.linkedin.com/salary/) : salaires France
+- LinkedIn Salary Insights 2026 : salaires France
 - [Apec Tech (2025)](https://www.apec.fr/) : marché des cadres tech français
 - Welcome to the Jungle 2026 : tendances métiers
-- [France Stratégie (2026)](https://www.strategie.gouv.fr/publications/intelligence-artificielle-emploi) : prospective des métiers à 2030
+- France Stratégie (2026) : prospective des métiers à 2030
 
 ## Pour aller plus loin
 

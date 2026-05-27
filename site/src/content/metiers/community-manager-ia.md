@@ -124,7 +124,7 @@ Analyse de brief brand long, recommandations stratégiques, audit de comptes exi
 | Senior Social Media Strategist | 45-70K | 500-700 dollars/jour |
 | Freelance multi-marques IA | NA | 350-700 dollars/jour (par marque) |
 
-**Source** : [Apec Tech (2025)](https://www.apec.fr/), [LinkedIn Salary Insights 2026](https://www.linkedin.com/salary/), benchmarks Buffer 2026.
+**Source** : [Apec Tech (2025)](https://www.apec.fr/), LinkedIn Salary Insights 2026, benchmarks Buffer 2026.
 
 ## 3 trajectoires en 2026
 

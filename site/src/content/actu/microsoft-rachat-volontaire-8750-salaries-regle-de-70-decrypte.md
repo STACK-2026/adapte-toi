@@ -159,7 +159,7 @@ Trois pistes. Les parcours gratuits recenses dans notre [guide se former a l'IA 
 - [Les licenciements - Donnees DARES](https://dares.travail-emploi.gouv.fr/donnees/les-licenciements)
 - [Reglement (UE) 2024/1689 sur l'intelligence artificielle - AI Act](https://artificialintelligenceact.eu/)
 - [INSEE - Statistiques sur l'emploi](https://www.insee.fr/fr/statistiques)
-- [France Strategie - Travail emploi competences](https://www.strategie.gouv.fr/thematiques/travail-emploi-competences)
+- France Strategie - Travail emploi competences
 
 ## Pour aller plus loin sur Adapte-toi
 

@@ -127,7 +127,7 @@ Génère slides de qualité agence à partir d'un prompt. Workflow ChatGPT (stor
 | Freelance senior | NA | 800-1500 dollars/jour |
 | Freelance Partner-level | NA | 1500-3000 dollars/jour |
 
-**Source** : [Apec Tech (2025)](https://www.apec.fr/), [LinkedIn Salary Insights 2026](https://www.linkedin.com/salary/), benchmarks cabinets stratégie 2026.
+**Source** : [Apec Tech (2025)](https://www.apec.fr/), LinkedIn Salary Insights 2026, benchmarks cabinets stratégie 2026.
 
 ## 3 trajectoires en 2026
 

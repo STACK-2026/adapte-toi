@@ -125,7 +125,7 @@ Recherche sur une bibliothèque récente avec sources, debug d'erreur (paste l'e
 | Staff/Principal | 90-150K + equity | 800-1200 dollars/jour |
 | AI Engineer / ML Engineer | 55-130K | 700-1500 dollars/jour |
 
-**Source** : [Apec Tech (2025)](https://www.apec.fr/), [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2024/), [LinkedIn Salary Insights 2026](https://www.linkedin.com/salary/).
+**Source** : [Apec Tech (2025)](https://www.apec.fr/), [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2024/), LinkedIn Salary Insights 2026.
 
 ## 3 trajectoires en 2026
 

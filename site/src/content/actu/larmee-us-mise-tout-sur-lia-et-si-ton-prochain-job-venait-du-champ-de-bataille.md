@@ -90,9 +90,9 @@ Les armées ont besoin de profils capables de faire le lien entre besoins opéra
 
 **Étudiant·e ou jeune diplômé·e.**
 Les armées recrutent des juniors pour former des experts en IA militaire
-- **Stages et alternances** : programmes comme [Cybersecurity Talent Initiative](https://www.cybertalentinitiative.org) (US) ou [Defence Cyber School](https://www.gov.uk/government/organisations/defence-cyber-school) (UK) offrent des formations. En France, le [Commandement de la Cyberdéfense](https://www.defense.gouv.fr/ciie) propose des stages.
+- **Stages et alternances** : programmes comme [Cybersecurity Talent Initiative](https://www.cybertalentinitiative.org) (US) ou Defence Cyber School (UK) offrent des formations. En France, le Commandement de la Cyberdéfense propose des stages.
 - **Hackathons** : participe à [Hack the Pentagon](https://www.hackthepentagon.com) ou [Defence Innovation Challenge](https://www.defenceinnovationchallenge.fr).
-*Action à 90 jours* : Suis un cours en ligne sur l'IA militaire, comme ce [module Coursera](https://www.coursera.org/learn/ai-military-applications). Consulte notre [guide sur les études inutiles](/guides/etudes-inutiles-que-faire).
+*Action à 90 jours* : Suis un cours en ligne sur l'IA militaire, comme ce module Coursera. Consulte notre [guide sur les études inutiles](/guides/etudes-inutiles-que-faire).
 
 **Freelance ou entrepreneur·se.**
 Les technologies militaires sont une opportunité pour les startups

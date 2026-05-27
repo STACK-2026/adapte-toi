@@ -102,7 +102,7 @@ Métier transformé, pas remplacé. Senior + IA = très protégé.
 
 - [BMO France Travail 2026](https://statistiques.francetravail.fr/category/bmo)
 - [Apec Tech (2025)](https://www.apec.fr/)
-- [LinkedIn Salary Insights 2026](https://www.linkedin.com/salary/)
+- LinkedIn Salary Insights 2026
 - [PwC (2025)](https://www.pwc.com/gx/en/issues/artificial-intelligence.html)
 
 ## Pour aller plus loin

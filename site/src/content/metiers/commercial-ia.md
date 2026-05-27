@@ -125,7 +125,7 @@ Transcrit Zoom/Meet/Teams en français, identifie les interlocuteurs, résumé +
 | Sales Director | 80-150K | OTE 150-250K |
 | Freelance growth/sales IA | NA | 500-1000 dollars/jour |
 
-**Source** : [Apec Tech (2025)](https://www.apec.fr/), [LinkedIn Salary Insights 2026](https://www.linkedin.com/salary/), benchmarks Apollo 2026.
+**Source** : [Apec Tech (2025)](https://www.apec.fr/), LinkedIn Salary Insights 2026, benchmarks Apollo 2026.
 
 ## 3 trajectoires en 2026
 

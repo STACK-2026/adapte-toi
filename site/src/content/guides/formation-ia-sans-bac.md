@@ -227,7 +227,7 @@ Voir notre [pillar formation IA gratuite](/guides/se-former-ia-gratuitement/) po
 
 **Sans bac, après 2 ans d'XP** : les écarts disparaissent. Le marché regarde l'expérience, pas le diplôme initial.
 
-**Sources** : Apec Tech 2025, [LinkedIn Salary Insights 2026](https://www.linkedin.com/salary/), Malt Freelance Index 2026.
+**Sources** : Apec Tech 2025, LinkedIn Salary Insights 2026, Malt Freelance Index 2026.
 
 ---
 
@@ -251,7 +251,7 @@ Voir notre [pillar formation IA gratuite](/guides/se-former-ia-gratuitement/) po
 
 - France Compétences (2026) : registre RNCP des certifications
 - [Apec Tech (2025)](https://www.apec.fr/) : salaires d'embauche par niveau d'études
-- [LinkedIn Salary Insights 2026](https://www.linkedin.com/salary/) : salaires France IA
+- LinkedIn Salary Insights 2026 : salaires France IA
 - Malt Freelance Index 2026 : tarifs jour freelance IA
 - Pôle Emploi / [France Travail (2025)](https://www.francetravail.fr/) : aides à la formation pour demandeurs d'emploi
 - Le Wagon, Wild Code School : taux de placement publics 2025
