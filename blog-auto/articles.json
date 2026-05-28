@@ -4276,15 +4276,15 @@
     "category": "etudes-rapports",
     "blog": "principal",
     "index": 29,
-    "published": false,
-    "published_at": null,
-    "slug": null,
+    "published": true,
+    "published_at": "2026-05-28",
+    "slug": "rapport-pwc-40-emplois-menaces-ia-2030",
     "scheduled_date": "2026-05-22",
     "scheduled_time": "07:56",
     "scheduled_datetime": "2026-05-22T07:56:00",
-    "title_tag": null,
-    "meta_description": null,
-    "featured_image_url": null,
+    "title_tag": "Rapport PwC : 40% des emplois menacés par l'IA d'ici 2030",
+    "meta_description": "Le rapport PwC AI Jobs Barometer 2025 décrypté sans bullshit : ce que disent vraiment les chiffres et comment agir pour ta carrière.",
+    "featured_image_url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&h=630&fit=crop&q=80&auto=format",
     "author": "Theo Marchand",
     "serp_brief": {
       "keyword": "rapport PwC IA emploi",
@@ -4456,7 +4456,8 @@
           }
         ]
       }
-    }
+    },
+    "done": true
   },
   {
     "title": "Secrétaire comptable vs IA : Stratégies d'adaptation",
