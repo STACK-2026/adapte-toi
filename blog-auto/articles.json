@@ -4465,9 +4465,9 @@
     "category": "metiers-ia",
     "blog": "principal",
     "index": 30,
-    "published": false,
-    "published_at": null,
-    "slug": null,
+    "published": true,
+    "published_at": "2026-05-29",
+    "slug": "secretaire-comptable-vs-ia-strategies-adaptation",
     "scheduled_date": "2026-05-25",
     "scheduled_time": "07:46",
     "scheduled_datetime": "2026-05-25T07:46:00",
@@ -4627,7 +4627,8 @@
           }
         ]
       }
-    }
+    },
+    "done": true
   },
   {
     "title": "Test de personnalité : Quel métier IA vous correspond ?",
