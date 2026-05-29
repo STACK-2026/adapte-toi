@@ -26,11 +26,12 @@ const lastmodOf = (post: { data: { lastReviewed?: Date; date: Date } }) =>
   (post.data.lastReviewed ?? post.data.date).toISOString().split("T")[0];
 
 export const GET: APIRoute = async () => {
-  const [metiers, outils, guides, actu] = await Promise.all([
+  const [metiers, outils, guides, actu, blog] = await Promise.all([
     getCollection("metiers", ({ data }) => !data.draft),
     getCollection("outils", ({ data }) => !data.draft),
     getCollection("guides", ({ data }) => !data.draft),
     getCollection("actu", ({ data }) => !data.draft),
+    getCollection("blog", ({ data }) => !data.draft),
   ]);
 
   const entries: string[] = [];
@@ -54,6 +55,11 @@ export const GET: APIRoute = async () => {
   for (const post of guides) {
     entries.push(
       `  <url><loc>${siteConfig.url}/guides/${post.id}/</loc><lastmod>${lastmodOf(post)}</lastmod></url>`
+    );
+  }
+  for (const post of blog.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())) {
+    entries.push(
+      `  <url><loc>${siteConfig.url}/blog/${post.id}/</loc><lastmod>${lastmodOf(post)}</lastmod></url>`
     );
   }
   for (const post of actu.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())) {
