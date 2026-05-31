@@ -10,7 +10,7 @@ keyQuote:
   author: "Tribunal intermediaire populaire de Hangzhou"
   context: "Decision rendue publique le 30 avril 2026, citee par Caixin Global et reprise par Fortune, Bloomberg et NPR. Premier precedent chinois marquant sur le licenciement IA."
 tldr:
-  - "Le 30 avril 2026, le tribunal intermediaire populaire de Hangzhou a confirme l'illegalite du licenciement d'un salarie tech surnomme Zhou, responsable assurance qualite remplace par un grand modele de langage."
+  - "Le 30 avril 2026, le tribunal intermediaire populaire de Hangzhou a confirme l'illegalite du licenciement d'un salarie tech surnomme Zhou, responsable assurance qualité remplace par un grand modele de langage."
   - "Zhou gagnait 25 000 yuans par mois (environ 3 640 dollars) ; son employeur lui avait propose une retrogradation a 15 000 yuans avant de rompre le contrat avec 311 695 yuans d'indemnite, jugee insuffisante."
   - "Le tribunal a estime que le remplacement par IA ne constitue pas un changement objectif majeur des circonstances au sens de la loi chinoise sur le contrat de travail. La decision est diffusee comme cas typique avant le 1er mai."
   - "En France, ce precedent eclaire un debat brulant : aucun PSE recent n'a invoque l'IA comme motif autonome, mais l'AI Act et le code du travail ouvrent deja des leviers concrets pour contester."
@@ -35,7 +35,7 @@ sources:
     url: "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-court-rules-companies-cant-fire-workers-just-because-ai-is-cheaper-ruling-says-automation-alone-doesnt-justify-layoffs"
     outlet: "Tom's Hardware"
     date: 2026-05-02
-  - title: "Reglement (UE) 2024/1689 etablissant des regles harmonisees concernant l'IA (AI Act)"
+  - title: "Reglement (UE) 2024/1689 établissant des regles harmonisees concernant l'IA (AI Act)"
     url: "https://eur-lex.europa.eu/eli/reg/2024/1689/oj"
     outlet: "EUR-Lex"
     date: 2024-07-12
@@ -64,7 +64,7 @@ image: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1200&h=63
 imageAlt: "Marteau de juge devant un ecran d'ordinateur, ambiance feutree"
 ---
 
-La justice chinoise vient de creer un precedent qui va resonner partout : un licenciement pour cause d'IA seule est illegal. Le 30 avril 2026, le tribunal intermediaire populaire de Hangzhou a confirme la condamnation d'une entreprise tech qui avait remplace son responsable assurance qualite par un grand modele de langage. Decryptage cote France.
+La justice chinoise vient de creer un precedent qui va resonner partout : un licenciement pour cause d'IA seule est illegal. Le 30 avril 2026, le tribunal intermediaire populaire de Hangzhou a confirme la condamnation d'une entreprise tech qui avait remplace son responsable assurance qualité par un grand modele de langage. Decryptage cote France.
 
 ## Ce qui s'est passe a Hangzhou
 
@@ -72,7 +72,7 @@ L'affaire est rendue publique a la veille du 1er mai par la cour intermediaire p
 
 Les faits, rappeles par [Fortune](https://fortune.com/2026/05/03/chinese-court-layoffs-workers-ai-replacement-labor-market/) et [Bloomberg](https://www.bloomberg.com/news/articles/2026-05-02/chinese-court-rules-firms-can-t-lay-off-workers-on-ai-grounds), sont d'une banalite glacante.
 
-- Un salarie surnomme Zhou rejoint en novembre 2022 une entreprise tech chinoise comme superviseur assurance qualite sur des grands modeles de langage : verifier la justesse des reponses, signaler les hallucinations.
+- Un salarie surnomme Zhou rejoint en novembre 2022 une entreprise tech chinoise comme superviseur assurance qualité sur des grands modeles de langage : verifier la justesse des reponses, signaler les hallucinations.
 - Salaire mensuel : 25 000 yuans, environ 3 640 dollars.
 - En 2025, son poste est absorbe par les modeles eux-memes. L'employeur lui propose un poste subalterne a 15 000 yuans, soit 40 pour cent de coupe.
 - Zhou refuse. L'entreprise rompt le contrat avec 311 695 yuans d'indemnite, invoquant reorganisation et reduction de masse salariale.
@@ -87,18 +87,18 @@ Trois raisons font que ce jugement va circuler bien au-dela de la Chine.
 
 **2. Le timing est volontaire.** Diffuser la decision la veille du 1er mai, dans une serie de "cas typiques", est un acte editorial. La Cour la donne comme reference doctrinale aux juges de premiere instance.
 
-**3. L'argument juridique est universel.** L'efficacite gagnee grace a l'IA ne dispense pas l'employeur de ses responsabilites sociales. Cette idee se retrouve dans les debats sur l'AI Act et dans le contentieux americain naissant. Pour un panorama mondial, voir notre [tracker licenciements IA 2026](/guides/licenciements-ia-2026-tracker/).
+**3. L'argument juridique est universel.** L'efficacite gagnee grace a l'IA ne dispense pas l'employeur de ses responsabilites sociales. Cette idee se retrouve dans les debats sur l'AI Act et dans le contentieux américain naissant. Pour un panorama mondial, voir notre [tracker licenciements IA 2026](/guides/licenciements-ia-2026-tracker/).
 
 ## Et en France ? Le droit du travail au crible
 
 Spoiler : si tu travailles en France, tu es structurellement mieux protege que Zhou ne l'etait, et la decision chinoise renforce les arguments de ton avocat le jour ou ca part en contentieux.
 
-Le code du travail francais ne reconnait pas "remplacement par IA" comme motif autonome de licenciement. Pour qu'un licenciement economique soit valide, l'employeur doit demontrer une cause reelle et serieuse : difficultes economiques, mutations technologiques, reorganisation necessaire a la sauvegarde de la competitivite, ou cessation d'activite, selon l'[article L1233-3 du code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036762081).
+Le code du travail francais ne reconnait pas "remplacement par IA" comme motif autonome de licenciement. Pour qu'un licenciement economique soit valide, l'employeur doit demontrer une cause reelle et serieuse : difficultes economiques, mutations technologiques, reorganisation nécessaire a la sauvegarde de la competitivite, ou cessation d'activite, selon l'[article L1233-3 du code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036762081).
 
 Trois consequences concretes.
 
 - **Les "mutations technologiques" sont une porte etroite.** La Cour de cassation exige une mutation reelle et globale du secteur, pas une simple decision de gestion. Un employeur qui licencie parce qu'il a souscrit a [ChatGPT](/outils/chatgpt/) ou [Copilot](/outils/copilot/) ne peut pas s'abriter derriere ce motif sans demontrer un changement sectoriel.
-- **Le PSE reste la regle au-dela de 10 licenciements.** Dans une entreprise de plus de 50 salaries, la procedure passe par un plan de sauvegarde de l'emploi controle par la Dreets et un dialogue avec les CSE. Aucune entreprise francaise n'a a ce jour invoque l'IA comme motif autonome de PSE.
+- **Le PSE reste la regle au-dela de 10 licenciements.** Dans une entreprise de plus de 50 salaries, la procedure passe par un plan de sauvegarde de l'emploi contrôle par la Dreets et un dialogue avec les CSE. Aucune entreprise francaise n'a a ce jour invoque l'IA comme motif autonome de PSE.
 - **La rupture conventionnelle collective camoufle souvent le sujet.** Microsoft France a boucle fin avril 2026 une RCC de 200 postes a Issy-les-Moulineaux mentionnant une "reorientation strategique vers l'IA". Le format RCC, base sur le volontariat, evite la justification economique stricte mais reste encadre par l'inspection du travail.
 
 Pour l'analyse comparative globale entre vrais effets emploi de l'IA et narratif d'entreprise, lis notre [decryptage AI washing 2026](/actu/ai-washing-licenciements-ia-2026-oxford-economics-challenger/).
@@ -107,7 +107,7 @@ Pour l'analyse comparative globale entre vrais effets emploi de l'IA et narratif
 
 Au-dela du code du travail, deux textes europeens et nationaux pesent dans la balance.
 
-**L'AI Act.** Le [reglement (UE) 2024/1689](https://eur-lex.europa.eu/eli/reg/2024/1689/oj) classe en haut risque les systemes IA utilises pour le recrutement, la promotion, l'evaluation des performances et les decisions de resiliation de contrat. Concretement, depuis aout 2026, un employeur qui utilise un outil IA pour decider qui garder ou licencier doit garantir transparence, supervision humaine, documentation technique et droit de recours. Notre [guide reglementation IA Europe](/guides/ia-europe-reglementation/) detaille les echeances.
+**L'AI Act.** Le [reglement (UE) 2024/1689](https://eur-lex.europa.eu/eli/reg/2024/1689/oj) classe en haut risque les systèmes IA utilises pour le recrutement, la promotion, l'evaluation des performances et les decisions de resiliation de contrat. Concretement, depuis aout 2026, un employeur qui utilise un outil IA pour decider qui garder ou licencier doit garantir transparence, supervision humaine, documentation technique et droit de recours. Notre [guide reglementation IA Europe](/guides/ia-europe-reglementation/) detaille les echeances.
 
 **La CNIL.** L'autorite francaise rappelle dans ses [recommandations sur l'IA au travail](https://www.cnil.fr/) que toute decision RH significative ne peut pas reposer exclusivement sur un traitement automatise, en application de l'article 22 du RGPD. Si ton employeur licencie sur la base d'un score IA, tu peux contester sur ce seul fondement.
 
@@ -117,7 +117,7 @@ Au-dela du code du travail, deux textes europeens et nationaux pesent dans la ba
 
 L'enseignement Hangzhou ne signifie pas qu'aucun metier n'est touche. Il signifie que la substitution doit etre prouvee et compensee.
 
-- **Profils QA et test sur grands modeles.** C'est le poste de Zhou. Demande qui se deplace vers evaluation, red teaming et securite des modeles. Voir la fiche [developpeur IA](/metiers/developpeur-ia/).
+- **Profils QA et test sur grands modeles.** C'est le poste de Zhou. Demande qui se deplace vers evaluation, red teaming et sécurité des modeles. Voir la fiche [developpeur IA](/metiers/developpeur-ia/).
 - **Support client niveau 1.** Substitution effective documentee chez plusieurs editeurs SaaS. Le solde net s'erode rapidement.
 - **Operations RH standardisees.** Sourcing, pre-qualification et tri de CV : zone de friction maximale avec l'AI Act. Voir [RH recruteur IA](/metiers/rh-recruteur-ia/).
 - **Production de contenu generique.** Marketing, copywriting standard, traduction de premier jet : exposition elevee, mais les profils hybrides restent recherches.
@@ -129,7 +129,7 @@ Pour l'analyse trimestrielle des suppressions effectives, le [decryptage Oracle 
 
 Trois reflexes a integrer des aujourd'hui, que tu sois en poste ou en recherche.
 
-**1. Documente ta valeur ajoutee mesurable.** Tiens un journal des cas ou tu utilises [Claude](/outils/claude/), ChatGPT, Copilot ou Perplexity, avec gain de temps chiffre et qualite preservee. C'est le materiau de ton entretien annuel et de ta prochaine offre. Le [guide negocier son salaire avec des competences IA](/guides/negocier-salaire-competences-ia/) pose la methode.
+**1. Documente ta valeur ajoutee mesurable.** Tiens un journal des cas ou tu utilises [Claude](/outils/claude/), ChatGPT, Copilot ou Perplexity, avec gain de temps chiffre et qualité preservee. C'est le materiau de ton entretien annuel et de ta prochaine offre. Le [guide negocier son salaire avec des competences IA](/guides/negocier-salaire-competences-ia/) pose la methode.
 
 **2. Cartographie ton exposition reelle.** Le pillar [IA emploi en chiffres cles](/guides/ia-emploi-chiffres-cles/) recense les sources publiques disponibles : Dares, France Strategie, OCDE, Indeed Hiring Lab, Anthropic Economic Index. Lis la cartographie sectorielle, pas les gros titres.
 
@@ -147,11 +147,11 @@ Parce que la loi chinoise sur le contrat de travail exige un changement objectif
 
 ### Un employeur en France peut-il me licencier parce qu'il me remplace par une IA ?
 
-Pas sur ce seul motif. Le code du travail francais impose une cause reelle et serieuse : difficultes economiques, mutations technologiques sectorielles, reorganisation necessaire a la sauvegarde de la competitivite, ou cessation d'activite. Souscrire a un outil IA n'est pas en soi une mutation technologique au sens jurisprudentiel. Un avocat en droit social peut requalifier un licenciement habille en "transformation IA".
+Pas sur ce seul motif. Le code du travail francais impose une cause reelle et serieuse : difficultes economiques, mutations technologiques sectorielles, reorganisation nécessaire a la sauvegarde de la competitivite, ou cessation d'activite. Souscrire a un outil IA n'est pas en soi une mutation technologique au sens jurisprudentiel. Un avocat en droit social peut requalifier un licenciement habille en "transformation IA".
 
 ### Comment l'AI Act protege-t-il les salaries face aux outils IA RH ?
 
-Le reglement europeen 2024/1689 classe les systemes IA utilises pour le recrutement, l'evaluation et la rupture de contrat comme systemes a haut risque. L'employeur doit garantir transparence, supervision humaine, documentation technique et droit de recours. Le RGPD, via son article 22, interdit en plus une decision RH significative purement automatisee.
+Le reglement europeen 2024/1689 classe les systèmes IA utilises pour le recrutement, l'evaluation et la rupture de contrat comme systemes a haut risque. L'employeur doit garantir transparence, supervision humaine, documentation technique et droit de recours. Le RGPD, via son article 22, interdit en plus une decision RH significative purement automatisee.
 
 ### Quels recours si mon poste est supprime au profit d'une IA ?
 

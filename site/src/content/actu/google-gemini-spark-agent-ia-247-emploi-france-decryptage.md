@@ -14,7 +14,7 @@ tldr:
   - "Google a annonce Gemini Spark le 19 mai 2026 a l'I/O : un agent IA personnel qui tourne 24/7 sur des machines virtuelles Google Cloud, meme quand ton telephone est verrouille ou ton laptop ferme. Acces direct a Gmail, Drive, Docs, Sheets, Slides, Calendar, YouTube, Chrome et services tiers comme Canva, OpenTable, Instacart."
   - "Le tarif : 100 dollars par mois pour Google AI Ultra (au lieu de 250 precedemment), avec une version superieure conservee a 200 dollars. Cible explicite par Google : developpeurs, leads techniques, knowledge workers et createurs avances. Beta US-only, en anglais, deployee la semaine suivant l'annonce."
   - "Sous le capot : Gemini 3.5 Flash plus le framework Antigravity. Le modele score 76,2% sur Terminal-Bench 2.1 (vs 70,3% pour Gemini 3.1 Pro), tourne environ 4x plus vite que les modeles frontiere comparables et coute 1,50 dollar par million de tokens en entree, 9 dollars en sortie."
-  - "Pour toi en France : 77% des salaries declarent deja une charge de travail accrue depuis l'IA agentique, selon une etude relayee par IT Social. Les cadres de bureau (assistants, RH process, juniors marketing, chefs de projet operationnels) sont en premiere ligne, alors meme que Spark n'est pas encore disponible chez nous."
+  - "Pour toi en France : 77% des salaries declarent deja une charge de travail accrue depuis l'IA agentique, selon une étude relayee par IT Social. Les cadres de bureau (assistants, RH process, juniors marketing, chefs de projet operationnels) sont en premiere ligne, alors meme que Spark n'est pas encore disponible chez nous."
 sources:
   - title: "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration, at IO 2026"
     url: "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/"
@@ -48,7 +48,7 @@ sources:
     url: "https://lhumen-avocats.fr/intelligence-artificielle-travail-2026-droits-salaries-obligations-employeurs-risques-juridiques"
     outlet: "Lhumen Avocats"
     date: 2026-04-25
-  - title: "Reglement (UE) 2024/1689 etablissant des regles harmonisees concernant l'IA (AI Act)"
+  - title: "Reglement (UE) 2024/1689 établissant des regles harmonisees concernant l'IA (AI Act)"
     url: "https://eur-lex.europa.eu/eli/reg/2024/1689/oj"
     outlet: "EUR-Lex"
     date: 2024-07-12
@@ -122,11 +122,11 @@ Le panorama global ? Notre [guide metiers menaces par l'IA en France](/guides/me
 
 ## Ce que disent les chiffres recents : productivite reelle, charge de travail explosive
 
-Les annonces marketing parlent de gains de productivite. La realite vecue par les salaries est plus nuancee. Selon une etude relayee par [IT Social le 12 mai 2026](https://itsocial.fr/intelligence-artificielle/intelligence-artificielle-articles/ia-agentique-le-gain-de-productivite-est-reel-mais-77-des-salaries-declarent-que-leur-charge-de-travail-a-augmente/), 77% des salaries declarent que leur charge de travail a augmente depuis le deploiement de l'IA agentique. Pas diminue : augmente.
+Les annonces marketing parlent de gains de productivite. La realite vecue par les salaries est plus nuancee. Selon une étude relayee par [IT Social le 12 mai 2026](https://itsocial.fr/intelligence-artificielle/intelligence-artificielle-articles/ia-agentique-le-gain-de-productivite-est-reel-mais-77-des-salaries-declarent-que-leur-charge-de-travail-a-augmente/), 77% des salaries declarent que leur charge de travail a augmente depuis le deploiement de l'IA agentique. Pas diminue : augmente.
 
 L'ecart de perception entre dirigeants et collaborateurs est massif. Les premiers sont cinq fois plus nombreux a percevoir un impact positif de l'IA sur la retention des talents (30%) que les seconds (6%). Autrement dit : ton CEO voit Spark comme une benediction RH, toi tu pourrais le vivre comme une presure cognitive.
 
-Cote licenciements, le rapport Challenger d'avril 2026 (decrypte dans notre [analyse 26% AI top reason](/actu/ia-26-pourcent-licenciements-us-avril-aucune-loi-disclosure/)) montre que l'IA est devenue la cause numero un des coupes de postes annoncees aux Etats-Unis sur deux mois consecutifs. La trajectoire est claire. La dynamique observee sur Meta (decrypte ici : [Meta 8 000 licenciements pari Zuckerberg](/actu/meta-8000-licenciements-mai-2026-pari-ia-zuckerberg-decrypte/)) confirme que les budgets quittent les salaires pour les GPU.
+Cote licenciements, le rapport Challenger d'avril 2026 (decrypte dans notre [analyse 26% AI top reason](/actu/ia-26-pourcent-licenciements-us-avril-aucune-loi-disclosure/)) montre que l'IA est devenue la cause numéro un des coupes de postes annoncees aux Etats-Unis sur deux mois consecutifs. La trajectoire est claire. La dynamique observee sur Meta (decrypte ici : [Meta 8 000 licenciements pari Zuckerberg](/actu/meta-8000-licenciements-mai-2026-pari-ia-zuckerberg-decrypte/)) confirme que les budgets quittent les salaires pour les GPU.
 
 A noter aussi : Google avait pose les premieres pierres avec [Gemini 2.0 et l'ere des agents IA](/actu/gemini-20-debarque-google-lance-lere-des-agents-ia-qui-vont-te-remplacer-ou-taid/). Spark est l'aboutissement industriel de cette feuille de route, version grand public payante.
 
@@ -134,7 +134,7 @@ A noter aussi : Google avait pose les premieres pierres avec [Gemini 2.0 et l'er
 
 L'arrivee de Spark, demain Mistral ou Microsoft Copilot Agent en mode 24/7, change le rapport de force juridique. Trois textes structurent ta protection :
 
-- **AI Act, [Reglement (UE) 2024/1689](https://eur-lex.europa.eu/eli/reg/2024/1689/oj).** Tout systeme d'IA utilise pour le recrutement, l'evaluation ou la gestion des employes est classe haut risque. Application complete au 2 aout 2026. Ton employeur doit documenter le systeme, garantir une supervision humaine et te donner droit a une explication.
+- **AI Act, [Reglement (UE) 2024/1689](https://eur-lex.europa.eu/eli/reg/2024/1689/oj).** Tout système d'IA utilise pour le recrutement, l'evaluation ou la gestion des employes est classe haut risque. Application complete au 2 aout 2026. Ton employeur doit documenter le système, garantir une supervision humaine et te donner droit a une explication.
 - **Code du travail, information consultation du CSE.** Le deploiement d'un agent IA modifiant l'organisation declenche une obligation d'information consultation prealable du CSE.
 - **RGPD et secret professionnel.** Spark lit Gmail, Drive et Calendar. Ton employeur doit garantir la conformite des traitements et la protection des donnees clients. L'analyse [Lhumen Avocats d'avril 2026](https://lhumen-avocats.fr/intelligence-artificielle-travail-2026-droits-salaries-obligations-employeurs-risques-juridiques) detaille les obligations precises.
 
@@ -167,7 +167,7 @@ Les fonctions de bureau a forte composante de coordination et de production de t
 
 ### Quel est mon cadre legal si mon employeur deploie un agent IA en France ?
 
-L'AI Act europeen, applicable au 2 aout 2026, classe les systemes d'IA RH (recrutement, evaluation, licenciement) en haut risque. Ton employeur doit documenter le systeme, garantir une supervision humaine et te donner droit a une explication. Le code du travail impose une information consultation du CSE avant tout deploiement modifiant l'organisation. Le RGPD encadre l'usage des donnees personnelles et clients.
+L'AI Act europeen, applicable au 2 aout 2026, classe les systèmes d'IA RH (recrutement, evaluation, licenciement) en haut risque. Ton employeur doit documenter le système, garantir une supervision humaine et te donner droit a une explication. Le code du travail impose une information consultation du CSE avant tout deploiement modifiant l'organisation. Le RGPD encadre l'usage des donnees personnelles et clients.
 
 ### Comment me preparer si un outil comme Spark arrive dans mon entreprise ?
 
@@ -175,7 +175,7 @@ Teste des outils equivalents disponibles aujourd'hui (Copilot, ChatGPT Agent, Cl
 
 ### Spark va-t-il provoquer une nouvelle vague de licenciements en 2026 ?
 
-Pas immediatement : l'agent reste US-only et payant. Mais son lancement legitimise le modele "agent 24/7" pour les editeurs de SaaS B2B francais (Salesforce, HubSpot, Notion, Microsoft 365) sur 6 a 18 mois. La pression sur les fonctions automatisables s'intensifiera, comme documente par le [tracker licenciements IA 2026](/guides/licenciements-ia-2026-tracker/) et le [rapport Challenger US](/actu/ia-26-pourcent-licenciements-us-avril-aucune-loi-disclosure/).
+Pas immédiatement : l'agent reste US-only et payant. Mais son lancement legitimise le modele "agent 24/7" pour les editeurs de SaaS B2B francais (Salesforce, HubSpot, Notion, Microsoft 365) sur 6 a 18 mois. La pression sur les fonctions automatisables s'intensifiera, comme documente par le [tracker licenciements IA 2026](/guides/licenciements-ia-2026-tracker/) et le [rapport Challenger US](/actu/ia-26-pourcent-licenciements-us-avril-aucune-loi-disclosure/).
 
 ## Sources
 

@@ -71,7 +71,7 @@ Les outils IA gestion projet ne valent que s'ils font gagner du temps sur des ta
 
 ### 1. Resume automatique des compte-rendus de reunion
 
-Tu colles la transcription brute d'une reunion de 45 minutes. Notion AI en extrait : decisions prises, points ouverts, proprietaires, deadlines. Ce qui prenait 20 minutes en prise de notes structurees se fait en 30 secondes.
+Tu colles la transcription brute d'une reunion de 45 minutes. Notion AI en extrait : decisions prises, points ouverts, propriétaires, deadlines. Ce qui prenait 20 minutes en prise de notes structurees se fait en 30 secondes.
 
 ### 2. Generation de fiches de specification
 
@@ -79,7 +79,7 @@ A partir d'un email client mal formule, tu demandes a Notion AI de produire une 
 
 ### 3. Analyse de risques automatisee
 
-Decris ton projet en 5 lignes. Notion AI genere une matrice de risques avec probabilite/impact sur 10 points potentiels. Pas infaillible, mais c'est un premier filet de securite que tu aurais sinon oublie dans la pression du lancement.
+Decris ton projet en 5 lignes. Notion AI genere une matrice de risques avec probabilite/impact sur 10 points potentiels. Pas infaillible, mais c'est un premier filet de sécurité que tu aurais sinon oublie dans la pression du lancement.
 
 ### 4. Redaction des emails de recalage projet
 
@@ -101,7 +101,7 @@ Tu decris une fonctionnalite en une phrase. Notion AI genere 5 a 10 user stories
 
 ### 8. Synthese de documents de reference
 
-Tu as 3 cahiers des charges clients a consolider. Notion AI lit les trois pages et produit un document de synthese des exigences communes et des points de divergence. Ce cas d'usage est particulierement puissant pour les chefs de projet qui gere plusieurs clients en parallele.
+Tu as 3 cahiers des charges clients a consolider. Notion AI lit les trois pages et produit un document de synthese des exigences communes et des points de divergence. Ce cas d'usage est particulièrement puissant pour les chefs de projet qui gere plusieurs clients en parallele.
 
 ### 9. Preparation d'un comite de pilotage
 
@@ -136,7 +136,7 @@ Notion AI est le bon choix si tu travailles **deja dans Notion** et que tu veux 
 
 ### Quand ChatGPT est superieur ?
 
-Pour la qualite pure de redaction, la generation de code, et les taches qui n'ont pas besoin de contexte workspace, ChatGPT Plus (base sur GPT-4o) reste superieur. C'est aussi plus flexible pour les prompts complexes multi-etapes.
+Pour la qualité pure de redaction, la generation de code, et les taches qui n'ont pas besoin de contexte workspace, ChatGPT Plus (base sur GPT-4o) reste superieur. C'est aussi plus flexible pour les prompts complexes multi-etapes.
 
 ### Quand Microsoft Copilot l'emporte ?
 
@@ -144,7 +144,7 @@ Dans les grandes organisations sous Microsoft 365, Copilot a un avantage decisif
 
 ### Et Google Gemini dans Docs ?
 
-Google Gemini integre dans Google Workspace est le concurrent direct de Copilot pour les organisations sous Google. Moins mature en 2026 sur les fonctionnalites agents, mais la qualite de synthese documentaire rattrape rapidement. A surveiller.
+Google Gemini integre dans Google Workspace est le concurrent direct de Copilot pour les organisations sous Google. Moins mature en 2026 sur les fonctionnalites agents, mais la qualité de synthese documentaire rattrape rapidement. A surveiller.
 
 ---
 
@@ -179,7 +179,7 @@ Voici 5 prompts directement utilisables dans Notion AI. Copie-les, adapte le con
 Resumes ce compte-rendu de reunion en : 
 1. Contexte (1 phrase)
 2. Decisions prises (liste)
-3. Actions a mener (avec proprietaire et deadline si mentionnes)
+3. Actions a mener (avec propriétaire et deadline si mentionnes)
 4. Points ouverts restants
 Ton : professionnel, factuel, zero blabla.
 ```
@@ -189,7 +189,7 @@ Ton : professionnel, factuel, zero blabla.
 ```
 Voici la description de mon projet : [description en 5 lignes].
 Genere une matrice de risques avec 8 risques potentiels.
-Pour chaque risque : categorie, description, probabilite (1-5), impact (1-5), mesure de mitigation proposee.
+Pour chaque risque : catégorie, description, probabilite (1-5), impact (1-5), mesure de mitigation proposee.
 Format : tableau.
 ```
 
@@ -255,7 +255,7 @@ Comme tous les LLM, Notion AI peut generer des informations plausibles mais faus
 
 Notion AI n'a de valeur que si tout ton travail est dans Notion. Si ton equipe utilise Jira pour le ticketing, Confluence pour la documentation et Slack pour la communication, Notion AI ne lit aucun de ces outils en mode natif. Les Agents peuvent se connecter a certaines sources via des integrations, mais c'est une configuration supplementaire.
 
-### 4. La qualite variable selon le type de tache
+### 4. La qualité variable selon le type de tache
 
 Notion AI est excellent pour resumer et structurer. Il est moyen pour les taches qui necessitent un raisonnement logique complexe ou des calculs (planning, budget). Pour les estimations chiffrees, reste sur un outil dedie ou sur ChatGPT Code Interpreter.
 
@@ -288,7 +288,7 @@ Pour aller plus loin sur l'impact de l'IA sur les metiers de la gestion de proje
 
 ### Notion AI fonctionne-t-il en francais ?
 
-Oui. Notion AI comprend et genere du francais correctement. La qualite est bonne sur les taches de redaction et de resume. Il gere aussi le changement de langue dans un meme document, ce qui est utile pour les equipes bilingues.
+Oui. Notion AI comprend et genere du francais correctement. La qualité est bonne sur les taches de redaction et de resume. Il gere aussi le changement de langue dans un meme document, ce qui est utile pour les equipes bilingues.
 
 ### Peut-on utiliser Notion AI sans avoir Notion Plus ou Business ?
 
@@ -296,7 +296,7 @@ Non. Depuis la refonte tarifaire de 2025, les fonctionnalites IA ne sont pas dis
 
 ### Notion AI est-il meilleur que ChatGPT pour la gestion de projet ?
 
-Pas globalement. Notion AI est meilleur que ChatGPT sur un point precis : il comprend le contexte de tes documents Notion sans copier-coller. ChatGPT est superieur sur la qualite de raisonnement, la flexibilite des prompts et la generation de code. Les deux sont complementaires plutot que substituables.
+Pas globalement. Notion AI est meilleur que ChatGPT sur un point precis : il comprend le contexte de tes documents Notion sans copier-coller. ChatGPT est superieur sur la qualité de raisonnement, la flexibilite des prompts et la generation de code. Les deux sont complémentaires plutot que substituables.
 
 ### Quels sont les risques RGPD de Notion AI ?
 

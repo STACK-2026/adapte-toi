@@ -70,7 +70,7 @@ Tout ce qui suit est sourcé à des institutions publiques ou des études vérif
 
 ## Sommaire
 
-- [Ce que disent vraiment les études sur l'IA et l'emploi](#etudes)
+- [Ce que disent vraiment les études sur l'IA et l'emploi](#études)
 - [La méthodologie Adapte-toi pour mesurer l'exposition d'un métier](#methodologie)
 - [Top 12 des métiers les plus menacés par l'IA en France en 2026](#top-12-exposes)
 - [Top 8 des métiers les mieux protégés](#top-8-proteges)

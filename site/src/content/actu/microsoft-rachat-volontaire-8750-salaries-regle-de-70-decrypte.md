@@ -11,8 +11,8 @@ keyQuote:
   author: "Storyboard18"
   context: "Synthese du 30 avril 2026 sur les signaux envoyes par la direction financiere de Microsoft lors de la conference des resultats du T3 fiscal 2026, qui a aussi devoile la charge de 900 millions de dollars liee au plan de departs volontaires"
 tldr:
-  - "Microsoft a devoile le 23 avril 2026 son tout premier plan de departs volontaires en 51 ans d'histoire, vise par environ 8 750 salaries americains, soit pres de 7% des 125 000 effectifs US du groupe."
-  - "Le criterion d'eligibilite est la regle de 70 : la somme de ton age et de tes annees d'anciennete chez Microsoft doit atteindre 70, ce qui cible massivement les profils seniors du middle management et de la tech historique."
+  - "Microsoft a devoile le 23 avril 2026 son tout premier plan de departs volontaires en 51 ans d'histoire, vise par environ 8 750 salaries américains, soit pres de 7% des 125 000 effectifs US du groupe."
+  - "Le criterion d'eligibilite est la regle de 70 : la somme de ton age et de tes années d'anciennete chez Microsoft doit atteindre 70, ce qui cible massivement les profils seniors du middle management et de la tech historique."
   - "La CFO Amy Hood a confirme une charge unique de 900 millions de dollars liee au programme, alors que Microsoft a affiche un benefice net record et planifie pres de 80 a 100 milliards de dollars d'investissements en infrastructures IA pour l'exercice fiscal 2026."
   - "Aucun impact direct sur Microsoft France a ce stade, mais le signal s'aligne avec la vague Meta, Oracle, Amazon : couper l'humain senior pour financer la machine, et accelerer la mutation IA des metiers de bureau."
 sources:
@@ -70,18 +70,18 @@ imageAlt: "Bureaux corporate avec open space et ecran d'ordinateur affichant un 
 
 ## TL;DR
 
-- Microsoft a devoile le 23 avril 2026 son tout premier plan de departs volontaires en 51 ans d'histoire, vise par environ 8 750 salaries americains, soit pres de 7% des 125 000 effectifs US du groupe.
-- Le criterion d'eligibilite est la regle de 70 : la somme de ton age et de tes annees d'anciennete chez Microsoft doit atteindre 70, ce qui cible massivement les profils seniors du middle management et de la tech historique.
+- Microsoft a devoile le 23 avril 2026 son tout premier plan de departs volontaires en 51 ans d'histoire, vise par environ 8 750 salaries américains, soit pres de 7% des 125 000 effectifs US du groupe.
+- Le criterion d'eligibilite est la regle de 70 : la somme de ton age et de tes années d'anciennete chez Microsoft doit atteindre 70, ce qui cible massivement les profils seniors du middle management et de la tech historique.
 - La CFO Amy Hood a confirme une charge unique de 900 millions de dollars liee au programme, alors que Microsoft a affiche un benefice net record et planifie pres de 80 a 100 milliards de dollars d'investissements en infrastructures IA pour l'exercice fiscal 2026.
 - Aucun impact direct sur Microsoft France a ce stade, mais le signal s'aligne avec la vague Meta, Oracle, Amazon : couper l'humain senior pour financer la machine, et accelerer la mutation IA des metiers de bureau.
 
-Microsoft a annonce le 23 avril 2026 un plan de rachat volontaire vise par 8 750 salaries americains, soit 7% de ses effectifs US, eligibles via la regle de 70 (age + anciennete). La charge passe a 900 millions de dollars, pendant que le geant injecte plus de 80 milliards dans l'IA. Voici ce que ca change pour ton job.
+Microsoft a annonce le 23 avril 2026 un plan de rachat volontaire vise par 8 750 salaries américains, soit 7% de ses effectifs US, eligibles via la regle de 70 (age + anciennete). La charge passe a 900 millions de dollars, pendant que le geant injecte plus de 80 milliards dans l'IA. Voici ce que ca change pour ton job.
 
 ## Ce qui s'est passe le 23 avril 2026
 
-Le 23 avril 2026, Microsoft annonce a ses equipes americaines un dispositif inedit : un plan de departs volontaires, le premier de cette ampleur depuis la creation du groupe en 1975. Selon [CNBC](https://www.cnbc.com/2026/04/23/microsoft-plans-first-voluntary-retirement-program-for-us-employees.html), environ 8 750 salaries americains sont eligibles, soit pres de 7% des 125 000 effectifs US. [TechCrunch](https://techcrunch.com/2026/04/23/microsoft-offers-buyout-for-up-to-7-of-u-s-employees/) confirme le perimetre le meme jour. [Clubic](https://www.clubic.com/actualite-610546-pour-la-premiere-fois-en-51-ans-microsoft-propose-un-plan-de-departs-volontaires-a-plus-de-8-700-employes.html) parle d'un plan inedit en 51 ans, et [France 24](https://www.france24.com/fr/%C3%A9co-tech/20260423-ia-meta-va-licencier-8-000-personnes-microsoft-lance-un-plan-de-d%C3%A9parts-volontaires) le relie a la vague IA chez Meta, qui licencie 8 000 personnes la meme semaine.
+Le 23 avril 2026, Microsoft annonce a ses equipes américaines un dispositif inedit : un plan de departs volontaires, le premier de cette ampleur depuis la creation du groupe en 1975. Selon [CNBC](https://www.cnbc.com/2026/04/23/microsoft-plans-first-voluntary-retirement-program-for-us-employees.html), environ 8 750 salaries américains sont eligibles, soit pres de 7% des 125 000 effectifs US. [TechCrunch](https://techcrunch.com/2026/04/23/microsoft-offers-buyout-for-up-to-7-of-u-s-employees/) confirme le perimetre le meme jour. [Clubic](https://www.clubic.com/actualite-610546-pour-la-premiere-fois-en-51-ans-microsoft-propose-un-plan-de-departs-volontaires-a-plus-de-8-700-employes.html) parle d'un plan inedit en 51 ans, et [France 24](https://www.france24.com/fr/%C3%A9co-tech/20260423-ia-meta-va-licencier-8-000-personnes-microsoft-lance-un-plan-de-d%C3%A9parts-volontaires) le relie a la vague IA chez Meta, qui licencie 8 000 personnes la meme semaine.
 
-La mecanique est arithmetique : la regle de 70. Tu es eligible si la somme de ton age et de tes annees d'anciennete chez Microsoft atteint ou depasse 70. Un ingenieur de 52 ans avec dix-huit ans de boite coche la case, comme une responsable produit de 58 ans avec douze ans de presence. Les commerciaux en plan d'interessement actif et certains profils tres seniors sont exclus. La fenetre pour opter court jusqu'au 8 juin 2026, et le dernier jour des partants est fixe au 1er juillet, debut de l'exercice fiscal 2027. Le package combine indemnite cash, maintien de la couverture sante et acceleration des stock-options non acquises.
+La mecanique est arithmetique : la regle de 70. Tu es eligible si la somme de ton age et de tes années d'anciennete chez Microsoft atteint ou depasse 70. Un ingenieur de 52 ans avec dix-huit ans de boite coche la case, comme une responsable produit de 58 ans avec douze ans de presence. Les commerciaux en plan d'interessement actif et certains profils tres seniors sont exclus. La fenetre pour opter court jusqu'au 8 juin 2026, et le dernier jour des partants est fixe au 1er juillet, debut de l'exercice fiscal 2027. Le package combine indemnite cash, maintien de la couverture sante et acceleration des stock-options non acquises.
 
 ## Pourquoi ca compte vraiment
 
@@ -103,7 +103,7 @@ La regle de 70 cible le middle management et les ingenieurs experimentes, ceux q
 
 Aucun plan social Microsoft France n'a ete annonce. Microsoft France compte environ 2 000 collaborateurs, soumis au code du travail, au CSE et a la convention Syntec. Un dispositif de retraite anticipee de type americain ne peut pas etre transpose tel quel : il faudrait passer par une rupture conventionnelle collective ou un plan de sauvegarde de l'emploi, deux procedures soumises a homologation administrative.
 
-Les decisions des editeurs US mettent 6 a 12 mois a se traduire en restructurations sur les filiales europeennes. Les [donnees DARES sur les licenciements](https://dares.travail-emploi.gouv.fr/donnees/les-licenciements) ne montrent pas encore de pic tech FR comparable a la vague americaine. L'autre point de bascule, c'est l'application progressive de l'[AI Act europeen](https://artificialintelligenceact.eu/) a partir d'aout 2026 : les obligations sur les systemes IA a haut risque creent de la demande pour des profils conformite et audit IA, non vises par les coupes Big Tech US.
+Les decisions des editeurs US mettent 6 a 12 mois a se traduire en restructurations sur les filiales europeennes. Les [donnees DARES sur les licenciements](https://dares.travail-emploi.gouv.fr/donnees/les-licenciements) ne montrent pas encore de pic tech FR comparable a la vague americaine. L'autre point de bascule, c'est l'application progressive de l'[AI Act europeen](https://artificialintelligenceact.eu/) a partir d'aout 2026 : les obligations sur les systèmes IA a haut risque creent de la demande pour des profils conformite et audit IA, non vises par les coupes Big Tech US.
 
 ## Faut-il accepter un buyout si on te le propose ?
 
@@ -127,11 +127,11 @@ Le buyout Microsoft ne dit pas que l'IA va remplacer 7% des salaries US du group
 
 ### Pourquoi Microsoft propose-t-il un rachat volontaire plutot qu'un plan social ?
 
-Le rachat volontaire est juridiquement et reputationnellement moins risque qu'un plan de licenciement aux Etats-Unis. Microsoft evite les contentieux individuels, conserve la marque employeur pour la guerre des talents IA et controle precisement le profil de ceux qui partent grace a la regle de 70. Le cout, 900 millions de dollars selon Amy Hood, est inferieur a celui d'un plan social classique de meme ampleur.
+Le rachat volontaire est juridiquement et reputationnellement moins risque qu'un plan de licenciement aux Etats-Unis. Microsoft evite les contentieux individuels, conserve la marque employeur pour la guerre des talents IA et contrôle precisement le profil de ceux qui partent grace a la regle de 70. Le cout, 900 millions de dollars selon Amy Hood, est inferieur a celui d'un plan social classique de meme ampleur.
 
 ### Comment fonctionne la regle de 70 et qui est concerne ?
 
-La regle est arithmetique : ton age plus tes annees d'anciennete chez Microsoft doivent atteindre 70. Un developpeur de 50 ans avec 20 ans de boite est eligible, comme un manager de 55 ans avec 15 ans. Les commerciaux en plan d'interessement actif et certains profils tres seniors sont exclus. Le perimetre estime par CNBC est d'environ 8 750 personnes aux Etats-Unis.
+La regle est arithmetique : ton age plus tes années d'anciennete chez Microsoft doivent atteindre 70. Un developpeur de 50 ans avec 20 ans de boite est eligible, comme un manager de 55 ans avec 15 ans. Les commerciaux en plan d'interessement actif et certains profils tres seniors sont exclus. Le perimetre estime par CNBC est d'environ 8 750 personnes aux Etats-Unis.
 
 ### Quel impact pour Microsoft France et les utilisateurs francais ?
 
@@ -139,7 +139,7 @@ Aucun plan equivalent n'a ete annonce sur Microsoft France. Le code du travail f
 
 ### Quels metiers tech recrutent encore en France malgre la vague IA Big Tech ?
 
-Les fonctions conformite IA et audit IA, dopees par l'[AI Act](https://artificialintelligenceact.eu/), MLOps, data engineering, securite IA, integration LLM, et les profils [developpeur IA](/metiers/developpeur-ia/) seniors. Mistral, Hugging Face, Dataiku et OVHcloud continuent de recruter, et les ESN europeennes embauchent sur les projets d'industrialisation IA en entreprise.
+Les fonctions conformite IA et audit IA, dopees par l'[AI Act](https://artificialintelligenceact.eu/), MLOps, data engineering, sécurité IA, integration LLM, et les profils [developpeur IA](/metiers/developpeur-ia/) seniors. Mistral, Hugging Face, Dataiku et OVHcloud continuent de recruter, et les ESN europeennes embauchent sur les projets d'industrialisation IA en entreprise.
 
 ### L'IA va-t-elle remplacer les managers chez Microsoft et ailleurs ?
 

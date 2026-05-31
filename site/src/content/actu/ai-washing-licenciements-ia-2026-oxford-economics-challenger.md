@@ -11,7 +11,7 @@ keyQuote:
   context: "Note publiee en janvier 2026, reprise par Fortune et Next.ink, sur l'analyse des licenciements officiellement attribues a l'IA aux Etats-Unis."
 tldr:
   - "Au T1 2026, Challenger Gray & Christmas comptabilise 27 645 licenciements aux Etats-Unis officiellement imputes a l'IA, soit environ 13% des 217 362 suppressions annoncees sur le trimestre."
-  - "Oxford Economics et plusieurs analystes pointent un phenomene d'AI washing : 39% des dirigeants reduisent leurs effectifs en anticipation des capacites de l'IA, contre seulement 2% sur la base de gains d'automatisation deja mesures."
+  - "Oxford Economics et plusieurs analystes pointent un phénomène d'AI washing : 39% des dirigeants reduisent leurs effectifs en anticipation des capacites de l'IA, contre seulement 2% sur la base de gains d'automatisation deja mesures."
   - "La productivite par travailleur ne decolle pas comme elle devrait si l'IA remplacait massivement les humains, ce qui renforce l'hypothese du pretexte narratif aupres des marches financiers."
   - "En France, le mouvement est plus contenu mais visible : Microsoft France finalise une rupture conventionnelle collective de 200 postes a Issy-les-Moulineaux et la Cour des comptes appelle a documenter les vrais effets emploi."
 sources:
@@ -27,7 +27,7 @@ sources:
     url: "https://next.ink/brief_article/les-effets-de-lia-sur-lemploi-sont-exageres-par-les-entreprises-selon-oxford-economics/"
     outlet: "Next.ink"
     date: 2026-01-08
-  - title: "Pas de job apocalypse imputable a l'IA, selon cette etude"
+  - title: "Pas de job apocalypse imputable a l'IA, selon cette étude"
     url: "https://www.helloworkplace.fr/ia-licenciement-oxford-economics/"
     outlet: "HelloWorkPlace"
     date: 2026-01-12
@@ -70,7 +70,7 @@ L'AI washing est officiellement entre dans le vocabulaire RH en 2026. Au premier
 
 Le rapport Challenger Gray & Christmas publie debut avril 2026 livre des donnees crues sur le marche du travail americain. Trois constats centraux.
 
-1. **Volume global en repli.** Les employeurs americains ont annonce 217 362 suppressions de postes au T1 2026, le total trimestriel le plus faible depuis 2022, en baisse de 16% par rapport au T4 2025 et de 56% sur un an.
+1. **Volume global en repli.** Les employeurs américains ont annonce 217 362 suppressions de postes au T1 2026, le total trimestriel le plus faible depuis 2022, en baisse de 16% par rapport au T4 2025 et de 56% sur un an.
 2. **L'IA grimpe au classement des motifs.** En mars 2026 seul, l'IA est citee comme premiere raison de suppression, avec 15 341 postes annonces sur le mois (25% du total mensuel). Sur le trimestre, l'IA cumule 27 645 suppressions, soit environ 13% des plans annonces.
 3. **Concentration tech.** Le secteur technologique a annonce a lui seul 18 720 suppressions en mars, plus de 52 000 sur le trimestre, pic depuis 2023. Le record absolu reste Oracle, qui a annonce environ 30 000 suppressions le 31 mars 2026, deja decryptees dans notre [analyse Oracle 30 000 postes](/actu/oracle-licencie-30000-pour-financer-pari-ia-decryptage/).
 
@@ -78,11 +78,11 @@ Ces chiffres alimentent le recit dominant des medias : "l'IA detruit des emplois
 
 ## Pourquoi ca compte (le piege du narratif IA)
 
-L'argument central d'Oxford Economics est statistique. Sur l'annee 2025, environ 55 000 licenciements americains ont ete officiellement attribues a l'IA. Mis en perspective : entre 1,5 et 1,8 million d'Americains perdent leur poste chaque mois pour toutes raisons confondues. Les licenciements imputes a l'IA representent donc une fraction marginale du marche du travail.
+L'argument central d'Oxford Economics est statistique. Sur l'année 2025, environ 55 000 licenciements americains ont ete officiellement attribues a l'IA. Mis en perspective : entre 1,5 et 1,8 million d'Américains perdent leur poste chaque mois pour toutes raisons confondues. Les licenciements imputes a l'IA representent donc une fraction marginale du marche du travail.
 
-Plus genant pour le narratif IA : la productivite par travailleur ne decolle pas. Si l'IA remplacait massivement des humains, on devrait observer une hausse mecanique de la production par actif. Or les statistiques americaines comme l'OCDE ne montrent rien de tel a ce stade.
+Plus genant pour le narratif IA : la productivite par travailleur ne decolle pas. Si l'IA remplacait massivement des humains, on devrait observer une hausse mecanique de la production par actif. Or les statistiques américaines comme l'OCDE ne montrent rien de tel a ce stade.
 
-Une enquete citee par les analystes ajoute une donnee parlante : 39% des dirigeants disent avoir reduit leurs effectifs en anticipation des capacites de l'IA, contre seulement 2% sur la base de gains d'automatisation deja mesures. Autrement dit, dans neuf cas sur dix ou un dirigeant cite l'IA, il licencie sur la promesse, pas sur le resultat.
+Une enquete citee par les analystes ajoute une donnee parlante : 39% des dirigeants disent avoir réduit leurs effectifs en anticipation des capacites de l'IA, contre seulement 2% sur la base de gains d'automatisation deja mesures. Autrement dit, dans neuf cas sur dix ou un dirigeant cite l'IA, il licencie sur la promesse, pas sur le resultat.
 
 L'enjeu pour toi : si l'IA est le nouveau pretexte preferentiel des plans sociaux, tu dois lire chaque annonce de "restructuration IA" avec un oeil critique. Notre [tracker licenciements IA 2026](/guides/licenciements-ia-2026-tracker/) recense les cas avec la part de motivation reellement documentee.
 
@@ -111,7 +111,7 @@ La France suit le mouvement avec un decalage et une amplitude moindre.
 
 **Le marche francais reste plus protecteur.** Le droit du travail francais, et notamment le passage par l'inspection du travail, freine les vagues de licenciements expressives qu'on observe aux Etats-Unis. Aucune entreprise du CAC 40 n'a a ce jour invoque explicitement l'IA comme motif de plan social.
 
-**La regulation europeenne arrive.** L'[AI Act europeen](https://artificialintelligenceact.eu/) entre progressivement en application a partir d'aout 2026 sur les systemes a haut risque, dont une partie des outils RH. Cela cree mecaniquement de la demande en profils conformite-IA, audit algorithmique et data governance. Voir notre [guide reglementation IA Europe](/guides/ia-europe-reglementation/).
+**La regulation europeenne arrive.** L'[AI Act europeen](https://artificialintelligenceact.eu/) entre progressivement en application a partir d'aout 2026 sur les systèmes a haut risque, dont une partie des outils RH. Cela cree mecaniquement de la demande en profils conformite-IA, audit algorithmique et data governance. Voir notre [guide reglementation IA Europe](/guides/ia-europe-reglementation/).
 
 **La donnee publique francaise reste lacunaire.** L'[INSEE](https://www.insee.fr/fr/statistiques) et la Dares n'ont pas encore d'indicateur officiel "emploi supprime pour cause IA". L'[OCDE](https://www.oecd.org/employment/) appelle a un protocole statistique commun. En attendant, prudence sur les chiffres.
 

@@ -60,7 +60,7 @@ Ce n'est *pas* un developpeur. Ce n'est *pas* un data scientist. Ce n'est *pas* 
 
 C'est un pedagogue specialise, qui fait le pont entre des outils complexes et des utilisateurs non techniques.
 
-La distinction est fondamentale. Selon une etude Cognizant de fevrier 2026, 93% des metiers sont desormais impactes par l'IA. Mais la tres grande majorite des salaries concernes n'ont aucune formation pour apprehender ces outils. C'est ce vide que le formateur IA comble.
+La distinction est fondamentale. Selon une étude Cognizant de février 2026, 93% des metiers sont desormais impactes par l'IA. Mais la tres grande majorite des salaries concernes n'ont aucune formation pour apprehender ces outils. C'est ce vide que le formateur IA comble.
 
 ### Ce que fait un formateur IA (concretement)
 
@@ -159,7 +159,7 @@ Voici ce qu'il faut reellement maitriser :
 - Ingenierie de formation : savoir concevoir un parcours pedagogique coherent avec des objectifs SMART
 - Animation de groupe : gestion des resistances, des profils difficiles, des questions pieges
 - Evaluation des acquis : savoir mesurer si la formation a fonctionne
-- Adaptation au niveau : former des techniciens et former des commerciaux, c'est completement different
+- Adaptation au niveau : former des techniciens et former des commerciaux, c'est complètement different
 
 ### Les competences "soft" qui font la difference
 
@@ -196,7 +196,7 @@ Selon PwC, les profils "IA-ready" gagnent en moyenne 25% de plus que leurs equiv
 
 ### La variable cle : ta specialisation sectorielle
 
-Un formateur IA specialise dans le secteur juridique ou la sante facture entre 20 et 40% plus cher qu'un generaliste. Pourquoi ? Parce que la valeur n'est plus dans la connaissance de l'outil, mais dans la capacite a contextualiser l'outil dans des contraintes metier specifiques (RGPD medical, secret professionnel, deontologie, etc.).
+Un formateur IA specialise dans le secteur juridique ou la sante facture entre 20 et 40% plus cher qu'un generaliste. Pourquoi ? Parce que la valeur n'est plus dans la connaissance de l'outil, mais dans la capacite a contextualiser l'outil dans des contraintes metier spécifiques (RGPD medical, secret professionnel, deontologie, etc.).
 
 En tant qu'ex-enseignant, tu as un avantage naturel : tu comprends les etablissements scolaires, les organismes de formation, les collectivites. C'est une niche rentable et peu exploitee.
 
@@ -259,12 +259,12 @@ Mais voila la bonne nouvelle : tu n'en as pas besoin pour demarrer. Tu peux sous
 
 Pour obtenir Qualiopi en propre :
 - Couts : entre 1 500 et 3 000 euros pour l'audit
-- Preparation : 3 a 6 mois pour structurer tes process (referentiel national qualite en 7 indicateurs)
+- Preparation : 3 a 6 mois pour structurer tes process (referentiel national qualité en 7 indicateurs)
 - Validite : 3 ans avec audit de surveillance a 18 mois
 
-### Le numero de formateur (declaration d'activite)
+### Le numéro de formateur (declaration d'activite)
 
-Des ta premiere action de formation payante, tu dois declarer ton activite de formation aupres de la DREETS (ex-DIRECCTE) de ta region. Tu obtiens un numero de formateur. C'est gratuit et obligatoire.
+Des ta premiere action de formation payante, tu dois declarer ton activite de formation aupres de la DREETS (ex-DIRECCTE) de ta region. Tu obtiens un numéro de formateur. C'est gratuit et obligatoire.
 
 ### Le CPF : opportunite ou miroir aux alouettes ?
 
@@ -291,7 +291,7 @@ La question pratique qui bloque le plus les reconvertis. Voici les 6 canaux qui 
 
 C'est le canal le plus rapide pour debutant. Cefora, Comundi, ORSYS, M2i Formation, Demos... Ces grands organismes ont Qualiopi, ont les clients, n'ont pas assez de formateurs IA competents. Contacte leur departement "recrutement formateurs" directement. Negocie un tarif entre 400 et 600 euros HT/jour en sous-traitance.
 
-L'avantage : tu formes rapidement, tu construis des references, tu ne prospectes pas. L'inconvenient : les marges sont reduites et tu ne construis pas ta clientele propre.
+L'avantage : tu formes rapidement, tu construis des references, tu ne prospectes pas. L'inconvenient : les marges sont réduites et tu ne construis pas ta clientele propre.
 
 ### 2. LinkedIn (inbound + prospection directe)
 
@@ -305,7 +305,7 @@ C'est sous-estime mais c'est souvent la premiere source. Ton ancien employeur, t
 
 ### 4. France Travail et les OPCO regionaux
 
-France Travail (ex-Pole Emploi) propose regulierement des appels d'offres pour des formations de reconversion et d'integration de salaries. Les OPCO (Afdas, Atlas, Ocapiat...) cherchent egalement des formateurs agrees dans leurs secteurs.
+France Travail (ex-Pole Emploi) propose régulièrement des appels d'offres pour des formations de reconversion et d'integration de salaries. Les OPCO (Afdas, Atlas, Ocapiat...) cherchent egalement des formateurs agrees dans leurs secteurs.
 
 ### 5. Les collectivites territoriales et la fonction publique
 
@@ -345,7 +345,7 @@ Absolument. La pedagogie est la competence rare dans ce metier. Beaucoup de "for
 
 ### Est-ce que le marche va etre sature ?
 
-Selon l'etude Cognizant de fevrier 2026, 93% des metiers sont impactes par l'IA. L'OCDE estime que 27% des emplois francais (plus de 4 millions de postes) sont exposes a un risque d'automatisation eleve. La demande de formation IA va augmenter pendant encore plusieurs annees. La saturation du marche generaliste est possible, mais les formateurs specialises par secteur ont de beaux jours devant eux.
+Selon l'étude Cognizant de février 2026, 93% des metiers sont impactes par l'IA. L'OCDE estime que 27% des emplois francais (plus de 4 millions de postes) sont exposes a un risque d'automatisation eleve. La demande de formation IA va augmenter pendant encore plusieurs annees. La saturation du marche generaliste est possible, mais les formateurs specialises par secteur ont de beaux jours devant eux.
 
 ---
 
@@ -368,7 +368,7 @@ Selon l'etude Cognizant de fevrier 2026, 93% des metiers sont impactes par l'IA.
 
 ## Conclusion {#conclusion}
 
-Le metier de **professeur formateur IA** n'est pas une mode. C'est une reponse structurelle a un besoin qui va croitre pendant plusieurs annees encore. Selon l'OCDE, plus de 4 millions de postes francais sont exposes a un risque d'automatisation eleve. Chacun de ces travailleurs a besoin d'etre forme, accompagne, reasure sur ce que l'IA change vraiment dans son quotidien.
+Le metier de **professeur formateur IA** n'est pas une mode. C'est une reponse structurelle a un besoin qui va croitre pendant plusieurs années encore. Selon l'OCDE, plus de 4 millions de postes francais sont exposes a un risque d'automatisation eleve. Chacun de ces travailleurs a besoin d'etre forme, accompagne, reasure sur ce que l'IA change vraiment dans son quotidien.
 
 Si tu viens de l'enseignement, tu as deja la moitie du chemin fait. La pedagogie, la gestion de groupe, la capacite a simplifier le complexe : c'est ton capital. Il te reste a construire ta maitrise des outils et a apprendre les codes du B2B.
 

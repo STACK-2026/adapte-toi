@@ -21,7 +21,7 @@ Tu cherches les vrais chiffres sur l'impact de l'IA sur l'emploi ? Pas des opini
 
 ## Sommaire
 
-- [Les 15 études essentielles](#etudes)
+- [Les 15 études essentielles](#études)
 - [Les 10 chiffres à retenir](#chiffres)
 - [Ce que les études disent vraiment (et ce qu'elles ne disent pas)](#analyse)
 - [Les voix à suivre](#voix)

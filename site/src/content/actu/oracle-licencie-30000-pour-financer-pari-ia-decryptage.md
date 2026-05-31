@@ -13,7 +13,7 @@ keyQuote:
 tldr:
   - "Oracle a notifie jusqu'a 30 000 salaries (18% des effectifs) de leur licenciement par e-mail le 31 mars 2026, dont environ 10 000 en Inde, soit la plus grande charrette de l'histoire de l'editeur."
   - "Motif officiel : liberer 8 a 10 milliards de dollars de tresorerie annuelle pour absorber le contrat Stargate signe en septembre 2025 avec OpenAI, evalue a 300 milliards sur cinq ans."
-  - "Oracle invoque les gains de productivite lies a la generation de code par IA pour justifier des equipes plus reduites, alors que le chiffre d'affaires du T3 fiscal 2026 a progresse de 22% a 17,2 milliards de dollars."
+  - "Oracle invoque les gains de productivite lies a la generation de code par IA pour justifier des equipes plus réduites, alors que le chiffre d'affaires du T3 fiscal 2026 a progresse de 22% a 17,2 milliards de dollars."
   - "Aucune annonce de plan social en France a ce stade, mais le signal est clair : la pression budgetaire IA va peser sur les decisions RH des grands editeurs en 2026, y compris en Europe."
 sources:
   - title: "Oracle cutting thousands in latest layoff round as company continues to ramp AI spending"
@@ -72,7 +72,7 @@ imageAlt: "Salle serveurs et open space d'entreprise tech"
 
 - Oracle a notifie jusqu'a 30 000 salaries (18% des effectifs) de leur licenciement par e-mail le 31 mars 2026, dont environ 10 000 en Inde, soit la plus grande charrette de l'histoire de l'editeur.
 - Motif officiel : liberer 8 a 10 milliards de dollars de tresorerie annuelle pour absorber le contrat Stargate signe en septembre 2025 avec OpenAI, evalue a 300 milliards sur cinq ans.
-- Oracle invoque les gains de productivite lies a la generation de code par IA pour justifier des equipes plus reduites, alors que le chiffre d'affaires du T3 fiscal 2026 a progresse de 22% a 17,2 milliards de dollars.
+- Oracle invoque les gains de productivite lies a la generation de code par IA pour justifier des equipes plus réduites, alors que le chiffre d'affaires du T3 fiscal 2026 a progresse de 22% a 17,2 milliards de dollars.
 - Aucune annonce de plan social en France a ce stade, mais le signal est clair : la pression budgetaire IA va peser sur les decisions RH des grands editeurs en 2026, y compris en Europe.
 
 Oracle a licencie jusqu'a 30 000 salaries le 31 mars 2026, soit 18% de ses effectifs, pour financer le contrat Stargate avec OpenAI a 300 milliards de dollars. C'est la plus grosse charrette de son histoire et un nouveau modele : couper l'humain pour payer la machine. Voici ce que ca change pour ton job en France.
@@ -81,11 +81,11 @@ Oracle a licencie jusqu'a 30 000 salaries le 31 mars 2026, soit 18% de ses effec
 
 Le 31 mars 2026, des milliers de salaries d'Oracle decouvrent dans leur boite e-mail, des l'aube, qu'ils sont licencies. Selon [CNBC](https://www.cnbc.com/2026/03/31/oracle-layoffs-ai-spending.html), entre 10 000 et 30 000 postes sont concernes a l'echelle mondiale. Le World Socialist Web Site, dans son [analyse du 2 avril 2026](https://www.wsws.org/en/articles/2026/04/02/clmg-a02.html), retient le chiffre haut : 30 000 suppressions, soit 18% des effectifs mondiaux d'Oracle, qui n'avait jamais conduit un plan de cette ampleur en 49 ans d'existence.
 
-L'Inde paie un tribut particulierement lourd, avec environ 10 000 postes supprimes (20% de la base locale). Aux Etats-Unis, plusieurs centaines de salaries de la division cloud et des fonctions ventes-marketing sont touches. La methode est brutale : un mail unique, sans entretien prealable, retrait immediat des acces. [Le Monde Informatique](https://www.lemondeinformatique.fr/actualites/lire-oracle-supprime-10-000-postes-pour-financer-ses-datacenters-ia-99835.html) confirme le 2 avril le chiffre plancher de 10 000 suppressions et le motif financier. Aucun plan social specifique a la France n'a ete annonce.
+L'Inde paie un tribut particulièrement lourd, avec environ 10 000 postes supprimes (20% de la base locale). Aux Etats-Unis, plusieurs centaines de salaries de la division cloud et des fonctions ventes-marketing sont touches. La methode est brutale : un mail unique, sans entretien prealable, retrait immediat des acces. [Le Monde Informatique](https://www.lemondeinformatique.fr/actualites/lire-oracle-supprime-10-000-postes-pour-financer-ses-datacenters-ia-99835.html) confirme le 2 avril le chiffre plancher de 10 000 suppressions et le motif financier. Aucun plan social spécifique a la France n'a ete annonce.
 
 ## Pourquoi ca compte
 
-La cle, c'est le contrat Stargate. En septembre 2025, OpenAI et Oracle ont signe un accord cloud de cinq ans evalue a [300 milliards de dollars](https://builtin.com/articles/openai-300b-cloud-deal-oracle-20250911), avec un objectif de 4,5 gigawatts de capacite supplementaire en datacenters aux Etats-Unis. Pour livrer cette infrastructure, Oracle doit investir massivement dans le foncier, l'energie, les puces et le refroidissement.
+La cle, c'est le contrat Stargate. En septembre 2025, OpenAI et Oracle ont signe un accord cloud de cinq ans evalue a [300 milliards de dollars](https://builtin.com/articles/openai-300b-cloud-deal-oracle-20250911), avec un objectif de 4,5 gigawatts de capacite supplementaire en datacenters aux Etats-Unis. Pour livrer cette infrastructure, Oracle doit investir massivement dans le foncier, l'énergie, les puces et le refroidissement.
 
 Les chiffres parlent d'eux-memes. Au T3 fiscal 2026, Oracle a publie un chiffre d'affaires en hausse de 22% a 17,2 milliards de dollars. Le carnet de commandes cloud a explose a 553 milliards de dollars, en progression de 325% sur un an. Le capex IA prevu pour 2026 atteint au moins 50 milliards de dollars, finances en partie par dette. Les licenciements vont degager entre 8 et 10 milliards de tresorerie annuelle.
 
@@ -105,11 +105,11 @@ Le plan Oracle vise quatre familles de postes.
 
 ## Et en France ?
 
-Aucun plan social Oracle France n'a ete annonce a ce jour. Le rapport [Indeed Hiring Lab d'avril 2026](https://www.hiringlab.org/fr/blog/2026/04/01/avril-2026-lia-progresse-dans-un-marche-du-travail-en-recul/) montre que le volume d'offres en France est repasse sous le niveau de fevrier 2020, divise par deux depuis le pic de decembre 2022. Les annonces mentionnant l'IA, elles, progressent : 21% en developpement informatique, 15% en sysadmin, 12% en banque-finance.
+Aucun plan social Oracle France n'a ete annonce a ce jour. Le rapport [Indeed Hiring Lab d'avril 2026](https://www.hiringlab.org/fr/blog/2026/04/01/avril-2026-lia-progresse-dans-un-marche-du-travail-en-recul/) montre que le volume d'offres en France est repasse sous le niveau de février 2020, divise par deux depuis le pic de décembre 2022. Les annonces mentionnant l'IA, elles, progressent : 21% en développement informatique, 15% en sysadmin, 12% en banque-finance.
 
 Les [donnees DARES sur les licenciements](https://dares.travail-emploi.gouv.fr/donnees/les-licenciements) ne montrent pas encore de pic tech FR comparable a la vague americaine. Les decisions strategiques des editeurs US mettent en general 6 a 12 mois a se traduire en restructurations sur les filiales europeennes.
 
-L'autre lecture vient de l'[AI Act europeen](https://artificialintelligenceact.eu/). Les obligations sur les systemes IA a haut risque entrent progressivement en application a partir d'aout 2026. Cela cree de la demande pour des profils conformite-IA et audit IA en Europe, qui ne sont pas touches par les coupes Oracle. Pour le contexte plus large, voir notre [pillar IA emploi en chiffres cles](/guides/ia-emploi-chiffres-cles/).
+L'autre lecture vient de l'[AI Act europeen](https://artificialintelligenceact.eu/). Les obligations sur les systèmes IA a haut risque entrent progressivement en application a partir d'aout 2026. Cela cree de la demande pour des profils conformite-IA et audit IA en Europe, qui ne sont pas touches par les coupes Oracle. Pour le contexte plus large, voir notre [pillar IA emploi en chiffres cles](/guides/ia-emploi-chiffres-cles/).
 
 ## Comment t'adapter
 
@@ -137,11 +137,11 @@ Les fourchettes varient selon les sources. Le Monde Informatique retient 10 000 
 
 ### Y a-t-il un plan social Oracle France a craindre ?
 
-Aucune annonce specifique a la France a ce jour. Mais les decisions des editeurs US se traduisent en general en 6 a 12 mois sur les filiales europeennes. Si tu travailles chez Oracle France ou un partenaire integrateur, surveille les annonces du comite social et economique dans les prochains trimestres.
+Aucune annonce spécifique a la France a ce jour. Mais les decisions des editeurs US se traduisent en general en 6 a 12 mois sur les filiales europeennes. Si tu travailles chez Oracle France ou un partenaire integrateur, surveille les annonces du comite social et economique dans les prochains trimestres.
 
 ### Quels metiers tech recrutent encore en France malgre la vague IA ?
 
-Les fonctions conformite IA et audit IA (poussees par l'AI Act), MLOps, data engineering, securite IA, integration LLM, et les profils [developpeur IA](/metiers/developpeur-ia/) seniors. Le rapport Indeed Hiring Lab confirme la progression de la part d'annonces IA en France, surtout dans la tech, le sysadmin et la banque-finance.
+Les fonctions conformite IA et audit IA (poussees par l'AI Act), MLOps, data engineering, sécurité IA, integration LLM, et les profils [developpeur IA](/metiers/developpeur-ia/) seniors. Le rapport Indeed Hiring Lab confirme la progression de la part d'annonces IA en France, surtout dans la tech, le sysadmin et la banque-finance.
 
 ### Comment me former a l'IA pour rester employable en 2026 ?
 

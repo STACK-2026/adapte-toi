@@ -294,7 +294,7 @@ Au-dela des statistiques globales, chaque métier a ses propres passerelles vers
 - [Charge de clientele](/metiers/charge-clientele-ia) : conseiller expert premium, supervision IA conversationnelle.
 - [Agent immobilier](/metiers/agent-immobilier-ia) : staging IA, pricing algorithmique, matching client augmente.
 
-## Guides complementaires pour approfondir
+## Guides complémentaires pour approfondir
 
 La redaction Adapte-toi publie chaque semaine des guides pas-a-pas. Les plus consultes pour preparer une reconversion IA :
 
@@ -307,7 +307,7 @@ La redaction Adapte-toi publie chaque semaine des guides pas-a-pas. Les plus con
 - [Freelance IA : guide complet](/guides/freelance-ia-guide)
 - [Reglementation IA en Europe (AI Act)](/guides/ia-europe-reglementation)
 - [IA et emploi : chiffres cles 2026](/guides/ia-emploi-chiffres-cles)
-- [Etudes devenues inutiles : que faire](/guides/etudes-inutiles-que-faire)
+- [Études devenues inutiles : que faire](/guides/etudes-inutiles-que-faire)
 
 ## Questions fréquentes
 
@@ -337,7 +337,7 @@ Trois critères : taux d'insertion professionnelle vérifiable (demande les stat
 - Etude Anthropic (mars 2026) : Impact de l'IA generative sur l'emploi
 - McKinsey : "The Age of AI" - 30% des heures automatisables d'ici 2030
 - FMI : "AI and the Future of Work" - 40% des emplois mondiaux impactes
-- Cognizant (fevrier 2026) : "93% des métiers transformes par l'IA"
+- Cognizant (février 2026) : "93% des métiers transformes par l'IA"
 - PwC : "Upskilling for AI" - +25% de salaire pour les profils IA-ready
 - Ipsos : "Barometre Reconversion 2026" - 47% des actifs francais concernes
 - LinkedIn Economic Graph : "Global Talent Trends 2026" - +270% croissance offres IA

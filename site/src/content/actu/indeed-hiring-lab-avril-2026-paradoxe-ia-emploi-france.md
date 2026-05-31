@@ -1,6 +1,6 @@
 ---
 title: "Indeed Hiring Lab avril 2026 : le marche de l'emploi recule, les offres IA explosent (le paradoxe francais)"
-description: "Le rapport Indeed Hiring Lab France avril 2026 confirme un paradoxe : volume d'offres divise par 2 depuis decembre 2022, mais offres IA en progression. 21%..."
+description: "Le rapport Indeed Hiring Lab France avril 2026 confirme un paradoxe : volume d'offres divise par 2 depuis décembre 2022, mais offres IA en progression. 21%..."
 image: "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Journaliste devant un ordinateur, salle de presse"
 date: 2026-04-29
@@ -12,7 +12,7 @@ keyQuote:
   author: "Indeed Hiring Lab France"
   context: "Rapport mensuel avril 2026, signe par les economistes du Hiring Lab Indeed sur l'evolution des offres d'emploi en France"
 tldr:
-  - "Indeed Hiring Lab confirme en avril 2026 que le volume d'offres d'emploi en France est repasse SOUS le niveau de fevrier 2020, soit divise par 2 depuis le pic de decembre 2022."
+  - "Indeed Hiring Lab confirme en avril 2026 que le volume d'offres d'emploi en France est repasse SOUS le niveau de février 2020, soit divise par 2 depuis le pic de décembre 2022."
   - "Les offres mentionnant l'IA progressent a contre-courant : 21% en developpement informatique, 15% en administration systemes/reseaux, 12% en banque-finance."
   - "Paradoxe francais : 3,4% des offres mentionnent l'IA (le plus faible des grands pays compares), mais avec 166 000 offres IA, la France est en tete de l'Europe en volume absolu."
   - "Cote usage : 14% des Gen Z utilisent l'IA tous les jours au travail, soit deux fois plus que la Gen X et les baby-boomers selon Indeed."
@@ -69,9 +69,9 @@ Le rapport mensuel Indeed Hiring Lab France paru en avril 2026 met en lumiere un
 
 Le [Hiring Lab Indeed France a publie en avril 2026](https://www.hiringlab.org/fr/blog/2026/04/01/avril-2026-lia-progresse-dans-un-marche-du-travail-en-recul/) son rapport mensuel sur le marche de l'emploi. Quatre constats centraux :
 
-1. **Volume d'offres en repli.** Le nombre total d'offres d'emploi en France est repasse sous le niveau de reference de fevrier 2020 (avant-COVID). Il a ete divise par environ 50% depuis son pic de decembre 2022.
+1. **Volume d'offres en repli.** Le nombre total d'offres d'emploi en France est repasse sous le niveau de reference de février 2020 (avant-COVID). Il a ete divise par environ 50% depuis son pic de décembre 2022.
 2. **L'IA progresse a contre-courant.** Pendant que le marche se contracte, la part d'annonces mentionnant l'IA augmente. Le rapport parle d'une "trajectoire inverse" qui se "decorrele" de la tendance generale.
-3. **Concentration sectorielle marquee.** 21% des offres en developpement informatique mentionnent desormais l'IA, contre 15% en administration systemes et reseaux et 12% en banque-finance. La progression atteint +6 a +8 points sur un an dans la tech.
+3. **Concentration sectorielle marquee.** 21% des offres en développement informatique mentionnent desormais l'IA, contre 15% en administration systemes et reseaux et 12% en banque-finance. La progression atteint +6 a +8 points sur un an dans la tech.
 4. **Generation Z aux commandes.** 14% des actifs Gen Z (18-27 ans environ) utilisent l'IA tous les jours au travail, soit deux fois plus que la Gen X et les baby-boomers selon les enquetes Indeed.
 
 Le rapport reprend par ailleurs la prevision recente de l'[OCDE](https://www.oecd.org/economy/economic-outlook/) qui a revise la croissance francaise 2026 a 0,8%, dans un contexte international tendu (conflit au Moyen-Orient, ralentissement industriel allemand).
@@ -90,10 +90,10 @@ Pour le contexte plus large, voir notre [pillar IA emploi en chiffres cles](/gui
 
 Le rapport Indeed donne une cartographie sectorielle precieuse. Si tu travailles dans un de ces domaines, le signal est clair.
 
-**Tech / Developpement (impact eleve)**
+**Tech / Développement (impact eleve)**
 Plus d'une offre sur cinq mentionne explicitement l'IA. La progression depasse les 6 a 8 points en un an. Les profils [developpeur IA](/metiers/developpeur-ia/) et [data analyst](/metiers/data-analyst-ia/) sont au coeur de la dynamique. Outils de reference : [Copilot](/outils/copilot/), [Claude](/outils/claude/), [ChatGPT](/outils/chatgpt/).
 
-**Administration systemes et reseaux (impact moyen-eleve)**
+**Administration systèmes et reseaux (impact moyen-eleve)**
 15% des annonces mentionnent l'IA, souvent autour de l'observabilite, l'automatisation MLOps, la securisation des modeles deployes en interne.
 
 **Banque-finance (impact moyen)**
@@ -104,13 +104,13 @@ Le rapport souligne que l'IA "deborde" desormais la tech : les fonctions [market
 
 ## Le contexte derriere les chiffres
 
-Trois lectures complementaires aident a ne pas surinterpreter le rapport.
+Trois lectures complémentaires aident a ne pas surinterpreter le rapport.
 
 **1. Le recul des offres n'est pas du a l'IA.** La principale cause documentee par l'INSEE et la [Cour des comptes](https://www.ccomptes.fr/sites/default/files/2026-01/20260108-S2025-1558-France-Travail-et-intelligence-artificielle_0.pdf) reste la conjoncture macro : croissance OCDE 2026 a 0,8%, ralentissement industriel, prudence des employeurs. L'IA accelere certaines suppressions ciblees, mais n'est pas la cause premiere du recul global du volume d'annonces.
 
 **2. La France part d'un point bas.** A 3,4% d'offres mentionnant l'IA, on est largement sous nos voisins. La marge de progression est donc importante, et la trajectoire pointe a la hausse. L'effet pourrait s'accelerer en 2026-2027 a mesure que les obligations de l'AI Act entrent en application.
 
-**3. La regulation europeenne va structurer le marche.** Les [obligations AI Act sur les systemes a haut risque](https://artificialintelligenceact.eu/) (dont une partie des outils de recrutement et de gestion RH) entrent progressivement en application a partir d'aout 2026 selon les categories. Les entreprises francaises vont devoir documenter, auditer et superviser leurs usages IA. Ca cree de la demande pour des profils conformite-IA. Plus de details dans notre [guide reglementation IA Europe](/guides/ia-europe-reglementation/).
+**3. La regulation europeenne va structurer le marche.** Les [obligations AI Act sur les systèmes a haut risque](https://artificialintelligenceact.eu/) (dont une partie des outils de recrutement et de gestion RH) entrent progressivement en application a partir d'aout 2026 selon les categories. Les entreprises francaises vont devoir documenter, auditer et superviser leurs usages IA. Ca cree de la demande pour des profils conformite-IA. Plus de details dans notre [guide reglementation IA Europe](/guides/ia-europe-reglementation/).
 
 ## Comment t'adapter (concretement, en avril 2026)
 

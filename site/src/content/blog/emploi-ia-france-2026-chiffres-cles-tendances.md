@@ -33,7 +33,7 @@ draft: false
 
 Le marche de l'emploi IA en France 2026 n'est plus une projection - c'est une realite mesurable, visible dans les offres publiees chaque matin sur Indeed, LinkedIn ou APEC.
 
-Selon l'Indeed Hiring Lab, **21% des annonces dans le developpement informatique** en France contiennent desormais des termes explicitement lies a l'intelligence artificielle. Ce chiffre etait marginal en 2022. En quatre ans, l'IA est passee du statut de niche tech a celui de competence transversale attendue dans des dizaines de metiers.
+Selon l'Indeed Hiring Lab, **21% des annonces dans le développement informatique** en France contiennent desormais des termes explicitement lies a l'intelligence artificielle. Ce chiffre etait marginal en 2022. En quatre ans, l'IA est passee du statut de niche tech a celui de competence transversale attendue dans des dizaines de metiers.
 
 Voici ce que disent les donnees en 2026 :
 
@@ -41,9 +41,9 @@ Voici ce que disent les donnees en 2026 :
 - **78 millions** de nouveaux emplois lies a l'IA attendus d'ici 2030 selon le Forum economique mondial (WEF)
 - **4 millions** de postes francais exposes a un risque d'automatisation eleve, selon l'OCDE (soit 27% de l'emploi salarie)
 - **40%** des emplois mondiaux impactes par l'IA d'apres le FMI
-- **93%** des metiers touches par l'IA selon une etude Cognizant de fevrier 2026
+- **93%** des metiers touches par l'IA selon une étude Cognizant de février 2026
 
-L'etude Anthropic de mars 2026 apporte l'eclairage le plus precis a date : les offres d'emploi dans les centres d'appels ont chute de **67%** depuis l'arrivee de l'IA generative. La redaction publicitaire a perdu **53%** de ses postes. La gestion de projets standard a ete touchee a **48%**. Le conseil IT de base : **-34%**.
+L'étude Anthropic de mars 2026 apporte l'eclairage le plus precis a date : les offres d'emploi dans les centres d'appels ont chute de **67%** depuis l'arrivee de l'IA generative. La redaction publicitaire a perdu **53%** de ses postes. La gestion de projets standard a ete touchee a **48%**. Le conseil IT de base : **-34%**.
 
 **Ce n'est pas une menace futuriste. C'est le present.**
 
@@ -57,7 +57,7 @@ Pas question de te noyer dans une liste de 47 intitules de poste. En 2026, les m
 
 ### Famille 1 : Les batisseurs de l'IA (profils techniques)
 
-Ce sont les ingenieur(e)s, les data scientists, les developpeurs de modeles. Ils construisent les systemes IA. Formation longue, barriere a l'entree elevee, salaires au sommet.
+Ce sont les ingenieur(e)s, les data scientists, les developpeurs de modeles. Ils construisent les systèmes IA. Formation longue, barriere a l'entree elevee, salaires au sommet.
 
 **Metiers types** : Machine Learning Engineer, Data Scientist senior, Ingenieur NLP, Chercheur en IA, Architecte MLOps.
 
@@ -71,7 +71,7 @@ Ils ne construisent pas les modeles, ils les deploient, les supervisent et les i
 
 **Metiers types** : Chef de projet IA, Prompt Engineer, AI Product Manager, Consultant en transformation IA, Responsable ethique IA, AI Operations Manager.
 
-**Acces** : Experience metier + formation complementaire de 3 a 12 mois. C'est la porte d'entree la plus realiste pour les profils en reconversion venant du marketing, des RH, de la finance ou de la gestion de projet.
+**Acces** : Experience metier + formation complémentaire de 3 a 12 mois. C'est la porte d'entree la plus realiste pour les profils en reconversion venant du marketing, des RH, de la finance ou de la gestion de projet.
 
 **Marche** : L'APEC signale une hausse de 89% des offres cadres mentionnant "IA" ou "intelligence artificielle" entre 2023 et 2025.
 
@@ -81,7 +81,7 @@ Ils utilisent l'IA comme outil central dans leur pratique professionnelle. Ni pu
 
 **Metiers types** : Journaliste augmente, Concepteur-redacteur IA, Graphiste generatif, Stratege contenu IA, Formateur IA.
 
-**Acces** : Competence metier existante + maitrise d'outils IA specifiques (Midjourney, ChatGPT, Claude d'Anthropic, etc.). Formation de 1 a 6 mois suffisante dans la plupart des cas.
+**Acces** : Competence metier existante + maitrise d'outils IA spécifiques (Midjourney, ChatGPT, Claude d'Anthropic, etc.). Formation de 1 a 6 mois suffisante dans la plupart des cas.
 
 **Marche** : Segment paradoxal - l'IA detruit des postes de production bas de gamme et cree des postes de supervision et de curation haut de gamme. Le salaire moyen monte, le volume d'emploi baisse.
 
@@ -101,7 +101,7 @@ Voici le tableau comparatif des 5 metiers les plus accessibles en reconversion s
 
 *Sources : APEC Barometres 2025-2026, LinkedIn Salary Insights France, Indeed France, cabinets Michael Page et Hays Tech 2026.*
 
-**Une precision importante** : ces fourchettes correspondent a des debutants post-reconversion a Paris. En regions, enleve 10 a 20%. En freelance, multiplie par 1,4 a 1,8 (mais sans securite, sans conges payes, sans mutuelle).
+**Une precision importante** : ces fourchettes correspondent a des debutants post-reconversion a Paris. En regions, enleve 10 a 20%. En freelance, multiplie par 1,4 a 1,8 (mais sans sécurité, sans conges payes, sans mutuelle).
 
 Consulte notre [guide complet du chef de projet IA](/metiers/chef-de-projet-ia) pour un plan d'action detaille avec les formations verifiees.
 
@@ -295,7 +295,7 @@ La maintenance, le monitoring et l'amelioration continue des modeles en producti
 L'entrainement humain des modeles (feedback, correction, labellisation avancee) est un besoin croissant pour tous les labs IA (Anthropic, OpenAI, Mistral, etc.). Accessible avec un bon niveau de maitrise d'une langue et une expertise dans un domaine specifique.
 
 **Responsable conformite EU AI Act :**
-La reglementation europeenne cree une demande massive de profils capables d'auditer les systemes IA, de rediger des documentations de conformite et de former les equipes. Tres peu de personnes formees, tres forte demande.
+La reglementation europeenne cree une demande massive de profils capables d'auditer les systèmes IA, de rediger des documentations de conformite et de former les equipes. Tres peu de personnes formees, tres forte demande.
 
 **Formateur IA en entreprise :**
 Les entreprises ont besoin de former leurs collaborateurs a l'utilisation de l'IA. Les formateurs qui combinent pedagogie ET expertise IA reelle sont rares et tres bien remuneres (TJM 700-1200 EUR pour les profils reconnus).
@@ -318,11 +318,11 @@ Google AI Essentials sur Coursera est le point de depart le plus recommande par 
 
 ### L'IA va-t-elle vraiment supprimer des emplois en France ?
 
-Oui, certains postes disparaissent ou se reduisent fortement. L'etude Anthropic de mars 2026 documente des baisses de -67% dans les centres d'appels, -53% en redaction publicitaire et -48% en gestion de projets standards. Mais selon le WEF, 78 millions de nouveaux emplois lies a l'IA pourraient voir le jour d'ici 2030. Le solde net depend des politiques de formation et de reconversion. En France, l'OCDE estime que 27% des emplois presentent un risque d'automatisation eleve - ce qui laisse 73% relativement proteges a court terme.
+Oui, certains postes disparaissent ou se reduisent fortement. L'étude Anthropic de mars 2026 documente des baisses de -67% dans les centres d'appels, -53% en redaction publicitaire et -48% en gestion de projets standards. Mais selon le WEF, 78 millions de nouveaux emplois lies a l'IA pourraient voir le jour d'ici 2030. Le solde net depend des politiques de formation et de reconversion. En France, l'OCDE estime que 27% des emplois presentent un risque d'automatisation eleve - ce qui laisse 73% relativement proteges a court terme.
 
 ### Quel est le metier IA le plus accessible pour une reconversion rapide ?
 
-Le chef de projet IA et le consultant transformation IA sont les deux metiers les plus accessibles pour des profils experimentes en reconversion. Ils necessitent une experience metier solide (5 ans+) plus une formation complementaire de 3 a 9 mois plutot qu'une refonte totale du parcours. Pour les profils moins experimentes, le Data Analyst augmente (avec formation bootcamp de 6 mois) offre le meilleur equilibre entre accessibilite et perspectives salariales.
+Le chef de projet IA et le consultant transformation IA sont les deux metiers les plus accessibles pour des profils experimentes en reconversion. Ils necessitent une experience metier solide (5 ans+) plus une formation complémentaire de 3 a 9 mois plutot qu'une refonte totale du parcours. Pour les profils moins experimentes, le Data Analyst augmente (avec formation bootcamp de 6 mois) offre le meilleur equilibre entre accessibilite et perspectives salariales.
 
 ---
 

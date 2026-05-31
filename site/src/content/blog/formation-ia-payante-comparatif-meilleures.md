@@ -61,7 +61,7 @@ Un comparatif honnete commence par expliquer ses criteres. Voici exactement comm
 
 **1. Transparence des prix** : le prix doit etre public, accessible sans formulaire ni RDV commercial obligatoire. Les formations qui cachent leurs tarifs ont perdu des points d'emblee.
 
-**2. Qualite pedagogique verifiable** : programme detaille accessible en ligne, formateurs identifiables avec un vrai parcours, pas juste un logo d'entreprise.
+**2. Qualité pedagogique verifiable** : programme detaille accessible en ligne, formateurs identifiables avec un vrai parcours, pas juste un logo d'entreprise.
 
 **3. Certification reconnue** : on distingue les certifications RNCP (reconnues par l'Etat, eligibles CPF de droit) des simples attestations de suivi - deux choses tres differentes.
 
@@ -101,7 +101,7 @@ Selon France Travail (BMO 2025), les metiers de data analyst et data engineer fi
 
 Tu as besoin d'une formation qui combine strategies IA, outils no-code/low-code et competences commerciales. Ni un cours de coding pur, ni un cours trop generique.
 
-**Formations adaptees** : LiveMentor (angle entrepreneurial), DataBird (angle conseil metier), complementes par des cours specifiques sur Coursera (prompt engineering, automatisation).
+**Formations adaptees** : LiveMentor (angle entrepreneurial), DataBird (angle conseil metier), complementes par des cours spécifiques sur Coursera (prompt engineering, automatisation).
 
 ### "Je veux rester competitif dans mon secteur sans tout changer"
 
@@ -173,7 +173,7 @@ On rentre dans le detail. Pour chaque formation, on indique ce qui fonctionne, c
 **Certification** : attestation de formation avec label Qualiopi.
 **Public vise** : salaries, dirigeants TPE/PME, profils administratifs.
 
-**Ce qui fonctionne** : le label Qualiopi est une garantie de qualite pedagogique verifiee par l'Etat. C'est l'un des formats les plus accessibles en termes de prix et de duree. Les modules sont directement applicables : prompting, automatisation de tableaux, redaction assistee.
+**Ce qui fonctionne** : le label Qualiopi est une garantie de qualité pedagogique verifiee par l'Etat. C'est l'un des formats les plus accessibles en termes de prix et de duree. Les modules sont directement applicables : prompting, automatisation de tableaux, redaction assistee.
 
 **Ce qui cloche** : une attestation Qualiopi n'est pas une certification RNCP. Elle permet le financement OPCO mais pas necessairement le CPF. Et 2 semaines de formation, c'est court pour developper des competences solides et durables.
 
@@ -203,7 +203,7 @@ On rentre dans le detail. Pour chaque formation, on indique ce qui fonctionne, c
 **Certification** : certificat deeplearning.ai, visible sur LinkedIn.
 **Public vise** : profils tech et non-tech qui veulent maitriser le prompting.
 
-**Ce qui fonctionne** : deeplearning.ai est co-fonde par Andrew Ng, l'une des references mondiales en machine learning. Le contenu technique est fiable. L'accent sur le prompt engineering est pertinent : selon l'etude Anthropic de mars 2026, les metiers de la redaction et de la gestion de contenu sont parmi les plus impactes par l'IA generative (-53% dans la redaction publicitaire). Savoir prompter devient une competence socle.
+**Ce qui fonctionne** : deeplearning.ai est co-fonde par Andrew Ng, l'une des references mondiales en machine learning. Le contenu technique est fiable. L'accent sur le prompt engineering est pertinent : selon l'étude Anthropic de mars 2026, les metiers de la redaction et de la gestion de contenu sont parmi les plus impactes par l'IA generative (-53% dans la redaction publicitaire). Savoir prompter devient une competence socle.
 
 **Ce qui cloche** : cours en anglais. Pas eligible CPF. Tres court. La theorie prime sur la pratique metier francaise.
 
@@ -285,7 +285,7 @@ Une "certification" LiveMentor ou Le Wagon n'a aucune valeur legale. C'est une a
 
 ### Piege 3 : La promesse "30% de productivite en plus"
 
-Des sites annoncent une hausse de productivite de 30% apres formation IA. Ce chiffre est reel - il vient d'etudes McKinsey sur les effets de l'IA generative sur la productivite des knowledge workers. Mais cette hausse ne vient pas d'une formation de 2 semaines sur ChatGPT. Elle vient d'une integration profonde et durable de l'IA dans les pratiques de travail quotidiennes.
+Des sites annoncent une hausse de productivite de 30% apres formation IA. Ce chiffre est reel - il vient d'études McKinsey sur les effets de l'IA generative sur la productivite des knowledge workers. Mais cette hausse ne vient pas d'une formation de 2 semaines sur ChatGPT. Elle vient d'une integration profonde et durable de l'IA dans les pratiques de travail quotidiennes.
 
 ### Piege 4 : Le tarif cache sous le "devis sur demande"
 
@@ -293,11 +293,11 @@ Une formation qui ne publie pas ses tarifs en ligne te force a rentrer dans un t
 
 ### Piege 5 : Confondre formation et contenu YouTube
 
-Des "formateurs IA" vendent 300 EUR une selection de tutoriels qui existent gratuitement sur YouTube, Coursera ou le site d'OpenAI. Avant d'acheter, googler le nom du formateur et regarder 2 ou 3 de ses contenus gratuits. La qualite du gratuit predit celle du payant.
+Des "formateurs IA" vendent 300 EUR une selection de tutoriels qui existent gratuitement sur YouTube, Coursera ou le site d'OpenAI. Avant d'acheter, googler le nom du formateur et regarder 2 ou 3 de ses contenus gratuits. La qualité du gratuit predit celle du payant.
 
 ### Piege 6 : Ignorer le label Qualiopi
 
-Le label Qualiopi est delivre par des organismes accredites par l'Etat. Il garantit la qualite du processus pedagogique. Ce n'est pas une garantie absolue, mais c'est un minimum. Une formation IA payante sans Qualiopi ne peut pas etre financee par un OPCO ni par France Travail.
+Le label Qualiopi est delivre par des organismes accredites par l'Etat. Il garantit la qualité du processus pedagogique. Ce n'est pas une garantie absolue, mais c'est un minimum. Une formation IA payante sans Qualiopi ne peut pas etre financee par un OPCO ni par France Travail.
 
 ---
 
@@ -309,7 +309,7 @@ La plupart des comparatifs traitent les formations IA comme un bloc homogene. C'
 
 ### Marketing et communication
 
-Selon l'etude Anthropic de mars 2026, les metiers de la redaction publicitaire ont subi une chute de 53% des offres d'emploi depuis l'arrivee de l'IA generative. Pour les marketeurs, la formation IA n'est plus une option - c'est une question de survie.
+Selon l'étude Anthropic de mars 2026, les metiers de la redaction publicitaire ont subi une chute de 53% des offres d'emploi depuis l'arrivee de l'IA generative. Pour les marketeurs, la formation IA n'est plus une option - c'est une question de survie.
 
 **Ce dont tu as besoin** : prompt engineering avance, automatisation de contenus (articles, emails, visuels), analyse de donnees marketing via IA.
 
@@ -337,7 +337,7 @@ L'IA juridique (Harvey, Luminance, Doctrine) commence a penetrer les cabinets d'
 
 **Ce dont tu as besoin** : comprendre les outils LegalTech IA, prompt engineering applique aux documents juridiques, enjeux de conformite RGPD et IA Act.
 
-**Formations pertinentes** : pas de formation specialisee francophone de reference identifiee en 2026. Coursera propose des modules generaux. Consulte les offres de formation de Lefebvre Dalloz (selon leur etude 2026, 1 professionnel sur 2 a adopte l'IA en moins d'un an dans les secteurs juridiques et comptables).
+**Formations pertinentes** : pas de formation specialisee francophone de reference identifiee en 2026. Coursera propose des modules generaux. Consulte les offres de formation de Lefebvre Dalloz (selon leur étude 2026, 1 professionnel sur 2 a adopte l'IA en moins d'un an dans les secteurs juridiques et comptables).
 
 ---
 
