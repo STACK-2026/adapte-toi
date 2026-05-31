@@ -1,6 +1,6 @@
 ---
 title: "Marché IA et emploi en France au 27 mai 2026 : les 5 signaux que personne ne te montre"
-description: "Fin mai 2026 sur le marché du travail français face à l'IA : ce que les chiffres récents disent vraiment, en synthèse, au-delà des annonces de licenciements. 5 signaux décodés concrètement."
+description: "Fin mai 2026 sur le marché du travail français face à l'IA : ce que les chiffres récents disent vraiment, en synthèse, au-delà des annonces de licenciements."
 date: 2026-05-27
 category: "chiffre"
 impactLevel: 4

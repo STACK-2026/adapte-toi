@@ -1,6 +1,6 @@
 ---
 title: "Charte éditoriale et éthique"
-description: "Les principes déontologiques qui encadrent notre travail : éthique, pluralisme, traitement des sources, des minorités et des sources anonymes. Document de référence opposable à la rédaction."
+description: "Les principes déontologiques qui encadrent notre travail : éthique, pluralisme, traitement des sources, des minorités et des sources anonymes."
 lastUpdated: 2026-05-17
 ---
 

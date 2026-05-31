@@ -1,6 +1,6 @@
 ---
 title: "Politique éditoriale"
-description: "La ligne éditoriale d'Adapte-toi : comment on choisit les sujets, comment on les traite, qui publie quoi, et pourquoi. Document de référence pour les lecteurs, les sources et les partenaires."
+description: "La ligne éditoriale d'Adapte-toi : comment on choisit les sujets, comment on les traite, qui publie quoi, et pourquoi."
 lastUpdated: 2026-05-17
 ---
 

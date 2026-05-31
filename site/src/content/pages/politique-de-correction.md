@@ -1,6 +1,6 @@
 ---
 title: "Politique de correction"
-description: "Comment Adapte-toi traite les erreurs : signalement, instruction, correction publique, traçabilité. Cette politique est opposable à la rédaction par tout lecteur."
+description: "Comment Adapte-toi traite les erreurs : signalement, instruction, correction publique, traçabilité."
 lastUpdated: 2026-05-17
 ---
 

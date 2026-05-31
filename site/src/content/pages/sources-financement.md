@@ -1,6 +1,6 @@
 ---
 title: "Sources de financement"
-description: "Comment Adapte-toi gagne de l'argent : modèle économique, transparence sur l'affiliation, ce qu'on accepte, ce qu'on refuse, ce qui pourrait influencer un avis et comment on s'en prémunit."
+description: "Comment Adapte-toi gagne de l'argent : modèle économique, transparence sur l'affiliation, ce qu'on accepte, ce qu'on refuse, ce qui pourrait influencer un."
 lastUpdated: 2026-05-17
 ---
 
