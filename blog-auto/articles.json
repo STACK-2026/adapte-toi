@@ -4791,9 +4791,9 @@
     "category": "metiers-ia",
     "blog": "principal",
     "index": 32,
-    "published": false,
-    "published_at": null,
-    "slug": null,
+    "published": true,
+    "published_at": "2026-06-01",
+    "slug": "architecte-ia-generative-revolution-secteur",
     "scheduled_date": "2026-05-30",
     "scheduled_time": "09:37",
     "scheduled_datetime": "2026-05-30T09:37:00",
@@ -4963,7 +4963,8 @@
           }
         ]
       }
-    }
+    },
+    "done": true
   },
   {
     "title": "Formation IA en ligne vs présentiel : Que choisir ?",
