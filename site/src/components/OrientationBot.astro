@@ -265,15 +265,15 @@
       const email = new FormData(form).get("email") as string;
       if (!email) return;
       try {
-        const r = await fetch("https://commbksqnwhpsyenjzuf.supabase.co/rest/v1/newsletter_subscribers", {
+        const r = await fetch("https://vuzdnxlvrqsclpqmhkxn.supabase.co/rest/v1/subscribers", {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
-            "apikey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNvbW1ia3NxbndocHN5ZW5qenVmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzYwNzM3MjUsImV4cCI6MjA5MTY0OTcyNX0.6igBrd7TAiC5CamU5hmHfEd-JBb4MJuvGAyGHo6tJpU",
-            "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNvbW1ia3NxbndocHN5ZW5qenVmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzYwNzM3MjUsImV4cCI6MjA5MTY0OTcyNX0.6igBrd7TAiC5CamU5hmHfEd-JBb4MJuvGAyGHo6tJpU",
+            "apikey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZ1emRueGx2cnFzY2xwcW1oa3huIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzY0NTU5MzUsImV4cCI6MjA5MjAzMTkzNX0.G9j5oZxL23L6JarsegjL4kf7Ki7sdHD__wpWtfdTD_Y",
+            "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZ1emRueGx2cnFzY2xwcW1oa3huIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzY0NTU5MzUsImV4cCI6MjA5MjAzMTkzNX0.G9j5oZxL23L6JarsegjL4kf7Ki7sdHD__wpWtfdTD_Y",
             "Prefer": "return=minimal",
           },
-          body: JSON.stringify({ email, source: `bot-${context}` }),
+          body: JSON.stringify({ email, source: `bot-${context}`, site: "adapte-toi" }),
         });
         if (r.ok || r.status === 409) {
           form.style.display = "none";

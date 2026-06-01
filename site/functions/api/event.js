@@ -43,7 +43,8 @@ export async function onRequestPost({ request, env }) {
       "Content-Type": "application/json",
       Prefer: "return=minimal",
     },
-    body: JSON.stringify({ type, target, page, session_id: sid }),
+    // STACK-2026 shared collector: tag rows with site for multi-tenant filtering.
+    body: JSON.stringify({ type, target, page, session_id: sid, site: "adapte-toi" }),
   });
 
   if (!r.ok) {

@@ -47,6 +47,8 @@ export async function onRequest(context) {
       is_bot: true,
       country: request.headers.get("cf-ipcountry") || null,
       city: request.headers.get("cf-ipcity") || null,
+      // STACK-2026 shared collector: tag rows with site for multi-tenant filtering.
+      site: "adapte-toi",
     };
 
     waitUntil(

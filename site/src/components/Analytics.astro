@@ -1,8 +1,9 @@
 ---
 // Analytics tracker - Supabase page_views + bot detection
 // Inlined in BaseLayout, no external dependencies
-const SB_URL = "https://commbksqnwhpsyenjzuf.supabase.co";
-const SB_ANON = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNvbW1ia3NxbndocHN5ZW5qenVmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzYwNzM3MjUsImV4cCI6MjA5MTY0OTcyNX0.6igBrd7TAiC5CamU5hmHfEd-JBb4MJuvGAyGHo6tJpU";
+// STACK-2026 shared collector (ref vuzdnxlvrqsclpqmhkxn), anon INSERT-only.
+const SB_URL = "https://vuzdnxlvrqsclpqmhkxn.supabase.co";
+const SB_ANON = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZ1emRueGx2cnFzY2xwcW1oa3huIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzY0NTU5MzUsImV4cCI6MjA5MjAzMTkzNX0.G9j5oZxL23L6JarsegjL4kf7Ki7sdHD__wpWtfdTD_Y";
 ---
 
 <script define:vars={{ SB_URL, SB_ANON }}>
@@ -33,6 +34,7 @@ const SB_ANON = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsIn
       referrer: document.referrer || null,
       user_agent: navigator.userAgent,
       is_bot: bot,
+      site: "adapte-toi",
     }),
   }).catch(function() {});
 })();
