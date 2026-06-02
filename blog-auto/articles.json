@@ -4636,9 +4636,9 @@
     "category": "reconversion",
     "blog": "principal",
     "index": 31,
-    "published": false,
-    "published_at": null,
-    "slug": null,
+    "published": true,
+    "published_at": "2026-06-02",
+    "slug": "test-personnalite-quel-metier-ia-vous-correspond",
     "scheduled_date": "2026-05-27",
     "scheduled_time": "07:46",
     "scheduled_datetime": "2026-05-27T07:46:00",
@@ -4783,7 +4783,8 @@
         ],
         "grounding_sources": []
       }
-    }
+    },
+    "done": true
   },
   {
     "title": "Architecte et IA générative : Révolution du secteur",
