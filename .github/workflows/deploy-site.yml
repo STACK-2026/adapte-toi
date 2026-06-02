@@ -45,7 +45,7 @@ jobs:
 
       - name: Install dependencies
         working-directory: site
-        run: npm install --prefer-offline --no-audit --no-fund
+        run: npm install --prefer-offline --no-audit --no-fund || (echo "prefer-offline KO, retry online" && rm -rf node_modules && npm install --no-audit --no-fund)
       - name: Sanitize content frontmatter (clamp description per-collection)
         # Routine claude.ai occasionally publishes articles with description over the
         # collection schema cap. Per-collection caps mirror src/content.config.ts.
