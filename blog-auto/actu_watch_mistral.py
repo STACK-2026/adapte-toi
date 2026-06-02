@@ -176,36 +176,41 @@ def mistral_call(messages, model=MISTRAL_SMALL, temperature=0.3, max_tokens=4000
 
 
 def claude_call_audit(system: str, user: str, max_tokens: int = 2500, retries=3) -> tuple[str, dict]:
-    if not ANTHROPIC_API_KEY:
-        raise RuntimeError("ANTHROPIC_API_KEY manquant")
+    """Audit factuel via GEMINI (le crédit Anthropic est épuisé sur le parc).
+    Même signature/contrat qu'avant. Fail-soft : si pas de clé Gemini, renvoie
+    ("", {}) -> audit_grounding considère UNKNOWN (non bloquant hors --strict)."""
+    gemini_key = os.getenv("GEMINI_API_KEY", "")
+    if not gemini_key:
+        log.warning("GEMINI_API_KEY manquant -> audit sauté (UNKNOWN)")
+        return "", {}
+    model = os.getenv("AUDIT_GEMINI_MODEL", "gemini-2.5-flash")
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
     payload = {
-        "model": CLAUDE_SONNET,
-        "max_tokens": max_tokens,
-        "system": system,
-        "messages": [{"role": "user", "content": user}],
+        "systemInstruction": {"parts": [{"text": system}]},
+        "contents": [{"role": "user", "parts": [{"text": user}]}],
+        "generationConfig": {"temperature": 0, "maxOutputTokens": max(max_tokens, 4096),
+                              "responseMimeType": "application/json"},
     }
     last_err = None
     for attempt in range(retries):
         try:
-            r = requests.post(ANTHROPIC_URL, json=payload, headers={
-                "x-api-key": ANTHROPIC_API_KEY,
-                "anthropic-version": "2023-06-01",
-                "content-type": "application/json",
-            }, timeout=API_TIMEOUT)
-            if r.status_code in (429, 529):
+            r = requests.post(url, params={"key": gemini_key}, json=payload, timeout=API_TIMEOUT)
+            if r.status_code in (429, 500, 503):
                 wait = 10 * (2 ** attempt)
-                log.warning(f"Claude {r.status_code}, retry in {wait}s")
+                log.warning(f"Gemini {r.status_code}, retry in {wait}s")
                 time.sleep(wait)
                 continue
             r.raise_for_status()
             j = r.json()
-            text = "".join(b.get("text", "") for b in j.get("content", []) if b.get("type") == "text")
-            return text, j.get("usage", {})
+            cand = (j.get("candidates") or [{}])[0]
+            text = "".join(p.get("text", "") for p in cand.get("content", {}).get("parts", []))
+            return text, j.get("usageMetadata", {})
         except Exception as e:
             last_err = e
-            log.warning(f"Claude audit error (attempt {attempt + 1}): {e}")
+            log.warning(f"Gemini audit error (attempt {attempt + 1}): {e}")
             time.sleep(3)
-    raise last_err
+    log.warning(f"Audit Gemini KO après {retries} essais ({last_err}) -> UNKNOWN")
+    return "", {}
 
 
 # -----------------------------------------------------------------------------
