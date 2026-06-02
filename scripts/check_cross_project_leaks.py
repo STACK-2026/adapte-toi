@@ -48,7 +48,10 @@ SELF_PROJECT = {
     "cf_pages_project": 'adapte-toi',
     "own_tokens": {'Adapte-toi', 'adapte-toi', 'adapte-toi.com'},
     "own_domains": {'adapte-toi.com'},
-    "own_supabase_refs": {'commbksqnwhpsyenjzuf'},
+    # commbksqnwhpsyenjzuf = ancien Supabase propre ; vuzdnxlvrqsclpqmhkxn =
+    # collecteur analytics/leads PARTAGÉ du parc (projet litiereagglomerante,
+    # architecture 3-tiers, migration 01/06) -> référence légitime, pas une fuite.
+    "own_supabase_refs": {'commbksqnwhpsyenjzuf', 'vuzdnxlvrqsclpqmhkxn'},
 }
 
 # Known sibling STACK-2026 Supabase refs. Anything in this map that is not
