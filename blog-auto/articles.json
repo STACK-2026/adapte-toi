@@ -5311,20 +5311,20 @@
     }
   },
   {
-    "title": "Recrutement IA : Les profils les plus recherchés",
+    "title": "Recrutement IA en 2026 : les profils les plus recherchés",
     "keywords": "recrutement IA, profils recherchés IA, emploi IA France",
     "category": "actu-emploi",
     "blog": "principal",
     "index": 35,
-    "published": false,
-    "published_at": null,
-    "slug": null,
+    "published": true,
+    "published_at": "2026-06-03",
+    "slug": "recrutement-ia-profils-les-plus-recherches-2026",
     "scheduled_date": "2026-06-09",
     "scheduled_time": "08:07",
     "scheduled_datetime": "2026-06-09T08:07:00",
-    "title_tag": null,
-    "meta_description": null,
-    "featured_image_url": null,
+    "title_tag": "Recrutement IA 2026 : les profils les plus recherchés",
+    "meta_description": "Recrutement IA en 2026 : 79% des grandes entreprises l'utilisent. Profils recherchés, outils sérieux, et comment passer le filtre des algorithmes.",
+    "featured_image_url": "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?w=1200&h=630&fit=crop&q=80&auto=format",
     "author": "Theo Marchand",
     "serp_brief": {
       "keyword": "recrutement IA",
@@ -5481,7 +5481,8 @@
           }
         ]
       }
-    }
+    },
+    "done": true
   },
   {
     "title": "Banquier devenu data scientist : Témoignage complet",
