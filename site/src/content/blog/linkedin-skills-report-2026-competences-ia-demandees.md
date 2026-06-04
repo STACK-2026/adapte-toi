@@ -1,5 +1,5 @@
 ---
-title: "LinkedIn Skills Report 2026 : les compétences IA les plus demandées"
+title: "LinkedIn Skills Report 2026 : compétences IA demandées"
 description: "Décryptage du LinkedIn Skills Report 2026 : compétences IA qui explosent, métiers en tension et plan concret pour te positionner cette année."
 image: "https://images.unsplash.com/photo-1611944212129-29977ae1398c?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Page d'accueil LinkedIn affichée sur l'écran d'un ordinateur portable posé sur un bureau"
@@ -208,7 +208,7 @@ Elles ne comptent pas plus dans l'absolu, mais elles prennent de la valeur relat
 - **LinkedIn, *Jobs on the Rise* et *Skills on the Rise*** - Classements annuels des métiers et compétences en hausse. [linkedin.com](https://www.linkedin.com)
 - **Forum économique mondial, *The Future of Jobs Report 2025*** - Données croisées sur l'évolution des compétences. [weforum.org](https://www.weforum.org)
 - **PwC, *AI Jobs Barometer 2025*** - Mesure de la prime salariale et de l'évolution des compétences IA. [pwc.com](https://www.pwc.com)
-- **France Travail, BMO 2025** - Besoins en main-d'oeuvre et métiers en tension en France. [francetravail.fr](https://www.francetravail.fr)
+- **France Travail, BMO 2025** - Besoins en main-d'œuvre et métiers en tension en France. [francetravail.fr](https://www.francetravail.fr)
 - **OCDE, *Perspectives de l'emploi 2023*** - Chapitre sur l'IA et le marché du travail. [oecd.org](https://www.oecd.org)
 
 ---
