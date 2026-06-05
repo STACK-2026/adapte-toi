@@ -1,6 +1,6 @@
 ---
-title: "ChatGPT débarque dans les équipes commerciales : ce que ça change pour toi"
-description: "OpenAI lance un outil dédié aux équipes sales : ChatGPT transforme la prospection, les suivis et la coordination des deals. Qui gagne, qui perd, et comment t'adapter dès maintenant."
+title: "ChatGPT dans les équipes commerciales : ce qui change"
+description: "OpenAI lance un outil pour les équipes commerciales : ChatGPT transforme prospection, suivis et coordination des deals. Qui gagne, qui perd, comment s'adapter ?"
 date: 2026-06-05
 category: "outil"
 impactLevel: 4
