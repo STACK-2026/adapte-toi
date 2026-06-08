@@ -10,9 +10,7 @@ tldr:
   - "Menace : Uber licencie 23% de son équipe RH en juin 2026 : le décryptage budget IA Claude Code"
   - "Outil : ChatGPT dans les équipes commerciales : ce qui change"
   - "Annonce : Malt crée un poste d'IA agentique : le signal que les indépendants doivent capter maintenant"
-  - "Outil : Singular Bank booste ses banquiers avec ChatGPT : 90 minutes gagnées par jour, mais à quel prix pour les emplois ?"
   - "Politique : Canada : 250 000 emplois IA promis, mais à quel prix pour les travailleurs ?"
-  - "Annonce : OpenAI passe à l'offensive en entreprise : l'IA devient le nouveau système d'exploitation du travail"
 sources:
   - title: "Archive semaine 2026-W23 sur Adapte-toi"
     url: "https://adapte-toi.com/actu/semaine/2026-W23"
