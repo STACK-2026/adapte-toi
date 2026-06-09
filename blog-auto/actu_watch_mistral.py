@@ -163,6 +163,10 @@ def mistral_call(messages, model=MISTRAL_SMALL, temperature=0.3, max_tokens=4000
             if r.status_code in (429, 503):
                 wait = 5 * (2 ** attempt)
                 log.warning(f"Mistral {r.status_code}, retry in {wait}s")
+                # Track as last_err so an all-rate-limited run raises a real
+                # exception, not `raise None` (-> "exceptions must derive from
+                # BaseException", which silently dropped scored candidates).
+                last_err = RuntimeError(f"Mistral HTTP {r.status_code} (rate-limited after {retries} attempts)")
                 time.sleep(wait)
                 continue
             r.raise_for_status()
@@ -172,7 +176,9 @@ def mistral_call(messages, model=MISTRAL_SMALL, temperature=0.3, max_tokens=4000
             last_err = e
             log.warning(f"Mistral call error (attempt {attempt + 1}): {e}")
             time.sleep(3)
-    raise last_err
+    # Guard: never `raise None`. If every attempt was rate-limited without an
+    # exception path, last_err is set above; fall back to a generic error.
+    raise last_err if last_err is not None else RuntimeError("Mistral call failed (no response)")
 
 
 def claude_call_audit(system: str, user: str, max_tokens: int = 2500, retries=3) -> tuple[str, dict]:
@@ -236,12 +242,31 @@ def _resolve_google_news_url(url: str) -> str:
 def fetch_article_body(url: str, max_chars: int = 12000) -> tuple[str | None, str | None]:
     """Return (body, error). None body if fetch failed or content too thin."""
     resolved = _resolve_google_news_url(url)
+    # Realistic browser headers (UA + fr Accept-Language + full Accept) reduce
+    # anti-bot 202/403 and JS-only shells. On HTTP 202 (async processing /
+    # bot-challenge), retry a couple times after a short delay before giving up.
+    headers = {
+        "User-Agent": UA_BROWSER,
+        "Accept": ("text/html,application/xhtml+xml,application/xml;q=0.9,"
+                   "image/avif,image/webp,*/*;q=0.8"),
+        "Accept-Language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Sec-Fetch-Dest": "document",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Site": "none",
+        "Upgrade-Insecure-Requests": "1",
+    }
     try:
-        r = requests.get(resolved, headers={
-            "User-Agent": UA_BROWSER,
-            "Accept": "text/html,application/xhtml+xml",
-            "Accept-Language": "fr-FR,fr;q=0.9,en;q=0.8",
-        }, timeout=25, allow_redirects=True)
+        r = requests.get(resolved, headers=headers, timeout=25, allow_redirects=True)
+        # HTTP 202: server accepted but content not ready (anti-bot / async).
+        # Retry a few times with backoff rather than treating it as a dead end.
+        retry_202 = 0
+        while r.status_code == 202 and retry_202 < 3:
+            retry_202 += 1
+            wait = 3 * retry_202
+            log.info(f"  HTTP 202, retry {retry_202}/3 in {wait}s")
+            time.sleep(wait)
+            r = requests.get(resolved, headers=headers, timeout=25, allow_redirects=True)
         if r.status_code != 200:
             return None, f"HTTP {r.status_code}"
         final_url = str(r.url)
@@ -833,18 +858,28 @@ def main():
         })
         return 0
 
-    # 4. Pipeline per-item (try until args.max articles pass or we exhaust candidates)
+    # 4. Pipeline per-item: keep trying scored candidates until args.max articles
+    # pass OR we run out of candidates. A single fetch/audit/rule failure must
+    # only skip THAT candidate and move on, never abort the whole run while
+    # other valid candidates remain. With ~35 scored items, bailing after a
+    # handful of bad fetches (old `args.max * 3`) meant publishing ZERO despite
+    # plenty of material. The only fatal outcome is "no exploitable candidate".
+    # Absolute cap = generous, just a guardrail against pathological loops.
     written_paths = []
     written_titles = []
     attempts = 0
+    # Try every scored candidate, but cap the budget so a flood of feeds can't
+    # spin forever (per-success budget + a hard floor of 20 attempts).
+    max_attempts = min(len(scored), max(20, args.max * 12))
     for s in scored:
         if len(written_paths) >= args.max:
             break
-        attempts += 1
-        if attempts > args.max * 3:  # don't loop forever on bad fetches
-            log.info(f"Stopping after {attempts} attempts")
+        if attempts >= max_attempts:
+            log.info(f"Stopping after {attempts} attempts (budget {max_attempts}, "
+                     f"{len(written_paths)}/{args.max} written, {len(scored)} candidates)")
             break
-        log.info(f"\n=== Item [{s['score']}] {s['title']} ({s['outlet']}) ===")
+        attempts += 1
+        log.info(f"\n=== Item {attempts}/{max_attempts} [{s['score']}] {s['title']} ({s['outlet']}) ===")
         try:
             mdx, stats = build_pipeline(s, s, strict=args.strict)
             log.info(f"  Stats: {json.dumps({k:v for k,v in stats.items() if k not in ('item','url')}, ensure_ascii=False)}")
@@ -866,6 +901,12 @@ def main():
             published_slugs.add(slug)
         except Exception as e:
             log.error(f"Pipeline KO pour {s['title']}: {e}", exc_info=True)
+            continue
+
+    # Loud signal: had scored candidates but produced nothing exploitable.
+    if scored and not written_paths and not args.dry_run:
+        log.warning(f"0 article publiable sur {len(scored)} candidats scorés "
+                    f"(après {attempts} tentatives) -> rien à publier ce run")
 
     # 5. Save state + git commit
     save_state({
