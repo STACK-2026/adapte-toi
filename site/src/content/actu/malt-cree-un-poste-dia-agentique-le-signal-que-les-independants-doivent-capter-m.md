@@ -1,6 +1,6 @@
 ---
 title: "Malt crée un poste d'IA agentique : le signal que les indépendants doivent capter maintenant"
-description: "Malt nomme une VP Plateformes & Systèmes Agentiques. Derrière le jargon, une révolution pour les freelances : l'IA ne sera plus un outil, mais un collègue autonome. Décryptage sans filtre."
+description: "Malt nomme une VP Plateformes & Systèmes Agentiques. Derrière le jargon, une révolution pour les freelances : l'IA ne sera plus un outil, mais un collègue autonome. Décryptage"
 date: 2026-06-05
 category: "annonce"
 impactLevel: 4

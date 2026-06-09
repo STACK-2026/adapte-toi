@@ -1,6 +1,6 @@
 ---
 title: "Escroqueries vocales par IA : quand ton fils au téléphone n'est qu'un algorithme"
-description: "Les clones vocaux dopés à l'IA transforment les arnaques téléphoniques en cauchemar émotionnel. 893 millions de dollars perdus aux États-Unis en 2025 - et la France n'est pas épargnée."
+description: "Les clones vocaux dopés à l'IA transforment les arnaques téléphoniques en cauchemar émotionnel. 893 millions de dollars perdus aux États-Unis en 2025 - et la France n'est pas"
 date: 2026-06-03
 category: "menace"
 impactLevel: 5

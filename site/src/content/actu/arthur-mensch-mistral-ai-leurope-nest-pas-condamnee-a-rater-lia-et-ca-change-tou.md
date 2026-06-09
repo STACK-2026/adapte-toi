@@ -1,6 +1,6 @@
 ---
 title: "Arthur Mensch (Mistral AI) : « L'Europe n'est pas condamnée à rater l'IA », et ça change tout pour ton job"
-description: "Le PDG de Mistral AI balaye le défaitisme européen sur l'IA et exige une stratégie industrielle pour créer des emplois tech locaux. Décryptage des impacts concrets pour ta carrière."
+description: "Le PDG de Mistral AI balaye le défaitisme européen sur l'IA et exige une stratégie industrielle pour créer des emplois tech locaux. Décryptage des impacts concrets pour ta"
 date: 2026-06-08
 category: "voix"
 impactLevel: 4

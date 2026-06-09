@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT Pro débarque à 200 balles par mois : qui va vraiment en profiter ?"
-description: "OpenAI lance ChatGPT Pro à 200$/mois avec son modèle o1 pro mode, promis plus fiable pour les problèmes complexes. Mais à ce prix, c'est réservé aux pros de la tech, de la recherche et du droit. On décrypte qui gagne, qui perd, et comment en tirer parti sans"
+description: "OpenAI lance ChatGPT Pro à 200$/mois avec son modèle o1 pro mode, promis plus fiable pour les problèmes complexes. Mais à ce prix, c'est réservé aux pros de la tech, de la"
 date: 2026-06-03
 category: "outil"
 impactLevel: 4
