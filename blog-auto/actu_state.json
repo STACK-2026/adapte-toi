@@ -1,6 +1,5 @@
 {
   "seen_urls": [
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNnZIckphUWNoSEhkeTVBbnlLYTEtbWRIbTRLenkwMzdVSmdJYjdaMzZsX3pVd2MxS3JZaWVWck5JVldtU3pMc2xoZVc2c0FxMlFSOENTejJwMVdZRDYycVBuYkpGVThaRi1qSm11aG9ldEs0R08xNDBZYzZvdWxneEdwRllWYUg3NzNqdWRiRUhnQk1XUnpYU1pOeUEtOFlfWFVSdGVqenBBREtjSUs0Ug",
     "https://www.heise.de/news/KI-Staatsfonds-Trump-plant-Regierungsbeteiligung-an-OpenAI-Anthropic-Co-11320626.html",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVFFiZmtGMzVxRmh5Nzl6bllmQWJYM2lkZG1oT3REam5oVEs2SGJaOUpWMGFhcnVxUkpaY1ptNkhmLTltMF9pS1U5bVdGNTdmSXNBMzhYQkx2aHBPR3JXeG9lMV9QaDcxbUtpcHRmZFY4Zy1rdXVWQnpITWpmUkRHUkpsTnBoOUtOUk5vUTRvYXExWldEYWRqOTl0RFVSaVB1c2dlS3NJLU9VVTVLcXlyZEpNaE1RUQ",
     "https://openai.com/index/weight-normalization",
@@ -4999,7 +4998,8 @@
     "https://openai.com/index/gpt-5-system-card-update-gpt-5-2",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUENNS1EzanZuRlFvWVFUX2ljUFhCN2dqdWxidk51SnREcmRQOC1GVFB5S3dfa2xjbm9sbjdIWXkwSkFteTAyVm5IWkZUUGpNWW9iQnE2LWM5LV9jM3lKdmZUZEoySlZjNlA3bnVOWk5XelByMWI4N0s2NWRFaWk1c0lDXzd0aC1yREFtQ2JqWmlyUFRHTXlxSmFudXhRQWtnYTRDS256SEg1cjBqaVVQR1ZVMFIxUdIBuwFBVV95cUxORnJEUENhaFFVdHowTGtHbl9TU3JGa2dHWkxWa0ZaeTdiT0V6NEtGb2t5TlZlNmR6NWJIZC1tT2dqOEE2THFZQ09keGVNMV9xVE1fMHNsSnBQWmZFdVg4aU1nZ2lkYmFBVGoyejg1TWJ2SFBwanpGdkh5bm0zVERlRC1XZkc5eVlTT0w3UkU5dTBmQXRkOFdNVXNfMXJQQk5XV1gwTEJrX19UYVR1cnY4ZXpEUmJCQkhGNDZv",
     "https://www.bloomberg.com/news/videos/2026-06-08/apple-s-revamped-ai-smashes-against-down-market-video",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYXM5T253V3hzYUx2Q3RscjBiTXg4WmtLbHhmTVlXNkdmUHFlNEpOb3Rvd1puWTRSTEpfSmpSdDRwMG1jZUxXMS1OR1Y0R2hLNGpsQjl4NHRXTmdSNDdZUVhDSFhYMHV6cmhKNFVoalZDZ3o4VWg0TC1vejdybDc2T0hsbU5hSUd1c29hUXZ3WHA"
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYXM5T253V3hzYUx2Q3RscjBiTXg4WmtLbHhmTVlXNkdmUHFlNEpOb3Rvd1puWTRSTEpfSmpSdDRwMG1jZUxXMS1OR1Y0R2hLNGpsQjl4NHRXTmdSNDdZUVhDSFhYMHV6cmhKNFVoalZDZ3o4VWg0TC1vejdybDc2T0hsbU5hSUd1c29hUXZ3WHA",
+    "https://about.gitlab.com/blog/gitlab-act-2/"
   ],
   "seen_hashes": [
     "1c28d6210ffda1dd",
@@ -10039,6 +10039,7 @@
     "amazon-balance-10-milliards-en-europe-25-000-jobs-crees-mais-a-quel-prix-pour-te",
     "deezer-vs-ia-pourquoi-la-musique-generee-par-algorithme-menace-vraiment-les-meti",
     "chatgpt-debarque-dans-les-equipes-commerciales-ce-que-ca-change-pour-toi",
-    "larmee-us-mise-tout-sur-lia-et-si-ton-prochain-job-venait-du-champ-de-bataille"
+    "larmee-us-mise-tout-sur-lia-et-si-ton-prochain-job-venait-du-champ-de-bataille",
+    "gitlab-act-2-350-licenciements-ia-agentique-juin-2026"
   ]
 }
