@@ -34,7 +34,6 @@ relatedGuides:
   - "ia-emploi-chiffres-cles"
 relatedOutils:
   - "claude"
-  - "mistral"
   - "zapier"
   - "make"
 imageAlt: "Logo WhatsApp entouré de logos d'assistants IA (Claude, Mistral, etc.) avec le drapeau européen en arrière-plan"
@@ -82,7 +81,7 @@ Cette décision concerne la souveraineté numérique des travailleurs. WhatsApp 
 ## Pour toi concrètement
 
 **Freelance ou indépendant ?**
-- **30 jours** : teste des alternatives comme [Claude](/outils/claude) ou [Mistral](/outils/mistral) via [Zapier](/outils/zapier) ou [Make](/outils/make). Notre [guide d'automatisation](/guides/automatiser-travail-ia) propose des templates.
+- **30 jours** : teste des alternatives comme [Claude](/outils/claude) ou [Mistral](/guides/alternatives-francaises-a-chatgpt) via [Zapier](/outils/zapier) ou [Make](/outils/make). Notre [guide d'automatisation](/guides/automatiser-travail-ia) propose des templates.
 - **90 jours** : forme-toi aux APIs pour réduire ta dépendance aux plateformes. Commence par notre [fiche "Consultant IA"](/metiers/consultant-ia).
 - **Reconversion** : les métiers de l'automatisation client sont porteurs. Consulte notre [guide des métiers IA](/guides/ia-emploi-chiffres-cles).
 
@@ -92,7 +91,7 @@ Cette décision concerne la souveraineté numérique des travailleurs. WhatsApp 
 - **Moyen terme** : anticipe les évolutions réglementaires. Prépare un plan B avec notre [fiche "Chef de projet IA"](/metiers/chef-de-projet-ia).
 
 **Salarié en relation client ?**
-- **30 jours** : propose à ton employeur de tester [Claude](/outils/claude) ou [Mistral](/outils/mistral) pour automatiser les réponses récurrentes. Argumente avec notre [fiche "Chargé de clientèle IA"](/metiers/charge-clientele-ia).
+- **30 jours** : propose à ton employeur de tester [Claude](/outils/claude) ou [Mistral](/guides/alternatives-francaises-a-chatgpt) pour automatiser les réponses récurrentes. Argumente avec notre [fiche "Chargé de clientèle IA"](/metiers/charge-clientele-ia).
 - **90 jours** : maîtrise les outils no-code comme [Zapier](/outils/zapier). Notre [guide d'automatisation](/guides/automatiser-travail-ia) donne des exemples.
 - **Reconversion** : les métiers de l'automatisation client sont en croissance. Consulte notre [guide de reconversion](/guides/reconversion-ia-guide-complet).
 
