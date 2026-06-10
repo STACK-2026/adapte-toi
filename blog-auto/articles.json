@@ -6305,9 +6305,9 @@
     "category": "metiers-ia",
     "blog": "principal",
     "index": 41,
-    "published": false,
-    "published_at": null,
-    "slug": null,
+    "published": true,
+    "published_at": "2026-06-10",
+    "slug": "psychologue-ia-therapie-assistee-intelligence",
     "scheduled_date": "2026-06-30",
     "scheduled_time": "09:51",
     "scheduled_datetime": "2026-06-30T09:51:00",
@@ -6462,7 +6462,8 @@
           }
         ]
       }
-    }
+    },
+    "done": true
   },
   {
     "title": "Bootcamp IA : Comparatif des 5 meilleurs en France",
