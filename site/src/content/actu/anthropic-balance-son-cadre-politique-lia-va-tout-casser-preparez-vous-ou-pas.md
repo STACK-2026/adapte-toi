@@ -1,6 +1,6 @@
 ---
 title: "Anthropic balance son cadre politique : l'IA va tout casser, préparez-vous (ou pas)"
-description: "Anthropic sort un manifeste de 19 pages pour alerter Washington sur les risques «catastrophiques» de l'IA. Entre marketing de la peur et vrai signal d'alarme, on décrypte ce que ça change pour ton boulot dès 2026."
+description: "Anthropic sort un manifeste de 19 pages pour alerter Washington sur les risques «catastrophiques» de l'IA. Entre marketing de la peur et vrai signal d'alarme, on décrypte ce que"
 date: 2026-06-11
 category: "voix"
 impactLevel: 4
