@@ -6471,9 +6471,9 @@
     "category": "formation",
     "blog": "principal",
     "index": 42,
-    "published": false,
-    "published_at": null,
-    "slug": null,
+    "published": true,
+    "published_at": "2026-06-11T08:50:00+02:00",
+    "slug": "bootcamp-ia-comparatif-meilleurs-france",
     "scheduled_date": "2026-07-03",
     "scheduled_time": "09:55",
     "scheduled_datetime": "2026-07-03T09:55:00",
@@ -6666,7 +6666,8 @@
           }
         ]
       }
-    }
+    },
+    "done": true
   },
   {
     "title": "Jasper AI pour rédacteurs : Guide complet d'utilisation",
