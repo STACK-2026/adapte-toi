@@ -1,6 +1,6 @@
 ---
-title: "Microsoft propose un rachat volontaire a 8 750 salaries pour financer son pari IA : decryptage de la regle de 70"
-description: "Microsoft a annonce le 23 avril 2026 un plan de departs volontaires inedit, vise par environ 8 750 salaries americains via la regle de 70 (age +..."
+title: "Microsoft propose un rachat volontaire à 8 750 salariés pour financer son pari IA : décryptage de la règle de 70"
+description: "Microsoft a annoncé le 23 avril 2026 un plan de départs volontaires inédit, visé par environ 8 750 salariés américains via la règle de 70 (âge +..."
 date: 2026-05-18
 category: "menace"
 impactLevel: 4
@@ -9,12 +9,12 @@ schemaFaq: true
 keyQuote:
   text: "Microsoft expects headcount to decline as CFO Amy Hood signals continued workforce cuts."
   author: "Storyboard18"
-  context: "Synthese du 30 avril 2026 sur les signaux envoyes par la direction financiere de Microsoft lors de la conference des resultats du T3 fiscal 2026, qui a aussi devoile la charge de 900 millions de dollars liee au plan de departs volontaires"
+  context: "Synthèse du 30 avril 2026 sur les signaux envoyés par la direction financière de Microsoft lors de la conférence des résultats du T3 fiscal 2026, qui a aussi dévoilé la charge de 900 millions de dollars liée au plan de départs volontaires"
 tldr:
-  - "Microsoft a devoile le 23 avril 2026 son tout premier plan de departs volontaires en 51 ans d'histoire, vise par environ 8 750 salaries américains, soit pres de 7% des 125 000 effectifs US du groupe."
-  - "Le criterion d'eligibilite est la regle de 70 : la somme de ton age et de tes années d'anciennete chez Microsoft doit atteindre 70, ce qui cible massivement les profils seniors du middle management et de la tech historique."
-  - "La CFO Amy Hood a confirme une charge unique de 900 millions de dollars liee au programme, alors que Microsoft a affiche un benefice net record et planifie pres de 80 a 100 milliards de dollars d'investissements en infrastructures IA pour l'exercice fiscal 2026."
-  - "Aucun impact direct sur Microsoft France a ce stade, mais le signal s'aligne avec la vague Meta, Oracle, Amazon : couper l'humain senior pour financer la machine, et accelerer la mutation IA des metiers de bureau."
+  - "Microsoft a dévoilé le 23 avril 2026 son tout premier plan de départs volontaires en 51 ans d'histoire, visé par environ 8 750 salariés américains, soit près de 7% des 125 000 effectifs US du groupe."
+  - "Le criterion d'éligibilité est la règle de 70 : la somme de ton âge et de tes années d'ancienneté chez Microsoft doit atteindre 70, ce qui cible massivement les profils seniors du middle management et de la tech historique."
+  - "La CFO Amy Hood a confirmé une charge unique de 900 millions de dollars liée au programme, alors que Microsoft a affiché un bénéfice net record et planifié près de 80 à 100 milliards de dollars d'investissements en infrastructures IA pour l'exercice fiscal 2026."
+  - "Aucun impact direct sur Microsoft France à ce stade, mais le signal s'aligne avec la vague Meta, Oracle, Amazon : couper l'humain senior pour financer la machine, et accélérer la mutation IA des métiers de bureau."
 sources:
   - title: "Microsoft plans first-ever voluntary employee buyout for up to 7% of U.S. workforce"
     url: "https://www.cnbc.com/2026/04/23/microsoft-plans-first-voluntary-retirement-program-for-us-employees.html"
@@ -24,11 +24,11 @@ sources:
     url: "https://techcrunch.com/2026/04/23/microsoft-offers-buyout-for-up-to-7-of-u-s-employees/"
     outlet: "TechCrunch"
     date: 2026-04-23
-  - title: "Pour la premiere fois en 51 ans, Microsoft propose un plan de departs volontaires a plus de 8 700 employes"
+  - title: "Pour la première fois en 51 ans, Microsoft propose un plan de départs volontaires à plus de 8 700 employés"
     url: "https://www.clubic.com/actualite-610546-pour-la-premiere-fois-en-51-ans-microsoft-propose-un-plan-de-departs-volontaires-a-plus-de-8-700-employes.html"
     outlet: "Clubic"
     date: 2026-04-24
-  - title: "Pour financer l'IA, Meta va licencier 8 000 personnes, Microsoft lance un plan de departs volontaires"
+  - title: "Pour financer l'IA, Meta va licencier 8 000 personnes, Microsoft lance un plan de départs volontaires"
     url: "https://www.france24.com/fr/%C3%A9co-tech/20260423-ia-meta-va-licencier-8-000-personnes-microsoft-lance-un-plan-de-d%C3%A9parts-volontaires"
     outlet: "France 24"
     date: 2026-04-23
@@ -36,13 +36,13 @@ sources:
     url: "https://www.storyboard18.com/brand-makers/microsoft-expects-headcount-to-decline-as-cfo-amy-hood-signals-continued-workforce-cuts-96948.htm"
     outlet: "Storyboard18"
     date: 2026-04-30
-  - title: "Les licenciements - Donnees DARES"
+  - title: "Les licenciements - Données DARES"
     url: "https://dares.travail-emploi.gouv.fr/donnees/les-licenciements"
     outlet: "DARES"
     date: 2026-04-15
-  - title: "Reglement (UE) 2024/1689 sur l'intelligence artificielle - AI Act"
+  - title: "Règlement (UE) 2024/1689 sur l'intelligence artificielle - AI Act"
     url: "https://artificialintelligenceact.eu/"
-    outlet: "Commission europeenne"
+    outlet: "Commission européenne"
     date: 2024-08-01
 relatedMetiers:
   - "developpeur-ia"
@@ -60,112 +60,112 @@ relatedOutils:
   - "chatgpt"
   - "claude"
   - "cursor"
-keywords: "Microsoft rachat volontaire 2026, Microsoft departs volontaires 8750 salaries, regle de 70 Microsoft, plan retraite Microsoft IA, Amy Hood charge 900 millions, Microsoft IA emploi France, licenciements deguises IA, buyout Microsoft 2026"
+keywords: "Microsoft rachat volontaire 2026, Microsoft départs volontaires 8750 salariés, règle de 70 Microsoft, plan retraite Microsoft IA, Amy Hood charge 900 millions, Microsoft IA emploi France, licenciements déguisés IA, buyout Microsoft 2026"
 lastReviewed: 2026-05-18
 reviewedBy: "Léa Moreau"
 draft: false
 image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop&q=80&auto=format"
-imageAlt: "Bureaux corporate avec open space et ecran d'ordinateur affichant un graphique financier"
+imageAlt: "Bureaux corporate avec open space et écran d'ordinateur affichant un graphique financier"
 ---
 
 ## TL;DR
 
-- Microsoft a devoile le 23 avril 2026 son tout premier plan de departs volontaires en 51 ans d'histoire, vise par environ 8 750 salaries américains, soit pres de 7% des 125 000 effectifs US du groupe.
-- Le criterion d'eligibilite est la regle de 70 : la somme de ton age et de tes années d'anciennete chez Microsoft doit atteindre 70, ce qui cible massivement les profils seniors du middle management et de la tech historique.
-- La CFO Amy Hood a confirme une charge unique de 900 millions de dollars liee au programme, alors que Microsoft a affiche un benefice net record et planifie pres de 80 a 100 milliards de dollars d'investissements en infrastructures IA pour l'exercice fiscal 2026.
-- Aucun impact direct sur Microsoft France a ce stade, mais le signal s'aligne avec la vague Meta, Oracle, Amazon : couper l'humain senior pour financer la machine, et accelerer la mutation IA des metiers de bureau.
+- Microsoft a dévoilé le 23 avril 2026 son tout premier plan de départs volontaires en 51 ans d'histoire, visé par environ 8 750 salariés américains, soit près de 7% des 125 000 effectifs US du groupe.
+- Le criterion d'éligibilité est la règle de 70 : la somme de ton âge et de tes années d'ancienneté chez Microsoft doit atteindre 70, ce qui cible massivement les profils seniors du middle management et de la tech historique.
+- La CFO Amy Hood a confirmé une charge unique de 900 millions de dollars liée au programme, alors que Microsoft a affiché un bénéfice net record et planifié près de 80 à 100 milliards de dollars d'investissements en infrastructures IA pour l'exercice fiscal 2026.
+- Aucun impact direct sur Microsoft France à ce stade, mais le signal s'aligne avec la vague Meta, Oracle, Amazon : couper l'humain senior pour financer la machine, et accélérer la mutation IA des métiers de bureau.
 
-Microsoft a annonce le 23 avril 2026 un plan de rachat volontaire vise par 8 750 salaries américains, soit 7% de ses effectifs US, eligibles via la regle de 70 (age + anciennete). La charge passe a 900 millions de dollars, pendant que le geant injecte plus de 80 milliards dans l'IA. Voici ce que ca change pour ton job.
+Microsoft a annoncé le 23 avril 2026 un plan de rachat volontaire visé par 8 750 salariés américains, soit 7% de ses effectifs US, éligibles via la règle de 70 (âge + ancienneté). La charge passe à 900 millions de dollars, pendant que le géant injecte plus de 80 milliards dans l'IA. Voici ce que ça change pour ton job.
 
-## Ce qui s'est passe le 23 avril 2026
+## Ce qui s'est passé le 23 avril 2026
 
-Le 23 avril 2026, Microsoft annonce a ses equipes américaines un dispositif inedit : un plan de departs volontaires, le premier de cette ampleur depuis la creation du groupe en 1975. Selon [CNBC](https://www.cnbc.com/2026/04/23/microsoft-plans-first-voluntary-retirement-program-for-us-employees.html), environ 8 750 salaries américains sont eligibles, soit pres de 7% des 125 000 effectifs US. [TechCrunch](https://techcrunch.com/2026/04/23/microsoft-offers-buyout-for-up-to-7-of-u-s-employees/) confirme le perimetre le meme jour. [Clubic](https://www.clubic.com/actualite-610546-pour-la-premiere-fois-en-51-ans-microsoft-propose-un-plan-de-departs-volontaires-a-plus-de-8-700-employes.html) parle d'un plan inedit en 51 ans, et [France 24](https://www.france24.com/fr/%C3%A9co-tech/20260423-ia-meta-va-licencier-8-000-personnes-microsoft-lance-un-plan-de-d%C3%A9parts-volontaires) le relie a la vague IA chez Meta, qui licencie 8 000 personnes la meme semaine.
+Le 23 avril 2026, Microsoft annonce à ses équipes américaines un dispositif inédit : un plan de départs volontaires, le premier de cette ampleur depuis la création du groupe en 1975. Selon [CNBC](https://www.cnbc.com/2026/04/23/microsoft-plans-first-voluntary-retirement-program-for-us-employees.html), environ 8 750 salariés américains sont éligibles, soit près de 7% des 125 000 effectifs US. [TechCrunch](https://techcrunch.com/2026/04/23/microsoft-offers-buyout-for-up-to-7-of-u-s-employees/) confirme le périmètre le même jour. [Clubic](https://www.clubic.com/actualite-610546-pour-la-premiere-fois-en-51-ans-microsoft-propose-un-plan-de-departs-volontaires-a-plus-de-8-700-employes.html) parle d'un plan inédit en 51 ans, et [France 24](https://www.france24.com/fr/%C3%A9co-tech/20260423-ia-meta-va-licencier-8-000-personnes-microsoft-lance-un-plan-de-d%C3%A9parts-volontaires) le relie à la vague IA chez Meta, qui licencie 8 000 personnes la même semaine.
 
-La mecanique est arithmetique : la regle de 70. Tu es eligible si la somme de ton age et de tes années d'anciennete chez Microsoft atteint ou depasse 70. Un ingenieur de 52 ans avec dix-huit ans de boite coche la case, comme une responsable produit de 58 ans avec douze ans de presence. Les commerciaux en plan d'interessement actif et certains profils tres seniors sont exclus. La fenetre pour opter court jusqu'au 8 juin 2026, et le dernier jour des partants est fixe au 1er juillet, debut de l'exercice fiscal 2027. Le package combine indemnite cash, maintien de la couverture sante et acceleration des stock-options non acquises.
+La mécanique est arithmétique : la règle de 70. Tu es éligible si la somme de ton âge et de tes années d'ancienneté chez Microsoft atteint ou dépasse 70. Un ingénieur de 52 ans avec dix-huit ans de boîte coche la case, comme une responsable produit de 58 ans avec douze ans de présence. Les commerciaux en plan d'intéressement actif et certains profils très seniors sont exclus. La fenêtre pour opter court jusqu'au 8 juin 2026, et le dernier jour des partants est fixé au 1er juillet, début de l'exercice fiscal 2027. Le package combine indemnité cash, maintien de la couverture santé et accélération des stock-options non acquises.
 
-## Pourquoi ca compte vraiment
+## Pourquoi ça compte vraiment
 
-Le chiffre qui change la lecture, c'est la charge declaree par la CFO Amy Hood lors de la conference des resultats : 900 millions de dollars. Une charge unique, le cout de payer 8 750 personnes pour partir d'elles-memes. Microsoft a publie dans le meme temps un benefice net record sur 90 jours et planifie entre 80 et 100 milliards de dollars d'investissements en datacenters IA pour l'exercice fiscal 2026, selon les communications publiques relayees par [Storyboard18](https://www.storyboard18.com/brand-makers/microsoft-expects-headcount-to-decline-as-cfo-amy-hood-signals-continued-workforce-cuts-96948.htm).
+Le chiffre qui change la lecture, c'est la charge déclarée par la CFO Amy Hood lors de la conférence des résultats : 900 millions de dollars. Une charge unique, le coût de payer 8 750 personnes pour partir d'elles-mêmes. Microsoft a publié dans le même temps un bénéfice net record sur 90 jours et planifié entre 80 et 100 milliards de dollars d'investissements en datacenters IA pour l'exercice fiscal 2026, selon les communications publiques relayées par [Storyboard18](https://www.storyboard18.com/brand-makers/microsoft-expects-headcount-to-decline-as-cfo-amy-hood-signals-continued-workforce-cuts-96948.htm).
 
-Ce n'est donc pas une entreprise en difficulte qui licencie pour survivre, c'est une entreprise hyper-rentable qui paie pour faire partir des seniors avant tout bras de fer social classique. La logique : reorienter chaque dollar d'OPEX humain vers le CAPEX IA, en evitant le risque reputationnel d'un plan social. Voir notre [tracker des licenciements IA 2026](/guides/licenciements-ia-2026-tracker/) pour la cartographie complete et le [pillar IA emploi en chiffres cles](/guides/ia-emploi-chiffres-cles/) pour le contexte macro.
+Ce n'est donc pas une entreprise en difficulté qui licencie pour survivre, c'est une entreprise hyper-rentable qui paie pour faire partir des seniors avant tout bras de fer social classique. La logique : réorienter chaque dollar d'OPEX humain vers le CAPEX IA, en évitant le risque réputationnel d'un plan social. Voir notre [tracker des licenciements IA 2026](/guides/licenciements-ia-2026-tracker/) pour la cartographie complète et le [pillar IA emploi en chiffres clés](/guides/ia-emploi-chiffres-cles/) pour le contexte macro.
 
-## Pour quels metiers la menace est la plus directe
+## Pour quels métiers la menace est la plus directe
 
-La regle de 70 cible le middle management et les ingenieurs experimentes, ceux qui ont entre dix et vingt ans de Microsoft.
+La règle de 70 cible le middle management et les ingénieurs expérimentés, ceux qui ont entre dix et vingt ans de Microsoft.
 
-**Chefs de projet et middle management (impact direct).** Les couches managerielles de coordination sont les premieres visees, parce qu'elles sont les plus augmentees par les outils IA generatifs. Voir la fiche [chef de projet IA](/metiers/chef-de-projet-ia/).
+**Chefs de projet et middle management (impact direct).** Les couches managérielles de coordination sont les premières visées, parce qu'elles sont les plus augmentées par les outils IA génératifs. Voir la fiche [chef de projet IA](/metiers/chef-de-projet-ia/).
 
-**Developpeurs seniors et architectes (impact mixte).** Les profils tres techniques restent demandes, mais les "engineering managers" historiques sont exposes. La survie passe par la pratique des outils IA de code, [Cursor](/outils/cursor/) et [Copilot](/outils/copilot/) en tete. La fiche [developpeur a l'ere de l'IA](/metiers/developpeur-ia/) detaille les usages a documenter.
+**Développeurs seniors et architectes (impact mixte).** Les profils très techniques restent demandés, mais les "engineering managers" historiques sont exposés. La survie passe par la pratique des outils IA de code, [Cursor](/outils/cursor/) et [Copilot](/outils/copilot/) en tête. La fiche [développeur à l'ère de l'IA](/metiers/developpeur-ia/) détaille les usages à documenter.
 
-**Conseil et RH (impact indirect).** Les [consultants tech](/metiers/consultant-ia/) sur l'ecosysteme Microsoft doivent surveiller les integrateurs francais. Les equipes [RH recruteur IA](/metiers/rh-recruteur-ia/) absorbent la charge d'execution.
+**Conseil et RH (impact indirect).** Les [consultants tech](/metiers/consultant-ia/) sur l'écosystème Microsoft doivent surveiller les intégrateurs français. Les équipes [RH recruteur IA](/metiers/rh-recruteur-ia/) absorbent la charge d'exécution.
 
 ## Et en France ?
 
-Aucun plan social Microsoft France n'a ete annonce. Microsoft France compte environ 2 000 collaborateurs, soumis au code du travail, au CSE et a la convention Syntec. Un dispositif de retraite anticipee de type americain ne peut pas etre transpose tel quel : il faudrait passer par une rupture conventionnelle collective ou un plan de sauvegarde de l'emploi, deux procedures soumises a homologation administrative.
+Aucun plan social Microsoft France n'a été annoncé. Microsoft France compte environ 2 000 collaborateurs, soumis au code du travail, au CSE et à la convention Syntec. Un dispositif de retraite anticipée de type américain ne peut pas être transposé tel quel : il faudrait passer par une rupture conventionnelle collective ou un plan de sauvegarde de l'emploi, deux procédures soumises à homologation administrative.
 
-Les decisions des editeurs US mettent 6 a 12 mois a se traduire en restructurations sur les filiales europeennes. Les [donnees DARES sur les licenciements](https://dares.travail-emploi.gouv.fr/donnees/les-licenciements) ne montrent pas encore de pic tech FR comparable a la vague americaine. L'autre point de bascule, c'est l'application progressive de l'[AI Act europeen](https://artificialintelligenceact.eu/) a partir d'aout 2026 : les obligations sur les systèmes IA a haut risque creent de la demande pour des profils conformite et audit IA, non vises par les coupes Big Tech US.
+Les décisions des éditeurs US mettent 6 à 12 mois à se traduire en restructurations sur les filiales européennes. Les [données DARES sur les licenciements](https://dares.travail-emploi.gouv.fr/donnees/les-licenciements) ne montrent pas encore de pic tech FR comparable à la vague américaine. L'autre point de bascule, c'est l'application progressive de l'[AI Act européen](https://artificialintelligenceact.eu/) à partir d'août 2026 : les obligations sur les systèmes IA à haut risque créent de la demande pour des profils conformité et audit IA, non visés par les coupes Big Tech US.
 
 ## Faut-il accepter un buyout si on te le propose ?
 
-Si tu es chez Microsoft US et eligible, trois questions a te poser. Combien de mois te couvre l'indemnite cash : moins de 9 mois, c'est tendu sur un marche US qui a vu plus de 92 000 suppressions tech depuis janvier 2026. Quelles sont tes vested stock options et leur acceleration : sur les profils anciens, c'est souvent le poste le plus lourd. Et quelle est ta valeur sur le marche IA externe : un developpeur senior qui pratique vraiment [Cursor](/outils/cursor/) et [Claude](/outils/claude/) part avec un dossier solide.
+Si tu es chez Microsoft US et éligible, trois questions à te poser. Combien de mois te couvre l'indemnité cash : moins de 9 mois, c'est tendu sur un marché US qui a vu plus de 92 000 suppressions tech depuis janvier 2026. Quelles sont tes vested stock options et leur accélération : sur les profils anciens, c'est souvent le poste le plus lourd. Et quelle est ta valeur sur le marché IA externe : un développeur senior qui pratique vraiment [Cursor](/outils/cursor/) et [Claude](/outils/claude/) part avec un dossier solide.
 
-Si tu es manager en France, lis le signal autrement. Microsoft te dit que les seniors generiques coutent plus qu'ils ne rapportent dans une organisation pousse-IA. La parade : documenter tes gains de temps avec [ChatGPT](/outils/chatgpt/) et [Copilot](/outils/copilot/), et remonter la chaine de valeur. Notre guide [negocier ton salaire avec tes competences IA](/guides/negocier-salaire-competences-ia/) donne les arguments qui marchent.
+Si tu es manager en France, lis le signal autrement. Microsoft te dit que les seniors génériques coûtent plus qu'ils ne rapportent dans une organisation pousse-IA. La parade : documenter tes gains de temps avec [ChatGPT](/outils/chatgpt/) et [Copilot](/outils/copilot/), et remonter la chaîne de valeur. Notre guide [négocier ton salaire avec tes compétences IA](/guides/negocier-salaire-competences-ia/) donne les arguments qui marchent.
 
-## Comment t'adapter, etape par etape
+## Comment t'adapter, étape par étape
 
-**Si tu travailles dans une filiale tech ou une ESN.** Mesure ton exposition. Plus tu es proche du middle management generique, plus la pression IA s'exerce. Plus tu es sur un poste technique pointu (architecture cloud, securite, MLOps, FinOps, conformite IA), plus tu es protege a 12 mois.
+**Si tu travailles dans une filiale tech ou une ESN.** Mesure ton exposition. Plus tu es proche du middle management générique, plus la pression IA s'exerce. Plus tu es sur un poste technique pointu (architecture cloud, sécurité, MLOps, FinOps, conformité IA), plus tu es protégé à 12 mois.
 
-**Si tu cherches un emploi.** Vise les fonctions IA-augmentees, pas IA-substituees : conformite IA, audit IA, MLOps, data engineering, integration LLM. Forme-toi via notre [pillar formation IA gratuite](/guides/se-former-ia-gratuitement/) et mobilise ton CPF. Cible Mistral, Hugging Face, Dataiku, OVHcloud, qui recrutent malgre la vague.
+**Si tu cherches un emploi.** Vise les fonctions IA-augmentées, pas IA-substituées : conformité IA, audit IA, MLOps, data engineering, intégration LLM. Forme-toi via notre [pillar formation IA gratuite](/guides/se-former-ia-gratuitement/) et mobilise ton CPF. Cible Mistral, Hugging Face, Dataiku, OVHcloud, qui recrutent malgré la vague.
 
-**Si tu es en reconversion.** Choisis un metier ou l'IA t'augmente plus qu'elle ne te remplace : notre [guide reconversion IA complet](/guides/reconversion-ia-guide-complet/) detaille les filieres ou la demande croit. Levier court terme : la conformite AI Act et la gouvernance des donnees.
+**Si tu es en reconversion.** Choisis un métier où l'IA t'augmente plus qu'elle ne te remplace : notre [guide reconversion IA complet](/guides/reconversion-ia-guide-complet/) détaille les filières où la demande croît. Levier court terme : la conformité AI Act et la gouvernance des données.
 
-## Ce que dit, et ne dit pas, l'episode Microsoft
+## Ce que dit, et ne dit pas, l'épisode Microsoft
 
-Le buyout Microsoft ne dit pas que l'IA va remplacer 7% des salaries US du groupe demain. Il dit que les Big Tech preferent payer pour faire partir les profils seniors generiques avant tout bras de fer social. La regle implicite n'est plus "qui est performant ?" mais "qui est augmente par l'IA ?". Les profils qui combinent expertise metier solide et pratique outillee IA restent structurellement avantages.
+Le buyout Microsoft ne dit pas que l'IA va remplacer 7% des salariés US du groupe demain. Il dit que les Big Tech préfèrent payer pour faire partir les profils seniors génériques avant tout bras de fer social. La règle implicite n'est plus "qui est performant ?" mais "qui est augmenté par l'IA ?". Les profils qui combinent expertise métier solide et pratique outillée IA restent structurellement avantagés.
 
 ## FAQ
 
-### Pourquoi Microsoft propose-t-il un rachat volontaire plutot qu'un plan social ?
+### Pourquoi Microsoft propose-t-il un rachat volontaire plutôt qu'un plan social ?
 
-Le rachat volontaire est juridiquement et reputationnellement moins risque qu'un plan de licenciement aux Etats-Unis. Microsoft evite les contentieux individuels, conserve la marque employeur pour la guerre des talents IA et contrôle precisement le profil de ceux qui partent grace a la regle de 70. Le cout, 900 millions de dollars selon Amy Hood, est inferieur a celui d'un plan social classique de meme ampleur.
+Le rachat volontaire est juridiquement et réputationnellement moins risqué qu'un plan de licenciement aux États-Unis. Microsoft évite les contentieux individuels, conserve la marque employeur pour la guerre des talents IA et contrôle précisément le profil de ceux qui partent grâce à la règle de 70. Le coût, 900 millions de dollars selon Amy Hood, est inférieur à celui d'un plan social classique de même ampleur.
 
-### Comment fonctionne la regle de 70 et qui est concerne ?
+### Comment fonctionne la règle de 70 et qui est concerné ?
 
-La regle est arithmetique : ton age plus tes années d'anciennete chez Microsoft doivent atteindre 70. Un developpeur de 50 ans avec 20 ans de boite est eligible, comme un manager de 55 ans avec 15 ans. Les commerciaux en plan d'interessement actif et certains profils tres seniors sont exclus. Le perimetre estime par CNBC est d'environ 8 750 personnes aux Etats-Unis.
+La règle est arithmétique : ton âge plus tes années d'ancienneté chez Microsoft doivent atteindre 70. Un développeur de 50 ans avec 20 ans de boîte est éligible, comme un manager de 55 ans avec 15 ans. Les commerciaux en plan d'intéressement actif et certains profils très seniors sont exclus. Le périmètre estimé par CNBC est d'environ 8 750 personnes aux États-Unis.
 
-### Quel impact pour Microsoft France et les utilisateurs francais ?
+### Quel impact pour Microsoft France et les utilisateurs français ?
 
-Aucun plan equivalent n'a ete annonce sur Microsoft France. Le code du travail francais exige une rupture conventionnelle collective ou un plan de sauvegarde de l'emploi, soumis a homologation. Les decisions US se repercutent en general en 6 a 12 mois sur les filiales europeennes : surveille les annonces du comite social et economique au second semestre 2026.
+Aucun plan équivalent n'a été annoncé sur Microsoft France. Le code du travail français exige une rupture conventionnelle collective ou un plan de sauvegarde de l'emploi, soumis à homologation. Les décisions US se répercutent en général en 6 à 12 mois sur les filiales européennes : surveille les annonces du comité social et économique au second semestre 2026.
 
-### Quels metiers tech recrutent encore en France malgre la vague IA Big Tech ?
+### Quels métiers tech recrutent encore en France malgré la vague IA Big Tech ?
 
-Les fonctions conformite IA et audit IA, dopees par l'[AI Act](https://artificialintelligenceact.eu/), MLOps, data engineering, sécurité IA, integration LLM, et les profils [developpeur IA](/metiers/developpeur-ia/) seniors. Mistral, Hugging Face, Dataiku et OVHcloud continuent de recruter, et les ESN europeennes embauchent sur les projets d'industrialisation IA en entreprise.
+Les fonctions conformité IA et audit IA, dopées par l'[AI Act](https://artificialintelligenceact.eu/), MLOps, data engineering, sécurité IA, intégration LLM, et les profils [développeur IA](/metiers/developpeur-ia/) seniors. Mistral, Hugging Face, Dataiku et OVHcloud continuent de recruter, et les ESN européennes embauchent sur les projets d'industrialisation IA en entreprise.
 
 ### L'IA va-t-elle remplacer les managers chez Microsoft et ailleurs ?
 
-Le buyout cible le middle management, mais le metier ne disparait pas : il se polarise. Les managers qui maitrisent [Copilot](/outils/copilot/), [Claude](/outils/claude/) et [ChatGPT](/outils/chatgpt/) et qui pilotent des equipes augmentees absorbent plus de perimetre. Les managers generiques sans pratique outillee deviennent les premiers candidats aux dispositifs volontaires.
+Le buyout cible le middle management, mais le métier ne disparaît pas : il se polarise. Les managers qui maîtrisent [Copilot](/outils/copilot/), [Claude](/outils/claude/) et [ChatGPT](/outils/chatgpt/) et qui pilotent des équipes augmentées absorbent plus de périmètre. Les managers génériques sans pratique outillée deviennent les premiers candidats aux dispositifs volontaires.
 
-### Comment me former a l'IA pour rester employable apres ce signal Microsoft ?
+### Comment me former à l'IA pour rester employable après ce signal Microsoft ?
 
-Trois pistes. Les parcours gratuits recenses dans notre [guide se former a l'IA gratuitement](/guides/se-former-ia-gratuitement/) (OpenClassrooms, Coursera audit, Kaggle Learn). Ton CPF, qui finance plusieurs parcours certifiants en data et IA generative. Et la pratique quotidienne d'au moins un outil generatif, journal documente a l'appui.
+Trois pistes. Les parcours gratuits recensés dans notre [guide se former à l'IA gratuitement](/guides/se-former-ia-gratuitement/) (OpenClassrooms, Coursera audit, Kaggle Learn). Ton CPF, qui finance plusieurs parcours certifiants en data et IA générative. Et la pratique quotidienne d'au moins un outil génératif, journal documenté à l'appui.
 
 ## Sources
 
 - [Microsoft plans first-ever voluntary employee buyout for up to 7% of U.S. workforce - CNBC, 23 avril 2026](https://www.cnbc.com/2026/04/23/microsoft-plans-first-voluntary-retirement-program-for-us-employees.html)
 - [Microsoft offers buyout for up to 7% of U.S. employees - TechCrunch, 23 avril 2026](https://techcrunch.com/2026/04/23/microsoft-offers-buyout-for-up-to-7-of-u-s-employees/)
-- [Pour la premiere fois en 51 ans, Microsoft propose un plan de departs volontaires - Clubic, 24 avril 2026](https://www.clubic.com/actualite-610546-pour-la-premiere-fois-en-51-ans-microsoft-propose-un-plan-de-departs-volontaires-a-plus-de-8-700-employes.html)
-- [Pour financer l'IA, Meta va licencier 8 000 personnes, Microsoft lance un plan de departs volontaires - France 24, 23 avril 2026](https://www.france24.com/fr/%C3%A9co-tech/20260423-ia-meta-va-licencier-8-000-personnes-microsoft-lance-un-plan-de-d%C3%A9parts-volontaires)
+- [Pour la première fois en 51 ans, Microsoft propose un plan de départs volontaires - Clubic, 24 avril 2026](https://www.clubic.com/actualite-610546-pour-la-premiere-fois-en-51-ans-microsoft-propose-un-plan-de-departs-volontaires-a-plus-de-8-700-employes.html)
+- [Pour financer l'IA, Meta va licencier 8 000 personnes, Microsoft lance un plan de départs volontaires - France 24, 23 avril 2026](https://www.france24.com/fr/%C3%A9co-tech/20260423-ia-meta-va-licencier-8-000-personnes-microsoft-lance-un-plan-de-d%C3%A9parts-volontaires)
 - [Microsoft expects headcount to decline as CFO Amy Hood signals continued workforce cuts - Storyboard18, 30 avril 2026](https://www.storyboard18.com/brand-makers/microsoft-expects-headcount-to-decline-as-cfo-amy-hood-signals-continued-workforce-cuts-96948.htm)
-- [Les licenciements - Donnees DARES](https://dares.travail-emploi.gouv.fr/donnees/les-licenciements)
-- [Reglement (UE) 2024/1689 sur l'intelligence artificielle - AI Act](https://artificialintelligenceact.eu/)
+- [Les licenciements - Données DARES](https://dares.travail-emploi.gouv.fr/donnees/les-licenciements)
+- [Règlement (UE) 2024/1689 sur l'intelligence artificielle - AI Act](https://artificialintelligenceact.eu/)
 - [INSEE - Statistiques sur l'emploi](https://www.insee.fr/fr/statistiques)
-- France Strategie - Travail emploi competences
+- France Stratégie - Travail emploi compétences
 
 ## Pour aller plus loin sur Adapte-toi
 
 - [Tracker licenciements IA 2026](/guides/licenciements-ia-2026-tracker/)
-- [Pillar IA emploi : chiffres cles 2026](/guides/ia-emploi-chiffres-cles/)
+- [Pillar IA emploi : chiffres clés 2026](/guides/ia-emploi-chiffres-cles/)
 - [Formation IA gratuite](/guides/se-former-ia-gratuitement/)
 - [Reconversion IA](/guides/reconversion-ia-guide-complet/)
-- Fiches metiers : [Developpeur IA](/metiers/developpeur-ia/), [Chef de projet IA](/metiers/chef-de-projet-ia/), [Consultant IA](/metiers/consultant-ia/)
+- Fiches métiers : [Développeur IA](/metiers/developpeur-ia/), [Chef de projet IA](/metiers/chef-de-projet-ia/), [Consultant IA](/metiers/consultant-ia/)
 - Fiches outils : [Copilot](/outils/copilot/), [Claude](/outils/claude/), [Cursor](/outils/cursor/)
