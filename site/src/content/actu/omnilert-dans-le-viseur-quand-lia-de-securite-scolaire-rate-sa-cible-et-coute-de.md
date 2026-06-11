@@ -1,6 +1,6 @@
 ---
 title: "Omnilert dans le viseur : quand l'IA de sécurité scolaire rate sa cible et coûte des vies"
-description: "Une plainte aux États-Unis révèle les limites criantes d'un système d'IA censé détecter les armes en milieu scolaire. Entre promesses marketing et réalité tragique, qui paie l'addition ?"
+description: "Une plainte aux États-Unis révèle les limites d'un système d'IA censé détecter les armes à l'école. Entre promesses marketing et réalité tragique, qui paie l'addition ?"
 date: 2026-06-10
 category: "outil"
 impactLevel: 4
