@@ -6841,14 +6841,14 @@
     "category": "actu-emploi",
     "blog": "principal",
     "index": 44,
-    "published": false,
-    "published_at": null,
-    "slug": null,
+    "published": true,
+    "published_at": "2026-06-12",
+    "slug": "startup-ia-france-recrutent-2026",
     "scheduled_date": "2026-07-10",
     "scheduled_time": "08:43",
     "scheduled_datetime": "2026-07-10T08:43:00",
-    "title_tag": null,
-    "meta_description": null,
+    "title_tag": "Startups IA françaises qui recrutent en 2026 : le vrai panorama",
+    "meta_description": "Quelles startups IA recrutent vraiment en France en 2026 ? Postes ouverts, profils en reconversion, candidature : panorama vérifié, zéro bullshit.",
     "featured_image_url": null,
     "author": "Theo Marchand",
     "serp_brief": {
@@ -7009,7 +7009,8 @@
           }
         ]
       }
-    }
+    },
+    "done": true
   },
   {
     "title": "Commercial reconverti en sales ops IA : Retour d'expérience",
