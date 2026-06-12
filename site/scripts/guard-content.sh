@@ -31,11 +31,18 @@ if [ -n "$FILES" ]; then
     [ -f "$f" ] && EXISTING="$EXISTING $f"
   done
   if [ -n "$EXISTING" ]; then
-    echo "[guard:content] checking last-commit content files."
+    echo "[guard:content] auto-fix then check last-commit content files."
+    # --fix first: auto-clamp long descriptions / strip artifacts / demote H1 so a
+    # cosmetic defect (e.g. desc >180c) self-heals at build instead of blocking the
+    # deploy (recurring adapte-toi breakage 11-12/06). --check then still blocks on
+    # non-auto-fixable defects (ACCENT_LOW, mojibake).
+    # shellcheck disable=SC2086
+    python3 "$GUARD" --fix $EXISTING || true
     # shellcheck disable=SC2086
     exec python3 "$GUARD" --check $EXISTING
   fi
 fi
 
-echo "[guard:content] full-scan fallback on $CONTENT_DIR."
+echo "[guard:content] auto-fix then full-scan fallback on $CONTENT_DIR."
+python3 "$GUARD" --fix "$CONTENT_DIR" || true
 exec python3 "$GUARD" --check "$CONTENT_DIR"
