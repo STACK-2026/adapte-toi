@@ -58,10 +58,10 @@ Son optimisme sert ses intérêts. Bezos a besoin d'une adoption massive de l'IA
 Il ignore les métiers "invisibles" menacés. Comptables, rédacteurs, chargés de clientèle : ces postes ne disparaîtront pas, mais seront vidés de leur substance. L'humain se réduira à corriger les erreurs de l'IA, dégradant la qualité de vie au travail.
 
 ## Les chiffres qui comptent
-- **30%** : Hausse de la productivité dans les entrepôts Amazon grâce à l'automatisation depuis 2020 ([source](https://www.aboutamazon.com/news/workplace/amazon-robotics-automation)).
+- **30%** : Hausse de la productivité dans les entrepôts Amazon grâce à l'automatisation depuis 2020 ([source](https://www.aboutamazon.com/news/operations/amazon-million-robots-ai-foundation-model)).
 - **60%** : Part des emplois exposés à l'IA dans les pays développés (OCDE, 2023). **30%** pourraient être automatisés, **30%** transformés ([source](https://www.oecd.org/fr/publications/emploi-et-ia-2023/)).
 - **2 ans** : Temps moyen pour qu'une compétence technique devienne obsolète, contre **10 ans** dans les années 1990 ([source](https://www.weforum.org/reports/the-future-of-jobs-report-2023/)).
-- **40%** : Part des travailleurs français estimant ne pas avoir les compétences pour utiliser l'IA ([source](https://www.cegos.fr/etudes/barometre-competences-2025)).
+- **40%** : Part des travailleurs français estimant ne pas avoir les compétences pour utiliser l'IA ([source](https://www.cegos.fr/ressources/enquetes/barometre-competences-learning)).
 - **15%** : Écart de salaire entre travailleurs formés à l'IA et les autres, à poste égal ([source](https://www.pwc.com/gx/en/issues/analytics/assets/pwc-ai-analysis-sizing-the-prize-report.pdf)).
 
 ## La citation qui résume tout
@@ -84,7 +84,7 @@ Cette phrase illustre le décalage entre le discours des milliardaires et la ré
 
 **Tu es en reconversion ou sans emploi**
 - **À 30 jours** : Identifie les métiers porteurs avec l'IA ([data analyst IA](/metiers/data-analyst-ia), [consultant IA](/metiers/consultant-ia)). Utilise notre [guide de reconversion](/guides/reconversion-ia-guide-complet).
-- **À 60 jours** : Commence une formation gratuite ([Google AI Essentials](https://www.coursera.org/professional-certificates/google-ai-essentials), [Microsoft Learn](https://learn.microsoft.com/fr-fr/training/)).
+- **À 60 jours** : Commence une formation gratuite ([Google AI Essentials](https://www.coursera.org/specializations/ai-essentials-google), [Microsoft Learn](https://learn.microsoft.com/fr-fr/training/)).
 - **À 90 jours** : Postule à des postes hybrides où l'IA est un plus (assistant commercial avec [HubSpot AI](/outils/hubspot), chargé de projet avec [Notion AI](/outils/notion-ai)).
 
 **Tu es manager ou dirigeant**
