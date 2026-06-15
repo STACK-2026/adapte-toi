@@ -7194,9 +7194,9 @@
     "category": "freelance-ia",
     "blog": "principal",
     "index": 46,
-    "published": false,
-    "published_at": null,
-    "slug": null,
+    "published": true,
+    "published_at": "2026-06-15",
+    "slug": "creer-agence-conseil-ia-guide-etapes",
     "scheduled_date": "2026-07-17",
     "scheduled_time": "09:20",
     "scheduled_datetime": "2026-07-17T09:20:00",
@@ -7363,7 +7363,8 @@
           }
         ]
       }
-    }
+    },
+    "done": true
   },
   {
     "title": "Étude Cognizant : Jobs de demain avec l'IA",
