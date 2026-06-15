@@ -1,6 +1,6 @@
 ---
 title: "L'IA débarque en salle des marchés : qui va se faire virer en premier ?"
-description: "BlackRock et Goldman Sachs automatisent 30% de leurs analyses financières avec des LLM. Les analystes juniors tremblent, les traders seniors se reconvertissent en prompt engineers. On décrypte qui gagne, qui perd, et comment sauver ta peau."
+description: "BlackRock et Goldman Sachs automatisent 30% de leurs analyses avec des LLM. Qui perd sa place en salle des marchés, qui se reconvertit ?"
 date: 2026-06-13
 category: "outil"
 impactLevel: 4

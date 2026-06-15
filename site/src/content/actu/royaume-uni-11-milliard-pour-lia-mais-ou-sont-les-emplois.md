@@ -1,6 +1,6 @@
 ---
 title: "Royaume-Uni : 1,1 milliard pour l'IA, mais où sont les emplois ?"
-description: "Le gouvernement britannique annonce un plan à 1,1 milliard pour l'infrastructure IA, mais les promesses d'emplois locaux restent floues face à la domination des géants américains et asiatiques."
+description: "Le Royaume-Uni promet 1,1 milliard de livres pour l'infrastructure IA, mais les emplois locaux restent flous face aux géants américains."
 date: 2026-06-13
 category: "politique"
 impactLevel: 3
