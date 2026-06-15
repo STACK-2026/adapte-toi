@@ -114,7 +114,7 @@ def main():
     }
 
     bullets = []
-    for e in entries[:7]:
+    for e in entries[:5]:  # schema actu: tldr max 5 items
         label = CATEGORY_LABELS.get(e["category"], e["category"])
         bullets.append(f'  - "{label} : {e["title"].replace(chr(34), chr(39))}"')
     bullets_yaml = "\n".join(bullets)

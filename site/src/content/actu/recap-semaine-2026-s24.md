@@ -11,8 +11,6 @@ tldr:
   - "Outil : Anthropic suspend ses IA les plus puissantes : Washington bloque, le marché tremble"
   - "Outil : L'IA débarque en salle des marchés : qui va se faire virer en premier ?"
   - "Politique : Loi Darcos sur l'IA : quand l'Assemblée enterre les artistes au profit des géants tech"
-  - "Menace : Chine : un licenciement par IA condamné, le premier procès qui va faire jurisprudence"
-  - "Chiffre : 65% des Français utilisent l'IA : le grand fossé qui va tout changer au boulot"
 sources:
   - title: "Archive semaine 2026-W24 sur Adapte-toi"
     url: "https://adapte-toi.com/actu/semaine/2026-W24"

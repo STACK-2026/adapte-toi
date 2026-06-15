@@ -624,6 +624,22 @@ def _extract_external_links_body(body: str, own_host: str = "adapte-toi.com") ->
     return [u for u in all_ext if own_host not in u]
 
 
+def _clamp_category(mdx: str, fallback: str) -> str:
+    """Force le champ `category:` du frontmatter dans CATEGORY_ENUM. Le rédacteur LLM
+    peut halluciner une valeur hors enum (ex: 'licenciements') qui casse le build Astro
+    (InvalidContentEntryDataError) et bloque le deploy de tout le site. Repli sur la
+    catégorie scorée (déjà clampée) sinon 'annonce'."""
+    m = re.search(r'^(category:\s*)["\']?([^"\'\n]+)["\']?\s*$', mdx, re.MULTILINE)
+    if not m:
+        return mdx
+    cat = m.group(2).strip()
+    if cat in CATEGORY_ENUM:
+        return mdx
+    safe = fallback if fallback in CATEGORY_ENUM else "annonce"
+    log.warning(f"  category '{cat}' hors enum -> clamp '{safe}'")
+    return mdx[:m.start()] + f'{m.group(1)}"{safe}"' + mdx[m.end():]
+
+
 def validate_rules(draft: str) -> list[str]:
     issues = []
     if "\u2014" in draft or "\u2013" in draft:
@@ -894,6 +910,7 @@ def main():
             if args.dry_run:
                 log.info(f"  [DRY] OK, {len(mdx)} chars\n---\n{mdx[:600]}\n---")
                 continue
+            mdx = _clamp_category(mdx, s.get("category", "annonce"))
             path = write_article(mdx, slug)
             log.info(f"  Écrit: {path.name}")
             written_paths.append(path)
