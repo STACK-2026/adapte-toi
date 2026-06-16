@@ -1,6 +1,6 @@
 ---
 title: "Anthropic bloque ses IA en Europe : la tech française doit se réveiller (ou disparaître)"
-description: "Washington coupe l'accès aux modèles Mythos 5 et Fable 5 d'Anthropic. Pour les boîtes françaises, c'est le signal d'alarme : dépendre des géants américains, c'est jouer à la roulette russe avec son business."
+description: "Washington coupe l'accès aux modèles Mythos 5 et Fable 5 d'Anthropic. Pour les boîtes françaises, c'est le signal d'alarme : dépendre des géants américains, c'est jouer à la"
 date: 2026-06-15
 category: "menace"
 impactLevel: 4
