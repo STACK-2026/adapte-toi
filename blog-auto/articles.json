@@ -7528,9 +7528,9 @@
     "category": "metiers-ia",
     "blog": "principal",
     "index": 48,
-    "published": false,
-    "published_at": null,
-    "slug": null,
+    "published": true,
+    "published_at": "2026-06-16",
+    "slug": "medecin-generaliste-ia-diagnostic-assiste",
     "scheduled_date": "2026-07-24",
     "scheduled_time": "08:14",
     "scheduled_datetime": "2026-07-24T08:14:00",
@@ -7676,7 +7676,8 @@
         ],
         "grounding_sources": []
       }
-    }
+    },
+    "done": true
   },
   {
     "title": "Reconversion IA sans diplôme : Est-ce possible ?",
