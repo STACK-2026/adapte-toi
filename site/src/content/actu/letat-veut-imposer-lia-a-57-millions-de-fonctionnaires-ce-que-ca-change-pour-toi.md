@@ -1,6 +1,6 @@
 ---
 title: "L'État veut imposer l'IA à 5,7 millions de fonctionnaires : ce que ça change pour toi"
-description: "Bercy généralise un chatbot souverain et des outils d'IA dans toute la fonction publique d'ici fin 2026. Qui gagne, qui perd, et comment te préparer si tu bosses dans le public ou veux y entrer."
+description: "Bercy généralise un chatbot souverain et des outils d'IA dans toute la fonction publique d'ici fin 2026. Qui gagne, qui perd, et comment te préparer si tu bosses dans le public ou"
 date: 2026-06-16
 category: "politique"
 impactLevel: 4
@@ -68,7 +68,7 @@ L'Assistant est présenté comme une alternative française à ChatGPT, mais rep
 Les profils techniques (data analysts, développeurs, experts en cybersécurité) deviennent indispensables. Les métiers de terrain (infirmiers, enseignants, policiers) sont moins exposés, mais l'IA optimisera leurs plannings et évaluera leurs performances. Les concours administratifs classiques perdent de leur intérêt au profit de formations hybrides (droit public + compétences data).
 
 ## Les chiffres qui comptent
-- **5,7 millions** : fonctionnaires concernés d'ici fin 2026 ([INSEE](https://www.insee.fr/fr/statistiques/2521061)).
+- **5,7 millions** : fonctionnaires concernés d'ici fin 2026 (INSEE).
 - **10 000** : agents ayant testé L'Assistant depuis octobre 2025 ([Le Figaro](https://www.lefigaro.fr/conjoncture/comment-l-etat-compte-deployer-l-ia-dans-toutes-ses-administrations-20260616)).
 - **1,2 milliard d'euros** : économies annuelles promises ([Le Figaro](https://www.lefigaro.fr/conjoncture/comment-l-etat-compte-deployer-l-ia-dans-toutes-ses-administrations-20260616)).
 - **15 à 20 %** : taux d'erreur de L'Assistant sur les dossiers complexes ([DINUM](https://www.numerique.gouv.fr/)).
@@ -112,7 +112,7 @@ Les profils techniques (data analysts, développeurs, experts en cybersécurité
 - Métiers de terrain : [infirmier-ia](/metiers/infirmier-ia), [enseignant-ia](/metiers/enseignant-ia).
 
 **2. Forme-toi aux outils souverains** :
-- [Tutoriel L'Assistant](https://www.numerique.gouv.fr/outils/assistant-ia/).
+- Tutoriel L'Assistant.
 - Formations **Python** et **SQL** ([OpenClassrooms](https://openclassrooms.com/)).
 
 **3. Prépare-toi à un service public low-cost** :

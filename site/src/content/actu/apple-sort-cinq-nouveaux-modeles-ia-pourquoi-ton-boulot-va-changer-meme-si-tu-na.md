@@ -1,6 +1,6 @@
 ---
 title: "Apple sort cinq nouveaux modèles IA : pourquoi ton boulot va changer (même si tu n'as pas d'iPhone)"
-description: "Apple lance AFM 3, sa troisième génération de modèles d'IA, et avoue discrètement que les précédents étaient à la ramasse. Voici ce que ça change pour ton métier, tes outils et ta reconversion."
+description: "Apple lance AFM 3, sa troisième génération de modèles d'IA, et avoue discrètement que les précédents étaient à la ramasse. Voici ce que ça change pour ton métier, tes outils et ta"
 date: 2026-06-15
 category: "outil"
 impactLevel: 4
