@@ -1,6 +1,6 @@
 ---
 title: "Un ChatGPT souverain pour les fonctionnaires : l'IA française qui va changer ton boulot (même dans le privé)"
-description: "Le gouvernement déploie un outil d'IA souverain pour 1 million de fonctionnaires, alimenté par Mistral. Automatisation des tâches, économies, et un signal clair : l'IA n'est plus une option, même dans l'administration."
+description: "Le gouvernement déploie un outil d'IA souverain pour 1 million de fonctionnaires, alimenté par Mistral. Automatisation des tâches, économies, et un signal clair : l'IA n'est plus"
 date: 2026-06-16
 category: "outil"
 impactLevel: 4

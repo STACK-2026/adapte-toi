@@ -1,6 +1,6 @@
 ---
 title: "G7 d'Évian : quand Altman et Amodei transforment l'IA en arme géopolitique (et ce que ça change pour ton job)"
-description: "Sam Altman et Dario Amodei ont déjeuné avec les chefs d'État du G7 à Évian. Leur message ? L'IA n'est plus un outil, c'est un champ de bataille. Décryptage des conséquences concrètes pour ton emploi et ta reconversion."
+description: "Sam Altman et Dario Amodei ont déjeuné avec les chefs d'État du G7 à Évian. Leur message ? L'IA n'est plus un outil, c'est un champ de bataille. Décryptage des conséquences"
 date: 2026-06-17
 category: "voix"
 impactLevel: 4
@@ -80,7 +80,7 @@ Cette décision place l'IA au même niveau que les armes ou les ressources strat
 ## Pour toi concrètement
 
 **Développeur ou data analyst ?**
-- **30 jours** : Forme-toi aux modèles souverains. Mistral propose des [formations gratuites](https://mistral.ai/formation). En Europe, ces compétences seront recherchées.
+- **30 jours** : Forme-toi aux modèles souverains. Mistral propose des formations gratuites. En Europe, ces compétences seront recherchées.
 - **60 jours** : Obtiens des certifications en "IA souveraine" via le [Digital Europe Programme](https://digital-strategy.ec.europa.eu/en/policies/digital-europe-programme).
 - **90 jours** : Mets à jour ton CV avec une section "Compétences en IA souveraine".
 

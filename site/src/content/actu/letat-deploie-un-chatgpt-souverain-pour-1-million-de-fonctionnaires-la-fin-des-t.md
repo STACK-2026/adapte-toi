@@ -1,6 +1,6 @@
 ---
 title: "L'État déploie un ChatGPT souverain pour 1 million de fonctionnaires : la fin des tâches inutiles ou le début d'un nouveau casse-tête ?"
-description: "Le gouvernement lance un outil IA souverain pour ses agents, promettant de supprimer la paperasse. Mais derrière les 700 000 € investis, se cache une révolution silencieuse des métiers de la fonction publique."
+description: "Le gouvernement lance un outil IA souverain pour ses agents, promettant de supprimer la paperasse. Mais derrière les 700 000 € investis, se cache une révolution silencieuse des"
 date: 2026-06-16
 category: "politique"
 impactLevel: 4
