@@ -40,7 +40,7 @@
     "blog": "principal",
     "index": 3,
     "published": true,
-    "published_at": "2026-04-16T10:12:23.004395+02:00",
+    "published_at": "2026-06-18",
     "slug": "formation-ia-gratuite-10-cours-ligne-debuter",
     "scheduled_date": "2026-04-16",
     "scheduled_time": "08:51",
@@ -48,7 +48,8 @@
     "title_tag": "Formation IA gratuite : 10 cours en ligne pour débuter en 20",
     "meta_description": "10 formations IA gratuites pour maîtriser l'intelligence artificielle : Stanford, MIT, Google. Débutant à expert, certifications incluses.",
     "featured_image_url": "https://images.unsplash.com/photo-1698824245662-804c2dba744b?ixid=M3w4Nzg4MzB8MHwxfHNlYXJjaHw0fHxmb3JtYXRpb24lMjBJQXxlbnwwfDB8fHwxNzc2MzI3MTQxfDA&ixlib=rb-4.1.0&w=1200&h=630&fit=crop&crop=center&q=80",
-    "author": "Sarah Bellamy"
+    "author": "Sarah Bellamy",
+    "done": true
   },
   {
     "title": "ChatGPT pour les RH : Guide pratique et cas d'usage",
