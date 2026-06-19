@@ -39,7 +39,7 @@ if [ -n "$FILES" ]; then
     # shellcheck disable=SC2086
     python3 "$GUARD" --fix $EXISTING || true
     # shellcheck disable=SC2086
-    exec python3 "$GUARD" --check $EXISTING
+    exec python3 "$GUARD" --check --strict-images $EXISTING
   fi
 fi
 

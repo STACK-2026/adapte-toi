@@ -60,7 +60,7 @@ schemaFaq: true
 lastReviewed: 2026-05-13
 reviewedBy: "La Rédaction Adapte-toi"
 draft: false
-image: "https://images.unsplash.com/photo-1518544866330-95a2bec01da2?w=1200&h=630&fit=crop&q=80&auto=format"
+image: "https://images.unsplash.com/photo-1516387938699-a93567ec168e?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Pièce de monnaie Bitcoin posée sur un écran affichant des graphiques de marché, ambiance fintech"
 ---
 

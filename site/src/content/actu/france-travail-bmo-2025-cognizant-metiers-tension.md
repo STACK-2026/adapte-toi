@@ -1,7 +1,7 @@
 ---
 title: "France Travail BMO 2025 et Cognizant 2026 : les deux rapports qui dessinent le vrai marché du travail français"
 description: "D'un côté France Travail recense 2,77 millions de projets de recrutement pour 2025. De l'autre Cognizant projette 12 % des postes reconfigurés par l'IA..."
-image: "https://images.unsplash.com/photo-1518544866330-95a2bec01da2?w=1200&h=630&fit=crop&q=80&auto=format"
+image: "https://images.unsplash.com/photo-1516387938699-a93567ec168e?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Pièce de monnaie Bitcoin posée sur un écran affichant des graphiques de marché, ambiance fintech"
 date: 2026-04-10
 category: "etude"

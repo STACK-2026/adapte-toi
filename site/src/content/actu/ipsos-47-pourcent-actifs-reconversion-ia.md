@@ -1,7 +1,7 @@
 ---
 title: "Ipsos : 47 % des actifs français envisagent une reconversion, et l'IA est la raison qui monte"
 description: "L'étude Ipsos 2025 pour Amalgame dessine un marché du travail français en pleine bascule. On décrypte les vraies motivations, les freins invisibles, et ce..."
-image: "https://images.unsplash.com/photo-1518544866330-95a2bec01da2?w=1200&h=630&fit=crop&q=80&auto=format"
+image: "https://images.unsplash.com/photo-1516387938699-a93567ec168e?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Pièce de monnaie Bitcoin posée sur un écran affichant des graphiques de marché, ambiance fintech"
 date: 2026-04-12
 category: "etude"
