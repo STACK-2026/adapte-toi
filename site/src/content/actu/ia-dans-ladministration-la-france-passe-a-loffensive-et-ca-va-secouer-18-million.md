@@ -40,8 +40,7 @@ relatedOutils:
   - "perplexity"
   - "notion-ai"
 imageAlt: "Illustration d'un fonctionnaire utilisant un assistant IA sur un écran transparent, avec le logo de la République française en arrière-plan."
-keywords:
-  - "IA administration publique, souveraineté numérique, ChapsVision, Palantir, France 2030, assistant IA fonction publique, reconversion fonctionnaire, formation IA agents publics"
+keywords: "IA administration publique, souveraineté numérique, ChapsVision, Palantir, France 2030, assistant IA fonction publique, reconversion fonctionnaire, formation IA agents publics"
 lastReviewed: 2026-06-19
 reviewedBy: "Rédaction Adapte-toi"
 draft: false
