@@ -2,6 +2,7 @@
 import BaseLayout from "./BaseLayout.astro";
 import Breadcrumbs from "../components/Breadcrumbs.astro";
 import BrandHero from "../components/BrandHero.astro";
+import TLDRBox from "../components/TLDRBox.astro";
 import { siteConfig } from "../../site.config";
 import { fullUrl } from "../utils/config";
 import { jsonLdArticle, jsonLdBreadcrumbs } from "../utils/seo";
@@ -20,6 +21,7 @@ interface Props {
   lastReviewed?: Date;
   reviewedBy?: string;
   body?: string;
+  tldr?: string[];
 }
 
 const {
@@ -36,6 +38,7 @@ const {
   lastReviewed,
   reviewedBy,
   body,
+  tldr,
 } = Astro.props;
 
 // Extract FAQ pairs from markdown body
@@ -92,6 +95,7 @@ const jsonLd: any[] = [
     description,
     url: articleUrl,
     datePublished: dateStr,
+    dateModified: lastReviewed?.toISOString().split("T")[0],
     image,
     author,
     keywords: keywords?.split(",").map((k) => k.trim()),
@@ -168,6 +172,8 @@ if (faqPairs.length > 0) {
         </div>
       )}
     </header>
+
+    {tldr && tldr.length > 0 && <TLDRBox points={tldr} />}
 
     <figure class="mb-10">
       {image ? (

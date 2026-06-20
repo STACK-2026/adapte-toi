@@ -16,6 +16,7 @@ const blog = defineCollection({
     keywords: z.string().optional(),
     lastReviewed: z.coerce.date().optional(),
     reviewedBy: z.string().optional(),
+    tldr: z.array(z.string()).optional(),
   }),
 });
 
@@ -44,6 +45,7 @@ const metiers = defineCollection({
     imageAlt: z.string().optional(),
     keywords: z.string().optional(),
     draft: z.boolean().default(false),
+    tldr: z.array(z.string()).optional(),
     // Salaires fourchettes (rich snippets Occupation)
     salaryRange: z.object({
       junior: z.string(),

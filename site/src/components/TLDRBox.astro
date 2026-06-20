@@ -1,0 +1,34 @@
+---
+/**
+ * TLDRBox: front-loaded answer-first block (GEO lever 1).
+ * Renders a short, scannable "L'essentiel en 30 secondes" summary immediately
+ * after the H1, before the prose. data-speakable marks it for the
+ * SpeakableSpecification cssSelector used in the Article JSON-LD.
+ *
+ * Rule: only feed it figures already present/derivable on the page.
+ */
+interface Props {
+  points: string[];
+  label?: string;
+  delay?: number;
+}
+const { points, label = "L'essentiel en 30 secondes", delay = 100 } = Astro.props;
+---
+{points && points.length > 0 && (
+  <aside
+    class="bg-secondary/5 border-l-4 border-secondary rounded-r-xl p-5 sm:p-6 mb-10 fade-up"
+    style={`transition-delay: ${delay}ms`}
+    data-speakable
+    aria-label={label}
+  >
+    <div class="text-xs font-bold uppercase tracking-widest text-secondary mb-3">{label}</div>
+    <ul class="space-y-2 text-sm sm:text-base text-gray-800 leading-relaxed">
+      {points.map((point) => (
+        <li class="flex gap-2">
+          <span class="text-secondary flex-shrink-0 mt-0.5">&rarr;</span>
+          <span>{point}</span>
+        </li>
+      ))}
+    </ul>
+  </aside>
+)}

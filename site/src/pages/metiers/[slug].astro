@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import TLDRBox from "../../components/TLDRBox.astro";
 import { getCollection, render } from "astro:content";
 import { siteConfig } from "../../../site.config";
 import { fullUrl } from "../../utils/config";
@@ -46,12 +47,28 @@ const riskColors: Record<string, { bg: string; text: string; label: string }> = 
 
 const risk = riskColors[fiche.data.riskLevel];
 
+// Front-load (GEO lever 1): answer-first TL;DR. Uses ONLY values already
+// displayed on this page (score, risk label, sector, salary, named tools).
+// A `tldr` set in the frontmatter overrides this derived version.
+const sal = fiche.data.salaryRange;
+const tools = (fiche.data.relatedTools ?? []).slice(0, 3).map((t) => t.name);
+const derivedTldr =
+  fiche.data.tldr && fiche.data.tldr.length > 0
+    ? fiche.data.tldr
+    : [
+        `Score d'impact IA du métier ${fiche.data.metier} : ${fiche.data.riskScore}/10 (${risk.label.toLowerCase()}).`,
+        `Secteur : ${fiche.data.sector}.`,
+        ...(sal ? [`Salaire indicatif : ${sal.junior} (junior) à ${sal.senior} (senior).`] : []),
+        ...(tools.length ? [`Outils IA à connaître : ${tools.join(", ")}.`] : []),
+      ];
+
 const jsonLd: any[] = [
   jsonLdArticle({
     title: fiche.data.title,
     description: fiche.data.description,
     url: ficheUrl,
     datePublished: dateStr,
+    dateModified: fiche.data.lastReviewed?.toISOString().split("T")[0],
     author: fiche.data.author || siteConfig.blog.defaultAuthor,
     keywords: fiche.data.keywords?.split(",").map((k: string) => k.trim()),
   }),
@@ -126,6 +143,8 @@ if (fiche.data.relatedTools && fiche.data.relatedTools.length > 0) {
         )}
       </div>
     </header>
+
+    {derivedTldr.length > 0 && <TLDRBox points={derivedTldr} />}
 
     {fiche.data.image && (
       <figure class="mb-10">

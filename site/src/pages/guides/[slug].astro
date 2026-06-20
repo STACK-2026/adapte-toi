@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import TLDRBox from "../../components/TLDRBox.astro";
 import { getCollection, render } from "astro:content";
 import { siteConfig } from "../../../site.config";
 import { fullUrl } from "../../utils/config";
@@ -32,6 +33,7 @@ const jsonLd: any[] = [
     description: guide.data.description,
     url: guideUrl,
     datePublished: dateStr,
+    dateModified: guide.data.lastReviewed?.toISOString().split("T")[0],
     author: guide.data.author || siteConfig.blog.defaultAuthor,
     keywords: guide.data.keywords?.split(",").map((k: string) => k.trim()),
   }),
@@ -93,17 +95,7 @@ if (guide.data.comparator && guide.data.comparator.items.length > 0) {
     </header>
 
     {guide.data.tldr && guide.data.tldr.length > 0 && (
-      <aside class="bg-secondary/5 border-l-4 border-secondary rounded-r-xl p-5 sm:p-6 mb-10 fade-up" style="transition-delay: 100ms">
-        <div class="text-xs font-bold uppercase tracking-widest text-secondary mb-3">L'essentiel en 30 secondes</div>
-        <ul class="space-y-2 text-sm sm:text-base text-gray-800 leading-relaxed">
-          {guide.data.tldr.map((point) => (
-            <li class="flex gap-2">
-              <span class="text-secondary flex-shrink-0 mt-0.5">→</span>
-              <span>{point}</span>
-            </li>
-          ))}
-        </ul>
-      </aside>
+      <TLDRBox points={guide.data.tldr} />
     )}
 
     <div class="prose max-w-none fade-up" style="transition-delay: 200ms">
