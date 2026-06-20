@@ -7,7 +7,7 @@ category: "outils-ia"
 tags: ["Canva Midjourney comparaison", "outils IA créatifs", "IA graphisme"]
 keywords: "Canva Midjourney comparaison, outils IA créatifs"
 draft: false
-image: "https://images.unsplash.com/photo-1561070791-2526d30994b8?w=1200&h=630&fit=crop&q=80&auto=format"
+image: "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Designer comparant deux interfaces d'outils IA de création visuelle sur un grand écran"
 ---
 
