@@ -404,6 +404,14 @@ def _gh_put_file(rel_path: str, content_bytes: bytes, message: str) -> bool:
     Atomic per-file. Retries up to 5x with SHA refresh on 409/422 (concurrent update).
     Returns True on success.
     """
+    # Accents obligatoires : re-accent ASCII-folded French markdown before commit
+    # (best-effort, no-op without GEMINI_API_KEY, never raises).
+    if rel_path.endswith((".md", ".mdx")):
+        try:
+            from reaccent_lib import reaccent_text
+            content_bytes = reaccent_text(content_bytes.decode("utf-8"), os.getenv("GEMINI_API_KEY")).encode("utf-8")
+        except Exception:
+            pass
     token = os.getenv("GITHUB_TOKEN") or os.getenv("GH_TOKEN")
     repo  = os.getenv("GITHUB_REPOSITORY")  # e.g. "STACK-2026/karmastro"
     if not token or not repo:

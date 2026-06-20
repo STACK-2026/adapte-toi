@@ -912,6 +912,16 @@ def main():
                 continue
             mdx = _clamp_category(mdx, s.get("category", "annonce"))
             path = write_article(mdx, slug)
+            # Accents obligatoires : re-accent the written .md before git commit
+            # (best-effort, no-op without GEMINI/GOOGLE_API_KEY, never raises).
+            try:
+                from reaccent_lib import reaccent_text
+                _t = path.read_text(encoding="utf-8")
+                _n = reaccent_text(_t)
+                if _n != _t:
+                    path.write_text(_n, encoding="utf-8")
+            except Exception:
+                pass
             log.info(f"  Écrit: {path.name}")
             written_paths.append(path)
             written_titles.append(s["title"])
