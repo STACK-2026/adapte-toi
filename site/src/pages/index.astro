@@ -16,6 +16,7 @@ import ScrambleText from "../components/ScrambleText.astro";
 import WaveText from "../components/WaveText.astro";
 import ExplodeText from "../components/ExplodeText.astro";
 import BlurText from "../components/BlurText.astro";
+import TLDRBox from "../components/TLDRBox.astro";
 import { siteConfig } from "../../site.config";
 import { jsonLdHomepage } from "../utils/seo";
 import { getCollection } from "astro:content";
@@ -32,6 +33,21 @@ const recentPosts = (await getCollection("blog", ({ data }) => !data.draft))
 >
   {/* 1. Hero */}
   <Hero />
+
+  {/* 1.5 En bref : réponse front-load (GEO levier 1). Uniquement des chiffres déjà affichés plus bas (Baromètre #1, avril 2026). */}
+  <section class="px-4 pt-6 pb-2">
+    <div class="max-w-3xl mx-auto">
+      <TLDRBox
+        label="En bref"
+        points={[
+          "Adapte-toi est le média indépendant qui décrypte l'impact de l'IA sur le travail en France : actu, fiches métier, guides de reconversion et formations.",
+          "Baromètre #1 (avril 2026) : indice d'exposition IA de la France à 62/100, et 47 % des actifs envisagent une reconversion.",
+          "Côté emploi : -67 % d'offres dans les centres d'appels, et 12 des 25 métiers suivis restent résilients face à l'IA.",
+          "Chiffres propriétaires, méthodologie publique et données libres de citation.",
+        ]}
+      />
+    </div>
+  </section>
 
   {/* 2. Problème - chiffres choc */}
   <Problem />
