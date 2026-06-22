@@ -1,5 +1,5 @@
 ---
-title: "Algorithmes de recrutement : quand l'IA choisit à ta place (et ça craint)"
+title: "Algorithmes recrutement : l'IA choisit, ses pièges 2026"
 description: "Les algorithmes de recommandation envahissent les RH. Ils promettent de matcher candidats et postes, mais cachent des biais, du shadow using et un droit à la traîne. On décrypte."
 date: 2026-06-17
 category: "outil"

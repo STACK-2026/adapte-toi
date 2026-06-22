@@ -1,5 +1,5 @@
 ---
-title: "Google mise 40 milliards sur Anthropic, et ça va tout casser sur le marché de l'IA"
+title: "Google Anthropic : 40 Mrds, l'IA s'emballe"
 description: "Google injecte jusqu'à 40 milliards dans Anthropic, son rival en IA. Un coup de poker qui va accélérer la course aux talents, aux puces et aux emplois,..."
 image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureau vide la nuit avec ecran allume affichant une interface d'agent IA en activite"

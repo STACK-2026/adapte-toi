@@ -1,5 +1,5 @@
 ---
-title: "\"Ne faites plus d'études\" : Alexandre et Babeau signent le livre qui fait trembler l'université française"
+title: "Ne faites plus d'études\" : Alexandre & Babeau, avis 2026"
 description: "Décryptage du pavé d'octobre 2025 de Laurent Alexandre et Olivier Babeau. Pourquoi leur thèse divise, ce qu'elle dit vraiment, et ce que ça change pour toi..."
 image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureaux corporate avec open space et ecran d'ordinateur affichant un graphique financier"

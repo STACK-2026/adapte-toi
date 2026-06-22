@@ -1,5 +1,5 @@
 ---
-title: "Quel niveau d'IA as-tu ? Le quiz pour choisir ta formation en 2026"
+title: "Quiz IA : Évalue ton niveau, choisis ta formation 2026"
 description: "Quiz autodiagnostic gratuit : évalue ton niveau IA en 10 questions et reçois un parcours de formation personnalisé. Débutant, intermédiaire, avancé."
 image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Etudiant prenant des notes lors d'une formation"

@@ -1,5 +1,5 @@
 ---
-title: "Assistant administratif et IA en 2026 : 90% automatisé, reconversion urgente"
+title: "Assistant administratif IA 2026 : 90% auto, reconversion"
 description: "Assistant administratif face à l'IA en 2026 : score 9/10, salaires, reconversion vers Office Manager IA-ready ou Customer Success Manager."
 image: "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureau de fintech avec ecrans de paiement et logo flou en arriere-plan"

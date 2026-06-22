@@ -1,5 +1,5 @@
 ---
-title: "Copywriter et IA en 2026 : -53% d'offres généralistes, +40% sur la spécialisation"
+title: "Copywriter et IA 2026 : -53% généralistes, +40% spécialistes"
 description: "Copywriter face à l'IA en 2026 : score 8/10, salaires, outils (Claude, ChatGPT, Surfer SEO), trajectoires Brand Voice et UX Writing premium."
 image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureau vide la nuit avec ecran allume affichant une interface d'agent IA en activite"

@@ -1,5 +1,5 @@
 ---
-title: "Meta licencie 8000 personnes pour financer son pari IA : ce que ça change pour ton job en France"
+title: "Meta licencie pour l'IA : quel impact sur ton emploi 2026 ?"
 description: "Le 20 mai 2026, Meta démarre un plan de 8000 suppressions de postes (10% des effectifs) pour libérer 115 à 135 milliards de dollars de capex IA. Décryptage..."
 date: 2026-05-05
 category: "etude"

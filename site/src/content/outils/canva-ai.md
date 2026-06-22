@@ -1,5 +1,5 @@
 ---
-title: "Canva AI en français : guide complet 2026 (Magic Studio, prix, avis)"
+title: "Canva AI : Maîtrisez Magic Studio, prix & avis 2026"
 description: "Canva AI en 2026 : Magic Design + Magic Resize + Magic Edit + Magic Switch, prix Free/Pro/Teams, alternative Adobe Express pour CMs et marketeurs."
 outil: "Canva AI"
 category: "Image"

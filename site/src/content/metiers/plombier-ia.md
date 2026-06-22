@@ -1,5 +1,5 @@
 ---
-title: "Plombier et IA en 2026 : 64K projets BMO, le métier le plus SAFE"
+title: "Plombier, IA 2026 : le métier le plus SAFE (score 1/10)"
 description: "Plombier face à l'IA en 2026 : score 1/10 (le plus SAFE), salaires, BMO 64K projets non pourvus dans le BTP, métier manuel irremplaçable."
 image: "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureau de fintech avec ecrans de paiement et logo flou en arriere-plan"

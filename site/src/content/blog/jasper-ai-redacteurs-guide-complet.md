@@ -1,5 +1,5 @@
 ---
-title: "Jasper AI pour rédacteurs : guide complet d'utilisation en 2026"
+title: "Jasper AI pour rédacteurs : guide pratique & avis 2026"
 description: "Jasper AI passé au crible pour les rédacteurs : fonctionnalités clés, tarifs 2026, comparatif avec ChatGPT et impact réel sur le métier. Guide Adapte-toi."
 image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Redacteur professionnel travaillant sur un ordinateur portable avec une tasse de cafe"

@@ -1,5 +1,5 @@
 ---
-title: "Oracle licencie jusqu'à 30 000 salariés pour financer son pari IA à 300 milliards : ce que ça change pour ton job"
+title: "Oracle licencie 30 000 pour l'IA : quel impact sur ton job ?"
 description: "Oracle a annoncé fin mars 2026 jusqu'à 30 000 licenciements par e-mail (18% des effectifs) pour absorber le contrat Stargate OpenAI à 300 milliards...."
 date: 2026-04-30
 category: "menace"

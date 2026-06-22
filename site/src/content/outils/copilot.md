@@ -1,5 +1,5 @@
 ---
-title: "GitHub Copilot en français : guide complet 2026 (avis, tutoriel, prix)"
+title: "GitHub Copilot en français : guide, avis, prix 2026"
 description: "GitHub Copilot en 2026 : tutoriel installation 5 min, plans gratuit/Pro/Business, cas pratiques, comparatif Cursor, limites. Le guide pour devs francophones."
 outil: "GitHub Copilot"
 category: "Code"

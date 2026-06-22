@@ -1,5 +1,5 @@
 ---
-title: "Stanford lance les AI Economic Indicators : le tracker emploi qui va changer ta lecture de l'IA en 2026"
+title: "IA emploi : Indicateurs économiques Stanford 2026"
 description: "Le 10 juin 2026, Stanford ouvre un tableau de bord public sur l'impact réel de l'IA sur l'emploi. Brynjolfsson, ADP et trois dashboards : voici ce que ça change pour toi."
 date: 2026-06-11
 category: "etude"

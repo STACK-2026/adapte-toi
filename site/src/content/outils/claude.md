@@ -1,5 +1,5 @@
 ---
-title: "Claude IA en français : guide complet 2026 (avis, tutoriel, cas pro)"
+title: "Claude IA en français : guide pro pour maîtriser l'IA 2026"
 description: "Claude (Anthropic) en français en 2026 : tutoriel, plans gratuit/Pro/Max, cas pratiques reconversion, limites. Le guide pour les pros francophones."
 outil: "Claude"
 category: "Assistant"

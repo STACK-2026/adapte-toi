@@ -1,5 +1,5 @@
 ---
-title: "L'IA coûte trop cher : les entreprises freinent brutalement (et c'est une bonne nouvelle pour toi)"
+title: "IA trop chère : Les entreprises freinent, ton atout 2026"
 description: "Amazon, Uber, et d'autres géants réduisent leurs dépenses IA après avoir réalisé que les coûts explosent. Décryptage des vrais impacts sur ton job et tes compétences."
 date: 2026-06-20
 category: "outil"

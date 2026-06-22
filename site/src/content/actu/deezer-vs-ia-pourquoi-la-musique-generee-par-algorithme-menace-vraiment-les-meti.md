@@ -1,5 +1,5 @@
 ---
-title: "Deezer vs IA : pourquoi la musique générée par algorithme menace (vraiment) les métiers de la création"
+title: "Musique IA : la création menacée en 2026 ?"
 description: "44% des nouveaux titres sur Deezer sont générés par IA. Mais les artistes et techniciens du son perdent streams et revenus. On décrypte l'impact concret sur ton emploi."
 date: 2026-06-09
 category: "outil"

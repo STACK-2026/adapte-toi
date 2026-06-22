@@ -1,5 +1,5 @@
 ---
-title: "Make.com en français : guide complet 2026 (avis, prix, automation IA)"
+title: "Make.com : Guide automation IA 2026, avis & prix"
 description: "Make.com en 2026 : automation no-code la plus puissante, intégration ChatGPT API, prix Free/Core/Pro/Teams, ROI x10 pour freelances et PME."
 outil: "Make.com"
 category: "Automation"

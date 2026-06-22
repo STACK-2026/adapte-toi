@@ -1,5 +1,5 @@
 ---
-title: "Meta mise 100 milliards dans l'IA : le coup de poker qui va secouer ton boulot"
+title: "Meta IA : 100 milliards, ton emploi transformé en 2026"
 description: "Mark Zuckerberg engage 100 milliards pour transformer Meta en géant de l'IA. Décryptage des impacts concrets sur ton emploi, tes compétences et ta reconversion."
 date: 2026-06-03
 category: "annonce"

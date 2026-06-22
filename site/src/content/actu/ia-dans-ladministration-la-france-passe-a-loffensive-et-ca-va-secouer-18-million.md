@@ -1,5 +1,5 @@
 ---
-title: "IA dans l'administration : la France passe à l'offensive (et ça va secouer 1,8 million de fonctionnaires)"
+title: "IA fonctionnaires : La stratégie France 2026 impacte 1,8M"
 description: "Le gouvernement lance une stratégie IA massive pour l'État : 665 millions d'euros, un assistant souverain pour 1,8 million d'agents, et Palantir remplacé par ChapsVision. Décryptage des impacts concrets sur ton boulot, ta reconversion et la souveraineté"
 date: 2026-06-19
 category: "politique"

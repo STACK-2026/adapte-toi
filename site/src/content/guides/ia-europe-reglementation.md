@@ -1,5 +1,5 @@
 ---
-title: "L'IA en Europe : réglementation, emploi et opportunités en 2026"
+title: "IA Europe : Réglementation, Emploi, Opportunités 2026"
 description: "EU AI Act, marché de l'emploi IA en Europe, opportunités par pays. Le guide pour comprendre le paysage européen."
 image: "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureau de fintech avec ecrans de paiement et logo flou en arriere-plan"

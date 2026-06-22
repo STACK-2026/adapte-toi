@@ -1,5 +1,5 @@
 ---
-title: "Emploi IA France 2026 : 4M postes menacés, 78M créés, 8 métiers en tension"
+title: "Emploi IA France 2026 : Postes, salaires, reconversion"
 description: "Marché emploi IA France 2026 : salaires réels, métiers porteurs, reconversions concrètes. Données sourcées, zéro bullshit. 4M+ postes menacés, 78M créés."
 image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureau vide la nuit avec écran allumé affichant une interface d'agent IA en activité"

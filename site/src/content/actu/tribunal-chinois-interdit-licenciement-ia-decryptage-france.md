@@ -1,5 +1,5 @@
 ---
-title: "Un tribunal chinois interdit de licencier pour cause d'IA : ce que ça change pour ton job en France"
+title: "Licenciement IA : Chine interdit, quel impact en France ?"
 description: "Le 30 avril 2026, le tribunal intermédiaire de Hangzhou a jugé illégal le licenciement d'un salarié remplacé par un grand modèle de langage. Décryptage..."
 date: 2026-05-04
 category: "politique"

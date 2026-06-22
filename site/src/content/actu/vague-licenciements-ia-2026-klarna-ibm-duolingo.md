@@ -1,5 +1,5 @@
 ---
-title: "Klarna, IBM, Duolingo, Salesforce : la vague de licenciements IA de 2025-2026 assume enfin son nom"
+title: "Licenciements IA 2026 : les CEO avouent la vraie cause"
 description: "Pendant deux ans, les plans sociaux évoquaient la 'réorganisation'. Depuis six mois, les CEO nomment explicitement l'IA comme cause. On a listé les..."
 image: "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureau de freelance avec ordinateur portable, carnet et café, lumière du matin"

@@ -1,5 +1,5 @@
 ---
-title: "Analyste financier et IA en 2026 : 70% des modèles automatisés, le jugement humain prime"
+title: "Analyste financier : IA 2026, l'humain prime, salaires"
 description: "Analyste financier face à l'IA en 2026 : score 7/10, salaires, outils (Claude, ChatGPT, Bloomberg GPT), trajectoires CFO et Investment Director."
 image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureaux corporate avec open space et ecran d'ordinateur affichant un graphique financier"

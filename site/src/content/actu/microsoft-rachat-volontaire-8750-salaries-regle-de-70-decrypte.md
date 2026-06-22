@@ -1,5 +1,5 @@
 ---
-title: "Microsoft propose un rachat volontaire à 8 750 salariés pour financer son pari IA : décryptage de la règle de 70"
+title: "Microsoft: Plan départs IA 2026, règle de 70 décryptée"
 description: "Microsoft a annoncé le 23 avril 2026 un plan de départs volontaires inédit, visé par environ 8 750 salariés américains via la règle de 70 (âge +..."
 date: 2026-05-18
 category: "menace"

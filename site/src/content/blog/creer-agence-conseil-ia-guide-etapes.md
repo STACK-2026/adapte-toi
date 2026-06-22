@@ -1,5 +1,5 @@
 ---
-title: "Créer une agence de conseil IA : le guide étape par étape (2026)"
+title: "Créer une agence conseil IA : guide complet 2026"
 description: "Créer une agence de conseil IA en 2026 : proposition de valeur, statut juridique, offre, pricing, recrutement et premiers clients. Guide concret et sourcé."
 image: "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Petite équipe réunie autour d'une table de travail avec ordinateurs portables dans un bureau lumineux"

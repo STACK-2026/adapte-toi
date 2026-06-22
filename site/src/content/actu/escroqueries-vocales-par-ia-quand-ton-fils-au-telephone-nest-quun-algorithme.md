@@ -1,5 +1,5 @@
 ---
-title: "Escroqueries vocales par IA : quand ton fils au téléphone n'est qu'un algorithme"
+title: "Escroqueries vocales IA : Ton enfant, une voix clonée 2026 ?"
 description: "Les clones vocaux dopés à l'IA transforment les arnaques téléphoniques en cauchemar émotionnel. 893 millions de dollars perdus aux États-Unis en 2025 - et la France n'est pas"
 date: 2026-06-03
 category: "menace"

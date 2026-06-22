@@ -1,5 +1,5 @@
 ---
-title: "AI washing 2026 : pourquoi les entreprises t'enfument quand elles licencient au nom de l'IA"
+title: "AI washing 2026 : l'IA, prétexte aux licenciements"
 description: "Oxford Economics et Challenger Gray démontent le narratif des licenciements IA en 2026 : 27 645 suppressions imputées à l'IA au T1 aux États-Unis, mais 39%..."
 date: 2026-05-02
 category: "etude"

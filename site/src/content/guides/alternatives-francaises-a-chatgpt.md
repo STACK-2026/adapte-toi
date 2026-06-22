@@ -1,5 +1,5 @@
 ---
-title: "Alternatives françaises à ChatGPT en 2026 : Le Chat Mistral et autres"
+title: "Alternatives ChatGPT France 2026 : IA souveraine"
 description: "Les 5 alternatives françaises à ChatGPT en 2026 : Le Chat Mistral, Albert, Lumières, Hugging Chat. RGPD, prix, qualité, verdict honnête."
 image: "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureau de fintech avec ecrans de paiement et logo flou en arriere-plan"

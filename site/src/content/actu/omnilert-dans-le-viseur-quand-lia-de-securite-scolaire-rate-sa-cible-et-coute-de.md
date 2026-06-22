@@ -1,5 +1,5 @@
 ---
-title: "Omnilert dans le viseur : quand l'IA de sécurité scolaire rate sa cible et coûte des vies"
+title: "IA sécurité scolaire 2026 : plainte après échec fatal"
 description: "Une plainte aux États-Unis révèle les limites d'un système d'IA censé détecter les armes à l'école. Entre promesses marketing et réalité tragique, qui paie l'addition ?"
 date: 2026-06-10
 category: "outil"

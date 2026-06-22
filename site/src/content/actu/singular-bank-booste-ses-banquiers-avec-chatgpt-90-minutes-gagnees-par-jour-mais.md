@@ -1,5 +1,5 @@
 ---
-title: "Singular Bank booste ses banquiers avec ChatGPT : 90 minutes gagnées par jour, mais à quel prix pour les emplois ?"
+title: "ChatGPT en banque : 90 min/jour gagnées. Quel coût humain ?"
 description: "Une banque madrilène économise 60 à 90 minutes par jour et par banquier grâce à ChatGPT et Codex. L'IA ne remplace pas les humains... pour l'instant."
 date: 2026-06-04
 category: "outil"

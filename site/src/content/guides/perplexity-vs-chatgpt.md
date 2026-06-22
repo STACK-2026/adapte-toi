@@ -1,5 +1,5 @@
 ---
-title: "Perplexity vs ChatGPT : lequel choisir en 2026 (verdict par métier)"
+title: "Perplexity vs ChatGPT : Lequel choisir par métier 2026 ?"
 description: "Perplexity ou ChatGPT en 2026 ? Tableau comparatif, prix, version française, verdict par profil. Le guide tranché pour choisir le bon outil."
 image: "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Logo Meta sur une façade d'immeuble en verre, ambiance corporate moderne"

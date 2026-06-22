@@ -1,5 +1,5 @@
 ---
-title: "Psychologue et IA en 2026 : thérapie assistée et nouveaux métiers"
+title: "Psychologue et IA 2026 : nouveaux métiers, thérapie assistée"
 description: "Psychologue face à l'IA : thérapie assistée, chatbots, déontologie, nouveaux métiers et reconversion. Analyse sans détour et plan d'action concret pour 2026."
 date: 2026-06-10
 author: "La Rédaction Adapte-toi"

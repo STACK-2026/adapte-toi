@@ -1,5 +1,5 @@
 ---
-title: "Bilan de compétences IA : le guide complet pour se reconvertir en 2026"
+title: "Bilan de compétences IA : Réussir sa reconversion 2026"
 description: "Bilan de compétences IA : méthode en 5 étapes, financement CPF, grille d'auto-évaluation et erreurs à éviter pour réussir ta reconversion à l'ère de l'IA."
 image: "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Personne analysant des documents et un ordinateur portable pour faire le point sur sa carriere"

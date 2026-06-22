@@ -1,5 +1,5 @@
 ---
-title: "Gemini 2.0 débarque : Google lance l'ère des agents IA qui vont te remplacer (ou t'aider)"
+title: "Gemini 2.0 : L'IA agent de Google, remplacer ou aider ?"
 description: "Google sort Gemini 2.0, un modèle d'IA conçu pour agir à ta place. Voici ce que ça change pour ton job, ta reconversion, et comment en tirer parti avant que..."
 image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Etudiant prenant des notes lors d'une formation"

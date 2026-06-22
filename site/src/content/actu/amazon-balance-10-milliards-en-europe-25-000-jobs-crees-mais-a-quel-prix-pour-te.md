@@ -1,5 +1,5 @@
 ---
-title: "Amazon balance 10 milliards en Europe : 25 000 jobs créés, mais à quel prix pour tes compétences ?"
+title: "Amazon: 10 Mrds, 25 000 jobs. Vos compétences menacées ?"
 description: "Amazon injecte 10 milliards d'euros en Europe, promet 25 000 emplois, et déploie des robots qui parlent. Derrière le discours officiel, l'automatisation avance, et ton job"
 date: 2026-06-08
 category: "menace"

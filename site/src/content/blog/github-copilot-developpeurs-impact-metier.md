@@ -1,5 +1,5 @@
 ---
-title: "GitHub Copilot pour développeurs : Impact sur le métier en 2026"
+title: "GitHub Copilot : Impact métier développeur 2026"
 description: "GitHub Copilot transforme le métier de développeur en 2026 : gains de productivité réels, risques cachés, alternatives et plan pour rester employable."
 date: 2026-06-03
 author: "Camille Renard"

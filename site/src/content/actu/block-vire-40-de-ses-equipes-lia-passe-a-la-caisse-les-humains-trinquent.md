@@ -1,5 +1,5 @@
 ---
-title: "Block vire 40% de ses équipes : l'IA passe à la caisse, les humains trinquent"
+title: "Block : L'IA supprime 40% des emplois en 2026"
 description: "Block, géant des paiements, licencie 4 000 personnes en misant tout sur l'IA. Un séisme dans la tech qui annonce une vague de suppressions d'emplois blancs."
 image: "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureau de freelance avec ordinateur portable, carnet et café, lumière du matin"

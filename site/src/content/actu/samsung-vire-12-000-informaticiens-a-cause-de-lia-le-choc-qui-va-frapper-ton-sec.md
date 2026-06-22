@@ -1,5 +1,5 @@
 ---
-title: "Samsung vire 12 000 informaticiens à cause de l'IA : le choc qui va frapper ton secteur"
+title: "Samsung : l'IA licencie 12 000 IT. Ton emploi en 2026 ?"
 description: "Samsung supprime 12 000 postes IT en 18 mois grâce à l'IA. Décryptage des métiers menacés, des secteurs épargnés, et des actions concrètes pour toi avant que ton job ne soit automatisé."
 date: 2026-06-20
 category: "menace"

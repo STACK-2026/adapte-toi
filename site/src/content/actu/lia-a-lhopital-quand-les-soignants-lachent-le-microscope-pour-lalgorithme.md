@@ -1,5 +1,5 @@
 ---
-title: "L'IA à l'hôpital : quand les soignants lâchent le microscope pour l'algorithme"
+title: "IA à l'hôpital : diagnostic rapide, métiers transformés"
 description: "Au CHU de Lille, l'IA redessine les métiers de la santé : moins de lames en verre, plus de diagnostics en temps réel. Mais qui gagne vraiment dans cette révolution ?"
 date: 2026-06-06
 category: "outil"

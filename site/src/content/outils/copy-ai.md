@@ -1,5 +1,5 @@
 ---
-title: "Copy.ai en français : guide complet 2026 (avis, prix, alternatives)"
+title: "Copy.ai en français : Avis, Prix & Alternatives 2026"
 description: "Copy.ai en 2026 : rédaction marketing IA en français, plan free 2K mots, prix Pro/Team, comparatif Jasper et ChatGPT."
 outil: "Copy.ai"
 category: "Rédaction marketing"

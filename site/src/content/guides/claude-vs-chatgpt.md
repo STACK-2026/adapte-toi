@@ -1,5 +1,5 @@
 ---
-title: "Claude vs ChatGPT : lequel choisir en 2026 (verdict par métier)"
+title: "Claude vs ChatGPT : Choisir son IA, guide pro 2026"
 description: "Claude ou ChatGPT en 2026 ? Comparatif détaillé prix, contexte, écriture, code, version française. Le guide tranché pour choisir."
 image: "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Logo Meta sur une façade d'immeuble en verre, ambiance corporate moderne"

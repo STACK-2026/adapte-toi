@@ -1,5 +1,5 @@
 ---
-title: "Descript en français : guide complet 2026 (avis, prix, édition vidéo IA)"
+title: "Descript : Édition vidéo/audio par texte IA 2026"
 description: "Descript en 2026 : édition vidéo/audio par texte, voice cloning Overdub, suppression silences, prix Free/Hobbyist/Pro. Pour podcasteurs et créateurs."
 outil: "Descript"
 category: "Vidéo et audio"

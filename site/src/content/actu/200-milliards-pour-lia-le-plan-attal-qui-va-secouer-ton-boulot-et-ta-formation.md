@@ -1,5 +1,5 @@
 ---
-title: "200 milliards pour l'IA : le plan Attal qui va secouer ton boulot (et ta formation)"
+title: "Plan Attal IA : impact sur ton emploi et ta formation"
 description: "Gabriel Attal mise 200 milliards sur l'IA d'ici 2040. On décrypte ce que ça change pour ton emploi, ta reconversion et ton portefeuille."
 date: 2026-06-18
 category: "politique"

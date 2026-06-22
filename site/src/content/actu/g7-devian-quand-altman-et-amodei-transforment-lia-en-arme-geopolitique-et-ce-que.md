@@ -1,5 +1,5 @@
 ---
-title: "G7 d'Évian : quand Altman et Amodei transforment l'IA en arme géopolitique (et ce que ça change pour ton job)"
+title: "IA arme géopolitique : G7 2026, Altman, Amodei, ton job"
 description: "Sam Altman et Dario Amodei ont déjeuné avec les chefs d'État du G7 à Évian. Leur message ? L'IA n'est plus un outil, c'est un champ de bataille. Décryptage des conséquences"
 date: 2026-06-17
 category: "voix"

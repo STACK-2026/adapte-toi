@@ -1,5 +1,5 @@
 ---
-title: "Salesforce vire 86 personnes dont l'équipe Agentforce IA en juin 2026 : le paradoxe qui en dit long sur ton job"
+title: "Salesforce 2026 : Agentforce IA virée. 86 postes. Ton job?"
 description: "Le 9 juin 2026, Salesforce coupe 86 postes en Californie, dont l'équipe Agentforce IA, MuleSoft et Marketing Cloud. Décryptage pour la France."
 date: 2026-06-15
 category: "menace"

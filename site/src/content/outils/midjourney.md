@@ -1,5 +1,5 @@
 ---
-title: "Midjourney prix et avis 2026 : guide complet (plans, ROI, cas pro)"
+title: "Midjourney Prix 2026 : Le guide pro des plans"
 description: "Midjourney en 2026 : tableau prix complet (Basic/Standard/Pro/Mega), ROI par métier, cas pratiques freelances, comparatif DALL-E, limites. Le guide tranché."
 outil: "Midjourney"
 category: "Image"

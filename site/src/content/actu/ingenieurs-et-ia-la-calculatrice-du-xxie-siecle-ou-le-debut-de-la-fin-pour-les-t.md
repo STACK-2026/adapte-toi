@@ -1,5 +1,5 @@
 ---
-title: "Ingénieurs et IA : la calculatrice du XXIe siècle ou le début de la fin pour les tâches complexes ?"
+title: "Ingénieurs et IA : assistant, enjeux et avenir en 2026"
 description: "Trois ingénieurs témoignent : l'IA est devenue leur assistant quotidien, mais son adoption reste fragmentée, entre gains de temps et craintes écologiques...."
 image: "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureau de freelance avec ordinateur portable, carnet et café, lumière du matin"

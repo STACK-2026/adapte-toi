@@ -1,5 +1,5 @@
 ---
-title: "Upwork licencie 24% de ses effectifs en mai 2026 : la plateforme freelance acte l'IA agentique"
+title: "Upwork licencie 24% 2026 : l'IA bouleverse la plateforme"
 description: "Le 7 mai 2026, Upwork annonce 145 suppressions de postes (environ 24% des salariés) au moment des résultats Q1. La CEO Hayden Brown justifie par l'IA et..."
 date: 2026-05-16
 category: "menace"

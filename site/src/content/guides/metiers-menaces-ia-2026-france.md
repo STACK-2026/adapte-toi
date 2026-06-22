@@ -1,5 +1,5 @@
 ---
-title: "Métiers menacés par l'IA en 2026 : liste complète France + plan d'action"
+title: "Métiers menacés par l'IA 2026 : liste France, s'adapter"
 description: "Les 12 métiers les plus exposés et les 8 mieux protégés en France 2026. Données OCDE, Coface, Anthropic. Plan d'adaptation en 5 étapes."
 image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Salle serveur d'un data center avec baies réseau alignées, lumière bleutée"

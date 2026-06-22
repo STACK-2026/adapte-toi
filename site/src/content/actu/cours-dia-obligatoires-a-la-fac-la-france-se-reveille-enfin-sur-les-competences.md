@@ -1,5 +1,5 @@
 ---
-title: "Cours d'IA obligatoires à la fac : la France se réveille (enfin) sur les compétences du futur"
+title: "Cours IA obligatoires fac : tous les étudiants en 2026"
 description: "Le ministre de l'Enseignement supérieur veut des modules IA obligatoires pour tous les étudiants, de la philo à la chaudronnerie. Une révolution ou un effet d'annonce ? On"
 date: 2026-06-09
 category: "politique"

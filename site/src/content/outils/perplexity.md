@@ -1,5 +1,5 @@
 ---
-title: "Perplexity AI en français : guide complet 2026 (avis, tutoriel, cas pratiques)"
+title: "Perplexity AI en français : Tutoriel pro 2026"
 description: "Perplexity AI en français en 2026 : tutoriel pas à pas, prix, cas d'usage par métier, comparatif Google, limites. Le guide qui sort des banalités."
 outil: "Perplexity"
 category: "Recherche"

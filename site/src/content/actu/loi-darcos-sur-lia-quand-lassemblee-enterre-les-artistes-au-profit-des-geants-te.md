@@ -1,5 +1,5 @@
 ---
-title: "Loi Darcos sur l'IA : quand l'Assemblée enterre les artistes au profit des géants tech"
+title: "Loi Darcos IA 2026 : artistes perdent, tech gagnent"
 description: "Le 11 juin 2026, l'Assemblée nationale a enterré une loi transpartisane protégeant les artistes du moissonnage par l'IA. Derrière ce blocage, le lobbying de Mistral AI et des"
 date: 2026-06-12
 category: "politique"

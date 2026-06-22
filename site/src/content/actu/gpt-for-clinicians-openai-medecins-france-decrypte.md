@@ -1,5 +1,5 @@
 ---
-title: "GPT for Clinicians : OpenAI cible les médecins, ce que ça change pour la médecine française"
+title: "GPT pour médecins : l'impact en France en 2026"
 description: "OpenAI déploie GPT spécialisé clinicien dans les hôpitaux US. La France suit avec encadrement strict. Décryptage de l'impact réel sur les 32K postes..."
 image: "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Façade de la Maison Blanche au crépuscule, ambiance politique américaine"

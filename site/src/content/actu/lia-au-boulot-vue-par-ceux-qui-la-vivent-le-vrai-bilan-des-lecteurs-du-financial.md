@@ -1,5 +1,5 @@
 ---
-title: "L'IA au boulot vue par ceux qui la vivent : le vrai bilan des lecteurs du Financial Times"
+title: "IA au travail : vos tâches changent, bilan 2026"
 description: "Le Financial Times a demandé à ses lecteurs comment l'IA change leur travail. Résultat : des témoignages crus qui montrent que l'automatisation ne tue pas les jobs, mais les"
 date: 2026-06-11
 category: "outil"

@@ -1,5 +1,5 @@
 ---
-title: "Google lance Gemini Spark, l'agent IA qui bosse 24/7 à ta place : ce que ça change vraiment pour ton emploi en France"
+title: "Gemini Spark : L'IA bosse à votre place. Emploi France 2026"
 description: "Google dévoile Gemini Spark le 19 mai 2026, agent IA personnel actif en continu sur Google Cloud. Décryptage de l'impact sur les métiers de bureau français."
 date: 2026-05-21
 category: "annonce"

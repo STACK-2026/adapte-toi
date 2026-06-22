@@ -1,5 +1,5 @@
 ---
-title: "Chef de projet et IA en 2026 : -48% d'offres mais Product Manager IA en demande"
+title: "Chef de projet IA 2026 : -48%, Product Manager IA explose"
 description: "Chef de projet face à l'IA en 2026 : score 7/10, salaires, outils (Notion AI, ChatGPT, Otter), trajectoires Product Manager et Program Manager."
 image: "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureau de fintech avec ecrans de paiement et logo flou en arriere-plan"

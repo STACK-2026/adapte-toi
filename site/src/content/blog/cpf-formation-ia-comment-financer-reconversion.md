@@ -1,5 +1,5 @@
 ---
-title: "Mon Compte Formation IA 2026 : 5 formations CPF éligibles + aides cumulables"
+title: "CPF IA 2026 : Formations éligibles, aides & pièges"
 description: "Mon Compte Formation IA 2026 : 5 formations CPF analysées, aides France Travail cumulables, +25% salaire moyen post-formation (PwC)."
 image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Etudiant prenant des notes lors d'une formation"

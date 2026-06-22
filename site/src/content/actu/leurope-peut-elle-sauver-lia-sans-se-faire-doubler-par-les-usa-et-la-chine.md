@@ -1,5 +1,5 @@
 ---
-title: "L'Europe peut-elle sauver l'IA sans se faire doubler par les USA et la Chine ?"
+title: "Europe IA : Éviter le risque d'être distancée par USA/Chine"
 description: "Gilles Babinet et Pascale Seivy tirent la sonnette d'alarme : l'Europe a les moyens de réguler l'IA pour en faire un levier écologique et souverain, mais..."
 image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureau vide la nuit avec ecran allume affichant une interface d'agent IA en activite"

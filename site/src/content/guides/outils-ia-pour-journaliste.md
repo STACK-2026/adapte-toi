@@ -1,5 +1,5 @@
 ---
-title: "Outils IA pour journaliste en 2026 : top 5 testés (charte rédaction)"
+title: "Outils IA pour journaliste 2026 : Top 5 testés"
 description: "Les 5 meilleurs outils IA pour journalistes francophones en 2026 : Perplexity, Claude, ChatGPT, Otter, Notion. Vérification, sources, déontologie."
 image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureau vide la nuit avec ecran allume affichant une interface d'agent IA en activite"

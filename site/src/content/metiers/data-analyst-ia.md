@@ -1,5 +1,5 @@
 ---
-title: "Data analyst et IA en 2026 : 30K projets recrutement, +35% de salaire"
+title: "Data Analyst 2026 : IA transforme, 30K postes, 38-80K"
 description: "Data analyst face à l'IA en 2026 : score 5/10 (transformé pas remplacé), salaires 38-80K, outils (Python, Claude, ChatGPT), trajectoire Data Scientist."
 image: "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureau de fintech avec ecrans de paiement et logo flou en arriere-plan"

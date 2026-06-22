@@ -1,5 +1,5 @@
 ---
-title: "Amazon balance 13 milliards dans Anthropic : l'IA qui va tout casser (et ce que ça change pour ton taf)"
+title: "Amazon Anthropic : 13 Mrds, la guerre de l'IA est lancée"
 description: "Amazon triple son investissement dans Anthropic et signe un contrat cloud à 100 milliards. Derrière les milliards, une guerre des puces, des métiers qui..."
 image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureau vide la nuit avec ecran allume affichant une interface d'agent IA en activite"

@@ -1,5 +1,5 @@
 ---
-title: "Jasper en français : guide complet 2026 (avis, prix, alternatives)"
+title: "Jasper en français : Verdict 2026, prix et alternatives"
 description: "Jasper en 2026 : rédaction marketing IA en français, brand voice, templates, prix Creator/Pro/Business, alternatives moins chères (ChatGPT, Claude)."
 outil: "Jasper"
 category: "Rédaction marketing"

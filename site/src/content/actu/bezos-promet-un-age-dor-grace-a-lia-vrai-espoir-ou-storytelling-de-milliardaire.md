@@ -1,5 +1,5 @@
 ---
-title: "Bezos promet un âge d'or grâce à l'IA : vrai espoir ou storytelling de milliardaire ?"
+title: "IA : Bezos promet l'âge d'or. Mythe ou réalité ?"
 description: "Jeff Bezos assure que l'IA va créer un 'âge d'or' sans destructions massives d'emplois. On décrypte ce que cache cette prophétie optimiste, et ce que ça change pour toi."
 date: 2026-06-11
 category: "voix"

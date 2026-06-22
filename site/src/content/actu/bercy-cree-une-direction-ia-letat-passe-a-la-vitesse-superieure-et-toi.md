@@ -1,5 +1,5 @@
 ---
-title: "Bercy crée une direction IA : l'État passe à la vitesse supérieure (et toi ?)"
+title: "Bercy : l'État lance sa Direction IA, les enjeux"
 description: "La France lance sa première direction ministérielle dédiée à l'IA. Décryptage des enjeux concrets pour les fonctionnaires, les reconversions et le marché du travail."
 date: 2026-06-19
 category: "politique"

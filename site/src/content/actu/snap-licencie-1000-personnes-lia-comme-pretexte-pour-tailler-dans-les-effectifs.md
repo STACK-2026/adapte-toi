@@ -1,5 +1,5 @@
 ---
-title: "Snap licencie 1000 personnes : l'IA comme prétexte pour tailler dans les effectifs ?"
+title: "Snap licencie 1000 : l'IA, un prétexte masqué ?"
 description: "Snap supprime 1000 postes et justifie ça par l'IA. Mais derrière le discours tech, se cache une réalité moins reluisante : des économies forcées pour..."
 image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Salle serveur d'un data center avec baies réseau alignées, lumière bleutée"

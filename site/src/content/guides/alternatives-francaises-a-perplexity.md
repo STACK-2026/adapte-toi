@@ -1,5 +1,5 @@
 ---
-title: "Alternatives françaises à Perplexity en 2026 : Le Chat Mistral et autres"
+title: "Alternatives françaises Perplexity 2026 : Le Chat Mistral"
 description: "Les 5 alternatives françaises à Perplexity en 2026 : Le Chat Mistral, Lumières, Albert, Coqui, Hugging Chat FR. RGPD, prix, qualité, verdict."
 image: "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureau de fintech avec ecrans de paiement et logo flou en arriere-plan"

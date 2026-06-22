@@ -1,5 +1,5 @@
 ---
-title: "Indeed Hiring Lab avril 2026 : le marché de l'emploi recule, les offres IA explosent (le paradoxe français)"
+title: "Offres IA explosent, l'emploi recule en France (avril 2026)"
 description: "Le rapport Indeed Hiring Lab France avril 2026 confirme un paradoxe : volume d'offres divisé par 2 depuis décembre 2022, mais offres IA en progression. 21%..."
 image: "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Journaliste devant un ordinateur, salle de presse"

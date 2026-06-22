@@ -1,5 +1,5 @@
 ---
-title: "Ingénieur qualité face à l'IA : missions, reconversion et salaire (2026)"
+title: "Ingénieur Qualité IA : missions, salaire, reconversion 2026"
 description: "Ingénieur qualité face à l'IA en 2026 : missions, parcours de reconversion, salaires, certifications et compétences clés pour devenir qualité IA."
 image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Ingénieure qualité analysant des indicateurs de performance d'un modèle d'intelligence artificielle sur un écran"

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT en français : guide complet 2026 (avis, tutoriel, cas pro)"
+title: "ChatGPT en français : guide complet pro 2026"
 description: "ChatGPT en français en 2026 : tutoriel pas à pas, plans gratuit/Plus/Pro, 10 cas d'usage pro, limites. Le guide qui sort des banalités."
 outil: "ChatGPT"
 category: "Assistant"

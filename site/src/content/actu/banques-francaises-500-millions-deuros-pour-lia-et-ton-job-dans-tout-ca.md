@@ -1,5 +1,5 @@
 ---
-title: "Banques françaises : 500 millions d'euros pour l'IA, et ton job dans tout ça ?"
+title: "IA banques : quel impact sur ton emploi en 2026 ?"
 description: "Crédit Agricole investit 500 millions sur 3 ans pour industrialiser l'IA. Voici ce que ça change pour les salariés, les métiers et ta reconversion."
 date: 2026-06-10
 category: "annonce"

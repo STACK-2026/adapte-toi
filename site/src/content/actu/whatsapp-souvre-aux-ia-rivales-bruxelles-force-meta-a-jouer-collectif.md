@@ -1,5 +1,5 @@
 ---
-title: "WhatsApp s'ouvre aux IA rivales : Bruxelles force Meta à jouer collectif"
+title: "WhatsApp IA : L'UE impose l'ouverture aux rivaux 2026"
 description: "La Commission européenne impose à Meta de rouvrir WhatsApp aux assistants IA concurrents. Une décision qui rebat l'accès aux outils d'automatisation pour les indépendants."
 date: 2026-06-10
 category: "politique"

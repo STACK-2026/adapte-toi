@@ -1,5 +1,5 @@
 ---
-title: "Uber licencie 23% de son équipe RH en juin 2026 : le décryptage budget IA Claude Code"
+title: "Uber licencie 23% RH 2026 : l'IA Claude Code en cause ?"
 description: "Le 3 juin 2026, Uber supprime 23% de sa division People and Places. La direction nie tout lien avec l'IA. Six semaines avant, elle épuisait son budget Claude Code et Cursor en"
 date: 2026-06-06
 category: "menace"

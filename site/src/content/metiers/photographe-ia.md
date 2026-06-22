@@ -1,5 +1,5 @@
 ---
-title: "Photographe et IA en 2026 : stock mort, mariage et corporate explosent"
+title: "Photographe IA 2026 : stock mort, mariage corporate explose"
 description: "Photographe face à l'IA en 2026 : score 7/10, stock photo mort (Midjourney), mais mariage, corporate, événementiel +30% de demande humaine."
 image: "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Logo Meta sur une façade d'immeuble en verre, ambiance corporate moderne"

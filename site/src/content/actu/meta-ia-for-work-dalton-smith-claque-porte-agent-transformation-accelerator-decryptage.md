@@ -1,5 +1,5 @@
 ---
-title: "Meta : la patronne de l'IA pour automatiser le boulot claque la porte en plein chantier"
+title: "Meta IA : La cheffe de l'automatisation démissionne en 2026"
 description: "Le 18 juin 2026, Emily Dalton Smith quitte Meta deux mois après avoir pris la tête du programme Agent Transformation Accelerator. Ce que ce départ signale pour les salariés tech"
 date: 2026-06-20
 category: "menace"

@@ -1,5 +1,5 @@
 ---
-title: "Anthropic bloque ses IA en Europe : la tech française doit se réveiller (ou disparaître)"
+title: "Anthropic bloque IA Europe 2026 : réveil tech française"
 description: "Washington coupe l'accès aux modèles Mythos 5 et Fable 5 d'Anthropic. Pour les boîtes françaises, c'est le signal d'alarme : dépendre des géants américains, c'est jouer à la"
 date: 2026-06-15
 category: "menace"

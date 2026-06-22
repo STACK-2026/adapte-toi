@@ -1,5 +1,5 @@
 ---
-title: "Accenture s'effondre en Bourse : l'IA bouffe les consultants, et c'est que le début"
+title: "Accenture chute en Bourse : l'IA dévore les consultants"
 description: "Les actions d'Accenture plongent à leur plus bas depuis 2017 à cause de l'IA. Le géant du conseil paie son retard technologique et son modèle basé sur des armées de juniors. Décryptage sans filtre de ce qui t'attend si tu bosses dans le secteur."
 date: 2026-06-19
 category: "menace"

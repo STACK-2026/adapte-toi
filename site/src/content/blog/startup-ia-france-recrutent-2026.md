@@ -1,5 +1,5 @@
 ---
-title: "Startups IA françaises qui recrutent en 2026 : le vrai panorama"
+title: "Recrutement Startups IA France 2026 : qui embauche ?"
 description: "Quelles startups IA recrutent vraiment en France en 2026 ? Postes ouverts, profils en reconversion, candidature : panorama vérifié, zéro bullshit."
 image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Équipe d'une startup IA française réunie autour d'un écran affichant des offres de recrutement en 2026"

@@ -1,5 +1,5 @@
 ---
-title: "Outils IA pour RH et recruteur en 2026 : top 5 testés (RGPD inclus)"
+title: "Outils IA RH Recruteur 2026 : Top 5 testés RGPD"
 description: "Les 5 meilleurs outils IA pour RH et recruteurs en 2026 : ChatGPT, Claude, HireVue, Lever AI, Notion. Prompts, RGPD candidat, ROI mesuré."
 image: "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureau de fintech avec ecrans de paiement et logo flou en arriere-plan"

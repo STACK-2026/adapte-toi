@@ -1,5 +1,5 @@
 ---
-title: "IA et productivité : la semaine de 15h est-elle enfin réaliste ?"
+title: "IA : la semaine de 15h, mythe ou réalité en 2026 ?"
 description: "L'IA promet de booster la productivité, mais au prix d'une transformation radicale du travail. Entre mirage keynésien et réalité économique, on décrypte ce qui t'attend vraiment."
 date: 2026-06-02
 category: "etude"

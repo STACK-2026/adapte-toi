@@ -1,5 +1,5 @@
 ---
-title: "Agriculteur et IA en 2026 : drones, capteurs, l'agriculture de précision"
+title: "Agriculteur & IA 2026 : Métier SAFE, drones, capteurs"
 description: "Agriculteur face à l'IA en 2026 : score 2/10 (SAFE), salaires variables, agriculture de précision (drones, capteurs IA), terrain reste humain."
 image: "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureau de fintech avec ecrans de paiement et logo flou en arriere-plan"

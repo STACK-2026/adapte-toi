@@ -1,5 +1,5 @@
 ---
-title: "L'État veut imposer l'IA à 5,7 millions de fonctionnaires : ce que ça change pour toi"
+title: "IA fonctionnaires : l'impact pour vous dès 2026"
 description: "Bercy généralise un chatbot souverain et des outils d'IA dans toute la fonction publique d'ici fin 2026. Qui gagne, qui perd, et comment te préparer si tu bosses dans le public ou"
 date: 2026-06-16
 category: "politique"

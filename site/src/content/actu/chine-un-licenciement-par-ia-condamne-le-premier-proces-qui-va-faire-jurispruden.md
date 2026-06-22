@@ -1,5 +1,5 @@
 ---
-title: "Chine : un licenciement par IA condamné, le premier procès qui va faire jurisprudence"
+title: "Licenciement IA condamné en Chine 2026 : Jurisprudence"
 description: "Un tribunal chinois condamne une entreprise pour avoir viré un salarié remplacé par une IA. Premier cas mondial, cette décision pourrait inspirer les prud'hommes européens."
 date: 2026-06-12
 category: "menace"

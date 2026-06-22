@@ -1,5 +1,5 @@
 ---
-title: "Chargé de clientèle et IA en 2026 : -67% d'offres, urgence reconversion"
+title: "Chargé de clientèle : Impact IA 2026, reconversion urgente"
 description: "Chargé de clientèle face à l'IA en 2026 : score 9/10, salaires, urgence reconversion vers Customer Success Manager ou conseil expert."
 image: "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureau de fintech avec ecrans de paiement et logo flou en arriere-plan"

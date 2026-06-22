@@ -1,5 +1,5 @@
 ---
-title: "L'État passe à l'IA : 1,8 million de fonctionnaires bientôt équipés, mais à quel prix ?"
+title: "IA Fonctionnaires : 1,8M équipés, quels enjeux ?"
 description: "La France généralise l'IA dans l'administration avec un assistant souverain pour 1,8M d'agents. Budget explosif, souveraineté en question, et formation en retard : on décrypte les annonces de Lecornu."
 date: 2026-06-20
 category: "politique"

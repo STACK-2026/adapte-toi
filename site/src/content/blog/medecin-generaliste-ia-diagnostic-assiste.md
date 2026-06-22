@@ -1,5 +1,5 @@
 ---
-title: "Médecin généraliste et IA en 2026 : diagnostic assisté et métier"
+title: "Médecin généraliste et IA 2026 : diagnostic, usages, métier"
 description: "Médecin généraliste face à l'IA : diagnostic assisté, aide à la décision, déontologie, salaires et plan d'action concret pour s'adapter en 2026."
 date: 2026-06-16
 author: "La Rédaction Adapte-toi"

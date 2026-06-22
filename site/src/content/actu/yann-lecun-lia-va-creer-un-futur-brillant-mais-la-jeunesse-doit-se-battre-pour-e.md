@@ -1,5 +1,5 @@
 ---
-title: "Yann LeCun : l'IA va créer un futur brillant, mais la jeunesse doit se battre pour en profiter"
+title: "Yann LeCun : L'IA, futur brillant. Jeunesse doit s'en saisir"
 description: "Le pionnier de l'IA Yann LeCun appelle les jeunes à s'emparer des opportunités d'un futur dominé par l'IA. Mais derrière l'optimisme, des réalités moins brillantes se dessinent"
 date: 2026-06-15
 category: "voix"

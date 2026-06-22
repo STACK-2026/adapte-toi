@@ -1,5 +1,5 @@
 ---
-title: "Zapier en français : guide complet 2026 (avis, prix, comparatif Make)"
+title: "Zapier : Avis, prix, comparatif Make 2026"
 description: "Zapier en 2026 : automation no-code simple, 8000 apps, prix Free/Starter/Pro, alternatives moins chères (Make 9 euros, n8n)."
 outil: "Zapier"
 category: "Automation"

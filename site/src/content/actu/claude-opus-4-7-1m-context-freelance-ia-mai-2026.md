@@ -1,5 +1,5 @@
 ---
-title: "Claude Opus 4.7 et 1M de contexte : ce que la dernière sortie d'Anthropic change pour les freelances IA en France"
+title: "Claude Opus 4.7, 1M de contexte : Impact freelances IA 2026"
 description: "Anthropic a déployé en mai 2026 Claude Opus 4.7 et Sonnet 4.6 avec une fenêtre de contexte 1 million de tokens."
 date: 2026-05-26
 category: "annonce"

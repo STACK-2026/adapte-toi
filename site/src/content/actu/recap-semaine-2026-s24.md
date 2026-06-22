@@ -1,5 +1,5 @@
 ---
-title: "Récap semaine : 18 décryptages IA × emploi à retenir (7 June au 14 June 2026)"
+title: "IA Emploi : 18 décryptages semaine (7-14 juin 2026)"
 description: "Le résumé de la semaine sur Adapte-toi Décrypte : 18 décryptages sur l'IA, l'emploi et la reconversion. Les titres, les catégories, les liens directs."
 date: 2026-06-14
 category: "chiffre"

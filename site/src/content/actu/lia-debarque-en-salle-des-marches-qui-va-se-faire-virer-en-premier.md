@@ -1,5 +1,5 @@
 ---
-title: "L'IA débarque en salle des marchés : qui va se faire virer en premier ?"
+title: "IA finance : qui perd son emploi en salle des marchés 2026 ?"
 description: "BlackRock et Goldman Sachs automatisent 30% de leurs analyses avec des LLM. Qui perd sa place en salle des marchés, qui se reconvertit ?"
 date: 2026-06-13
 category: "outil"

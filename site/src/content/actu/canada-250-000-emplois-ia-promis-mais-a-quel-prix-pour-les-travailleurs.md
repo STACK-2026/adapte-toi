@@ -1,5 +1,5 @@
 ---
-title: "Canada : 250 000 emplois IA promis, mais à quel prix pour les travailleurs ?"
+title: "IA Canada : Emplois, promesses et menaces pour les salariés"
 description: "Ottawa lance sa stratégie 'L'IA pour tous' avec 250 000 emplois créés d'ici 2031, mais les 810 000 postes menacés au Québec rappellent que l'IA reste un jeu à somme nulle si on ne"
 date: 2026-06-04
 category: "politique"

@@ -1,5 +1,5 @@
 ---
-title: "Cursor IDE en français : guide complet 2026 (avis, tutoriel, ROI)"
+title: "Cursor : guide français 2026, avis & tuto"
 description: "Cursor en 2026 : l'IDE AI-first expliqué pour non-experts, tutoriel installation 5 min, prix, ROI, comparatif Copilot. Le guide pour pros francophones."
 outil: "Cursor"
 category: "Code"

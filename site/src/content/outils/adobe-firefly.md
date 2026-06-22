@@ -1,5 +1,5 @@
 ---
-title: "Adobe Firefly en français : guide complet 2026 (avis, ROI, sécurité IP)"
+title: "Adobe Firefly pro 2026 : Usage commercial + IP garantie"
 description: "Adobe Firefly en 2026 : Generative Fill Photoshop, droits commerciaux garantis Adobe, prix Creative Cloud, comparatif Midjourney. Le guide pour graphistes pros."
 outil: "Adobe Firefly"
 category: "Image"

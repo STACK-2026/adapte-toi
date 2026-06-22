@@ -1,5 +1,5 @@
 ---
-title: "HubSpot CRM en français : guide complet 2026 (avis, prix, IA native)"
+title: "HubSpot CRM 2026 : Avis, Prix, IA native & Gratuit"
 description: "HubSpot CRM en 2026 : CRM gratuit + IA native (lead scoring, drafts mails, prédictions), prix Starter/Pro/Enterprise, ROI pour PME et scale-ups."
 outil: "HubSpot CRM"
 category: "CRM et vente"

@@ -1,5 +1,5 @@
 ---
-title: "Architecte et IA en 2026 : conception assistée, le talent reste irremplaçable"
+title: "Architecte IA 2026 : métier transformé, pas remplacé"
 description: "Architecte face à l'IA en 2026 : score 4/10, salaires, outils (Midjourney, ChatGPT, Veras AI), conception et signature 100% humaines."
 image: "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureau de fintech avec ecrans de paiement et logo flou en arriere-plan"

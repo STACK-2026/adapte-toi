@@ -1,5 +1,5 @@
 ---
-title: "Anthropic suspend ses IA les plus puissantes : Washington bloque, le marché tremble"
+title: "Anthropic IA suspendues : Washington bloque, quel impact ?"
 description: "Anthropic désactive Fable 5 et Mythos 5 sur ordre de Washington au nom de la sécurité nationale. Ce que ça change pour ton job, et comment réagir."
 date: 2026-06-13
 category: "outil"

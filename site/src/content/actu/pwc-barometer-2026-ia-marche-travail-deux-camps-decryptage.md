@@ -1,5 +1,5 @@
 ---
-title: "Baromètre PwC 2026 : l'IA divise le marché du travail en deux camps, et il y a un côté gagnant"
+title: "IA Emploi : 2 camps, qui gagne ? +42% salaires 2026"
 description: "PwC analyse 1 milliard d'offres dans 27 pays. Verdict 15 juin 2026 : les métiers 'professionnalisés' explosent (+42% de salaire), les autres stagnent. En France, 178 000 offres IA et un piège pour les juniors."
 date: 2026-06-19
 category: "etude"

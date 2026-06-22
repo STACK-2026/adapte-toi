@@ -1,5 +1,5 @@
 ---
-title: "Midjourney vs DALL-E vs Firefly : duel pro 2026 (verdict par métier)"
+title: "Midjourney vs DALL-E vs Firefly : Lequel choisir pro 2026 ?"
 description: "Midjourney, DALL-E ou Firefly en 2026 ? Test sur 5 prompts pro, licences commerciales, prix, version française. Le guide tranché par profil."
 image: "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Journaliste devant un ordinateur, salle de presse"

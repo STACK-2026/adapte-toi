@@ -1,5 +1,5 @@
 ---
-title: "ElevenLabs en français : guide complet 2026 (avis, prix, voice cloning)"
+title: "ElevenLabs français : Guide, avis, clonage voix 2026"
 description: "ElevenLabs en 2026 : voix IA ultra-réaliste en français, clonage de voix, doublage automatique, prix Free/Starter/Creator. Le guide pour créateurs."
 outil: "ElevenLabs"
 category: "Voix et audio"

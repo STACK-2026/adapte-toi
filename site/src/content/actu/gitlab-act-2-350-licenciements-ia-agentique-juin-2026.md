@@ -1,5 +1,5 @@
 ---
-title: "GitLab Act 2 : 350 postes supprimés pour l'IA agentique, le tournant que les devs FR doivent voir venir"
+title: "GitLab : L'IA agentique supprime 350 postes : impact devs"
 description: "Le 2 juin 2026, GitLab confirme 350 suppressions de postes (14% des effectifs) au nom de l'IA agentique. Bill Staples acte un virage industriel qui touche directement les devs"
 date: 2026-06-02
 category: "menace"

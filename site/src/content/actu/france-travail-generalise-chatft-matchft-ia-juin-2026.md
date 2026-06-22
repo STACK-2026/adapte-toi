@@ -1,5 +1,5 @@
 ---
-title: "France Travail bascule de l'expérimentation à la transformation IA : ChatFT et MatchFT en généralisation"
+title: "France Travail IA : ChatFT et MatchFT généralisés 2026"
 description: "Au sommet européen de Lille le 12 juin 2026, France Travail acte la généralisation de ChatFT et MatchFT. Voici ce que ça change pour conseillers, demandeurs d'emploi et recruteurs."
 date: 2026-06-13
 category: "annonce"

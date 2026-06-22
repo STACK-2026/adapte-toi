@@ -1,5 +1,5 @@
 ---
-title: "Otter.ai en français : guide complet 2026 (avis, prix, intégrations)"
+title: "Otter.ai en français : Guide, avis, prix 2026"
 description: "Otter.ai en 2026 : transcription IA en français à 90%, résumés auto + actions, intégrations Zoom/Meet/Teams. Le guide pour pros francophones."
 outil: "Otter.ai"
 category: "Voix et audio"

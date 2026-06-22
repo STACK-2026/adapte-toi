@@ -1,5 +1,5 @@
 ---
-title: "Commercial et IA en 2026 : prospection volumique morte, +35% offres SDR IA"
+title: "IA Commercial B2B 2026 : +35% ventes, prospection finie"
 description: "Commercial B2B face à l'IA en 2026 : score 6/10, salaires, outils (Apollo, ChatGPT, HubSpot), trajectoires SDR senior et Customer Success."
 image: "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureau de fintech avec ecrans de paiement et logo flou en arriere-plan"

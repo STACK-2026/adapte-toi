@@ -1,5 +1,5 @@
 ---
-title: "Writesonic en français : guide complet 2026 (avis, prix, ChatSonic)"
+title: "Writesonic en français : Avis, Prix, ChatSonic 2026"
 description: "Writesonic en 2026 : rédaction IA en français, ChatSonic alternative ChatGPT, prix Free/Individual/Team, plus accessible que Jasper et Copy.ai."
 outil: "Writesonic"
 category: "Rédaction marketing"

@@ -1,5 +1,5 @@
 ---
-title: "Yann Le Cun : « Tout le monde sera patron d'une équipe d'IA », et ça change tout pour ton boulot"
+title: "IA : Yann Le Cun, patron d'IA ? Votre emploi en 2026"
 description: "Le père de l'IA Yann Le Cun prédit un futur où chacun gérera une équipe d'agents virtuels. Décryptage des impacts concrets sur ton emploi, tes compétences et ta reconversion."
 date: 2026-06-17
 category: "voix"

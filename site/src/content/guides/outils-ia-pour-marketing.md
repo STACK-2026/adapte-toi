@@ -1,5 +1,5 @@
 ---
-title: "Outils IA pour marketing en 2026 : top 5 testés (workflows complets)"
+title: "IA Marketing 2026 : Top 5 outils + workflows"
 description: "Les 5 meilleurs outils IA pour marketeurs en 2026 : ChatGPT, Claude, Surfer SEO, DALL-E, HubSpot AI. Workflows, prompts, ROI calculé, alternatives."
 image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureau vide la nuit avec ecran allume affichant une interface d'agent IA en activite"

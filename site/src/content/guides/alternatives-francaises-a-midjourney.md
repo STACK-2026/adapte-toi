@@ -1,5 +1,5 @@
 ---
-title: "Alternatives françaises à Midjourney en 2026 : Pixtral et autres"
+title: "Alternatives Midjourney France 2026 : Pixtral, IA souveraine"
 description: "Les alternatives françaises à Midjourney en 2026 : Pixtral (Mistral), Stable Diffusion auto-hébergé, Hugging Face. RGPD, souveraineté, qualité, verdict."
 image: "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureau de fintech avec ecrans de paiement et logo flou en arriere-plan"

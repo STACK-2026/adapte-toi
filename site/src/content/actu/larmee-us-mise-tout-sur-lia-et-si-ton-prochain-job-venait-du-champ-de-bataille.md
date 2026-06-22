@@ -1,5 +1,5 @@
 ---
-title: "L'armée US mise tout sur l'IA : et si ton prochain job venait du champ de bataille ?"
+title: "IA militaire US : Ton job civil en 2026 ?"
 description: "Le Pentagone accélère son virage IA avec le projet Maven. Décryptage des compétences militaires qui débarquent dans le civil, et comment en profiter sans..."
 image: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Marteau de juge devant un ecran d'ordinateur, ambiance feutree"

@@ -1,5 +1,5 @@
 ---
-title: "Royaume-Uni : 1,1 milliard pour l'IA, mais où sont les emplois ?"
+title: "Royaume-Uni IA 2026 : 1,1 milliard. Où sont les emplois ?"
 description: "Le Royaume-Uni promet 1,1 milliard de livres pour l'infrastructure IA, mais les emplois locaux restent flous face aux géants américains."
 date: 2026-06-13
 category: "politique"

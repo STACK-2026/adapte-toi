@@ -1,5 +1,5 @@
 ---
-title: "Cisco et OpenAI transforment l'ingénierie logicielle en entreprise : Codex devient un coéquipier, pas juste un outil"
+title: "Cisco OpenAI : Codex automatise 95% du code logiciel"
 description: "Cisco utilise Codex d'OpenAI pour automatiser 95% des nouvelles fonctionnalités, diviser par 15 le temps de correction des bugs et économiser 1 500 heures d'ingénierie par mois"
 date: 2026-06-03
 category: "outil"
