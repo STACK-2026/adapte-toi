@@ -101,3 +101,21 @@ Les entreprises ont cru que l'IA serait une solution miracle, mais elles réalis
 Les métiers qui vont tirer leur épingle du jeu ? Ceux qui savent allier technique et business. Les data analysts qui mesurent l'impact des projets, les développeurs qui optimisent les modèles, les consultants qui aident les entreprises à réduire leurs coûts. Si tu veux te reconvertir, c'est le moment de te former à ces compétences.
 
 Va lire notre [guide complet sur la reconversion dans l'IA](/guides/reconversion-ia-guide-complet), consulte notre [fiche métier consultant IA](/metiers/consultant-ia), et découvre comment [négocier ton salaire avec des compétences IA](/guides/negocier-salaire-competences-ia). L'IA n'est pas morte, elle devient juste plus intelligente. À toi de jouer.
+
+## Questions fréquentes
+
+### Pourquoi les coûts d'utilisation des modèles d'IA générative ont-ils explosé pour des géants comme Amazon et Uber ?
+
+Les coûts d'utilisation des modèles d'IA générative ont explosé pour des entreprises comme Amazon et Uber principalement en raison des dépenses d'inférence, c'est-à-dire le coût de faire fonctionner les modèles en production à grande échelle. Ces géants ont sous-estimé l'impact financier de chaque requête envoyée aux grands modèles de langage (LLM) lorsque des milliers d'employés les utilisent simultanément, entraînant des dépassements budgétaires de 300% à 500% sur certains projets.
+
+### Comment la hausse inattendue des dépenses en IA affecte-t-elle la stratégie et les projets des grandes entreprises ?
+
+La hausse inattendue des dépenses en IA pousse les grandes entreprises à revoir drastiquement leurs stratégies et projets, les forçant à suspendre des initiatives ou à imposer des quotas d'utilisation stricts. Cette prise de conscience transforme l'IA générative, initialement perçue comme une source d'économies, en un "cauchemar comptable" pour les directeurs financiers, qui doivent désormais gérer des budgets largement dépassés et réévaluer la rentabilité réelle de ces technologies.
+
+### Quelles stratégies les DAF peuvent-ils adopter pour maîtriser les dépenses liées à l'utilisation des LLM en entreprise ?
+
+Pour maîtriser les dépenses liées à l'utilisation des grands modèles de langage (LLM), les DAF peuvent imposer des quotas stricts d'utilisation par département ou par employé et réévaluer la pertinence de chaque projet. Il est crucial de mettre en place un suivi rigoureux des coûts par requête et d'explorer des solutions alternatives, comme l'optimisation des modèles ou le recours à des modèles plus petits et moins gourmands en ressources, afin d'éviter les dépassements budgétaires massifs.
+
+### Quels sont les principaux risques financiers associés à l'intégration de l'IA générative pour une entreprise ?
+
+Les principaux risques financiers liés à l'intégration de l'IA générative incluent des coûts d'inférence imprévus et exponentiels, particulièrement lorsque l'usage s'intensifie au-delà des projections initiales. Les entreprises s'exposent également à un manque de retour sur investissement clair si les économies promises ne se matérialisent pas, transformant l'outil en un centre de coût majeur plutôt qu'en un levier de productivité. Une mauvaise gestion peut rapidement créer un "monstre" financier.

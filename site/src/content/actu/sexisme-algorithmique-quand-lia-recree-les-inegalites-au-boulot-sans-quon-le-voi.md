@@ -107,3 +107,21 @@ Les IA ne sont pas neutres : elles amplifient les inégalités sociales. Que ce 
 Le sexisme algorithmique n'est pas une fatalité. Les IA reproduisent et amplifient les inégalités, mais on peut agir. L'AI Act est un premier pas, mais c'est à nous de demander des comptes aux algorithmes.
 
 Pour aller plus loin, consulte notre [guide sur les chiffres clés de l'IA et l'emploi](/guides/ia-emploi-chiffres-cles). Si tu es en reconversion, notre [fiche métier data-analyst-ia](/metiers/data-analyst-ia) montre comment les femmes peuvent contribuer à débiaiser les outils.
+
+## Questions fréquentes
+
+### Comment le sexisme algorithmique se manifeste-t-il concrètement dans le monde du travail ?
+
+Le sexisme algorithmique se manifeste dans le monde du travail par des recommandations ou décisions qui désavantagent les femmes, souvent de manière insidieuse. Par exemple, des chatbots peuvent suggérer des salaires significativement inférieurs aux femmes pour un même poste, ou des algorithmes bancaires peuvent refuser plus fréquemment des prêts aux entrepreneures. Ces biais peuvent également apparaître dans les outils de recrutement, perpétuant les inégalités existantes en matière d'accès à l'emploi ou de progression de carrière.
+
+### Pourquoi les systèmes d'intelligence artificielle développent-ils des biais de genre, même au-delà des données d'entraînement initiales ?
+
+Les systèmes d'IA développent des biais de genre au-delà des données d'entraînement car ils peuvent reproduire et amplifier les stéréotypes sociaux présents dans la culture et le langage humain. Une étude UNESCO a par exemple montré que ChatGPT décrit les femmes comme "travailleuses domestiques" quatre fois plus souvent que les hommes, les associant davantage à la famille qu'à la carrière, même sans instruction explicite. Ces biais peuvent être intégrés dans la conception des modèles ou émerger de l'interaction avec des ensembles de données complexes qui reflètent des inégalités systémiques.
+
+### Quelles sont les initiatives réglementaires ou techniques mises en place pour lutter contre les biais sexistes des IA ?
+
+Des initiatives réglementaires et techniques sont mises en place pour lutter contre les biais sexistes des IA, bien que leur efficacité varie. L'AI Act européen, par exemple, impose aux fournisseurs de systèmes d'intelligence artificielle de documenter leurs modèles afin de limiter les discriminations potentielles. À New York, des audits obligatoires des outils de recrutement par IA sont exigés, bien qu'ils n'imposent pas de correction en cas de biais avérés, soulignant la complexité de l'application de ces régulations.
+
+### Les biais de l'IA peuvent-ils réellement présenter des risques pour la sécurité physique des femmes ?
+
+Oui, les biais de l'IA peuvent malheureusement présenter des risques concrets pour la sécurité physique des femmes, comme l'a révélé une étude du Berkeley Haas Center, indiquant que 18,8% des systèmes d'IA développés entre 1988 et 2021 comportaient de tels risques. Des exemples incluent l'utilisation de deepfakes sexuels ciblant spécifiquement les femmes, comme cela a été observé avec des outils tels que Grok. Ces technologies peuvent être détournées pour créer du contenu manipulé, portant atteinte à la réputation et à la sécurité personnelle des individus.

@@ -113,3 +113,21 @@ Le plan Attal est un électrochoc pour l'IA en France, mais son financement et s
 - Forme-toi via notre [fiche métier consultant IA](/metiers/consultant-ia).
 
 Ceux qui ne s'adaptent pas seront distancés d'ici 2 ans.
+
+## Questions fréquentes
+
+### Comment le Plan Attal IA va-t-il concrètement transformer les compétences requises pour mon emploi en France ?
+
+Le Plan Attal IA vise à transformer les compétences professionnelles en formant 20 millions de salariés à l'IA d'ici 2030, incluant les TPE et les non-cadres. L'accent sera mis sur des compétences fondamentales comme le « prompting », c'est-à-dire l'art de formuler des requêtes efficaces pour interagir avec les intelligences artificielles. Cette initiative prépare la main-d'œuvre française aux évolutions du marché du travail induites par l'IA.
+
+### Quelles sont les aides financières prévues par le Plan Attal IA pour les entreprises souhaitant intégrer l'intelligence artificielle ?
+
+Le Plan Attal IA prévoit plusieurs dispositifs financiers pour encourager l'adoption de l'IA par les entreprises. Un crédit d'impôt sera mis en place pour les sociétés investissant dans l'intelligence artificielle. De plus, une réforme de l'épargne retraite orientera 50% de l'intéressement vers l'innovation, offrant ainsi de nouvelles sources de financement pour les projets IA. Ces mesures visent à stimuler l'investissement privé dans ce secteur stratégique.
+
+### Le financement de 200 milliards d'euros annoncé par Gabriel Attal pour l'IA est-il un objectif réaliste pour la France d'ici 2040 ?
+
+L'objectif de 200 milliards d'euros pour le Plan Attal IA d'ici 2040 est jugé très ambitieux, car il représente environ 14 milliards d'euros par an sur 14 ans. Ce montant est à peine supérieur au budget annuel actuel de l'Enseignement supérieur et intervient dans un contexte de déficit budgétaire pour la France. Comparé aux investissements de la Chine (150 milliards/an) ou des États-Unis (50 milliards en 2022 pour les semi-conducteurs), l'effort français semble conséquent mais son financement reste un défi.
+
+### Comment le Plan Attal IA s'intègre-t-il dans une stratégie européenne plus large et quels en sont les objectifs ?
+
+Le Plan Attal IA vise à s'intégrer dans une stratégie européenne en plaidant pour un budget et un endettement mutualisés au niveau de l'Union. L'objectif est de développer une politique IA commune, inspirée du modèle de la Politique Agricole Commune (PAC). Cette approche cherche à positionner l'Europe comme une puissance majeure dans le domaine de l'intelligence artificielle, en mutualisant les efforts et les ressources des États membres pour une meilleure compétitivité face aux géants mondiaux.

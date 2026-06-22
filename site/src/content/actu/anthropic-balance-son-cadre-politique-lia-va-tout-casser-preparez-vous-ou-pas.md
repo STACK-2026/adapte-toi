@@ -106,3 +106,21 @@ Anthropic pose les bonnes questions, même si leur cadre sent le lobbying. **L'I
 Les solutions proposées (reconversion massive, agence fédérale) mettront des années à se mettre en place. Pendant ce temps, des millions de travailleurs seront impactés. **Agis dès aujourd'hui** : forme-toi, diversifie tes compétences, anticipe les changements. Dans 4 ans, il sera trop tard.
 
 Pour aller plus loin : [guide de reconversion IA](/guides/reconversion-ia-guide-complet), [fiche métier développeur IA](/metiers/developpeur-ia), [outils IA indispensables](/outils/claude). **Ne reste pas inactif.**
+
+## Questions fréquentes
+
+### Quels sont les principaux risques catastrophiques liés à l'intelligence artificielle qu'Anthropic met en avant dans son cadre politique ?
+
+Anthropic identifie des risques où l'IA pourrait rendre obsolètes des pans entiers de l'économie d'ici 2030, menant à des bouleversements sociaux majeurs. Le manifeste alerte sur des scénarios où l'IA, si elle n'est pas encadrée, pourrait avoir des conséquences imprévisibles et déstabilisatrices pour la société et l'emploi.
+
+### Quelles sont les mesures concrètes suggérées par Anthropic pour préparer la société aux défis de l'IA ?
+
+Anthropic propose la création d'une agence fédérale dédiée à l'IA, l'instauration de taxes sur les modèles d'IA énergivores, et le développement de programmes de reconversion professionnelle. Ces initiatives visent à anticiper et atténuer les impacts négatifs de l'intelligence artificielle sur l'économie et le marché du travail.
+
+### Pourquoi Anthropic est-il critiqué pour une stratégie de "pompier pyromane" concernant les dangers de l'IA ?
+
+Anthropic est accusé de jouer un double jeu en alertant sur les risques "catastrophiques" de l'IA tout en développant et commercialisant des modèles toujours plus puissants, comme Mythos. Cette stratégie leur permet de se positionner comme des acteurs responsables du secteur tout en verrouillant potentiellement le marché avec leurs propres régulations.
+
+### Qu'est-ce que le modèle d'IA Mythos d'Anthropic et pourquoi sa diffusion est-elle jugée problématique ?
+
+Mythos est un modèle d'intelligence artificielle développé par Anthropic, que l'entreprise elle-même considère comme "trop puissant" pour une diffusion large. Cette puissance soulève des interrogations sur les risques potentiels et la difficulté à contrôler ses applications, justifiant ainsi la prudence d'Anthropic quant à sa mise à disposition générale.

@@ -100,3 +100,21 @@ Le chiffre de 27 % est juste. Ce qui est faux, c'est la lecture fataliste qu'on 
 La France a encore une fenêtre. Elle n'a pas encore d'équivalent du programme danois "Flexicurité IA", ni du plan allemand *Arbeit 2030*, ni du partenariat Skills Future de Singapour. Elle a des PIA, des crédits CPF, un France Travail en pleine mue. C'est moins coordonné mais c'est là.
 
 Ton levier individuel : ne pas attendre que ce soit coordonné. Se former avant que ton métier le demande. Lire nos guides [financer sa formation IA avec le CPF](/guides/financer-formation-ia-cpf) et [se former à l'IA gratuitement](/guides/se-former-ia-gratuitement) pour trouver les bons points d'entrée.
+
+## Questions fréquentes
+
+### Que signifie concrètement un emploi "exposé à un risque élevé d'automatisation" selon le rapport de l'OCDE pour la France ?
+
+Selon le rapport de l'OCDE, un emploi exposé à un risque élevé d'automatisation signifie qu'une proportion significative de ses tâches peut être effectuée par des technologies existantes. Cela n'implique pas la disparition automatique du poste, mais plutôt que le temps de travail consacré à ces tâches pourrait être réalisé par une machine. La décision d'automatiser ou non ces fonctions reste à l'appréciation de l'employeur.
+
+### Quels types de métiers en France sont les plus susceptibles d'être impactés par l'automatisation d'ici 2030, au-delà des idées reçues ?
+
+Contrairement à la perception courante, l'automatisation ne se limite pas aux emplois manuels ou aux "cols bleus". Le rapport de l'OCDE indique que certains métiers de "cols blancs" impliquant des tâches répétitives, basées sur des règles ou de traitement de données sont également fortement exposés. L'impact dépend plus de la nature des tâches que de la catégorie socioprofessionnelle.
+
+### Comment l'OCDE a-t-elle calculé le chiffre de 27% d'emplois français exposés à l'automatisation d'ici 2030 ?
+
+L'OCDE a calculé ce chiffre en évaluant la proportion de tâches au sein de chaque poste qui peuvent être automatisées avec les technologies actuelles. La méthodologie mesure l'exposition des tâches à l'automatisation, et non une prévision de destruction d'emplois. Le 27% représente la moyenne des emplois français dont une part substantielle des tâches est techniquement automatisable.
+
+### Quelles sont les stratégies concrètes pour les salariés et les entreprises afin de s'adapter à l'automatisation des emplois en France ?
+
+Les salariés peuvent se concentrer sur le développement de compétences complémentaires à l'IA, telles que la créativité, la pensée critique, la résolution de problèmes complexes et les compétences relationnelles. Pour les entreprises, il est crucial d'investir dans la formation continue de leurs équipes et de repenser l'organisation du travail pour que l'automatisation serve d'outil d'augmentation des capacités humaines plutôt qu'un simple remplacement.

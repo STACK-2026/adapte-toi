@@ -106,3 +106,21 @@ La vague de licenciements IA de 2025-2026 est la première à porter son nom. C'
 Pour toi, l'implication est simple : la stratégie "attendre de voir" est la pire option. Les boîtes qui annoncent officiellement ont déjà acté leurs plans. Les boîtes qui ne disent rien sont souvent en train de les préparer. La seule protection est l'adaptation précoce.
 
 Va consulter notre [catalogue de fiches métier](/métiers) pour savoir où se situe ton poste. Si tu veux avoir toutes les données agrégées en une seule page, notre [guide chiffres clés IA et emploi](/guides/ia-emploi-chiffres-cles) centralise. Pour bifurquer, [le guide reconversion IA](/guides/reconversion-ia-guide-complet) et celui sur [l'automatisation de ton poste actuel](/guides/automatiser-travail-ia) sont les deux portes d'entrée.
+
+## Questions fréquentes
+
+### Pourquoi les grandes entreprises ont-elles commencé à nommer explicitement l'IA comme cause de licenciements depuis fin 2024, alors qu'elles ne le faisaient pas avant ?
+
+Les entreprises ont changé leur discours depuis fin 2024 car la destruction d'emplois liée à l'IA est devenue trop manifeste pour être masquée derrière des termes comme "réorganisation" ou "rationalisation stratégique". Cette transparence accrue reflète une acceptation publique grandissante de l'impact de l'IA sur l'emploi, rendant les euphémismes moins crédibles.
+
+### Quels sont les secteurs d'activité ou types de postes qui sont les plus touchés par les suppressions d'emplois dues à l'IA, selon les annonces récentes des CEO ?
+
+Les postes les plus affectés par l'IA, selon les annonces de 2025-2026, sont principalement ceux liés au support client, aux fonctions back-office et à la traduction. Des entreprises comme Klarna ont réduit drastiquement leurs équipes de support, tandis qu'IBM a gelé des milliers de postes back-office et Duolingo a remplacé des traducteurs par l'IA.
+
+### Quel est le nombre estimé de postes détruits ou non renouvelés à cause de l'IA dans les grandes entreprises mondiales entre 2024 et 2026, et ce chiffre est-il exhaustif ?
+
+Entre 2024 et 2026, plus de 200 000 postes ont été détruits ou non renouvelés dans les grandes entreprises mondiales, avec une mention explicite de l'IA comme cause. Ce chiffre, compilé par Layoffs.fyi et Roger Lee, ne représente que les entreprises qui ont publiquement assumé l'impact de l'IA, suggérant que le nombre réel pourrait être plus élevé.
+
+### Comment les professionnels peuvent-ils anticiper et se préparer aux risques de remplacement de leur emploi par l'intelligence artificielle dans les années à venir ?
+
+Pour anticiper les risques de remplacement par l'IA, les professionnels peuvent se concentrer sur le développement de compétences complémentaires à l'IA, telles que la pensée critique, la créativité, l'intelligence émotionnelle et la résolution de problèmes complexes. L'apprentissage continu et la spécialisation dans des domaines où l'interaction humaine reste cruciale peuvent également renforcer leur employabilité.

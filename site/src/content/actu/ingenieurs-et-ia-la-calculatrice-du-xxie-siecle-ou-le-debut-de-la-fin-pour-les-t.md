@@ -115,3 +115,21 @@ L'IA n'a pas révolutionné le métier d'ingénieur, mais elle a creusé des éc
 Le plus inquiétant ? L'IA est présentée comme un outil d'**augmentation**, alors qu'elle sert surtout à **compenser des manques** (postes supprimés, budgets serrés). Si tu es ingénieur·e, forme-toi, mais garde un œil critique sur ses limites.
 
 Pour aller plus loin, consulte notre [guide sur l'automatisation du travail avec l'IA](/guides/automatiser-travail-ia), notre fiche métier ingénieur IA, ou nos [outils recommandés pour les métiers techniques](/outils/copilot). Pour négocier une formation ou un outil IA, inspire-toi de notre [guide pour négocier son salaire avec des compétences IA](/guides/negocier-salaire-competences-ia).
+
+## Questions fréquentes
+
+### Concrètement, à quelles tâches les ingénieurs appliquent-ils l'intelligence artificielle dans leur quotidien professionnel en 2026 ?
+
+En 2026, les ingénieurs utilisent majoritairement l'IA pour des tâches de support et d'optimisation, comme la synthèse d'informations, la traduction technique ou la création de macros Excel. Selon l'IESF, seulement 37% l'emploient pour la conception et 34% pour l'analyse de données, ce qui montre un usage encore périphérique plutôt que central dans les processus créatifs ou décisionnels fondamentaux.
+
+### Pourquoi l'adoption de l'IA par les ingénieurs est-elle encore inégale ou limitée pour certaines applications clés ?
+
+L'adoption inégale de l'IA s'explique par plusieurs facteurs, dont les préoccupations environnementales, comme l'empreinte carbone des outils, et la perception de son rôle. Certains ingénieurs la considèrent comme un assistant d'efficacité plutôt qu'un substitut à l'expertise humaine, limitant son intégration aux tâches périphériques. L'enquête de l'IESF confirme cette fragmentation des usages selon les domaines d'application.
+
+### Comment les entreprises incitent-elles leurs ingénieurs à intégrer l'IA, et quels bénéfices en attendent-elles ?
+
+Les entreprises encouragent l'intégration de l'IA en la présentant comme un levier de compétitivité, en développant leurs propres outils et en liant son usage aux objectifs annuels, parfois avec des primes. Elles en attendent principalement un gain d'efficacité et une optimisation des processus, permettant aux ingénieurs de se concentrer sur des tâches à plus forte valeur ajoutée.
+
+### L'intelligence artificielle est-elle perçue comme un outil indispensable ou plutôt comme un simple assistant pour les ingénieurs en 2026 ?
+
+En 2026, l'intelligence artificielle est majoritairement perçue comme un puissant assistant plutôt qu'un outil indispensable remplaçant l'expertise humaine. Beaucoup d'ingénieurs la comparent à une calculatrice avancée qui augmente leur efficacité sans être absolument nécessaire pour la réalisation fondamentale de leur travail. Son usage quotidien est établi, mais son rôle reste souvent périphérique.

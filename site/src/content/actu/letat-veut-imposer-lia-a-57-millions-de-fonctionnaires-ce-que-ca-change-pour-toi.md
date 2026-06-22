@@ -140,3 +140,21 @@ Pour aller plus loin :
 - [Guide reconversion face à l'IA](/guides/reconversion-ia-guide-complet)
 - [Métiers résistants à l'automatisation](/metiers/)
 - [Outils IA souverains](/outils/)
+
+## Questions fréquentes
+
+### Comment l'introduction de l'IA "L'Assistant" va-t-elle concrètement modifier les tâches quotidiennes des fonctionnaires français dès 2026 ?
+
+L'IA "L'Assistant" automatisera principalement la rédaction de courriers, l'analyse de dossiers et les réponses aux usagers pour les fonctionnaires. Elle s'intégrera directement aux logiciels métiers existants comme Chorus et Scribe, permettant aux agents de déléguer des tâches administratives répétitives et chronophages. L'objectif est de libérer du temps pour des missions à plus forte valeur ajoutée, transformant ainsi les méthodes de travail.
+
+### Pourquoi le gouvernement français privilégie-t-il une IA "souveraine" comme "L'Assistant" plutôt que des outils existants comme ChatGPT pour ses fonctionnaires ?
+
+Le gouvernement français opte pour une IA "souveraine" telle que "L'Assistant" afin d'éviter l'utilisation "clandestine" d'outils non sécurisés comme ChatGPT ou Claude par les agents. Cette approche vise à garantir la protection des données sensibles et la conformité aux réglementations nationales, tout en assurant la maîtrise des infrastructures et algorithmes utilisés au sein de la fonction publique française.
+
+### Quelle formation spécifique sera proposée aux fonctionnaires pour maîtriser l'utilisation de l'IA "L'Assistant" à partir de 2026 ?
+
+Une formation obligatoire sera mise en place pour tous les fonctionnaires amenés à utiliser l'IA "L'Assistant", bien que son contenu précis n'ait pas encore été détaillé par la DINUM. Cette formation est essentielle pour assurer une prise en main efficace de l'outil, comprendre ses fonctionnalités d'automatisation et garantir une utilisation conforme aux procédures et aux objectifs de l'administration.
+
+### Quels sont les bénéfices économiques attendus par l'État français grâce à la généralisation de l'IA dans la fonction publique à partir de fin 2026 ?
+
+L'État français anticipe des économies significatives, estimées à 1,2 milliard d'euros par an, grâce à la généralisation de l'IA dans la fonction publique. Ces gains proviendraient de l'automatisation d'environ 30 % des tâches administratives, permettant une réduction des coûts opérationnels et une optimisation de l'efficacité des services publics à l'échelle nationale.

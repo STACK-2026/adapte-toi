@@ -103,3 +103,21 @@ Le livre est plus intelligent que son titre. Il est aussi plus idéologique qu'i
 Si tu n'as pas le temps de le lire, retiens ce réflexe : avant de t'engager dans trois ou cinq ans d'études, demande-toi ce que l'IA fera à ton futur métier dans ces trois ou cinq années. La réponse vaut plus qu'une fiche ONISEP.
 
 Pour creuser : on a consacré un guide complet à [que faire si tes études ne mènent plus nulle part](/guides/etudes-inutiles-que-faire), et un autre à [la reconversion IA de A à Z](/guides/reconversion-ia-guide-complet). Si tu veux voir concrètement quels métiers sont dans la ligne de mire, commence par les fiches [consultant](/metiers/consultant-ia), [avocat](/metiers/avocat-ia) et [journaliste](/metiers/journaliste-ia).
+
+## Questions fréquentes
+
+### Est-ce que Laurent Alexandre et Olivier Babeau recommandent vraiment d'arrêter toutes les études supérieures dans leur livre "Ne faites plus d'études" ?
+
+Non, malgré son titre provocateur, le livre "Ne faites plus d'études" ne préconise pas d'arrêter toutes les études supérieures. Les auteurs soulignent plutôt l'inadéquation de certains cursus génériques face aux évolutions du marché du travail. Ils critiquent spécifiquement les formations qui préparent à des tâches désormais automatisables ou réalisées plus efficacement par l'intelligence artificielle.
+
+### Quels sont les types de formations universitaires spécifiquement remis en question par Alexandre et Babeau dans "Ne faites plus d'études" ?
+
+Dans "Ne faites plus d'études", Laurent Alexandre et Olivier Babeau ciblent principalement les cursus génériques de sciences humaines, de gestion, de communication et de droit avec une faible spécialisation. Selon eux, ces formations produisent des diplômés dont les compétences sont de moins en moins valorisées sur le marché de l'emploi. Ils s'appuient sur des données de la DARES et de l'APEC pour étayer leur analyse.
+
+### Comment l'intelligence artificielle impacte-t-elle la pertinence des diplômes selon le livre "Ne faites plus d'études" ?
+
+Selon "Ne faites plus d'études", l'intelligence artificielle rend obsolètes de nombreuses compétences enseignées dans l'enseignement supérieur traditionnel, impactant ainsi la pertinence de certains diplômes. La thèse des auteurs est que former un jeune à produire ce qu'une IA peut désormais faire mieux, plus vite et gratuitement revient à lui faire perdre des années précieuses. Cela pousse à repenser l'orientation des études vers des domaines complémentaires à l'IA.
+
+### Quelles ont été les principales réactions et critiques suite à la publication de "Ne faites plus d'études" par Alexandre et Babeau ?
+
+La publication de "Ne faites plus d'études" a suscité de vives réactions et un débat intense dans le champ emploi-formation. Le livre a été cité en commission parlementaire, vivement critiqué par les syndicats étudiants, mais également défendu par une partie du Medef. Il a aussi trouvé un écho significatif auprès de plusieurs chaînes YouTube spécialisées dans la tech, amplifiant sa discussion publique.

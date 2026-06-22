@@ -119,3 +119,21 @@ Pour aller plus loin :
 - [Chiffres clés de l'IA et l'emploi](/guides/ia-emploi-chiffres-cles).
 - [Fiche métier data analyst IA](/metiers/data-analyst-ia).
 - [Guide pour automatiser ton travail avec l'IA](/guides/automatiser-travail-ia).
+
+## Questions fréquentes
+
+### En quoi consiste la stratégie France 2026 sur l'IA pour les fonctionnaires annoncée par le gouvernement ?
+
+La stratégie France 2026 vise à généraliser l'usage de l'intelligence artificielle au sein des services publics français, impactant potentiellement 1,8 million d'agents. Annoncée par Sébastien Lecornu, elle inclut le déploiement d'un assistant conversationnel souverain et des investissements substantiels pour moderniser l'administration. L'objectif est de renforcer l'efficacité et la souveraineté numérique de l'État.
+
+### Quel est le montant des investissements financiers prévus pour déployer l'IA dans l'administration française d'ici 2026 ?
+
+La stratégie IA pour l'administration française bénéficie d'un apport supplémentaire de 665 millions d'euros, alloués dans le cadre du plan France 2030. Ces fonds sont destinés à soutenir le développement et le déploiement des technologies d'intelligence artificielle au sein des services publics. Cet investissement vise à accélérer la transformation numérique de l'État et à équiper les fonctionnaires avec des outils innovants.
+
+### Quels sont les exemples concrets d'applications d'intelligence artificielle qui seront mises en place pour les fonctionnaires français ?
+
+Parmi les applications concrètes, un assistant conversationnel souverain sera déployé pour 1,8 million d'agents, et un assistant santé intégré à Ameli est prévu d'ici fin 2026. La stratégie prévoit également le remplacement de Palantir par ChapsVision à la DGSI, l'ouverture des technologies IA du ministère des Armées via GenIAI, et la création d'une plateforme unique d'accès aux données publiques.
+
+### Quels sont les principaux défis ou risques pour la souveraineté numérique française face à l'implémentation de l'IA dans la fonction publique ?
+
+Le principal défi réside dans la conciliation de l'ambition de souveraineté numérique avec la dépendance actuelle envers des infrastructures étrangères, notamment américaines comme NVIDIA. Bien que l'État devienne un marché majeur pour les acteurs français de l'IA, il existe un risque que de grands groupes établis dominent les appels d'offres, limitant ainsi l'émergence de nouvelles entreprises innovantes françaises dans ce secteur stratégique.

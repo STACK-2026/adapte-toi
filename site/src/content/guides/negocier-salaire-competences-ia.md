@@ -128,6 +128,24 @@ Si tu es le seul à maîtriser l'IA dans l'équipe ET que tu formes les autres, 
 
 ---
 
+## Questions fréquentes
+
+### Comment puis-je démontrer de manière tangible la valeur ajoutée de mes compétences en IA pour justifier une augmentation de salaire ?
+
+Pour démontrer la valeur ajoutée de vos compétences en IA, quantifiez précisément les gains de productivité, les économies de coûts ou l'amélioration de la qualité que vous avez générés grâce à ces outils. Présentez des exemples concrets, chiffrés, comme le temps économisé sur une tâche ou l'augmentation du nombre de livrables produits. Mettez en avant comment ces résultats impactent directement les objectifs stratégiques de l'entreprise.
+
+### Quelles sont les erreurs fréquentes à éviter lors d'une négociation salariale basée sur l'intégration de l'IA dans mon travail ?
+
+L'erreur principale est de ne pas lier vos compétences en IA à des résultats mesurables et aux bénéfices pour l'entreprise, se contentant de parler des outils utilisés. Évitez également de ne pas préparer vos arguments avec des données concrètes ou de ne pas anticiper les objections de votre employeur. Ne présentez pas l'IA comme une menace, mais comme une opportunité d'optimisation et d'innovation pour l'organisation.
+
+### Y a-t-il des compétences ou des outils d'IA spécifiques qui sont particulièrement recherchés et valorisés pour obtenir une augmentation ?
+
+Les compétences d'IA les plus valorisées ne se limitent pas à la maîtrise d'un outil spécifique, mais résident dans la capacité à l'intégrer efficacement pour résoudre des problèmes métiers et améliorer la productivité. La maîtrise du prompt engineering, l'automatisation de tâches répétitives, l'analyse de données assistée par IA ou la création de contenus optimisés sont des exemples concrets. Ces compétences sont transversales et applicables dans de nombreux secteurs, augmentant votre impact.
+
+### Si mon employeur ne perçoit pas l'intérêt de mes compétences en IA, quelles sont mes options pour faire évoluer ma situation professionnelle ?
+
+Si votre employeur ne reconnaît pas la valeur de vos compétences en IA, la première étape est de lui proposer des projets pilotes ou des démonstrations concrètes de l'impact potentiel. Si cela ne suffit pas, envisagez de chercher des opportunités au sein d'entreprises plus innovantes ou de secteurs qui valorisent davantage l'IA. Vous pouvez aussi continuer à développer vos compétences pour renforcer votre position sur le marché du travail.
+
 ## Sources
 
 - [PwC (2025)](https://www.pwc.com/gx/en/issues/artificial-intelligence.html) : +25% de salaire pour les profils maîtrisant l'IA

@@ -104,3 +104,21 @@ Dorsey ne parle pas d'IA comme d'un outil, mais comme d'un remplaçant. Sous-tex
 Block a lancé une guerre économique qui va redessiner le marché du travail. La fintech n'est plus un rempart pour les cols blancs : l'IA y règne, et les humains sont des variables d'ajustement. Si ton métier implique répétition, analyse de données ou relation client standardisée, tu es en sursis.
 
 La bonne nouvelle : cette révolution te donne les outils pour te réinventer *avant* d'être remplacé. Mais la fenêtre se referme vite. Évalue ton exposition avec notre [outil Claude](/outils/claude), puis consulte notre [guide de reconversion complet](/guides/reconversion-ia-guide-complet). Pour un exemple de métier résistant, lis notre [fiche sur l'architecte IA](/metiers/architecte-ia).
+
+## Questions fréquentes
+
+### Quels types de postes sont spécifiquement concernés par les suppressions d'emplois liées à l'IA chez Block ?
+
+Les suppressions d'emplois chez Block en 2026, suite à l'intégration de l'IA, ont principalement ciblé des postes de "cols blancs" qualifiés. Cela inclut des rôles comme les chargés de clientèle, les analystes financiers, les comptables et certains développeurs dont les tâches sont jugées automatisables. Ces métiers tertiaires impliquent des compétences qui, selon l'entreprise, peuvent être efficacement remplacées ou optimisées par des algorithmes.
+
+### Le cas de Block est-il un événement isolé ou préfigure-t-il une tendance plus large de remplacement d'emplois par l'IA dans d'autres entreprises ?
+
+Le licenciement de 40% des effectifs de Block par l'IA est considéré comme un tournant majeur, signalant une tendance potentiellement plus large dans l'industrie. Bien que Salesforce et Pinterest aient également invoqué l'IA pour des licenciements, Block est une fintech majeure qui remplace publiquement des emplois qualifiés par des algorithmes. Jack Dorsey, le PDG de Block, a même prédit que la majorité des entreprises arriverait à la même conclusion d'ici un an.
+
+### Comment expliquer que Block ait licencié 40% de ses employés alors que l'entreprise affichait une croissance de ses bénéfices en 2025 ?
+
+Block a procédé à ces licenciements massifs, malgré une croissance de 17% de ses bénéfices en 2025, dans une stratégie visant à optimiser sa structure et à augmenter l'efficacité grâce à l'IA. L'entreprise mise sur des équipes réduites, mais "boostées" par l'intelligence artificielle, ce qui lui permet de maintenir ou d'accroître sa rentabilité tout en réduisant les coûts de personnel. Cette décision a d'ailleurs été bien accueillie par les marchés, l'action de Block ayant bondi de 23% le lendemain de l'annonce.
+
+### Quelles sont les perspectives d'avenir pour les employés qualifiés dont les postes sont remplacés par l'IA, comme ceux de Block ?
+
+Les perspectives pour les employés qualifiés dont les postes sont remplacés par l'IA, comme chez Block, sont incertaines, car leurs compétences ne se recyclent pas facilement vers des postes équivalents. Le marché n'a pas encore créé suffisamment de postes hybrides, combinant par exemple l'analyse financière avec des compétences en "prompt engineering", pour absorber ces profils. Cela pose un risque de reconversion vers des métiers moins rémunérés ou de chômage de longue durée pour ces travailleurs.

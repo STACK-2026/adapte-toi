@@ -114,3 +114,21 @@ L'IA n'est pas une fin en soi, mais un moyen de recentrer le travail. Beaucoup d
 L'IA ne supprimera pas le travail, mais le réinventera. Le risque ? Devenir un "superviseur d'IA" sans monter en compétences. La solution : utiliser l'IA pour reprendre le contrôle. Identifie les tâches automatisables, réinvestis le temps dans des compétences stratégiques, et vends cette valeur ajoutée.
 
 Pour aller plus loin : [guide automatisation IA](/guides/automatiser-travail-ia), fiche métier radiologue IA, [outils recommandés](/outils/chatgpt). Ne laisse pas l'IA décider à ta place.
+
+## Questions fréquentes
+
+### Pourquoi la promesse d'une semaine de travail de 15 heures grâce à l'IA ne sera probablement pas une réalité en 2026 ?
+
+La promesse d'une semaine de 15 heures d'ici 2026, inspirée par Keynes, est considérée comme un mythe par les experts. L'intelligence artificielle ne réduit pas le temps de travail global, mais le redéfinit en rendant les tâches plus stratégiques. Le temps potentiellement libéré est plutôt réinvesti dans des activités à plus forte valeur ajoutée comme la réflexion ou la créativité, selon les analyses d'économistes et de consultants.
+
+### Comment l'intelligence artificielle transforme-t-elle concrètement les métiers et les tâches quotidiennes ?
+
+L'intelligence artificielle transforme concrètement les métiers en s'attaquant à des tâches non routinières, telles que l'analyse de données complexes ou l'aide à la prise de décision. Par exemple, en France, l'IA aide les radiologues à diagnostiquer les fractures, augmentant leur productivité. Cependant, cette assistance modifie la nature même de leur travail, le rendant plus axé sur l'interprétation et la supervision.
+
+### Quels sont les principaux risques ou défis que l'intégration de l'IA pose pour les employés et les entreprises ?
+
+L'intégration de l'IA présente plusieurs risques majeurs, notamment l'érosion des compétences chez les profils juniors qui pourraient moins pratiquer certaines tâches. On observe aussi l'apparition du "workslop", désignant du contenu généré à la va-vite et de faible qualité, ainsi que le phénomène de "shadow AI", où des outils non autorisés sont utilisés. Ces défis peuvent affecter la qualité du travail et la maîtrise des processus.
+
+### Comment les professionnels peuvent-ils réinvestir le temps potentiellement libéré par l'automatisation via l'IA ?
+
+Les professionnels sont encouragés à réinvestir le temps potentiellement libéré par l'IA dans des activités nécessitant davantage de réflexion, de créativité ou de stratégie. Plutôt que de réduire les heures travaillées, l'objectif est d'utiliser ce gain de temps pour approfondir l'analyse, développer de nouvelles idées ou se concentrer sur des tâches à plus haute valeur ajoutée. Cela permet de monter en compétences et de rendre le travail plus impactant.

@@ -109,3 +109,21 @@ Le chiffre Ipsos est l'indicateur le plus important du marché du travail franç
 Ce n'est pas un drame. C'est une opportunité, à condition d'être accompagné. Les bifurcations réussies se préparent 6 à 18 mois à l'avance. Les bifurcations subies se regrettent 6 à 18 mois après.
 
 Si tu veux des données à plat sur l'ensemble du sujet, notre [page chiffres clés IA et emploi](/guides/ia-emploi-chiffres-cles) centralise toutes les études récentes avec les sources primaires.
+
+## Questions fréquentes
+
+### Quelle est la proportion d'actifs français qui envisagent une reconversion professionnelle et cette tendance est-elle stable ?
+
+Selon l'étude Ipsos pour Amalgame, 47 % des actifs français déclarent envisager une reconversion professionnelle dans les deux prochaines années. Ce chiffre est stable sur trois enquêtes consécutives, menées entre septembre 2025 et février 2026, indiquant qu'il s'agit désormais d'une trajectoire de fond et non d'un phénomène post-Covid passager.
+
+### Quelles sont les différentes formes de reconversion professionnelle identifiées par l'étude Ipsos ?
+
+L'étude Ipsos distingue trois niveaux de reconversion professionnelle. Le premier concerne le changement de métier au sein du même secteur (21 % des cas), comme passer de commercial à formateur interne. Le deuxième implique un changement de secteur avec des compétences transférables (38 %), par exemple d'une fonction RH à un poste de coach indépendant. Enfin, le troisième est un changement radical nécessitant souvent une formation longue (41 %), tel qu'un cadre bancaire devenant maraîcher.
+
+### La reconversion professionnelle est-elle plus fréquente chez les jeunes actifs en France ?
+
+Oui, la reconversion professionnelle est effectivement plus fréquente chez les jeunes actifs en France, selon l'étude Ipsos. Alors que 47 % de l'ensemble des actifs l'envisagent, ce chiffre monte à 58 % pour les moins de 35 ans et à 51 % pour les 35-49 ans. Même chez les plus de 50 ans, l'intention reste significative, dépassant 38 %.
+
+### Les salariés français préfèrent-ils changer de métier plutôt que simplement de poste aujourd'hui ?
+
+Oui, l'étude Ipsos révèle que l'intention de reconversion professionnelle dépasse désormais l'intention de simple changement d'entreprise chez les salariés français. Cela signifie que les actifs ne cherchent plus seulement un nouveau poste ou un nouvel employeur, mais aspirent à une transformation plus profonde de leur carrière, impliquant l'apprentissage d'un nouveau métier.

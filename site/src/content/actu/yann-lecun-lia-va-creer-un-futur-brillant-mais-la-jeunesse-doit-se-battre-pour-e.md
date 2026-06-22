@@ -109,3 +109,21 @@ Les outils pour réussir existent. Que tu sois étudiant, actif ou décideur, ag
 - Utilise le CPF ou les réseaux pour financer ta reconversion.
 
 Pour aller plus loin : notre [guide reconversion IA](/guides/reconversion-ia-guide-complet) et la fiche [métier data analyst IA](/metiers/data-analyst-ia).
+
+## Questions fréquentes
+
+### Quelles compétences les jeunes devraient-ils développer pour les métiers de l'IA basés sur les "world models" dont parle Yann LeCun ?
+
+Pour se préparer aux métiers de l'IA axés sur les "world models", les jeunes devraient privilégier des compétences en compréhension et modélisation du monde physique, ainsi qu'en interaction avec des systèmes complexes. Cela inclut des bases solides en mathématiques, physique, robotique, et programmation avancée, mais aussi une capacité à résoudre des problèmes concrets et à innover dans des domaines comme la chirurgie ou la conception architecturale. L'accent est mis sur la capacité à créer des IA capables de "comprendre et agir dans le monde physique".
+
+### Quelle est la différence entre l'IA générative actuelle et les "world models" que Yann LeCun juge révolutionnaires ?
+
+La principale différence est que l'IA générative actuelle excelle à créer du contenu (texte, images) sans une compréhension intrinsèque du monde, tandis que les "world models" visent à comprendre et à interagir avec l'environnement physique. Selon Yann LeCun, l'IA générative est limitée car elle ne possède pas cette capacité de raisonnement et d'action contextuelle. Les "world models" sont conçus pour simuler et prédire des scénarios réels, permettant ainsi des applications plus complexes comme le pilotage de robots ou la conception d'infrastructures.
+
+### D'ici quelle année les "world models" d'IA pourraient-ils transformer concrètement le marché du travail, et quels secteurs seront les plus impactés ?
+
+Selon Yann LeCun, l'adoption des "world models" pourrait redéfinir des métiers d'ici 2035, bien que des transformations significatives puissent commencer avant. Les secteurs les plus impactés seront ceux nécessitant une compréhension et une interaction complexe avec le monde physique, comme la médecine (robots chirurgicaux), l'ingénierie (conception de bâtiments), la logistique ou la fabrication. Ces systèmes promettent d'automatiser des tâches complexes et de créer de nouvelles opportunités dans la gestion et le développement de ces technologies avancées.
+
+### Quels sont les principaux défis ou incertitudes concernant l'intégration des "world models" dans la société et le marché de l'emploi, malgré l'optimisme de Yann LeCun ?
+
+Malgré l'optimisme de Yann LeCun, les principales incertitudes résident dans les moyens concrets de préparation de la jeunesse, la gestion des emplois automatisés avant l'émergence des nouvelles opportunités, et la transition socio-économique. Le texte mentionne que LeCun reste vague sur ces aspects pratiques. Il y a aussi le défi de développer ces systèmes complexes de manière éthique et sécurisée, tout en assurant une formation adéquate pour la main-d'œuvre afin de s'adapter aux changements profonds du marché du travail.

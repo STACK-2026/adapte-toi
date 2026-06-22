@@ -54,3 +54,21 @@ Tous les décryptages de cette semaine sont compilés dans la page archive [Sema
 ## La semaine prochaine
 
 On continue à publier tous les jours du lundi au samedi. Pour ne rien rater, abonne-toi au [Signal](/newsletter), notre newsletter hebdo zéro bullshit. Et pour approfondir les concepts techniques qui reviennent dans nos articles, [notre glossaire](/glossaire) détaille chaque terme avec exemple concret et source officielle.
+
+## Questions fréquentes
+
+### Comment l'intelligence artificielle, comme ChatGPT, transforme-t-elle les tâches quotidiennes des professionnels de la vente ?
+
+L'intelligence artificielle, notamment ChatGPT, redéfinit les tâches quotidiennes des professionnels de la vente en automatisant la rédaction de contenus personnalisés et en optimisant la recherche d'informations clients. Cela permet aux équipes commerciales de gagner un temps précieux sur la préparation des argumentaires, la rédaction d'emails de prospection ou de suivi, et l'analyse rapide des besoins des prospects. Les commerciaux peuvent ainsi se concentrer davantage sur les interactions humaines et la stratégie de vente.
+
+### Quels types d'emplois sont les plus susceptibles d'être automatisés ou significativement réduits par l'IA, d'après les tendances récentes ?
+
+Les emplois impliquant des tâches répétitives, administratives ou de traitement de données sont les plus susceptibles d'être automatisés ou significativement réduits par l'IA, comme l'illustre la réduction d'équipes RH. Des fonctions comme la gestion de la paie, le support client de premier niveau, la saisie de données ou certaines analyses financières peuvent être prises en charge par des algorithmes. Cela pousse les entreprises à réévaluer leurs effectifs et à réorienter les compétences vers des rôles plus stratégiques ou créatifs.
+
+### Quelles nouvelles compétences ou postes émergent pour les travailleurs indépendants face à l'essor de l'IA agentique ?
+
+L'essor de l'IA agentique ouvre de nouvelles opportunités pour les travailleurs indépendants, notamment la création de postes comme celui d'IA agentique, signalant un besoin en experts capables de gérer et d'optimiser ces systèmes. Les compétences en prompt engineering, en gestion de projets IA, en éthique de l'IA ou en intégration de solutions autonomes deviennent cruciales. Les indépendants qui maîtrisent ces domaines peuvent se positionner comme des consultants ou des développeurs de solutions personnalisées pour les entreprises.
+
+### Les outils d'IA peuvent-ils réellement augmenter la productivité de manière significative, par exemple en économisant 90 minutes par jour, sans impacter négativement les niveaux d'emploi dans des secteurs comme la banque ?
+
+Oui, les outils d'IA peuvent significativement augmenter la productivité, à l'image des banquiers gagnant 90 minutes par jour avec ChatGPT, en automatisant des tâches chronophages et en optimisant les processus. Cependant, cette efficacité accrue soulève des questions sur l'impact à long terme sur les niveaux d'emploi. L'objectif est souvent de libérer du temps pour des activités à plus forte valeur ajoutée plutôt que de supprimer des postes, mais une réallocation des ressources et une reconversion des compétences peuvent être nécessaires.

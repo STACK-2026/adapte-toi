@@ -113,3 +113,21 @@ L'IA bouscule déjà ton quotidien professionnel. Le rapport AI Index 2026 le co
 Tu as encore le temps, mais plus tu attends, plus la marche sera haute. Identifie les tâches optimisables avec l'IA, forme-toi aux outils pertinents, et positionne-toi comme acteur clé de cette transition. En reconversion, mise sur les métiers où l'humain reste indispensable (empathie, créativité).
 
 Pour aller plus loin : notre [guide complet sur la reconversion](/guides/reconversion-ia-guide-complet) ou la [fiche métier data analyst IA](/metiers/data-analyst-ia). La communauté Adapte-toi est là pour t'aider.
+
+## Questions fréquentes
+
+### Quelle est l'empreinte environnementale des modèles d'intelligence artificielle majeurs en termes de CO2 et de consommation d'eau ?
+
+L'empreinte environnementale des modèles d'IA est significative, Grok 4 ayant émis 72 816 tonnes de CO₂ et GPT-4o pouvant consommer annuellement autant d'eau que 12 millions de personnes. Cette consommation élevée est principalement due aux besoins énergétiques intenses pour l'entraînement et le fonctionnement de ces modèles, contribuant ainsi à leur coût écologique global.
+
+### Comment l'évolution rapide de l'IA impacte-t-elle spécifiquement l'embauche des jeunes développeurs en 2024 ?
+
+L'évolution rapide de l'IA a entraîné une baisse de 20% des embauches pour les jeunes développeurs âgés de 22 à 25 ans en 2024. Bien que l'IA ne remplace pas directement leurs postes, les entreprises ajustent leurs stratégies de recrutement, favorisant potentiellement des profils avec des compétences complémentaires à l'IA plutôt que des rôles purement traditionnels.
+
+### Pourquoi, malgré un taux d'adoption élevé, l'intelligence artificielle reste-t-elle sous-utilisée de manière stratégique par les entreprises ?
+
+Malgré un taux d'adoption mondiale de 53%, l'intelligence artificielle reste souvent sous-utilisée stratégiquement car son usage se limite fréquemment à des tâches superficielles comme la traduction ou la génération basique. Les entreprises rencontrent des difficultés à l'intégrer pleinement et de manière significative dans leurs processus métier pour en tirer un avantage compétitif profond.
+
+### Les IA très performantes, comme Gemini Deep Think, sont-elles fiables pour des tâches à la fois complexes et simples du quotidien ?
+
+Les IA très performantes, telles que Gemini Deep Think qui a excellé aux Olympiades de mathématiques, démontrent des capacités impressionnantes pour des tâches complexes, mais peuvent échouer sur des requêtes simples du quotidien, comme donner l'heure. Cette dichotomie souligne que la performance de l'IA est souvent spécialisée et ne garantit pas une fiabilité universelle sur l'ensemble des interactions.

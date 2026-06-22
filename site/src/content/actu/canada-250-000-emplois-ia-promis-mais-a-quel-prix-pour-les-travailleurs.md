@@ -105,3 +105,21 @@ Cette phrase résume l'ambition… et l'hypocrisie. Le gouvernement reconnaît q
 Le Canada a le mérite de poser les bonnes questions : comment faire de l'IA un levier d'emploi plutôt qu'une machine à licencier ? Mais sa stratégie ressemble à un catalogue de vœux pieux, avec des objectifs ambitieux et des moyens flous. **250 000 emplois créés, c'est bien. 810 000 emplois menacés, c'est une bombe sociale.** Sans un plan concret pour les reconversions, avec des budgets dédiés et des incitations pour les entreprises, cette stratégie risque de creuser les inégalités plutôt que de les réduire.
 
 Le vrai défi, c'est de passer des promesses aux actes. Pour ça, va lire notre [guide complet sur la reconversion avec l'IA](/guides/reconversion-ia-guide-complet), et consulte notre fiche métier [consultant IA](/metiers/consultant-ia) pour voir comment surfer sur cette vague… avant qu'elle ne t'emporte.
+
+## Questions fréquentes
+
+### Comment le Canada prévoit-il d'augmenter l'adoption de l'IA par les entreprises et de former sa population pour les emplois futurs ?
+
+La stratégie canadienne "L'IA pour tous" vise à quintupler le taux d'adoption de l'IA par les entreprises d'ici 2034, le faisant passer de 12% en 2026 à 60%. Pour y parvenir, le gouvernement mise sur un superordinateur public, des formations gratuites accessibles dans les bibliothèques et centres communautaires, ainsi qu'un volet éducatif intégré dès la maternelle. L'objectif est de créer 250 000 postes d'ici 2031, dont 90 000 pour les jeunes.
+
+### Quels sont les secteurs d'activité au Canada que le gouvernement cible comme prioritaires pour l'intégration de l'IA et quels emplois sont considérés comme vulnérables ?
+
+Le gouvernement canadien a identifié la santé, les transports, l'énergie, l'agriculture et la fabrication comme secteurs prioritaires pour l'intégration de l'intelligence artificielle. Cependant, une étude de l'Institut du Québec de 2025 estime que 810 000 emplois, rien qu'au Québec, sont vulnérables face à l'IA. La stratégie gouvernementale assure vouloir "renforcer l'expertise humaine plutôt que la supplanter", bien que les mesures concrètes pour y parvenir restent à détailler.
+
+### La stratégie nationale canadienne sur l'IA est-elle considérée comme suffisamment concrète pour atteindre ses objectifs et protéger les salariés ?
+
+La stratégie nationale canadienne sur l'IA, "L'IA pour tous", promet la création de 250 000 emplois d'ici 2031 et 90 000 postes pour les jeunes. Toutefois, le document officiel de 50 pages est jugé flou quant aux mesures concrètes pour atteindre ces objectifs et protéger les emplois menacés. L'étude de l'Institut du Québec, qui révèle 810 000 emplois vulnérables au Québec, souligne l'ampleur du défi et le manque de précisions.
+
+### Quelles sont les promesses chiffrées du gouvernement canadien concernant la création d'emplois et l'adoption de l'IA par les entreprises ?
+
+Le Canada s'engage à créer 250 000 emplois liés à l'IA d'ici 2031, dont 90 000 postes et stages spécifiquement pour les jeunes. Parallèlement, le gouvernement vise à quintupler le taux d'adoption de l'IA par les entreprises canadiennes d'ici 2034, le faisant passer de 12% en 2026 à un objectif de 60%. Ces chiffres ambitieux sont au cœur de la stratégie "L'IA pour tous".

@@ -112,3 +112,21 @@ Malt ne crée pas un poste, elle lance un avertissement. **Les indépendants qui
 Le défi n'est pas technique, mais mental. Il faut accepter que ton métier de demain n'existe pas encore, et que ton meilleur allié sera une IA formée à ton image. **La reconversion devient une routine**. Pour te préparer, commence par le [guide freelance IA](/guides/freelance-ia-guide) et explore les [métiers hybrides](/metiers/).
 
 Retiens ceci : demain, ton concurrent ne sera pas un autre freelance, mais une IA. **Soit tu la possèdes, soit tu deviens obsolète.**
+
+## Questions fréquentes
+
+### C'est quoi exactement un agent IA autonome et en quoi est-ce différent de ChatGPT ou Midjourney ?
+
+Un agent IA autonome est un système d'intelligence artificielle capable de prendre des décisions, d'agir de manière proactive et d'exécuter des tâches complexes sans intervention humaine constante pour atteindre un objectif défini. Contrairement à des outils génératifs comme ChatGPT ou Midjourney qui nécessitent des invites spécifiques pour produire du contenu, les agents agentiques peuvent initier des actions, négocier et s'adapter à des situations imprévues pour mener à bien une mission complète. Ils passent de la simple assistance à l'exécution indépendante.
+
+### Comment l'arrivée des agents IA sur des plateformes comme Malt va-t-elle concrètement affecter les freelances ?
+
+L'intégration d'agents IA agentiques sur des plateformes comme Malt va intensifier la concurrence pour les missions, car ces agents pourront négocier et exécuter des tâches de manière autonome. Les freelances pourraient voir certaines missions standardisées être prises en charge par l'IA, les poussant à se spécialiser davantage dans des domaines nécessitant une expertise humaine unique, de la créativité ou une interaction complexe. Cela pourrait également créer de nouvelles opportunités de collaboration entre humains et IA.
+
+### Quelles sont les capacités réelles d'un agent IA agentique : peut-il vraiment négocier des contrats ou gérer des projets entiers ?
+
+Oui, un agent IA agentique est conçu pour aller au-delà de la simple exécution de tâches et peut effectivement négocier des contrats, optimiser des tarifs et même gérer des parties de projets. Ces systèmes sont capables d'analyser le marché, de communiquer avec d'autres entités (humaines ou IA) et de prendre des décisions stratégiques pour atteindre des objectifs commerciaux. Leur autonomie leur permet de piloter des processus complexes, de la prospection à la livraison.
+
+### Quelles compétences un freelance devrait-il développer pour rester compétitif face à l'IA agentique ?
+
+Pour rester compétitif face à l'IA agentique, un freelance devrait développer des compétences axées sur la pensée critique, la résolution de problèmes complexes, la créativité et l'intelligence émotionnelle. L'accent doit être mis sur la collaboration avec l'IA, la supervision de ses actions, et l'identification de niches où l'expertise humaine, la stratégie ou la relation client restent primordiales. La capacité à comprendre et à utiliser ces nouveaux outils d'IA devient également une compétence clé.

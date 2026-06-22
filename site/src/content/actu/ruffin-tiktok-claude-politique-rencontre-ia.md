@@ -96,3 +96,21 @@ Ce n'est pas une révolution, c'est un symptôme. Un élu français qui parle à
 Retiens surtout ceci : quand un politique de gauche utilise un outil américain pour faire de la pédagogie contre la dérégulation américaine, tu n'es pas face à une contradiction, tu es face à la réalité du moment. Nous sommes tous dans ce paradoxe. Le pire n'est pas d'y être, c'est de faire semblant qu'on n'y est pas.
 
 Pour aller plus loin : lis notre synthèse [des chiffres clés IA et emploi 2026](/guides/ia-emploi-chiffres-cles) et notre guide sur [la régulation IA en Europe](/guides/ia-europe-reglementation).
+
+## Questions fréquentes
+
+### Comment François Ruffin utilise-t-il concrètement l'intelligence artificielle Claude dans ses vidéos politiques sur TikTok?
+
+François Ruffin intègre l'IA Claude dans un format vidéo TikTok où il pose une question politique à l'IA, dont la réponse s'affiche en direct et sous-titrée. Il commente ensuite cette réponse, qu'il peut choisir de contredire ou d'utiliser comme appui argumentatif, transformant l'IA en une source de débat public plutôt qu'un outil de simple pédagogie sur l'IA.
+
+### Pourquoi François Ruffin a-t-il choisi d'interagir avec une intelligence artificielle comme Claude pour ses prises de position politiques?
+
+François Ruffin utilise Claude comme une source d'information ou un interlocuteur pour enrichir et structurer le débat politique, à la manière d'un rapport officiel. Cette approche marque une rupture de posture, car elle permet à un homme politique de gauche de dialoguer directement avec un grand modèle linguistique (LLM) pour aborder des sujets complexes, offrant une nouvelle forme de pédagogie "avec" l'IA.
+
+### Quels types de sujets politiques sont abordés par François Ruffin en interrogeant l'IA Claude dans ses vidéos TikTok?
+
+François Ruffin aborde des thématiques politiques variées et souvent complexes en interrogeant l'IA Claude, comme l'évasion fiscale des GAFAM ou le coût énergétique des requêtes d'IA. Il discute également du nombre d'emplois potentiellement détruits dans la logistique d'ici 2030, de la fiscalité de l'IA en Europe et de la diminution des centres d'appels en Inde, couvrant ainsi des enjeux économiques et sociaux majeurs.
+
+### Quel est l'impact ou la portée des vidéos TikTok de François Ruffin intégrant l'IA dans le débat politique français?
+
+Les vidéos TikTok de François Ruffin utilisant l'IA Claude ont généré plusieurs millions de vues et initié un débat politique frontal sur des sujets cruciaux, qu'aucun autre parti de gauche n'avait abordé de manière aussi directe. Cette série de vidéos, lancée fin mars 2026, représente une innovation dans la communication politique, positionnant l'IA non pas comme un sujet d'étude, mais comme un outil actif dans la discussion publique.

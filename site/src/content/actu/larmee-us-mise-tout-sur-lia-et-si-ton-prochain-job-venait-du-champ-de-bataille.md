@@ -107,3 +107,21 @@ L'IA militaire redéfinit le marché du travail. Les compétences acquises sous 
 Pour en profiter, identifie les compétences transférables et forme-toi rapidement. Les armées et entreprises de défense recrutent des profils opérationnels.
 
 Lis notre [guide sur la reconversion dans l'IA](/guides/reconversion-ia-guide-complet) et consulte notre fiche [métier data analyst IA](/metiers/data-analyst-ia). Pour les budgets militaires, vois notre [décryptage sur l'IA et l'emploi en Europe](/guides/ia-europe-reglementation/). La guerre algorithmique est lancée, à toi de choisir ton camp.
+
+## Questions fréquentes
+
+### Quelles sont les compétences spécifiques développées via les projets d'IA militaire qui sont fortement valorisées sur le marché de l'emploi civil, notamment en 2026 ?
+
+Les compétences développées dans les projets d'IA militaire, telles que la science des données, la cybersécurité et la gestion de projets complexes, sont très recherchées dans le secteur civil. Ces expertises sont particulièrement valorisées par les entreprises technologiques et aérospatiales, qui reconnaissent la rigueur et l'efficacité des vétérans formés à ces technologies avancées.
+
+### Comment les technologies d'intelligence artificielle initialement développées pour des usages militaires, comme le projet Maven, peuvent-elles être adaptées et utilisées dans des secteurs civils ?
+
+Les technologies d'IA développées pour des usages militaires, telles que les algorithmes de vision par ordinateur du projet Maven et la maintenance prédictive, sont directement adaptables à de nombreux secteurs civils. Ces outils peuvent par exemple optimiser la logistique, améliorer la surveillance industrielle ou encore renforcer la cybersécurité des infrastructures critiques, offrant ainsi des solutions innovantes pour les entreprises.
+
+### Comment la stratégie d'intégration de l'IA dans les opérations militaires américaines se compare-t-elle aux approches adoptées par des pays européens comme la France et l'Allemagne ?
+
+La stratégie américaine intègre l'IA massivement dans la sécurité nationale, avec des projets comme Maven pour l'identification de cibles. En Europe, la France incorpore l'IA dans sa stratégie de défense nationale, tandis que l'Allemagne privilégie la collaboration avec le secteur privé pour développer des programmes similaires. Bien que les objectifs soient convergents, les modalités de développement et d'intégration peuvent différer, notamment par l'ampleur des investissements et les partenariats.
+
+### Au-delà des transferts de compétences, l'intégration de l'IA dans les opérations militaires américaines va-t-elle créer de nouveaux types d'emplois civils spécifiques d'ici 2026 ?
+
+L'intégration de l'IA militaire est susceptible de créer de nouveaux types d'emplois civils, notamment dans les domaines de l'éthique de l'IA, de la conformité réglementaire et de la transition technologique. Des rôles d'ingénieurs en intégration de systèmes autonomes ou de spécialistes en cybersécurité des infrastructures critiques bénéficieront également de cette évolution, répondant aux besoins croissants de déploiement et de sécurisation des technologies dérivées.

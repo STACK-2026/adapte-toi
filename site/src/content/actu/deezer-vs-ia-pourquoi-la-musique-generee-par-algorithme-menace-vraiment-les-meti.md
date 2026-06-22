@@ -116,3 +116,21 @@ Deezer communique sur la transparence, mais ne révèle pas **combien d'argent**
 Deezer limite l'impact de l'IA, mais sa stratégie ne sauvera pas les créateurs. Le vrai problème : **l'IA casse les prix** et concentre les revenus entre les mains des plateformes. Pour survivre, **différencie-toi par l'humain**, **diversifie tes revenus** et **forme-toi aux outils hybrides**.
 
 La musique n'est qu'un début. Cinéma, pub, journalisme suivront. Consulte notre [guide métiers menacés](/guides/ia-emploi-chiffres-cles) et la fiche compositeur IA pour t'adapter. L'IA ne tue pas la création, mais **force les créateurs à se réinventer**.
+
+## Questions fréquentes
+
+### Quelles sont les mesures concrètes que Deezer prévoit de prendre contre la musique générée par IA à partir de 2026 ?
+
+À partir du 9 juin 2026, Deezer prévoit de limiter l'impact de la musique générée par IA en la détectant systématiquement. Ces morceaux seront retirés des recommandations de la plateforme et leurs versions haute résolution ne seront plus stockées. L'objectif est de réduire la visibilité de ce contenu qui représente une part importante des nouveautés mais peu de streams.
+
+### Pourquoi Deezer choisit-il de limiter la musique IA alors que la majorité des auditeurs ne la distinguent pas de la musique humaine ?
+
+Deezer limite la musique IA principalement par intérêt économique, car bien que 97% des auditeurs ne la distinguent pas, ces titres ne représentent que 1 à 3% des streams. En dévalorisant le travail des artistes et en inondant le marché de contenu low-cost, la musique IA rapporte peu en droits d'auteur à la plateforme. L'action de Deezer vise à protéger ses marges et à rééquilibrer l'écosystème.
+
+### Quel est le volume de titres musicaux générés par intelligence artificielle mis en ligne chaque mois sur les plateformes de streaming ?
+
+Chaque mois, environ 2 millions de titres musicaux générés par intelligence artificielle sont mis en ligne sur les plateformes de streaming. Ce volume massif contribue à l'inondation du marché par du contenu low-cost, ce qui rend difficile pour les artistes humains de se démarquer et de valoriser leur travail.
+
+### Comment l'afflux de musique générée par IA impacte-t-il la valorisation du travail des artistes humains sur les plateformes ?
+
+L'afflux de musique générée par IA dévalue le travail des artistes humains en inondant le marché de contenu low-cost et en diluant l'attention des auditeurs. Malgré leur faible part de streams (1 à 3%), ces titres représentent 44% des nouveautés, ce qui rend la visibilité et la rémunération des petits artistes beaucoup plus difficiles. Cela concentre les streams sur quelques hits, au détriment de la diversité.

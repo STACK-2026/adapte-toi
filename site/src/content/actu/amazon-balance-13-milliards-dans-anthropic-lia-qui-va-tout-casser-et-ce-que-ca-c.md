@@ -109,3 +109,21 @@ Ce partenariat Amazon-Anthropic marque le passage de l'IA générative à l'indu
 Les opportunités sont immenses pour ceux qui se forment **dès maintenant**. Les profils hybrides (IA + cloud) domineront, tandis que les spécialistes d'un seul domaine verront leur valeur baisser. **Ne tarde pas** : les compétences en IA générative deviendront indispensables.
 
 Pour aller plus loin, consulte notre [guide de reconversion dans l'IA](/guides/reconversion-ia-guide-complet) ou la [fiche métier data analyst IA](/metiers/data-analyst-ia). Teste [Claude](/outils/claude) pour commencer.
+
+## Questions fréquentes
+
+### Quel est le montant total des investissements d'Amazon dans Anthropic et à quoi s'engage Anthropic en retour ?
+
+Amazon a investi un total de 13 milliards de dollars dans Anthropic depuis 2023, incluant un engagement supplémentaire de 5 milliards. En contrepartie, Anthropic s'est engagé à dépenser 100 milliards de dollars sur les services AWS d'Amazon d'ici 2036, utilisant une puissance de calcul massive pour ses modèles d'IA. Ce partenariat assure à Amazon un client majeur et à Anthropic les ressources nécessaires à son développement.
+
+### Quelles puces d'intelligence artificielle Amazon fournit-il à Anthropic dans le cadre de leur partenariat stratégique ?
+
+Amazon fournit à Anthropic ses puces Trainium, spécifiquement conçues pour l'entraînement des modèles d'intelligence artificielle. Anthropic a sécurisé des options sur les générations futures de ces puces, notamment Trainium2, Trainium3 (déjà commercialisé depuis décembre) et Trainium4. Cette collaboration technologique est cruciale pour le développement et l'optimisation des modèles d'IA d'Anthropic, garantissant un accès privilégié à une infrastructure de calcul de pointe.
+
+### Quel est l'objectif principal d'Amazon derrière son investissement de plusieurs milliards dans Anthropic ?
+
+L'objectif principal d'Amazon est de créer une "fusion d'intérêts industriels" avec Anthropic, allant au-delà d'un simple investissement financier. En sécurisant un acteur majeur de l'IA comme Anthropic sur son infrastructure AWS et ses puces Trainium, Amazon renforce sa position dans la guerre de l'IA, garantissant des revenus massifs à long terme et une intégration profonde de ses technologies dans les innovations d'Anthropic.
+
+### Comment l'investissement d'Amazon va-t-il influencer la croissance et la valorisation future d'Anthropic ?
+
+L'investissement d'Amazon consolide significativement la croissance et la valorisation d'Anthropic, la transformant d'une startup en un acteur industriel majeur. Avec un chiffre d'affaires prévisionnel passant de 1 milliard de dollars fin 2024 à 30 milliards en 2026, et une valorisation actuelle de 800 milliards de dollars, Anthropic est désormais positionnée pour une potentielle introduction en Bourse. Cet apport financier et technologique lui permet d'investir massivement en R&D et de recruter des ingénieurs.

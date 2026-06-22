@@ -101,3 +101,21 @@ Cette phrase illustre l'urgence. L'Europe a cru que les géants américains sera
 Le blocage d'Anthropic confirme que la dépendance aux géants américains est un risque existentiel. Les entreprises françaises doivent soit investir dans des solutions souveraines, soit disparaître.
 
 L'Europe a les outils (Mistral, Hugging Face, [Gaia-X](https://www.gaia-x.eu/)) mais doit agir maintenant. Pour approfondir, consultez notre [guide sur la réglementation IA](/guides/ia-europe-reglementation) ou notre fiche sur les outils souverains. Le réveil est douloureux, mais nécessaire.
+
+## Questions fréquentes
+
+### Quelles sont les conséquences concrètes pour les entreprises françaises qui utilisaient les modèles d'IA d'Anthropic après le blocage de 2026 ?
+
+Le blocage des modèles d'IA d'Anthropic en 2026 a entraîné une paralysie immédiate pour les entreprises françaises dépendantes de ces outils, notamment l'Enisa et certaines banques. Celles-ci se sont retrouvées du jour au lendemain sans infrastructure essentielle pour leur R&D, leur service client ou leurs opérations critiques, nécessitant une réorientation rapide vers d'autres solutions ou le développement de leurs propres capacités. Cela souligne la vulnérabilité des services basés sur des technologies étrangères.
+
+### Comment les entreprises européennes peuvent-elles se prémunir contre de futurs blocages d'accès aux IA américaines ?
+
+Pour se prémunir contre de futurs blocages, les entreprises européennes doivent diversifier leurs fournisseurs d'IA et privilégier des solutions développées en Europe, ou au moins sous licence européenne. Cela implique d'investir dans la recherche et le développement interne, de soutenir des initiatives comme Mistral AI, et de mettre en place des stratégies de résilience technologique pour éviter une dépendance excessive à un unique acteur ou une seule juridiction.
+
+### Existe-t-il des alternatives européennes crédibles aux modèles d'IA comme ceux d'Anthropic pour les développeurs et entreprises ?
+
+Oui, des alternatives européennes crédibles aux modèles d'IA américains existent, à l'image de Mistral AI, qui a démontré la capacité de l'Europe à développer des modèles compétitifs. Bien que le financement public reste un défi, ces initiatives offrent des solutions pour les entreprises soucieuses de leur souveraineté numérique. Il est crucial d'encourager ces acteurs locaux par des investissements et des partenariats pour construire un écosystème technologique robuste et indépendant.
+
+### Pourquoi la dépendance de l'Europe aux géants de l'IA américains est-elle considérée comme un risque majeur pour sa souveraineté numérique ?
+
+La dépendance de l'Europe aux géants de l'IA américains est un risque majeur car elle expose les entreprises et institutions à des décisions unilatérales, comme le blocage d'Anthropic, qui peuvent paralyser des services essentiels. Cette situation compromet la souveraineté numérique en plaçant le contrôle des infrastructures critiques entre les mains d'entités étrangères, soumises à des législations qui peuvent différer des intérêts européens en matière de sécurité et d'éthique des données.

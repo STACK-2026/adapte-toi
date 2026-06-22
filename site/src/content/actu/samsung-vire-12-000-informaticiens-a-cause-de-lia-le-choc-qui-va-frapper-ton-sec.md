@@ -169,3 +169,21 @@ Samsung annonce l'avenir : l'IA va s'attaquer à tous les métiers répétitifs.
 La clé : **monte en compétences sur des tâches que l'IA ne peut pas faire** (créativité, gestion de projet, analyse stratégique). Et arrête de croire que ton job est sûr.
 
 Pour aller plus loin : [Guide complet sur la reconversion face à l'IA](/guides/reconversion-ia-guide-complet). Pour les métiers résistants : [notre fiche dédiée](/metiers/) (disponible le 30 juin). Le train est en marche, à toi de choisir ta place.
+
+## Questions fréquentes
+
+### Quels sont les types de postes informatiques les plus menacés par l'automatisation de l'IA, d'après l'exemple de Samsung ?
+
+D'après l'expérience de Samsung, les postes informatiques les plus menacés par l'automatisation via l'IA incluent les développeurs backend, les administrateurs système, les testeurs QA et les analystes data juniors. Ces rôles sont directement impactés par l'efficacité accrue des modèles de langage et des outils d'IA comme Samsung Gauss et Mistral, qui peuvent gérer des tâches auparavant réalisées par de nombreux ingénieurs.
+
+### À quelle vitesse les entreprises technologiques comme Samsung remplacent-elles leurs employés IT par des solutions d'intelligence artificielle ?
+
+Samsung a remplacé 12 000 postes dans ses divisions IT et data entre janvier 2024 et juin 2026, démontrant une transition rapide vers l'automatisation par l'IA sur une période d'environ deux ans et demi. Cette accélération est justifiée par l'optimisation des coûts et la capacité des modèles de langage à exécuter des tâches complexes avec moins de personnel.
+
+### Quelles nouvelles compétences les professionnels de l'informatique devraient-ils développer pour s'adapter à l'intégration de l'IA dans les entreprises comme Samsung ?
+
+Pour s'adapter à l'intégration de l'IA, les professionnels de l'informatique devraient développer des compétences en prompt engineering et en éthique des modèles d'IA, des domaines pour lesquels Samsung continue de recruter. Ces nouvelles expertises sont cruciales pour interagir efficacement avec les systèmes d'IA et garantir leur déploiement responsable, contrastant avec les rôles plus traditionnels qui sont automatisés.
+
+### Est-ce que d'autres grandes entreprises technologiques suivent la même tendance que Samsung en réduisant leurs effectifs IT à cause de l'IA ?
+
+Oui, Samsung n'est pas un cas isolé ; d'autres grandes entreprises technologiques ont également réduit leurs effectifs IT en raison de l'automatisation et de l'IA. Par exemple, IBM a supprimé 8 000 postes en 2025 et Accenture 6 500 en 2024, indiquant une tendance plus large dans l'industrie à optimiser les coûts et les opérations via l'intelligence artificielle.

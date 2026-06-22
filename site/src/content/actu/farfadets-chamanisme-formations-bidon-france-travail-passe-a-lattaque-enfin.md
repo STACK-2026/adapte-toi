@@ -104,3 +104,21 @@ France Travail se réveille enfin, mais le système reste une passoire. 250 form
 La solution ? Un vrai contrôle *a priori*, pas *a posteriori*. France Travail doit évaluer le contenu des formations, pas juste leur processus. Et le CPF doit suivre le même chemin, sinon, les escrocs continueront à se gaver.
 
 En attendant, reste vigilant. Une formation, c'est un investissement, pas une loterie. Si tu veux éviter les pièges, va lire notre [guide pour repérer les études inutiles](/guides/etudes-inutiles-que-faire) et consulte notre [fiche métier consultant en IA](/metiers/consultant-ia) pour des pistes sérieuses. Parce qu'en 2026, se former, ça doit rimer avec *emploi*, pas avec *arnaque*.
+
+## Questions fréquentes
+
+### Comment vérifier la fiabilité d'une formation proposée par France Travail avant 2026 ?
+
+Avant le lancement de l'outil de signalement, il est recommandé de consulter les avis d'anciens participants, de vérifier la réputation de l'organisme de formation et de s'assurer que le contenu correspond à un projet professionnel concret. Bien que la certification Qualiopi soit un prérequis, elle ne garantit pas à elle seule la pertinence ou la qualité pédagogique de toutes les offres. Une recherche approfondie et un examen critique restent essentiels pour éviter les déceptions.
+
+### Quels types de formations sont considérées comme 'douteuses' ou 'bidon' par France Travail ?
+
+France Travail cible les formations sans lien direct avec un métier ou un développement de compétences employables, souvent caractérisées par des thèmes ésotériques ou non reconnus professionnellement. Des exemples incluent des cours sur le "chamanisme", la "mission de l'âme" ou la "guérison karmique", comme ceux cités dans le scandale. Ces offres, bien que parfois certifiées, ne correspondent pas aux objectifs d'insertion professionnelle de l'organisme.
+
+### Pourquoi France Travail a-t-il du mal à filtrer les formations de mauvaise qualité actuellement ?
+
+La difficulté pour France Travail de filtrer les formations réside principalement dans le fait qu'il ne gère pas directement le catalogue des offres, qui est agrégé par les organismes régionaux Carif-Oref. De plus, 97 % des formations sont labellisées Qualiopi, une certification censée garantir la qualité mais qui s'est avérée insuffisante pour bloquer toutes les offres douteuses, complexifiant ainsi le contrôle.
+
+### Quels sont les risques pour un demandeur d'emploi qui suit une formation jugée bidon ?
+
+Le principal risque pour un demandeur d'emploi est la perte de temps et d'opportunités, car la formation suivie ne mènera pas à une réelle qualification ou à un emploi. Cela peut également entraîner un gaspillage de fonds publics, mais l'individu n'est généralement pas tenu pour responsable financièrement si la formation a été validée et financée par France Travail. Le préjudice est surtout celui d'une absence de progression professionnelle.

@@ -104,3 +104,21 @@ Cette citation montre le changement de paradigme : l'IA n'est plus un gadget, ma
 Cisco prouve que l'IA est désormais un coéquipier capable de tâches critiques. Les développeurs codant manuellement seront distancés : le futur, c'est la supervision d'agents IA. Les entreprises retardataires perdront en compétitivité.
 
 L'IA transforme les métiers tech : développeurs en architectes de systèmes intelligents, chefs de projet en managers d'agents IA. Pour toi, la priorité ? Te former à travailler *avec* l'IA. Teste [Cursor](/outils/cursor) ou [Claude](/outils/claude), et consulte notre [guide reconversion IA](/guides/reconversion-ia-guide-complet). Pour les métiers émergents, lis notre [fiche développeur IA](/metiers/developpeur-ia).
+
+## Questions fréquentes
+
+### Quelle est la principale différence entre OpenAI Codex utilisé par Cisco et des outils comme GitHub Copilot ?
+
+OpenAI Codex, dans le cadre de Cisco, fonctionne comme un agent autonome capable d'analyser des bases de code complexes et d'exécuter des tâches complètes, de la compilation aux tests et corrections. Contrairement à GitHub Copilot qui suggère du code, Codex s'intègre aux processus de revue et de sécurité pour générer et suivre des plans de travail validés par les ingénieurs.
+
+### Quels sont les gains concrets de productivité pour les équipes d'ingénierie de Cisco grâce à l'intégration d'OpenAI Codex ?
+
+L'intégration d'OpenAI Codex permet aux équipes de Cisco de gagner 10 à 15 fois plus de temps sur la résolution de bugs logiciels. Cette automatisation se traduit par une économie substantielle d'environ 1 500 heures d'ingénierie par mois, libérant ainsi les développeurs pour se concentrer sur des tâches stratégiques et innovantes.
+
+### Quelles sont les capacités spécifiques d'automatisation de code offertes par OpenAI Codex dans l'environnement de Cisco ?
+
+OpenAI Codex automatise 95% des nouvelles fonctionnalités pour la solution AI Defense de Cisco en analysant des bases de code complexes (C/C++, multi-repos) et en exécutant des tâches comme la compilation, les tests et les corrections. Il peut aussi optimiser les temps de build et migrer des interfaces logicielles, comme le passage de React 18 à 19.
+
+### En quoi consiste la collaboration "Daybreak" entre Cisco et OpenAI mentionnée dans le cadre de Codex ?
+
+La collaboration "Daybreak" est une initiative stratégique où Cisco et OpenAI associent des modèles d'IA avancés, tels que GPT-5.5-Cyber, avec des partenaires de sécurité. Cette démarche vise à renforcer les capacités de défense de Cisco en intégrant l'intelligence artificielle pour anticiper et contrer les menaces cybernétiques de manière proactive.

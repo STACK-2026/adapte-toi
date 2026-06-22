@@ -99,3 +99,21 @@ Le mot important est *migration*. Le marché du travail français n'est pas en t
 Croisés, le BMO 2025 et le rapport Cognizant 2026 disent une chose simple : il n'y a pas un marché du travail français, il y en a deux. L'un avec pénurie, salaires qui montent, peu d'exposition IA. L'autre avec saturation, salaires qui stagnent, forte exposition IA. Entre les deux, la bonne nouvelle : la France a besoin de bras, de têtes, de cœurs. Il y a de la place. Mais pas n'importe où.
 
 Si tu veux les données consolidées de tous les rapports récents (OCDE, Anthropic, McKinsey, FMI, Ipsos, France Travail, Cognizant) en une seule page, va sur [notre guide chiffres clés IA et emploi](/guides/ia-emploi-chiffres-cles). Si tu veux savoir dans quelle catégorie ton métier se situe, notre [catalogue de fiches métiers](/métiers) note chacun sur 10.
+
+## Questions fréquentes
+
+### Comment l'intelligence artificielle est-elle censée reconfigurer le marché du travail français d'ici 2030 ?
+
+Selon le rapport "New Work, New World 2026" de Cognizant, environ 12 % des postes en France seront significativement reconfigurés par l'intelligence artificielle d'ici 2030. Cette reconfiguration implique des modifications des tâches, un impact sur la rémunération et des changements dans les qualifications requises pour ces emplois, marquant une évolution profonde de certaines professions.
+
+### Quels types de métiers en France sont les moins menacés par l'intelligence artificielle selon les projections pour 2025-2026 ?
+
+Les métiers les moins menacés par l'intelligence artificielle, selon la corrélation entre le rapport BMO 2025 et les projections IA, sont principalement ceux liés à l'aide à la personne, aux services de proximité, à la restauration et aux activités saisonnières. Ces secteurs, qui incluent notamment l'aide à domicile et les emplois agricoles ou touristiques, sont identifiés comme les plus demandés en 2025 et moins vulnérables à l'automatisation.
+
+### Pourquoi les employeurs français anticipent-ils des difficultés à pourvoir leurs postes en 2025 malgré un grand nombre de projets de recrutement ?
+
+Les employeurs français anticipent des difficultés à pourvoir 57 % de leurs 2,77 millions de projets de recrutement déclarés pour 2025, selon l'enquête BMO de France Travail. Cette situation révèle un décalage entre l'offre et la demande de compétences, ou un manque d'attractivité pour certains métiers essentiels, créant un marché du travail "à deux vitesses" où certains profils sont rares.
+
+### Que révèle la combinaison des rapports BMO 2025 et Cognizant 2026 sur l'évolution du marché du travail en France ?
+
+La combinaison des rapports BMO 2025 et Cognizant 2026 indique que la France connaît un marché du travail "à deux vitesses", où la vague de l'intelligence artificielle accentue les écarts existants. Elle souligne que les métiers les plus demandés en 2025 sont paradoxalement ceux qui sont le moins menacés par l'IA, tandis que d'autres postes subissent d'importantes reconfigurations.

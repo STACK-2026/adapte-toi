@@ -117,3 +117,21 @@ Amazon promet des emplois mais accélère l'automatisation. Les 25 000 postes cr
 **Si tu travailles dans la logistique ou le e-commerce, ton poste est en sursis.** Forme-toi, anticipe, et reconvertis-toi avant 2027. Les métiers résistants combinent compétences humaines et IA : data, cybersécurité, relation client.
 
 Consulte notre [guide de reconversion](/guides/reconversion-ia-guide-complet) et la fiche [data analyst IA](/metiers/data-analyst-ia). Pour automatiser ton travail sans dépendre d'Amazon, utilise ce [guide](/guides/automatiser-travail-ia).
+
+## Questions fréquentes
+
+### Quels types d'emplois Amazon sont directement menacés par l'automatisation et l'introduction de robots comme Proteus et Vulcan en Europe ?
+
+Les métiers de manutention et de préparation de commandes chez Amazon en Europe sont directement menacés par l'automatisation croissante et l'introduction de robots. Ces technologies visent à réduire les besoins en main-d'œuvre pour les tâches répétitives et physiques, bien qu'officiellement présentées comme des outils de soulagement pour les salariés. L'investissement de 10 milliards d'euros vise précisément à moderniser la logistique par ces moyens.
+
+### Les 25 000 nouveaux emplois annoncés par Amazon en Europe sont-ils accessibles aux salariés dont le poste est menacé par les robots ?
+
+Les 25 000 nouveaux emplois annoncés par Amazon en Europe d'ici 2027 ne compensent pas directement les suppressions de postes liées à l'automatisation, car ils ciblent des compétences différentes. Le fonds de formation d'un milliard de dollars est orienté vers la cybersécurité, le développement logiciel et la logistique "augmentée", des domaines qui requièrent des qualifications spécifiques. Les métiers de manutention menacés ne sont pas la cible principale de ces nouvelles créations d'emplois.
+
+### Le fonds de formation d'un milliard de dollars lancé par Amazon est-il suffisant pour requalifier les employés dont les postes sont automatisés ?
+
+Le fonds de formation d'un milliard de dollars lancé par Amazon vise principalement à développer des compétences en cybersécurité, développement logiciel et logistique "augmentée" d'ici 2030, ne ciblant pas directement les métiers de manutention ou de préparation de commandes menacés. Bien qu'il représente un effort d'investissement significatif, son orientation ne correspond pas toujours aux besoins de reconversion des emplois les plus impactés par l'automatisation. Il s'agit plutôt d'une montée en compétences pour des postes plus techniques.
+
+### Pourquoi l'Europe est-elle dépendante des investissements d'entreprises comme Amazon pour son développement technologique et la création d'emplois qualifiés ?
+
+L'Europe est dépendante des investissements étrangers, comme ceux d'Amazon, en raison d'un manque de champions technologiques indigènes et d'une fuite des licornes européennes. Selon le rapport Draghi, 30 % des licornes européennes ont quitté le continent pour les États-Unis depuis 2008, créant un déficit que les investissements américains viennent partiellement combler. Cette situation souligne un besoin accru de l'Europe à développer et retenir ses propres entreprises innovantes.

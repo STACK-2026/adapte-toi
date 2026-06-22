@@ -116,3 +116,21 @@ Pour aller plus loin :
 - [Devenir consultant IA](/metiers/consultant-ia)
 
 L'IA avance, mais pas *sur* toi. À toi de jouer.
+
+## Questions fréquentes
+
+### Quelles sont les implications concrètes pour les employés dont le poste est menacé par l'adoption de l'IA, suite à la décision de Hangzhou ?
+
+La décision de Hangzhou implique que les employés licenciés en raison du remplacement par l'IA peuvent potentiellement obtenir une compensation financière significative si l'entreprise n'a pas prouvé une fatalité économique. Elle renforce l'idée que l'adoption de l'IA est un choix stratégique de l'employeur, et non une cause de force majeure. Les salariés pourraient ainsi contester plus efficacement les licenciements basés uniquement sur l'automatisation sans proposition de reclassement ou de formation.
+
+### Quelles responsabilités légales pèsent sur les entreprises qui envisagent de remplacer des postes par l'intelligence artificielle, selon la jurisprudence chinoise de 2026 ?
+
+Selon la jurisprudence chinoise de 2026, les entreprises ont la responsabilité de prouver que le remplacement d'un employé par l'IA n'est pas un simple choix stratégique, mais une nécessité économique impérieuse. Le juge a rejeté l'argument de "changement substantiel des circonstances économiques" pour l'adoption de l'IA. L'entreprise est tenue de proposer des solutions alternatives comme la formation ou le reclassement du salarié avant d'envisager un licenciement, sous peine de devoir verser des indemnités.
+
+### Comment cette décision chinoise de 2026 sur le licenciement lié à l'IA pourrait-elle influencer les prud'hommes en Europe, notamment en France ?
+
+Cette décision chinoise pourrait servir de précédent moral et inspirer les prud'hommes européens, y compris en France, en renforçant la protection des salariés face aux licenciements pour motif économique lié à l'IA. Elle souligne que l'IA est un choix stratégique de l'entreprise, non une fatalité, un principe qui résonne avec le droit du travail protecteur européen. Les tribunaux pourraient s'appuyer sur cette logique pour exiger des entreprises des efforts de reclassement ou de formation avant tout licenciement pour motif technologique.
+
+### Quel type de compensation ou de reclassement un salarié peut-il attendre si son emploi est supprimé par l'IA, d'après l'affaire de Hangzhou ?
+
+D'après l'affaire de Hangzhou, un salarié dont le poste est supprimé par l'IA peut potentiellement prétendre à une compensation financière substantielle si l'entreprise n'a pas proposé de reclassement adéquat. Dans ce cas précis, l'employé a reçu 33 000 € après avoir refusé un reclassement avec une baisse de salaire de 40 %. Cela suggère que les entreprises doivent offrir des alternatives de reclassement viables et comparables en termes de conditions de travail pour éviter des condamnations.

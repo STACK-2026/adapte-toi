@@ -130,3 +130,21 @@ L'IA transforme le travail en usine à bullshit et charge mentale. Les 11h gagn�
 Le défi est organisationnel : structurer le *botsitting* pour éviter le temps perdu, et empêcher le *botshitting* de dégrader la qualité. Les solutions ? Métiers émergents (consultant IA, prompt engineer) et formations pour superviser, pas subir.
 
 Lis notre [guide automatisation sans se faire avoir](/guides/automatiser-travail-ia), consulte la [fiche chef de projet IA](/metiers/chef-de-projet-ia), et teste [Claude](/outils/claude) pour limiter les erreurs. L'IA est un levier si tu gardes le contrôle. Sinon, tu finiras comme ces 28% qui rejettent la faute sur la machine.
+
+## Questions fréquentes
+
+### Qu'est-ce que le botsitting et quel est son impact réel sur la productivité des professionnels ?
+
+Le botsitting est le temps que les professionnels consacrent à surveiller, corriger et contextualiser le contenu généré par l'intelligence artificielle, réduisant considérablement les gains de productivité nets. Bien que l'IA puisse faire gagner 11 heures par semaine, 6,4 heures sont dédiées au botsitting, transformant l'efficacité potentielle en un coût caché pour les entreprises. Ce phénomène empêche les économies de temps individuelles de se traduire en bénéfices organisationnels collectifs.
+
+### Pourquoi les entreprises ne parviennent-elles pas à transformer les gains de temps individuels de l'IA en bénéfices collectifs ?
+
+Les entreprises peinent à convertir les gains de temps individuels de l'IA en bénéfices collectifs car cela exige une refonte organisationnelle significative pour intégrer efficacement la technologie. Les 11 heures gagnées par les professionnels sont souvent compensées par les 6,4 heures de botsitting, ce qui réduit le gain net et nécessite des ajustements structurels pour que l'entreprise en tire pleinement parti. Sans ces changements, l'IA agit comme un stagiaire brillant mais imprévisible.
+
+### Quels sont les risques du "botshitting" dans le milieu professionnel et quelle est sa fréquence d'utilisation ?
+
+Le "botshitting" est la pratique consistant à livrer du travail généré par l'IA sans vérification préalable, ce qui entraîne des résultats incompréhensibles et une dégradation de la qualité. Cette pratique est très répandue, 69% des utilisateurs avouant y recourir, et 41% livrant des productions difficiles à comprendre. Cette automatisation non contrôlée transforme l'efficacité potentielle en une "usine à bullshit", où les erreurs sont souvent imputées à l'IA plutôt qu'à un manque de supervision humaine.
+
+### Combien d'outils d'intelligence artificielle les professionnels utilisent-ils en moyenne et quelles en sont les conséquences sur leur efficacité ?
+
+Les professionnels du numérique jonglent fréquemment avec plusieurs outils d'IA, 77% en utilisant plusieurs et 33% en exploitant au moins quatre, ce qui complexifie les flux de travail et augmente le temps de botsitting. Cette prolifération, bien qu'ayant pour but l'efficacité, contribue paradoxalement aux 6,4 heures hebdomadaires consacrées à la surveillance et à la correction des productions de l'IA. Gérer de multiples interfaces accroît les coûts cachés, entravant les gains de productivité attendus.

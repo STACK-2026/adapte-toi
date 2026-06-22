@@ -113,3 +113,21 @@ L'Economic Index n'est pas une prophétie, c'est un constat. Sur les entreprises
 Ton métier a probablement déjà été traité dans nos [fiches métier](/métiers) avec un score d'exposition. Si tu veux les chiffres macro en un seul endroit, va sur [la page chiffres clés](/guides/ia-emploi-chiffres-cles). Si tu veux apprendre à utiliser Claude comme les seniors qui capturent les +28 % de productivité, commence par [le guide prompt engineering](/guides/prompt-engineering-debutant) puis [automatiser ton travail avec l'IA](/guides/automatiser-travail-ia).
 
 Retiens ceci : les chiffres d'Anthropic sont probablement les plus fiables du marché aujourd'hui, parce qu'ils viennent du fabricant lui-même. Ce que les autres éditeurs ne disent pas, tu peux l'inférer.
+
+## Questions fréquentes
+
+### Quels types de postes sont les plus impactés par l'intégration de Claude dans les entreprises selon le rapport d'Anthropic ?
+
+Le rapport d'Anthropic indique une réduction significative des postes juniors dans les centres d'appels, avec une diminution de 67%. Cet impact est particulièrement marqué dans les rôles administratifs des entreprises ayant adopté l'API de Claude de manière intensive. L'étude suggère ainsi une évolution des besoins en personnel pour les fonctions de service client de premier niveau.
+
+### Est-ce que les conclusions du rapport Anthropic sur l'impact de Claude s'appliquent à toutes les entreprises, notamment les PME françaises ?
+
+Non, les conclusions du rapport d'Anthropic ne sont pas universelles et concernent principalement les grandes entreprises américaines et européennes ayant adopté Claude de manière intensive. Les PME françaises traditionnelles, avec des niveaux d'adoption généralement inférieurs, ne sont pas directement représentées par ces chiffres. L'étude se focalise sur des organisations où environ 60% des employés administratifs utilisent activement l'outil.
+
+### Comment Anthropic a-t-il mesuré l'impact de Claude sur l'emploi pour produire son "Economic Index" ?
+
+Anthropic a mesuré l'impact en comparant les postes ouverts, les embauches, la productivité et les salaires entre des entreprises équipées de Claude et des entreprises non équipées. Cette méthodologie transparente a été appliquée sur un échantillon de 1 400 entreprises américaines et européennes entre 2024 et 2025. Les entreprises ont été contrôlées sur leur taille, leur secteur d'activité et leur localisation géographique pour assurer la pertinence des comparaisons.
+
+### Pourquoi Anthropic est-il le premier éditeur de LLM à publier un rapport sur l'impact économique de son intelligence artificielle ?
+
+Anthropic est le premier éditeur de LLM à publier un tel rapport pour des raisons éthiques de transparence et stratégiques. En rendant publics ses propres chiffres d'impact, l'entreprise prend la main sur le narratif concernant les effets de son IA sur l'emploi avant qu'un régulateur ne l'impose. Cela contraste avec d'autres acteurs majeurs comme OpenAI ou Google DeepMind, qui n'ont pas encore produit d'équivalent.

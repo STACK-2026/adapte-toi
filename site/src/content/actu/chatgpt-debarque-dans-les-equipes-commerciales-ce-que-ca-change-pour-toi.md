@@ -172,3 +172,21 @@ ChatGPT for sales accélère l'automatisation des tâches répétitives. Les jun
 - [Guide automatisation IA](/guides/automatiser-travail-ia)
 - [Fiche métier commercial IA](/metiers/commercial-ia)
 - [Outil ChatGPT](/outils/chatgpt) pour tester les prompts.
+
+## Questions fréquentes
+
+### Quelles sont les tâches administratives spécifiques que ChatGPT pour les équipes commerciales peut automatiser pour un commercial ?
+
+ChatGPT pour les équipes commerciales automatise les tâches chronophages comme la recherche d'informations, la préparation des réunions, la rédaction d'emails et la coordination des deals. Cet outil permet aux commerciaux de récupérer jusqu'à 30% de leur temps actuellement consacré à ces activités administratives, selon Gartner 2025, en transformant des données brutes en livrables prêts à l'emploi.
+
+### ChatGPT pour les équipes de vente va-t-il remplacer les commerciaux ou transformer leur rôle ?
+
+ChatGPT pour les équipes de vente ne remplace pas le jugement humain des commerciaux, mais vise à transformer leur rôle en éliminant la "page blanche" et les tâches répétitives. L'outil libère les professionnels de la vente des contraintes administratives, leur permettant de se concentrer sur les interactions stratégiques, la construction de relations et la prise de décisions complexes, là où leur expertise humaine est irremplaçable.
+
+### Comment ChatGPT dédié aux ventes améliore-t-il la personnalisation et la cohérence des communications client ?
+
+ChatGPT dédié aux ventes améliore la personnalisation en générant des contenus adaptés à chaque compte client, tels que des emails ou des présentations sur mesure. Il assure également la cohérence en standardisant les messages et les processus de communication au sein de l'équipe, garantissant ainsi une voix unique et professionnelle dans toutes les interactions, ce qui renforce l'efficacité commerciale.
+
+### Comment ChatGPT for sales transforme-t-il les données brutes des CRM en livrables concrets pour les équipes ?
+
+ChatGPT for sales transforme les données brutes issues des notes CRM, des comptes-rendus de réunions et des historiques clients en livrables concrets et exploitables. L'outil génère automatiquement des briefs, des emails personnalisés, des plans d'action et des analyses de pipeline, offrant aux commerciaux des outils prêts à l'emploi pour optimiser leurs interactions et leur suivi sans effort manuel de compilation.

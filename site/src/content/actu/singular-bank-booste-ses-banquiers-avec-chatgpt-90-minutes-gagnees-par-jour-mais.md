@@ -100,3 +100,21 @@ Cette citation illustre le double discours de l'IA : on promet une "amélioratio
 Singular Bank accélère une tendance inévitable : l'IA n'est plus un outil, mais un **prérequis** pour rester compétitif. Les banquiers qui la rejettent risquent de se faire distancer. Cette productivité accrue a un coût : les postes répétitifs (saisie, reporting) disparaissent, et les employés doivent monter en compétences.
 
 L'IA crée aussi de nouveaux métiers ([consultant IA](/metiers/consultant-ia), [analyste financier augmenté](/metiers/analyste-financier-ia)). La clé ? **Anticiper** cette transformation. Automatise tes tâches low-value, forme-toi aux outils IA et positionne-toi comme un professionnel "augmenté". Pour aller plus loin, consulte notre [guide sur l'automatisation du travail avec l'IA](/guides/automatiser-travail-ia) et notre [fiche métier chargé de clientèle IA](/metiers/charge-clientele-ia).
+
+## Questions fréquentes
+
+### L'intégration de ChatGPT dans les banques menace-t-elle les emplois des conseillers financiers ?
+
+Non, l'intégration d'assistants basés sur l'IA comme Singularity ne vise pas à éliminer les emplois des banquiers, mais plutôt à les transformer. Ces outils automatisent les tâches répétitives et chronophages, comme l'analyse de portefeuilles ou la rédaction de comptes-rendus, libérant ainsi du temps précieux. Les banquiers peuvent alors se concentrer davantage sur l'interaction client, le conseil stratégique et les aspects relationnels à forte valeur ajoutée, où l'expertise humaine reste irremplaçable.
+
+### Combien de temps faut-il à un banquier pour maîtriser un outil d'IA comme Singularity et en tirer pleinement parti ?
+
+Le temps d'adaptation d'un banquier à un outil d'IA comme Singularity est généralement rapide, permettant une prise en main efficace en peu de temps. L'article suggère une transition rapide où les banquiers passent d'une préparation de réunions sur plusieurs jours à une analyse de portefeuille en temps réel. La simplicité d'intégration et l'automatisation des tâches complexes contribuent à cette adoption rapide, permettant aux utilisateurs de se concentrer sur l'exploitation des informations plutôt que sur l'apprentissage technique approfondi de l'outil.
+
+### Comment les banques garantissent-elles la conformité et la sécurité des données clients en utilisant des IA comme ChatGPT ?
+
+Les banques garantissent la conformité et la sécurité des données clients en intégrant les assistants IA directement à leurs systèmes internes et en assurant la traçabilité des échanges. L'outil Singularity, par exemple, est intégré aux infrastructures existantes, ce qui permet de contrôler l'accès aux données et de respecter les réglementations strictes. La génération de comptes-rendus personnalisés avec des propositions d'actions, tout en conservant un historique détaillé, est essentielle pour la conformité réglementaire et la protection des informations sensibles des clients.
+
+### Quelles sont les tâches quotidiennes spécifiques qu'un assistant IA comme Singularity prend en charge pour les banquiers ?
+
+Un assistant IA comme Singularity automatise principalement l'analyse de portefeuilles, la préparation de réunions clients et la génération de comptes-rendus conformes. Concrètement, il identifie les risques (concentration, déséquilibres) dans les portefeuilles, propose des actions (réduire l'exposition, sécuriser les gains) et structure les données qui étaient auparavant compilées manuellement. Après les réunions, il génère des comptes-rendus personnalisés avec des propositions d'actions, assurant ainsi une efficacité accrue et une meilleure gestion du temps pour les banquiers.

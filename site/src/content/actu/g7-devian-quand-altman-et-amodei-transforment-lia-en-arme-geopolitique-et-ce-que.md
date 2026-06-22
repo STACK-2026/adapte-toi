@@ -111,3 +111,21 @@ Pour aller plus loin :
 - [Guide sur la réglementation IA en Europe](/guides/ia-europe-reglementation)
 - [Fiche métier consultant IA](/metiers/consultant-ia)
 - [Se former à l'IA gratuitement](/guides/se-former-ia-gratuitement)
+
+## Questions fréquentes
+
+### En quoi l'IA est-elle devenue un enjeu géopolitique comparable au pétrole ou aux semi-conducteurs après le G7 2026 ?
+
+L'IA est devenue un levier géopolitique majeur après la décision des États-Unis de forcer Anthropic à bloquer ses modèles pour des raisons de "sécurité nationale", démontrant que le contrôle de cette technologie confère un pouvoir stratégique. Cette action a révélé que l'accès et l'utilisation des modèles d'IA peuvent être restreints arbitrairement, transformant l'IA en une ressource aussi critique et contrôlable que l'énergie ou les composants électroniques essentiels.
+
+### Quelles sont les implications concrètes pour les entreprises et les utilisateurs non-américains suite au blocage de modèles d'IA comme Mythos 5 ?
+
+Le blocage de modèles d'IA comme Mythos 5 implique que les entreprises et utilisateurs non-américains dépendants de ces technologies risquent des interruptions d'accès ou des restrictions, les obligeant à reconsidérer leur stratégie technologique. Cela souligne la nécessité de diversifier les fournisseurs ou de privilégier des solutions d'IA souveraines pour éviter de futures perturbations liées à des décisions géopolitiques.
+
+### Quel était le rôle de Sam Altman et Dario Amodei lors du G7 2026 à Évian, au-delà de la promotion de leurs entreprises ?
+
+Sam Altman (OpenAI) et Dario Amodei (Anthropic) étaient présents au G7 2026 non pas pour promouvoir leurs outils, mais pour négocier les règles du jeu d'une ère où l'IA est perçue comme une arme géopolitique. Leur participation soulignait l'urgence de définir un cadre international pour l'utilisation et le contrôle de l'IA, face à la crise déclenchée par les restrictions américaines sur l'accès aux modèles.
+
+### Y a-t-il des acteurs européens de l'IA présents au G7 2026 et quelle est leur position face à cette nouvelle donne géopolitique ?
+
+Oui, Arthur Mensch de Mistral AI était le seul acteur européen de l'IA présent au G7 2026, soulignant le défi pour l'Europe de développer une autonomie technologique face à la domination américaine et chinoise. Sa présence met en lumière l'importance pour l'Europe de renforcer ses propres capacités en IA afin de ne pas dépendre entièrement de puissances étrangères pour des technologies critiques.

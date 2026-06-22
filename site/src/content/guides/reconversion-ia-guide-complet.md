@@ -242,6 +242,24 @@ Montée en compétences : 2 semaines à 3 mois. Reconversion complète : 6 à 12
 - [France Travail BMO 2025](https://statistiques.francetravail.fr/category/bmo) : données métiers en tension
 
 <!-- maillage:auto -->
+## Questions fréquentes
+
+### Quels sont les métiers les plus impactés par l'automatisation et l'IA en France d'ici 2026 ?
+
+Les métiers de centres d'appels et de support client sont parmi les plus exposés, avec une baisse des offres d'emploi pouvant atteindre 67% selon l'étude Anthropic de mars 2026. D'autres secteurs impliquant des tâches répétitives ou basées sur des règles prédéfinies, comme la comptabilité basique ou la saisie de données, sont également sous forte pression. Il est crucial d'identifier les compétences non automatisables pour anticiper ces évolutions.
+
+### Quelles sont les étapes clés pour planifier et réussir une reconversion professionnelle efficace face à l'IA ?
+
+Pour réussir une reconversion professionnelle face à l'IA, il est essentiel de commencer par une auto-évaluation approfondie de ses compétences et intérêts, puis d'identifier les secteurs porteurs. Ensuite, une phase de formation ciblée est nécessaire pour acquérir les nouvelles compétences requises, suivie d'une mise en réseau active et de la recherche d'opportunités. La persévérance et l'adaptabilité sont cruciales tout au long du processus.
+
+### Comment puis-je financer ma reconversion professionnelle si mon poste est menacé par l'IA ?
+
+Plusieurs dispositifs existent pour financer une reconversion professionnelle, notamment le Compte Personnel de Formation (CPF), qui permet d'accumuler des droits à la formation tout au long de sa carrière. D'autres aides peuvent inclure le Projet de Transition Professionnelle (PTP) ou des financements régionaux spécifiques. Il est recommandé de se rapprocher de Pôle Emploi ou d'un conseiller en évolution professionnelle pour explorer toutes les options adaptées à sa situation.
+
+### Faut-il privilégier une reconversion complète ou une simple montée en compétences pour s'adapter à l'IA ?
+
+Le choix entre une reconversion complète et une montée en compétences dépend principalement de l'ampleur de l'impact de l'IA sur votre poste actuel et de vos aspirations professionnelles. Si votre métier est fortement menacé dans son ensemble, une reconversion peut être plus pertinente. En revanche, si seules certaines tâches sont automatisables, une montée en compétences ciblée sur des aptitudes complémentaires ou non automatisables peut suffire à sécuriser votre emploi.
+
 ## Pour aller plus loin
 
 **Guides connexes :**

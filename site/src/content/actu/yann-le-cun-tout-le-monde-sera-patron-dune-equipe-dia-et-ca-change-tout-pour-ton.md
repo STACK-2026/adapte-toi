@@ -112,3 +112,21 @@ L'IA ne remplacera pas les emplois, mais les transformera. Ceux qui sauront mana
 L'Europe a une opportunité avec les *world models*, mais doit accélérer. Forme-toi dès maintenant aux compétences clés : supervision, éthique, gestion de projets tech. Teste des outils comme [Claude](/outils/claude) ou [Cursor](/outils/cursor).
 
 Pour aller plus loin, consulte notre [guide sur les métiers de l'IA](/guides/ia-emploi-chiffres-cles) ou la [fiche métier chef de projet IA](/metiers/chef-de-projet-ia). La révolution est en marche, à toi de t'adapter.
+
+## Questions fréquentes
+
+### Selon Yann Le Cun, l'intelligence artificielle va-t-elle vraiment supprimer la plupart des emplois d'ici 2026 ou plus tard ?
+
+Yann Le Cun, pionnier de l'IA, a exprimé que l'intelligence artificielle ne remplacera pas massivement les emplois humains, mais réorganisera le travail. Il prédit qu'à l'horizon de dix ans, chacun gérera des équipes d'agents virtuels pour automatiser des tâches, transformant ainsi les fonctions plutôt que de les éliminer totalement. L'objectif n'est pas de substituer les humains, mais de les assister dans leurs missions quotidiennes.
+
+### Quelle est la particularité des 'world models' dont parle Yann Le Cun par rapport aux IA actuelles comme ChatGPT ?
+
+Les 'world models' mentionnés par Yann Le Cun sont des intelligences artificielles conçues pour comprendre le monde physique et ses interactions, contrairement aux grands modèles de langage (LLM) actuels comme ChatGPT qui excellent principalement dans la manipulation du texte et du langage. Cette capacité de compréhension du monde réel est cruciale pour que l'IA puisse exécuter des tâches complexes et interagir de manière plus autonome avec notre environnement.
+
+### L'investissement de 655 millions d'euros de la France dans l'IA est-il jugé suffisant par Yann Le Cun pour rivaliser avec les grandes puissances ?
+
+Yann Le Cun estime que l'investissement de 655 millions d'euros annoncé par la France via France 2030 est insuffisant pour rivaliser directement avec les sommes massives déployées par les États-Unis et la Chine. Cependant, il souligne que cet investissement pourrait accélérer l'innovation si les fonds sont ciblés efficacement sur la recherche fondamentale et l'accès aux infrastructures de calcul nécessaires.
+
+### Comment Yann Le Cun envisage-t-il concrètement que nous allons 'gérer une équipe d'agents virtuels' dans nos appareils ?
+
+Yann Le Cun imagine que chacun de nous gérera une équipe d'agents virtuels intégrés à nos appareils, qui exécuteront des tâches à notre place, agissant comme des assistants intelligents et proactifs. Ces agents virtuels prendraient en charge des fonctions répétitives ou chronophages, nous permettant de nous concentrer sur des activités à plus forte valeur ajoutée et créatives, en déléguant des opérations spécifiques à ces entités numériques.

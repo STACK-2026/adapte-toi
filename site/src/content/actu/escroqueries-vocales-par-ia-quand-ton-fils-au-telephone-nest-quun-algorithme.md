@@ -103,3 +103,21 @@ L'IA ne va pas "peut-être" révolutionner les escroqueries - elle l'a déjà fa
 On ne te demande pas de devenir parano, mais de transformer ta méfiance en routine. Comme tu vérifies deux fois que ta porte est fermée le soir, vérifie deux fois un appel urgent. Et surtout, parle-en autour de toi : **un senior informé en vaut deux**.
 
 Va lire notre [guide complet sur les arnaques par IA](/guides/ia-emploi-chiffres-cles), consulte notre fiche [métier consultant en cybersécurité IA](/metiers/consultant-ia), et teste [l'outil Perplexity](/outils/perplexity) pour rester à jour sur les nouvelles menaces. Parce que dans cette course, l'information est ton meilleur antivirus.
+
+## Questions fréquentes
+
+### Comment fonctionnent concrètement les escroqueries vocales par IA et combien de temps d'audio est nécessaire pour cloner une voix ?
+
+Les escroqueries vocales par IA exploitent des voix synthétiques générées à partir de seulement trois secondes d'audio volées, souvent sur les réseaux sociaux. Les fraudeurs utilisent ensuite ces clones vocaux pour simuler des appels d'urgence crédibles, comme un enfant en détresse, afin de soutirer de l'argent aux victimes. Ces outils de clonage sont même accessibles gratuitement.
+
+### Quelles sont les pertes financières moyennes subies par les victimes d'arnaques vocales basées sur l'IA, notamment en France et aux États-Unis ?
+
+Les victimes d'arnaques vocales par IA ont subi des pertes financières considérables, avec 893 millions de dollars perdus aux États-Unis en 2025 et une moyenne de 8 000€ par victime en France. Ces chiffres témoignent de l'impact économique dévastateur de ces fraudes, dont les signalements ont bondi de 240% en France entre 2024 et 2025.
+
+### Qui sont les personnes les plus ciblées par les escroqueries vocales par IA et quels scénarios utilisent fréquemment les fraudeurs ?
+
+Les seniors sont les principales cibles des escroqueries vocales par IA, représentant 60% des victimes de plus de 60 ans selon le FBI. Les fraudeurs utilisent des scénarios d'urgence typiques, comme un "petit-fils" en prison, une "fille" victime d'un accident, ou un "neveu" nécessitant une aide financière immédiate.
+
+### Comment puis-je vérifier l'authenticité d'un appel d'urgence suspect où la voix semble être celle d'un proche ?
+
+Pour vérifier l'authenticité d'un appel d'urgence suspect, il est crucial de ne pas se fier uniquement à la voix et de contacter directement le proche concerné via un numéro de téléphone connu et fiable. Si cela n'est pas possible, posez une question personnelle que seul votre proche connaîtrait, ou convenez d'un mot de passe secret familial pour les situations d'urgence.

@@ -99,3 +99,21 @@ L'IA avance plus vite que les régulations, les compétences et les mentalités.
 L'AI Index 2026 confirme que l'IA bouscule déjà ton job. Les coûts explosent, les inégalités se creusent, et les jeunes paient le prix. Mais l'IA a des limites : elle échoue sur des tâches simples, coûte cher et inquiète. **Monte en compétences ou risque de te faire distancer.**
 
 Ne reste pas passif. Consulte notre [guide pour automatiser ton travail](/guides/automatiser-travail-ia), notre [fiche métier chef de projet IA](/metiers/chef-de-projet-ia), et forme-toi avec nos [outils recommandés](/outils/chatgpt). L'IA avance vite, toi aussi.
+
+## Questions fréquentes
+
+### L'intelligence artificielle représente-t-elle une menace concrète pour l'emploi des jeunes développeurs selon l'AI Index 2026 ?
+
+Oui, l'AI Index 2026 indique une menace concrète pour l'emploi des jeunes développeurs, avec une chute de 20% des embauches de profils juniors (22-25 ans) en 2024. Cette tendance suggère que l'IA pourrait automatiser certaines tâches habituellement dévolues aux débutants, poussant le marché vers des compétences plus spécialisées ou l'intégration de l'IA elle-même.
+
+### Quel est le coût écologique de l'entraînement des grands modèles d'intelligence artificielle, comme celui de Grok 4 ?
+
+L'entraînement des grands modèles d'intelligence artificielle a un coût écologique significatif, Grok 4 ayant par exemple émis 72 816 tonnes de CO₂ durant son apprentissage. Ces opérations nécessitent des infrastructures énergivores, contribuant à une empreinte carbone élevée et soulevant des questions sur la durabilité de cette croissance technologique rapide.
+
+### Malgré les avancées impressionnantes, quelles sont les limites actuelles des IA comme Gemini Deep Think dans la résolution de tâches variées ?
+
+Les limites actuelles des IA comme Gemini Deep Think résident dans leur capacité à gérer la polyvalence des tâches quotidiennes, malgré leur excellence dans des domaines spécifiques comme les mathématiques. Par exemple, Gemini Deep Think excelle en calcul mais ne peut pas donner l'heure, et les robots industriels chinois échouent sur 88% des tâches ménagères, soulignant un manque de compréhension contextuelle.
+
+### Comment l'adoption de l'intelligence artificielle diffère-t-elle entre les pays riches et les pays en développement, et quelles en sont les implications ?
+
+L'adoption de l'intelligence artificielle diffère fortement entre les pays, étant un outil quotidien dans les nations riches et souvent un gadget inaccessible dans les pays pauvres. Cette disparité crée un fossé numérique et économique, où même en Europe, l'usage de l'IA reste basique, rendant son intégration dans les compétences professionnelles un défi majeur.

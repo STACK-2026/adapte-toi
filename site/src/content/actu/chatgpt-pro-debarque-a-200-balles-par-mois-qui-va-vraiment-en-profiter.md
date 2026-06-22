@@ -99,3 +99,21 @@ Cette phrase souligne le positionnement élitiste de ChatGPT Pro. L'outil est co
 ChatGPT Pro est un outil puissant mais cher, réservé aux métiers où la précision est vitale. Pour les autres, les versions gratuites ou low-cost suffisent. Teste-le si ton travail le justifie, sinon optimise les outils existants.
 
 Consulte notre [guide pour automatiser ton travail](/guides/automatiser-travail-ia) ou notre fiche [métier data analyst IA](/metiers/data-analyst-ia). Pour les coûts de l'IA, voir notre décryptage.
+
+## Questions fréquentes
+
+### Pour quels types de professionnels l'abonnement ChatGPT Pro à 200$ par mois est-il réellement conçu, et est-il accessible aux freelances ?
+
+ChatGPT Pro est principalement destiné aux professionnels dont le travail exige une précision critique, tels que les ingénieurs, data scientists, avocats et chercheurs. Son coût élevé de 200$/mois le positionne comme un outil de niche, excluant de fait les freelances et les petites structures qui ne pourraient pas justifier un tel investissement pour leurs besoins courants.
+
+### Quels types de problèmes complexes ChatGPT Pro est-il capable de résoudre avec une haute fiabilité, et quels sont ses domaines d'application les plus performants ?
+
+ChatGPT Pro excelle dans la résolution de problèmes complexes en mathématiques, codage, droit et questions scientifiques de niveau doctorat, grâce à son "o1 pro mode". Il démontre une fiabilité de 80% sur quatre tentatives pour des maths de compétition et a obtenu 86% de réponses justes sur l'AIME 2024, 90% sur Codeforces et 79% sur des questions scientifiques de niveau PhD.
+
+### Quelle est la fiabilité annoncée de ChatGPT Pro pour la résolution de problèmes très complexes, et comment cette performance est-elle mesurée ?
+
+La fiabilité annoncée de ChatGPT Pro est de 80% sur quatre tentatives pour des problèmes de mathématiques de compétition, un indicateur de sa capacité à "réfléchir plus longtemps". Ses performances sont également mesurées par des benchmarks, atteignant 86% de réponses justes sur l'AIME 2024, 90% sur Codeforces et 79% sur des questions scientifiques de niveau doctorat, démontrant sa robustesse sur des tâches exigeantes.
+
+### Pourquoi le coût de l'abonnement à ChatGPT Pro est-il aussi élevé à 200$ par mois, et quelle technologie justifie ce prix ?
+
+Le coût élevé de 200$ par mois pour ChatGPT Pro est justifié par la consommation accrue de calculs ("significantly more compute") nécessaire à son "o1 pro mode". Ce mode permet au modèle de "réfléchir plus longtemps" avant de fournir une réponse, augmentant ainsi sa précision et sa fiabilité pour la résolution de problèmes complexes, ce qui représente une ressource informatique significative.

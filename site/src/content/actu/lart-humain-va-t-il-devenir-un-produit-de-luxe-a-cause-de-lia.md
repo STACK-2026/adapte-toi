@@ -98,3 +98,21 @@ Cette phrase résume l'enjeu. L'IA menace moins les emplois des artistes que la 
 L'IA ne supprimera pas les métiers de la création, mais les fracturera. D'un côté, une production automatisée low-cost. De l'autre, une création humaine premium, réservée à une élite. Le label Fabrication Humaine est une première réponse, mais insuffisante. Sans régulation forte et prise de conscience collective, la culture humaine deviendra un produit de luxe.
 
 Pour aller plus loin, consulte notre [guide de reconversion](/guides/reconversion-ia-guide-complet) ou notre fiche [métier graphiste-ia](/metiers/graphiste-ia). Pour les enjeux juridiques, notre guide sur les droits d'auteur à l'ère de l'IA est indispensable.
+
+## Questions fréquentes
+
+### Comment le label "Fabrication Humaine" certifie-t-il qu'une œuvre d'art est entièrement créée par un humain sans intelligence artificielle ?
+
+Le label "Fabrication Humaine" certifie les œuvres d'art comme étant 100% humaines en exigeant des artistes qu'ils signent une charte interdisant l'utilisation d'outils d'intelligence artificielle générative, tels que Midjourney ou DALL·E. Cette démarche vise à garantir l'authenticité de la création et à distinguer le travail humain dans un marché de plus en plus saturé par les contenus synthétiques. L'objectif est de protéger la valeur intrinsèque de l'art produit par l'homme.
+
+### Quelles sont les principales divergences d'opinions concernant la meilleure façon de préserver la création artistique humaine face à l'intelligence artificielle ?
+
+Les opinions divergent principalement entre la certification des œuvres et une régulation globale pour préserver la création humaine. Pascal Chind, coprésident de "Fabrication Humaine", promeut un label pour certifier les créations 100% humaines, estimant qu'un "prompt n'est pas un acte de création". À l'inverse, Louis de Diesbach, éthicien de la technique, juge l'IA comme une "bizarrerie" et plaide pour une régulation européenne ambitieuse ciblant l'empreinte environnementale, le droit d'auteur et la domination des géants technologiques.
+
+### En quoi l'essor des contenus générés par l'IA menace-t-il concrètement la valeur et l'accessibilité du travail des artistes humains ?
+
+L'essor des contenus générés par l'IA menace la valeur du travail des artistes humains en transformant l'industrie culturelle en une "usine à contenus low-cost", ce qui réduit la reconnaissance et la rémunération des œuvres traditionnelles. Cette prolifération de créations synthétiques risque de diluer la valeur perçue de l'art humain dans un marché saturé. Sans réaction, les œuvres entièrement humaines pourraient devenir des produits de luxe, réservés à une élite capable de les distinguer et de les financer.
+
+### Au-delà des labels de certification, quelles autres approches ou solutions sont envisagées pour encadrer l'impact de l'IA sur la création artistique ?
+
+Au-delà des labels de certification, des approches réglementaires sont envisagées pour encadrer l'impact de l'IA sur la création artistique. Louis de Diesbach, par exemple, estime qu'une régulation européenne ambitieuse est la solution la plus pertinente. Cette régulation devrait adresser des enjeux majeurs tels que l'empreinte environnementale des systèmes d'IA, la protection du droit d'auteur des œuvres utilisées pour entraîner les modèles, et la domination exercée par les géants technologiques américains sur ce secteur.

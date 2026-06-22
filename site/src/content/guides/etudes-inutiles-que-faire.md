@@ -144,6 +144,24 @@ Les métiers qui combinent expertise humaine + IA : content strategist, data ana
 
 ---
 
+## Questions fréquentes
+
+### Quelles sont les filières d'études les plus impactées ou menacées par l'intelligence artificielle d'ici 2026 ?
+
+Les filières d'études les plus exposées à l'impact de l'intelligence artificielle sont celles qui reposent principalement sur des tâches intellectuelles répétitives et prévisibles. L'étude Anthropic de mars 2026 souligne que des domaines comme la rédaction, l'analyse de données basique ou certaines fonctions administratives sont particulièrement concernés. Les métiers manuels ou ceux nécessitant une forte interaction humaine et de la créativité restent moins directement menacés.
+
+### Quelles compétences concrètes devrais-je développer en plus de mon diplôme pour rester employable face à l'IA ?
+
+Pour rester employable face à l'IA, il est crucial de développer des compétences complémentaires qui valorisent l'humain et l'interaction avec la technologie. Cela inclut la pensée critique, la résolution de problèmes complexes, la créativité, l'intelligence émotionnelle et la capacité à collaborer avec des systèmes d'IA. Apprendre à utiliser et à diriger les outils d'IA devient aussi essentiel pour augmenter sa productivité et sa pertinence.
+
+### Existe-t-il des alternatives crédibles aux études universitaires classiques pour se former efficacement à l'ère de l'IA ?
+
+Oui, il existe plusieurs alternatives crédibles aux études universitaires traditionnelles pour acquérir des compétences pertinentes à l'ère de l'IA. Les bootcamps intensifs, les certifications professionnelles spécialisées, les MOOCs de plateformes reconnues et l'apprentissage autodidacte via des projets concrets peuvent offrir des parcours de formation agiles. Ces options permettent souvent une mise à jour rapide des compétences et une insertion professionnelle ciblée.
+
+### Pourquoi un diplôme universitaire seul ne garantit-il plus un emploi stable ni un revenu confortable avec l'avènement de l'IA ?
+
+Un diplôme universitaire seul ne garantit plus un emploi stable ni un revenu confortable car l'intelligence artificielle peut désormais automatiser ou assister efficacement de nombreuses tâches intellectuelles auparavant réservées aux diplômés. L'IA exécute le travail pour lequel les étudiants se formaient, réduisant ainsi la demande pour certaines compétences traditionnelles et augmentant la concurrence. L'enjeu est désormais d'ajouter une valeur que l'IA ne peut pas répliquer.
+
 ## Sources
 
 - Laurent Alexandre et Olivier Babeau, "Ne faites plus d'études" (Buchet-Chastel, octobre 2025)

@@ -119,6 +119,24 @@ La France est le pays européen qui publie le plus d'offres d'emploi liées à l
 
 ---
 
+## Questions fréquentes
+
+### Comment l'EU AI Act, la nouvelle réglementation européenne, va-t-il concrètement affecter les entreprises et startups françaises qui développent ou utilisent l'IA ?
+
+L'EU AI Act imposera aux entreprises et startups françaises des obligations spécifiques en fonction du niveau de risque de leurs systèmes d'IA, allant de la transparence pour les systèmes à risque limité à des exigences strictes pour les systèmes à haut risque. Concrètement, cela signifie des audits de conformité, des évaluations d'impact sur les droits fondamentaux et la mise en place de systèmes de gestion des risques pour les applications critiques comme le recrutement ou le scoring de crédit. Les systèmes jugés "inacceptables" seront purement et simplement interdits.
+
+### Quelles sont les compétences ou les profils professionnels les plus demandés sur le marché de l'emploi lié à l'IA en Europe d'ici 2026 ?
+
+Les profils les plus recherchés sur le marché de l'emploi IA en Europe d'ici 2026 incluront des experts en conformité réglementaire IA, des ingénieurs spécialisés en IA éthique et des data scientists capables de travailler avec des données sensibles. La demande se portera également sur des développeurs IA maîtrisant les technologies de pointe, mais aussi sur des rôles combinant expertise technique et compréhension des cadres légaux, comme les consultants en gouvernance de l'IA.
+
+### En quoi la réglementation stricte de l'IA en Europe, comme l'EU AI Act, peut-elle paradoxalement créer des opportunités pour les entreprises européennes ?
+
+La réglementation stricte de l'IA en Europe peut devenir un avantage compétitif en positionnant les entreprises européennes comme des leaders mondiaux de l'IA fiable et éthique, favorisant ainsi la confiance des utilisateurs et des partenaires. Cette approche unique peut générer des opportunités d'exportation de solutions IA conformes et d'expertise en gouvernance, permettant aux entreprises de se distinguer sur un marché global de plus en plus soucieux de la protection des données et des droits fondamentaux.
+
+### Comment l'Europe se compare-t-elle aux États-Unis et à la Chine en termes d'investissement et d'adoption de l'intelligence artificielle ?
+
+L'Europe accuse un certain retard par rapport aux États-Unis et à la Chine en matière d'investissement et d'adoption de l'intelligence artificielle, malgré sa position de pionnier en régulation avec l'EU AI Act. Tandis que les deux autres puissances investissent massivement dans la R&D et le déploiement rapide de l'IA, l'Europe se concentre davantage sur un cadre éthique et légal robuste, cherchant à concilier innovation et protection des citoyens.
+
 ## Sources
 
 - EU AI Act : texte officiel publié au Journal Officiel de l'UE (2024)

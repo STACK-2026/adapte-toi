@@ -113,3 +113,21 @@ L'annonce de Lecornu marque un tournant : l'IA devient un outil stratégique pou
 La réussite dépendra de la mise en œuvre. Un succès pourrait servir de modèle à l'Europe. Un échec serait un gâchis.
 
 Pour aller plus loin : [guide IA et emploi 2026](/guides/ia-emploi-chiffres-cles) ou [fiche Chef de projet IA](/metiers/chef-de-projet-ia).
+
+## Questions fréquentes
+
+### Quel budget est alloué par l'État français pour équiper les fonctionnaires d'outils d'intelligence artificielle ?
+
+L'État français a alloué 665 millions d'euros supplémentaires via le plan France 2030 pour équiper 1,8 million d'agents publics d'un assistant IA souverain. Cet investissement vise à généraliser l'usage de l'IA dans l'administration d'ici 2027, marquant la fin des phases d'expérimentation et l'intégration de ces technologies dans les services publics.
+
+### Quand est prévue la généralisation de l'IA pour les 1,8 million de fonctionnaires annoncée par Sébastien Lecornu ?
+
+La généralisation de l'IA pour les 1,8 million de fonctionnaires est prévue d'ici 2027, selon l'annonce de Sébastien Lecornu le 16 juin 2026. Des étapes intermédiaires incluent le déploiement d'un assistant santé pour Ameli fin 2026 et une migration progressive de Palantir vers ChapsVision pour la DGSI, s'étalant sur 1 à 3 ans.
+
+### Quels sont les enjeux de souveraineté numérique soulevés par l'intégration de l'IA dans l'administration française ?
+
+Les enjeux de souveraineté numérique sont majeurs, notamment la dépendance persistante aux infrastructures étrangères comme NVIDIA et le temps nécessaire pour remplacer des solutions existantes. Malgré le remplacement de Palantir par ChapsVision pour la DGSI, la migration prendra plusieurs années, et le Health Data Hub a mis cinq ans à quitter Microsoft, illustrant la complexité de l'indépendance technologique.
+
+### Comment l'administration française compte-t-elle former ses agents à l'utilisation des nouvelles intelligences artificielles ?
+
+La formation des agents est identifiée comme une question persistante et un enjeu clé pour le succès de la généralisation de l'IA. Bien que les détails spécifiques du programme de formation ne soient pas encore entièrement définis, l'objectif est d'assurer que les 1,8 million d'agents publics puissent maîtriser ces nouveaux outils souverains d'ici 2027, capitalisant sur le retour positif des expérimentations initiales.

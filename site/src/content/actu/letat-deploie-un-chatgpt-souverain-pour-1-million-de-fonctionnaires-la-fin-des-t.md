@@ -105,3 +105,21 @@ Ce déploiement est **le plus grand test d'IA en Europe dans le public**. Derri�
 Mais c'est aussi une **opportunité** pour ceux qui sauront maîtriser ces outils. Les métiers de la fonction publique évoluent, et **l'IA devient un avantage décisif**.
 
 Pour aller plus loin : notre [guide sur la reconversion avec l'IA](/guides/reconversion-ia-guide-complet) et la [fiche métier consultant IA](/metiers/consultant-ia). **L'IA n'est pas une menace, mais un accélérateur.**
+
+## Questions fréquentes
+
+### Quel est le coût total du projet de ChatGPT souverain pour les fonctionnaires et comment est-il réparti par agent ?
+
+Le budget alloué au déploiement de l'outil conversationnel d'IA souverain pour un million de fonctionnaires est de 700 000 €. Cela représente un coût d'environ 0,70 € par agent, le gouvernement misant sur un effet d'échelle pour optimiser cette dépense. Ce montant couvre le développement et la mise à disposition de l'outil.
+
+### Quelles sont les tâches spécifiques que le ChatGPT souverain est censé automatiser ou simplifier pour les fonctionnaires ?
+
+L'outil conversationnel d'IA souverain est conçu pour automatiser et simplifier les tâches chronophages des fonctionnaires, telles que la recherche documentaire et la réalisation de synthèses. L'objectif est de libérer du temps aux agents pour qu'ils puissent se concentrer davantage sur leur cœur de métier et des missions à plus forte valeur ajoutée.
+
+### Comment l'État garantit-il la souveraineté et la sécurité des données avec ce nouveau ChatGPT pour la fonction publique ?
+
+L'État garantit la souveraineté et la sécurité de cet outil d'IA conversationnel en le développant avec Mistral AI, un partenaire local, et en le rendant conforme au règlement européen sur l'IA. Ce choix stratégique vise à éviter les dépendances vis-à-vis de technologies extra-européennes et à assurer une protection renforcée des données sensibles de l'administration.
+
+### Quels sont les principaux obstacles ou défis anticipés pour que les fonctionnaires adoptent réellement ce nouvel outil d'intelligence artificielle ?
+
+Le principal défi pour l'adoption de ce nouvel outil d'intelligence artificielle par les fonctionnaires est d'ordre culturel plutôt que technique. Les précédents projets d'IA dans le secteur public ont souvent rencontré un manque d'adoption, suggérant que la réussite dépendra de la capacité des agents à intégrer et à utiliser activement cette technologie dans leurs pratiques quotidiennes.

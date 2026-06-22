@@ -143,3 +143,21 @@ Cette phrase marque un tournant. L'IA passe d'outil passif à collègue autonome
 Gemini 2.0 marque une révolution : un modèle conçu pour agir sans toi, avec une mémoire et des capacités multimodales. Le marché du travail se divise : ceux qui piloteront ces agents deviendront ultra-productifs, les autres seront remplacés.
 
 Tu as 6 à 12 mois pour te préparer. Teste Gemini 2.0, identifie les tâches à déléguer, et monte en compétences sur les zones où l'IA est limitée. Pour aller plus loin, consulte notre [guide sur les métiers menacés](/guides/ia-emploi-chiffres-cles) ou la fiche [consultant·e IA](/metiers/consultant-ia). Pour un plan personnalisé, utilise notre [outil d'autodiagnostic](/outils/perplexity).
+
+## Questions fréquentes
+
+### Quelle est la principale différence entre Gemini 2.0 et les chatbots IA comme ChatGPT ou Claude ?
+
+Gemini 2.0 se distingue des chatbots classiques par sa capacité à agir de manière autonome, marquant l'entrée dans l'ère agentique de l'intelligence artificielle. Contrairement aux modèles conversationnels qui répondent à des requêtes, Gemini 2.0 peut rechercher des informations, générer des rapports complexes, écrire du code et utiliser des outils comme Google Search sans plugins, comme un véritable agent proactif.
+
+### Quand est-ce que Gemini 2.0 sera disponible pour le grand public et quelles sont ses fonctionnalités clés ?
+
+La sortie grand public de Gemini 2.0 est prévue pour début 2025, bien que la version allégée Gemini 2.0 Flash soit déjà accessible aux développeurs via l'API. Ses atouts majeurs incluent une vitesse doublée par rapport à Gemini 1.5 Pro, une sortie multimodale capable de gérer images et audio, et l'intégration native d'outils Google comme Search sans nécessiter de plugins additionnels.
+
+### Comment Gemini 2.0 va-t-il transformer l'expérience utilisateur de Google Search et de la suite Workspace ?
+
+Gemini 2.0, notamment via son module Deep Research, est destiné à améliorer significativement Google Search en alimentant des "AI Overviews" plus pertinents et détaillés, rendant l'information directement utile. Il sera également progressivement intégré à la suite Workspace en 2025, permettant ainsi des fonctionnalités avancées d'assistance pour la rédaction de rapports, la gestion de projets ou la création de contenu.
+
+### Quels types de tâches concrètes Gemini 2.0 est-il capable d'exécuter de manière autonome en tant qu'agent ?
+
+En tant qu'IA agentique, Gemini 2.0 peut accomplir diverses tâches autonomes sans intervention constante de l'utilisateur. Cela inclut la recherche proactive d'informations, la génération de rapports détaillés, l'écriture de code informatique, et la conduite de conversations avec une mémoire contextuelle de dix minutes, simulant un assistant personnel avancé capable de prendre des initiatives.

@@ -150,6 +150,24 @@ Le métier de médecin reste **structurellement protégé** de l'IA en 2026 (sco
 
 Le bon moment pour se former à l'IA clinique, c'est maintenant. Pas pour suivre une mode. Pour rendre du temps à ses patients.
 
+## Questions fréquentes
+
+### Quelle est la date prévue pour l'adoption de GPT pour les médecins en France, comparé au déploiement américain ?
+
+L'adoption de GPT pour les médecins en France est prévue pour être plus lente que le déploiement américain, encadrée par l'AI Act 2026 et le Conseil National de l'Ordre des Médecins. Bien qu'OpenAI ait lancé "GPT for Clinicians" aux États-Unis en avril 2026, la France suivra un rythme adapté, probablement après une phase d'expérimentation et de validation réglementaire approfondie pour s'assurer de la conformité et de la sécurité des données patient.
+
+### Comment GPT pour cliniciens peut-il aider les médecins français à gérer la pénurie de postes non pourvus et optimiser leur temps ?
+
+GPT pour cliniciens peut significativement aider les médecins français à faire face à la pénurie de postes en automatisant des tâches chronophages comme la transcription des consultations et la synthèse de dossiers patients. L'outil permet de générer des comptes rendus structurés en temps réel et de compresser des centaines de pages d'informations médicales en quelques minutes, libérant ainsi du temps précieux pour la prise en charge directe des patients et la réflexion clinique, répondant ainsi aux 32 000 postes non pourvus.
+
+### Quels sont les risques ou les défis éthiques liés à l'utilisation de GPT pour les médecins en France, notamment concernant la confidentialité des données patient ?
+
+Les principaux défis éthiques de l'utilisation de GPT pour les médecins en France concernent la confidentialité et la sécurité des données patient, ainsi que la responsabilité clinique. L'outil est conçu pour être accessible exclusivement aux médecins authentifiés via leur DSI hospitalière, jamais aux patients en direct, et les enregistrements sont chiffrés localement. Cependant, la robustesse des protocoles de protection des données et la supervision humaine resteront cruciales pour garantir la conformité au cadre réglementaire français et européen.
+
+### Quel sera l'impact financier de l'intégration de GPT pour les cliniciens dans le système de santé français pour les établissements et les professionnels ?
+
+L'impact financier de l'intégration de GPT pour les cliniciens en France n'est pas encore précisément défini, mais il impliquera des coûts liés à l'acquisition des licences, à l'intégration technique dans les DSI hospitalières et à la formation du personnel. Le modèle économique américain, basé sur des partenariats avec des hôpitaux universitaires, suggère des investissements initiaux significatifs. Le financement pourrait potentiellement provenir de budgets hospitaliers, de subventions publiques ou de modèles d'abonnement adaptés au système de santé français.
+
 ## Sources et liens utiles
 
 - [GPT for Clinicians - OpenAI Research (avril 2026)](https://openai.com/research/gpt-clinicians)

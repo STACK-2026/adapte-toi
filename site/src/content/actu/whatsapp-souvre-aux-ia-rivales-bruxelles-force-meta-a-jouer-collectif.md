@@ -106,3 +106,21 @@ Bruxelles rappelle que dans l'économie numérique, **celui qui contrôle la pla
 Cette décision est temporaire. Meta fera appel et le marché évolue rapidement. **Ne mise pas tout sur un seul outil**. Diversifie tes compétences, teste des alternatives et prépare-toi à des changements similaires sur d'autres plateformes.
 
 Consulte notre [guide d'automatisation](/guides/automatiser-travail-ia) et notre [fiche "Consultant IA"](/metiers/consultant-ia) pour agir.
+
+## Questions fréquentes
+
+### Pourquoi la Commission européenne oblige-t-elle Meta à ouvrir l'API WhatsApp Business aux autres assistants IA ?
+
+La Commission européenne impose à Meta d'ouvrir son API WhatsApp Business aux assistants IA concurrents car elle juge que Meta a enfreint les règles de l'UE en limitant l'accès pour favoriser son propre assistant, Meta AI. Cette pratique est considérée comme anticoncurrentielle et visait à verrouiller le marché des assistants IA avant qu'il ne se structure, affectant ainsi les options d'automatisation pour les petites entreprises.
+
+### Quelles sont les implications concrètes de cette décision pour les TPE françaises utilisant WhatsApp pour leurs clients ?
+
+Pour les TPE françaises, cette décision signifie un retour à un choix plus large d'assistants IA pour automatiser leurs interactions clients via WhatsApp, au-delà de Meta AI. Elles pourront de nouveau intégrer des solutions comme Claude ou Mistral, ce qui leur offrira plus de flexibilité et potentiellement des outils mieux adaptés à leurs besoins spécifiques pour gérer les communications professionnelles.
+
+### Jusqu'à quand cette obligation d'ouverture de l'API WhatsApp aux assistants IA concurrents sera-t-elle en vigueur ?
+
+L'obligation d'ouverture de l'API WhatsApp Business aux assistants IA concurrents imposée par l'UE sera en vigueur jusqu'en 2029 ou jusqu'à la fin de l'enquête approfondie menée par la Commission européenne. Cette mesure conservatoire vise à prévenir un verrouillage du marché pendant la durée de l'investigation, garantissant une concurrence équitable pour les services d'IA sur WhatsApp.
+
+### Comment Meta réagit-il à cette injonction de l'UE concernant l'ouverture de son API WhatsApp aux IA tierces ?
+
+Meta conteste fermement cette injonction de la Commission européenne et a annoncé son intention de faire appel de la décision. Bien que la société doive se conformer à l'ordre dans les cinq jours suivant le 10 juin 2026, elle cherche à annuler cette mesure qui l'oblige à rouvrir gratuitement son API WhatsApp Business aux assistants IA rivaux.

@@ -110,3 +110,21 @@ Les entreprises comme Snap externalisent de plus en plus leurs besoins. **À fai
 Snap ne licencie pas à cause de l'IA. Elle licencie parce que ses actionnaires l'y obligent, et l'IA est juste un prétexte commode. Le vrai problème, c'est que cette logique se généralise : les entreprises utilisent l'automatisation pour justifier des plans sociaux, tout en continuant à embaucher des profils ultra-spécialisés. Pour toi, ça veut dire une chose : **si tu ne montes pas en compétences, tu deviens remplaçable.**
 
 La bonne nouvelle, c'est que l'IA crée aussi des opportunités. Les métiers qui combinent expertise humaine et outils d'automatisation sont en plein boom. Mais il faut agir vite. Commence par lire notre [guide complet sur la reconversion dans l'IA](/guides/reconversion-ia-guide-complet), et consulte notre fiche métier pour devenir [chef de projet IA](/metiers/chef-de-projet-ia). Le train est en marche, à toi de monter dedans.
+
+## Questions fréquentes
+
+### Est-ce que l'intelligence artificielle est la seule raison des 1000 licenciements chez Snap, ou y a-t-il d'autres motivations ?
+
+L'intelligence artificielle est la raison officiellement invoquée par Snap pour justifier les 1000 licenciements, mais l'entreprise vise également à économiser plus de 500 millions de dollars annualisés. Ces économies sont destinées à financer son investissement dans les lunettes de réalité augmentée via sa filiale Specs Inc., un marché encore immature et risqué.
+
+### Quel est l'objectif financier précis de Snap avec ces suppressions de postes et comment l'entreprise compte-t-elle utiliser les fonds économisés ?
+
+L'objectif financier de Snap est d'économiser plus de 500 millions de dollars annualisés d'ici le second semestre 2026 grâce à ces licenciements. Les fonds ainsi dégagés serviront à financer un pari stratégique risqué : le développement et la commercialisation de ses lunettes de réalité augmentée, géré par sa filiale dédiée, Specs Inc.
+
+### Quels types de tâches ou de postes sont généralement ciblés par les outils d'automatisation basés sur l'IA, comme ceux mentionnés par Snap ?
+
+Les outils d'automatisation basés sur l'IA ciblent principalement les tâches répétitives et les processus qui peuvent être accélérés par des algorithmes, rendant certains postes obsolètes. Cela peut inclure des fonctions administratives, de support, ou des rôles opérationnels où l'efficacité peut être significativement augmentée par la technologie.
+
+### Snap est-il la seule entreprise technologique à justifier des licenciements par l'impact de l'IA récemment, ou est-ce une tendance observée ailleurs ?
+
+Non, Snap n'est pas la seule ; plusieurs autres grandes entreprises technologiques ont également justifié des licenciements par l'impact de l'IA ces derniers mois. Microsoft, Amazon, Oracle et Block ont tous invoqué des arguments similaires concernant l'automatisation et l'optimisation des effectifs grâce aux nouvelles technologies.

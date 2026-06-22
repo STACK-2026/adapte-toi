@@ -100,3 +100,21 @@ La finance montre ce qui arrive dans tous les secteurs. Les LLM redéfinissent l
 Le temps presse. BlackRock et Goldman Sachs n'attendront pas. Si tu es dans la finance, tu as 12 à 18 mois pour te repositionner. Pour les autres : prépare-toi.
 
 Consulte notre [guide complet sur la reconversion en IA](/guides/reconversion-ia-guide-complet) ou la fiche [métier de data analyst IA](/metiers/data-analyst-ia). Teste [Claude](/outils/claude) pour analyser des rapports ou [Perplexity](/outils/perplexity) pour la veille. L'IA ne disparaîtra pas. À toi de choisir ton rôle.
+
+## Questions fréquentes
+
+### Quels sont les profils d'emploi en salle des marchés les plus affectés par l'intégration de l'IA d'ici 2026 ?
+
+L'intégration de l'IA impacte principalement les postes d'analystes financiers juniors et les traders traditionnels effectuant des arbitrages répétitifs. Les tâches de compilation de données, de rédaction de rapports d'analyse et de transactions à haute fréquence sont désormais automatisées par des LLM comme Aladdin AI et Marcus AI. Cela a déjà conduit à la suppression de nombreux postes juniors chez des géants comme BlackRock.
+
+### Le rôle des traders seniors est-il également menacé par l'intelligence artificielle dans les salles de marché ?
+
+Non, le rôle des traders seniors n'est pas directement menacé par l'IA, mais il évolue significativement vers la supervision et la validation des décisions générées par les algorithmes. Par exemple, chez Goldman Sachs, les traders seniors consacrent désormais 40% de leur temps à superviser les recommandations d'investissement de l'IA. Leur expertise humaine reste cruciale pour l'interprétation contextuelle et la prise de décisions stratégiques complexes.
+
+### Quelles sont les tâches spécifiques que l'IA prend en charge en finance, rendant certains postes obsolètes ?
+
+L'IA automatise des tâches telles que la génération de rapports d'analyse financière, l'analyse de milliers de rapports annuels, la rédaction de synthèses et les arbitrages boursiers en millisecondes. Des outils comme Aladdin AI de BlackRock et Marcus AI de Goldman Sachs sont conçus pour gérer ces opérations, réduisant considérablement le besoin en personnel pour des fonctions de collecte de données et d'exécution rapide.
+
+### Comment l'automatisation par l'IA des postes juniors en finance pourrait-elle affecter la formation des futurs talents ?
+
+L'automatisation des postes juniors par l'IA pose un défi majeur pour la formation de la relève en finance, car ces rôles étaient traditionnellement des tremplins essentiels. En supprimant les opportunités d'apprentissage pratique pour les jeunes analystes, il devient plus difficile de développer les compétences fondamentales et l'expérience nécessaires pour accéder aux postes seniors. Cela soulève des questions sur les nouvelles voies de formation et d'intégration dans le secteur.

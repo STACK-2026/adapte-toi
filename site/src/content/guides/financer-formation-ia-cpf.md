@@ -244,6 +244,24 @@ Compte 3 à 4 mois entre la première démarche et le début de la formation. Co
 
 ---
 
+## Questions fréquentes
+
+### Quelles sont les étapes concrètes pour utiliser mon Compte Personnel de Formation (CPF) afin de financer une formation en intelligence artificielle ?
+
+Pour utiliser votre CPF, vous devez d'abord vous connecter sur le site officiel moncompteformation.gouv.fr et rechercher la formation en intelligence artificielle qui vous intéresse. Une fois la formation choisie, vérifiez son éligibilité au CPF et son coût. Vous pourrez ensuite soumettre votre dossier directement en ligne, en utilisant le solde de vos droits CPF pour couvrir tout ou partie des frais. Si le montant est insuffisant, un abondement personnel peut être nécessaire.
+
+### Comment choisir entre le Projet de Transition Professionnelle (PTP) et le CPF pour financer une reconversion complète vers l'IA en étant salarié ?
+
+Le choix entre PTP et CPF dépend de l'ampleur de votre projet de reconversion et de votre situation professionnelle. Le PTP est idéal pour une reconversion complète nécessitant une longue formation certifiante en IA, car il permet de maintenir votre rémunération et de couvrir 100% des frais pédagogiques sous certaines conditions. Le CPF, lui, est plus adapté aux formations plus courtes ou pour compléter un dispositif, avec un plafond de 5 000 euros généralement.
+
+### Si je suis demandeur d'emploi et que mon CPF est insuffisant, l'Aide Individuelle à la Formation (AIF) de Pôle Emploi peut-elle couvrir le reste des frais pour une formation IA ?
+
+Oui, l'Aide Individuelle à la Formation (AIF) de Pôle Emploi peut compléter un financement CPF insuffisant pour une formation en intelligence artificielle, si cette formation est jugée pertinente pour votre retour à l'emploi. L'AIF est une aide subsidiaire, ce qui signifie qu'elle intervient après l'utilisation de vos droits CPF et d'autres financements mobilisables. Votre conseiller Pôle Emploi évaluera la nécessité de cette formation et l'opportunité de l'AIF.
+
+### Quel est le délai moyen d'attente pour obtenir une réponse après avoir soumis un dossier de financement via le Projet de Transition Professionnelle (PTP) pour une formation en IA ?
+
+Le délai moyen d'attente pour une réponse concernant un dossier PTP est généralement de deux à trois mois après la soumission complète de votre demande à la Commission Paritaire Interprofessionnelle Régionale (CPIR). Ce délai peut varier selon la région et la période de l'année, en fonction du nombre de dossiers à traiter. Il est crucial de déposer votre demande bien en amont de la date de début de la formation en IA visée.
+
 ## Sources
 
 - moncompteformation.gouv.fr : plateforme officielle CPF

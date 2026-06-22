@@ -101,3 +101,21 @@ L'IA à l'hôpital sauve des vies mais creuse les inégalités. Les CHU équipé
 Pour toi, l'IA est une opportunité. Les compétences en IA médicale boostent les carrières. Mais il faut te former, te spécialiser, et parfois changer d'employeur.
 
 Lis notre [guide sur la reconversion dans la santé augmentée](/guides/reconversion-ia-guide-complet) et consulte notre fiche médecin généraliste IA. L'avenir de la santé est là, à toi de t'y préparer.
+
+## Questions fréquentes
+
+### Comment l'intelligence artificielle aide-t-elle concrètement à accélérer le diagnostic de conditions médicales graves comme les AVC ?
+
+L'IA assiste le diagnostic des AVC en analysant rapidement les images IRM et en délimitant automatiquement les contours des infarctus. Cela réduit considérablement le temps que les radiologues consacrent aux tâches manuelles, permettant une évaluation plus rapide des lésions et une mise en œuvre plus efficace des traitements urgents comme la thrombectomie mécanique, ce qui peut sauver des neurones.
+
+### En dehors du diagnostic des AVC, dans quels autres services hospitaliers l'IA est-elle actuellement mise en œuvre ?
+
+L'intelligence artificielle est étendue à plusieurs autres services hospitaliers en dehors du diagnostic des AVC. Elle est notamment utilisée en anatomie pathologique pour réduire le nombre de lames à analyser, aux urgences pour un tri automatisé des patients, et pour la rédaction assistée de comptes rendus médicaux, optimisant ainsi diverses tâches administratives et cliniques.
+
+### Quel est l'impact direct de l'intégration de l'IA sur le quotidien et les tâches des radiologues et autres soignants ?
+
+L'IA libère les radiologues et autres professionnels de santé des tâches répétitives et chronophages, leur permettant de se recentrer sur des activités à plus forte valeur ajoutée. Par exemple, elle prend en charge le dessin des contours d'infarctus sur les IRM, ce qui permet aux médecins de consacrer plus de temps à l'interprétation complexe des résultats, à la prise de décision clinique et à l'interaction avec les patients.
+
+### L'introduction de l'IA dans le milieu hospitalier implique-t-elle une évolution des compétences requises pour les futurs professionnels de la santé ?
+
+Oui, l'introduction de l'IA modifie les compétences requises pour les professionnels de la santé en les orientant vers des rôles d'interprétation et de supervision plutôt que d'exécution manuelle. Les soignants sont amenés à développer une expertise dans l'utilisation et la validation des outils d'IA, se concentrant sur l'analyse critique des résultats générés par la machine et la relation patient, tandis que certaines tâches techniques sont automatisées.

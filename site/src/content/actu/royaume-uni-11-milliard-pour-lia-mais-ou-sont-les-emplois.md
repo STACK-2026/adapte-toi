@@ -112,3 +112,21 @@ Le plan britannique est **un leurre** : on achète des puces étrangères et on 
 - [Évalue ton métier](/outils/perplexity) ou consulte notre [fiche data analyst IA](/metiers/data-analyst-ia).
 - [Formations gratuites](/guides/se-former-ia-gratuitement) ou [guide de reconversion](/guides/reconversion-ia-guide-complet).
 - [Automatise ton travail](/guides/automatiser-travail-ia) avec l'IA.
+
+## Questions fréquentes
+
+### Quels types d'emplois l'investissement britannique de 1,1 milliard de livres dans l'IA est-il censé créer au Royaume-Uni ?
+
+L'investissement britannique dans l'IA vise principalement à générer des emplois liés à l'infrastructure, notamment dans la maintenance des datacenters et la conception de semiconducteurs. Bien que le gouvernement évoque la "souveraineté technologique", la forte dépendance envers les fabricants de puces étrangers comme TSMC limite la création d'emplois manufacturiers de haute technologie sur le sol britannique. Une partie du budget est également dédiée à l'évaluation de l'impact de l'IA sur les emplois débutants.
+
+### Comment le Royaume-Uni prévoit-il de réduire sa dépendance envers les fabricants de puces étrangers pour l'IA ?
+
+Le Royaume-Uni tente de réduire sa dépendance en s'associant avec des entreprises comme Arm Holdings pour développer des designs de semiconducteurs "made in UK". Cependant, malgré ces efforts, le pays reste fortement tributaire de Taïwan et des États-Unis, qui contrôlent 90% du marché des puces IA via des entreprises comme TSMC et Nvidia. L'objectif de "souveraineté technologique" est donc difficile à atteindre sans des investissements massifs dans la fabrication locale.
+
+### Le plan d'investissement de 1,1 milliard de livres sterling est-il jugé suffisant pour faire du Royaume-Uni un leader de l'IA ?
+
+Le plan d'investissement de 1,1 milliard de livres sterling est considéré comme marginal par rapport aux sommes nécessaires pour une véritable souveraineté en IA. Par exemple, la construction d'une seule usine de puces TSMC nécessiterait environ 20 milliards de livres. De plus, 400 millions de livres de ce budget étaient déjà engagés, et une grande partie du reste risque d'alimenter des géants comme Nvidia ou TSMC, renforçant la dépendance plutôt que l'autonomie.
+
+### Quels sont les principaux risques ou défis pour le Royaume-Uni dans sa stratégie d'investissement en IA ?
+
+Le principal défi pour le Royaume-Uni réside dans sa forte dépendance vis-à-vis des acteurs étrangers, notamment TSMC et Nvidia, qui dominent 90% du marché des puces IA. Malgré l'investissement, une grande partie des fonds risque d'être utilisée pour acheter des puces existantes, limitant la création de valeur ajoutée locale. Les promesses d'emplois locaux restent également vagues, se concentrant davantage sur la maintenance que sur la fabrication de pointe.

@@ -94,3 +94,21 @@ Babinet note que nous interagissons plus avec des machines qu'avec des humains. 
 
 ## Le verdict Adapte-toi
 L'Europe peut faire de l'IA un levier écologique et souverain, mais elle doit agir vite. Régulation intelligente, investissements ciblés et marché unique sont indispensables. Pour creuser : notre [guide sur la réglementation européenne](/guides/ia-europe-reglementation) ou la fiche métier [consultant IA](/metiers/consultant-ia). Pour agir : intègre des outils d'IA durable avec notre [guide pour automatiser ton travail](/guides/automatiser-travail-ia).
+
+## Questions fréquentes
+
+### Pourquoi l'Europe risque-t-elle d'être distancée par les États-Unis et la Chine dans le développement de l'IA ?
+
+L'Europe est menacée de prendre du retard en IA principalement à cause de sa fragmentation réglementaire, du manque d'intégration de ses marchés financiers et du ralentissement des investissements verts. Ces facteurs créent un environnement complexe pour les entreprises innovantes, les rendant moins agiles face à la concurrence internationale. Les 27 autorités de protection des données, par exemple, compliquent l'expansion des startups.
+
+### Quelles stratégies l'Europe peut-elle adopter pour rester compétitive dans le domaine de l'intelligence artificielle ?
+
+Pour rester compétitive en IA, l'Europe doit mettre en place une régulation plus intelligente et moins fragmentée, cibler ses financements et simplifier son écosystème d'innovation. Une harmonisation réglementaire permettrait aux startups de croître plus facilement, tandis que des investissements stratégiques soutiendraient le développement d'une IA "frugale" et éthique.
+
+### Comment la régulation européenne actuelle, comme l'AI Act, impacte-t-elle les startups innovantes en IA ?
+
+La régulation européenne, bien qu'avancée sur l'éthique avec l'AI Act, peut freiner l'innovation des startups en IA en raison de sa complexité et de sa fragmentation. Les 27 autorités de protection des données imposent des contraintes lourdes, ralentissant le déploiement de nouvelles solutions par rapport à des marchés plus unifiés comme les États-Unis ou la Chine. Cela risque de transformer l'Europe en un "musée de l'IA éthique" sans impact économique majeur.
+
+### L'Europe possède-t-elle des avantages uniques pour développer une intelligence artificielle distincte des modèles américains ou chinois ?
+
+Oui, l'Europe dispose d'atouts pour développer une IA "frugale", caractérisée par une moindre consommation énergétique et une approche plus ciblée que les modèles généralistes. Cette spécificité permettrait de se concentrer sur des applications précises, comme la recherche biomédicale avec des entreprises telles qu'Owkin, offrant ainsi une voie distincte et potentiellement plus durable face aux géants technologiques.

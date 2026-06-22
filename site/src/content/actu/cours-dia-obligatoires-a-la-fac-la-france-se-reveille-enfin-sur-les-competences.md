@@ -109,3 +109,21 @@ Cette annonce est une avancée, mais insuffisante. La France a compris l'urgence
 Le vrai défi : rendre l'IA concrète pour chaque métier. Un étudiant en philo n'a pas les mêmes besoins qu'un chaudronnier. Et l'IA n'est pas réservée aux "génies de la tech", elle concerne tout le monde.
 
 Pour aller plus loin, consulte notre [guide pour te former gratuitement](/guides/se-former-ia-gratuitement) ou notre [fiche métier "consultant IA"](/metiers/consultant-ia). Les enseignants peuvent s'appuyer sur notre [guide pour intégrer l'IA](/guides/prompt-engineering-debutant). **L'IA n'est pas une option : c'est la compétence de base de demain.**
+
+## Questions fréquentes
+
+### À partir de quelle année universitaire les modules d'intelligence artificielle deviendront-ils obligatoires pour tous les étudiants en France ?
+
+Les modules d'intelligence artificielle seront rendus obligatoires pour tous les étudiants universitaires en France à partir de l'année 2026, quel que soit leur cursus. Cette mesure, annoncée par Philippe Baptiste le 9 juin 2026, vise à équiper les 2,7 millions d'étudiants d'une compréhension des atouts, des limites et de l'impact de l'IA sur le monde professionnel.
+
+### Les universités françaises auront-elles une autonomie complète pour définir le contenu des modules d'IA obligatoires ?
+
+Oui, les universités françaises conserveront leur autonomie pour élaborer les programmes spécifiques des modules d'IA obligatoires, bien que des chartes nationales encadreront ces formations. Cette approche vise à répondre aux réticences des enseignants tout en garantissant une cohérence globale dans l'apprentissage de l'IA, de ses usages et de ses implications éthiques.
+
+### Quels sont les principaux obstacles que les universités françaises devront surmonter pour déployer les modules d'IA obligatoires d'ici 2026 ?
+
+Le principal obstacle identifié est le manque de ressources adéquates, puisque 60% des universités françaises manquent de moyens pour déployer ces modules sans aide extérieure, selon un rapport du MESRI de 2025. Le défi est de taille pour former 2,7 millions d'étudiants, et il faudra également surmonter les craintes des enseignants concernant la triche et la déshumanisation des savoirs.
+
+### La France est-elle en retard par rapport à d'autres pays concernant l'intégration de l'enseignement de l'IA dans les cursus universitaires ?
+
+Oui, la France accuse un retard d'environ cinq ans par rapport à des pays comme la Finlande ou Singapour, où l'enseignement de l'intelligence artificielle est déjà intégré dès le lycée. Cette initiative vise à combler ce décalage, d'autant plus que 40% des métiers devraient être impactés par l'automatisation d'ici 2025, soulignant l'urgence d'une meilleure préparation des futurs professionnels.

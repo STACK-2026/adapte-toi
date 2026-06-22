@@ -137,3 +137,21 @@ L'IA ne supprimera pas des métiers entiers, mais elle va **réduire certaines a
 **5 millions d'emplois concernés ne sont pas une prédiction apocalyptique, mais un signal d'alarme.** L'IA va accélérer la transformation des métiers. Le danger : sous-estimer l'urgence et se faire dépasser. Ceux qui **anticipent** et se forment dès maintenant auront un avantage.
 
 Pour aller plus loin, consulte notre [guide complet sur la reconversion avec l'IA](/guides/reconversion-ia-guide-complet) ou notre fiche [consultant IA](/metiers/consultant-ia). **Ne reste pas passif** : dans 5 ans, ceux qui auront ignoré l'IA risquent de se retrouver en difficulté.
+
+## Questions fréquentes
+
+### Combien de postes sont déjà fragilisés par l'intelligence artificielle en France et quelle est la projection pour les prochaines années ?
+
+Actuellement, 3,8% des emplois en France sont déjà fragilisés par l'IA générative, selon une étude Coface/OEM. Ce chiffre pourrait atteindre 16,3% d'ici 2 à 5 ans, ce qui représente potentiellement 5 millions de personnes. Cette progression rapide indique une transformation significative du marché du travail à venir, impactant divers secteurs d'activité.
+
+### Quels types de métiers et de secteurs d'activité sont les plus menacés par l'évolution de l'IA en France ?
+
+Les métiers qualifiés sont les plus exposés à la transformation par l'IA, notamment dans les secteurs de l'architecture et de l'ingénierie (26,9%), et de l'informatique et des mathématiques (24,9%). Les fonctions administratives, créatives et juridiques suivent avec environ 23,8% et 21,6% respectivement. Les profils techniques spécifiques peuvent même voir un risque atteindre 31%.
+
+### Quelle est la fréquence d'utilisation de l'intelligence artificielle par les salariés français dans leur quotidien professionnel ?
+
+L'adoption de l'IA par les salariés français reste encore limitée, avec seulement 7% l'utilisant quotidiennement et 14% de manière hebdomadaire. La moitié des employés n'ont jamais testé ces outils, malgré leur potentiel. Cependant, certains secteurs comme la traduction et le juridique commencent à l'intégrer, transformant les tâches existantes.
+
+### Est-ce que les emplois les mieux rémunérés sont également impactés par l'IA, contrairement aux précédentes révolutions technologiques ?
+
+Oui, contrairement aux révolutions technologiques antérieures, l'IA affecte de manière significative les emplois les mieux rémunérés, avec 22,1% des 10% les mieux payés potentiellement touchés. Cela s'explique par la capacité des IA actuelles à enchaîner plusieurs tâches complexes sans intervention humaine, impactant ainsi des rôles qualifiés et à forte valeur ajoutée.

@@ -115,3 +115,21 @@ Meta a franchi une ligne rouge : la surveillance de masse des employés est une 
 L'Europe a des garde-fous, mais ils sont peu appliqués. À toi d'agir : protège tes données, forme-toi aux métiers résilients et exige de la transparence. L'IA doit rester un outil, pas une menace.
 
 Pour aller plus loin, consulte notre [guide de reconversion face à l'IA](/guides/reconversion-ia-guide-complet) et découvre les [métiers les moins exposés](/metiers/infirmier-ia). Rejoins aussi des collectifs comme [La Quadrature du Net](https://www.laquadrature.net/).
+
+## Questions fréquentes
+
+### Mes données personnelles sont-elles protégées si Meta utilise des outils de surveillance comme MCI pour entraîner ses IA en Europe ?
+
+En Europe, la protection de vos données personnelles face à des outils comme le Model Capability Initiative (MCI) de Meta est encadrée par le RGPD et les législations nationales, qui exigent un consentement éclairé et une proportionnalité. Des pays comme l'Italie interdisent déjà la surveillance électronique des employés, et en France, la CNIL considère les keyloggers comme illégaux, rendant la conformité de MCI très problématique.
+
+### Comment l'initiative Model Capability de Meta visant à entraîner l'IA pourrait-elle affecter mon travail ou celui de mes collègues à long terme ?
+
+À long terme, l'initiative Model Capability (MCI) de Meta vise à transformer les rôles des employés en les orientant vers la supervision d'agents IA, plutôt que l'exécution directe des tâches. Selon Andrew Bosworth, l'objectif est que les IA effectuent l'essentiel du travail, réduisant potentiellement la nécessité de certaines fonctions humaines et modifiant la nature des interactions professionnelles.
+
+### La surveillance par keyloggers et captures d'écran est-elle une pratique courante pour l'entraînement d'IA dans les entreprises technologiques ?
+
+Non, la surveillance des employés par des keyloggers et des captures d'écran n'est généralement pas une pratique courante ni légalement acceptée pour l'entraînement d'IA, surtout en Europe. En France, par exemple, le Code civil protège la vie privée au travail et la CNIL interdit spécifiquement les keyloggers, considérant de tels dispositifs comme disproportionnés et non permanents.
+
+### Quelles sont les principales objections légales ou réglementaires auxquelles Meta fait face avec son initiative de surveillance des employés pour l'entraînement de l'IA ?
+
+Meta fait face à des objections légales majeures, notamment le Règlement Général sur la Protection des Données (RGPD) européen, qui exige un cadre strict pour la collecte et le traitement des données personnelles. De plus, des législations nationales comme celles de l'Italie interdisent la surveillance électronique des employés, et en France, la CNIL considère les keyloggers comme illégaux, posant un défi significatif à la conformité de MCI.

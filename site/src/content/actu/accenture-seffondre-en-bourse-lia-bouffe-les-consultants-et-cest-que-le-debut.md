@@ -106,3 +106,21 @@ Accenture n'est pas une exception, mais un avertissement. Le conseil vit sa rév
 Si tu es dans le conseil, ton rôle n'est plus de produire des slides, mais de résoudre des problèmes avec l'IA. Si tu es étudiant·e, ajoute des compétences techniques à ton diplôme. Si tu es freelance, transforme ton modèle économique.
 
 Consulte notre [guide reconversion IA](/guides/reconversion-ia-guide-complet), notre fiche [consultant IA](/metiers/consultant-ia) et forme-toi au [prompt engineering](/guides/prompt-engineering-debutant). Le changement est en marche.
+
+## Questions fréquentes
+
+### Quels profils de consultants sont spécifiquement visés par les licenciements massifs chez Accenture suite à l'essor de l'IA ?
+
+Les licenciements chez Accenture ciblent principalement les consultants généralistes, les analystes financiers juniors et les équipes dédiées aux transformations digitales basiques. Ces postes sont considérés comme les plus vulnérables à l'automatisation par l'intelligence artificielle. L'IA est capable d'exécuter jusqu'à 80% des tâches répétitives traditionnellement assignées aux profils juniors, réduisant ainsi le besoin en main-d'œuvre pour ces fonctions.
+
+### Comment Accenture compte-t-il réorienter ses activités et ses recrutements face à l'impact de l'intelligence artificielle sur le conseil ?
+
+Accenture prévoit de recruter 10 000 experts en IA d'ici 2027, se concentrant sur des compétences clés comme le prompt engineering, l'intégration de grands modèles de langage (LLMs) et la cybersécurité des modèles. Cette stratégie vise à transformer son offre de services pour répondre aux nouvelles demandes du marché, où les entreprises cherchent des solutions d'IA plutôt que du conseil traditionnel. Le cabinet cherche à combler son retard par rapport à des concurrents ayant investi plus tôt dans ces technologies.
+
+### Pourquoi Accenture semble-t-il avoir pris du retard par rapport à ses concurrents comme McKinsey et BCG dans l'intégration de l'IA ?
+
+Accenture a pris du retard car des cabinets comme McKinsey et BCG ont commencé à investir massivement dans l'intelligence artificielle dès 2023, développant leurs propres solutions internes. McKinsey a notamment lancé son LLM "Quantum" en 2025, tandis que BCG a également misé sur des outils similaires. Ce décalage a permis à leurs concurrents de s'adapter plus rapidement aux attentes du marché et de réduire la dépendance aux services de conseil traditionnels.
+
+### Quelle a été l'ampleur de la chute boursière d'Accenture et quand cet événement majeur s'est-il produit ?
+
+La chute boursière d'Accenture s'est matérialisée le 18 juin 2026, lorsque ses actions ont clôturé à 212 dollars, marquant leur plus bas niveau depuis novembre 2017. En une seule semaine, le groupe a perdu 12% de sa valeur boursière, ce qui représente une diminution de 35 milliards de dollars. Cette dévalorisation est directement attribuée à l'adoption accélérée de l'IA par les entreprises clientes, qui réorientent leurs budgets.

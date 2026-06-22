@@ -98,3 +98,21 @@ La loi Darcos était une première en Europe. Au lieu de cela, la France envoie 
 
 ## Le verdict Adapte-toi
 L'échec de la loi Darcos confirme que les métiers créatifs vont se précariser sans cadre légal. Le gouvernement a choisi son camp, mais tu peux agir. Pour aller plus loin : [guide de reconversion](/guides/reconversion-ia-guide-complet), [métiers résistants à l'IA](/metiers/graphiste-ia), [décryptage de l'AI Act](/guides/ia-europe-reglementation/).
+
+## Questions fréquentes
+
+### Quel était l'objectif principal de la loi Darcos rejetée en 2026 concernant l'utilisation des œuvres par les IA ?
+
+La loi Darcos visait principalement à contraindre les entreprises d'intelligence artificielle à rémunérer les artistes dont les œuvres étaient utilisées pour l'entraînement de leurs modèles génératifs. Ce texte prévoyait également d'inverser la charge de la preuve, obligeant les géants de l'IA à démontrer qu'ils n'exploitaient pas les créations sans compensation. Son adoption aurait établi un cadre de protection et de juste rémunération pour les créateurs face aux outils comme Midjourney ou Stable Diffusion.
+
+### Qui sont les principaux acteurs qui ont œuvré au blocage de la loi Darcos à l'Assemblée nationale ?
+
+Le blocage de la loi Darcos à l'Assemblée nationale a été principalement orchestré par le groupe Renaissance, qui a déposé une centaine d'amendements, et influencé par le lobbying intense de figures de la tech. Parmi ces figures, Arthur Mensch de Mistral AI et Yann Le Cun, anciennement chez Meta, sont cités comme ayant activement œuvré contre le texte. Leurs actions ont conduit au rejet du projet de loi, malgré son adoption unanime préalable au Sénat.
+
+### Quelles sont les implications concrètes pour les artistes suite au rejet de la loi Darcos concernant la rémunération par l'IA ?
+
+Le rejet de la loi Darcos signifie que les artistes restent sans protection juridique spécifique et sans mécanisme de compensation obligatoire face à l'utilisation de leurs œuvres par les intelligences artificielles génératives. Les entreprises d'IA peuvent continuer à entraîner leurs modèles avec des millions d'œuvres existantes, comme celles utilisées par Midjourney ou Stable Diffusion, sans avoir à rémunérer les créateurs. Cette situation maintient un déséquilibre, laissant les artistes démunis face à l'exploitation de leur travail.
+
+### Y a-t-il des pistes ou des solutions alternatives envisagées pour protéger les œuvres des créateurs face aux IA génératives après cet échec législatif ?
+
+Après l'échec de la loi Darcos, la ministre de la Culture, Catherine Pégard, a appelé à la recherche de solutions alternatives en invitant créateurs et entreprises technologiques à dialoguer pour trouver un terrain d'entente. Bien qu'aucune mesure législative concrète ne soit immédiatement en place, cette déclaration suggère une volonté de poursuivre les discussions pour élaborer des cadres de protection ou de rémunération. Des initiatives privées ou des négociations sectorielles pourraient émerger pour tenter de combler ce vide juridique.

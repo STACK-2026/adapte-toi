@@ -133,3 +133,21 @@ Bercy lance une révolution dans l'administration avec l'IA, visant l'efficacit�
 Pour toi, c'est une opportunité si tu t'adaptes. Les métiers hybrides vont exploser, mais l'administration reste lente et budgétairement contrainte. Forme-toi vite, cible les appels d'offres et mise sur les outils souverains.
 
 Consulte notre [guide reconversion IA](/guides/reconversion-ia-guide-complet) et la fiche métier [consultant IA](/metiers/consultant-ia). Ne reste pas passif : dans deux ans, ceux qui n'auront pas monté en compétences risquent d'être hors-jeu.
+
+## Questions fréquentes
+
+### Quel est l'objectif principal de la nouvelle Direction de l'intelligence artificielle et du numérique de Bercy ?
+
+L'objectif principal de la Direction de l'intelligence artificielle et du numérique (DIAN) est d'intégrer l'IA au sein des ministères économiques et financiers, modernisant ainsi les services publics. Cette initiative vise à équiper 150 000 agents d'ici fin 2027, à mutualiser les infrastructures de calcul et à développer des outils souverains pour l'administration française.
+
+### Comment l'État français compte-t-il garantir la souveraineté et la sécurité des données avec ses nouveaux outils d'IA ?
+
+L'État français garantira la souveraineté et la sécurité des données en développant des briques interministérielles, notamment des assistants conversationnels souverains basés sur des modèles français comme Mistral AI ou LightOn. De plus, il remplacera Palantir par ChapsVision pour l'analyse des données sensibles, renforçant ainsi le contrôle national sur ces informations cruciales.
+
+### Quels bénéfices concrets les fonctionnaires des ministères économiques et financiers peuvent-ils attendre de l'intégration de l'IA ?
+
+Les fonctionnaires des ministères économiques et financiers peuvent attendre des bénéfices concrets tels que l'amélioration de l'efficacité opérationnelle et l'accès facilité à l'information. L'intégration de l'IA permettra, par exemple, de développer des outils comme un assistant conversationnel pour Ameli, qui répondra aux questions des assurés et libérera du temps pour les conseillers.
+
+### Quelle est la feuille de route pour la formation des agents de l'État aux nouvelles technologies d'intelligence artificielle ?
+
+La feuille de route 2026-2027 de la DIAN prévoit une formation massive des fonctionnaires aux nouvelles technologies d'intelligence artificielle. L'objectif est d'équiper et de former 150 000 agents des ministères économiques et financiers d'ici fin 2027, afin qu'ils puissent pleinement utiliser les outils IA mis à leur disposition.

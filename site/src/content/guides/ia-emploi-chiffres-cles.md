@@ -175,6 +175,24 @@ Toutes les études citées dans ce guide sont accessibles publiquement. Voici le
 - Goldman Sachs (2024) : "The Potentially Large Effects of AI on Economic Growth"
 
 <!-- maillage:auto -->
+## Questions fréquentes
+
+### Quels sont les secteurs d'emploi les plus impactés par la baisse des offres due à l'IA, selon les études récentes de 2024-2026 ?
+
+Selon des études comme celle d'Anthropic en mars 2026, les secteurs les plus touchés par une baisse significative des offres d'emploi incluent les centres d'appels (-67%), la rédaction publicitaire (-53%) et la gestion de projets IT (-48%). Ces chiffres reflètent une automatisation croissante des tâches intellectuelles et répétitives, où l'IA peut prendre en charge une part importante du travail, réduisant ainsi le besoin de main-d'œuvre humaine.
+
+### Au-delà de la suppression de postes, quels sont les autres impacts majeurs de l'IA sur le marché du travail que les études mettent en évidence ?
+
+L'IA induit également une transformation profonde des métiers existants et la création de nouvelles fonctions, au-delà de la simple suppression de postes. Les analyses de 2024-2026 soulignent une évolution des compétences requises, valorisant la pensée critique, la créativité, l'adaptabilité et la collaboration avec les systèmes intelligents. La requalification et l'amélioration des compétences deviennent cruciales pour les professionnels.
+
+### Comment les entreprises peuvent-elles adapter leurs stratégies de recrutement et de formation face à l'intégration croissante de l'IA d'ici 2026 ?
+
+Les entreprises doivent anticiper l'impact de l'IA en adaptant leurs stratégies de recrutement pour valoriser les compétences non-automatisables et en investissant massivement dans la formation continue de leurs employés. Cela implique de développer des parcours de reskilling et d'upskilling axés sur la maîtrise des outils d'IA, la résolution de problèmes complexes et les compétences interpersonnelles. L'objectif est de transformer les rôles plutôt que de les éliminer.
+
+### Les études récentes confirment-elles l'idée que l'IA va créer plus d'emplois qu'elle n'en détruit, ou est-ce plus nuancé ?
+
+Les études de 2024-2026 présentent une vision nuancée, indiquant que l'IA ne se contente pas de détruire ou de créer un nombre net d'emplois, mais qu'elle transforme fondamentalement le paysage. Si des postes sont supprimés, de nouveaux émergent et de nombreux autres sont augmentés par l'IA, modifiant leurs tâches. L'équilibre global dépendra fortement de l'investissement dans la formation et l'adaptation des politiques du travail.
+
 ## Pour aller plus loin
 
 **Guides connexes :**

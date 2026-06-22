@@ -108,3 +108,21 @@ L'IA redéfinit la valeur professionnelle. Les tâches répétitives sont automa
 L'enquête du FT confirme que l'IA transforme les emplois sans les supprimer. Le défi est humain : former les équipes, repenser les processus, valoriser les compétences humaines.
 
 Si tu ne t'adaptes pas, tu risques l'obsolescence. Si tu utilises l'IA, tu peux booster ta productivité et te spécialiser. Pour aller plus loin, consulte notre [guide sur la reconversion avec l'IA](/guides/reconversion-ia-guide-complet) ou notre fiche [consultant-ia](/metiers/consultant-ia).
+
+## Questions fréquentes
+
+### Quels sont les métiers les plus impactés par l'intégration de l'IA dans les tâches professionnelles en 2026 ?
+
+Selon une enquête du Financial Times de 2026, les métiers les plus impactés par l'IA sont les consultants en stratégie (72%), les rédacteurs (68%), les développeurs (65%) et les analystes financiers (61%). Ces professions voient une part significative de leurs tâches quotidiennes modifiée ou assistée par l'intelligence artificielle, nécessitant une adaptation des compétences.
+
+### L'intelligence artificielle va-t-elle réellement supprimer de nombreux emplois d'ici 2026 comme on le craint ?
+
+Non, les données de 2026 indiquent que l'IA réorganise les postes plutôt que de les supprimer massivement, avec seulement 12% des répondants rapportant des suppressions de postes liées à son usage. La tendance est à la transformation des emplois en tâches hybrides où l'humain supervise et valide le travail de la machine, se concentrant sur des rôles de vérification et d'interprétation.
+
+### Comment les entreprises peuvent-elles former efficacement leurs employés à l'utilisation des outils d'IA comme Copilot ou Claude ?
+
+L'article révèle que 42% des entreprises ne savent pas comment former leurs équipes à l'IA, malgré la demande d'utilisation d'outils comme Copilot ou Claude. Pour une formation efficace, il est crucial de mettre en place des programmes pratiques qui expliquent l'intégration de ces technologies dans les flux de travail existants, en se concentrant sur les cas d'usage concrets et les compétences de supervision.
+
+### En quoi consistent les changements concrets des tâches quotidiennes pour les professionnels qui utilisent l'IA au travail ?
+
+Les changements concrets des tâches quotidiennes pour les professionnels utilisant l'IA consistent à passer de l'exécution à la supervision et à la vérification. Par exemple, un consultant qui consacrait beaucoup de temps à l'analyse de données utilise désormais l'IA pour cette tâche, se concentrant sur la validation des résultats et l'ajout d'une valeur stratégique humaine.

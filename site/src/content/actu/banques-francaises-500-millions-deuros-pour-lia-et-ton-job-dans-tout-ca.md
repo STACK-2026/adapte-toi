@@ -98,3 +98,21 @@ Gavalda assume que l'IA changera tout, y compris les emplois. Le mot clé est "p
 Crédit Agricole mise 500 millions sur l'IA pour gagner en productivité. Les salariés doivent monter en compétences ou risquer l'obsolescence. Les reconvertis et freelances ont une opportunité, à condition de cibler les métiers hybrides.
 
 Ne te fie pas aux discours sur "l'IA libératrice". Les banques veulent réduire leurs coûts. Si tu es dans le secteur, forme-toi maintenant. Si tu veux te reconvertir, cible tech + finance, data + relation client. Consulte notre [guide reconversion IA](/guides/reconversion-ia-guide-complet), notre [fiche consultant IA](/metiers/consultant-ia) et commence à te former avec [Claude](/outils/claude). Le train est en marche.
+
+## Questions fréquentes
+
+### Quelles sont les tâches bancaires actuelles que l'intelligence artificielle est susceptible d'automatiser en priorité d'ici 2026 ?
+
+L'intelligence artificielle est principalement destinée à automatiser les tâches répétitives et à fort volume dans le secteur bancaire. Cela inclut le scoring crédit, la détection de fraudes et l'automatisation des processus de back-office. Elle permettra également de personnaliser les conseils clients en analysant de vastes ensembles de données pour des recommandations plus ciblées et efficaces.
+
+### Quelles nouvelles compétences les employés de banque devraient-ils acquérir pour s'adapter à l'intégration de l'IA ?
+
+Pour s'adapter à l'intégration de l'IA, les employés de banque devraient développer des compétences en analyse de données, en compréhension des outils d'IA et en résolution de problèmes complexes. Les capacités relationnelles, la créativité et la pensée critique deviendront également primordiales pour gérer les interactions clients plus complexes et les situations non standardisées.
+
+### Les investissements actuels des banques françaises dans l'IA leur permettent-ils de rattraper leur retard face aux banques internationales ?
+
+Les 500 millions d'euros investis par Crédit Agricole sur trois ans représentent un effort de rattrapage significatif face aux banques internationales. Cependant, des acteurs comme JPMorgan dépensaient déjà 15 milliards de dollars par an en technologie en 2023, soulignant l'ampleur du chemin à parcourir. Le retard est également dû à des systèmes informatiques hérités des années 90 qui freinent l'intégration rapide de l'IA.
+
+### À quelle échéance peut-on s'attendre à voir l'IA pleinement opérationnelle dans les services bancaires courants en France ?
+
+L'IA commencera à être pleinement opérationnelle dans certains services bancaires courants dès septembre 2026, notamment via la filiale "Entreprise IA" du Crédit Agricole. Cette entité vise à standardiser les outils d'IA pour toutes les entités du groupe. Le déploiement dans les processus existants comme le scoring crédit et la détection de fraudes est déjà en cours et s'intensifiera sur les trois prochaines années.

@@ -100,3 +100,21 @@ Cette citation annonce un durcissement des règles. Moins de protections pour le
 OpenAI recrute Ball pour son influence politique, pas ses compétences techniques. Son arrivée marque un tournant : l'IA servira des intérêts conservateurs, climatosceptiques et pro-automatisation. Le marché du travail deviendra plus brutal, inégal et imprévisible. Les métiers verts, les emplois publics et les freelances sont en première ligne.
 
 Agis maintenant. Identifie les compétences qui te rendent irremplaçable, forme-toi aux outils d'IA et prépare-toi à un environnement changeant. Consulte notre [guide reconversion IA](/guides/reconversion-ia-guide-complet) et notre [fiche consultant IA](/metiers/consultant-ia) pour te spécialiser. Le futur de l'emploi dépendra de ceux qui maîtriseront les algorithmes. À toi de jouer.
+
+## Questions fréquentes
+
+### Quel est le rôle précis de Dean Ball chez OpenAI et quelle est sa mission principale ?
+
+Dean Ball a été recruté par OpenAI pour diriger une équipe dédiée aux "risques catastrophiques" de l'IA et à son impact sur l'emploi. Intégrant le département "Strategic Futures", sa mission principale est de façonner la politique d'OpenAI concernant l'IA frontière. Son expertise politique, acquise notamment en tant que conseiller IA de Trump, sera utilisée pour influencer les relations de l'entreprise avec les gouvernements et la société, sous la direction de Jason Kwon.
+
+### Comment l'arrivée de Dean Ball, un ancien conseiller de Trump, pourrait-elle influencer la politique d'OpenAI vis-à-vis de la régulation de l'IA ?
+
+L'arrivée de Dean Ball chez OpenAI pourrait renforcer la position de l'entreprise face à ses concurrents sur les questions de régulation et d'exportation des modèles d'IA, grâce à son expérience en politique gouvernementale. Ayant supervisé le plan IA de la Maison-Blanche en 2025, il apporte une connaissance approfondie des mécanismes politiques et des décideurs, ce qui sera crucial pour naviguer dans le paysage réglementaire complexe de l'IA. Son rôle sera d'aligner les politiques technologiques d'OpenAI avec les intérêts gouvernementaux.
+
+### Quels types de "risques catastrophiques" liés à l'IA Dean Ball sera-t-il chargé d'évaluer et de gérer chez OpenAI ?
+
+Dean Ball sera chargé d'évaluer et de gérer les "risques catastrophiques" liés à l'IA, incluant potentiellement les menaces existentielles, les impacts sociétaux majeurs et les perturbations de l'emploi. Son rôle au sein du département "Strategic Futures" d'OpenAI implique d'anticiper les conséquences imprévues des avancées de l'IA frontière, et de développer des stratégies pour atténuer ces risques. Cela englobe aussi l'impact de l'IA sur la chaîne d'approvisionnement, un domaine où Ball a déjà exprimé des préoccupations.
+
+### Y a-t-il un lien entre les précédentes affiliations de Dean Ball à des think tanks conservateurs et son nouveau poste chez OpenAI ?
+
+Oui, il y a un lien entre les précédentes affiliations de Dean Ball à des think tanks conservateurs et son nouveau poste, car son expérience politique et idéologique influencera sa stratégie chez OpenAI. Ayant travaillé pour la Foundation for American Innovation et la Heritage Foundation, il apporte une perspective conservatrice sur la régulation et l'innovation, potentiellement alignée sur une approche moins interventionniste ou plus axée sur les intérêts nationaux. Cette expertise politique est valorisée pour façonner la politique d'OpenAI avec les gouvernements.

@@ -98,3 +98,21 @@ Cette citation rappelle l'ampleur du défi : la pharmacie traditionnelle est len
 L'alliance Novo Nordisk-OpenAI marque un tournant : la pharmacie entre dans l'ère de l'IA industrielle. Les métiers traditionnels vont disparaître, mais des centaines de milliers de postes vont se créer, à condition de se former **maintenant**. Le Rentosertib montre que l'IA peut concevoir des médicaments pour des maladies complexes : c'est une opportunité historique, mais aussi une menace pour ceux qui ne s'adaptent pas.
 
 Ne reste pas spectateur. Va lire notre [guide complet sur la reconversion dans l'IA](/guides/reconversion-ia-guide-complet), consulte notre fiche métier de biologiste augmenté par l'IA, et explore nos [outils comme Claude ou Copilot](/outils/claude) pour commencer à pratiquer dès aujourd'hui. La révolution pharmaceutique est en marche, à toi de décider si tu veux en être acteur ou victime.
+
+## Questions fréquentes
+
+### Comment l'intelligence artificielle parvient-elle à réduire drastiquement le temps de développement des nouveaux médicaments ?
+
+L'intelligence artificielle accélère le développement de médicaments en analysant et en générant des milliards de combinaisons chimiques potentielles bien plus vite qu'un humain. Elle prédit leur efficacité et leur toxicité, puis optimise la conception des essais cliniques, permettant ainsi de passer d'une décennie à environ deux ans pour la mise au point d'un traitement. Cette capacité de criblage massif et de prédiction réduit considérablement les étapes d'expérimentation traditionnelles.
+
+### Existe-t-il déjà des exemples concrets de médicaments entièrement conçus ou découverts grâce à l'IA et ayant atteint des phases avancées ?
+
+Oui, le Rentosertib est un exemple notable de médicament entièrement conçu par intelligence artificielle, développé par la biotech Insilico Medicine. Ce traitement contre la fibrose pulmonaire a démontré une excellente sécurité et tolérance lors de ses essais cliniques de phase 2. Il illustre la capacité de l'IA à générer des molécules inédites et à prédire leurs propriétés avec succès.
+
+### Quels sont les principaux avantages de l'IA dans la recherche pharmaceutique au-delà de la simple accélération des processus ?
+
+Au-delà de l'accélération, l'IA permet de générer des molécules inédites que les méthodes traditionnelles n'auraient pas envisagées, élargissant ainsi le champ des possibles thérapeutiques. Elle améliore également la précision de la prédiction d'efficacité et de toxicité des composés, réduisant les échecs coûteux en fin de parcours. L'IA optimise aussi les essais cliniques pour une meilleure sélection des patients et une analyse plus fine des résultats.
+
+### Comment l'intégration de l'intelligence artificielle modifie-t-elle les compétences requises pour les chimistes et biologistes travaillant dans l'industrie pharmaceutique ?
+
+L'intégration de l'IA exige que les chimistes et biologistes pharmaceutiques acquièrent de nouvelles compétences en science des données et en utilisation d'outils d'intelligence artificielle. Ils doivent désormais être capables d'interpréter les résultats générés par l'IA, de collaborer avec des experts en IA et de maîtriser des plateformes logicielles dédiées à la conception moléculaire et à l'analyse prédictive. Cette évolution est cruciale pour rester compétitif dans un secteur en pleine transformation.

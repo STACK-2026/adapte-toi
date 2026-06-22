@@ -104,3 +104,21 @@ Ce boycott n'est pas une lubie d'intellos déconnectés. C'est un signal d'alarm
 Pour toi, c'est l'occasion de reprendre le contrôle. Pas besoin de boycotter radicalement, mais de questionner ton usage, tes dépendances, et tes compétences. L'IA peut être un levier, à condition de ne pas en devenir l'esclave.
 
 Va lire notre [guide complet sur la reconversion face à l'IA](/guides/reconversion-ia-guide-complet), et consulte notre fiche [métier copywriter IA](/metiers/copywriter-ia) pour voir comment allier créativité humaine et outils algorithmiques… sans se faire bouffer.
+
+## Questions fréquentes
+
+### Qui sont les personnalités françaises qui ont signé l'appel au boycott de l'IA générative ?
+
+Cent cinquante personnalités françaises, dont des écrivains comme Annie Ernaux (Nobel de littérature 2022) et Hervé Le Tellier (prix Goncourt 2020), une ancienne ministre de la Culture, des auteurs de BD et un biologiste, ont signé une tribune dans Le Monde. Ces figures influentes incluent également Pierre Michon, Abel Quentin, Françoise Nyssen, Jul, Enki Bilal et Marc-André Selosse. Leur diversité de profils, allant de la littérature à la science, confère un poids significatif à leur appel.
+
+### Pourquoi des intellectuels craignent-ils que l'IA générative nuise aux capacités cognitives humaines ?
+
+Les intellectuels signataires craignent que l'utilisation massive de l'IA générative affaiblisse les capacités cognitives humaines et crée des dépendances émotionnelles. Ils estiment que cette technologie, en automatisant certaines tâches intellectuelles, pourrait réduire notre aptitude à la réflexion critique et à l'autonomie mentale. Cette inquiétude est particulièrement forte concernant les jeunes et les professionnels qui l'utilisent fréquemment.
+
+### Quel est l'argument principal concernant l'impact environnemental de l'IA générative, selon les signataires ?
+
+L'argument principal des signataires concernant l'impact environnemental de l'IA générative est la consommation énergétique colossale des centres de données nécessaires à son fonctionnement. Ces infrastructures technologiques engloutissent des milliards d'euros et des quantités massives d'énergie, ce qui, selon eux, détourne les investissements et les efforts des "vraies solutions climatiques" plus urgentes et efficaces pour lutter contre le changement climatique.
+
+### Comment les personnalités signataires jugent-elles la régulation actuelle de l'intelligence artificielle générative ?
+
+Les personnalités signataires jugent la régulation actuelle de l'intelligence artificielle générative insuffisante, la qualifiant de "régulation a minima". Elles expriment une vive inquiétude face à l'hypnose des responsables politiques par les promesses des robots conversationnels, alors que la population française manifeste déjà une forte appréhension. Cette critique intervient après des débats au G7 et à VivaTech où les annonces de régulation ont été perçues comme trop timides.

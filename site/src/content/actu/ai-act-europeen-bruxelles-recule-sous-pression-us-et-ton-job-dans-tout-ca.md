@@ -108,3 +108,21 @@ L'UE a reculé pour éviter un clash avec les États-Unis. Pour toi, c'est une d
 Ne compte pas sur les États pour te protéger. Forme-toi aux compétences IA résistantes aux dérives (audit, éthique, transparence). Prépare-toi à un marché du travail où les algorithmes décideront de ton sort sans contrôle jusqu'en 2027.
 
 Consulte notre [guide sur la régulation IA en Europe](/guides/ia-europe-reglementation) et notre fiche [métier de consultant en conformité IA](/metiers/consultant-ia) pour en faire ton atout. Dans ce Far West technologique, les gagnants seront ceux qui jouent avec les règles avant qu'elles n'existent.
+
+## Questions fréquentes
+
+### Comment le report de l'AI Act européen va-t-il influencer les opportunités d'emploi et les pratiques des professionnels de l'IA en Europe ?
+
+Le report de l'application de l'AI Act signifie que les professionnels travaillant avec l'IA en Europe bénéficieront d'une période prolongée sans obligations réglementaires strictes. Ce délai, s'étendant jusqu'en novembre 2025 pour l'IA à haut risque et août 2027 pour l'IA générative, offre une flexibilité accrue pour l'innovation. Cependant, il pourrait également retarder l'adoption de pratiques éthiques standardisées et créer une incertitude quant aux compétences et conformités futures requises dans le secteur.
+
+### Quelles sont les nouvelles échéances clés à retenir pour l'application de l'AI Act européen après le recul de Bruxelles ?
+
+Les nouvelles échéances clés pour l'application de l'AI Act européen prévoient un report significatif des obligations réglementaires. Les systèmes d'IA considérés "à haut risque", comme ceux utilisés pour le recrutement ou la biométrie, bénéficieront d'un délai d'un an, repoussant leur application à novembre 2025 sans obligations initiales de transparence ou d'audit. Quant aux fournisseurs d'IA générative, tels qu'OpenAI ou Mistral, ils sont exemptés des règles jusqu'en août 2027.
+
+### Pour quelles raisons principales l'Union européenne a-t-elle finalement décidé de reporter l'application de son AI Act, première loi mondiale sur l'IA ?
+
+L'Union européenne a reporté l'application de l'AI Act principalement sous la pression des États-Unis et des géants technologiques comme Microsoft et OpenAI. Officiellement, Bruxelles évoque une "coordination" avec ses alliés, mais en réalité, ce recul est perçu comme un aveu de faiblesse face aux craintes américaines d'un impact commercial négatif. Les entreprises européennes et américaines ont ainsi obtenu un délai pour s'adapter, ou potentiellement contourner, les futures régulations.
+
+### Quels sont les risques potentiels pour la sécurité des utilisateurs ou l'éthique de l'IA suite au report des règles de l'AI Act européen ?
+
+Le report des règles de l'AI Act européen présente des risques pour la sécurité des utilisateurs et l'éthique de l'IA en prolongeant une période sans cadre réglementaire strict. L'absence d'obligations de transparence ou d'audit pour les IA à haut risque jusqu'en novembre 2025, et pour l'IA générative jusqu'en août 2027, signifie que les systèmes pourraient être déployés avec moins de garanties concernant la protection des données, la non-discrimination ou la fiabilité. Cela pourrait exposer les citoyens à des usages potentiellement problématiques sans recours immédiat.

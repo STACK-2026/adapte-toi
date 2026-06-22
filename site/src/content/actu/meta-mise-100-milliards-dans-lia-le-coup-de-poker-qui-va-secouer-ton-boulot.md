@@ -129,3 +129,21 @@ Pour aller plus loin, consulte notre [guide complet sur la reconversion](/guides
 - [Développeur IA](/metiers/developpeur-ia)
 
 Le train est en marche. À toi de monter dedans.
+
+## Questions fréquentes
+
+### Quels métiers au sein de Meta seront les plus affectés par l'automatisation et l'intégration de l'IA d'ici 2026 ?
+
+Les métiers de modération, de marketing et de développement sont les plus directement impactés par l'investissement de Meta dans l'IA. L'entreprise prévoit d'automatiser des tâches comme la détection de contenus haineux et le ciblage publicitaire, tout en formant ses employés aux nouveaux outils et en proposant des reconversions pour les postes supprimés. Cela vise à transformer les rôles plutôt qu'à les éliminer purement et simplement pour tous.
+
+### Comment Meta compte-t-il rivaliser avec des leaders de l'IA comme OpenAI et Anthropic grâce à son investissement de 100 milliards de dollars ?
+
+Meta vise à rattraper OpenAI et Anthropic en développant ses propres modèles d'IA, en acquérant des startups spécialisées et en formant massivement ses utilisateurs et employés. L'objectif est de proposer des alternatives directes à des outils comme ChatGPT ou Claude, en intégrant ces technologies au cœur de ses plateformes existantes. Cette stratégie agressive est une tentative de combler leur avance technologique significative.
+
+### Quelles transformations concrètes les utilisateurs de Facebook, Instagram et WhatsApp peuvent-ils anticiper avec l'arrivée massive de l'IA de Meta ?
+
+Les utilisateurs de Facebook, Instagram et WhatsApp peuvent s'attendre à des améliorations significatives en matière de modération de contenu, de ciblage publicitaire personnalisé et de création de contenus assistée par IA. Meta prévoit d'utiliser l'IA pour détecter plus efficacement les discours haineux en temps réel et pour optimiser la pertinence des publicités affichées. Cela devrait rendre l'expérience utilisateur plus fluide et plus pertinente.
+
+### Pourquoi Meta prend-il un risque financier aussi important en investissant 100 milliards de dollars dans l'IA, après l'échec du métavers ?
+
+Meta investit massivement dans l'IA car l'entreprise considère cette technologie comme la prochaine révolution majeure, comparable à l'essor du mobile il y a dix ans. Après l'échec du métavers, cet investissement colossal est un pari stratégique pour ne pas être "largué" face à la concurrence. Les risques incluent l'avance technologique des concurrents et la méfiance persistante des utilisateurs envers l'IA.

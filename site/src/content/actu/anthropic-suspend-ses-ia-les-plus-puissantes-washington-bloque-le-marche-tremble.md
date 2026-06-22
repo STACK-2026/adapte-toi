@@ -125,3 +125,21 @@ Pour toi, deux implications :
 2. **La fragmentation du marché s'accélère** : modèles américains contrôlés, européens soutenus, open-source en hausse.
 
 La solution ? **Diversifie tes compétences** et prépare-toi à des alternatives moins performantes mais plus stables. Consulte notre [guide sur les chiffres clés de l'IA](/guides/ia-emploi-chiffres-cles) et notre [fiche consultant-ia](/metiers/consultant-ia) pour anticiper les tendances.
+
+## Questions fréquentes
+
+### Quelles sont les raisons précises qui ont conduit à la suspension des modèles d'IA Fable 5 et Mythos 5 par Anthropic ?
+
+La suspension des modèles Fable 5 et Mythos 5 d'Anthropic résulte d'une directive du gouvernement américain, invoquant des "risques pour la sécurité nationale". Washington exigeait que ces modèles ne soient plus accessibles aux "ressortissants étrangers", une condition qu'Anthropic n'a pas pu respecter sans enfreindre les lois anti-discrimination. L'entreprise a donc désactivé les modèles pour tous les utilisateurs.
+
+### Comment Anthropic a-t-elle réagi à la demande du gouvernement américain de restreindre l'accès de ses IA aux ressortissants étrangers ?
+
+Anthropic a réagi en désactivant complètement ses deux modèles avancés, Fable 5 et Mythos 5, pour l'ensemble de ses utilisateurs. L'entreprise a expliqué qu'elle était incapable de trier ses utilisateurs par nationalité sans enfreindre les lois anti-discrimination, rendant impossible une restriction ciblée conforme à la directive gouvernementale.
+
+### Quelles étaient les capacités spécifiques des modèles d'IA Fable 5 et Mythos 5 qui ont suscité des préoccupations de sécurité nationale ?
+
+Fable 5 était un modèle bridé sur des sujets sensibles comme la cybersécurité, tandis que Mythos 5, sa version non bridée, était spécifiquement conçu pour des clients sélectionnés, incluant des agences gouvernementales. Selon des tests internes, Mythos 5 pouvait détecter et exploiter des failles de sécurité à une vitesse inédite, ce qui a directement alimenté les inquiétudes de Washington concernant la sécurité nationale.
+
+### Quel est le contexte plus large de cette suspension des IA d'Anthropic et quelles sont les perspectives de résolution ?
+
+Cette suspension s'inscrit dans un contexte tendu pour Anthropic, qui était déjà en conflit avec l'administration Trump sur des contrats militaires rompus et qui prépare son introduction en Bourse. Anthropic qualifie la situation de "malentendu" et promet un rétablissement rapide des modèles. Cependant, la durée exacte de cette interruption et les conditions de leur éventuel retour restent incertaines pour les utilisateurs.

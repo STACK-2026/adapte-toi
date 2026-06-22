@@ -161,6 +161,24 @@ Stack minimale : 50 euros/mois. Rentabilisée dès 2 heures gagnées par semaine
 
 ---
 
+## Questions fréquentes
+
+### Est-il possible d'automatiser gratuitement une partie significative de mon travail avec l'IA, et quels outils utiliser ?
+
+Oui, il est tout à fait possible d'automatiser une part importante de votre travail avec l'IA sans aucun coût initial. De nombreux outils et plateformes proposent des versions gratuites avec des fonctionnalités suffisantes pour débuter et créer des workflows simples. Ces solutions permettent d'expérimenter et de valider l'efficacité de l'automatisation avant d'envisager des abonnements payants pour des besoins plus avancés.
+
+### Combien de temps dois-je consacrer pour réussir à automatiser mes premières tâches avec l'IA si je n'ai aucune expérience ?
+
+Vous pouvez commencer à automatiser vos premières tâches avec l'IA en quelques heures ou quelques jours, même sans expérience préalable en programmation. La méthode pas à pas suggère une semaine pour identifier les tâches et un calendrier d'automatisation sur quatre semaines pour une intégration progressive. La clé est de commencer par des tâches simples et répétitives pour maîtriser les outils et les concepts.
+
+### Comment puis-je identifier concrètement les tâches de mon quotidien qui sont les plus adaptées à l'automatisation par l'IA ?
+
+Pour identifier les tâches les plus adaptées à l'automatisation par l'IA, concentrez-vous sur celles que vous effectuez fréquemment et qui suivent un processus répétitif et prévisible. Une bonne méthode consiste à noter toutes vos tâches pendant une semaine, puis à évaluer leur fréquence et si leur déroulement est toujours identique. Les tâches qui impliquent de la créativité ou des interactions humaines complexes sont généralement moins automatisables.
+
+### Quels sont les principaux défis ou erreurs à éviter quand on se lance dans l'automatisation de son travail avec l'intelligence artificielle ?
+
+Le principal défi est de ne pas vouloir automatiser des tâches trop complexes dès le départ, ce qui peut mener à la frustration et à l'abandon. Il est crucial de commencer par des workflows simples et de bien définir les étapes de chaque tâche avant d'implémenter l'automatisation. Une autre erreur est de négliger la vérification régulière des automatisations pour s'assurer qu'elles fonctionnent toujours correctement.
+
 ## Sources
 
 - McKinsey (2024) : 30% des heures automatisables d'ici 2030

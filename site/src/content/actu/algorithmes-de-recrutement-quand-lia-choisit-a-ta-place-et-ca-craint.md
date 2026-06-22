@@ -107,3 +107,21 @@ Cette phrase illustre l'illusion de neutralité. L'IA amplifie les inégalités 
 Les algorithmes de recrutement reproduisent et amplifient les inégalités. Le shadow using, les biais invisibles et l'absence de contrôles en font un Far West. Pourtant, des solutions existent : transparence, audit et formation.
 
 L'IA ne sera jamais neutre, mais elle peut être plus juste si on l'y oblige. Pour t'adapter, consulte notre [guide sur la reconversion avec l'IA](/guides/reconversion-ia-guide-complet) ou notre [fiche métier chef·fe de projet IA](/metiers/chef-de-projet-ia). Le futur du travail se construit, ne le subis pas.
+
+## Questions fréquentes
+
+### Comment un algorithme de recrutement peut-il discriminer un candidat sans que le recruteur s'en rende compte ?
+
+Un algorithme de recrutement peut discriminer un candidat en reproduisant inconsciemment les biais présents dans les données historiques sur lesquelles il a été entraîné. Par exemple, si l'historique des embauches montre une surreprésentation masculine, l'IA pourrait favoriser des profils similaires, écartant des candidatures féminines qualifiées. Cela crée une sélection inéquitable, même si le recruteur n'a pas d'intention discriminatoire.
+
+### Quelles sont les obligations légales pour une entreprise française qui utilise des algorithmes pour trier les candidatures en 2026 ?
+
+En 2026, une entreprise française utilisant des algorithmes de recrutement doit respecter le RGPD et le Règlement IA européen. Elle a l'obligation d'informer clairement les candidats de l'utilisation de ces outils, d'assurer la transparence sur les critères de décision et de garantir que le système ne génère pas de discriminations illégales. La CNIL mène des contrôles pour veiller à l'application de ces réglementations.
+
+### Qu'est-ce que le "shadow using" des IA en recrutement et pourquoi est-ce préoccupant pour les candidats ?
+
+Le "shadow using" en recrutement est l'utilisation non officielle et non déclarée d'outils d'intelligence artificielle, comme ChatGPT, par des recruteurs pour évaluer des CV. Cette pratique est préoccupante pour les candidats car elle contourne l'obligation de transparence, introduit des biais potentiellement non contrôlés et rend le processus de sélection opaque, les exposant à des décisions arbitraires sans recours clair.
+
+### Comment les entreprises peuvent-elles rendre leurs algorithmes de recrutement moins biaisés et plus équitables ?
+
+Pour rendre les algorithmes de recrutement moins biaisés, les entreprises doivent impérativement auditer et diversifier les jeux de données d'entraînement pour qu'ils reflètent une plus grande diversité de profils. Il est également crucial d'intégrer des mécanismes de supervision humaine, permettant aux recruteurs de valider les décisions de l'IA et d'intervenir activement pour corriger d'éventuels résultats discriminatoires.

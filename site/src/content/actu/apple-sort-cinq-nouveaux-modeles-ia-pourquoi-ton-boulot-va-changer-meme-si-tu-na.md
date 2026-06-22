@@ -111,3 +111,21 @@ AFM 3 marque une avancée, surtout pour l'IA locale, mais reste réservé aux ap
 2. Si tu formes des équipes, Apple Intelligence devient un argument pour les entreprises équipées.
 
 Ne mise pas tout sur Apple, mais ne l'ignore pas. Pour aller plus loin, consulte notre [guide sur les outils IA](/guides/automatiser-travail-ia) ou notre [fiche métier développeur IA](/metiers/developpeur-ia).
+
+## Questions fréquentes
+
+### Quels appareils Apple seront compatibles avec les fonctionnalités avancées d'Apple Intelligence en 2026 ?
+
+En 2026, les fonctionnalités avancées d'Apple Intelligence, basées sur le modèle AFM 3 Core Advanced, seront compatibles avec l'iPhone 17 Pro, l'iPhone Air, les Mac équipés de puces M3 et les iPad dotés de puces M4. Ces appareils sont requis car le modèle AFM 3 Core Advanced nécessite un minimum de 12 Go de RAM pour fonctionner efficacement. Les autres appareils Apple utiliseront le modèle de base AFM 3 Core, offrant des capacités d'IA moins poussées.
+
+### Quelle est la différence de performance entre les nouveaux modèles d'IA d'Apple et les précédents ?
+
+Les nouveaux modèles d'IA d'Apple, les Apple Foundation Models 3 (AFM 3), affichent une nette amélioration de performance par rapport à leurs prédécesseurs, que la marque avait elle-même jugés "en retrait". Les benchmarks internes montrent que l'AFM 3 Core est préféré dans 45,6 % des cas pour le texte local et 61 % pour la compréhension d'images par rapport à la génération précédente. Pour les tâches cloud, l'AFM 3 Cloud obtient 64,7 % de préférences contre seulement 8,7 % pour l'ancienne version.
+
+### Comment fonctionnent les modèles d'IA d'Apple en local par rapport aux modèles cloud ?
+
+Apple Intelligence utilise une architecture hybride combinant des modèles d'IA fonctionnant directement sur l'appareil (en local) et d'autres s'exécutant dans le cloud pour des tâches plus complexes ou gourmandes en ressources. Les modèles locaux comme AFM 3 Core et AFM 3 Core Advanced gèrent les requêtes courantes et sensibles à la confidentialité. Les modèles cloud, tels que AFM 3 Cloud pour la vitesse, ADM 3 Cloud pour la génération d'images et AFM 3 Cloud Pro pour les requêtes complexes, sont hébergés sur des GPU NVIDIA dans Google Cloud.
+
+### Est-ce que je pourrai utiliser Apple Intelligence si je n'ai pas un iPhone 17 Pro ou un Mac M3 ?
+
+Oui, vous pourrez utiliser Apple Intelligence même si vous ne possédez pas un iPhone 17 Pro ou un Mac M3, mais avec des capacités potentiellement limitées. Les appareils ne disposant pas des 12 Go de RAM requis pour le modèle AFM 3 Core Advanced utiliseront le modèle de base AFM 3 Core. Ce modèle offre des fonctionnalités d'IA, mais les performances et la complexité des tâches traitées seront inférieures à celles des appareils plus récents et puissants.

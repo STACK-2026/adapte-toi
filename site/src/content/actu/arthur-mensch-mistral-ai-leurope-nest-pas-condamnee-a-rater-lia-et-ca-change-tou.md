@@ -110,3 +110,21 @@ L'IA européenne crée des opportunités pour les prestataires locaux.
 L'Europe peut réussir en IA, mais la bataille est économique et culturelle. Les opportunités seront ciblées (industrie, santé, administration). Prépare-toi en combinant compétences métier et IA, et mise sur les acteurs européens.
 
 Pour aller plus loin : notre [guide reconversion IA](/guides/reconversion-ia-guide-complet) ou notre [fiche métier développeur IA](/metiers/developpeur-ia). Suis les annonces de Mistral et des autres acteurs européens.
+
+## Questions fréquentes
+
+### Malgré la fuite des cerveaux, existe-t-il des opportunités d'emploi concrètes en IA pour les jeunes diplômés en Europe ?
+
+Oui, des opportunités d'emploi en intelligence artificielle existent en Europe pour les jeunes diplômés, notamment dans la recherche et développement, l'intégration de solutions IA pour l'industrie, ou encore le développement de jumeaux numériques. Bien que 40% des diplômés européens travaillent hors d'Europe cinq ans après leur diplôme, des entreprises comme Mistral AI, en collaborant avec des géants comme EDF ou Airbus, créent des postes spécialisés. Les secteurs de l'énergie, de l'automobile et de l'aéronautique sont particulièrement demandeurs de ces compétences.
+
+### Qu'est-ce qui freine la création d'emplois tech locaux en IA en Europe par rapport aux États-Unis ou à la Chine ?
+
+La création d'emplois tech locaux en IA en Europe est principalement freinée par un écosystème moins mature comparé aux États-Unis ou à la Chine, caractérisé par des fonds d'investissement plus frileux et des lourdeurs administratives. De plus, les revenus générés en Europe sont souvent réinvestis en R&D à l'étranger, et les salaires proposés y sont généralement moins attractifs, incitant les talents formés en Europe à chercher des postes ailleurs.
+
+### Quelles stratégies concrètes les États européens peuvent-ils mettre en place pour stimuler l'emploi local dans le secteur de l'IA ?
+
+Les États européens peuvent stimuler l'emploi local dans le secteur de l'IA en privilégiant les fournisseurs locaux via la demande publique et en œuvrant pour un marché unifié, réduisant ainsi les 27 réglementations différentes. Cette approche permettrait de réinvestir les revenus générés sur le continent en R&D locale, créant un cercle vertueux pour l'emploi et l'innovation. Il est crucial d'encourager les investissements et de simplifier les cadres réglementaires pour favoriser l'émergence de licornes européennes.
+
+### Comment des entreprises européennes d'IA comme Mistral AI contribuent-elles à l'émergence d'emplois technologiques locaux ?
+
+Des entreprises européennes d'IA comme Mistral AI contribuent à l'émergence d'emplois technologiques locaux en développant des solutions innovantes et en collaborant avec de grandes industries du continent, telles qu'EDF, Airbus et BMW. Leur croissance rapide, illustrée par une valorisation de 12 milliards d'euros et l'acquisition d'entreprises spécialisées comme Emmi AI, génère directement des postes hautement qualifiés et renforce l'écosystème local. Elles démontrent la capacité de l'Europe à rivaliser et à créer de la valeur sur son propre territoire.

@@ -222,6 +222,24 @@ En tant que métier à plein temps, c'est de moins en moins courant (les IA s'am
 - [OCDE (2025)](https://www.oecd.org/en/topics/sub-issues/ai-and-the-future-of-work.html) : 27% des emplois français exposés à l'automatisation
 
 <!-- maillage:auto -->
+## Questions fréquentes
+
+### Faut-il investir dans des logiciels ou des formations payantes pour maîtriser le prompt engineering en 2026 ?
+
+Non, il n'est pas nécessaire d'investir dans des logiciels ou des formations payantes pour maîtriser les bases du prompt engineering, car c'est une compétence intrinsèquement accessible et gratuite. La plupart des outils d'IA sont disponibles gratuitement ou via des versions d'essai, et la pratique est le principal vecteur d'apprentissage, ne nécessitant aucun coût initial.
+
+### Combien de temps faut-il consacrer pour acquérir les bases du prompt engineering efficacement ?
+
+Acquérir les bases du prompt engineering peut se faire en quelques heures de pratique ciblée, mais une maîtrise avancée demande une expérimentation continue. Les concepts fondamentaux sont intuitifs, permettant aux débutants de voir des améliorations significatives rapidement en appliquant les règles essentielles et en s'exerçant régulièrement avec différents modèles d'IA.
+
+### Quelles sont les erreurs fréquentes que les débutants commettent en rédigeant des prompts pour l'IA ?
+
+Les débutants en prompt engineering commettent souvent des erreurs telles que le manque de précision, l'ambiguïté des instructions ou l'absence de contexte clair pour l'IA. Ne pas spécifier le format de sortie désiré, le rôle de l'IA ou les contraintes spécifiques sont aussi des écueils courants qui mènent à des résultats insatisfaisants.
+
+### Comment le prompt engineering peut-il concrètement augmenter ma valeur sur le marché du travail en 2026 ?
+
+Le prompt engineering augmente concrètement votre valeur sur le marché du travail en 2026 en vous permettant d'exploiter pleinement le potentiel des outils d'intelligence artificielle, améliorant ainsi votre productivité et la qualité de vos livrables. Cette compétence est cruciale pour se distinguer, car les professionnels la maîtrisant peuvent obtenir des résultats supérieurs et sont, selon PwC (2025), mieux rémunérés que leurs homologues.
+
 ## Pour aller plus loin
 
 **Guides connexes :**

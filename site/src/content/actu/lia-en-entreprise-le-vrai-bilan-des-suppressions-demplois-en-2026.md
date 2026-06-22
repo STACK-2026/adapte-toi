@@ -111,3 +111,21 @@ L'IA agit comme un prédateur patient. Elle vide les postes de leur substance ju
 La clé : **agir avant que 80% de tes tâches ne soient automatisées**. Identifie ce qui te rend unique, forme-toi aux outils IA, et deviens un pont entre l'humain et la machine. Les entreprises ont besoin de superviseurs, pas de remplaçables.
 
 Pour aller plus loin : [guide reconversion](/guides/reconversion-ia-guide-complet), [fiche consultant IA](/metiers/consultant-ia), [automatiser ton travail](/guides/automatiser-travail-ia). Le futur se joue maintenant.
+
+## Questions fréquentes
+
+### Quels sont les métiers les plus impactés par l'automatisation de l'IA en entreprise d'ici 2026, et est-ce que cela concerne les "cols blancs" ?
+
+Les métiers administratifs et de bureau, souvent qualifiés de "cols blancs", sont les plus touchés par l'automatisation de l'IA d'ici 2026. La Dares estime que les assistants administratifs (50% de tâches automatisables), les comptables (40%) et les chargés de clientèle (35%) sont particulièrement exposés. Contrairement aux prédictions, ce sont bien ces postes qui paient le prix de cette transformation.
+
+### Comment les entreprises gèrent-elles la réduction des effectifs liée à l'IA sans procéder à des licenciements massifs ?
+
+Les entreprises évitent les licenciements massifs en privilégiant le gel des embauches et la non-reconduction des contrats pour les postes affectés par l'IA. Quand une part significative des tâches d'un poste disparaît, celui-ci peut devenir un "fantôme" ou un "mi-temps déguisé", sans être formellement supprimé. Cette stratégie permet de réduire les coûts et les effectifs de manière plus discrète.
+
+### Quelle est la différence entre l'élimination des tâches par l'IA et la suppression d'un emploi complet dans le contexte de l'entreprise ?
+
+L'élimination des tâches par l'IA consiste à automatiser des missions spécifiques au sein d'un poste existant, tandis que la suppression d'un emploi complet signifie la disparition totale de ce poste. L'IA absorbe des segments de travail, transformant un poste en un "mi-temps déguisé" où 80% des tâches peuvent disparaître, sans que le poste soit officiellement supprimé, mais le rendant souvent obsolète.
+
+### Quel est le pourcentage de réduction des coûts que les entreprises peuvent espérer grâce à l'IA, comme Cobl, et combien d'emplois sont concernés par cette "zone grise" ?
+
+Des solutions d'IA en entreprise comme Cobl permettent d'espérer une réduction des coûts pouvant atteindre 30%. Cette efficacité se traduit par une automatisation progressive des tâches, affectant environ 300 000 emplois qui se retrouvent dans une "zone grise" en France, selon la Dares. Ces postes voient une part significative de leurs missions automatisées, sans être formellement supprimés.

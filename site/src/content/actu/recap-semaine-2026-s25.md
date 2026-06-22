@@ -63,3 +63,21 @@ Tous les décryptages de cette semaine sont compilés dans la page archive [Sema
 ## La semaine prochaine
 
 On continue à publier tous les jours du lundi au samedi. Pour ne rien rater, abonne-toi au [Signal](/newsletter), notre newsletter hebdo zéro bullshit. Et pour approfondir les concepts techniques qui reviennent dans nos articles, [notre glossaire](/glossaire) détaille chaque terme avec exemple concret et source officielle.
+
+## Questions fréquentes
+
+### Quels secteurs d'emploi sont les plus exposés aux suppressions de postes dues à l'IA d'ici 2026 ?
+
+Les secteurs de l'informatique et du conseil sont parmi les plus impactés par l'intégration de l'intelligence artificielle, avec des exemples concrets de réductions d'effectifs déjà observés. Les tâches répétitives et analytiques sont particulièrement vulnérables à l'automatisation, poussant les professionnels à développer des compétences complémentaires en gestion de projet ou en créativité pour rester pertinents.
+
+### Comment puis-je adapter mes compétences pour ne pas être remplacé par l'intelligence artificielle et rester employable ?
+
+Pour rester employable face à l'IA, il est crucial de développer des compétences humaines et stratégiques que l'IA ne peut pas répliquer facilement, comme la pensée critique, la résolution de problèmes complexes, la créativité et l'intelligence émotionnelle. La formation continue en outils d'IA et en gestion de l'IA est également essentielle pour transformer la menace potentielle en opportunité de collaboration.
+
+### Est-ce que le coût élevé de l'IA pour les entreprises peut ralentir son adoption et créer des opportunités d'emploi ?
+
+Oui, le coût élevé de déploiement et de maintenance des solutions d'intelligence artificielle peut effectivement freiner leur adoption massive par les entreprises, ce qui peut paradoxalement créer des opportunités. Ce ralentissement offre un délai supplémentaire aux travailleurs pour s'adapter et acquérir de nouvelles compétences, et potentiellement aux PME pour innover avec des solutions plus abordables.
+
+### Quelles sont les principales conséquences de l'intégration de l'IA dans la fonction publique pour les fonctionnaires et les citoyens ?
+
+L'intégration de l'IA dans la fonction publique vise à optimiser les processus et services, impactant potentiellement 1,8 million de fonctionnaires par l'automatisation de tâches administratives et l'amélioration de l'efficacité. Pour les citoyens, cela pourrait se traduire par des services plus rapides et personnalisés, mais soulève également des questions sur la protection des données et l'équité de l'accès.

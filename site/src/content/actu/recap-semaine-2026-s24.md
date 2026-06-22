@@ -60,3 +60,21 @@ Tous les décryptages de cette semaine sont compilés dans la page archive [Sema
 ## La semaine prochaine
 
 On continue à publier tous les jours du lundi au samedi. Pour ne rien rater, abonne-toi au [Signal](/newsletter), notre newsletter hebdo zéro bullshit. Et pour approfondir les concepts techniques qui reviennent dans nos articles, [notre glossaire](/glossaire) détaille chaque terme avec exemple concret et source officielle.
+
+## Questions fréquentes
+
+### Quels sont les secteurs d'emploi les plus menacés par l'arrivée de l'IA, notamment dans les salles de marchés ?
+
+L'arrivée de l'IA menace particulièrement les emplois répétitifs et analytiques, comme ceux des traders en salle des marchés, où les algorithmes peuvent exécuter des transactions plus rapidement et analyser de vastes ensembles de données. Les métiers nécessitant une forte composante de traitement de données et de prise de décision rapide sont les premiers exposés à une automatisation accrue par l'intelligence artificielle, ce qui soulève des questions sur leur pérennité.
+
+### Comment les gouvernements, comme le Royaume-Uni ou la France, tentent-ils de gérer l'impact de l'IA sur l'emploi et la reconversion professionnelle ?
+
+Les gouvernements abordent l'impact de l'IA sur l'emploi par des investissements massifs et des initiatives de reconversion, comme le Royaume-Uni qui alloue 1,1 milliard pour l'IA, ou France Travail qui généralise des outils comme ChatFT et MatchFT. Ces stratégies visent à accompagner les transitions professionnelles et à créer de nouvelles opportunités, bien que la question de la création nette d'emplois par rapport aux suppressions reste un défi majeur.
+
+### Existe-t-il déjà des précédents juridiques concernant les licenciements décidés par une IA, et quelles sont les implications pour les salariés ?
+
+Oui, des précédents juridiques existent, comme en Chine où un licenciement par IA a été condamné, marquant une première jurisprudence importante pour la protection des salariés. Cette décision souligne la nécessité d'un cadre légal clair pour encadrer l'utilisation de l'IA dans les décisions d'emploi, y compris les licenciements, et pourrait influencer d'autres législations à travers le monde pour garantir une supervision humaine et une équité.
+
+### Pourquoi certaines entreprises comme Anthropic sont-elles contraintes de suspendre le développement de leurs IA les plus puissantes, et quel rôle jouent les régulateurs ?
+
+Des entreprises comme Anthropic sont contraintes de suspendre le développement de leurs IA les plus puissantes en raison de préoccupations réglementaires et de sécurité, comme l'intervention de Washington. Les régulateurs jouent un rôle crucial en évaluant les risques potentiels liés à une IA trop avancée, notamment en termes d'éthique, de sécurité et d'impact sociétal, afin d'éviter des conséquences imprévues et de garantir un développement responsable et contrôlé.

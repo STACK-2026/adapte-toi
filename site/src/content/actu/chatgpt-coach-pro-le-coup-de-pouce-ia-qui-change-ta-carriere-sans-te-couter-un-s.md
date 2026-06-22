@@ -157,3 +157,21 @@ ChatGPT comme coach pro est une révolution pratique, pas magique. **Il ne rempl
 - [Guide automatisation IA](/guides/automatiser-travail-ia)
 - [Fiche métier chef de projet IA](/metiers/chef-de-projet-ia)
 - [Outil Perplexity](/outils/perplexity)
+
+## Questions fréquentes
+
+### Est-ce que l'utilisation de ChatGPT comme coach professionnel est vraiment gratuite ou y a-t-il des coûts associés ?
+
+L'utilisation de ChatGPT pour des fonctions de "coach professionnel" peut être gratuite via sa version de base, mais des versions payantes offrent des fonctionnalités avancées et une meilleure performance. La version gratuite est accessible à tous et permet déjà de structurer des mails ou de générer des idées, tandis que les abonnements payants (comme ChatGPT Plus) proposent un accès prioritaire et des modèles plus puissants. Le "petit prix" mentionné fait référence à son coût bien inférieur à celui d'un coach humain, même pour les versions premium.
+
+### ChatGPT peut-il remplacer complètement un coach de carrière humain pour le développement professionnel et la prise de décision ?
+
+Non, ChatGPT ne remplace pas un coach de carrière humain, mais agit plutôt comme un copilote ou un assistant intelligent. L'IA excelle à fournir des feedbacks instantanés, à structurer des idées et à neutraliser les biais grâce à l'analyse de données, mais elle ne possède ni l'empathie, ni l'intuition, ni la capacité à comprendre les nuances émotionnelles ou contextuelles d'une situation personnelle complexe qu'un humain peut offrir. Elle comble un vide en offrant un support accessible 24/7.
+
+### Comment utiliser concrètement ChatGPT pour améliorer mes compétences managériales et structurer mon travail au quotidien ?
+
+Pour améliorer vos compétences managériales, vous pouvez utiliser ChatGPT pour structurer des mails professionnels, élaborer des stratégies, ou encore objectiver des évaluations d'équipe en y entrant des données chiffrées. De plus, il est efficace pour la veille informationnelle sur des sujets spécifiques, la préparation de présentations, et même la simulation d'entretiens d'embauche ou de situations de management délicates. Il agit comme un garde-fou contre la subjectivité, offrant une relecture neutre et des pistes de réflexion.
+
+### Quels sont les principaux risques ou les erreurs à éviter lorsque l'on s'appuie sur ChatGPT pour des conseils de carrière ?
+
+Le principal risque est de considérer les informations générées par ChatGPT comme des vérités absolues sans vérification, car l'IA peut parfois produire des "hallucinations" ou des données obsolètes. Il est crucial de ne pas partager d'informations confidentielles ou sensibles de votre entreprise, car les données peuvent être utilisées pour entraîner le modèle. Enfin, ne pas l'utiliser pour prendre des décisions critiques sans une validation humaine, car il manque de compréhension contextuelle et émotionnelle.

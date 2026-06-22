@@ -103,3 +103,21 @@ Ce déploiement confirme que l'IA devient un standard, y compris dans les secteu
 Le défi n'est pas technologique, mais humain. Fonctionnaires, entreprises et indépendants doivent s'adapter. Les outils existent, mais le temps presse.
 
 Pour aller plus loin : notre [guide reconversion avec l'IA](/guides/reconversion-ia-guide-complet) et notre [fiche métier chef-de-projet-ia](/metiers/chef-de-projet-ia), un profil très recherché.
+
+## Questions fréquentes
+
+### Quel est le coût du déploiement de l'outil d'IA de Mistral pour les fonctionnaires français ?
+
+Le déploiement de l'outil d'intelligence artificielle souverain pour les fonctionnaires français représente un coût de 700 000 euros. Ce budget couvre la mise en place de la solution développée par Mistral AI, destinée à équiper un million d'agents de l'État. Il s'agit d'un investissement initial pour une technologie visant à optimiser les tâches administratives et libérer du temps.
+
+### Quelles sont les fonctions précises que l'outil d'IA de Mistral va automatiser pour les agents de la fonction publique ?
+
+L'outil d'IA développé par Mistral AI pour les fonctionnaires français est conçu pour automatiser plusieurs tâches administratives courantes. Il permettra notamment la synthèse de documents complexes, la réalisation de recherches juridiques approfondies et la rédaction assistée de notes. L'objectif est de libérer du temps pour que les agents puissent se concentrer sur des missions à plus forte valeur ajoutée et essentielles.
+
+### Pourquoi le gouvernement français a-t-il privilégié Mistral AI plutôt qu'une solution comme ChatGPT pour ses fonctionnaires ?
+
+Le gouvernement français a choisi Mistral AI pour son outil d'IA souverain afin de garantir la protection des données sensibles et éviter la dépendance aux technologies extra-européennes. Contrairement à des solutions comme ChatGPT, l'outil de Mistral est conforme au RGPD et permet de traiter des informations confidentielles sans les exposer à des géants technologiques américains. Ce choix stratégique renforce la souveraineté numérique de la France.
+
+### Combien de fonctionnaires français seront concernés par l'intégration de l'IA de Mistral dès cet été ?
+
+Dès cet été, un million de fonctionnaires français seront concernés par le déploiement de l'outil d'intelligence artificielle souverain alimenté par Mistral AI. Ce déploiement massif marque une première en Europe, généralisant l'usage de l'IA au sein de l'administration publique. Après une phase de test concluante auprès de 10 000 agents, la solution sera étendue pour transformer les méthodes de travail.

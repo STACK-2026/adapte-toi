@@ -106,3 +106,21 @@ L'affaire Omnilert révèle les dangers de l'IA vendue comme solution miracle. L
 Pour les professionnels de la sécurité : l'IA ne remplace pas le jugement humain. Pour les développeurs : les promesses marketing ont des conséquences réelles. Pour les juristes : il est temps de définir un cadre clair pour la responsabilité des outils IA.
 
 Consulte notre [guide sur la reconversion dans les métiers de l'IA](/guides/reconversion-ia-guide-complet) et notre [fiche métier consultant IA](/metiers/consultant-ia) pour travailler sur ces enjeux sans tomber dans le solutionnisme technologique. Une IA qui rate sa cible est déjà une cible de trop.
+
+## Questions fréquentes
+
+### Quels sont les principaux défauts ou limites des systèmes d'IA de détection d'armes comme celui d'Omnilert dans un environnement scolaire ?
+
+Les systèmes d'IA de détection d'armes peuvent présenter des défauts de conception entraînant l'échec de la détection d'armes réelles, comme ce fut le cas lors de la fusillade au lycée Antioch. Ils sont également sujets à de fausses alertes, par exemple en confondant des objets inoffensifs avec des menaces, ce qui peut déclencher des interventions policières inutiles et coûteuses. Ces limites soulèvent des questions sur leur fiabilité et leur efficacité opérationnelle.
+
+### Quel est l'investissement typique pour un district scolaire qui souhaite déployer un système de sécurité par IA de détection d'armes ?
+
+L'investissement pour un district scolaire dans un système de sécurité par IA de détection d'armes peut être conséquent, comme l'illustre le contrat d'un million de dollars signé par le district scolaire de Metro Nashville Public Schools en 2023 avec Omnilert. Ce montant inclut généralement les coûts d'installation, de configuration, de maintenance et de licence logicielle. Il est essentiel que cet investissement soit justifié par une performance et une fiabilité avérées du système.
+
+### Qui est tenu responsable légalement en cas de défaillance d'un système d'IA de sécurité scolaire entraînant des blessures ou des décès ?
+
+En cas de défaillance d'un système d'IA de sécurité scolaire ayant des conséquences graves, la responsabilité légale peut être attribuée au fournisseur du système, comme Omnilert qui fait face à une plainte pour « défaut de conception ». Le district scolaire peut aussi être mis en cause pour son choix, son déploiement ou sa gestion du système. La détermination de la responsabilité dépendra des clauses contractuelles et de l'analyse des causes de l'échec.
+
+### Les affirmations des entreprises sur l'efficacité des IA de sécurité scolaire, comme la prévention de tragédies, sont-elles toujours fondées ?
+
+Les affirmations des entreprises concernant l'efficacité des IA de sécurité scolaire, y compris leur capacité à prévenir des tragédies majeures, doivent être considérées avec un esprit critique. L'article montre que, malgré des promesses marketing, des systèmes peuvent échouer dans des situations critiques et générer des alertes erronées. La réalité opérationnelle peut donc différer significativement des déclarations commerciales, nécessitant une vérification indépendante de leurs performances.

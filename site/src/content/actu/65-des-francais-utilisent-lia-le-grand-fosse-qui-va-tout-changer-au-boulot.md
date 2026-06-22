@@ -104,3 +104,21 @@ Cette phrase montre que l'IA divise moins par l'âge que par les moyens d'en tir
 Ce sondage confirme que l'IA est une ligne de fracture sur le marché du travail. Les 65% d'utilisateurs ne sont pas une victoire, mais un signal d'urgence. Les entreprises et politiques qui ignorent cette fracture paieront en turnover et conflits sociaux.
 
 Les outils et formations existent. Les métiers hybrides recrutent. Mais il faut agir maintenant. Consulte [notre guide de reconversion](/guides/reconversion-ia-guide-complet), explore [les métiers IA](/metiers/consultant-ia), et teste [Claude](/outils/claude) ou [ChatGPT](/outils/chatgpt) dès aujourd'hui. L'IA ne disparaîtra pas, mais toi, tu peux disparaître du marché si tu ne t'y mets pas.
+
+## Questions fréquentes
+
+### Quelles sont les catégories de population les moins représentées dans l'utilisation de l'IA en France selon les récentes études ?
+
+Selon un sondage Elabe de juin 2026, les personnes de plus de 50 ans (46% d'utilisateurs), les ouvriers (44% de non-utilisateurs) et les habitants des zones rurales (42% de non-utilisateurs) sont les moins adeptes de l'intelligence artificielle en France. Cet écart marque une fracture sociale et générationnelle importante face à l'adoption de ces technologies, contrastant fortement avec les jeunes et les cadres.
+
+### Est-ce que l'intelligence artificielle est perçue comme un moteur de productivité ou une menace pour l'emploi en France ?
+
+L'intelligence artificielle est perçue de manière paradoxale en France, où 56% des sondés estiment qu'elle stimulera la productivité, mais 66% craignent pour leur emploi. Ce double sentiment révèle une incertitude quant à l'impact futur de l'IA sur le marché du travail, soulignant un besoin d'accompagnement et de formation pour transformer l'appréhension en opportunité.
+
+### Quels sont les risques pour les entreprises qui n'intègrent pas la formation à l'IA pour leurs salariés moins connectés ?
+
+Les entreprises ignorant le retard d'adoption de l'IA chez certaines catégories de leurs salariés, comme les ouvriers ou les seniors, risquent une perte significative de compétitivité et de talents. Sans formation adaptée, cette fracture numérique interne peut se transformer en une crise structurelle, empêchant l'organisation de tirer pleinement parti des avantages de l'intelligence artificielle.
+
+### Les citoyens français sont-ils favorables à une régulation stricte de l'intelligence artificielle, même si cela freine l'innovation ?
+
+Oui, une majorité de 46% des Français souhaite une régulation forte de l'intelligence artificielle, quitte à ralentir l'innovation. Seuls 10% des sondés s'y opposent, ce qui indique une préférence marquée pour la prudence et la sécurité face aux avancées technologiques. Cette demande souligne une préoccupation éthique et sociale prédominante.
