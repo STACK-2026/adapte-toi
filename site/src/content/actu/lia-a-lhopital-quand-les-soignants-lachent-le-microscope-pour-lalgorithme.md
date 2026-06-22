@@ -100,4 +100,4 @@ L'IA à l'hôpital sauve des vies mais creuse les inégalités. Les CHU équipé
 
 Pour toi, l'IA est une opportunité. Les compétences en IA médicale boostent les carrières. Mais il faut te former, te spécialiser, et parfois changer d'employeur.
 
-Lis notre [guide sur la reconversion dans la santé augmentée](/guides/reconversion-ia-guide-complet) et consulte notre [fiche médecin généraliste IA](/metiers/medecin-generaliste-ia). L'avenir de la santé est là, à toi de t'y préparer.
+Lis notre [guide sur la reconversion dans la santé augmentée](/guides/reconversion-ia-guide-complet) et consulte notre fiche médecin généraliste IA. L'avenir de la santé est là, à toi de t'y préparer.

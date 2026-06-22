@@ -143,7 +143,7 @@ La reconversion est possible mais exige de partir de zéro sur la partie techniq
 - **FNE-Formation** cible les entreprises en difficulté ou en mutation. Peu connu, souvent sous-utilisé.
 - Le **Projet de Transition Professionnelle (PTP)** finance jusqu'à 2 ans de formation avec maintien de salaire partiel. C'est le plus puissant pour une reconversion totale.
 
-> **Consulte notre [guide des formations IA financées en France](/guides/formations-ia-financees) pour un tour complet des dispositifs disponibles.**
+> **Consulte notre guide des formations IA financées en France pour un tour complet des dispositifs disponibles.**
 
 ### La réalité des reconvertis : ce qu'on ne te dit pas
 
@@ -230,7 +230,7 @@ Le "développeur IA" n'est pas un métier monolithique. En 2026, il se décline 
 - Salaire senior Paris : 80 000 - 130 000 € (INRIA, Meta AI, DeepMind, Mistral AI)
 - Barrière à l'entrée : la plus haute. Doctorat souvent attendu
 
-> **Pour aller plus loin sur les métiers IA, consulte notre [fiche métier MLOps Engineer](/metiers/mlops-engineer) et notre [fiche Data Scientist vs AI Engineer](/metiers/data-scientist-vs-ai-engineer).**
+> **Pour aller plus loin sur les métiers IA, consulte notre fiche métier MLOps Engineer et notre fiche Data Scientist vs AI Engineer.**
 
 ---
 

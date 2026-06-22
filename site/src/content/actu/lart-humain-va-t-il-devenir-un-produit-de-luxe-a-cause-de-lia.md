@@ -76,7 +76,7 @@ Cette phrase résume l'enjeu. L'IA menace moins les emplois des artistes que la 
 
 **Tu es artiste ou créateur de contenu.**
 - **30 jours** : Évalue ton usage de l'IA. Si tu utilises Midjourney ou DALL·E, décide si tu veux continuer ou revenir à des méthodes 100% humaines. Dans ce cas, adhère au label [Fabrication Humaine](https://www.fabricationhumaine.fr).
-- **60 jours** : Informe-toi sur les enjeux juridiques. Consulte notre [guide sur les droits d'auteur à l'ère de l'IA](/guides/ia-droit-auteur).
+- **60 jours** : Informe-toi sur les enjeux juridiques. Consulte notre guide sur les droits d'auteur à l'ère de l'IA.
 - **90 jours** : Diversifie tes revenus. Explore les NFT certifiés humains, les ateliers en présentiel ou les collaborations avec des marques valorisant l'authenticité. Inspire-toi de notre fiche [métier graphiste-ia](/metiers/graphiste-ia).
 
 **Tu es salarié dans l'industrie culturelle.**
@@ -87,7 +87,7 @@ Cette phrase résume l'enjeu. L'IA menace moins les emplois des artistes que la 
 **Tu es consommateur de culture.**
 - **30 jours** : Évalue ta consommation. Cherche les mentions "Fabrication Humaine" ou "100% humain". Interroge les créateurs ou les plateformes.
 - **60 jours** : Soutiens les artistes humains. Privilégie les œuvres certifiées, même plus chères. Partage leur travail ou laisse des avis.
-- **90 jours** : Exige plus de transparence. Interpelle les plateformes (Spotify, Netflix, Amazon) pour qu'elles distinguent les œuvres humaines des contenus synthétiques. Inspire-toi de notre [guide pour repérer les contenus IA](/guides/reperer-contenus-ia).
+- **90 jours** : Exige plus de transparence. Interpelle les plateformes (Spotify, Netflix, Amazon) pour qu'elles distinguent les œuvres humaines des contenus synthétiques. Inspire-toi de notre guide pour repérer les contenus IA.
 
 **Tu es décideur public ou dans une institution culturelle.**
 - **30 jours** : Audite l'impact de l'IA sur ton secteur. Évalue les risques pour les filières exposées.
@@ -97,4 +97,4 @@ Cette phrase résume l'enjeu. L'IA menace moins les emplois des artistes que la 
 ## Le verdict Adapte-toi
 L'IA ne supprimera pas les métiers de la création, mais les fracturera. D'un côté, une production automatisée low-cost. De l'autre, une création humaine premium, réservée à une élite. Le label Fabrication Humaine est une première réponse, mais insuffisante. Sans régulation forte et prise de conscience collective, la culture humaine deviendra un produit de luxe.
 
-Pour aller plus loin, consulte notre [guide de reconversion](/guides/reconversion-ia-guide-complet) ou notre fiche [métier graphiste-ia](/metiers/graphiste-ia). Pour les enjeux juridiques, notre [guide sur les droits d'auteur à l'ère de l'IA](/guides/ia-droit-auteur) est indispensable.
+Pour aller plus loin, consulte notre [guide de reconversion](/guides/reconversion-ia-guide-complet) ou notre fiche [métier graphiste-ia](/metiers/graphiste-ia). Pour les enjeux juridiques, notre guide sur les droits d'auteur à l'ère de l'IA est indispensable.

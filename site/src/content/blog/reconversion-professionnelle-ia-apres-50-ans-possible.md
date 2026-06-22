@@ -181,7 +181,7 @@ La reconversion IA senior n'est pas une rupture totale. C'est un pivot. Voici le
 
 La règle d'or : plus ton métier d'origine impliquait de l'analyse, de la gestion de parties prenantes et de la documentation, plus ta reconversion IA sera rapide.
 
-Consulte notre [guide des compétences transférables vers l'IA](/guides/competences-transferables-ia) pour une analyse personnalisée par secteur.
+Consulte notre guide des compétences transférables vers l'IA pour une analyse personnalisée par secteur.
 
 ---
 

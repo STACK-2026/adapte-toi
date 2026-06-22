@@ -43,8 +43,8 @@ L'étude McKinsey IA emploi révèle des disparités importantes selon les secte
 |------------------------|----------------------------|----------------------------------------|----------------------------------------|
 | **Services clients**   | 67%                        | Téléconseillers, standardistes         | Gestionnaires de crise client          |
 | **Marketing/Com**      | 53%                        | Rédacteurs web, community managers     | Stratèges de contenu IA                |
-| **Conseil/IT**         | 48%                        | Consultants juniors, analystes data    | [Experts en éthique IA](/blog/assurance-responsabilite-consultant-ia-guide-complet/) |
-| **Finance/Comptabilité** | 42%                      | Comptables, auditeurs juniors          | [Analystes financiers IA](/blog/analyste-financier-face-ia-nouvelles-competences/) |
+| **Conseil/IT**         | 48%                        | Consultants juniors, analystes data    | Experts en éthique IA |
+| **Finance/Comptabilité** | 42%                      | Comptables, auditeurs juniors          | Analystes financiers IA |
 | **Administration**     | 38%                        | Assistants administratifs              | Gestionnaires de processus IA          |
 
 **Source : Rapport McKinsey 2026 croisé avec les données Anthropic mars 2026**
@@ -83,7 +83,7 @@ D'après PwC (2025), les profils maîtrisant ces compétences gagnent **25% de p
 
 2. **Gouvernance et éthique IA**
    - *Salaire moyen* : 70-110k€/an
-   - *Certification* : [Certification Google IA](/blog/certification-google-ia-guide-complet-reussir/) (gratuit)
+   - *Certification* : Certification Google IA (gratuit)
 
 3. **Analyse de données augmentée par IA**
    - *Salaire moyen* : 55-85k€/an
@@ -93,7 +93,7 @@ D'après PwC (2025), les profils maîtrisant ces compétences gagnent **25% de p
    - *Salaire moyen* : 45-75k€/an
    - *Outils* : [Canva vs MidJourney guide](/blog/canva-vs-midjourney-quel-outil-ia-creatifs/)
 
-5. **[Gestion de projets IA](/blog/chef-projet-digital-ia-evolution-metier/)**
+5. **Gestion de projets IA**
    - *Salaire moyen* : 60-95k€/an
    - *Ressource* : Guide chef de projet digital IA
 
@@ -102,23 +102,23 @@ D'après PwC (2025), les profils maîtrisant ces compétences gagnent **25% de p
 ### Le plan d'action Adapte-toi pour monter en compétences
 
 1. **Fais ton bilan de compétences IA** (gratuit) :
-   - [Bilan professionnel IA](/blog/bilan-professionnel-ia-evaluer-chances-reussir/) (15 min)
+   - Bilan professionnel IA (15 min)
    - **Test de compétences avec l'outil Adapte-toi**
 
 2. **Choisis ta voie** selon ton profil :
    - **Technique** : [De développeur à expert IA](/blog/developpeur-expert-ia-parcours-reconversion/)
-   - **Créatif** : [Communication vs IA](/blog/charge-communication-vs-ia-strategies-adaptation/)
+   - **Créatif** : Communication vs IA
    - **Business** : [Consultant SAP vers expert IA](/blog/consultant-sap-vers-expert-ia-parcours-transition/)
 
 3. **Forme-toi efficacement** :
    - **CPF** : [Financer ta reconversion IA](/blog/cpf-formation-ia-comment-financer-reconversion/)
    - **Gratuit** : [Top 10 certifications IA](/blog/certification-ia-top-10-diplomes-reconnus/)
-   - **Intensif** : [École 42 vs autres formations](/blog/ecole-42-vs-autres-formations-ia-comparatif/)
+   - **Intensif** : École 42 vs autres formations
 
 4. **Trouve ton premier job IA** :
-   - [Créer son agence conseil IA](/blog/creer-agence-conseil-ia-guide-etape/)
+   - Créer son agence conseil IA
    - [Devenir consultant IA freelance](/blog/devenir-consultant-ia-freelance-guide-complet-2026/)
-   - [Modèles de contrats types](/blog/contrats-types-consultant-ia-modeles-gratuits/)
+   - Modèles de contrats types
 
 ## Reconversion à l'ère de l'IA : Par où commencer ?
 
@@ -130,7 +130,7 @@ L'étude McKinsey IA emploi permet de situer ton métier dans cette matrice :
 |------------------|--------------------|-----------------------------------------|------------------------------------------|
 | **Élevé**        | 50-70%             | Téléconseiller, rédacteur web           | Reconversion immédiate                   |
 | **Moyen**        | 30-50%             | [Comptable](/blog/comptable-devenu-consultant-ia-temoignage-marie/), assistant RH | Upskilling + spécialisation |
-| **Faible**       | <30%               | Médecin, enseignant, [artisan](/blog/artisan-vers-entrepreneur-ia-temoignage-inspirant/) | Intégration progressive de l'IA |
+| **Faible**       | <30%               | Médecin, enseignant, artisan | Intégration progressive de l'IA |
 | **Opportunité**  | N/A                | Prompt engineer, data scientist         | Formation accélérée                      |
 
 *"Si tu es en risque élevé, ne tarde pas"* insiste Adapte-toi. **"Les reconversions prennent 6 à 18 mois selon les parcours - mieux vaut commencer maintenant que d'attendre la transformation forcée."**
@@ -153,8 +153,8 @@ L'étude McKinsey IA emploi permet de situer ton métier dans cette matrice :
 |-------------------------|---------|-----------|----------------------------------------------|-------------------------------------------|
 | **Reconversion rapide** | 3-6 mois| 0-5k€     | [De commercial à sales ops IA](/blog/commercial-reconverti-sales-ops-ia-retour-experience/) | Guide pratique sales ops |
 | **Formation longue**    | 12-24 mois| 5-15k€   | [De banquier à data scientist](/blog/banquier-devenu-data-scientist-temoignage-complet/) | Parcours data scientist |
-| **Entrepreneuriat**     | 6-12 mois| 2-10k€    | [Créer son agence conseil IA](/blog/creer-agence-conseil-ia-guide-etape/) | Guide création agence |
-| **Hybride**             | 9-18 mois| 3-8k€     | [Contrôleur gestion face IA](/blog/controleur-gestion-face-ia-evolution-poste/) | Guide évolution poste |
+| **Entrepreneuriat**     | 6-12 mois| 2-10k€    | Créer son agence conseil IA | Guide création agence |
+| **Hybride**             | 9-18 mois| 3-8k€     | Contrôleur gestion face IA | Guide évolution poste |
 
 ### Étape 4 : Finance ta reconversion
 
@@ -174,8 +174,8 @@ Selon l'étude McKinsey IA emploi croisée avec les données PwC 2025 :
 | Métier                     | Salaire sans IA | Salaire avec compétences IA | Écart  |
 |----------------------------|-----------------|-----------------------------|--------|
 | **Développeur**            | 45k€            | 65k€                        | +44%   |
-| **[Analyste financier](/blog/analyste-financier-face-ia-nouvelles-competences/)** | 50k€ | 70k€ | +40% |
-| **[Chef de projet digital](/blog/chef-projet-digital-ia-evolution-metier/)** | 55k€ | 75k€ | +36% |
+| **Analyste financier** | 50k€ | 70k€ | +40% |
+| **Chef de projet digital** | 55k€ | 75k€ | +36% |
 | **Consultant**             | 60k€            | 85k€                        | +42%   |
 | **[Commercial](/blog/commercial-reconverti-sales-ops-ia-retour-experience/)** | 40k€ | 60k€ | +50% |
 
@@ -221,7 +221,7 @@ Selon l'étude McKinsey IA emploi croisée avec les données PwC 2025 :
    - *Salaire* : 60-90k€/an
    - *Outils* : [ChatGPT pour les RH](/blog/chatgpt-rh-guide-pratique-cas-usage/)
 
-4. **[Auditeur de Modèles IA](/blog/auditeur-externe-face-ia-audit/)**
+4. **Auditeur de Modèles IA**
    - *Mission* : Vérifier la conformité et l'absence de biais dans les algorithmes
    - *Salaire* : 75-110k€/an
    - *Ressource* : Guide auditeur face à l'IA
@@ -258,7 +258,7 @@ Selon l'étude Cognizant (février 2026), **93% des métiers seront impactés pa
 
 ### L'achat industriel face à l'IA
 
-Les [acheteurs industriels font face à une révolution](/blog/acheteur-industriel-face-ia-procurement/) avec l'automatisation des processus de sourcing. L'IA permet maintenant :
+Les acheteurs industriels font face à une révolution avec l'automatisation des processus de sourcing. L'IA permet maintenant :
 - Analyse prédictive des prix fournisseurs
 - Optimisation automatique des appels d'offres
 - Gestion des risques fournisseurs en temps réel
@@ -272,7 +272,7 @@ Le secteur juridique connaît une transformation majeure. [Les avocats doivent a
 
 ### Le cadre bancaire qui réussit sa transition
 
-[L'exemple du cadre bancaire reconverti](/blog/cadre-bancaire-vers-expert-blockchain-ia-parcours/) montre qu'une transition réussie est possible :
+L'exemple du cadre bancaire reconverti montre qu'une transition réussie est possible :
 - Formation intensive de 8 mois
 - Spécialisation blockchain + IA
 - Multiplication par 2 du salaire
@@ -288,9 +288,9 @@ Oui, mais avec des nuances importantes. **McKinsey Global Institute** est une r�
 3. Il ignore l'effet "rebond" spécifique à l'économie française
 
 Pour une vision plus équilibrée de l'**étude McKinsey IA emploi**, consulte aussi :
-- [L'analyse OCDE sur l'IA et l'emploi](/blog/etude-ocde-ia-va-elle-detruire-emploi/)
+- L'analyse OCDE sur l'IA et l'emploi
 - [Le rapport Cognizant sur les jobs](/blog/etude-cognizant-jobs-demain-ia/)
-- [L'étude Anthropic sur Claude vs humains](/blog/etude-anthropic-claude-vs-humains-taches-cognitives/)
+- L'étude Anthropic sur Claude vs humains
 
 ### Mon métier est-il vraiment menacé par l'IA selon McKinsey ?
 Tout dépend de **la nature de tes tâches**. L'étude McKinsey IA emploi montre que l'IA menace surtout les métiers :
@@ -299,14 +299,14 @@ Tout dépend de **la nature de tes tâches**. L'étude McKinsey IA emploi montre
 - **Créatifs standardisés** (rédaction SEO, design template)
 
 Les métiers **relationnels, stratégiques ou hautement créatifs** résistent mieux. Pour évaluer ton exposition :
-1. Consulte [l'analyse BCG Matrix IA](/blog/bcg-matrix-ia-avenir-metiers-selon-boston/)
-2. Fais le test [Bilan professionnel IA](/blog/bilan-professionnel-ia-evaluer-chances-reussir/)
+1. Consulte l'analyse BCG Matrix IA
+2. Fais le test Bilan professionnel IA
 3. Analyse les offres d'emploi récentes sur LinkedIn avec les mots-clés "IA"
 
 ### Comment me former à l'IA sans dépenser des milliers d'euros ?
 Plusieurs options gratuites ou low-cost validées par les experts d'Adapte-toi :
 1. **Certifications gratuites** :
-   - [Google IA certification](/blog/certification-google-ia-guide-complet-reussir/) (gratuit, reconnue)
+   - Google IA certification (gratuit, reconnue)
    - Microsoft Learn IA (gratuit)
 2. **Formations CPF** :
    - [Bootcamp IA éligibles CPF](/blog/bootcamp-ia-comparatif-meilleurs-france/)
@@ -375,7 +375,7 @@ Voici ton plan d'action en 3 étapes, testé par les milliers de lecteurs d'Adap
 2. **Choisis ta stratégie selon ton profil** :
    - **Métier menacé** : [Plan reconversion rapide](/blog/bilan-competences-ia-guide-se-reconvertir/)
    - **Métier qui évolue** : [Upskilling ciblé IA](/blog/certification-ia-top-10-diplomes-reconnus/)
-   - **Envie d'entreprendre** : [Créer son activité IA](/blog/creer-agence-conseil-ia-guide-etape/)
+   - **Envie d'entreprendre** : Créer son activité IA
 
 3. **Agis dans les 30 prochains jours** :
    - Inscris-toi à une [formation IA certifiante](/blog/bootcamp-ia-comparatif-meilleurs-france/)
@@ -387,7 +387,7 @@ Voici ton plan d'action en 3 étapes, testé par les milliers de lecteurs d'Adap
 **Ne reste pas spectateur de cette révolution.** Que tu aies 25 ou 55 ans, que tu sois en CDI stable ou en recherche d'emploi, l'IA offre des opportunités à tous les profils. Les témoignages sur Adapte-toi le prouvent :
 - [Marie, comptable devenue consultante IA](/blog/comptable-devenu-consultant-ia-temoignage-marie/)
 - [Paul, commercial reconverti en sales ops](/blog/commercial-reconverti-sales-ops-ia-retour-experience/)
-- [Sophie, artisan devenue entrepreneuse IA](/blog/artisan-vers-entrepreneur-ia-temoignage-inspirant/)
+- Sophie, artisan devenue entrepreneuse IA
 
 **Ton futur professionnel se joue maintenant.** **Démarre ton parcours avec les outils Adapte-toi** et rejoins les milliers de professionnels qui transforment déjà leur carrière grâce à l'IA.
 

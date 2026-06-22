@@ -114,4 +114,4 @@ L'IA n'a pas révolutionné le métier d'ingénieur, mais elle a creusé des éc
 
 Le plus inquiétant ? L'IA est présentée comme un outil d'**augmentation**, alors qu'elle sert surtout à **compenser des manques** (postes supprimés, budgets serrés). Si tu es ingénieur·e, forme-toi, mais garde un œil critique sur ses limites.
 
-Pour aller plus loin, consulte notre [guide sur l'automatisation du travail avec l'IA](/guides/automatiser-travail-ia), notre [fiche métier ingénieur IA](/metiers/ingenieur-ia), ou nos [outils recommandés pour les métiers techniques](/outils/copilot). Pour négocier une formation ou un outil IA, inspire-toi de notre [guide pour négocier son salaire avec des compétences IA](/guides/negocier-salaire-competences-ia).
+Pour aller plus loin, consulte notre [guide sur l'automatisation du travail avec l'IA](/guides/automatiser-travail-ia), notre fiche métier ingénieur IA, ou nos [outils recommandés pour les métiers techniques](/outils/copilot). Pour négocier une formation ou un outil IA, inspire-toi de notre [guide pour négocier son salaire avec des compétences IA](/guides/negocier-salaire-competences-ia).

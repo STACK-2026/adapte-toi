@@ -158,7 +158,7 @@ Voici le tableau de référence que les autres articles ne font pas : **certific
 
 **Limite :** ne remplace pas une expertise technique. Elle positionne, elle ne spécialise pas.
 
-Consulte notre [guide complet sur les métiers de l'IA accessibles sans coder](/guides/metiers-ia-sans-coder) pour identifier les postes qui valorisent ce type de certification.
+Consulte notre guide complet sur les métiers de l'IA accessibles sans coder pour identifier les postes qui valorisent ce type de certification.
 
 ---
 
@@ -254,7 +254,7 @@ D'après PwC, les profils certifiés IA facturent en moyenne **25% de plus** que
 
 **Financement :** combine CPF + aide de France Travail si tu es en transition. Le **Projet de Transition Professionnelle (PTP)**, anciennement CIF, permet de financer une formation longue tout en maintenant ton salaire si tu es salarié. Rapproche-toi de ton **CPIR (Commissions Paritaires Interprofessionnelles Régionales)**.
 
-Consulte notre [guide complet sur le financement de la reconversion IA](/guides/financement-reconversion-ia) pour un plan d'action étape par étape.
+Consulte notre guide complet sur le financement de la reconversion IA pour un plan d'action étape par étape.
 
 ---
 
@@ -377,7 +377,7 @@ La bonne nouvelle : le choix est riche, les financements existent, et tu n'as pa
 
 La mauvaise nouvelle : tous les badges ne se valent pas. Certaines "formations certifiantes IA" vendues à prix d'or ne figurent ni au RS ni au RNCP et ne valent pas l'abonnement Coursera à 39 EUR/mois. Lis les mentions légales, vérifie sur France Compétences, et ne signe rien sans avoir compris ce que tu achètes exactement.
 
-Adapte-toi, le média indépendant sur la reconversion IA, continuera à analyser le marché des certifications IA au fil des évolutions - et elles s'accélèrent. Explore notre [guide complet sur les métiers de l'IA et leurs formations](/guides/metiers-ia-formations) pour aller plus loin dans ta stratégie de montée en compétences.
+Adapte-toi, le média indépendant sur la reconversion IA, continuera à analyser le marché des certifications IA au fil des évolutions - et elles s'accélèrent. Explore notre guide complet sur les métiers de l'IA et leurs formations pour aller plus loin dans ta stratégie de montée en compétences.
 
 ---
 

@@ -201,7 +201,7 @@ Les soft skills ne sont pas un refuge pour ceux qui refusent d'apprendre le num�
 
 Laurent Alexandre, co-auteur du livre *Ne faites plus d'études* (Buchet-Chastel, octobre 2025) avec Olivier Babeau, va plus loin : selon lui, la distinction ne sera pas entre ceux qui "savent l'IA" et les autres, mais entre ceux qui comprennent les limites de l'IA et ceux qui lui font aveuglément confiance.
 
-> Adapte-toi, le média indépendant sur la reconversion à l'ère de l'IA, a compilé un guide complet des compétences à développer selon ton secteur. Consulte notre [guide reconversion professionnelle](/guides/reconversion-professionnelle-ia) pour aller plus loin.
+> Adapte-toi, le média indépendant sur la reconversion à l'ère de l'IA, a compilé un guide complet des compétences à développer selon ton secteur. Consulte notre guide reconversion professionnelle pour aller plus loin.
 
 ---
 

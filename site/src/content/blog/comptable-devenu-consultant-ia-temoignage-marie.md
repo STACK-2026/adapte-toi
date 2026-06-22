@@ -88,7 +88,7 @@ Elle rejoint deux communautés en ligne spécialisées en IA appliquée aux mét
 5. Réseautage dans les communautés IA de son secteur
 6. Premières missions en parallèle avant de sauter le pas
 
-Consulte notre [guide complet de la reconversion professionnelle IA](/guides/reconversion-ia) pour adapter ces étapes à ton profil.
+Consulte notre guide complet de la reconversion professionnelle IA pour adapter ces étapes à ton profil.
 
 ---
 

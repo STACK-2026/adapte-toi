@@ -97,7 +97,7 @@ Cette déclaration illustre le décalage entre les annonces et la réalité : **
 
 ### Étudiant·e ou en reconversion
 - **Privilégie les compétences appliquées** : [data analysis](/metiers/data-analyst-ia), [développement de chatbots](/metiers/developpeur-ia).
-- **Cible les secteurs porteurs** : maintenance de datacenters ([fiche métier](/metiers/technicien-cloud)).
+- **Cible les secteurs porteurs** : maintenance de datacenters (fiche métier).
 - **Postule aux partenariats** (Nebius, AMD) ou vise des métiers hybrides (ex : [infirmier·e + IA](/metiers/infirmier-ia)).
 
 ### Décideur·se politique ou RH

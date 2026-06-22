@@ -114,5 +114,5 @@ Jasper est solide pour les équipes marketing US/UK qui veulent une plateforme d
 - [Claude](/outils/claude/) : meilleur français longs formats
 - [Surfer SEO](/outils/surfer-seo/) : optimisation SEO en complément
 - [Outils IA pour marketing](/guides/outils-ia-pour-marketing/)
-- [Outils IA pour copywriter](/guides/outils-ia-pour-copywriter/) : voir Copywriter IA
+- Outils IA pour copywriter : voir Copywriter IA
 - [Marketing IA](/metiers/marketing-ia/), [Copywriter IA](/metiers/copywriter-ia/), [Community manager IA](/metiers/community-manager-ia/)

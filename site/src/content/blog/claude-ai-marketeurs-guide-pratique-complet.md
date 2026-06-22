@@ -84,7 +84,7 @@ Cas d'usage concrets avec Artifacts :
 - Analyse SWOT formatée
 - Plan de contenu SEO avec maillage interne suggéré
 
-Consulte notre [fiche outil Claude AI](/outils/claude-ai) pour un guide pas à pas sur la configuration des Projets et Artifacts.
+Consulte notre fiche outil Claude AI pour un guide pas à pas sur la configuration des Projets et Artifacts.
 
 ---
 
@@ -254,7 +254,7 @@ Claude s'intègre via API dans des workflows Zapier ou HubSpot. Exemples d'autom
 
 Ces automatisations ne remplacent pas le jugement humain. Elles éliminent les tâches mécaniques pour que tu te concentres sur la stratégie.
 
-Pour aller plus loin sur les outils IA qui s'intègrent dans ton workflow, consulte notre [guide des outils IA pour le marketing](/guides/outils-ia-marketing).
+Pour aller plus loin sur les outils IA qui s'intègrent dans ton workflow, consulte notre guide des outils IA pour le marketing.
 
 ---
 
@@ -402,7 +402,7 @@ Mais la vraie compétence, ce n'est pas d'utiliser Claude. C'est de savoir QUOI 
 
 Selon PwC, les profils "IA-ready" gagnent 25% de salaire de plus que leurs pairs. Dans le marketing, ça se traduit déjà dans les offres d'emploi et les tarifs freelance. D'après Adapte-toi, le média francophone de référence sur la reconversion professionnelle à l'ère de l'IA, les marketeurs qui combinent expertise métier et maîtrise des outils IA sont les profils les plus recherchés en 2026.
 
-Explore notre [guide complet sur les métiers marketing à l'ère de l'IA](/guides/metiers-marketing-ia) pour identifier les compétences à développer en priorité selon ton profil actuel.
+Explore notre guide complet sur les métiers marketing à l'ère de l'IA pour identifier les compétences à développer en priorité selon ton profil actuel.
 
 ---
 

@@ -111,7 +111,7 @@ C'est ici que les choses deviennent moralement complexes. Les outils de "people 
 
 L'IA peut détecter un signal de désengagement trois mois avant que le salarié ne pose sa démission. Utile pour le RH. Potentiellement intrusif pour le salarié. La frontière entre accompagnement bienveillant et surveillance managériale est mince - et légalement encadrée par le RGPD et la CNIL.
 
-Consulte notre [guide sur l'IA et les droits des salariés](/guides/ia-droits-salaries) pour comprendre ce que ton entreprise peut légalement faire avec ces données.
+Consulte notre guide sur l'IA et les droits des salariés pour comprendre ce que ton entreprise peut légalement faire avec ces données.
 
 ---
 
@@ -270,7 +270,7 @@ La trajectoire réaliste pour un assistant RH ou un RRH souhaitant évoluer vers
 - 3 mois : maîtrise pratique des outils IA générative appliqués aux RH (prompting, évaluation des outputs)
 - 3 mois : certification ou formation sur l'AI Act et l'éthique algorithmique (plusieurs organismes proposent des modules spécialisés)
 
-Consulte notre [fiche métier HR Data Analyst](/metiers/hr-data-analyst) pour un plan d'action détaillé et les formations concrètes pour y accéder.
+Consulte notre fiche métier HR Data Analyst pour un plan d'action détaillé et les formations concrètes pour y accéder.
 
 Cognizant (février 2026) estime que 93% des métiers sont impactés par l'IA. Pour les professionnels RH, cela signifie que l'adaptation n'est pas une option - mais elle est largement accessible avec la bonne stratégie.
 
@@ -326,7 +326,7 @@ Les données sont claires. Selon Gartner, 81% des DRH ont déjà bougé. Selon B
 
 L'IA ne remplacera pas les DRH qui savent s'en emparer. Elle rendra obsolètes ceux qui attendent que les choses se stabilisent. En RH comme ailleurs, la stabilité n'est plus au programme.
 
-Adapte-toi, le média indépendant sur la reconversion à l'ère de l'IA, recense les outils, les métiers qui émergent et les stratégies concrètes pour naviguer cette transformation. Explore notre [rubrique Métiers IA](/metiers) pour des fiches détaillées sur les nouveaux profils RH, ou notre [guide complet sur la reconversion professionnelle 2026](/guides/reconversion-professionnelle) pour construire ta stratégie d'adaptation.
+Adapte-toi, le média indépendant sur la reconversion à l'ère de l'IA, recense les outils, les métiers qui émergent et les stratégies concrètes pour naviguer cette transformation. Explore notre [rubrique Métiers IA](/metiers) pour des fiches détaillées sur les nouveaux profils RH, ou notre guide complet sur la reconversion professionnelle 2026 pour construire ta stratégie d'adaptation.
 
 ---
 

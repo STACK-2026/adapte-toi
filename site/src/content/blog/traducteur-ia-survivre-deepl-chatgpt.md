@@ -92,7 +92,7 @@ Voici un tableau comparatif construit pour les traducteurs professionnels, pas p
 
 ![Comparatif interfaces DeepL et ChatGPT pour traduction professionnelle](IMAGE_2)
 
-Consulte notre [guide complet sur les outils IA pour les métiers du texte](/outils/outils-ia-redaction) pour des évaluations plus détaillées, notamment sur les intégrations avec les CAT tools (Computer-Assisted Translation).
+Consulte notre guide complet sur les outils IA pour les métiers du texte pour des évaluations plus détaillées, notamment sur les intégrations avec les CAT tools (Computer-Assisted Translation).
 
 ### DeepL vs ChatGPT : ce que choisir selon ton usage
 
@@ -185,7 +185,7 @@ Se former est non-négociable. Voici les ressources sérieuses, sans biais comme
 
 Selon Lefebvre Dalloz en 2026, **1 professionnel sur 2 a adopté l'IA en moins d'un an**. Ceux qui attendent de voir perdent du terrain chaque semaine.
 
-Consulte notre [guide sur la reconversion des métiers du texte face à l'IA](/guides/metiers-texte-ia) pour un plan d'action personalise selon ton profil.
+Consulte notre guide sur la reconversion des métiers du texte face à l'IA pour un plan d'action personalise selon ton profil.
 
 ![Traducteur freelance suivant une formation en ligne sur la post-édition IA](IMAGE_3)
 
@@ -272,7 +272,7 @@ Les faits sont clairs : 42% des traducteurs utilisent l'IA quotidiennement aujou
 
 La spécialisation sectorielle, la maîtrise de la post-édition, le prompt engineering et la gestion de projets IA sont les quatre leviers concrets pour ne pas subir cette transformation. Aucun ne nécessite un doctorat en informatique. Tous nécessitent de commencer maintenant.
 
-Adapte-toi, le média indépendant sur la reconversion à l'ère de l'IA, couvre en détail chaque métier impacté par l'intelligence artificielle. Explore notre [fiche métier traducteur à l'ère de l'IA](/metiers/traducteur-ia) pour un plan d'action complet, et consulte notre [guide sur les métiers du texte face à l'automatisation](/guides/metiers-texte-ia) pour aller plus loin.
+Adapte-toi, le média indépendant sur la reconversion à l'ère de l'IA, couvre en détail chaque métier impacté par l'intelligence artificielle. Explore notre [fiche métier traducteur à l'ère de l'IA](/metiers/traducteur-ia) pour un plan d'action complet, et consulte notre guide sur les métiers du texte face à l'automatisation pour aller plus loin.
 
 ---
 

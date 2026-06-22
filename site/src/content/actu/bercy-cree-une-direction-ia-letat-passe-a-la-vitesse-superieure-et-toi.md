@@ -107,7 +107,7 @@ Cette phrase souligne l'urgence et l'ambition du gouvernement. L'objectif est de
 1. Identifie les tâches répétitives dans ton travail (saisie de données, réponses aux mails standard). [Guide pour automatiser ton travail avec l'IA](/guides/automatiser-travail-ia).
 2. Inscris-toi à une formation IA via [Fun MOOC](https://www.fun-mooc.fr/) ou l'[INTEFP](https://www.intefp.gouv.fr/). Priorité : prompt engineering et analyse de données.
 3. Postule à un poste pilote dans ton ministère. Consulte les offres sur [Place de l'Emploi Public](https://www.place-emploi-public.gouv.fr/).
-4. Prépare ta reconversion si ton métier est menacé. Les métiers en tension : [data analyst IA](/metiers/data-analyst-ia), [consultant IA](/metiers/consultant-ia), [juriste IA](/metiers/juriste-ia). [Guide reconversion IA](/guides/reconversion-ia-guide-complet).
+4. Prépare ta reconversion si ton métier est menacé. Les métiers en tension : [data analyst IA](/metiers/data-analyst-ia), [consultant IA](/metiers/consultant-ia), juriste IA. [Guide reconversion IA](/guides/reconversion-ia-guide-complet).
 
 ### Tu es dans le privé et tu veux travailler avec l'administration
 **À faire dans les 90 jours** :
@@ -117,7 +117,7 @@ Cette phrase souligne l'urgence et l'ambition du gouvernement. L'objectif est de
 
 ### Tu es en reconversion
 **À faire dans les 90 jours** :
-1. Priorise les métiers en tension : [data analyst IA](/metiers/data-analyst-ia), [consultant IA](/metiers/consultant-ia), [développeur IA](/metiers/developpeur-ia), [juriste IA](/metiers/juriste-ia). [Guide formation IA gratuite](/guides/se-former-ia-gratuitement).
+1. Priorise les métiers en tension : [data analyst IA](/metiers/data-analyst-ia), [consultant IA](/metiers/consultant-ia), [développeur IA](/metiers/developpeur-ia), juriste IA. [Guide formation IA gratuite](/guides/se-former-ia-gratuitement).
 2. Postule aux formations financées par l'État : CPF, bootcamps IA ([Simplon](https://simplon.co/), [Le Wagon](https://www.lewagon.com/fr)), alternance via l'[INTEFP](https://www.intefp.gouv.fr/).
 3. Crée un portfolio IA : développe un chatbot pour un cas d'usage administratif avec [Claude](/outils/claude) ou [ChatGPT](/outils/chatgpt), analyse des données publiques avec [Perplexity](/outils/perplexity).
 

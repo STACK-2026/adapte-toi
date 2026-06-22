@@ -111,7 +111,7 @@ Tu lui donnes l'avancement brut de tes indicateurs. Il structure la présentatio
 
 Tu demandes à Notion AI de compiler une page d'onboarding personnalisée à partir de tes documentations existantes. Il sélectionne les pages pertinentes, les résume et crée un parcours de lecture ordonné.
 
-Consulte notre [guide complet des outils IA pour la gestion de projet](/guides/outils-ia-gestion-projet) pour comparer Notion AI avec d'autres solutions disponibles en 2026.
+Consulte notre guide complet des outils IA pour la gestion de projet pour comparer Notion AI avec d'autres solutions disponibles en 2026.
 
 ---
 

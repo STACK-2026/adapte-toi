@@ -91,7 +91,7 @@ Cette phrase illustre le décalage entre le discours des pionniers et la réalit
   - **Langues** : Utilise [Otter.ai](/outils/otter-ai) pour transcrire des conversations.
   - **Sciences** : Fais coder avec [Copilot](/outils/copilot).
   - **Arts** : Montre comment [MidJourney](/outils/midjourney) peut inspirer.
-- **Ressources** : Consulte notre [guide pour enseigner avec l'IA](/guides/enseigner-avec-ia) (juillet 2026).
+- **Ressources** : Consulte notre guide pour enseigner avec l'IA (juillet 2026).
 
 **Décideur politique ou RH :**
 - **À 90 jours** : Cartographie les métiers exposés à l'IA avec le [rapport Stanford HAI](https://aiindex.stanford.edu/report/). Exemple : Dans une banque, 40% des tâches des [chargés de clientèle](/metiers/charge-clientele-ia) seront automatisées d'ici 2027.

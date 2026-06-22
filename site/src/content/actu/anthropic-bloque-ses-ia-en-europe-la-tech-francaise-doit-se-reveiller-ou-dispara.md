@@ -100,4 +100,4 @@ Cette phrase illustre l'urgence. L'Europe a cru que les géants américains sera
 ## Le verdict Adapte-toi
 Le blocage d'Anthropic confirme que la dépendance aux géants américains est un risque existentiel. Les entreprises françaises doivent soit investir dans des solutions souveraines, soit disparaître.
 
-L'Europe a les outils (Mistral, Hugging Face, [Gaia-X](https://www.gaia-x.eu/)) mais doit agir maintenant. Pour approfondir, consultez notre [guide sur la réglementation IA](/guides/ia-europe-reglementation) ou notre [fiche sur les outils souverains](/outils/mistral). Le réveil est douloureux, mais nécessaire.
+L'Europe a les outils (Mistral, Hugging Face, [Gaia-X](https://www.gaia-x.eu/)) mais doit agir maintenant. Pour approfondir, consultez notre [guide sur la réglementation IA](/guides/ia-europe-reglementation) ou notre fiche sur les outils souverains. Le réveil est douloureux, mais nécessaire.

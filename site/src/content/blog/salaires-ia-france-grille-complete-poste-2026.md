@@ -77,7 +77,7 @@ Le prompt engineering a fait beaucoup de bruit. La réalité est plus nuancée :
 
 Un profil qui maîtrise le prompt engineering ET le déploiement d'agents IA (LangChain, CrewAI) se positionne nettement mieux qu'un spécialiste pur.
 
-> **Pour aller plus loin** : consulte notre [fiche métier ML Engineer](/metiers/ml-engineer) pour le détail des missions et des compétences exigées.
+> **Pour aller plus loin** : consulte notre fiche métier ML Engineer pour le détail des missions et des compétences exigées.
 
 ---
 
@@ -161,7 +161,7 @@ Le fixe seul ne raconte pas l'histoire complète. Dans une startup qui lève une
 
 Selon PwC, les profils IA-ready perçoivent en moyenne **25% de salaire en plus** que leurs équivalents sans compétences IA - dans des structures comparables. Cette prime monte à **56% dans les secteurs les plus exposés** à l'automatisation (finance, assurance, conseil).
 
-> **À lire aussi** : notre [guide de la reconversion vers les métiers de la data](/guides/reconversion-metiers-data) pour comprendre les parcours réels des profils qui ont réussi.
+> **À lire aussi** : notre guide de la reconversion vers les métiers de la data pour comprendre les parcours réels des profils qui ont réussi.
 
 ---
 
@@ -250,7 +250,7 @@ La bonne nouvelle : avec un portfolio solide (projets GitHub documentés, contri
 
 L'OCDE estime que 27% des emplois français, soit plus de 4 millions de postes, sont exposés à un risque d'automatisation élevé. La reconversion vers l'IA est une stratégie solide - à condition de viser les bons créneaux.
 
-> **Consulte aussi** : notre [guide complet sur la reconversion professionnelle à l'ère de l'IA](/guides/reconversion-professionnelle-ia) pour structurer ton parcours.
+> **Consulte aussi** : notre guide complet sur la reconversion professionnelle à l'ère de l'IA pour structurer ton parcours.
 
 ---
 

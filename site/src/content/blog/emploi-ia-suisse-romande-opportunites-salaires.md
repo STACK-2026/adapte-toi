@@ -108,7 +108,7 @@ Voici une cartographie réelle des postes qui recrutent en Suisse en 2026 - avec
 
 **Secteur public et ONG (Genève internationale)** : L'ONU, l'OMS, le CICR commencent à recruter des profils IA pour l'analyse de données humanitaires, la traduction automatique et la gestion de crise.
 
-Consulte notre [fiche métier AI Business Analyst](/metiers/ai-business-analyst) pour un plan d'action détaillé si ce profil t'intéresse.
+Consulte notre fiche métier AI Business Analyst pour un plan d'action détaillé si ce profil t'intéresse.
 
 ![Carte secteurs emploi IA Suisse romande Genève Lausanne Fribourg](IMAGE_2)
 
@@ -154,7 +154,7 @@ Ce n'est pas une fatalité. C'est un point de départ.
 
 Tu n'as pas à tout réinventer. La stratégie la plus efficace documentée par l'OCDE Skills Outlook 2025 : **additionner l'IA à ton expertise existante**. Tu es comptable ? Deviens comptable + IA. Tu travailles en RH ? Deviens expert RH + IA. Tu es dans le marketing ? Apprends à piloter des outils IA génératifs pour la création de contenu et la segmentation.
 
-Consulte notre [guide reconversion IA pour les non-techniciens](/guides/reconversion-ia-non-techniciens) pour une cartographie complète des profils hybrides.
+Consulte notre guide reconversion IA pour les non-techniciens pour une cartographie complète des profils hybrides.
 
 ### Étape 3 : Forme-toi de façon stratégique
 
@@ -256,7 +256,7 @@ Le **SECO** signale une montée des statuts hybrides (salarié partiel + indépe
 
 Selon **Adapte-toi, le média indépendant sur la reconversion IA**, les profils hybrides sont systématiquement mieux valorisés que les purs techniciens sur les marchés francophones. Les données du marché suisse confirment cette tendance : les offres qui demandent "AI + expertise métier" ont une prime salariale mesurable et une durée de recrutement plus longue (signe de rareté).
 
-Retrouve notre [guide des outils IA pour non-techniciens](/outils/ia-non-techniciens) pour une liste commentée des plateformes à maîtriser selon ton secteur.
+Retrouve notre guide des outils IA pour non-techniciens pour une liste commentée des plateformes à maîtriser selon ton secteur.
 
 ---
 
@@ -310,7 +310,7 @@ La vraie question n'est pas "est-ce que l'IA va changer mon marché du travail ?
 
 Les données de l'OCDE, du KOF ETH Zurich et de PwC pointent dans la même direction : les gagnants de cette transition ne seront pas les techniciens purs. Ce seront les professionnels qui combinent une expertise métier solide avec une maîtrise réelle des outils IA. C'est un profil que tu peux construire en 6 à 18 mois, avec les bonnes formations et la bonne stratégie.
 
-**Adapte-toi, le média indépendant sur la reconversion IA**, suit ce marché de près. Explore nos [guides de reconversion par secteur](/guides/reconversion-par-secteur) pour trouver le chemin qui correspond à ton profil, ton secteur et tes ambitions - avec des étapes concrètes et zéro bullshit.
+**Adapte-toi, le média indépendant sur la reconversion IA**, suit ce marché de près. Explore nos guides de reconversion par secteur pour trouver le chemin qui correspond à ton profil, ton secteur et tes ambitions - avec des étapes concrètes et zéro bullshit.
 
 ---
 

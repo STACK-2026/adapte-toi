@@ -111,7 +111,7 @@ Tu es déjà en poste, tu veux comprendre l'IA pour mieux manager, mieux décide
 
 ---
 
-> **Consulte notre [guide complet sur la reconversion IA](/guides/reconversion-professionnelle-ia) pour savoir quelle direction prendre avant de choisir une formation.**
+> **Consulte notre guide complet sur la reconversion IA pour savoir quelle direction prendre avant de choisir une formation.**
 
 ---
 

@@ -45,7 +45,7 @@ Plus inquiétant encore : **54% des juristes d'entreprise pensent que le budget 
 
 Le Conseil National des Barreaux (CNB) tente de rassurer avec son guide sur l'utilisation responsable de l'IA générative, mais les faits sont têtus. L'IA juridique comme Harvey AI ou les solutions Doctrine transforment déjà la recherche jurisprudentielle et la rédaction d'actes.
 
-Comme le souligne notre [analyse des métiers face à l'IA selon Boston Consulting](/blog/bcg-matrix-ia-avenir-metiers-selon-boston/), le secteur juridique entre dans une phase de disruption majeure. Les avocats qui ne s'adaptent pas rapidement risquent de subir le même sort que les photographes face au numérique.
+Comme le souligne notre analyse des métiers face à l'IA selon Boston Consulting, le secteur juridique entre dans une phase de disruption majeure. Les avocats qui ne s'adaptent pas rapidement risquent de subir le même sort que les photographes face au numérique.
 
 ## Ces tâches que l'IA maîtrise déjà mieux que toi
 
@@ -218,7 +218,7 @@ Le positionnement "Avocat + IA" reste un océan bleu en 2026. Les premiers arriv
 
 Le [CPF finance les formations IA](/blog/cpf-formation-ia-comment-financer-reconversion/) jusqu'à 5 000€. Les OPCO juridiques (AFDAS) proposent des programmes spécifiques "Transformation numérique des cabinets".
 
-Certains avocats s'inspirent des méthodes d'[artisans devenus entrepreneurs grâce à l'IA](/blog/artisan-vers-entrepreneur-ia-temoignage-inspirant/) pour financer leur transition : revenus de conseil pendant la formation, missions courtes d'expertise IA.
+Certains avocats s'inspirent des méthodes d'artisans devenus entrepreneurs grâce à l'IA pour financer leur transition : revenus de conseil pendant la formation, missions courtes d'expertise IA.
 
 ### Erreurs à éviter absolument
 
@@ -255,7 +255,7 @@ L'AI Act européen crée un nouveau métier : s'assurer que les entreprises resp
 
 **Salaire** : 90k€ à 180k€ + primes de risque. BNP Paribas recherche 25 "AI Compliance Officers" pour 2026. Google France recrute des juristes spécialisés IA à 140k€ + stock-options.
 
-Cette reconversion s'inspire des parcours réussis d'[auditeurs externes face à l'IA](/blog/auditeur-externe-face-ia-audit/) qui ont su transformer leur expertise de contrôle.
+Cette reconversion s'inspire des parcours réussis d'auditeurs externes face à l'IA qui ont su transformer leur expertise de contrôle.
 
 ### 4. Consultant en transformation digitale juridique
 
@@ -263,7 +263,7 @@ Les cabinets traditionnels payent cher pour leur transformation IA. D'ex-avocats
 
 **Business model** : missions de 3 à 12 mois, facturation 800€ à 1 500€/jour selon la taille du cabinet. Carnet de commandes plein jusqu'en 2028.
 
-Consulte notre [guide pour créer son agence de conseil IA](/blog/creer-agence-conseil-ia-guide-etape/) si cette voie t'intéresse.
+Consulte notre guide pour créer son agence de conseil IA si cette voie t'intéresse.
 
 ### 5. Data Protection Officer (DPO) augmenté
 

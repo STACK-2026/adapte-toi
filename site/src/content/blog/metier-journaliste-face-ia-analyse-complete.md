@@ -124,7 +124,7 @@ Générer des variantes de titres, des meta descriptions, des suggestions de mot
 
 **Gain de temps estimé** : 30 à 45 minutes par article sur les tâches de distribution.
 
-> **Consulte notre [guide des outils IA pour les métiers de la communication](/outils/ia-communication) pour des tests approfondis et des avis vérifiés sur chaque outil.**
+> **Consulte notre guide des outils IA pour les métiers de la communication pour des tests approfondis et des avis vérifiés sur chaque outil.**
 
 ---
 
@@ -191,7 +191,7 @@ Les médias qui survivent en 2026 sont ceux qui ont utilisé l'IA pour **réduir
 
 L'International News Media Association estime que 20 % des contenus financiers publiés dans la presse économique mondiale sont partiellement produits par IA. C'est une réalité, pas une prédiction.
 
-> **Explore notre [guide sur les métiers de la rédaction à l'ère de l'IA](/guides/redaction-ia) pour comprendre quels profils les médias recrutent vraiment en 2026.**
+> **Explore notre guide sur les métiers de la rédaction à l'ère de l'IA pour comprendre quels profils les médias recrutent vraiment en 2026.**
 
 ---
 

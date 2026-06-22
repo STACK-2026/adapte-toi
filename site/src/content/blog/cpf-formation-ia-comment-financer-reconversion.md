@@ -75,7 +75,7 @@ Ton CPF ne couvre pas tout ? D'autres solutions existent :
 | **CPF de transition** | Jusqu'à 18 000€ | Projet de reconversion validé | [Transitions Pro](https://www.transitionspro.fr) |
 | **Aides régionales** | Variable | Selon ta région | **Portail des régions** |
 
-> **Exemple concret** : Thomas, 42 ans, a financé sa [formation "Chef de projet IA"](/blog/chef-projet-digital-ia-evolution-metier/) (6000€) avec :
+> **Exemple concret** : Thomas, 42 ans, a financé sa formation "Chef de projet IA" (6000€) avec :
 > - **4000€ de son CPF**
 > - **1500€ de l'AIF** (il était en reconversion)
 > - **500€ de sa région** (Occitanie)
@@ -122,7 +122,7 @@ Notre analyse du [guide ChatGPT pour les RH](/blog/chatgpt-rh-guide-pratique-cas
   - Pour qui : Niveau bac+2 minimum
   - **Objectif** : Manager des équipes hybrides (humains + IA)
 
-Cette formation est analysée dans notre [guide sur l'évolution du métier de chef de projet digital](/blog/chef-projet-digital-ia-evolution-metier/).
+Cette formation est analysée dans notre guide sur l'évolution du métier de chef de projet digital.
 
 ### 3. Tu veux CRÉER des solutions IA (reconversion technique)
 
@@ -250,7 +250,7 @@ Même si ton entreprise ne propose pas de formation en IA, tu peux **négocier**
 
 > **Argument choc** : *"Selon McKinsey, 30% des heures travaillées seront automatisables d'ici 2030. Former 1 salarié à l'IA coûte 3000€. Recruter un profil IA-ready coûte 15 000€ (cabinet de recrutement + salaire majoré)."*
 
-Notre [étude BCG Matrix sur l'avenir des métiers](/blog/bcg-matrix-ia-avenir-metiers-selon-boston/) montre que les entreprises qui anticipent économisent 70% sur leurs coûts de recrutement.
+Notre étude BCG Matrix sur l'avenir des métiers montre que les entreprises qui anticipent économisent 70% sur leurs coûts de recrutement.
 
 ### 3. Les aides régionales (souvent méconnues)
 
@@ -279,11 +279,11 @@ Selon PwC, les profils **IA-ready** gagnent **25% de plus** que la moyenne. Mais
 
 | Métier d'origine | Salaire moyen | Après formation IA | Évolution | Formation recommandée |
 |------------------|---------------|-------------------|-----------|----------------------|
-| **Comptable** | 35k€ | 42k€ | +20% | [IA pour la comptabilité](/blog/controleur-gestion-face-ia-evolution-poste/) |
-| **Chef de projet** | 45k€ | 58k€ | +29% | [Chef de projet IA (OpenClassrooms)](/blog/chef-projet-digital-ia-evolution-metier/) |
+| **Comptable** | 35k€ | 42k€ | +20% | IA pour la comptabilité |
+| **Chef de projet** | 45k€ | 58k€ | +29% | Chef de projet IA (OpenClassrooms) |
 | **Commercial** | 40k€ | 48k€ | +20% | [Sales ops IA](/blog/commercial-reconverti-sales-ops-ia-retour-experience/) |
-| **Analyste financier** | 50k€ | 65k€ | +30% | [IA pour la finance](/blog/analyste-financier-face-ia-nouvelles-competences/) |
-| **Chargé de communication** | 32k€ | 40k€ | +25% | [IA créative](/blog/charge-communication-vs-ia-strategies-adaptation/) |
+| **Analyste financier** | 50k€ | 65k€ | +30% | IA pour la finance |
+| **Chargé de communication** | 32k€ | 40k€ | +25% | IA créative |
 
 ### Les métiers qui recrutent le plus en IA (France 2026)
 
@@ -455,7 +455,7 @@ Retrouve son parcours complet dans notre [témoignage de Marie](/blog/comptable-
 **Son financement** : CPF (4500€) + Aide régionale (1500€)
 **Son évolution** : +35% de salaire + nouveau poste créé spécialement
 
-Découvre son analyse de [l'impact de l'IA sur les métiers d'acheteur](/blog/acheteur-industriel-face-ia-procurement/).
+Découvre son analyse de l'impact de l'IA sur les métiers d'acheteur.
 
 ### Sophie, 41 ans : De RH à experte en éthique IA
 

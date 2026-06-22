@@ -221,7 +221,7 @@ Les ATS (logiciels de recrutement) intègrent l'IA pour le scoring de CV, la gé
 
 **Compétence à acquérir** : Biais algorithmiques dans le recrutement, paramétrage des ATS IA (Workday, Lever, Greenhouse), conformité EU AI Act pour le recrutement.
 
-Retrouve notre [guide complet sur l'IA pour les métiers RH](/guides/ia-metiers-rh) avec les outils et les formations verifies.
+Retrouve notre guide complet sur l'IA pour les métiers RH avec les outils et les formations verifies.
 
 ---
 

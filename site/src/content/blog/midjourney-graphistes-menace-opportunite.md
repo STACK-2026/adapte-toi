@@ -50,7 +50,7 @@ Les données officielles brossent un tableau contrasté pour les graphistes fran
 | Demande en "graphiste IA" | 87 offres | 2 450 offres | **+2 716%** | LinkedIn (2026) |
 | Part des offres exigeant Midjourney | 3% | 42% | **+1 300%** | JobTeaser (2026) |
 
-**Analyse sans filtre** : Ces chiffres confirment une tendance lourde - la demande en graphistes "traditionnels" s'effondre, tandis que les profils hybrides explosent. Comme le montre l'[étude Deloitte Tech Trends 2026](/blog/deloitte-tech-trends-2026-ia-transformation-rh/), les entreprises recherchent désormais des profils capables de :
+**Analyse sans filtre** : Ces chiffres confirment une tendance lourde - la demande en graphistes "traditionnels" s'effondre, tandis que les profils hybrides explosent. Comme le montre l'étude Deloitte Tech Trends 2026, les entreprises recherchent désormais des profils capables de :
 1. **Traduire des besoins business en prompts efficaces** (compétence rare)
 2. **Superviser et affiner les outputs IA** (l'œil humain reste indispensable)
 3. **Intégrer l'IA dans des processus créatifs complexes** (direction artistique)
@@ -141,7 +141,7 @@ L'arrivée de Midjourney a fait chuter les tarifs des prestations basiques. Mais
 
 "Les clients ne veulent plus payer pour du temps, ils veulent payer pour de la tranquillité d'esprit", explique Thomas. "Avec l'IA, je peux leur offrir plus de valeur en moins de temps - et c'est ça qu'ils sont prêts à payer cher."
 
-Cette approche reflète la transformation qu'on observe dans d'autres métiers impactés par l'IA, comme l'explique notre analyse du [contrôleur de gestion face à l'IA](/blog/controleur-gestion-face-ia-evolution-poste/).
+Cette approche reflète la transformation qu'on observe dans d'autres métiers impactés par l'IA, comme l'explique notre analyse du contrôleur de gestion face à l'IA.
 
 ---
 
@@ -229,7 +229,7 @@ Tu as compris les enjeux, identifié les compétences à acquérir. Maintenant, 
 2. Analyse ton portfolio actuel :
    - Quelles tâches pourraient être automatisées par Midjourney ?
    - Quels projets montrent ta valeur ajoutée humaine ?
-3. Utilise notre [outil de bilan professionnel IA](/blog/bilan-professionnel-ia-evaluer-chances-reussir/) pour évaluer tes chances de réussite
+3. Utilise notre outil de bilan professionnel IA pour évaluer tes chances de réussite
 
 **Exemple de grille d'audit** :
 
@@ -359,7 +359,7 @@ L'utilisation de Midjourney soulève des questions juridiques et éthiques compl
 - Évite les stéréotypes
 - Sois transparent avec tes clients sur l'utilisation de l'IA
 
-Cette problématique juridique touche tous les secteurs, comme l'explique notre guide sur [l'assurance responsabilité consultant IA](/blog/assurance-responsabilite-consultant-ia-guide-complet/).
+Cette problématique juridique touche tous les secteurs, comme l'explique notre guide sur l'assurance responsabilité consultant IA.
 
 ---
 
@@ -470,7 +470,7 @@ Midjourney n'est **ni une menace absolue, ni une opportunité magique**. C'est u
 2. **Surfer** sur la vague et devenir un graphiste augmenté, plus productif et mieux payé
 
 **Ton plan d'action immédiat** :
-1. **Évalue tes compétences** avec notre [outil de bilan professionnel IA](/blog/bilan-professionnel-ia-evaluer-chances-reussir/)
+1. **Évalue tes compétences** avec notre outil de bilan professionnel IA
 2. **Forme-toi** aux compétences clés (prompt engineering, droit de l'IA, stratégie de marque)
 3. **Repositionne ton offre** pour montrer ta valeur ajoutée humaine
 4. **Prospecte** des clients qui ont besoin d'expertise, pas de main d'œuvre
@@ -483,7 +483,7 @@ Midjourney n'est **ni une menace absolue, ni une opportunité magique**. C'est u
 
 **Dernier conseil** : 2026 est l'année idéale pour te repositionner. L'IA générative arrive à maturité, les entreprises comprennent qu'elles ont besoin d'experts, et les formations de qualité se multiplient. Ne reste pas dans l'expectative - agis maintenant.
 
-Comme le montre notre analyse des [métiers selon la BCG Matrix IA](/blog/bcg-matrix-ia-avenir-metiers-selon-boston/), les graphistes qui agissent rapidement se positionnent dans le quadrant "Stars" - forte croissance, forte valeur ajoutée.
+Comme le montre notre analyse des métiers selon la BCG Matrix IA, les graphistes qui agissent rapidement se positionnent dans le quadrant "Stars" - forte croissance, forte valeur ajoutée.
 
 **Prêt à te lancer ?** Commence dès aujourd'hui avec notre [guide complet sur comment devenir consultant IA](/blog/devenir-consultant-ia-freelance-guide-complet-2026/) et teste notre outil de planification de carrière sur **Adapte-toi**. Le futur du design t'appartient - à toi de le façonner.
 

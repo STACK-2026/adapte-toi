@@ -96,10 +96,10 @@ L'IA n'est pas une fin en soi, mais un moyen de recentrer le travail. Beaucoup d
 ### Manager ou chef·fe de projet
 - **30 jours** : Audite l'utilisation de l'IA dans ton équipe. Risque de *shadow AI* ou *workslop* ? Organise un atelier pour définir des règles (ex : "L'IA génère les premiers jets, les humains décident").
 - **60 jours** : Lance un plan de formation pour éviter un fossé juniors/seniors. Exemple : module "IA pour les nuls" et "Encadrer l'IA". Utilise notre [guide gratuit](/guides/se-former-ia-gratuitement).
-- **90 jours** : Mesure l'impact sur la productivité et la qualité. Ne réinvestis pas le temps gagné dans plus de volume, mais dans des tâches stratégiques. Inspire-toi d'[Adobe](/actu/adobe-ia-strategie).
+- **90 jours** : Mesure l'impact sur la productivité et la qualité. Ne réinvestis pas le temps gagné dans plus de volume, mais dans des tâches stratégiques. Inspire-toi d'Adobe.
 
 ### En reconversion ou recherche d'emploi
-- **30 jours** : Cible les métiers où l'IA *augmente* les compétences : [radiologue IA](/metiers/radiologue-ia), [consultant IA](/metiers/consultant-ia), [chef de projet IA](/metiers/chef-de-projet-ia).
+- **30 jours** : Cible les métiers où l'IA *augmente* les compétences : radiologue IA, [consultant IA](/metiers/consultant-ia), [chef de projet IA](/metiers/chef-de-projet-ia).
 - **60 jours** : Forme-toi aux outils spécifiques à ton futur métier. Exemple : marketing → [HubSpot](/outils/hubspot) ; développement → [Copilot](/outils/copilot). Consulte notre [fiche développeur IA](/metiers/developpeur-ia).
 - **90 jours** : Vends tes compétences IA en entretien. Exemple : "Je gagne 30 % de temps sur [tâche X] pour me concentrer sur [tâche Y]." Utilise notre [guide pour négocier ton salaire](/guides/negocier-salaire-competences-ia).
 
@@ -113,4 +113,4 @@ L'IA n'est pas une fin en soi, mais un moyen de recentrer le travail. Beaucoup d
 ## Le verdict Adapte-toi
 L'IA ne supprimera pas le travail, mais le réinventera. Le risque ? Devenir un "superviseur d'IA" sans monter en compétences. La solution : utiliser l'IA pour reprendre le contrôle. Identifie les tâches automatisables, réinvestis le temps dans des compétences stratégiques, et vends cette valeur ajoutée.
 
-Pour aller plus loin : [guide automatisation IA](/guides/automatiser-travail-ia), [fiche métier radiologue IA](/metiers/radiologue-ia), [outils recommandés](/outils/chatgpt). Ne laisse pas l'IA décider à ta place.
+Pour aller plus loin : [guide automatisation IA](/guides/automatiser-travail-ia), fiche métier radiologue IA, [outils recommandés](/outils/chatgpt). Ne laisse pas l'IA décider à ta place.

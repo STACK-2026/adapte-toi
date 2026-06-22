@@ -272,7 +272,7 @@ Ce que ça signifie concrètement :
 
 Un dernier point sur le **AI Act européen** : entré en application progressive depuis 2025, il classe les systèmes IA par niveau de risque. Si tu déploies des outils IA pour des usages RH (recrutement, évaluation), de crédit, ou de santé, tu es potentiellement dans la catégorie "haut risque" avec des obligations de conformité précises. Documente-toi, ou fais appel à un avocat spécialisé.
 
-> Retrouve notre [guide sur la réglementation IA pour freelances](/guides/reglementation-ia-freelance) pour un décryptage complet du AI Act et de ses implications pratiques.
+> Retrouve notre guide sur la réglementation IA pour freelances pour un décryptage complet du AI Act et de ses implications pratiques.
 
 ---
 

@@ -106,7 +106,7 @@ Zapier a plus de 7 000 intégrations contre moins de 2 000 pour Make - c'est un 
 
 **Tu travailles dans une grande entreprise avec un service IT qui impose les outils :** Zapier est peut-être déjà en place. Dans ce cas, apprends Zapier. La logique reste la même.
 
-Pour aller plus loin sur le choix de tes outils IA, consulte notre [guide des outils no-code pour la reconversion](/outils/no-code-reconversion).
+Pour aller plus loin sur le choix de tes outils IA, consulte notre guide des outils no-code pour la reconversion.
 
 ---
 
@@ -191,7 +191,7 @@ Voici un scénario réel que n'importe quel freelance ou professionnel en reconv
 
 Ce scénario prend 1h30 à construire. Il te fait gagner 30 à 45 minutes par jour si tu gères un volume important d'emails clients.
 
-Pour explorer d'autres outils IA qui peuvent compléter Make dans ton quotidien professionnel, consulte notre [guide des meilleurs outils IA pour les freelances](/outils/ia-freelances).
+Pour explorer d'autres outils IA qui peuvent compléter Make dans ton quotidien professionnel, consulte notre guide des meilleurs outils IA pour les freelances.
 
 ![Make.com intégration OpenAI ChatGPT automatisation intelligente assistants IA](IMAGE_3)
 
@@ -271,7 +271,7 @@ La maîtrise de Make.com ne va pas te sauver si ton métier est en train de disp
 - **Freelances** (tous secteurs) : automatiser la gestion administrative pour se concentrer sur leur coeur de métier
 - **Chefs de projet** : automatiser les mises à jour de statut, les notifications d'équipe, les reportings
 
-Consulte notre [guide complet sur les compétences IA pour la reconversion](/guides/competences-ia-reconversion) pour savoir quelles autres compétences combiner avec Make.
+Consulte notre guide complet sur les compétences IA pour la reconversion pour savoir quelles autres compétences combiner avec Make.
 
 ---
 

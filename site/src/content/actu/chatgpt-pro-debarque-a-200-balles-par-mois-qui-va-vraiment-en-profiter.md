@@ -98,4 +98,4 @@ Cette phrase souligne le positionnement élitiste de ChatGPT Pro. L'outil est co
 ## Le verdict Adapte-toi
 ChatGPT Pro est un outil puissant mais cher, réservé aux métiers où la précision est vitale. Pour les autres, les versions gratuites ou low-cost suffisent. Teste-le si ton travail le justifie, sinon optimise les outils existants.
 
-Consulte notre [guide pour automatiser ton travail](/guides/automatiser-travail-ia) ou notre fiche [métier data analyst IA](/metiers/data-analyst-ia). Pour les coûts de l'IA, voir notre [décryptage](/actu/prix-outils-ia).
+Consulte notre [guide pour automatiser ton travail](/guides/automatiser-travail-ia) ou notre fiche [métier data analyst IA](/metiers/data-analyst-ia). Pour les coûts de l'IA, voir notre décryptage.

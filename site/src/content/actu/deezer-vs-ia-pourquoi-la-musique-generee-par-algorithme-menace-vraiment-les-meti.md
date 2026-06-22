@@ -96,7 +96,7 @@ Deezer communique sur la transparence, mais ne révèle pas **combien d'argent**
 3. **Rejoins des collectifs** : Plateformes comme [Bandcamp](https://bandcamp.com/) ou [Patreon](https://www.patreon.com/) permettent de monétiser directement auprès des fans.
 
 ### Ingénieur du son, producteur ou technicien
-1. **Mise sur le "son humain"** : Propose des services de mastering haut de gamme ou travaille avec des artistes anti-IA. Voir [fiche métier ingénieur du son IA](/metiers/ingenieur-du-son-ia).
+1. **Mise sur le "son humain"** : Propose des services de mastering haut de gamme ou travaille avec des artistes anti-IA. Voir fiche métier ingénieur du son IA.
 2. **Forme-toi aux outils hybrides** : [iZotope Neutron](https://www.izotope.com/) ou [LANDR](https://www.landr.com/) automatisent certaines tâches, mais nécessitent une expertise humaine.
 3. **Cible les niches** : Podcast, son pour jeux vidéo ou réalité virtuelle sont moins saturés.
 
@@ -115,4 +115,4 @@ Deezer communique sur la transparence, mais ne révèle pas **combien d'argent**
 ## Le verdict Adapte-toi
 Deezer limite l'impact de l'IA, mais sa stratégie ne sauvera pas les créateurs. Le vrai problème : **l'IA casse les prix** et concentre les revenus entre les mains des plateformes. Pour survivre, **différencie-toi par l'humain**, **diversifie tes revenus** et **forme-toi aux outils hybrides**.
 
-La musique n'est qu'un début. Cinéma, pub, journalisme suivront. Consulte notre [guide métiers menacés](/guides/ia-emploi-chiffres-cles) et la [fiche compositeur IA](/metiers/compositeur-ia) pour t'adapter. L'IA ne tue pas la création, mais **force les créateurs à se réinventer**.
+La musique n'est qu'un début. Cinéma, pub, journalisme suivront. Consulte notre [guide métiers menacés](/guides/ia-emploi-chiffres-cles) et la fiche compositeur IA pour t'adapter. L'IA ne tue pas la création, mais **force les créateurs à se réinventer**.

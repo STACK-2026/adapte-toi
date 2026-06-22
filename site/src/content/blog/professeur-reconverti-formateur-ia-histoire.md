@@ -134,7 +134,7 @@ Un formateur IA senior consacre en moyenne 20 à 30% de son temps à des tâches
 
 ---
 
-> Consulte notre [guide complet sur la reconversion professionnelle avec l'IA](/guides/reconversion-professionnelle-ia) pour comprendre les grandes tendances du marché en 2026.
+> Consulte notre guide complet sur la reconversion professionnelle avec l'IA pour comprendre les grandes tendances du marché en 2026.
 
 ---
 

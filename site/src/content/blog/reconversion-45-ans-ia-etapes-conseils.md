@@ -97,9 +97,9 @@ Marc, 48 ans, ex-directeur commercial dans l'agroalimentaire :
 - Résultat : Embauché comme Chef de projet IA chez Carrefour à 62k€/an
 
 **Ressources pour te lancer** :
-- [Notre guide pour l'évolution du métier de chef de projet digital face à l'IA](/blog/chef-projet-digital-ia-evolution-metier/)
+- Notre guide pour l'évolution du métier de chef de projet digital face à l'IA
 - [Modèle de business plan pour consultant IA freelance](/blog/business-plan-consultant-ia-freelance-modele-gratuit/)
-- [Contrats types pour consultant IA indépendant](/blog/contrats-types-consultant-ia-modeles-gratuits/)
+- Contrats types pour consultant IA indépendant
 
 ### Roadmap 2 : L'ex-expert métier (comptable, juriste, ingénieur) → Consultant IA sectoriel / Auditeur IA
 
@@ -136,8 +136,8 @@ Sophie, 46 ans, ex-comptable en cabinet d'audit :
 
 **Ressources pour te lancer** :
 - [Témoignage de Marie, comptable reconvertie en consultante IA](/blog/comptable-devenu-consultant-ia-temoignage-marie/)
-- [Guide complet de l'auditeur externe face à l'IA](/blog/auditeur-externe-face-ia-audit/)
-- [Evolution du métier de contrôleur de gestion avec l'IA](/blog/controleur-gestion-face-ia-evolution-poste/)
+- Guide complet de l'auditeur externe face à l'IA
+- Evolution du métier de contrôleur de gestion avec l'IA
 
 ### Roadmap 3 : L'ex-créatif (marketing, communication, design) → Prompt Engineer / Spécialiste IA générative
 
@@ -178,7 +178,7 @@ Thomas, 47 ans, ex-directeur artistique en agence :
 **Ressources pour te lancer** :
 - [Comparatif Canva vs Midjourney pour les créatifs](/blog/canva-vs-midjourney-quel-outil-ia-creatifs/)
 - [Guide pratique de Claude AI pour les marketeurs](/blog/claude-ai-marketeurs-guide-pratique-complet/)
-- [Stratégies d'adaptation pour les chargés de communication face à l'IA](/blog/charge-communication-vs-ia-strategies-adaptation/)
+- Stratégies d'adaptation pour les chargés de communication face à l'IA
 
 ## La vérité sur les salaires : ce que tu vas vraiment gagner (et peut-être perdre au début)
 
@@ -241,7 +241,7 @@ Tu es convaincu, mais tu ne sais pas **par où commencer**. Voici un plan d'acti
 
 **Outils** :
 - [Bilan de compétences IA (Adapte-toi)](/blog/bilan-competences-ia-guide-se-reconvertir/) → Gratuit, 15 min
-- [Bilan professionnel IA pour évaluer tes chances](/blog/bilan-professionnel-ia-evaluer-chances-reussir/) → Analyse détaillée
+- Bilan professionnel IA pour évaluer tes chances → Analyse détaillée
 - Autoévaluation de tes compétences actuelles vs celles demandées en IA
 
 **Questions clés à te poser** :
@@ -267,7 +267,7 @@ Tu es convaincu, mais tu ne sais pas **par où commencer**. Voici un plan d'acti
 **Où trouver des formations ?**
 - [Comparatif des meilleurs bootcamps IA en France](/blog/bootcamp-ia-comparatif-meilleurs-france/)
 - [Top 10 des certifications IA reconnues](/blog/certification-ia-top-10-diplomes-reconnus/)
-- [Certification Google IA : guide complet pour réussir](/blog/certification-google-ia-guide-complet-reussir/)
+- Certification Google IA : guide complet pour réussir
 
 ### Étape 3 : Finance ta reconversion (sans tout quitter)
 
@@ -297,7 +297,7 @@ Caroline, 46 ans, ex-responsable marketing :
 
 **Ressources pour financer ta formation** :
 - [Comment financer ta formation IA avec le CPF](/blog/cpf-formation-ia-comment-financer-reconversion/)
-- [Assurance responsabilité pour consultant IA : guide complet](/blog/assurance-responsabilite-consultant-ia-guide-complet/)
+- Assurance responsabilité pour consultant IA : guide complet
 
 ### Étape 4 : Adapte ton CV et ton LinkedIn (1 semaine)
 
@@ -365,7 +365,7 @@ Ex-[ton ancien métier] avec [X] ans d'expérience, reconverti(e) dans l'IA pour
 **Ressources pour trouver un job** :
 - [Guide pour devenir consultant IA freelance en 2026](/blog/devenir-consultant-ia-freelance-guide-complet-2026/)
 - [Emploi IA en France 2026 : chiffres clés et tendances](/blog/emploi-ia-france-2026-chiffres-cles-tendances/)
-- [Creer une agence de conseil IA : guide étape par étape](/blog/creer-agence-conseil-ia-guide-etape/)
+- Creer une agence de conseil IA : guide étape par étape
 
 ## IA et bullshit : séparer le fantasme de la réalité du marché du travail en France
 
@@ -380,7 +380,7 @@ L'IA est **la technologie la plus surmédiatisée de l'histoire**. Résultat : *
 
 > "L'IA ne supprime pas les emplois, elle supprime les tâches répétitives. Le vrai défi, c'est de se former aux tâches à haute valeur ajoutée." - Rapport France Travail (2026)
 
-Adapte-toi a analysé cette transformation dans [l'étude OCDE sur l'IA et l'emploi](/blog/etude-ocde-ia-va-elle-detruire-emploi/).
+Adapte-toi a analysé cette transformation dans l'étude OCDE sur l'IA et l'emploi.
 
 ### 2. "Il faut savoir coder pour travailler dans l'IA" → Faux
 
@@ -436,7 +436,7 @@ Parce que **les entreprises ont besoin d'humains pour** :
 
 **Ton rôle** : **Devenir le "chef d'orchestre" de l'IA dans ton entreprise**. Pas besoin de savoir coder, il faut **savoir poser les bonnes questions**.
 
-Les [trends Deloitte 2026 sur l'IA et la transformation RH](/blog/deloitte-tech-trends-2026-ia-transformation-rh/) confirment ce besoin d'accompagnement humain.
+Les trends Deloitte 2026 sur l'IA et la transformation RH confirment ce besoin d'accompagnement humain.
 
 ## Questions fréquentes
 
@@ -453,7 +453,7 @@ Les [trends Deloitte 2026 sur l'IA et la transformation RH](/blog/deloitte-tech-
 - **Auditeur IA** : Vérifier la conformité des algorithmes (salaire : 55-85k€/an)
 - **Spécialiste IA générative** : Créer des contenus avec l'IA (salaire : 50-75k€/an)
 
-La [matrice BCG de l'IA et l'avenir des métiers](/blog/bcg-matrix-ia-avenir-metiers-selon-boston/) détaille ces opportunités par secteur.
+La matrice BCG de l'IA et l'avenir des métiers détaille ces opportunités par secteur.
 
 ### Combien de temps faut-il pour se reconvertir dans l'IA ?
 
@@ -466,7 +466,7 @@ La [matrice BCG de l'IA et l'avenir des métiers](/blog/bcg-matrix-ia-avenir-met
 - Pierre, 47 ans, ex-directeur commercial : 4 mois de formation → embauché comme Chef de projet IA à 62k€/an
 - Claire, 44 ans, ex-juriste : 6 mois de formation → embauchée comme Auditeur IA à 70k€/an
 
-Des témoignages comme [l'artisan devenu entrepreneur IA](/blog/artisan-vers-entrepreneur-ia-temoignage-inspirant/) montrent que c'est possible dans tous les secteurs.
+Des témoignages comme l'artisan devenu entrepreneur IA montrent que c'est possible dans tous les secteurs.
 
 ### Comment financer ma reconversion dans l'IA ?
 
@@ -501,7 +501,7 @@ Des secteurs comme [l'emploi IA en Belgique](/blog/emploi-ia-belgique-marche-opp
 
 ## Sources
 
-1. Anthropic. "Impact de l'IA générative sur l'emploi en Europe" (mars 2026). [Lien vers l'étude](/blog/etude-anthropic-claude-vs-humains-taches-cognitives/).
+1. Anthropic. "Impact de l'IA générative sur l'emploi en Europe" (mars 2026). Lien vers l'étude.
 2. OCDE. "L'avenir du travail : compétences et résilience à l'ère de l'IA" (2026). **Site officiel**.
 3. McKinsey & Company. "The Human Edge in the Age of AI" (2026). **Étude complète**.
 4. France Travail. "Baromètre des métiers en tension 2026" (2026). [Données officielles](https://www.francetravail.fr/).
@@ -510,7 +510,7 @@ Des secteurs comme [l'emploi IA en Belgique](/blog/emploi-ia-belgique-marche-opp
 7. PwC. "AI Jobs Barometer 2026" (2026). [Rapport PDF](https://www.pwc.com/).
 8. Cognizant. "Jobs of Tomorrow: The Triple Revolution" (février 2026). [Lien vers l'étude](/blog/etude-cognizant-jobs-demain-ia/).
 9. Laurent Alexandre & Olivier Babeau. "Ne faites plus d'études" (octobre 2025, Buchet-Chastel). [Fiche livre](https://www.babelio.com/).
-10. Deloitte. "Tech Trends 2026 : IA et transformation RH" (2026). [Étude Deloitte](/blog/deloitte-tech-trends-2026-ia-transformation-rh/).
+10. Deloitte. "Tech Trends 2026 : IA et transformation RH" (2026). Étude Deloitte.
 
 ## Conclusion : ton âge n'est pas un frein, c'est ton superpouvoir
 
@@ -523,7 +523,7 @@ Tu as 45 ans, 20 ans d'expérience, et tu te demandes si l'IA est une opportunit
 4. **Les formations sont accessibles** : avec le CPF, le FNE, et les OPCO, **tu peux te former sans tout sacrifier**
 5. **L'IA amplifie ton expertise** : au lieu de te remplacer, elle **multiplie ta valeur sur le marché**
 
-La reconversion 45 ans IA n'est pas un pari risqué. C'est une **évolution naturelle** de ta carrière. Les entreprises comme [les cadres bancaires reconvertis en experts blockchain](/blog/cadre-bancaire-vers-expert-blockchain-ia-parcours/) ou les [commerciaux devenus sales ops IA](/blog/commercial-reconverti-sales-ops-ia-retour-experience/) prouvent que c'est possible.
+La reconversion 45 ans IA n'est pas un pari risqué. C'est une **évolution naturelle** de ta carrière. Les entreprises comme les cadres bancaires reconvertis en experts blockchain ou les [commerciaux devenus sales ops IA](/blog/commercial-reconverti-sales-ops-ia-retour-experience/) prouvent que c'est possible.
 
 **Prochaine étape** :
 1. **Fais ton bilan** avec [notre outil gratuit](/blog/bilan-competences-ia-guide-se-reconvertir/)

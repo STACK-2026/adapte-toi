@@ -94,7 +94,7 @@ Ce profil est plus bankable qu'un jeune diplômé en IA sans expérience terrain
 
 **La règle des 6 mois** : avec une formation sérieuse (200-300 heures de pratique réelle, pas de MOOC passif) et 2 à 3 missions de portfolio, atteindre 500€/jour est un objectif conservateur pour un reconverti avec 5 ans d'expérience sectorielle.
 
-Consulte notre [guide complet sur la reconversion professionnelle vers les métiers IA](/guides/reconversion-metiers-ia) pour un plan d'action détaillé semaine par semaine.
+Consulte notre guide complet sur la reconversion professionnelle vers les métiers IA pour un plan d'action détaillé semaine par semaine.
 
 ---
 
@@ -252,7 +252,7 @@ Malt est la plateforme freelance la plus utilisée en France. Debut 2026, les re
 
 **4. Tes avis clients** : les 3 premiers avis Malt sont déterminants. Fais 2-3 petites missions à prix réduit uniquement pour obtenir ces avis, puis monte ton TJM. Un profil avec 5 avis 5 étoiles peut facturer 15-20% de plus qu'un profil sans avis au même niveau technique.
 
-Consulte notre [guide pour créer un profil freelance IA qui convertit](/guides/profil-freelance-ia-malt) pour les formulations exactes qui fonctionnent.
+Consulte notre guide pour créer un profil freelance IA qui convertit pour les formulations exactes qui fonctionnent.
 
 ---
 
