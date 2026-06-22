@@ -106,4 +106,4 @@ L'IA militaire redéfinit le marché du travail. Les compétences acquises sous 
 
 Pour en profiter, identifie les compétences transférables et forme-toi rapidement. Les armées et entreprises de défense recrutent des profils opérationnels.
 
-Lis notre [guide sur la reconversion dans l'IA](/guides/reconversion-ia-guide-complet) et consulte notre fiche [métier data analyst IA](/metiers/data-analyst-ia). Pour les budgets militaires, vois notre [décryptage sur l'IA et l'emploi en Europe](/actu/ia-europe-reglementation). La guerre algorithmique est lancée, à toi de choisir ton camp.
+Lis notre [guide sur la reconversion dans l'IA](/guides/reconversion-ia-guide-complet) et consulte notre fiche [métier data analyst IA](/metiers/data-analyst-ia). Pour les budgets militaires, vois notre [décryptage sur l'IA et l'emploi en Europe](/guides/ia-europe-reglementation/). La guerre algorithmique est lancée, à toi de choisir ton camp.

@@ -82,7 +82,7 @@ Cette phrase souligne le positionnement élitiste de ChatGPT Pro. L'outil est co
 
 ### Avocat, juriste ou consultant en droit
 - **Compare** o1 pro mode avec [ChatGPT 4o](/outils/chatgpt) sur des cas de jurisprudence. Si la précision est supérieure, envisage un abonnement pour les dossiers complexes.
-- **Veille** : Abonne-toi à notre [newsletter](/actu/newsletter) pour les mises à jour.
+- **Veille** : Abonne-toi à notre [newsletter](/newsletter/) pour les mises à jour.
 - **Automatisation** : Connecte ChatGPT à tes outils juridiques (Doctrine, LexisNexis) via [Zapier](/outils/zapier) ou [Make](/outils/make).
 
 ### Freelance ou petite boîte

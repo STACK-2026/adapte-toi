@@ -58,7 +58,7 @@ Les députés macronistes ont invoqué "l'insécurité juridique" pour les start
 Le règlement européen sur l'IA (2024) impose des obligations de transparence, mais seulement pour les "systèmes à haut risque". Les modèles génératifs comme ChatGPT ou Midjourney en sont exemptés. OpenAI refuse de divulguer les œuvres utilisées pour l'entraînement. La loi Darcos aurait créé une présomption d'exploitation. Sans elle, les géants tech dictent les règles.
 
 **3. Le gouvernement gagne du temps, les artistes n'en ont plus**
-Catherine Pégard parle de "dialogue". Mais les géants tech peuvent traîner les procédures, tandis que les artistes, souvent précaires, ont besoin d'argent maintenant. En 2025, 42% des graphistes freelances ont vu leurs revenus baisser à cause de l'IA ([INSEE](/actu/ia-emploi-chiffres-cles)).
+Catherine Pégard parle de "dialogue". Mais les géants tech peuvent traîner les procédures, tandis que les artistes, souvent précaires, ont besoin d'argent maintenant. En 2025, 42% des graphistes freelances ont vu leurs revenus baisser à cause de l'IA ([INSEE](/guides/ia-emploi-chiffres-cles/)).
 
 **4. La France rate une occasion de montrer l'exemple**
 La loi Darcos était une première en Europe. Au lieu de cela, la France envoie un signal : "L'innovation prime sur les droits des créateurs." Aux États-Unis, des procès comme celui des artistes contre Stability AI avancent. En Californie, une loi similaire est en discussion.
@@ -97,4 +97,4 @@ La loi Darcos était une première en Europe. Au lieu de cela, la France envoie 
 - **90 jours** : Lance-toi dans une formation courte (OpenClassrooms, Le Wagon).
 
 ## Le verdict Adapte-toi
-L'échec de la loi Darcos confirme que les métiers créatifs vont se précariser sans cadre légal. Le gouvernement a choisi son camp, mais tu peux agir. Pour aller plus loin : [guide de reconversion](/guides/reconversion-ia-guide-complet), [métiers résistants à l'IA](/metiers/graphiste-ia), [décryptage de l'AI Act](/actu/ia-europe-reglementation).
+L'échec de la loi Darcos confirme que les métiers créatifs vont se précariser sans cadre légal. Le gouvernement a choisi son camp, mais tu peux agir. Pour aller plus loin : [guide de reconversion](/guides/reconversion-ia-guide-complet), [métiers résistants à l'IA](/metiers/graphiste-ia), [décryptage de l'AI Act](/guides/ia-europe-reglementation/).
