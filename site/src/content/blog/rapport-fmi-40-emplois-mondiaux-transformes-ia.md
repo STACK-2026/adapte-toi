@@ -129,7 +129,7 @@ Le rapport du FMI ne descend pas au niveau des professions individuelles, mais d
 - Libération, article sur l'impact de l'IA sur les emplois selon le FMI, [liberation.fr](https://www.liberation.fr/economie/lia-touchera-60-des-emplois-dans-les-economies-avancees-predit-le-fonds-monetaire-international-20240115_RZRMHE6JQNHCRKVAGUCFGD2KUM/)
 - Le Monde Informatique, reprise journalistique du rapport FMI, [lemondeinformatique.fr](https://www.lemondeinformatique.fr/actualites/lire-l-ia-impactera-40-des-emplois-dans-le-monde-selon-le-fmi-92909.html)
 - Vie publique, synthèse institutionnelle sur les conséquences de l'IA en entreprise, [vie-publique.fr](https://www.vie-publique.fr/eclairage/293656-intelligence-artificielle-quelles-consequences-dans-les-entreprises)
-- Conseil économique, social et environnemental, étude sur l'IA, le travail et l'emploi, [lecese.fr](https://www.lecese.fr/travaux-publies/intelligence-artificielle-travail-et-emploi)
+- Conseil économique, social et environnemental, étude sur l'IA, le travail et l'emploi, [lecese.fr](https://www.lecese.fr/travaux-publies/analyse-de-controverses-intelligence-artificielle-emploi-et-travail)
 - Direction générale du Trésor, Trésor-Éco numéro 341, avril 2024, [tresor.economie.gouv.fr](https://www.tresor.economie.gouv.fr/Articles/2024/04/02/tresor-eco-n-341-les-enjeux-economiques-de-l-intelligence-artificielle)
 - France Travail, parcours formation à l'intelligence artificielle, [francetravail.fr](https://www.francetravail.fr)
 - Caisse des Dépôts, portail officiel du compte personnel de formation, [moncompteformation.gouv.fr](https://www.moncompteformation.gouv.fr)
