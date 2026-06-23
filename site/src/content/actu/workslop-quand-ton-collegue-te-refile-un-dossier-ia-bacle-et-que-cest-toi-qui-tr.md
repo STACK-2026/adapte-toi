@@ -1,6 +1,6 @@
 ---
 title: "Workslop : quand ton collègue te refile un dossier IA bâclé et que c'est TOI qui trinques"
-description: "Le 'workslop' gangrène les open-spaces : des dossiers générés par IA, beaux mais vides, qui te font perdre 2h par semaine. On décrypte ce fléau qui coûte 9M$ par an aux grosses boîtes."
+description: "Le 'workslop' gangrène les open-spaces : des dossiers générés par IA, beaux mais vides, qui te font perdre 2h par semaine. On décrypte ce fléau qui coûte 9M$ par an aux grosses"
 date: 2026-06-22
 category: "menace"
 impactLevel: 4

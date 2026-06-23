@@ -63,7 +63,7 @@ L'IA s'étend à d'autres services : anatomie pathologique (moins de lames à an
 - **16 000** : Collaborateurs au CHU de Lille, dont **3 500 médecins** (*Le Figaro*)
 - **6 heures** : Délai maximal pour une thrombectomie avant l'IA (Pr Kuchcinski, *Le Figaro*)
 - **10 minutes** : Temps moyen pour évaluer un AVC avec l'IA au CHU de Lille, contre **1h30** auparavant
-- **15%** : Part des hôpitaux français utilisant l'IA en 2025 ([DREES](https://drees.solidarites-sante.gouv.fr/publications/etudes-et-resultats/l-intelligence-artificielle-dans-les-hopitaux-francais-etat-des-lieux-2025))
+- **15%** : Part des hôpitaux français utilisant l'IA en 2025 (DREES)
 - **+20 à 30%** : Surprime salariale pour les radiologues et infirmiers maîtrisant l'IA (Apec 2025)
 - **80%** : Part des hôpitaux français incapables d'investir dans l'IA ([Fédération Hospitalière de France](https://www.fhf.fr))
 

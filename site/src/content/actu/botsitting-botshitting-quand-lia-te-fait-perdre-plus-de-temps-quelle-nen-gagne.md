@@ -1,6 +1,6 @@
 ---
 title: "Botsitting IA : le temps perdu, coût caché des pros 2026"
-description: "75% des pros du numérique gagnent 11h/semaine avec l'IA, mais passent 6,4h à la surveiller. Le vrai coût caché de l'automatisation ? Du temps perdu, de la charge mentale, et des collègues qui livrent du bullshit algorithmique."
+description: "75% des pros du numérique gagnent 11h/semaine avec l'IA, mais passent 6,4h à la surveiller. Le vrai coût caché de l'automatisation ? Du temps perdu, de la charge mentale, et des"
 date: 2026-06-18
 category: "etude"
 impactLevel: 4

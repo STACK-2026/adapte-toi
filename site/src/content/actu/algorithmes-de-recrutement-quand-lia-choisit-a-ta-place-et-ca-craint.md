@@ -56,7 +56,7 @@ Trois problèmes majeurs :
 ## Ce qu'on en dit vraiment
 
 **1. Les algorithmes ne sont pas neutres.**
-Ils reproduisent les inégalités existantes. Une étude de l'[Université de Boston (2023)](https://www.bu.edu/articles/2023/ai-hiring-tools-amplify-gender-bias/) montre que certains algorithmes surévaluent les candidats masculins de 15%, même avec des CV identiques. Pourtant, ces outils sont vendus comme "objectifs".
+Ils reproduisent les inégalités existantes. Une étude de l'Université de Boston (2023) montre que certains algorithmes surévaluent les candidats masculins de 15%, même avec des CV identiques. Pourtant, ces outils sont vendus comme "objectifs".
 
 **2. Le shadow using est un fléau invisible.**
 Des recruteurs utilisent ChatGPT pour noter les CV sans transparence. Grégoire Loiseau, professeur de droit, souligne que les risques juridiques sont faibles et que les syndicats ne s'emparent pas du sujet. Résultat : des candidats sont écartés sur des critères opaques, sans recours.

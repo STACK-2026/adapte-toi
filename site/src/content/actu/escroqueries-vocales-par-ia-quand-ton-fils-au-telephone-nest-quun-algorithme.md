@@ -80,7 +80,7 @@ Cette phrase capture l'essence du problème : **l'IA exploite notre cerveau émo
 **Tu es senior ou proche d'un senior**
 - **À 7 jours** : Installe un mot de passe familial. Choisis avec tes proches un code secret à donner en cas d'urgence réelle. Exemple : "Quel était le nom de notre premier chien ?". [Notre guide pour sécuriser tes proches](/guides/automatiser-travail-ia) détaille la méthode.
 - **À 30 jours** : Active la double authentification sur tous tes comptes bancaires. Utilise une appli comme [Google Authenticator](https://authenticator.google.com/) plutôt que les SMS, plus vulnérables.
-- **À 90 jours** : Inscris-toi à un atelier de prévention. Cybermalveillance.gouv.fr propose des sessions gratuites en présentiel. Trouve la plus proche [ici](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/ateliers-prevention).
+- **À 90 jours** : Inscris-toi à un atelier de prévention. Cybermalveillance.gouv.fr propose des sessions gratuites en présentiel. Trouve la plus proche ici.
 
 **Tu es professionnel de la banque ou de l'assurance**
 - **À 7 jours** : Forme tes équipes aux signes d'une arnaque vocale. Les indices : demande d'argent en urgence, refus de parler à un tiers, voix "trop parfaite". [Notre fiche métier chargé de clientèle IA](/metiers/charge-clientele-ia) inclut un module sur la détection des fraudes.

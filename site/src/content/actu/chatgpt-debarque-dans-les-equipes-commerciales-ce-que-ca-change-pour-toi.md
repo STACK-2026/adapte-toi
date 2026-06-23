@@ -82,7 +82,7 @@ Les concurrents utilisant ChatGPT répondent plus vite aux RFP, envoient des ema
 - **2x** : vitesse de réponse aux RFP.
 - **15-20%** : amélioration des taux de conversion.
 - **40%** : tâches sales automatisables d'ici 2027 ([McKinsey 2024](https://www.mckinsey.com/capabilities/operations/our-insights/the-future-of-sales-is-automation)).
-- **70%** : commerciaux estimant que l'IA augmentera leur productivité ([Salesforce 2025](https://www.salesforce.com/news/stories/ai-in-sales/)).
+- **70%** : commerciaux estimant que l'IA augmentera leur productivité (Salesforce 2025).
 
 ## La citation qui résume tout
 > "ChatGPT réduit le temps passé sur le travail de page blanche et libère plus de temps pour les parties de la vente qui nécessitent jugement, relations et élan."

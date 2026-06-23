@@ -1,6 +1,6 @@
 ---
 title: "IA générative : 150 personnalités appellent au boycott"
-description: "Une tribune choc dans Le Monde appelle à boycotter l'IA générative, accusée d'affaiblir nos capacités cognitives et de créer des dépendances. Décryptage d'un appel qui pourrait bien changer la donne pour ton boulot."
+description: "Une tribune choc dans Le Monde appelle à boycotter l'IA générative, accusée d'affaiblir nos capacités cognitives et de créer des dépendances. Décryptage d'un appel qui pourrait"
 date: 2026-06-18
 category: "voix"
 impactLevel: 4

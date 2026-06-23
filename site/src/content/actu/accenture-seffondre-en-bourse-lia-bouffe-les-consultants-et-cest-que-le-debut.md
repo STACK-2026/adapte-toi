@@ -1,6 +1,6 @@
 ---
 title: "Accenture chute en Bourse : l'IA dévore les consultants"
-description: "Les actions d'Accenture plongent à leur plus bas depuis 2017 à cause de l'IA. Le géant du conseil paie son retard technologique et son modèle basé sur des armées de juniors. Décryptage sans filtre de ce qui t'attend si tu bosses dans le secteur."
+description: "Les actions d'Accenture plongent à leur plus bas depuis 2017 à cause de l'IA. Le géant du conseil paie son retard technologique et son modèle basé sur des armées de juniors"
 date: 2026-06-19
 category: "menace"
 impactLevel: 4
@@ -86,7 +86,7 @@ Cette phrase résume l'effondrement du modèle. Accenture a cru que ses clients 
 - **Prépare ta reconversion**. Si ton rôle est automatisable (analyse de données, reporting), explore des métiers comme [data analyst IA](/metiers/data-analyst-ia) ou [chef de projet IA](/metiers/chef-de-projet-ia). Notre [guide reconversion](/guides/reconversion-ia-guide-complet) propose un plan en 90 jours.
 
 **Tu es consultant·e senior (5+ ans d'expérience) ou manager chez Accenture**
-- **Monte en compétences sur l'IA** pour tes clients. Sans expertise en déploiement de LLMs ou audit algorithmique, tu deviens obsolète. Certifications recommandées : [Microsoft Azure AI Engineer](https://learn.microsoft.com/fr-fr/certifications/azure-ai-engineer/) ou [Google Cloud AI](https://cloud.google.com/certification/ai-engineer).
+- **Monte en compétences sur l'IA** pour tes clients. Sans expertise en déploiement de LLMs ou audit algorithmique, tu deviens obsolète. Certifications recommandées : [Microsoft Azure AI Engineer](https://learn.microsoft.com/fr-fr/certifications/azure-ai-engineer/) ou Google Cloud AI.
 - **Vends de l'IA, pas du temps**. Propose des missions comme "déploiement de chatbots" ou "optimisation des coûts via l'automatisation". Voir notre fiche [consultant IA](/metiers/consultant-ia).
 - **Anticipe les licenciements**. Même les seniors ne sont pas à l'abri. Les profils hybrides (consultant + développeur IA) sont très recherchés.
 

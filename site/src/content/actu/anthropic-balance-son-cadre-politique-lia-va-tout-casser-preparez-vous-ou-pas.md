@@ -49,7 +49,7 @@ draft: false
 ## Le fait
 Anthropic, valorisé à 1000 milliards, a publié un manifeste de 19 pages intitulé *« Cadre politique et économique pour préparer la société face à l'IA »*. Le document alerte sur des risques *« catastrophiques »* et propose des mesures : agence fédérale dédiée, taxes sur les modèles énergivores, programmes de reconversion. Ce cadre sort en même temps que **Mythos**, leur modèle jugé trop puissant pour une diffusion large.
 
-Le manifeste, disponible [en ligne](https://www.anthropic.com/policy-framework-2026), décrit un scénario où l'IA rendrait *« obsolètes des pans entiers de l'économie »* d'ici 2030. Anthropic, qui développe aussi des modèles comme **Claude 3.5**, est accusé de jouer les pompiers pyromanes : ils alertent sur les dangers tout en commercialisant des IA toujours plus performantes.
+Le manifeste, disponible en ligne, décrit un scénario où l'IA rendrait *« obsolètes des pans entiers de l'économie »* d'ici 2030. Anthropic, qui développe aussi des modèles comme **Claude 3.5**, est accusé de jouer les pompiers pyromanes : ils alertent sur les dangers tout en commercialisant des IA toujours plus performantes.
 
 ## Ce qu'on en dit vraiment
 
@@ -67,8 +67,8 @@ Anthropic propose une *« Agence fédérale de l'IA »* composée d'experts du s
 
 ## Les chiffres qui comptent
 - **1000 milliards** : valorisation d'Anthropic, supérieure au PIB de la Belgique en 2026. ([Le Figaro](https://www.lefigaro.fr/secteur/high-tech/anthropic-exhorte-washington-a-appliquer-son-nouveau-cadre-politique-face-aux-risques-catastrophiques-de-l-ia-20260611))
-- **19 pages** : longueur du manifeste, court pour un document qui pourrait redéfinir l'économie. ([Anthropic](https://www.anthropic.com/policy-framework-2026))
-- **2030** : année où l'IA pourrait rendre *« obsolètes des pans entiers de l'économie »*. ([Anthropic](https://www.anthropic.com/policy-framework-2026))
+- **19 pages** : longueur du manifeste, court pour un document qui pourrait redéfinir l'économie. (Anthropic)
+- **2030** : année où l'IA pourrait rendre *« obsolètes des pans entiers de l'économie »*. (Anthropic)
 - **30%** : part des emplois américains *« hautement exposés »* à l'automatisation d'ici 2030. ([McKinsey, 2023](https://www.mckinsey.com/featured-insights/future-of-work/jobs-lost-jobs-gained-what-the-future-of-work-will-mean-for-jobs-skills-and-wages))
 - **0** : nombre de pays avec un plan de reconversion massive pour les métiers menacés. (OCDE, 2025)
 

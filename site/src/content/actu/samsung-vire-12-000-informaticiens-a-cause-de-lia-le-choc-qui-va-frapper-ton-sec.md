@@ -1,6 +1,6 @@
 ---
 title: "Samsung : l'IA licencie 12 000 IT. Ton emploi en 2026 ?"
-description: "Samsung supprime 12 000 postes IT en 18 mois grâce à l'IA. Décryptage des métiers menacés, des secteurs épargnés, et des actions concrètes pour toi avant que ton job ne soit automatisé."
+description: "Samsung supprime 12 000 postes IT en 18 mois grâce à l'IA. Décryptage des métiers menacés, des secteurs épargnés, et des actions concrètes pour toi avant que ton job ne soit"
 date: 2026-06-20
 category: "menace"
 impactLevel: 5
@@ -93,7 +93,7 @@ Cette déclaration montre que l'IA remplace des métiers entiers. Samsung, géan
 
 **Action 2 : Monte en compétences**
 - Forme-toi à l'architecture microservices, Docker, Kubernetes et à la cybersécurité.
-- **Formation gratuite** : [MOOC "Architecture Logicielle"](https://www.fun-mooc.fr/fr/cours/architecture-logicielle/) (10h)
+- **Formation gratuite** : MOOC "Architecture Logicielle" (10h)
 - **Certification** : [Certified Kubernetes Administrator (CKA)](https://www.cncf.io/certification/cka/) (300€, éligible CPF)
 
 **Action 3 : Deviens expert en intégration IA**

@@ -71,7 +71,7 @@ Anthropic et Amazon investissent dans une infrastructure conçue pour durer 10 a
 - **13 milliards** : investissement total d'Amazon dans Anthropic depuis 2023 ([Siècle Digital](https://siecledigital.fr/2026/04/22/amazon-mise-encore-sur-anthropic-avec-5-milliards-aws-rafle-un-contrat-a-100-milliards/)).
 - **100 milliards** : montant du contrat cloud AWS-Anthropic sur 10 ans.
 - **5 gigawatts** : puissance de calcul promise par AWS.
-- **30 milliards** : chiffre d'affaires d'Anthropic en 2026 ([Bloomberg](https://www.bloomberg.com/news/articles/2026-04-21/anthropic-revenue-hits-30-billion-as-ai-boom-accelerates)).
+- **30 milliards** : chiffre d'affaires d'Anthropic en 2026 (Bloomberg).
 - **800 milliards** : valorisation estimée d'Anthropic.
 - **20 milliards** : investissement supplémentaire prévu par Amazon.
 

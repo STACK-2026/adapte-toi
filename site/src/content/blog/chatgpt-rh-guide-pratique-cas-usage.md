@@ -250,6 +250,6 @@ Explore nos [guides pratiques sur les outils IA](/guides/outils-ia-gratuits) pou
 ## Articles similaires
 
 - [Reconversion professionnelle IA : Guide complet 2026](https://adapte-toi.com/blog/reconversion-professionnelle-ia-guide-complet-2026)
-- [Métiers menacés par l'IA : Top 15 des professions à risque](https://adapte-toi.com/blog/métiers-menaces-ia-top-15-professions-risque)
+- Métiers menacés par l'IA : Top 15 des professions à risque
 - [Formation IA gratuite : 10 cours en ligne pour débuter](https://adapte-toi.com/blog/formation-ia-gratuite-10-cours-ligne-debuter)
 

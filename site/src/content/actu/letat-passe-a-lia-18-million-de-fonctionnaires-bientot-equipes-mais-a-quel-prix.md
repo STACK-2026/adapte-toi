@@ -1,6 +1,6 @@
 ---
 title: "IA Fonctionnaires : 1,8M équipés, quels enjeux ?"
-description: "La France généralise l'IA dans l'administration avec un assistant souverain pour 1,8M d'agents. Budget explosif, souveraineté en question, et formation en retard : on décrypte les annonces de Lecornu."
+description: "La France généralise l'IA dans l'administration avec un assistant souverain pour 1,8M d'agents. Budget explosif, souveraineté en question, et formation en retard : on décrypte les"
 date: 2026-06-20
 category: "politique"
 impactLevel: 4

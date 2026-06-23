@@ -145,7 +145,7 @@ France Travail répète que non et avance un argument concret : le temps gagné 
 
 - [Silicon.fr, "Comment France Travail veut passer à l'échelle supérieure sur l'IA", 12 juin 2026](https://www.silicon.fr/data-ia-1372/comment-france-travail-veut-passer-a-lechelle-superieure-sur-lia-227649)
 - [AEF Info, "France Travail annonce la généralisation prochaine de plusieurs outils d'IA actuellement en test", 12 juin 2026](https://www.aefinfo.fr/depeche/752234-france-travail-annonce-la-generalisation-prochaine-de-plusieurs-outils-dia-actuellement-en-test)
-- [francetravail.org, "L'IA avec NOUS à Lille : France Travail au coeur du Sommet européen de l'IA", 11 juin 2026](https://www.francetravail.org/accueil/actualites/2026/l-ia-avec-nous-a-lille-france-travail-au-coeur-du-sommet-europeen-de-l-ia.html)
+- francetravail.org, "L'IA avec NOUS à Lille : France Travail au coeur du Sommet européen de l'IA", 11 juin 2026
 - [L'Usine Digitale, "France Travail veut se saisir de l'opportunité que représente l'IA à l'aide d'assistants dédiés", 12 juin 2026](https://www.usine-digitale.fr/article/france-travail-veut-se-saisir-de-l-opportunite-que-represente-l-ia-a-coups-d-assistants-ia.N2233277)
 - [La Revue du Digital, "France Travail fait appel à Mistral pour des assistants IA", 12 juin 2026](https://www.larevuedudigital.com/france-travail-fait-appel-a-mistral-pour-des-assistants-ia/)
 - [Région Hauts-de-France, "Communiqué : la France réunit à Lille le sommet européen de l'IA au coeur du réel", 14 mai 2026](https://www.hautsdefrance.fr/communique-de-presse-la-france-reunit-a-lille-le-sommet-europeen-de-lia-au-coeur-du-reel/)

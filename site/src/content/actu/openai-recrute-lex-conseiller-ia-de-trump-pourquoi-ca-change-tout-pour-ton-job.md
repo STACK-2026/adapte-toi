@@ -1,6 +1,6 @@
 ---
 title: "OpenAI recrute ex-conseiller IA Trump : impact emploi"
-description: "OpenAI embauche Dean Ball, ex-conseiller IA de Trump, pour piloter sa stratégie sur les risques et l'emploi. Un virage politique qui va impacter ta carrière, tes compétences et les règles du marché du travail."
+description: "OpenAI embauche Dean Ball, ex-conseiller IA de Trump, pour piloter sa stratégie sur les risques et l'emploi. Un virage politique qui va impacter ta carrière, tes compétences et"
 date: 2026-06-22
 category: "voix"
 impactLevel: 4

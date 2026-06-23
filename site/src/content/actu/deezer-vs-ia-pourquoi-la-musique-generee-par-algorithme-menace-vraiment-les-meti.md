@@ -76,7 +76,7 @@ Deezer communique sur la transparence, mais ne révèle pas **combien d'argent**
 - **97%** : Auditeurs incapables de distinguer musique humaine et IA (étude Deezer).
 - **80%** : Auditeurs favorables à un étiquetage clair (ibid.).
 - **50-100€** : Perte mensuelle pour un artiste perdant 10 000 streams (estimation Adapte-toi).
-- **30%** : Baisse des revenus des studios indépendants en France depuis 2024 ([MIDiA Research 2026](https://www.midiaresearch.com/reports/the-state-of-ai-in-music-2026)).
+- **30%** : Baisse des revenus des studios indépendants en France depuis 2024 (MIDiA Research 2026).
 
 ---
 

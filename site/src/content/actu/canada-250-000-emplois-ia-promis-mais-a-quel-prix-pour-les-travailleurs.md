@@ -67,7 +67,7 @@ Carney a choisi un hôpital pour son annonce, promettant des soins "plus rapides
 
 ## Les chiffres qui comptent
 - **250 000** : emplois créés d'ici 2031 grâce à l'IA (stratégie *L'IA pour tous*).
-- **810 000** : emplois menacés au Québec seul (étude de l'Institut du Québec, 2025) [source](https://ici.radio-canada.ca/nouvelle/2259198/emplois-quebec-menaces-ia).
+- **810 000** : emplois menacés au Québec seul (étude de l'Institut du Québec, 2025) source.
 - **12%** : proportion d'entreprises canadiennes ayant adopté l'IA en 2026 (objectif : 60% d'ici 2034).
 - **90 000** : emplois et stages pour les jeunes d'ici 2031 (stratégie nationale).
 - **200 milliards** : dollars canadiens injectés dans la santé, avec l'IA comme levier (annonce de Carney).
