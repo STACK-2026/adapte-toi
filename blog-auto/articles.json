@@ -9081,9 +9081,9 @@
     "category": "metiers-ia",
     "blog": "principal",
     "index": 57,
-    "published": false,
-    "published_at": null,
-    "slug": null,
+    "published": true,
+    "published_at": "2026-06-23",
+    "slug": "veterinaire-ia-diagnostic-animal-assiste",
     "scheduled_date": "2026-08-25",
     "scheduled_time": "09:18",
     "scheduled_datetime": "2026-08-25T09:18:00",
@@ -9233,7 +9233,8 @@
         ],
         "grounding_sources": []
       }
-    }
+    },
+    "done": true
   },
   {
     "title": "Changer de voie à 35 ans grâce à l'IA : Mode d'emploi",
