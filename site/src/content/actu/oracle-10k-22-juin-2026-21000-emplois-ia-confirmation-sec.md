@@ -1,6 +1,6 @@
 ---
-title: "Oracle confirme dans son 10-K du 22 juin 2026 : 21 000 emplois supprimés, l'IA citée comme cause directe"
-description: "Le 22 juin 2026, Oracle dépose son 10-K annuel et écrit noir sur blanc que le déploiement de l'IA réduit ses effectifs. 21 000 postes en moins, 1,84 milliard de dollars de"
+title: "Oracle : 21 000 emplois supprimés, l'IA citée en cause (10-K 2026)"
+description: "Le 22 juin 2026, Oracle écrit dans son 10-K que le déploiement de l'IA réduit ses effectifs : 21 000 postes supprimés et 1,84 milliard de dollars d'économies."
 date: 2026-06-23
 category: "menace"
 impactLevel: 5
