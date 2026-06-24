@@ -144,6 +144,15 @@ function resolveAuthorNode(authorName?: string) {
   };
 }
 
+/** Google requires Article/NewsArticle `headline` ≤110 chars for rich-result
+ * eligibility. We cap on a word boundary; the visible <h1>/<title> keep the full title. */
+function clampHeadline(title: string): string {
+  if (title.length <= 110) return title;
+  const cut = title.slice(0, 110);
+  const lastSpace = cut.lastIndexOf(" ");
+  return (lastSpace > 60 ? cut.slice(0, lastSpace) : cut).trimEnd();
+}
+
 /** JSON-LD for a generic Article (guides, blog, fiches métier). */
 export function jsonLdArticle(article: {
   title: string;
@@ -158,7 +167,7 @@ export function jsonLdArticle(article: {
   return {
     "@context": "https://schema.org",
     "@type": "Article",
-    headline: article.title,
+    headline: clampHeadline(article.title),
     description: article.description,
     url: article.url,
     datePublished: article.datePublished,
@@ -197,7 +206,7 @@ export function jsonLdNewsArticle(article: {
   return {
     "@context": "https://schema.org",
     "@type": "NewsArticle",
-    headline: article.title,
+    headline: clampHeadline(article.title),
     description: article.description,
     url: article.url,
     datePublished: article.datePublished,
