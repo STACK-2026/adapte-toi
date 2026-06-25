@@ -9579,9 +9579,9 @@
     "category": "formation",
     "blog": "principal",
     "index": 60,
-    "published": false,
-    "published_at": null,
-    "slug": null,
+    "published": true,
+    "published_at": "2026-06-25",
+    "slug": "universite-vs-formation-privee-ia-que-choisir",
     "scheduled_date": "2026-09-04",
     "scheduled_time": "08:44",
     "scheduled_datetime": "2026-09-04T08:44:00",
@@ -9728,7 +9728,8 @@
           }
         ]
       }
-    }
+    },
+    "done": true
   },
   {
     "title": "Zapier pour automatiser : Guide IA et productivité",
