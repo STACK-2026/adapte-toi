@@ -1,6 +1,6 @@
 ---
 title: "IA fonction publique : la négociation s'ouvre, 5,7 millions d'agents concernés"
-description: "Le 18 juin 2026, David Amiel a lancé la négociation de l'accord cadre IA dans la fonction publique. Objectif accord signé en septembre, mais déploiements déjà actés et syndicats sur la défensive."
+description: "Le 18 juin 2026, David Amiel a lancé la négociation de l'accord cadre IA dans la fonction publique. Objectif accord signé en septembre, mais déploiements déjà actés et syndicats"
 date: 2026-06-25
 category: "politique"
 impactLevel: 4
