@@ -18,6 +18,26 @@ if [ ! -f "$GUARD" ]; then
   exit 0
 fi
 
+# Re-accent ASCII-folded FR files before the blocking --check, when a Gemini key
+# is available. content_guard.py flags ACCENT_LOW but cannot fix it; reaccent_gemini.py
+# (stdlib + Gemini REST, no pip deps) restores diacritics so a freshly-published
+# unaccented FR article self-heals at build instead of blocking the deploy.
+reaccent_low() {
+  if [ -n "${GEMINI_API_KEY:-}" ]; then
+    RX="$HOME/stack-2026/scripts/reaccent_gemini.py"
+    if [ -f "$RX" ]; then
+      BAD=$(python3 "$GUARD" --check "$@" 2>&1 | awk '/^\[FAIL\] /{f=$2} /ACCENT_LOW/{if(f)print f}' | sort -u || true)
+      if [ -n "$BAD" ]; then
+        echo "[guard:content] re-accenting ASCII-folded FR: $BAD"
+        for f in $BAD; do
+          if [ -f "$f" ]; then python3 "$RX" "$f" || true; fi
+        done
+      fi
+    fi
+  fi
+  return 0
+}
+
 # Files changed in the last commit (diff HEAD~1 HEAD), restricted to md/mdx.
 FILES=""
 if command -v git >/dev/null 2>&1 && git rev-parse --verify HEAD~1 >/dev/null 2>&1; then
@@ -39,10 +59,13 @@ if [ -n "$FILES" ]; then
     # shellcheck disable=SC2086
     python3 "$GUARD" --fix $EXISTING || true
     # shellcheck disable=SC2086
+    reaccent_low $EXISTING
+    # shellcheck disable=SC2086
     exec python3 "$GUARD" --check --strict-images $EXISTING
   fi
 fi
 
 echo "[guard:content] auto-fix then full-scan fallback on $CONTENT_DIR."
 python3 "$GUARD" --fix "$CONTENT_DIR" || true
+reaccent_low "$CONTENT_DIR"
 exec python3 "$GUARD" --check "$CONTENT_DIR"
