@@ -490,6 +490,29 @@ def _sanitize_actu_frontmatter(mdx: str) -> str:
         r'^category:\s*(["\'])(.+?)\1\s*$',
         _fix_cat, mdx, count=1, flags=re.MULTILINE,
     )
+
+    # Drop sources whose url is not http(s): the schema is sources[].url:
+    # z.string().url(), and an empty/invalid url throws InvalidContentEntryDataError
+    # that silently red-fails the deploy (incident 25/06, the FT source with url:"").
+    def _fix_sources(m: re.Match) -> str:
+        block = m.group(1)
+        items = [it for it in re.split(r'(?m)^(?=  - )', block) if it.strip()]
+        kept = []
+        for it in items:
+            um = re.search(r'^\s*url:\s*["\']?([^"\'\n]*)["\']?\s*$', it, re.MULTILINE)
+            url = (um.group(1).strip() if um else "")
+            if re.match(r'^https?://\S+', url):
+                kept.append(it.rstrip("\n"))
+        if not kept:
+            # never emit a sourceless actu (schema requires min(1)); keep the
+            # original block and let the build gate flag it loudly.
+            return m.group(0)
+        return "sources:\n" + "\n".join(kept) + "\n"
+
+    mdx = re.sub(
+        r'^sources:\s*\n((?:[ \t]+.*\n?)+)',
+        _fix_sources, mdx, count=1, flags=re.MULTILINE,
+    )
     return mdx
 
 
