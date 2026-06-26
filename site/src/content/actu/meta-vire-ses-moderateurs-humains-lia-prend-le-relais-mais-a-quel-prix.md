@@ -19,10 +19,6 @@ sources:
     url: "https://www.bfmtv.com/tech/intelligence-artificielle/entre-volonte-d-avancer-a-marche-forcee-et-d-economiser-des-postes-meta-accelere-son-deploiement-d-ia-pour-remplacer-des-moderateurs-humains-juges-moins-fiables_AV-202606250862.html"
     outlet: "BFM Tech"
     date: 2026-06-25
-  - title: "Meta's AI moderation push raises concerns over job cuts and algorithmic errors"
-    url: ""
-    outlet: "Financial Times"
-    date: 2026-06-24
 relatedMetiers:
   - "charge-clientele-ia"
   - "consultant-ia"
