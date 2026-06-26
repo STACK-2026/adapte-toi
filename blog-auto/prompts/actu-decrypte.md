@@ -66,6 +66,10 @@ IA EXPLICITE, des les premieres phrases :
   laisse la pipeline skip). Ecrire une news "emploi generique" sans lien IA trahit le positionnement
   du media. Mieux vaut sauter un jour que publier hors-angle.
 
+CONTRAINTES DE SCHÉMA STRICTES (le build Astro casse sinon — ne JAMAIS y déroger) :
+- `category:` DOIT être EXACTEMENT l'une de ces 7 valeurs : menace, etude, annonce, politique, outil, voix, chiffre. AUCUNE autre valeur n'est valide (pas de "decryptage", "analyse", "licenciements", "ia"…). En cas de doute → `etude`.
+- `sources:` ≥ 1 entrée (idéalement 2+), et CHAQUE `url:` DOIT commencer par `https://` (ou `http://`) et pointer vers une page réelle. N'invente JAMAIS d'URL. Si tu n'as pas l'URL d'une source, NE l'inclus PAS du tout (mieux vaut 1 source vérifiable que 2 dont une avec `url: ""`).
+
 SORTIE : frontmatter YAML valide + corps markdown. Aucun commentaire hors du fichier. Le frontmatter doit contenir EXACTEMENT ces champs :
 
 ---
