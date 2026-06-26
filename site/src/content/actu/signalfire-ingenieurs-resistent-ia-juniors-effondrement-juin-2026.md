@@ -2,7 +2,7 @@
 title: "Ingénieurs résistent à l'IA, juniors à -65% : décryptage SignalFire"
 description: "Le 24 juin 2026, SignalFire publie son State of Talent Report : les ingénieurs représentent 55% des recrutements Tech Majors, mais les jeunes diplômés s'effondrent. Décryptage France."
 date: 2026-06-26
-category: "decryptage"
+category: "etude"
 impactLevel: 4
 author: "Lea Moreau"
 keyQuote:
