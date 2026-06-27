@@ -1,6 +1,5 @@
 {
   "seen_urls": [
-    "https://openai.com/index/openai-appoints-retired-us-army-general",
     "https://huggingface.co/blog/fl-with-flower",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVmItRERXbmh5bHl1SnhuRWxUdlFEcWFnZ0dRWXpQOW9DazN4b1JjRkoyaWp5a1lQY0VVMHJieDFSc1pTWXZ3VjYyRmMwNXlWQ0k1OHQwV3B2WFV1MFpQZGdhRHhtUmFrLWlOQk8yb1dDSE9XUkRhZHlsejh4N09EWUxoeExfQlFacTJLNWdkOHBLUQ",
     "https://www.reddit.com/r/artificial/comments/1ugcjem/looking_for_a_lowerprofile_ai_tool_with_something",
@@ -4999,7 +4998,8 @@
     "https://huggingface.co/blog/model-cards",
     "https://www.frandroid.com/bons-plans/bons-plans-gaming/3156137_on-a-cherche-personne-ne-propose-gta-vi-moins-cher-que-cette-offre-de-precommande",
     "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free",
-    "https://openai.com/index/optimizing-chatgpt"
+    "https://openai.com/index/optimizing-chatgpt",
+    "https://thenextweb.com/news/oracle-romania-500-layoffs-ai-restructuring"
   ],
   "seen_hashes": [
     "e3af9ce5985db9b6",
