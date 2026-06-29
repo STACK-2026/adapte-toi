@@ -10612,9 +10612,9 @@
     "category": "metiers-ia",
     "blog": "principal",
     "index": 66,
-    "published": false,
-    "published_at": null,
-    "slug": null,
+    "published": true,
+    "published_at": "2026-06-29",
+    "slug": "professeur-ecoles-ia-pedagogie-augmentee",
     "scheduled_date": "2026-09-25",
     "scheduled_time": "10:15",
     "scheduled_datetime": "2026-09-25T10:15:00",
@@ -10769,7 +10769,8 @@
           }
         ]
       }
-    }
+    },
+    "done": true
   },
   {
     "title": "Validation des acquis IA : Reconnaître son expérience",
