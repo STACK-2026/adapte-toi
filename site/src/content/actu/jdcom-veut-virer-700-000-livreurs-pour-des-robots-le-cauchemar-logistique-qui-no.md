@@ -93,25 +93,25 @@ Cette déclaration marque un tournant. Les géants du e-commerce assument désor
 **Positionne-toi sous 90 jours** :
 1. **Spécialise-toi en robotique logistique** :
    - [ROS (Robot Operating System)](https://www.ros.org/).
-   - [Capteurs LiDAR et caméras 3D](https://www.coursera.org/learn/robotics-perception).
+   - [Capteurs LiDAR et caméras 3D](https://www.coursera.org/learn/visual-perception-self-driving-cars).
    - [IA pour la navigation autonome](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013).
 2. **Cible les géants du e-commerce** : Postule chez JD.com, Amazon ou La Poste via [Michael Page](https://www.michaelpage.fr/).
 3. **Deviens freelance** : Propose tes services sur [Malt](https://www.malt.fr/) ou [Upwork](https://www.upwork.com/). Crée un portfolio sur [GitHub](https://github.com/).
-4. **Anticipe les risques juridiques** : Forme-toi en droit des nouvelles technologies (MOOC [FUN "Droit des robots"](https://www.fun-mooc.fr/fr/cours/droit-des-robots/)).
+4. **Anticipe les risques juridiques** : Forme-toi en droit des nouvelles technologies (MOOC [FUN "Droit des robots"](https://www.fun-mooc.fr/fr/cours/robots-ethique-et-societe-par-les-chercheurs-de-lierhr/)).
 
 ### Tu es étudiant ou en reconversion
 **Choisis ta voie sous 90 jours** :
 1. **Évite les métiers condamnés** : La livraison et la manutention vont disparaître. Consulte notre [guide des métiers menacés par l'IA](/guides/automatiser-travail-ia).
 2. **Opte pour des compétences hybrides** :
    - **Logisticien IA** : [Bachelor Logistique et Supply Chain](https://www.aftral.com/) + certifications en IA.
-   - **Technicien maintenance robotique** : [BTS Maintenance des Systèmes](https://www.onisep.fr/Ressources/Univers-Formation/Formations/Lycee/BTS-Maintenance-des-systemes-option-systems-de-production) + ROS.
+   - **Technicien maintenance robotique** : [BTS Maintenance des Systèmes](https://www.onisep.fr/ressources/univers-formation/formations/post-bac/bts-maintenance-des-systemes-option-a-systemes-de-production) + ROS.
    - **Data Analyst logistique** : [Licence Pro Métiers de l'informatique : données](https://www.univ-lyon1.fr/) + [notre guide data analyst](/metiers/data-analyst-ia).
 3. **Finance ta formation** :
    - [CPF](https://www.moncompteformation.gouv.fr/) (jusqu'à 800 €/an).
    - [Projet de Transition Professionnelle (PTP)](https://www.transitionspro.fr/).
    - [Écoles de la 2e Chance](https://reseau-e2c.fr/).
 4. **Teste avant de t'engager** :
-   - [MOOC "Introduction à la robotique" (EPFL)](https://www.coursera.org/learn/robotique).
+   - [MOOC "Introduction à la robotique" (EPFL)](https://www.coursera.org/learn/robotics-engineering--applications).
    - Stage chez une start-up de livraison autonome ([Welcometothejungle](https://www.welcometothejungle.com/fr)).
 
 ### Tu es entrepreneur ou commerçant

@@ -20,7 +20,7 @@ sources:
     outlet: "Le Figaro Éco"
     date: 2026-06-27
   - title: "AI Voice Cloning: The End of Child Voice Acting?"
-    url: "https://www.deadline.com/2026/06/hasbro-peppa-pig-ai-voice-cloning-controversy-123456789"
+    url: "https://deadline.com/2026/06/peppa-pig-hasbro-child-actors-ai-backlash-1236967142/"
     outlet: "Deadline"
     date: 2026-06-25
 relatedMetiers:
