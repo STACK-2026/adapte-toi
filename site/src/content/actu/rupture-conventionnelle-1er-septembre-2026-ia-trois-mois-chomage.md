@@ -1,6 +1,6 @@
 ---
 title: "Rupture conventionnelle 1er septembre 2026 : 3 mois de chômage en moins quand l'IA te pousse dehors"
-description: "La loi du 11 juin 2026 réduit l'indemnisation chômage après rupture conventionnelle à partir du 1er septembre. Pour les salariés menacés par l'IA, agir avant cette date fait trois mois de droits en plus."
+description: "La loi du 11 juin 2026 réduit l'indemnisation chômage après rupture conventionnelle à partir du 1er septembre. Pour les salariés menacés par l'IA, agir avant cette date fait trois"
 date: 2026-06-29
 category: "politique"
 impactLevel: 5
