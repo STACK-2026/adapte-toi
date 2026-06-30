@@ -1,6 +1,6 @@
 ---
 title: "Colorado AI Act : la loi qui devait protéger les candidats face à l'IA recule au 30 juin 2026, et ça t'envoie un signal"
-description: "Le 30 juin 2026 devait être la date d'entrée en vigueur de la première loi américaine encadrant l'IA dans l'embauche. Repoussée à 2027 et vidée de sa substance, voici ce que ça change pour toi."
+description: "Le 30 juin 2026 devait être la date d'entrée en vigueur de la première loi américaine encadrant l'IA dans l'embauche. Repoussée à 2027 et vidée de sa substance, voici ce que ça"
 date: 2026-06-30
 category: "politique"
 impactLevel: 4
