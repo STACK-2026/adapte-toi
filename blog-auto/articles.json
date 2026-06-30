@@ -10778,9 +10778,9 @@
     "category": "reconversion",
     "blog": "principal",
     "index": 67,
-    "published": false,
-    "published_at": null,
-    "slug": null,
+    "published": true,
+    "published_at": "2026-06-30",
+    "slug": "validation-des-acquis-ia-reconnaitre-son-experience",
     "scheduled_date": "2026-09-29",
     "scheduled_time": "08:27",
     "scheduled_datetime": "2026-09-29T08:27:00",
@@ -10923,7 +10923,8 @@
         ],
         "grounding_sources": []
       }
-    }
+    },
+    "done": true
   },
   {
     "title": "Chargé de communication vs IA : Stratégies d'adaptation",
