@@ -1,5 +1,5 @@
 ---
-title: "La CIA balance l'IA comme une arme nucléaire : et ton job dans tout ça ?"
+title: "La CIA traite l'IA comme une arme : et ton job ?"
 description: "Le patron de la CIA compare les modèles d'IA avancés à des armes nucléaires. Derrière la métaphore, une guerre froide technologique qui va secouer ton emploi - même en civil."
 date: 2026-07-01
 category: "voix"

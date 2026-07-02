@@ -1,5 +1,5 @@
 ---
-title: "Ford réembauche 350 ingénieurs après l'échec de son IA : la preuve que l'humain reste indispensable"
+title: "Ford réembauche 350 ingénieurs après l'échec de son IA"
 description: "Ford a licencié des ingénieurs pour automatiser avec l'IA, puis a dû les réembaucher après des centaines de millions de dollars de pertes. Leçon : l'IA ne remplace pas l'expertise humaine, elle l'augmente... si on sait l'utiliser."
 date: 2026-06-29
 category: "annonce"

@@ -1,5 +1,5 @@
 ---
-title: "L'Assistant de la DINUM : l'IA souveraine qui fait pschitt dans la fonction publique"
+title: "Assistant DINUM : l'IA souveraine qui fait pschitt"
 description: "Le gouvernement mise sur L'Assistant, un chatbot IA maison pour les agents publics, mais les retours des beta-testeurs sont tièdes. Décryptage d'un fiasco annoncé ou d'une transition mal embarquée ?"
 date: 2026-07-01
 category: politique

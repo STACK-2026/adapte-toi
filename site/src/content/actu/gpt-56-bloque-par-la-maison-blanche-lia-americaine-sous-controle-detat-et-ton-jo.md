@@ -1,5 +1,5 @@
 ---
-title: "GPT-5.6 bloqué par la Maison-Blanche : l'IA américaine sous contrôle d'État, et ton job dans tout ça ?"
+title: "GPT-5.6 bloqué par la Maison-Blanche : et ton job ?"
 description: "La Maison-Blanche exige un examen de 30 jours sur GPT-5.6 avant sa sortie. Derrière ce bras de fer politique, c'est l'avenir de ton emploi qui se joue, et personne ne te le dit clairement."
 date: 2026-06-29
 category: politique

@@ -1,5 +1,5 @@
 ---
-title: "Trump serre la vis sur l'IA : ce que ça change pour ton job et tes compétences"
+title: "Trump serre la vis sur l'IA : impact sur ton job"
 description: "L'Administration Trump impose un contrôle strict sur les modèles d'IA américains. Qui gagne, qui perd, et comment adapter ta carrière dès maintenant."
 date: 2026-07-01
 category: "politique"

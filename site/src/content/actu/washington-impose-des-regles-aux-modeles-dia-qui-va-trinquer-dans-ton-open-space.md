@@ -1,5 +1,5 @@
 ---
-title: "Washington impose des règles aux modèles d'IA : qui va trinquer dans ton open-space ?"
+title: "Washington régule les modèles d'IA : qui va trinquer ?"
 description: "Les États-Unis accélèrent leurs standards pour les modèles d'IA. Entre sécurité nationale et guerre des talents, voici ce que ça change pour ton job, ta formation et ton employeur."
 date: 2026-07-02
 category: politique

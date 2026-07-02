@@ -1,5 +1,5 @@
 ---
-title: "Ford rappelle les retraités pour sauver son IA : quand l'automatisation rate son virage"
+title: "Ford rappelle les retraités pour sauver son IA"
 description: "Ford réembauche 350 vétérans pour corriger les ratés de son IA industrielle. Un aveu d'échec qui révèle les limites de l'automatisation à tout prix, et ce que ça change pour ton job."
 date: 2026-06-30
 category: "menace"

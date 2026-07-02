@@ -1,5 +1,5 @@
 ---
-title: "Google débarque en France avec l'IA dans ton moteur de recherche : qui va trinquer ?"
+title: "Google met l'IA dans la recherche en France : qui trinque ?"
 description: "Google lance AI Overviews et AI Mode en France cet été. Les éditeurs tremblent, les créateurs de contenu aussi. On te dit qui perd, qui gagne, et comment t'adapter avant l'été 2026."
 date: 2026-06-30
 category: "annonce"
