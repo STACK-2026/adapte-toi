@@ -6,7 +6,7 @@ import StoryRail from "../components/StoryRail.astro";
 import { storiesForArticle } from "../data/article_videos";
 import { siteConfig } from "../../site.config";
 import { fullUrl } from "../utils/config";
-import { jsonLdNewsArticle, jsonLdBreadcrumbs } from "../utils/seo";
+import { jsonLdNewsArticle, jsonLdBreadcrumbs, jsonLdFaq, extractFaqFromMarkdown } from "../utils/seo";
 import { getCollection } from "astro:content";
 
 interface Source {
@@ -41,6 +41,7 @@ interface Props {
   keywords?: string;
   lastReviewed?: Date;
   reviewedBy?: string;
+  body?: string;
 }
 
 const {
@@ -62,6 +63,7 @@ const {
   keywords,
   lastReviewed,
   reviewedBy,
+  body,
 } = Astro.props;
 
 const articleUrl = fullUrl(`/actu/${slug}`);
@@ -103,7 +105,9 @@ const outilsItems = relatedOutils
 
 const lastReviewedStr = lastReviewed ? lastReviewed.toISOString().split("T")[0] : undefined;
 
-const jsonLd = [
+const faqPairs = extractFaqFromMarkdown(body);
+
+const jsonLd: object[] = [
   jsonLdNewsArticle({
     title,
     description,
@@ -117,6 +121,10 @@ const jsonLd = [
   }),
   jsonLdBreadcrumbs(breadcrumbs),
 ];
+
+if (faqPairs.length > 0) {
+  jsonLd.push(jsonLdFaq(faqPairs));
+}
 ---
 
 <BaseLayout

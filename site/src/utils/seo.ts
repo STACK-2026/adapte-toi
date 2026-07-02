@@ -230,6 +230,60 @@ export function jsonLdNewsArticle(article: {
   };
 }
 
+/** Extract FAQ Q&A pairs from a raw markdown body.
+ *  Recognises two styles inside a `## FAQ` (or equivalent) section:
+ *  - Style 1: questions as h3 headings (### Question)
+ *  - Style 2: questions as bold paragraphs (**Question ?**)
+ *  Returns an empty array when no ## FAQ section is found. */
+export function extractFaqFromMarkdown(
+  md: string | undefined
+): Array<{ question: string; answer: string }> {
+  if (!md) return [];
+  const m = md.match(
+    /^##\s+(FAQ|Foire aux questions|Questions fr[ée]quentes)[^\n]*$/im
+  );
+  if (!m || m.index === undefined) return [];
+  let section = md.slice(m.index + m[0].length);
+  const nextH2 = section.match(/^##\s+/m);
+  if (nextH2 && nextH2.index !== undefined)
+    section = section.slice(0, nextH2.index);
+
+  const clean = (s: string) =>
+    s
+      .replace(/\*\*/g, "")
+      .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
+      .replace(/\s+/g, " ")
+      .trim();
+
+  const pairs: Array<{ question: string; answer: string }> = [];
+
+  // Style 1: questions as h3 headings (### Question)
+  const reH3 = /^###\s+([^\n]+)\n+([\s\S]*?)(?=^###\s+|$)/gm;
+  let m2: RegExpExecArray | null;
+  while ((m2 = reH3.exec(section)) !== null) {
+    const question = m2[1]
+      .replace(/\s*\{#[^}]+\}\s*$/, "")
+      .replace(/\*\*/g, "")
+      .trim();
+    const answer = clean(m2[2]);
+    if (question && answer) pairs.push({ question, answer });
+  }
+
+  // Style 2 (fallback): questions as bold paragraphs (**Question ?**)
+  if (pairs.length === 0) {
+    const reBold =
+      /^\*\*(.+?\?)\*\*\s*$\n+([\s\S]*?)(?=^\*\*.+?\?\*\*\s*$|^##\s+|$)/gm;
+    let m3: RegExpExecArray | null;
+    while ((m3 = reBold.exec(section)) !== null) {
+      const question = m3[1].replace(/\*\*/g, "").trim();
+      const answer = clean(m3[2]);
+      if (question && answer) pairs.push({ question, answer });
+    }
+  }
+
+  return pairs;
+}
+
 /** JSON-LD for FAQPage */
 export function jsonLdFaq(
   faq: Array<{ question: string; answer: string }>
