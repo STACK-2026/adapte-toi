@@ -8,12 +8,12 @@ author: "Lea Moreau"
 keyQuote:
   text: "Le pays a besoin de plus d'innovation, pas de moins."
   author: "Jared Polis"
-  context: "Gouverneur du Colorado, lors de la signature de SB 26-189 le 14 mai 2026 qui repousse et allege la premiere loi americaine sur l'IA dans les decisions consequentielles."
+  context: "Gouverneur du Colorado, lors de la signature de SB 26-189 le 14 mai 2026 qui repousse et allège la première loi américaine sur l'IA dans les décisions conséquentielles."
 tldr:
-  - "Le 30 juin 2026 devait marquer l'entree en vigueur du Colorado AI Act (SB 24-205), la premiere loi americaine encadrant les systemes d'IA a haut risque dans les decisions d'embauche, promotion, salaire et licenciement."
-  - "Le gouverneur Jared Polis a signe le 14 mai 2026 la loi SB 26-189 qui abroge le texte original, supprime les obligations de gestion du risque et reporte l'application au 1er janvier 2027 avec un cadre beaucoup plus leger."
-  - "Pour les salaries et candidats, la protection promise (audit des biais, devoir de diligence des employeurs, droit d'appel des decisions) est largement videe, ne restent qu'une obligation de notice et un droit de revision humaine limite."
-  - "Cote France, l'AI Act europeen prend le relais avec ses obligations haut risque pour l'IA en RH applicables au 2 aout 2026, et la CNIL en chef de file, ce qui place les salaries de l'UE devant un cadre plus protecteur que celui des Etats-Unis."
+  - "Le 30 juin 2026 devait marquer l'entrée en vigueur du Colorado AI Act (SB 24-205), la première loi américaine encadrant les systèmes d'IA à haut risque dans les décisions d'embauche, promotion, salaire et licenciement."
+  - "Le gouverneur Jared Polis a signé le 14 mai 2026 la loi SB 26-189 qui abroge le texte original, supprime les obligations de gestion du risque et reporte l'application au 1er janvier 2027 avec un cadre beaucoup plus léger."
+  - "Pour les salariés et candidats, la protection promise (audit des biais, devoir de diligence des employeurs, droit d'appel des décisions) est largement vidée, ne restent qu'une obligation de notice et un droit de révision humaine limité."
+  - "Côté France, l'AI Act européen prend le relais avec ses obligations haut risque pour l'IA en RH applicables au 2 août 2026, et la CNIL en chef de file, ce qui place les salariés de l'UE devant un cadre plus protecteur que celui des États-Unis."
 sources:
   - title: "Colorado Amends its Artificial Intelligence Law, Substantially Reducing Obligations on Employers"
     url: "https://www.littler.com/news-analysis/asap/colorado-amends-its-artificial-intelligence-law-substantially-reducing"
@@ -39,7 +39,7 @@ sources:
     url: "https://www.lexology.com/library/detail.aspx?g=19b69b8c-4616-47f1-b1fd-a4c77cb790c0"
     outlet: "Lexology"
     date: 2026-06-10
-  - title: "Reglement (UE) 2024/1689, AI Act"
+  - title: "Règlement (UE) 2024/1689, AI Act"
     url: "https://eur-lex.europa.eu/eli/reg/2024/1689/oj"
     outlet: "EUR-Lex"
     date: 2024-07-12
@@ -59,79 +59,79 @@ relatedOutils:
   - "claude"
   - "chatgpt"
   - "copilot"
-imageAlt: "Capitole du Colorado au crepuscule avec un panneau lumineux IA en surimpression, ambiance institutionnelle"
-keywords: "Colorado AI Act, SB 26-189, SB 24-205, IA embauche, intelligence artificielle recrutement, regulation IA emploi, automated decision making, AI Act Europe, CNIL IA, droit du travail IA, decisions consequentielles, audit biais algorithmiques"
+imageAlt: "Capitole du Colorado au crépuscule avec un panneau lumineux IA en surimpression, ambiance institutionnelle"
+keywords: "Colorado AI Act, SB 26-189, SB 24-205, IA embauche, intelligence artificielle recrutement, régulation IA emploi, automated decision making, AI Act Europe, CNIL IA, droit du travail IA, décisions conséquentielles, audit biais algorithmiques"
 schemaFaq: true
 lastReviewed: 2026-06-30
-reviewedBy: "Lea Moreau"
+reviewedBy: "Léa Moreau"
 draft: false
 ---
 
 ## Le fait
 
-Le 30 juin 2026 devait etre la date d'entree en vigueur du Colorado AI Act (SB 24-205), premiere loi americaine encadrant l'IA dans les decisions d'embauche, promotion, salaire et licenciement. Le gouverneur Jared Polis a signe le 14 mai SB 26-189, qui abroge le texte et repousse l'application au 1er janvier 2027 ([Littler](https://www.littler.com/news-analysis/asap/colorado-amends-its-artificial-intelligence-law-substantially-reducing)).
+Le 30 juin 2026 devait être la date d'entrée en vigueur du Colorado AI Act (SB 24-205), première loi américaine encadrant l'IA dans les décisions d'embauche, promotion, salaire et licenciement. Le gouverneur Jared Polis a signé le 14 mai SB 26-189, qui abroge le texte et repousse l'application au 1er janvier 2027 ([Littler](https://www.littler.com/news-analysis/asap/colorado-amends-its-artificial-intelligence-law-substantially-reducing)).
 
-## Ce que la loi originelle prevoyait
+## Ce que la loi originelle prévoyait
 
-Le SB 24-205 imposait quatre obligations majeures aux employeurs utilisant des systemes d'[IA a haut risque](/guides/ia-europe-reglementation) dans des decisions consequentielles. Un devoir de diligence pour prevenir la discrimination algorithmique. Un programme de gestion du risque ecrit. Des analyses d'impact annuelles. Le droit pour les candidats de contester une decision IA. La nouvelle version garde une notice prealable, une explication apres decision defavorable, un droit de revision humaine limite et trois ans de registres ([Colorado General Assembly](https://leg.colorado.gov/bills/sb26-189)). Ni audit obligatoire de biais, ni evaluation systematique des [outils IA](/outils/claude) utilises en recrutement.
+Le SB 24-205 imposait quatre obligations majeures aux employeurs utilisant des systèmes d'[IA à haut risque](/guides/ia-europe-reglementation) dans des décisions conséquentielles. Un devoir de diligence pour prévenir la discrimination algorithmique. Un programme de gestion du risque écrit. Des analyses d'impact annuelles. Le droit pour les candidats de contester une décision IA. La nouvelle version garde une notice préalable, une explication après décision défavorable, un droit de révision humaine limité et trois ans de registres ([Colorado General Assembly](https://leg.colorado.gov/bills/sb26-189)). Ni audit obligatoire de biais, ni évaluation systématique des [outils IA](/outils/claude) utilisés en recrutement.
 
-## Pourquoi cette loi americaine te concerne en France
+## Pourquoi cette loi américaine te concerne en France
 
-Le Colorado servait de laboratoire pour le marche americain. Les editeurs de logiciels RH s'en inspiraient pour preparer leurs outils a un cadre national probable. Quand 60 % des fournisseurs d'IA en recrutement vendus en Europe sont americains, ce qui se passe a Denver finit par arriver dans les configurations par defaut des plateformes utilisees a Paris, Lyon ou Lille.
+Le Colorado servait de laboratoire pour le marché américain. Les éditeurs de logiciels RH s'en inspiraient pour préparer leurs outils à un cadre national probable. Quand 60 % des fournisseurs d'IA en recrutement vendus en Europe sont américains, ce qui se passe à Denver finit par arriver dans les configurations par défaut des plateformes utilisées à Paris, Lyon ou Lille.
 
-Surtout, le recul du Colorado intervient au moment ou le reglement europeen (UE) 2024/1689, dit [AI Act](/guides/ia-europe-reglementation), entre dans sa phase active. Les regles applicables aux systemes a haut risque, dont fait partie tout outil utilise pour le tri de CV, l'evaluation de candidats, la prise de decision sur la remuneration ou le licenciement, deviennent enforceables le 2 aout 2026 selon le calendrier de la Commission ([Lexology](https://www.lexology.com/library/detail.aspx?g=19b69b8c-4616-47f1-b1fd-a4c77cb790c0)). En clair, la France va appliquer en plein ete ce que le Colorado vient d'enterrer.
+Surtout, le recul du Colorado intervient au moment où le règlement européen (UE) 2024/1689, dit [AI Act](/guides/ia-europe-reglementation), entre dans sa phase active. Les règles applicables aux systèmes à haut risque, dont fait partie tout outil utilisé pour le tri de CV, l'évaluation de candidats, la prise de décision sur la rémunération ou le licenciement, deviennent enforceables le 2 août 2026 selon le calendrier de la Commission ([Lexology](https://www.lexology.com/library/detail.aspx?g=19b69b8c-4616-47f1-b1fd-a4c77cb790c0)). En clair, la France va appliquer en plein été ce que le Colorado vient d'enterrer.
 
-## Ce que le texte original protegeait, et que SB 26-189 a supprime
+## Ce que le texte original protégeait, et que SB 26-189 a supprimé
 
-Le SB 24-205 imposait quatre garde-fous concrets pour les salaries et candidats. D'abord un devoir de diligence raisonnable des employeurs (deployers) pour eviter la discrimination algorithmique sur la couleur, le genre, l'age, le handicap, la religion ou l'origine. Ensuite, des [analyses d'impact](/guides/ia-emploi-chiffres-cles) ecrites avant et apres chaque mise en production, mises a jour chaque annee. Troisiemement, une obligation de divulgation publique des systemes haut risque utilises. Enfin, un droit d'appel pour tout candidat ou salarie defavorise par une decision IA ([Hunton Andrews Kurth](https://www.hunton.com/privacy-and-cybersecurity-law-blog/colorado-ai-act-amended-and-effective-date-delayed)).
+Le SB 24-205 imposait quatre garde-fous concrets pour les salariés et candidats. D'abord un devoir de diligence raisonnable des employeurs (deployers) pour éviter la discrimination algorithmique sur la couleur, le genre, l'âge, le handicap, la religion ou l'origine. Ensuite, des [analyses d'impact](/guides/ia-emploi-chiffres-cles) écrites avant et après chaque mise en production, mises à jour chaque année. Troisièmement, une obligation de divulgation publique des systèmes haut risque utilisés. Enfin, un droit d'appel pour tout candidat ou salarié défavorisé par une décision IA ([Hunton Andrews Kurth](https://www.hunton.com/privacy-and-cybersecurity-law-blog/colorado-ai-act-amended-and-effective-date-delayed)).
 
-SB 26-189 conserve seulement une notice prealable a l'usage et une explication de 30 jours apres une decision defavorable, plus un droit de revision humaine quand c'est techniquement faisable. La definition de revision humaine reste exigeante (le reviewer doit avoir l'autorite d'annuler la decision, etre forme, ne pas se contenter du score de l'algorithme), mais l'employeur n'a plus a auditer le systeme ([Buchalter](https://www.buchalter.com/insights/colorado-rewrites-its-ai-law-what-employers-must-know-about-sb-26-189/)).
+SB 26-189 conserve seulement une notice préalable à l'usage et une explication de 30 jours après une décision défavorable, plus un droit de révision humaine quand c'est techniquement faisable. La définition de révision humaine reste exigeante (le reviewer doit avoir l'autorité d'annuler la décision, être formé, ne pas se contenter du score de l'algorithme), mais l'employeur n'a plus à auditer le système ([Buchalter](https://www.buchalter.com/insights/colorado-rewrites-its-ai-law-what-employers-must-know-about-sb-26-189/)).
 
-## Le calcul politique derriere le recul
+## Le calcul politique derrière le recul
 
-La pression est venue d'un coalition d'editeurs SaaS RH, du Conseil de la chambre de commerce du Colorado et du gouverneur lui-meme. L'argument repete par Jared Polis depuis 2024 etait que le pays a besoin de plus d'innovation, pas de moins. Concretement, les couts de conformite estimes pour les petites entreprises atteignaient plusieurs dizaines de milliers de dollars par an pour les audits d'impact, et beaucoup d'editeurs californiens menacaient de quitter le Colorado.
+La pression est venue d'un coalition d'éditeurs SaaS RH, du Conseil de la chambre de commerce du Colorado et du gouverneur lui-même. L'argument répété par Jared Polis depuis 2024 était que le pays a besoin de plus d'innovation, pas de moins. Concrètement, les coûts de conformité estimés pour les petites entreprises atteignaient plusieurs dizaines de milliers de dollars par an pour les audits d'impact, et beaucoup d'éditeurs californiens menaçaient de quitter le Colorado.
 
-L'autre pression est venue de Washington. L'administration Trump a publie en juin 2026 un decret presidentiel exigeant un controle federal sur les modeles d'IA avances ([Maison Blanche, decret du 2 juin 2026 cite par notre decryptage GPT 5.6](/actu/gpt-56-bloque-par-la-maison-blanche-lia-americaine-sous-controle-detat-et-ton-jo)). Le message envoye aux Etats : ne pas creer de mille-feuilles reglementaire local qui pourrait freiner les acteurs domestiques.
+L'autre pression est venue de Washington. L'administration Trump a publié en juin 2026 un décret présidentiel exigeant un contrôle fédéral sur les modèles d'IA avancés ([Maison Blanche, décret du 2 juin 2026 cité par notre décryptage GPT 5.6](/actu/gpt-56-bloque-par-la-maison-blanche-lia-americaine-sous-controle-detat-et-ton-jo)). Le message envoyé aux États : ne pas créer de mille-feuilles réglementaire local qui pourrait freiner les acteurs domestiques.
 
-## Ce qui reste pour les candidats et salaries du Colorado en 2027
+## Ce qui reste pour les candidats et salariés du Colorado en 2027
 
-A partir du 1er janvier 2027, un employeur du Colorado qui utilise un outil IA dans une decision majeure d'emploi devra fournir une notice claire avant usage (en general dans l'offre d'emploi ou le contrat), expliquer en moins de 30 jours apres une decision defavorable quels types de donnees ont ete utilises et pourquoi la decision a ete prise, et offrir une revision humaine quand c'est faisable ([Epstein Becker Green](https://www.workforcebulletin.com/inside-colorados-senate-bill-26-189-impacts-and-implications-for-employers)).
+À partir du 1er janvier 2027, un employeur du Colorado qui utilise un outil IA dans une décision majeure d'emploi devra fournir une notice claire avant usage (en général dans l'offre d'emploi ou le contrat), expliquer en moins de 30 jours après une décision défavorable quels types de données ont été utilisés et pourquoi la décision a été prise, et offrir une révision humaine quand c'est faisable ([Epstein Becker Green](https://www.workforcebulletin.com/inside-colorados-senate-bill-26-189-impacts-and-implications-for-employers)).
 
-Le candidat a le droit d'inspecter et corriger les donnees personnelles factuellement inexactes utilisees par le systeme. L'application est exclusivement assuree par le procureur general de l'Etat, sans droit d'action individuelle aux prud'hommes locaux. L'amende maximale par violation est de 20 000 dollars, mais regroupable par categorie.
+Le candidat a le droit d'inspecter et corriger les données personnelles factuellement inexactes utilisées par le système. L'application est exclusivement assurée par le procureur général de l'État, sans droit d'action individuelle aux prud'hommes locaux. L'amende maximale par violation est de 20 000 dollars, mais regroupable par catégorie.
 
-## Comparaison directe avec l'AI Act europeen en RH
+## Comparaison directe avec l'AI Act européen en RH
 
-L'AI Act europeen classe tout systeme d'IA utilise pour le recrutement, la selection, la publicite ciblee de postes, l'evaluation de candidats, la decision de promotion, de salaire ou de fin de contrat dans la categorie haut risque (Annexe III). A partir du 2 aout 2026, les editeurs et les employeurs deployant ces systemes sont soumis a une evaluation de conformite ex ante, a une [analyse d'impact](/guides/ia-emploi-chiffres-cles), a une obligation de supervision humaine effective, a une documentation technique opposable et a un controle des biais en continu ([EUR-Lex](https://eur-lex.europa.eu/eli/reg/2024/1689/oj)).
+L'AI Act européen classe tout système d'IA utilisé pour le recrutement, la sélection, la publicité ciblée de postes, l'évaluation de candidats, la décision de promotion, de salaire ou de fin de contrat dans la catégorie haut risque (Annexe III). À partir du 2 août 2026, les éditeurs et les employeurs déployant ces systèmes sont soumis à une évaluation de conformité ex ante, à une [analyse d'impact](/guides/ia-emploi-chiffres-cles), à une obligation de supervision humaine effective, à une documentation technique opposable et à un contrôle des biais en continu ([EUR-Lex](https://eur-lex.europa.eu/eli/reg/2024/1689/oj)).
 
-Les sanctions en cas de non-conformite atteignent 15 millions d'euros ou 3 % du chiffre d'affaires mondial annuel pour les obligations haut risque, et 35 millions ou 7 % pour les pratiques interdites. En France, la CNIL est designee comme autorite de surveillance principale ([Lexology](https://www.lexology.com/library/detail.aspx?g=19b69b8c-4616-47f1-b1fd-a4c77cb790c0)). Autrement dit, un salarie d'une PME bordelaise sera mieux protege au 2 aout qu'un cadre de Denver au 1er janvier 2027.
+Les sanctions en cas de non-conformité atteignent 15 millions d'euros ou 3 % du chiffre d'affaires mondial annuel pour les obligations haut risque, et 35 millions ou 7 % pour les pratiques interdites. En France, la CNIL est désignée comme autorité de surveillance principale ([Lexology](https://www.lexology.com/library/detail.aspx?g=19b69b8c-4616-47f1-b1fd-a4c77cb790c0)). Autrement dit, un salarié d'une PME bordelaise sera mieux protégé au 2 août qu'un cadre de Denver au 1er janvier 2027.
 
-## Ce que ca veut dire concretement pour ton poste
+## Ce que ça veut dire concrètement pour ton poste
 
-Si tu travailles en RH ou que tu es expose a un processus de recrutement automatise, trois consequences pratiques. D'abord, les outils que tu utilises ou que tu subis vont avoir deux configurations distinctes : une legere pour les Etats-Unis, une renforcee pour l'UE. Les editeurs ont peu d'incitation a remonter le niveau americain, donc l'asymetrie de protection va durer. Pour mieux comprendre ces enjeux, consulte notre [guide sur la reglementation IA en Europe](/guides/ia-europe-reglementation).
+Si tu travailles en RH ou que tu es exposé à un processus de recrutement automatisé, trois conséquences pratiques. D'abord, les outils que tu utilises ou que tu subis vont avoir deux configurations distinctes : une légère pour les États-Unis, une renforcée pour l'UE. Les éditeurs ont peu d'incitation à remonter le niveau américain, donc l'asymétrie de protection va durer. Pour mieux comprendre ces enjeux, consulte notre [guide sur la réglementation IA en Europe](/guides/ia-europe-reglementation).
 
-Ensuite, si tu es [recruteur ou DRH](/metiers/rh-recruteur-ia), commande des maintenant une analyse de conformite AI Act sur tes outils de tri de CV, scoring de candidats, evaluation de tests techniques et detection de fraude aux entretiens video. Le delai de remediation est court : 5 semaines, audit fournisseur, ajustement contractuel, formation des managers utilisateurs. Pour t'aider, lis notre [guide des outils IA pour RH recruteur](/guides/outils-ia-pour-rh-recruteur).
+Ensuite, si tu es [recruteur ou DRH](/metiers/rh-recruteur-ia), commande dès maintenant une analyse de conformité AI Act sur tes outils de tri de CV, scoring de candidats, évaluation de tests techniques et détection de fraude aux entretiens vidéo. Le délai de remédiation est court : 5 semaines, audit fournisseur, ajustement contractuel, formation des managers utilisateurs. Pour t'aider, lis notre [guide des outils IA pour RH recruteur](/guides/outils-ia-pour-rh-recruteur).
 
-Enfin, si tu es candidat ou salarie, garde une trace ecrite a chaque etape ou un outil IA intervient dans une decision te concernant (refus de candidature, evaluation, promotion non accordee, rupture). A partir du 2 aout 2026, ces traces deviennent la base d'un recours possible aupres de la CNIL. Pour anticiper, jette un oeil a notre [guide negocier ton salaire en mettant en avant tes competences IA](/guides/negocier-salaire-competences-ia).
+Enfin, si tu es candidat ou salarié, garde une trace écrite à chaque étape où un outil IA intervient dans une décision te concernant (refus de candidature, évaluation, promotion non accordée, rupture). À partir du 2 août 2026, ces traces deviennent la base d'un recours possible auprès de la CNIL. Pour anticiper, jette un oeil à notre [guide négocier ton salaire en mettant en avant tes compétences IA](/guides/negocier-salaire-competences-ia).
 
 ## FAQ
 
-**Pourquoi le Colorado a-t-il recule sur sa loi IA ?**
-La pression combinee des editeurs RH, des PME locales et de l'administration federale Trump a pousse le gouverneur Polis a signer SB 26-189 le 14 mai 2026. Le texte initial imposait des audits d'impact couteux et un devoir de diligence sur la discrimination algorithmique. Le nouveau ne retient qu'une obligation de notice et de revision humaine.
+**Pourquoi le Colorado a-t-il reculé sur sa loi IA ?**
+La pression combinée des éditeurs RH, des PME locales et de l'administration fédérale Trump a poussé le gouverneur Polis à signer SB 26-189 le 14 mai 2026. Le texte initial imposait des audits d'impact coûteux et un devoir de diligence sur la discrimination algorithmique. Le nouveau ne retient qu'une obligation de notice et de révision humaine.
 
 **Qu'est-ce qui change pour les candidats en 2027 ?**
-A partir du 1er janvier 2027, un candidat du Colorado a droit a une notice prealable, a une explication sous 30 jours en cas de decision defavorable et a une revision humaine si techniquement possible. Il n'a plus de droit d'appel formel ni d'audit obligatoire des biais. La protection est plus faible que celle prevue en 2024.
+À partir du 1er janvier 2027, un candidat du Colorado a droit à une notice préalable, à une explication sous 30 jours en cas de décision défavorable et à une révision humaine si techniquement possible. Il n'a plus de droit d'appel formel ni d'audit obligatoire des biais. La protection est plus faible que celle prévue en 2024.
 
-**Cette loi americaine s'applique-t-elle aux salaries francais ?**
-Non. Le Colorado AI Act ne couvre que les decisions affectant des residents du Colorado. Les salaries francais relevent du Code du travail et de l'AI Act europeen. Mais comme les outils RH utilises en France sont souvent congus pour le marche americain, les standards techniques voyagent. C'est pourquoi le recul du Colorado pese aussi en Europe.
+**Cette loi américaine s'applique-t-elle aux salariés français ?**
+Non. Le Colorado AI Act ne couvre que les décisions affectant des résidents du Colorado. Les salariés français relèvent du Code du travail et de l'AI Act européen. Mais comme les outils RH utilisés en France sont souvent congus pour le marché américain, les standards techniques voyagent. C'est pourquoi le recul du Colorado pèse aussi en Europe.
 
-**Quand l'AI Act europeen entre-t-il en vigueur pour le recrutement ?**
-Les obligations relatives aux systemes IA a haut risque, dont tout outil utilise dans le recrutement, l'evaluation ou le licenciement, deviennent applicables le 2 aout 2026. Les sanctions peuvent atteindre 15 millions d'euros ou 3 % du chiffre d'affaires mondial. En France, la CNIL est designee comme autorite de controle.
+**Quand l'AI Act européen entre-t-il en vigueur pour le recrutement ?**
+Les obligations relatives aux systèmes IA à haut risque, dont tout outil utilisé dans le recrutement, l'évaluation ou le licenciement, deviennent applicables le 2 août 2026. Les sanctions peuvent atteindre 15 millions d'euros ou 3 % du chiffre d'affaires mondial. En France, la CNIL est désignée comme autorité de contrôle.
 
-**Comment savoir si mon employeur utilise un outil IA dans sa decision ?**
-Sous AI Act europeen, l'employeur doit fournir une information claire au candidat ou salarie lorsqu'un systeme haut risque intervient dans une decision. A partir du 2 aout 2026, demande explicitement par ecrit. En cas de refus ou de reponse evasive, signale-le a la CNIL. Pour anticiper ta reconversion vers un metier moins expose, consulte notre [guide reconversion IA](/guides/reconversion-ia-guide-complet).
+**Comment savoir si mon employeur utilise un outil IA dans sa décision ?**
+Sous AI Act européen, l'employeur doit fournir une information claire au candidat ou salarié lorsqu'un système haut risque intervient dans une décision. À partir du 2 août 2026, demande explicitement par écrit. En cas de refus ou de réponse évasive, signale-le à la CNIL. Pour anticiper ta reconversion vers un métier moins exposé, consulte notre [guide reconversion IA](/guides/reconversion-ia-guide-complet).
 
-**Le suivi des [licenciements lies a l'IA en 2026](/guides/licenciements-ia-2026-tracker) est-il impacte par cette loi ?**
-Indirectement oui. La loi du Colorado aurait force les employeurs americains a documenter l'impact de leurs outils IA sur l'emploi, ce qui aurait alimente les statistiques publiques sur les licenciements lies a l'automatisation. Avec le recul du texte, la traque restera tributaire des declarations volontaires des entreprises et des disclosures SEC. C'est une perte de transparence pour les analystes du marche du travail.
+**Le suivi des [licenciements liés à l'IA en 2026](/guides/licenciements-ia-2026-tracker) est-il impacté par cette loi ?**
+Indirectement oui. La loi du Colorado aurait forcé les employeurs américains à documenter l'impact de leurs outils IA sur l'emploi, ce qui aurait alimenté les statistiques publiques sur les licenciements liés à l'automatisation. Avec le recul du texte, la traque restera tributaire des déclarations volontaires des entreprises et des disclosures SEC. C'est une perte de transparence pour les analystes du marché du travail.
 
 ## Sources
 
@@ -141,4 +141,4 @@ Indirectement oui. La loi du Colorado aurait force les employeurs americains a d
 - [Inside Colorado's Senate Bill 26-189: Impacts and Implications for Employers, Epstein Becker Green, 22 mai 2026](https://www.workforcebulletin.com/inside-colorados-senate-bill-26-189-impacts-and-implications-for-employers)
 - [SB26-189 Automated Decision-Making Technology, Colorado General Assembly, 14 mai 2026](https://leg.colorado.gov/bills/sb26-189)
 - [EU AI Act: High-risk AI systems in employment, practical steps for compliance, Lexology, juin 2026](https://www.lexology.com/library/detail.aspx?g=19b69b8c-4616-47f1-b1fd-a4c77cb790c0)
-- [Reglement (UE) 2024/1689, AI Act, EUR-Lex, 12 juillet 2024](https://eur-lex.europa.eu/eli/reg/2024/1689/oj)
+- [Règlement (UE) 2024/1689, AI Act, EUR-Lex, 12 juillet 2024](https://eur-lex.europa.eu/eli/reg/2024/1689/oj)

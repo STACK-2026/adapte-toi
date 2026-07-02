@@ -1,6 +1,6 @@
 ---
 title: "Microsoft vire environ 5 500 personnes le 1er juillet 2026 : Xbox et consulting sacrifies pour financer l'IA, ce que ca t'apprend"
-description: "Microsoft supprime jusqu'a 2,5 % de ses effectifs le 1er juillet 2026, soit environ 5 500 postes. Xbox, ventes et consulting trinquent pour financer 100 milliards d'IA. Ce que ca change pour toi."
+description: "Microsoft supprime jusqu'a 2,5 % de ses effectifs le 1er juillet 2026, soit environ 5 500 postes. Xbox, ventes et consulting trinquent pour financer 100 milliards d'IA. Ce que ca"
 date: 2026-07-02
 category: "licenciements"
 impactLevel: 4
