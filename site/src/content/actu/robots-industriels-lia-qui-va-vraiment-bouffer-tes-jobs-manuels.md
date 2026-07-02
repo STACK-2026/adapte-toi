@@ -87,7 +87,7 @@ Cette citation souligne que l'automatisation ne se limite plus aux tâches basiq
 **Opérateur en logistique ou production**
 1. **Évalue ton exposition** : utilise notre [outil d'autodiagnostic automatisation](/outils/zapier). Si plus de 60% de tes tâches sont répétitives, passe à l'étape suivante.
 2. **Forme-toi à la supervision robotique** : des plateformes comme OpenClassrooms proposent des formations gratuites en "Maintenance de systèmes robotisés" (éligible CPF). En 3 mois, tu peux devenir technicien de maintenance avec un salaire +30%.
-3. **Capitalise sur tes compétences hybrides** : si tu as de l'expérience en gestion d'équipe, vise les postes de superviseur logistique IA. Consulte notre [fiche métier superviseur-logistique-ia](/metiers/superviseur-logistique-ia).
+3. **Capitalise sur tes compétences hybrides** : si tu as de l'expérience en gestion d'équipe, vise les postes de superviseur logistique IA. Consulte notre fiche métier superviseur-logistique-ia.
 4. **Anticipe la transition** : contacte ton employeur pour des formations internes. Si rien n'est proposé, utilise ton CPF avec notre [guide pour financer ta formation IA](/guides/financer-formation-ia-cpf).
 
 **Technicien de maintenance ou électromécanicien**
@@ -98,7 +98,7 @@ Cette citation souligne que l'automatisation ne se limite plus aux tâches basiq
 **Étudiant ou jeune diplômé en filière technique**
 1. **Oriente-toi vers les métiers hybrides** : privilégie des doubles compétences comme "robotique + logistique". Consulte notre [guide des études utiles face à l'IA](/guides/etudes-inutiles-que-faire).
 2. **Acquiers de l'expérience terrain** : cible les stages en usine automatisée ou entrepôt robotisé. Utilise Welcome to the Jungle pour trouver des entreprises innovantes.
-3. **Maîtrise les outils IA du secteur** : familiarise-toi avec ROS ou NVIDIA Isaac Sim. Notre [fiche outil sur les simulateurs robotiques](/outils/isaac-sim) t'aide à commencer.
+3. **Maîtrise les outils IA du secteur** : familiarise-toi avec ROS ou NVIDIA Isaac Sim. Notre fiche outil sur les simulateurs robotiques t'aide à commencer.
 
 **Manager ou responsable RH dans l'industrie**
 1. **Cartographie les emplois à risque** : utilise l'outil de l'ANACT pour identifier les postes exposés.
@@ -112,4 +112,4 @@ L'IA robotique transforme déjà les usines et entrepôts. Les robots créent de
 
 Si tu travailles dans la logistique, la production ou la maintenance, agis maintenant. Les compétences en supervision robotique, maintenance prédictive et gestion de cobots sont en tension, avec des salaires attractifs. Les entreprises qui forment leurs employés aujourd'hui seront les plus compétitives demain.
 
-Pour commencer, consulte notre [guide complet sur la reconversion avec l'IA](/guides/reconversion-ia-guide-complet) ou notre [fiche métier technicien-maintenance-robotique](/metiers/technicien-maintenance-robotique). Pour un diagnostic personnalisé, utilise notre [outil d'autodiagnostic automatisation](/outils/zapier).
+Pour commencer, consulte notre [guide complet sur la reconversion avec l'IA](/guides/reconversion-ia-guide-complet) ou notre fiche métier technicien-maintenance-robotique. Pour un diagnostic personnalisé, utilise notre [outil d'autodiagnostic automatisation](/outils/zapier).

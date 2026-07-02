@@ -114,4 +114,4 @@ Les États-Unis protègent leur avance technologique mais envoient un message cl
 ## Le verdict Adapte-toi
 L'IA devient une **arme géopolitique**. Pour éviter la dépendance aux modèles américains, **forme-toi aux alternatives open-source et européennes**. Les entreprises et freelances qui maîtrisent ces outils auront un avantage. Les pays investissant dans des clouds souverains (comme la France avec Mistral) attireront les talents.
 
-**Prochaine étape :** consulte notre [guide sur les alternatives à l'IA américaine](/guides/ia-europe-reglementation), explore nos [outils open-source](/outils/mistral), ou commence ta [reconversion IA](/guides/reconversion-ia-guide-complet). **Ne reste pas du mauvais côté de la barrière.**
+**Prochaine étape :** consulte notre [guide sur les alternatives à l'IA américaine](/guides/ia-europe-reglementation), explore nos outils open-source, ou commence ta [reconversion IA](/guides/reconversion-ia-guide-complet). **Ne reste pas du mauvais côté de la barrière.**

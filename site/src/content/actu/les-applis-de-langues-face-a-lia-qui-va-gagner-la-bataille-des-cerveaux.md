@@ -63,7 +63,7 @@ Les applis comme Duolingo ont bâti leur succès sur le freemium. L'IA gratuite 
 Duolingo gamifie l'apprentissage avec badges et streaks. Les LLM, eux, sont froids. Ils corrigent, mais ne félicitent pas, ne rappellent pas de réviser, ne challengent pas. Leur talon d'Achille : l'engagement. Les applis survivantes combineront puissance des LLM et expérience utilisateur addictive.
 
 **Le vrai gagnant, c'est toi, si tu sais t'en servir**
-L'IA démocratise l'apprentissage des langues. Avant, c'était cher et long. Aujourd'hui, un prof particulier tient dans ta poche pour quelques euros. Mais attention : l'IA ne t'apprend pas à parler comme un natif, ne donne pas les codes culturels, et n'aide pas à surmonter la peur de parler. Pour une langue pro, mixe les outils : [Gemini](/outils/gemini) pour les bases, [Duolingo](/outils/duolingo) pour la structure, un prof pour la pratique.
+L'IA démocratise l'apprentissage des langues. Avant, c'était cher et long. Aujourd'hui, un prof particulier tient dans ta poche pour quelques euros. Mais attention : l'IA ne t'apprend pas à parler comme un natif, ne donne pas les codes culturels, et n'aide pas à surmonter la peur de parler. Pour une langue pro, mixe les outils : Gemini pour les bases, Duolingo pour la structure, un prof pour la pratique.
 
 ## Les chiffres qui comptent
 - **45%** : part de marché des applis (Duolingo, Babbel) en 2026 (65% en 2025) ([Le Figaro](https://www.lefigaro.fr/secteur/high-tech/j-utilise-gemini-pour-ameliorer-mon-francais-face-a-la-concurrence-des-chatbots-ia-les-applis-d-apprentissage-de-langues-s-adaptent-20260626))
@@ -81,24 +81,24 @@ Cette phrase illustre le paradoxe du marché. Les applis ont passé des années 
 ## Pour toi concrètement
 
 **Salarié : booster ton anglais pour une promotion**
-- **0-30 jours** : Identifie tes lacunes avec [ChatGPT](/outils/chatgpt) (*"Évalue mon niveau d'anglais en 10 questions, identifie mes points faibles"*). Utilise [Duolingo Max](/outils/duolingo) (19,99€/mois) pour grammaire et vocabulaire. Active les notifications.
+- **0-30 jours** : Identifie tes lacunes avec [ChatGPT](/outils/chatgpt) (*"Évalue mon niveau d'anglais en 10 questions, identifie mes points faibles"*). Utilise Duolingo Max (19,99€/mois) pour grammaire et vocabulaire. Active les notifications.
 - **30-60 jours** : Ajoute 15 min/jour d'IA conversationnelle avec [Claude](/outils/claude) (*"Simule un entretien pour un poste de [ton métier]"*).
 - **60-90 jours** : 2h de cours avec un prof natif sur [iTalki](https://www.italki.com) (20-30€). Travaille ton accent et tes projets pro.
 
 **Freelance : apprendre l'espagnol pour élargir ta clientèle**
-- **0-30 jours** : Crée un plan sur mesure avec [Gemini](/outils/gemini) (*"Programme d'espagnol professionnel pour freelance en [ton métier], 30 min/jour"*).
+- **0-30 jours** : Crée un plan sur mesure avec Gemini (*"Programme d'espagnol professionnel pour freelance en [ton métier], 30 min/jour"*).
 - **30-60 jours** : Travaille ton oral avec [ElevenLabs](https://elevenlabs.io) (compare ta prononciation). Utilise [Speak](https://www.speak.com) (15€/mois) pour des conversations simulées.
 - **60-90 jours** : Trouve un partenaire de langue sur [Tandem](https://www.tandem.net) (30 min espagnol/30 min français).
 
 **Chômeur : se reconvertir dans un métier nécessitant une langue rare**
-- **0-30 jours** : Bases avec [Duolingo](/outils/duolingo) (gratuit) et [Anki](https://apps.ankiweb.net) (flashcards).
+- **0-30 jours** : Bases avec Duolingo (gratuit) et [Anki](https://apps.ankiweb.net) (flashcards).
 - **30-60 jours** : Immersion avec YouTube (sous-titres) et [Otter.ai](/outils/otter-ai) (transcription de podcasts).
 - **60-90 jours** : Communauté sur Discord/Telegram. Formation intensive avec CPF sur [Coursera](https://www.coursera.org) ou [FunMOOC](https://www.fun-mooc.fr) ([guide CPF](/guides/financer-formation-ia-cpf)).
 
 **Étudiant : langue pour un stage à l'étranger (budget serré)**
 - **0-30 jours** : Plan intensif avec [ChatGPT](/outils/chatgpt) (*"Programme de [langue] pour un stage à [ville], 1h/jour"*).
 - **30-60 jours** : Oral avec [HelloTalk](https://www.hellotalk.com) (échanges vocaux) et [Elsa Speak](https://elsaspeak.com) (prononciation).
-- **60-90 jours** : Immersion avec séries Netflix (sous-titres) et articles sur [BBC News](https://www.bbc.com). Option : [Babbel Live IA](/outils/babbel) (12,95€/mois).
+- **60-90 jours** : Immersion avec séries Netflix (sous-titres) et articles sur [BBC News](https://www.bbc.com). Option : Babbel Live IA (12,95€/mois).
 
 ## Le verdict Adapte-toi
 L'IA ne tuera pas les applis de langues, mais les forcera à évoluer. Duolingo et consorts ont l'avantage des données utilisateurs, mais doivent devenir plus addictives, personnalisées et abordables. Le vrai gagnant, c'est toi : des outils low-cost et ultra-efficaces. Mais l'IA a des limites : motivation, confiance, codes culturels. Le combo gagnant reste IA + humain. Utilise les chatbots pour les bases, un prof pour la pratique.

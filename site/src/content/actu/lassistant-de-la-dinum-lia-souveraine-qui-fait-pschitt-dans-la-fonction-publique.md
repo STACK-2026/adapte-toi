@@ -85,7 +85,7 @@ Cette phrase résume l'échec. Le gouvernement a dépensé des millions pour un 
 ### Tu es agent public
 **À 30 jours** :
 - Teste L'Assistant et compare-le avec ChatGPT ou Claude. Note les différences de précision et d'adaptation à ton métier. Signale les lacunes à ton référent numérique.
-- Si les outils privés sont interdits, utilise des alternatives souveraines comme [Mistral](/outils/mistral) ou [Llama](https://ai.meta.com/llama/). Consulte notre [guide pour automatiser ton travail avec l'IA](/guides/automatiser-travail-ia).
+- Si les outils privés sont interdits, utilise des alternatives souveraines comme Mistral ou [Llama](https://ai.meta.com/llama/). Consulte notre [guide pour automatiser ton travail avec l'IA](/guides/automatiser-travail-ia).
 
 **À 90 jours** :
 - Demande une formation sur L'Assistant. Utilise les retours de l'expérimentation pour justifier ta demande. Explore des formations externes sur les [compétences IA](/guides/negocier-salaire-competences-ia).
@@ -104,7 +104,7 @@ Cette phrase résume l'échec. Le gouvernement a dépensé des millions pour un 
   - **Phase 2** : Organiser des ateliers sur les cas d'usage concrets.
   - **Phase 3** : Mettre en place un système de feedback.
   Consulte notre [fiche métier chef de projet IA](/metiers/chef-de-projet-ia).
-- Vends la souveraineté comme un argument, pas une contrainte. Montre que des solutions comme [Mistral](/outils/mistral) peuvent être aussi performantes que ChatGPT, sans risques.
+- Vends la souveraineté comme un argument, pas une contrainte. Montre que des solutions comme Mistral peuvent être aussi performantes que ChatGPT, sans risques.
 
 ---
 

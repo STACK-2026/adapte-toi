@@ -93,7 +93,7 @@ Ton expertise est plus précieuse que jamais. Pour rester pertinent :
 
 **Tu es en reconversion vers un métier technique ?**
 L'échec de Ford crée des opportunités :
-1. **Cible les métiers où l'IA a échoué** : Ingénierie, contrôle qualité, maintenance industrielle. Consulte notre [fiche métier ingénieur IA](/metiers/ingenieur-ia).
+1. **Cible les métiers où l'IA a échoué** : Ingénierie, contrôle qualité, maintenance industrielle. Consulte notre fiche métier ingénieur IA.
 2. **Forme-toi aux outils IA et aux fondamentaux techniques** : Une double compétence (ex : mécanique + [Copilot](/outils/copilot)) te rendra indispensable. Notre [guide pour se former gratuitement à l'IA](/guides/se-former-ia-gratuitement) liste des ressources.
 3. **Mets en avant ton expertise humaine** : Dans ton CV, souligne les tâches où l'IA ne peut pas te remplacer (décision complexe, créativité, supervision).
 
@@ -108,4 +108,4 @@ Ford a cru pouvoir remplacer ses ingénieurs par l'IA et a perdu des centaines d
 
 Pour toi, c'est une opportunité : **les métiers techniques évoluent, mais ne disparaissent pas**. Les experts capables de combiner leur savoir-faire avec l'IA deviendront incontournables. Ne subis pas la transition, **deviens celui ou celle qui la pilote**.
 
-Consulte notre [guide complet sur la reconversion avec l'IA](/guides/reconversion-ia-guide-complet) et notre [fiche métier ingénieur IA](/metiers/ingenieur-ia) pour préparer ton avenir. L'IA n'est pas une menace, **c'est un outil, et c'est à toi de décider comment l'utiliser**.
+Consulte notre [guide complet sur la reconversion avec l'IA](/guides/reconversion-ia-guide-complet) et notre fiche métier ingénieur IA pour préparer ton avenir. L'IA n'est pas une menace, **c'est un outil, et c'est à toi de décider comment l'utiliser**.

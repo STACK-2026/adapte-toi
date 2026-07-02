@@ -85,7 +85,7 @@ Cette phrase révèle l'illusion de l'IA clé en main. L'outil dépend de **qui*
 - **90 jours** : Négocie un statut de "mentor" avec prime. Utilise notre [guide pour négocier ton salaire](/guides/negocier-salaire-competences-ia).
 
 **Tu es en reconversion vers un métier industriel**
-- **30 jours** : Cible les secteurs où l'IA a échoué (auto, aéro, énergie). Exemple : [technicien de maintenance IA](/metiers/technicien-maintenance-ia).
+- **30 jours** : Cible les secteurs où l'IA a échoué (auto, aéro, énergie). Exemple : technicien de maintenance IA.
 - **60 jours** : Forme-toi aux bases de l'IA industrielle (vision par ordinateur, maintenance prédictive). Voir notre [guide gratuit](/guides/se-former-ia-gratuitement).
 - **90 jours** : Postule chez les sous-traitants de Ford ou Airbus. Mise en avant : double profil terrain + numérique.
 
@@ -95,7 +95,7 @@ Cette phrase révèle l'illusion de l'IA clé en main. L'outil dépend de **qui*
 - **90 jours** : Crée un cas d'étude Ford pour tes formations. Utilise notre [guide sur l'automatisation](/guides/automatiser-travail-ia).
 
 **Tu es étudiant·e ou jeune diplômé·e**
-- **30 jours** : Choisis une spécialisation résistante à l'automatisation (ex : [ingénierie système IA](/metiers/ingenieur-industrie-ia)).
+- **30 jours** : Choisis une spécialisation résistante à l'automatisation (ex : ingénierie système IA).
 - **60 jours** : Trouve un mentor senior. Échange : tu formes aux outils numériques ([Copilot](/outils/copilot)), il/elle te transmet son savoir.
 - **90 jours** : Postule en alternance chez un sous-traitant automobile. Mise en avant : capacité à documenter les processus.
 
@@ -104,4 +104,4 @@ Ford a cru remplacer ses experts par des algorithmes. Résultat : **4,8 milliard
 
 Que tu sois ingénieur, technicien, consultant ou étudiant, **ton savoir-faire est une arme**. Les entreprises qui ont sacrifié leurs seniors devront les rappeler, mais à quel prix ? **Documenter ton expertise** et te former aux métiers hybrides est crucial.
 
-Consulte notre [guide de reconversion avec l'IA](/guides/reconversion-ia-guide-complet) et la fiche [technicien de maintenance IA](/metiers/technicien-maintenance-ia). L'IA ne disparaîtra pas, mais ceux qui l'utilisent **avec** l'humain deviendront indispensables.
+Consulte notre [guide de reconversion avec l'IA](/guides/reconversion-ia-guide-complet) et la fiche technicien de maintenance IA. L'IA ne disparaîtra pas, mais ceux qui l'utilisent **avec** l'humain deviendront indispensables.

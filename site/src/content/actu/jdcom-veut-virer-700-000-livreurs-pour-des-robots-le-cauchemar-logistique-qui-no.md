@@ -139,7 +139,7 @@ JD.com supprime 700 000 emplois d'un coup. La livraison autonome n'est plus une 
 
 Pour aller plus loin :
 - [Guide complet sur la reconversion face à l'IA](/guides/reconversion-ia-guide-complet).
-- [Fiche métier technicien maintenance robotique](/metiers/technicien-maintenance-robotique).
+- Fiche métier technicien maintenance robotique.
 - [Financer sa formation avec le CPF](/guides/financer-formation-ia-cpf).
 
 Demain, ton colis sera livré par une IA. **À toi de choisir ton rôle dans cette nouvelle équation.**

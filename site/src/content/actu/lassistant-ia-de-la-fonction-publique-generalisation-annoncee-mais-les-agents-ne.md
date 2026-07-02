@@ -96,7 +96,7 @@ L'État a investi dans un outil souverain, mais les agents privilégient les sol
 **Tu es manager dans la fonction publique**
 - **30 jours** : Identifie les métiers où L'Assistant peut être utile (rédaction de notes, analyse réglementaire). Forme des "champions" pour le tester.
 - **60 jours** : Organise un atelier de feedback pour lister les limites (ex : incompréhension des acronymes). Transmets ces retours à la DINUM.
-- **90 jours** : Autorise des alternatives hybrides (ex : [Mistral](/outils/mistral) pour les tâches où il excelle), en encadrant leur usage.
+- **90 jours** : Autorise des alternatives hybrides (ex : Mistral pour les tâches où il excelle), en encadrant leur usage.
 
 **Tu es développeur/data scientist dans le public**
 - **30 jours** : Rejoins les communautés de beta-testeurs de la DINUM et participe aux ateliers.
@@ -113,4 +113,4 @@ L'État a investi dans un outil souverain, mais les agents privilégient les sol
 ## Le verdict Adapte-toi
 L'Assistant illustre le décalage entre les annonces politiques et la réalité terrain. Pour lutter contre le *shadow AI*, l'État doit proposer un outil **au moins aussi performant** que les alternatives, et former les agents. Sinon, les contournements persisteront.
 
-Pour aller plus loin : notre [guide sur l'IA et la réglementation européenne](/guides/ia-europe-reglementation) ou la [fiche métier consultant IA](/metiers/consultant-ia). Si tu es dans le public, [Mistral](/outils/mistral) reste une alternative française à explorer.
+Pour aller plus loin : notre [guide sur l'IA et la réglementation européenne](/guides/ia-europe-reglementation) ou la [fiche métier consultant IA](/metiers/consultant-ia). Si tu es dans le public, Mistral reste une alternative française à explorer.

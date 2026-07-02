@@ -101,4 +101,4 @@ Meta prend un risque en remplaçant les humains par des LLM : **censure opaque, 
 
 Mais cette transition crée aussi des opportunités. Les métiers de la modération évoluent : ceux qui combineront **expertise humaine et maîtrise de l'IA** seront recherchés. Si tu es concerné, forme-toi, diversifie tes compétences et prépare-toi à un marché où l'IA est omniprésente, mais où l'humain reste indispensable.
 
-Pour aller plus loin : [guide sur les métiers menacés](/guides/reconversion-ia-guide-complet) ou [fiche métier consultant en éthique IA](/metiers/consultant-ia). Pour comprendre les shadow-bans : [notre décryptage](/actu/shadow-ban-ia-explication).
+Pour aller plus loin : [guide sur les métiers menacés](/guides/reconversion-ia-guide-complet) ou [fiche métier consultant en éthique IA](/metiers/consultant-ia). Pour comprendre les shadow-bans : notre décryptage.
