@@ -1,6 +1,6 @@
 ---
 title: "Schneider achète Cognite 3,1 Md$ : l'IA industrielle accélère"
-description: "Schneider Electric rachète Cognite, spécialiste de l'IA agentique pour l'industrie, pour 3,1 milliards de dollars. Ce deal marque un tournant : l'IA ne se contente plus d'analyser, elle décide et agit sur les usines. Décryptage des impacts concrets pour ton"
+description: "Schneider Electric rachète Cognite, spécialiste de l'IA industrielle, pour 3,1 milliards de dollars. L'IA n'analyse plus seulement : elle décide et agit."
 date: 2026-06-30
 category: "annonce"
 impactLevel: 4

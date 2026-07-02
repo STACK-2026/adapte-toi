@@ -1,6 +1,6 @@
 ---
 title: "Robots industriels : l'IA qui menace tes jobs manuels"
-description: "En 2026, l'IA ne se contente plus de rédiger des mails - elle prend le contrôle des usines. Voici pourquoi ton boulot en logistique ou en production est en première ligne, et comment t'adapter avant que les bras mécaniques ne fassent ton café."
+description: "En 2026, l'IA prend le contrôle des usines. Pourquoi ton boulot en logistique ou en production est en première ligne, et comment t'adapter avant la vague."
 date: 2026-06-29
 category: "outil"
 impactLevel: 4
