@@ -1,6 +1,5 @@
 {
   "seen_urls": [
-    "https://huggingface.co/blog/ettin",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcFh4TlRYd2h2aVZvMUszQmVGZC1xSjVyd0JZMl83dXh1VXJIc28yT1VUWW5TMmZ5SklrVjhyTjVBZ0tLcmVDN0tGeUlQbWRXNDlOQkxJYkk1NkxkLUF1N05TWTA1V2VZM1J4SzhXb2JHZVZMNVY0NXhTdkVzSEFKRkhzTEVJQlFT",
     "https://www.reddit.com/r/artificial/comments/1uhtz0y/un_chef_sin_experiencia_en_programación_construyó",
     "https://deepmind.google/blog/how-a-gemma-model-helped-discover-a-new-potential-cancer-therapy-pathway",
@@ -4999,7 +4998,8 @@
     "https://huggingface.co/blog/modular-diffusers",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaGlURTRNWkp0WDhhUVNkdURpd3FvazNjSC1kTUkta2YtU0I0ZU4zS0gwVjB2cFZ0TEVXWWtZMXJtWWJzWlJVY3M2aHVwb1U2bGs4T25qZUtYYnJVc1A5am92a3ZmWGxpaVc2cGdjUGVmb3N1bXN3Y3NIakE4QXpTZmtNcVZGcndQR1I4S3Z6UkNYQUdiZVdlVFJKWC0tT21veGdRaFlGcGJjTWUxQWdxeXRrVk95VWVrTHJGd1dGaE1GZDVvcHFuenln",
     "https://www.bloomberg.com/news/articles/2026-06-30/spacex-ipo-left-korea-broker-with-no-shares-on-misunderstanding",
-    "https://openai.com/index/introducing-deep-research"
+    "https://openai.com/index/introducing-deep-research",
+    "https://www.anthropic.com/news/redeploying-fable-5"
   ],
   "seen_hashes": [
     "36c0ea5886c1b381",
