@@ -11247,9 +11247,9 @@
     "category": "outils-ia",
     "blog": "principal",
     "index": 70,
-    "published": false,
-    "published_at": null,
-    "slug": null,
+    "published": true,
+    "published_at": "2026-07-03",
+    "slug": "grammarly-vs-chatgpt-quel-outil-pour-rediger",
     "scheduled_date": "2026-10-09",
     "scheduled_time": "07:42",
     "scheduled_datetime": "2026-10-09T07:42:00",
@@ -11395,7 +11395,8 @@
         ],
         "grounding_sources": []
       }
-    }
+    },
+    "done": true
   },
   {
     "title": "Télétravail et IA : Impact sur l'emploi à distance",
