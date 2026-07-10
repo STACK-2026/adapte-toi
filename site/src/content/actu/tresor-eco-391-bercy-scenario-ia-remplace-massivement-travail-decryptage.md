@@ -1,6 +1,6 @@
 ---
 title: "Trésor-Éco 391 : Bercy n'exclut plus le scénario ou l'IA remplace le travail"
-description: "La Direction générale du Trésor publie le 30 juin 2026 la note Trésor-Éco n°391 sur les effets de l'IA sur l'emploi. Effet net incertain, mais les metiers qualifies sont desormais en premiere ligne. On decrypte pour ta carriere en France."
+description: "La Direction générale du Trésor publie le 30 juin 2026 la note Trésor-Éco n°391 sur les effets de l'IA sur l'emploi. Effet net incertain, mais les metiers qualifies sont desormais"
 date: 2026-07-10
 category: "etude"
 impactLevel: 4
