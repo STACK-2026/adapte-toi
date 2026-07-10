@@ -20,7 +20,7 @@ sources:
     outlet: "Next.ink"
     date: 2026-07-09
   - title: "Méthodologie de référence MR-004 de la CNIL"
-    url: "https://www.cnil.fr/fr/la-methode-de-reference-mr-004"
+    url: "https://www.cnil.fr/fr/declaration/methodologie-de-reference-04-recherches-nimpliquant-pas-la-personne-humaine-etudes-et-evaluations-dans-le-domaine-de-la-sante"
     outlet: "CNIL"
     date: 2023-01-01
 relatedMetiers:
@@ -82,12 +82,12 @@ Cette phrase cache une réalité : tes données serviront à entraîner des algo
 ## Pour toi concrètement
 
 ### Patient ou proche
-1. **Refuse maintenant** : Remplis [ce formulaire](https://www.doctolib.fr/opposition-recherche) avec tes infos.
+1. **Refuse maintenant** : Remplis ce formulaire avec tes infos.
 2. **Demande des alternatives** à ton médecin (Maiia, Keldoc).
 3. **Vérifie tes emails** : Si tu n'as pas reçu celui du 8 juillet, cherche dans ton compte Doctolib.
 
 ### Soignant
-1. **Refuse l'utilisation de tes données** via [le formulaire](https://www.doctolib.fr/opposition-recherche).
+1. **Refuse l'utilisation de tes données** via le formulaire.
 2. **Anticipe l'impact** : L'IA pourrait automatiser la prise de rendez-vous ou l'analyse de symptômes. Lis notre [guide sur l'automatisation](/guides/automatiser-travail-ia).
 3. **Forme-toi** : Utilise [Claude](https://adapte-toi.fr/outils/claude) ou [Perplexity](https://adapte-toi.fr/outils/perplexity) pour gagner du temps. Consulte notre [fiche infirmier IA](/metiers/infirmier-ia).
 
@@ -105,7 +105,7 @@ Cette phrase cache une réalité : tes données serviront à entraîner des algo
 Doctolib ne cherche pas à "améliorer les soins", mais à dominer l'IA médicale. Leur opt-out est un piège : conçu pour être ignoré, il permet d'aspirer tes données par défaut. Légal grâce à une faille du RGPD, ce système menace ton emploi si tu travailles dans la santé.
 
 **Agis maintenant** :
-- Refuse via [le formulaire](https://www.doctolib.fr/opposition-recherche).
+- Refuse via le formulaire.
 - Parle-en à ton médecin.
 - Forme-toi pour anticiper les changements.
 
