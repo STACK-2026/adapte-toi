@@ -1,6 +1,6 @@
 ---
 title: "Ode : Anthropic et Blackstone lancent 1,5 milliard sur le déploiement IA en entreprise"
-description: "Le 15 juillet 2026, Anthropic, Blackstone et Hellman & Friedman lancent Ode, un cabinet de services IA à 1,5 milliard de dollars avec 100 ingénieurs embarqués chez les clients. Un pari trillion-dollar sur l'implementation qui redessine les cartes du conseil et du travail. On décrypte pour ta carriere en France."
+description: "Le 15 juillet 2026, Anthropic, Blackstone et Hellman & Friedman lancent Ode, cabinet de services IA à 1,5 milliard de dollars avec 100 ingénieurs embarqués chez les clients. Un pari qui redessine le conseil et le travail. Décryptage pour ta carrière."
 date: 2026-07-17
 category: "annonce"
 impactLevel: 4
