@@ -912,16 +912,13 @@ def main():
                 continue
             mdx = _clamp_category(mdx, s.get("category", "annonce"))
             path = write_article(mdx, slug)
-            # Accents obligatoires : re-accent the written .md before git commit
-            # (best-effort, no-op without GEMINI/GOOGLE_API_KEY, never raises).
-            try:
-                from reaccent_lib import reaccent_text
-                _t = path.read_text(encoding="utf-8")
-                _n = reaccent_text(_t)
-                if _n != _t:
-                    path.write_text(_n, encoding="utf-8")
-            except Exception:
-                pass
+            # Racine « deploy nickel » : ré-accentue + clampe la description +
+            # REFUSE de committer tout article qui bloquerait le content guard
+            # (ACCENT_LOW quand Gemini est 429/down, DESC_LONG, etc.).
+            # Mieux vaut 0 article publié qu'un deploy Cloudflare rouge.
+            from blog_finalize import finalize_article
+            if not finalize_article(path, log):
+                continue
             log.info(f"  Écrit: {path.name}")
             written_paths.append(path)
             written_titles.append(s["title"])

@@ -16,8 +16,16 @@ Mirror of scripts/reaccent_gemini.py's core (keep in sync if that changes).
 from __future__ import annotations
 import os, re, json, unicodedata, urllib.request, difflib
 
-MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-pro")
-_EP = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
+# Model fallback chain: flash first (highest free quota), then pro, then
+# flash-lite. gemini-2.5-pro alone was 429-starved on the shared parc key and
+# every re-accent layer silently no-op'd on 429 -> folded FR shipped -> deploy
+# blocked on ACCENT_LOW (recurring). A GEMINI_MODEL override is tried first.
+_MODELS = [m for m in (os.getenv("GEMINI_MODEL"), "gemini-2.5-flash",
+                       "gemini-2.5-pro", "gemini-2.5-flash-lite") if m]
+
+
+def _ep(model: str) -> str:
+    return f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
 _URL_RE = re.compile(r"https?://[^\s\)\"'>]+")
 _TOKEN = re.compile(r"\w+|\W+", re.UNICODE)
 _PROT_KEYS = ("slug", "url", "author", "vertical", "category", "clusterAnchor",
@@ -63,17 +71,27 @@ def _call_gemini(text: str, key: str) -> str:
         "contents": [{"role": "user", "parts": [{"text": text}]}],
         "generationConfig": {"temperature": 0, "maxOutputTokens": 65536},
     }
-    req = urllib.request.Request(
-        _EP + "?key=" + key, data=json.dumps(payload).encode(),
-        headers={"Content-Type": "application/json"})
-    with urllib.request.urlopen(req, timeout=180) as r:
-        body = json.loads(r.read())
-    cand = (body.get("candidates") or [{}])[0]
-    out = "".join(p.get("text", "") for p in cand.get("content", {}).get("parts", []))
-    if out.startswith("```"):
-        out = re.sub(r"^```[a-z]*\n", "", out)
-        out = re.sub(r"\n```\s*$", "", out)
-    return out
+    last_err: Exception | None = None
+    for model in dict.fromkeys(_MODELS):          # de-dup, preserve order
+        try:
+            req = urllib.request.Request(
+                _ep(model) + "?key=" + key, data=json.dumps(payload).encode(),
+                headers={"Content-Type": "application/json"})
+            with urllib.request.urlopen(req, timeout=180) as r:
+                body = json.loads(r.read())
+            cand = (body.get("candidates") or [{}])[0]
+            out = "".join(p.get("text", "") for p in cand.get("content", {}).get("parts", []))
+            if out.startswith("```"):
+                out = re.sub(r"^```[a-z]*\n", "", out)
+                out = re.sub(r"\n```\s*$", "", out)
+            if out.strip():
+                return out
+        except Exception as e:                    # 429/5xx/timeout -> next model
+            last_err = e
+            continue
+    if last_err:
+        raise last_err
+    return ""
 
 
 def _reconcile(orig: str, model: str) -> str:

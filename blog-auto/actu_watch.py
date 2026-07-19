@@ -698,6 +698,11 @@ def main():
                 log.info(f"[DRY] Décryptage généré pour: {s['title']}\n---\n{mdx[:500]}\n---")
                 continue
             path = write_article(mdx, slug)
+            # Racine « deploy nickel » : ré-accentue + clampe desc + refuse de
+            # committer tout article qui bloquerait le content guard.
+            from blog_finalize import finalize_article
+            if not finalize_article(path, log):
+                continue
             log.info(f"Écrit : {path.name}")
             written_paths.append(path)
             written_titles.append(s["title"])
