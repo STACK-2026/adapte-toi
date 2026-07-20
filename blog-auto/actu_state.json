@@ -1,6 +1,5 @@
 {
   "seen_urls": [
-    "https://www.reddit.com/r/artificial/comments/1uzw659/comparing_ai_predictions_before_the_world_cup",
     "https://news.google.com/rss/articles/CBMijgJBVV95cUxOZkc3a21XRzRxcG1VbzJoQnlqS3RmMnJ5Znc3OHpKRFF3OFB6RnJBRzkxNUZOOXdmWEhJNS1DcTBJbmRsUHVwM2R5MmV2bG1jUUduT0otSVlfS3BHNGZUWDlsdTVRcnVUb29qUlZKUzczZHhwOTRUdDZDX2N1TDhETnNjamxqSWhjdXk1Z0g2NENrNWFVcmQ2TVVVVmRnWkRqQVgtY3I4b0MySUozVVFOM2ZGcy1NTTRmZjdsMWxUZzZyR0twR3NCaEQ3QzZpUVBjbnYyUWM3djRhUU1Ud1dMVFBEcU5XbG0yT0tVMEx4ZUFXQXdRNEQ1SXdTZDRPN3N6b1JsRm1TS0JhSTVHeVE",
     "https://openai.com/index/api-model-distillation",
     "https://openai.com/index/retro-contest-results",
@@ -4999,7 +4998,8 @@
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYlEzMGZtbk5hNzhQeXFtVmxnR0p2N1hoX0pjaEhteU5UUzBQQUMyUkQ1SVpyd3VDSXBYR2k4dXoxekkxUmJ1OEtTNjFyUENWcWcyQ1lCZmJSYXprcFM5MzF4YUNlR3BOcG9ZTV9USE9ubk9Kdno0YWFmdHNEb3pQak5TQ0h1ZkRQMDVncnA2ZEdGd0U0ZmdtTG1mWHdudXJSVDFHX3FLblY",
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeFFRSWlvWktwcHM4MFpxRUlQcGtzMUxaQy1iR1lOREdmWnhUT1lvWjFPZ1lBdE9hVnIzSkRnN3dOOFRDcGFDcjE0N3JOWkNKUnJkUjZ1cXRGUTlPclQyR056VjA5T2R3RXVxTzBCYnpYZU5pVzNhd1NOSGVFSzF5OG44VWN5aWg2bEY3SjJiQThQM2NDWlZTS0traGFVQ2tLRy1jalVMbDF5ZlNkWUlvMEk0NmszczlPVmd6ZnN6REFUUWxvakJ1SGIxVmVTUlozMHdF",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQzlqZy0zM2FaLWhyNm1IZWgtUXVySVhqYVBlejh1MnFibXloNHlMN2wwVjRCQU04NklfTUNoaTVYbkFTaVh2cXRzWnhZaE43a3pDanJHZWt3S2ctdllKdUVXb2ZwdFpOTERBZDlFeXJJR25HWE8tX1R1enBYbFJSd1dpdVBzQ1p0ZHRobXFwUE12V2oxa0hSd24xMmtJVnZ0TjhIbWtWbkJkU2U3Y2tRTllOS3JCZS04M3o4Rm9mQUE2ZEJhVk90aHpMTGY",
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVRXUDZCZ19RVkVZQ3FCcGx0bHA1WW9RelhzTmNGcE9ZdVh3dmRsZjVTVm8zWVBvemFlY3BFWTN5aW96T3QwaFBYRnFQdFJ4aHNEeWJ6b21RNTVfd1ZhVy1pTWo4SjJOQUg5SldnUnRtQmpmbmV1NmFMbDVGLU1RLW9lTjc4bGpXejNYNkRuVmpPUm1sSXZudHlsc1k4TWEzRUYwNUdwYlNhczRnVVJnM3MwYWZzVFE"
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVRXUDZCZ19RVkVZQ3FCcGx0bHA1WW9RelhzTmNGcE9ZdVh3dmRsZjVTVm8zWVBvemFlY3BFWTN5aW96T3QwaFBYRnFQdFJ4aHNEeWJ6b21RNTVfd1ZhVy1pTWo4SjJOQUg5SldnUnRtQmpmbmV1NmFMbDVGLU1RLW9lTjc4bGpXejNYNkRuVmpPUm1sSXZudHlsc1k4TWEzRUYwNUdwYlNhczRnVVJnM3MwYWZzVFE",
+    "https://www.bcg.com/press/3june2026-ai-reshaping-jobs-faster-than-companies-reshaping-work"
   ],
   "seen_hashes": [
     "0881b6a79b7b6bd5",
