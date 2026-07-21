@@ -4,7 +4,7 @@ description: "OpenAI lance GPT-5.6 ce 9 juillet 2026 : trois modèles ultra-puis
 date: 2026-07-08
 category: "outil"
 impactLevel: 5
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Nous étendons dès maintenant l'accès en avant-première à l'échelle mondiale."
   author: "OpenAI, communiqué officiel"

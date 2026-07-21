@@ -4,7 +4,7 @@ description: "Samsung et l'État sud-coréen lancent un plan à 650 milliards de
 date: 2026-06-26
 category: "annonce"
 impactLevel: 5
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Une fois que tout sera confirmé, nous prévoyons de réunir les entreprises et les ministères concernés afin d'expliquer le projet au public sans délai."
   author: "Kim Yong-beom, secrétaire de la présidence sud-coréenne"

@@ -4,7 +4,7 @@ description: "Le 18 juin 2026, David Amiel a lancé la négociation de l'accord 
 date: 2026-06-25
 category: "politique"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Aucune suppression d'emploi liée aux gains de productivité de l'IA, aucune remise en cause des qualifications, aucun usage de l'IA pour piloter les carrières ou évaluer individuellement les agents."
   author: "CGT Fonction publique"

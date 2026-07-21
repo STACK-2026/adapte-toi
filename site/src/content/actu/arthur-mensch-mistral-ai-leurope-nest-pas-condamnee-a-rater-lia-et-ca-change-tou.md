@@ -4,7 +4,7 @@ description: "Le PDG de Mistral AI balaye le défaitisme européen sur l'IA et e
 date: 2026-06-08
 category: "voix"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Attention à la guerre des récits : celui qui insiste sur le déclin de l'Europe et son incapacité à être compétitive dans le domaine technologique est erroné."
   author: "Arthur Mensch, PDG de Mistral AI"

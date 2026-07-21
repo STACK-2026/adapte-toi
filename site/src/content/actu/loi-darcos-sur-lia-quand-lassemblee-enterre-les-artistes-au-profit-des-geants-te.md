@@ -4,7 +4,7 @@ description: "Le 11 juin 2026, l'Assemblée nationale a enterré une loi transpa
 date: 2026-06-12
 category: "politique"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Aujourd'hui est un jour de deuil. Celui où les députés du groupe Renaissance ont décidé d'enterrer la culture et la presse au profit de l'intelligence artificielle."
   author: "Cécile Rap-Veber, directrice générale de la Sacem"

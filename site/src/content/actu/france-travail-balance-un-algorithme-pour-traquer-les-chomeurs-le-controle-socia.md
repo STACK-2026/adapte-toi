@@ -4,7 +4,7 @@ description: "France Travail déploie un algorithme de profilage pour cibler 500
 date: 2026-07-20
 category: "politique"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "On assiste à la transformation d'un problème politique, le choix des critères de sélection des personnes à contrôler, en un problème purement technique."
   author: "La Quadrature du Net"

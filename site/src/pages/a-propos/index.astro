@@ -11,7 +11,6 @@ const breadcrumbs = [
   { name: "A propos", url: fullUrl("/a-propos") },
 ];
 
-const editorialBoard = siteConfig.blog.editorialBoard ?? [];
 const policies = siteConfig.policies ?? {};
 ---
 
@@ -33,7 +32,7 @@ const policies = siteConfig.policies ?? {};
         </p>
 
         <p>
-          On existe parce qu'en 2026, 4 millions de postes en France sont menacés par l'automatisation (OCDE), que 47% des actifs envisagent une reconversion (Ipsos), et que <strong>personne ne leur donne une information fiable, complète et honnête</strong> sur ce qui se passe vraiment.
+          On existe parce que l'IA modifie déjà le travail sans mode d'emploi clair. En 2026, BCG mesure un usage régulier de l'IA générative chez 62 % des salariés français interrogés, mais seuls 20 % disent gagner au moins une heure par jour. Notre rôle est de rendre ces évolutions compréhensibles, sourcées et utiles.
         </p>
 
         <h2 style={`color: ${siteConfig.colors.primary};`}>Notre ennemi</h2>
@@ -49,17 +48,17 @@ const policies = siteConfig.policies ?? {};
         <h2 style={`color: ${siteConfig.colors.primary};`}>Ce qu'on fait</h2>
 
         <p>
-          On analyse l'impact réel de l'<G term="intelligence artificielle" display="IA" /> sur chaque métier, avec des données sourcées (<G term="ocde" display="OCDE" />, <G term="mckinsey" display="McKinsey" />, <G term="anthropic" display="Anthropic" />, <G term="fmi" display="FMI" />, <G term="france travail" display="France Travail" />). On écrit des guides pratiques pour te reconvertir, te former ou monter en compétences. On teste les outils IA et on te dit lesquels valent le coup. On publie des témoignages de gens qui ont réussi leur transition.
+          On analyse l'impact réel de l'<G term="intelligence artificielle" display="IA" /> sur les métiers, avec des données sourcées (<G term="ocde" display="OCDE" />, BCG, <G term="anthropic" display="Anthropic" />, <G term="fmi" display="FMI" />, <G term="france travail" display="France Travail" />). On écrit des guides pratiques pour se reconvertir, se former ou monter en compétences. Les récits composites sont désormais signalés explicitement et ne sont jamais présentés comme des interviews individuelles.
         </p>
 
         <p>
-          Chaque article est écrit pour être <strong>le meilleur contenu disponible</strong> sur sa requête. Si c'est pas le cas, on ne publie pas.
+          Notre objectif est de produire un contenu utile et vérifiable. Quand une information est incertaine, ancienne ou insuffisamment documentée, on doit le dire et la corriger.
         </p>
 
         <h2 style={`color: ${siteConfig.colors.primary};`}>Nos sources</h2>
 
         <p>
-          On ne cite que des sources vérifiables : études <G term="ocde" display="OCDE" />, rapports <G term="mckinsey" display="McKinsey" />, données <G term="anthropic" display="Anthropic" />, chiffres INSEE, <G term="france travail" display="France Travail" />, PwC, <G term="cognizant" display="Cognizant" />, <G term="fmi" display="FMI" />, LinkedIn. Chaque chiffre est sourcé. Chaque affirmation est recoupée.
+          On privilégie les sources primaires vérifiables : études <G term="ocde" display="OCDE" />, données <G term="anthropic" display="Anthropic" />, chiffres INSEE, <G term="france travail" display="France Travail" />, publications d'entreprises et documents réglementaires. Les sources secondaires servent de contexte, pas de preuve unique quand une source originale existe.
         </p>
 
         <h2 style={`color: ${siteConfig.colors.primary};`}>Notre modèle économique</h2>
@@ -76,12 +75,12 @@ const policies = siteConfig.policies ?? {};
 
       <div class="prose max-w-none text-sm sm:text-base">
         <p>
-          Tu ne verras pas de noms d'auteurs sous nos articles. C'est un choix éditorial assumé. La majorité des médias d'audience en France signent au nom de leur rédaction collective (l'AFP, certaines tribunes du Monde, les éditos institutionnels). On fait pareil, pour trois raisons :
+          Tu ne verras pas de nom de journaliste sous nos articles. « La Rédaction Adapte-toi » est une signature collective qui désigne la responsabilité éditoriale du site et son processus de production.
         </p>
         <ol>
-          <li><strong>Chaque article est revu à plusieurs paires d'yeux</strong> avant publication (rédaction + cellule Données pour vérification factuelle). Aucun article n'est l'œuvre d'une seule personne.</li>
-          <li><strong>On préfère la cohérence de ligne éditoriale à la mise en avant de personnalités.</strong> Notre voix est collective et stable, pas la signature d'un journaliste-influenceur.</li>
-          <li><strong>On protège l'équipe</strong> qui couvre des sujets sensibles (licenciements, faillites de bootcamps, dérives sectaires de la formation). Pour les sujets YMYL et les enquêtes critiques, l'attribution collective est la norme dans le journalisme professionnel.</li>
+          <li><strong>La veille et la première rédaction peuvent être assistées par l'IA.</strong> L'IA n'est pas une source et ne porte pas la responsabilité de la publication.</li>
+          <li><strong>Des contrôles automatiques</strong> vérifient notamment la structure, la signature, les métadonnées, les liens et certaines règles de sources avant publication.</li>
+          <li><strong>Une revue humaine ciblée</strong> s'applique aux corrections, témoignages et sujets sensibles. Une publication quotidienne automatisée reste susceptible d'erreur, d'où notre mécanisme public de correction.</li>
         </ol>
         <p>
           Si un sujet le justifie (interview, témoignage, tribune extérieure), on cite explicitement la personne dans le corps de l'article. Mais la signature reste celle de la rédaction.
@@ -89,23 +88,17 @@ const policies = siteConfig.policies ?? {};
       </div>
     </section>
 
-    <!-- Cellules éditoriales -->
+    <!-- Processus éditorial -->
     <section class="mb-12 sm:mb-16">
-      <h2 class="text-2xl font-bold mb-6" style={`color: ${siteConfig.colors.secondary};`}>Nos cellules éditoriales</h2>
-      <p class="text-gray-600 text-sm mb-8">Adapte-toi s'organise en cellules spécialisées qui couvrent chaque facette de l'impact de l'IA sur l'emploi. Chaque publication passe par au moins deux cellules avant mise en ligne.</p>
-
-      <div class="space-y-4">
-        {editorialBoard.map((cell: { role: string; scope: string }) => (
-          <div class="flex gap-5 items-start bg-white rounded-2xl p-5 sm:p-6 border border-gray-100 shadow-sm">
-            <div class="w-12 h-12 rounded-full flex items-center justify-center flex-shrink-0 font-display font-bold text-base text-white" style={`background: ${siteConfig.colors.secondary};`} aria-hidden="true">
-              {cell.role.split(" ").filter((w) => w[0] && w[0].toUpperCase() === w[0]).slice(0, 2).map((w) => w[0]).join("") || "AT"}
-            </div>
-            <div>
-              <h3 class="font-bold text-base sm:text-lg mb-1">{cell.role}</h3>
-              <p class="text-gray-600 text-sm">{cell.scope}</p>
-            </div>
-          </div>
-        ))}
+      <h2 class="text-2xl font-bold mb-6" style={`color: ${siteConfig.colors.secondary};`}>Comment une publication est produite</h2>
+      <div class="prose max-w-none text-sm sm:text-base">
+        <ol>
+          <li>Veille quotidienne des communiqués, rapports, études et documents officiels.</li>
+          <li>Préparation éditoriale pouvant être assistée par des outils d'IA.</li>
+          <li>Contrôles programmatiques du contenu et validation technique au build.</li>
+          <li>Revue ciblée et correction publique lorsqu'un contenu présente un enjeu particulier ou qu'une erreur est signalée.</li>
+        </ol>
+        <p>Le détail des règles, limites et responsabilités est publié dans notre <a href={policies.publishing ?? "/politique-editoriale/"}>politique éditoriale</a>.</p>
       </div>
     </section>
 
@@ -126,20 +119,20 @@ const policies = siteConfig.policies ?? {};
       <h2 class="text-xl font-bold mb-6">En quelques chiffres</h2>
       <div class="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
         <div>
-          <p class="font-display font-bold text-2xl" style={`color: ${siteConfig.colors.primary};`}>50+</p>
-          <p class="text-gray-500 text-sm">Fiches métier prévues</p>
+          <p class="font-display font-bold text-2xl" style={`color: ${siteConfig.colors.primary};`}>28</p>
+          <p class="text-gray-600 text-sm">Fiches métier publiées</p>
         </div>
         <div>
-          <p class="font-display font-bold text-2xl" style={`color: ${siteConfig.colors.primary};`}>100+</p>
-          <p class="text-gray-500 text-sm">Articles planifiés</p>
+          <p class="font-display font-bold text-2xl" style={`color: ${siteConfig.colors.primary};`}>250+</p>
+          <p class="text-gray-600 text-sm">Actualités publiées</p>
         </div>
         <div>
           <p class="font-display font-bold text-2xl" style={`color: ${siteConfig.colors.primary};`}>12+</p>
-          <p class="text-gray-500 text-sm">Sources institutionnelles</p>
+          <p class="text-gray-600 text-sm">Sources suivies</p>
         </div>
         <div>
           <p class="font-display font-bold text-2xl" style={`color: ${siteConfig.colors.primary};`}>0</p>
-          <p class="text-gray-500 text-sm">Formation à vendre</p>
+          <p class="text-gray-600 text-sm">Formation à vendre</p>
         </div>
       </div>
     </section>

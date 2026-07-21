@@ -4,7 +4,7 @@ description: "Grammarly vs ChatGPT pour rédiger : forces, limites, tarifs et RG
 image: "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?w=1200&h=630&fit=crop&crop=center&q=80"
 imageAlt: "Professionnel rédigeant un document sur son ordinateur portable avec un assistant d'écriture par intelligence artificielle"
 date: 2026-07-03
-author: "Camille Renard"
+author: "La Rédaction Adapte-toi"
 category: "outils-ia"
 tags: ["Grammarly ChatGPT comparaison", "outils IA rédaction"]
 keywords: "Grammarly ChatGPT comparaison, outils IA rédaction"

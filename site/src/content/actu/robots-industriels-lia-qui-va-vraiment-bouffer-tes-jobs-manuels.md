@@ -4,7 +4,7 @@ description: "En 2026, l'IA prend le contrôle des usines. Pourquoi ton boulot e
 date: 2026-06-29
 category: "outil"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Les robots ne vont pas seulement remplacer des tâches répétitives - ils vont réinventer des métiers entiers en combinant vision par ordinateur, apprentissage en temps réel et manipulation fine."
   author: "Madhumita Murgia, rédactrice en chef IA au Financial Times"

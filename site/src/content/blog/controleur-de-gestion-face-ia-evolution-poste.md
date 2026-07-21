@@ -4,7 +4,7 @@ description: "Comment l'IA transforme le contrôleur de gestion : tâches automa
 image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Contrôleur de gestion analysant un tableau de bord financier assisté par IA sur écran"
 date: 2026-06-25
-author: "Theo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "metiers-ia"
 tags: ["contrôleur gestion IA", "métier contrôle gestion IA"]
 keywords: "contrôleur gestion IA, métier contrôle gestion IA"

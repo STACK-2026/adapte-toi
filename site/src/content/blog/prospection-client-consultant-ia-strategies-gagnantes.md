@@ -4,7 +4,7 @@ description: "Comment décrocher ses premiers clients en consulting IA en 2026 ?
 image: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Consultant indépendant en IA travaillant sur son ordinateur portable lors d'une session de prospection commerciale"
 date: 2026-06-29
-author: "Camille Renard"
+author: "La Rédaction Adapte-toi"
 category: "freelance-ia"
 tags: ["prospection consultant IA", "client freelance IA"]
 keywords: "prospection consultant IA, client freelance IA, prospection freelance intelligence artificielle"

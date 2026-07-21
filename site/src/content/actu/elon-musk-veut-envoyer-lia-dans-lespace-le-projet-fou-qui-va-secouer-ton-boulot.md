@@ -4,7 +4,7 @@ description: "SpaceX veut lancer 1 million de data centers en orbite pour alimen
 date: 2026-07-17
 category: "annonce"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Il n'y a pas de formule magique qui soit nécessaire et qui n'existe pas."
   author: "Elon Musk"

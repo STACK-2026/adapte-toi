@@ -4,7 +4,7 @@ description: "À San Francisco, les maisons se vendent 1 million de dollars au-d
 date: 2026-07-08
 category: "chiffre"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Absolutely BANANAS"
   author: "Mike Simonsen, économiste en chef chez Compass"

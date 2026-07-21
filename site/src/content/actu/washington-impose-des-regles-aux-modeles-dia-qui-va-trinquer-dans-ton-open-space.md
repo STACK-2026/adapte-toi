@@ -4,7 +4,7 @@ description: "Les États-Unis accélèrent leurs standards pour les modèles d'I
 date: 2026-07-02
 category: politique
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Nous ne pouvons pas laisser le marché seul décider des règles du jeu quand des millions d'emplois sont en jeu."
   author: "Gina Raimondo, Secrétaire au Commerce des États-Unis"

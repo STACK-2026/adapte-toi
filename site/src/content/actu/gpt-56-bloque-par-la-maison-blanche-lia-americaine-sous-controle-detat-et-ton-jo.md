@@ -4,7 +4,7 @@ description: "La Maison-Blanche exige un examen de 30 jours sur GPT-5.6 avant sa
 date: 2026-06-29
 category: politique
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Nous avons clairement indiqué au gouvernement américain que ce n'est pas notre modèle préféré à long terme, et nous travaillerons avec lui pour trouver une approche plus durable pour les futures publications."
   author: "Sam Altman, PDG d'OpenAI"

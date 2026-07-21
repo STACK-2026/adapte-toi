@@ -4,7 +4,7 @@ description: "Gilles Babinet et Pascale Seivy tirent la sonnette d'alarme : l'IA
 date: 2026-07-14
 category: voix
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Utiliser ChatGPT, c'est déjà vivre une forme d'hybridation cognitive."
   author: "Gilles Babinet, président de la Mission CaféIA"

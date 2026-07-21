@@ -4,7 +4,7 @@ description: "Mistral dévoile Robostral Navigate, son premier modèle d'IA con�
 date: 2026-07-08
 category: "outil"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "« Quitte le hall, traverse le couloir, entre dans la salle de stockage et arrête-toi face à la deuxième étagère »"
   author: "Mistral, exemple de consigne en langage naturel pour Robostral Navigate"

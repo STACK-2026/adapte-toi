@@ -4,7 +4,7 @@ description: "Anthropic relance Claude Fable 5 après un blocage politique, mais
 date: 2026-07-03
 category: "outil"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "C'est plutôt fréquent de voir l'effet 'waouh' passer sur la sortie de nouveaux modèles pour constater ensuite une dégradation."
   author: "SebGF, abonné Next.ink"

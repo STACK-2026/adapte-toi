@@ -4,7 +4,7 @@ description: "Doctolib active par défaut l'utilisation de tes données médical
 date: 2026-07-09
 category: "outil"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "À partir d'août 2026, nous collaborerons avec une équipe de recherche sur le projet 'Améliorer les parcours de soins grâce à l'intelligence artificielle'."
   author: "Doctolib (extrait de l'email envoyé aux utilisateurs)"

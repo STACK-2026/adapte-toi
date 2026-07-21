@@ -4,7 +4,7 @@ description: "Apple lance AFM 3, sa troisième génération de modèles d'IA, et
 date: 2026-06-15
 category: "outil"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Les premiers modèles Apple Intelligence étaient en retrait, insuffisamment performants pour soutenir la vision d'ensemble de l'entreprise."
   author: "Mickael Bazoge, Next.ink"

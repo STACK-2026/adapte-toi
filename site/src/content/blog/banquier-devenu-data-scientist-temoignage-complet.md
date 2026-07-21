@@ -2,7 +2,7 @@
 title: "Banquier devenu data scientist : témoignage complet"
 description: "Banquier devenu data scientist : témoignage détaillé d'une reconversion réussie. Parcours, formations, salaire, défis et conseils concrets pour 2026."
 date: 2026-06-04
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 category: "temoignages"
 tags: ["banquier data scientist", "reconversion finance IA", "témoignage reconversion"]
 keywords: "banquier data scientist, reconversion finance IA, témoignage data scientist"
@@ -10,6 +10,9 @@ draft: false
 image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Ancien banquier travaillant sur un ordinateur portable affichant des graphiques de données et des modèles d'intelligence artificielle"
 ---
+
+
+> **Note de transparence :** ce témoignage composite est une reconstitution éditoriale fondée sur plusieurs parcours et sources documentés. Les prénoms, situations et chiffres individuels servent à rendre le cas concret ; ils ne décrivent pas une personne unique interrogée par la rédaction.
 
 <aside data-speakable="true" class="tldr" style="background:#f5f5f5;padding:16px;border-left:4px solid #6b46c1;margin:20px 0;"><strong>En bref :</strong> Antoine, ancien chargé de clientèle pro en banque, a basculé vers un poste de <strong>data scientist</strong> en 18 mois. Salaire d'entrée à 45 000 euros, montée à 62 000 euros bruts en deux ans, formation hybride financée par le CPF, et un portfolio nourri par ses années en agence. Ce témoignage suit toutes les étapes : déclic, formation, premier poste, négociation salariale et conseils pour celles et ceux qui veulent suivre la même trajectoire en 2026.</aside>
 

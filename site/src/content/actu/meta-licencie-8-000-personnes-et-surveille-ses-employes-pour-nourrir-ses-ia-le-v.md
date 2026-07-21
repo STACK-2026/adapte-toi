@@ -4,7 +4,7 @@ description: "Meta sacrifie 10% de ses effectifs et transforme ses ingénieurs e
 date: 2026-06-25
 category: "menace"
 impactLevel: 5
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Les ingénieurs de Meta avaient le sentiment de travailler au sein d'un centre de profit. Aujourd'hui, ils sont traités comme un centre de coût."
   author: "Gergely Orosz, ex-ingénieur chez Uber et Skype, auteur de The Pragmatic Engineer"

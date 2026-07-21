@@ -4,7 +4,7 @@ description: "Le Financial Times a demandé à ses lecteurs comment l'IA change 
 date: 2026-06-11
 category: "outil"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "L'IA ne me remplace pas, elle me force à devenir meilleur dans ce que les machines ne savent pas faire : comprendre les nuances humaines."
   author: "Un consultant en stratégie cité par le FT"

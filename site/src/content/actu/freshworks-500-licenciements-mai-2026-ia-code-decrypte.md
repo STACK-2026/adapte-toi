@@ -58,7 +58,7 @@ relatedOutils:
 keywords: "Freshworks licenciements mai 2026, Freshworks 500 emplois IA, Dennis Woodside AI code, licenciements IA 2026, QA testing IA remplacement, AI Act licenciement France, dev junior IA Copilot Cursor, reconversion IA tech"
 schemaFaq: true
 lastReviewed: 2026-05-08
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Code source affiché sur écran d'ordinateur, ambiance bureau tech"

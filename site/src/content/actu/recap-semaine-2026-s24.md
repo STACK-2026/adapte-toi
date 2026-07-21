@@ -4,7 +4,7 @@ description: "Le résumé de la semaine sur Adapte-toi Décrypte : 18 décryptag
 date: 2026-06-14
 category: "chiffre"
 impactLevel: 3
-author: "Rédaction Adapte-toi"
+author: "La Rédaction Adapte-toi"
 tldr:
   - "Politique : Royaume-Uni : 1,1 milliard pour l'IA, mais où sont les emplois ?"
   - "Annonce : France Travail bascule de l'expérimentation à la transformation IA : ChatFT et MatchFT en généralisation"

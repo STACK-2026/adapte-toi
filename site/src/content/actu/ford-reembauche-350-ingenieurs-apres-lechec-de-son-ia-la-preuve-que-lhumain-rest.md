@@ -4,7 +4,7 @@ description: "Ford a licencié des ingénieurs pour automatiser avec l'IA, puis 
 date: 2026-06-29
 category: "annonce"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Nous avons pensé à tort qu'en introduisant simplement de l'intelligence artificielle et en intégrant les exigences de conception que nous avions établies, cela donnerait lieu à un produit de haute qualité."
   author: "Charles Poon, vice-président de l'ingénierie matérielle automobile de Ford"

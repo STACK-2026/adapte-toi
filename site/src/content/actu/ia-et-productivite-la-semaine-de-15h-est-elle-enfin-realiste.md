@@ -4,7 +4,7 @@ description: "L'IA promet de booster la productivité, mais au prix d'une transf
 date: 2026-06-02
 category: "etude"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "L'IA n'a de valeur que si elle libère du temps pour des tâches à plus forte valeur, comme la réflexion stratégique, la créativité ou la relation client."
   author: "Olivier Binisti, Directeur Business Consulting chez Adobe Europe de l'Ouest"

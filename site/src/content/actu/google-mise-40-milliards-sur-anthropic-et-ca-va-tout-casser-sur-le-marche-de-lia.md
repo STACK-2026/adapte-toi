@@ -43,7 +43,7 @@ relatedOutils:
   - "cursor"
 keywords: "Anthropic, Google, IA, investissement, compute, puces TPU, Claude, Mythos, emploi tech, reconversion, data analyst, développeur IA, cybersécurité"
 lastReviewed: 2026-04-25
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 ---
 

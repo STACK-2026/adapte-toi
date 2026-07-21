@@ -4,7 +4,7 @@ description: "Le gouvernement déploie un outil d'IA souverain pour 1 million de
 date: 2026-06-16
 category: "outil"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Il est évident que l'IA est une opportunité comme elle est une menace. Le risque d'être dépendant de ces technologies extra-européennes est réel."
   author: "David Amiel, ministre de l'Action et des Comptes publics"

@@ -4,7 +4,7 @@ description: "Le résumé de la semaine sur Adapte-toi Décrypte : 22 décryptag
 date: 2026-07-05
 category: "chiffre"
 impactLevel: 3
-author: "Rédaction Adapte-toi"
+author: "La Rédaction Adapte-toi"
 tldr:
   - "Politique : L'ONU veut encadrer l'IA : pourquoi c'est une bombe pour ton boulot (et ta reconversion)"
   - "Politique : IA et Big Tech : comment les États-Unis transforment un enjeu tech en bombe politique (et ce que ça change pour ton job)"

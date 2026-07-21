@@ -4,7 +4,7 @@ description: "En 2026, 75% du code chez Google est écrit par IA. Licenciements 
 date: 2026-07-13
 category: "menace"
 impactLevel: 5
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Le métier de développeur ne disparaît pas, mais il mute à une vitesse folle. Ceux qui survivront ne sont pas ceux qui codent le mieux, mais ceux qui savent dompter l'IA pour en faire un levier, pas un bourreau."
   author: "Bouke Klein Teeselink, économiste à King's College London"

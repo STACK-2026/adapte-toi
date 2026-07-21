@@ -4,7 +4,7 @@ description: "Lloyds Banking Group embauche 300 techs pour développer son IA au
 date: 2026-06-24
 category: "annonce"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "AI will reshape how organisations are structured. It will change roles and how we work."
   author: "Trystan Davies, group head of data and AI science at Lloyds"

@@ -120,7 +120,7 @@ export function jsonLdHomepage(opts?: {
  *  Collective signatures ("La Rédaction Adapte-toi", "Adapte-toi Décrypte",
  *  "Rédaction Adapte-toi") map to the publishing Organization entity, NOT
  *  a Person. This matches the editorial decision to publish under a single
- *  collective brand. Individual names — if any — still resolve to Person. */
+ *  collective brand. Individual names, if any, still resolve to Person. */
 function resolveAuthorNode(authorName?: string) {
   const name = (authorName || siteConfig.blog.defaultAuthor || "").trim();
   const collectivePatterns = [
@@ -190,7 +190,7 @@ export function jsonLdArticle(article: {
   };
 }
 
-/** JSON-LD for NewsArticle (used on /actu/ entries — Google News-eligible). */
+/** JSON-LD for NewsArticle (used on /actu/ entries, Google News-eligible). */
 export function jsonLdNewsArticle(article: {
   title: string;
   description: string;

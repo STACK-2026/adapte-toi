@@ -2,7 +2,7 @@
 title: "Consultant SAP vers expert IA : parcours de transition"
 description: "Témoignage d'un consultant SAP devenu expert IA en 2025 : déclic, formations, salaire, missions Joule et BTP, plan en 5 étapes pour réussir la transition."
 date: 2026-06-22
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 category: "temoignages"
 tags: ["consultant SAP expert IA", "reconversion ERP IA", "SAP Joule", "SAP S/4HANA"]
 keywords: "consultant SAP expert IA, reconversion ERP IA"
@@ -10,6 +10,9 @@ draft: false
 image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Ancien consultant SAP devenu expert IA travaillant sur un tableau de bord S/4HANA augmenté par SAP Joule et SAP AI Core"
 ---
+
+
+> **Note de transparence :** ce témoignage composite est une reconstitution éditoriale fondée sur plusieurs parcours et sources documentés. Les prénoms, situations et chiffres individuels servent à rendre le cas concret ; ils ne décrivent pas une personne unique interrogée par la rédaction.
 
 <aside data-speakable="true" class="tldr" style="background:#f5f5f5;padding:16px;border-left:4px solid #6b46c1;margin:20px 0;"><strong>En bref :</strong> Karim, 41 ans, ex-consultant <strong>SAP FICO</strong> chez un cabinet du top 5, est devenu expert SAP IA en 2025 chez un intégrateur français. Dix mois de bascule, un TJM passé de 850 à 1 250 euros, deux certifications SAP Learning Hub, et un quotidien réorganisé autour de SAP Joule, SAP AI Core et SAP BTP. Son témoignage déroule chaque étape, du déclic à la première mission livrée, avec les chiffres, les formations et les angles morts à éviter pour suivre la même route en 2026.</aside>
 

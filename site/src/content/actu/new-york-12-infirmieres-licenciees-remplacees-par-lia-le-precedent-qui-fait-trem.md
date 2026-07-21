@@ -4,7 +4,7 @@ description: "Montefiore Hospital a licencié 12 infirmières après 40 ans de c
 date: 2026-07-13
 category: "menace"
 impactLevel: 5
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "AI should be a tool used in conjunction with the clinical expert, not to replace. We're not against technology. The issue is with new tech without evidence."
   author: "Marilyn Shuler, infirmière licenciée après 39 ans de carrière"

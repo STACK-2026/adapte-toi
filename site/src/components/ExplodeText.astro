@@ -21,9 +21,9 @@ const {
   class={`explode-text ${className}`}
   data-explode-text={text}
   data-explode-scatter={scatter}
-  aria-label={text}
   style="display: inline-block; white-space: nowrap;"
 >
+  <span class="sr-only">{text}</span>
   {text.split("").map((ch, i) => (
     <span class="explode-char" aria-hidden="true" style="display: inline-block;" data-index={i}>
       {ch === " " ? "\u00a0" : ch}

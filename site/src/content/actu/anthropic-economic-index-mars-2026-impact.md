@@ -45,7 +45,7 @@ relatedOutils:
   - "copilot"
 keywords: "anthropic economic index, claude impact emploi, -67% centres appels, rapport IA emploi 2026"
 lastReviewed: 2026-04-15
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 ---
 

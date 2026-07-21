@@ -42,7 +42,7 @@ relatedOutils:
   - "zapier"
 keywords: "Block, IA, licenciements, fintech, cols blancs, automatisation, reconversion, Jack Dorsey, Square, Cash App, marché du travail, tech"
 lastReviewed: 2026-04-19
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 ---
 

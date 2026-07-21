@@ -4,7 +4,7 @@ description: "Le gouvernement mise sur L'Assistant, chatbot IA maison pour les a
 date: 2026-07-01
 category: politique
 impactLevel: 3
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "57 % considèrent que les autres IA génératives répondent mieux à leurs besoins."
   author: "Rapport d'évaluation de l'INRIA, INSA Rennes et CNRS"

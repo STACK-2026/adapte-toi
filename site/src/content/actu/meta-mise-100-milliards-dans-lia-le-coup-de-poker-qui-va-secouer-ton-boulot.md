@@ -4,7 +4,7 @@ description: "Mark Zuckerberg engage 100 milliards pour transformer Meta en géa
 date: 2026-06-03
 category: "annonce"
 impactLevel: 5
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Zuckerberg is spending hundreds of billions of dollars to transform Meta again, this time into an AI company."
   author: "Financial Times"

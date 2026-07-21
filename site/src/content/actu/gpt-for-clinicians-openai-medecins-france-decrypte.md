@@ -50,7 +50,7 @@ relatedOutils:
   - "perplexity"
 keywords: "GPT for Clinicians, IA medecin France, OpenAI sante, Med-PaLM, AI Act medical, intelligence artificielle clinique, BMO medecin"
 lastReviewed: 2026-04-26
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 ---
 

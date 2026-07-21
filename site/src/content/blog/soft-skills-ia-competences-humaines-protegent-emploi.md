@@ -5,8 +5,8 @@ image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=63
 imageAlt: "Equipe de collegues en reunion collaborative echangeant autour d'une table de travail lumineuse"
 date: 2026-07-09
 lastReviewed: 2026-07-09
-reviewedBy: "Camille Renard"
-author: "Camille Renard"
+reviewedBy: "Rédaction Adapte-toi"
+author: "La Rédaction Adapte-toi"
 category: "reconversion"
 tags: ["soft skills IA", "compétences humaines IA", "compétences transférables"]
 keywords: "soft skills IA, compétences humaines face à l'IA, compétences transférables reconversion"

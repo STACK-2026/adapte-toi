@@ -4,7 +4,7 @@ description: "L'IA ne réduit pas ton travail, elle l'intensifie. Une étude eth
 date: 2026-07-16
 category: "etude"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Rather than reducing workload, AI mainly expands the scope of tasks, blurs the line between work and non work, and pushes workers to manage several active threads at once."
   author: "Aruna Ranganathan et Xingqi Maggie Ye, UC Berkeley Haas School of Business"
@@ -63,7 +63,7 @@ relatedOutils:
 keywords: "IA charge de travail, étude Berkeley Haas, HBR intensification travail, Aruna Ranganathan, workload creep, burnout IA, ChatGPT productivité mythe, semaine de 15h, Europe Infos 13 juillet 2026, adaptation IA France, cadrage missions IA, AI Act supervision humaine, RGPD article 22 charge, DRH plan de charge"
 schemaFaq: true
 lastReviewed: 2026-07-16
-reviewedBy: "Léa Moreau"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 image: "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Salarié devant plusieurs écrans avec fenêtres d'IA ouvertes, symbolisant l'intensification du travail liée aux outils d'IA."

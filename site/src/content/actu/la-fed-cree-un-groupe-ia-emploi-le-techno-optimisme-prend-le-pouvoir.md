@@ -4,7 +4,7 @@ description: "La Réserve fédérale américaine lance un groupe de travail sur 
 date: 2026-07-15
 category: "politique"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Je rejoins l'Institut Anthropic, où je poursuivrai mes recherches sur l'IA et notre avenir économique."
   author: "Charles Irving Jones, économiste à Stanford et nouveau membre d'Anthropic"

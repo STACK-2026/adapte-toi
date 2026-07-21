@@ -41,7 +41,7 @@ relatedOutils:
   - "cursor"
 keywords: "IA, emploi, AI Index 2026, automatisation, reconversion, Chine, États-Unis, robots, coûts IA, recrutement, développeurs"
 lastReviewed: 2026-04-20
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 ---
 

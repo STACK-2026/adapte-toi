@@ -41,7 +41,7 @@ relatedOutils:
   - "chatgpt"
 keywords: "ruffin tiktok claude, IA politique france, ruffin claude anthropic, IA gauche francaise"
 lastReviewed: 2026-04-15
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 ---
 

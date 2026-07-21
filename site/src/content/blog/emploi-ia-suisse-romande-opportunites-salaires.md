@@ -4,7 +4,7 @@ description: "Les offres IA en Suisse ont été multipliées par 10 depuis 2018.
 image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureaux corporate avec open space et ecran d'ordinateur affichant un graphique financier"
 date: 2026-05-19
-author: "Theo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "actu-emploi"
 tags: ["emploi IA Suisse", "marché travail IA Suisse romande"]
 keywords: "emploi IA Suisse, marché travail IA Suisse romande"
@@ -34,7 +34,6 @@ Le marché de l'emploi IA en Suisse explose. Selon le **PwC AI Jobs Barometer 20
 
 La Suisse n'est pas juste un spectateur de la révolution IA. Le pays est un acteur central : concentré d'entreprises tech, multinationales, pharma et fintech, il absorbe des profils IA à un rythme que la formation locale ne suit pas encore.
 
-![Graphique croissance offres emploi IA Suisse 2018-2024 multipliées par dix](IMAGE_1)
 
 ### Ce que disent les données concrètement
 
@@ -110,7 +109,6 @@ Voici une cartographie réelle des postes qui recrutent en Suisse en 2026 - avec
 
 Consulte notre fiche métier AI Business Analyst pour un plan d'action détaillé si ce profil t'intéresse.
 
-![Carte secteurs emploi IA Suisse romande Genève Lausanne Fribourg](IMAGE_2)
 
 ---
 
@@ -212,7 +210,6 @@ C'est souvent l'angle oublié. Quelques leviers concrets :
 - **Financement employeur** : selon une étude Lefebvre Dalloz 2026, 1 professionnel sur 2 a déjà adopté l'IA dans son travail en 1 an. Les employeurs suisses, sous pression de compétitivité, financent de plus en plus les formations IA de leurs équipes. Ça se demande.
 - **Soutien aux PME via le SECO** : des subventions spécifiques existent pour les PME qui forment leurs salariés aux compétences numériques.
 
-![Formation IA Suisse romande EPFL Lausanne HES-SO certification](IMAGE_3)
 
 ---
 

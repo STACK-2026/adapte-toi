@@ -58,7 +58,7 @@ relatedOutils:
 keywords: "AI washing 2026, licenciements IA, Oxford Economics emploi, Challenger Gray Christmas T1 2026, IA emploi France, fiction entreprise IA, suppressions postes IA, IA prétexte licenciement"
 schemaFaq: true
 lastReviewed: 2026-05-02
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureaux vides au crépuscule, lumière froide"

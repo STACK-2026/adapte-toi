@@ -4,7 +4,7 @@ description: "Le 22 juin 2026, Oracle écrit dans son 10-K que le déploiement d
 date: 2026-06-23
 category: "menace"
 impactLevel: 5
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "The adoption and deployment of AI technologies across our operations have resulted, and may continue to result, in reductions to our workforce."
   author: "Oracle Corporation, Form 10-K FY2026, déposé auprès de la SEC le 22 juin 2026"

@@ -41,7 +41,6 @@ Concrètement : un client remplit un formulaire sur ton site. Make.com le détec
 
 La plateforme a été rachetée et rebaptisée Make en 2022 (elle s'appelait Integromat depuis 2012). Aujourd'hui, elle compte plus de 1 800 intégrations d'applications et gère des millions de scénarios chaque jour pour des indépendants, des PME et des grandes entreprises.
 
-![Interface visuelle Make.com scénario automatisation no-code workflow bulles](IMAGE_1)
 
 ### Les concepts de base à connaître
 
@@ -118,7 +117,6 @@ Pour aller plus loin sur le choix de tes outils IA, consulte notre guide des out
 
 **Voici sept cas d'usages réels, testés, utiles dès cette semaine.** Classés du plus simple au plus avancé.
 
-![Exemples automatisations Make.com carrière freelance reconversion professionnelle 2026](IMAGE_2)
 
 ### 1. Automatiser ta veille et ta recherche d'emploi
 
@@ -193,7 +191,6 @@ Ce scénario prend 1h30 à construire. Il te fait gagner 30 à 45 minutes par jo
 
 Pour explorer d'autres outils IA qui peuvent compléter Make dans ton quotidien professionnel, consulte notre guide des meilleurs outils IA pour les freelances.
 
-![Make.com intégration OpenAI ChatGPT automatisation intelligente assistants IA](IMAGE_3)
 
 ---
 

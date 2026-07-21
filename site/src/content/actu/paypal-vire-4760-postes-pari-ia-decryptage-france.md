@@ -62,7 +62,7 @@ relatedOutils:
 keywords: "PayPal licenciements 2026, PayPal IA, Enrique Lores PayPal, fintech licenciements IA, AI Act fintech, PayPal France, plan économies PayPal, Coinbase licenciements IA, reconversion IA fintech, droit travail IA"
 schemaFaq: true
 lastReviewed: 2026-05-07
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 image: "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureau de fintech avec écrans de paiement et logo flou en arrière-plan"

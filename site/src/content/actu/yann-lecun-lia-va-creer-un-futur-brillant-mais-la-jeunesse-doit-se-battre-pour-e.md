@@ -4,7 +4,7 @@ description: "Le pionnier de l'IA Yann LeCun appelle les jeunes à s'emparer des
 date: 2026-06-15
 category: "voix"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "La jeunesse doit s'emparer du futur brillant que va nous apporter l'IA."
   author: "Yann LeCun"

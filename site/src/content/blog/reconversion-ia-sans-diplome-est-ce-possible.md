@@ -2,7 +2,7 @@
 title: "Reconversion IA sans diplôme : est-ce vraiment possible ?"
 description: "Reconversion IA sans diplôme : métiers accessibles, compétences, formations finançables et plan d'action réaliste pour démarrer en 2026, même autodidacte."
 date: 2026-06-17
-author: "Camille Renard"
+author: "La Rédaction Adapte-toi"
 category: "reconversion"
 tags: ["reconversion IA sans diplôme", "autodidacte IA"]
 keywords: "reconversion IA sans diplôme, autodidacte IA, métiers IA sans diplôme"

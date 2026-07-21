@@ -4,7 +4,7 @@ description: "Le 3 juin 2026, Uber supprime 23% de sa division People and Places
 date: 2026-06-06
 category: "menace"
 impactLevel: 4
-author: "Lea Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "As we've grown, parts of the organisation have become too complex and fragmented, with overlapping responsibilities, unclear ownership, and teams operating too far from the businesses and partners they support."
   author: "Jill Hazelbaker"
@@ -60,7 +60,7 @@ relatedOutils:
 keywords: "Uber licenciements juin 2026, Uber 23 pourcent RH, Jill Hazelbaker People Places, Uber budget IA Claude Code, Cursor Anthropic Uber, AI coding tools cap 1500 dollars, Praveen Neppalli Naga, licenciement IA tech 2026, reconversion RH IA France, AI Act licenciement"
 schemaFaq: true
 lastReviewed: 2026-06-06
-reviewedBy: "Lea Moreau"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Open space d'une grande tech avec bureaux vides et ecrans allumes, ambiance restructuration"

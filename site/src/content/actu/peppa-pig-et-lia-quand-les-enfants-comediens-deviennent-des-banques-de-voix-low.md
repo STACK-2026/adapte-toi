@@ -4,7 +4,7 @@ description: "Hasbro exige que les jeunes doubleurs de Peppa Pig cèdent leur vo
 date: 2026-06-27
 category: "outil"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Les enfants ne peuvent pas donner un consentement légal en toute connaissance de cause, et l'accord d'un parent ou d'un tuteur ne doit en aucun cas servir de licence générale pour enregistrer, cloner, entraîner ou réutiliser la voix d'un enfant indéfiniment."
   author: "AYPA (Agents of Young Performers Association)"

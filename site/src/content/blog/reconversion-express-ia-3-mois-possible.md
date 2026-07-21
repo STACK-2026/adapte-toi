@@ -2,7 +2,7 @@
 title: "Reconversion express IA : possible en 3 mois ?"
 description: "Reconversion express dans l'IA en 3 mois : ce qui est réaliste, un plan de 90 jours semaine par semaine, les métiers atteignables et comment financer."
 date: 2026-07-17
-author: "Camille Renard"
+author: "La Rédaction Adapte-toi"
 category: "reconversion"
 tags: ["reconversion express IA", "reconversion 3 mois"]
 keywords: "reconversion express IA, reconversion IA 3 mois, se reconvertir vite intelligence artificielle"

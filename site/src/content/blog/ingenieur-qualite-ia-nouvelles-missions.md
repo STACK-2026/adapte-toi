@@ -5,7 +5,7 @@ image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1200&h=63
 imageAlt: "Ingénieure qualité analysant des indicateurs de performance d'un modèle d'intelligence artificielle sur un écran"
 date: 2026-06-18
 lastReviewed: 2026-06-18
-author: "Theo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "metiers-ia"
 tags: ["ingénieur qualité IA", "qualité intelligence artificielle", "reconversion qualité IA", "AI Act qualité"]
 keywords: "ingénieur qualité IA, métier qualité intelligence artificielle, qualité algorithmes, reconversion qualité IA"

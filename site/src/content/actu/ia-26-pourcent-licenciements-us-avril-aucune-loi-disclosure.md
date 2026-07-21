@@ -4,7 +4,7 @@ description: "Challenger confirme l'IA cause numéro un des licenciements US en 
 date: 2026-05-19
 category: "menace"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 schemaFaq: true
 keyQuote:
   text: "Companies are shifting budgets toward AI investments at the expense of jobs. Regardless of whether individual jobs are being replaced by AI, the money for those roles is."
@@ -66,7 +66,7 @@ relatedOutils:
   - "perplexity"
 keywords: "licenciements IA avril 2026, Challenger Gray 26 pourcent, IA cause licenciement US, AI Workforce PREPARE Act, WARN Act AI disclosure, 113000 licenciements tech 2026, PSE IA France, transparence IA emploi"
 lastReviewed: 2026-05-19
-reviewedBy: "Léa Moreau"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 image: "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Open space vide avec écrans éteints et lumière froide, ambiance post-licenciement"

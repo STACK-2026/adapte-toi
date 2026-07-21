@@ -34,7 +34,7 @@ relatedOutils:
   - "notion-ai"
 keywords: "formation professionnelle, France Travail, dérives sectaires, Qualiopi, reconversion, financement CPF, Miviludes, Carif-Oref, emploi, arnaque"
 lastReviewed: 2026-04-18
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 ---
 

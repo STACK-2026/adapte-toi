@@ -2,7 +2,7 @@
 title: "Professeur des écoles et IA : la pédagogie augmentée"
 description: "Professeur des écoles et IA en 2026 : ce que dit le cadre d'usage officiel, les outils P2IA (Lalilo, Navi), les tâches déléguables et compétences clés."
 date: 2026-06-29
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 category: "metiers-ia"
 tags: ["professeur des écoles IA", "pédagogie augmentée intelligence artificielle"]
 keywords: "professeur des écoles IA, pédagogie augmentée, IA école primaire"

@@ -4,7 +4,7 @@ description: "Quelles startups IA recrutent vraiment en France en 2026 ? Postes 
 image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Équipe d'une startup IA française réunie autour d'un écran affichant des offres de recrutement en 2026"
 date: 2026-06-12
-author: "Theo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "actu-emploi"
 tags: ["startup IA France recrutement", "emploi startup IA", "reconversion IA"]
 keywords: "startup IA France recrutement, emploi startup IA"

@@ -4,7 +4,7 @@ description: "La France lance sa première direction ministérielle dédiée à 
 date: 2026-06-19
 category: "politique"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Pour que la France reste dans la course, l'État doit être exemplaire dans sa capacité à adopter ces technologies, à les diffuser et à les mettre au service de sa performance."
   author: "Roland Lescure, ministre de l'Économie"

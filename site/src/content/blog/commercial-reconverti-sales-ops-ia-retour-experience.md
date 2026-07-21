@@ -2,7 +2,7 @@
 title: "Commercial reconverti en sales ops IA : retour d'expérience"
 description: "Commercial reconverti en sales ops IA : témoignage complet d'une transition réussie. Déclic, formations, missions, outils, salaire et conseils 2026."
 date: 2026-06-14
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 category: "temoignages"
 tags: ["commercial sales ops IA", "reconversion vente IA", "témoignage sales ops"]
 keywords: "commercial sales ops IA, reconversion vente IA"
@@ -10,6 +10,9 @@ draft: false
 image: "https://images.unsplash.com/photo-1551434678-e076c223a692?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Ancien commercial reconverti en sales ops travaillant sur un tableau de bord d'analyse de ventes assisté par intelligence artificielle"
 ---
+
+
+> **Note de transparence :** ce témoignage composite est une reconstitution éditoriale fondée sur plusieurs parcours et sources documentés. Les prénoms, situations et chiffres individuels servent à rendre le cas concret ; ils ne décrivent pas une personne unique interrogée par la rédaction.
 
 <aside data-speakable="true" class="tldr" style="background:#f5f5f5;padding:16px;border-left:4px solid #6b46c1;margin:20px 0;"><strong>En bref :</strong> Romain, ancien commercial terrain dans l'édition logicielle, est aujourd'hui <strong>sales ops IA</strong> dans une scale-up parisienne. Quatorze mois de transition, un salaire passé de 48 000 à 64 000 euros bruts, un CPF utilisé jusqu'au dernier euro, et un changement complet de posture professionnelle. Ce témoignage déroule toutes les étapes, du déclic au premier tableau de bord livré, avec les outils, les formations, les galères et les leçons utiles pour celles et ceux qui veulent suivre la même route en 2026.</aside>
 

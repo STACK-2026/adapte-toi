@@ -4,7 +4,7 @@ description: "Aux États-Unis, l'IA et les data centers deviennent un champ de b
 date: 2026-07-04
 category: politique
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Les géants de la tech font pencher la balance politique en leur faveur. À l'approche des élections de mi-mandat, de puissants 'super PAC' soutenus par le secteur technologique s'efforcent de bloquer les candidats qui prônent des politiques technologiques responsables et sûres."
   author: "Isabel Sunderland, Issue One"

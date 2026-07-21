@@ -4,7 +4,7 @@ description: "Juin 2026 : ServiceNow supprime des centaines de postes en sales, 
 date: 2026-06-24
 category: "menace"
 impactLevel: 4
-author: "Lea Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Our platform is generating real AI efficiencies inside our own business, we run the way we ask our customers to run. We're actively investing in and hiring for the AI-focused skills this era demands, while managing headcount with discipline to end the year where we started."
   author: "Bill McDermott"
@@ -65,7 +65,7 @@ relatedOutils:
 keywords: "ServiceNow licenciements juin 2026, Bill McDermott no-layoff pledge, Now Assist AI Control Tower, Action Fabric agentic, solution consulting layoffs, sales product marketing learning development, ServiceNow San Diego 63, attrition no-backfill 27000, AI efficiencies ServiceNow, AI Act licenciement France"
 schemaFaq: true
 lastReviewed: 2026-06-24
-reviewedBy: "Léa Moreau"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 imageAlt: "Open space ServiceNow vide avec écrans Now Assist allumés, ambiance restructuration AI"
 ---

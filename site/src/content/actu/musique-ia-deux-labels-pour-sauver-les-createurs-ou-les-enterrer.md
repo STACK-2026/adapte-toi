@@ -4,7 +4,7 @@ description: "L'industrie musicale lance deux labels pour distinguer les morceau
 date: 2026-07-11
 category: "outil"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Près de la moitié des titres mis en ligne chaque jour sur Deezer sont générés par l'IA."
   author: "BFM Tech, citant les données de Deezer (juillet 2026)"

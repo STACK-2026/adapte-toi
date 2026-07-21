@@ -4,7 +4,7 @@ description: "44% des nouveaux titres sur Deezer sont générés par IA. Mais le
 date: 2026-06-09
 category: "outil"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Chaque mois, plus de 2 millions de titres générés par l'IA sont mis en ligne sur Deezer."
   author: "BFM Tech, rapport Deezer 2026"

@@ -4,7 +4,7 @@ description: "Le 18 juin 2026, Emily Dalton Smith quitte Meta deux mois après a
 date: 2026-06-20
 category: "menace"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Les équipes, de l'ingénierie aux RH, en passant par la finance et le marketing, exécutent quotidiennement des milliers de sessions d'agents IA pour livrer leur travail."
   author: "Matthew Prince (Cloudflare), grammaire reprise en interne par les programmes Meta"

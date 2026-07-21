@@ -4,7 +4,7 @@ description: "En 2026, les salariés tech qui n'utilisent pas l'IA ont 3 fois pl
 date: 2026-07-06
 category: menace
 impactLevel: 5
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Ce qui compte, à la fin, c'est : sont-ils plus productifs ?"
   author: "Jim Harter, analyste principal des pratiques de gestion en milieu de travail chez Gallup"

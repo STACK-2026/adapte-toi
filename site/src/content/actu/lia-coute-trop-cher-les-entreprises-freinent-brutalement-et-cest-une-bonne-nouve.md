@@ -4,7 +4,7 @@ description: "Amazon, Uber, et d'autres géants réduisent leurs dépenses IA ap
 date: 2026-06-20
 category: "outil"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "We created a monster"
   author: "Un cadre dirigeant d'Amazon, cité par le Financial Times"

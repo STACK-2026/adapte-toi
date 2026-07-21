@@ -29,7 +29,7 @@ export async function GET(context: { site?: URL }) {
     .slice(0, 1000);
 
   const urls = recent.map((p) => {
-    const loc = `${siteUrl}/actu/${p.id}`;
+    const loc = `${siteUrl}/actu/${p.id}/`;
     const pubDate = p.data.date.toISOString();
     const title = escapeXml(p.data.title);
     return `  <url>

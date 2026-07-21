@@ -4,7 +4,7 @@ description: "OpenAI retarde son nouveau modèle, Anthropic voit ses IA coupées
 date: 2026-07-11
 category: "menace"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Les premiers tests montraient que ces IA trouvaient très facilement des failles dans des programmes en tout genre."
   author: "Antonin Bergeaud, professeur à HEC et spécialiste de l'IA"

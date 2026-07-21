@@ -4,7 +4,7 @@ description: "L'OCDE publie son rapport 2026 sur l'emploi et l'IA : pas de licen
 date: 2026-07-07
 category: "etude"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "L'IA est en train de remodeler le travail plutôt que de le réduire."
   author: "Mathias Cormann, secrétaire général de l'OCDE"

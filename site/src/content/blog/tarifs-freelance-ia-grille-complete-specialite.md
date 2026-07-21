@@ -4,7 +4,7 @@ description: "Tarifs freelance IA 2026 : grille des TJM par spécialité, du jun
 image: "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureau d'un freelance IA avec ordinateur affichant une grille tarifaire et un tableau de TJM"
 date: 2026-06-05
-author: "Camille Renard"
+author: "La Rédaction Adapte-toi"
 category: "freelance-ia"
 tags: ["tarifs freelance IA", "TJM consultant IA", "prix consultant IA"]
 keywords: "tarifs freelance IA, prix consultant IA, facturation IA"

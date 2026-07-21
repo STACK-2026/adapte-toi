@@ -1,7 +1,7 @@
 ---
 title: "Politique éditoriale"
 description: "La ligne éditoriale d'Adapte-toi : comment on choisit les sujets, comment on les traite, qui publie quoi, et pourquoi."
-lastUpdated: 2026-05-17
+lastUpdated: 2026-07-21
 ---
 
 ## Notre raison d'être
@@ -28,7 +28,7 @@ Trois critères, dans cet ordre :
 2. **Possibilité de vérification.** S'il n'y a pas de source institutionnelle ou de donnée vérifiable, on ne publie pas, ou alors on publie comme tribune signalée comme telle.
 3. **Angle distinctif.** Si dix autres médias ont déjà couvert exactement le même sujet sous le même angle, on ne se contente pas de paraphraser : on apporte un éclairage spécifique (analyse sectorielle française, conséquence pour un métier précis, méthodologie comparée).
 
-Les sujets sont proposés dans la cellule de rédaction lors d'une réunion hebdomadaire, validés par la rédaction en chef, puis programmés.
+Les sujets sont sélectionnés à partir d'une veille quotidienne des sources primaires et de leur utilité pour les actifs en France. Une partie de la collecte et de la préparation éditoriale est automatisée afin de maintenir cette veille dans la durée.
 
 ## Comment on traite un sujet
 
@@ -40,21 +40,21 @@ Nous priorisons les sources suivantes pour les données macro et sectorielles : 
 
 ### Écriture
 
-Chaque article est rédigé par un membre de la cellule éditoriale concernée. Le ton est direct, factuel, accessible. On évite le jargon économique inutile. On utilise le tutoiement parce que notre lecteur cherche une information actionnable, pas une analyse de salle de marché.
+La veille, la structuration et la première rédaction peuvent être assistées par des outils d'intelligence artificielle. Le ton reste direct, factuel et accessible. L'IA n'est jamais présentée comme une source : les liens, chiffres et citations doivent renvoyer vers des documents identifiables.
 
 ### Relecture et validation
 
-Avant publication, chaque article passe par :
+Notre chaîne de publication applique des contrôles adaptés au format :
 
-1. Relecture factuelle par la cellule Données (vérification des chiffres, des sources, des citations).
-2. Relecture éditoriale par la rédaction en chef (ligne, ton, équilibre, conflits d'intérêt potentiels).
-3. Vérification finale du maillage (sources externes accessibles, sources internes pertinentes, balises de glossaire correctes).
+1. contrôles automatiques de structure, de signature, de présence des sources et de conformité éditoriale ;
+2. vérification des liens, des métadonnées, du maillage et des données structurées au moment du build ;
+3. revue humaine ciblée pour les sujets sensibles, les corrections, les témoignages et les contenus à fort enjeu professionnel ou financier.
 
-Un article ne sort que lorsque ces trois validations sont passées. Aucune publication automatique sans validation humaine.
+Une actualité peut être mise en ligne par le pipeline quotidien après ces contrôles automatiques. Cette vitesse n'est pas une garantie d'infaillibilité : toute erreur signalée est examinée et corrigée selon notre [politique de correction](/politique-de-correction/).
 
 ## Signature collective
 
-Tous nos articles sont signés au nom de **La Rédaction Adapte-toi**. C'est un choix éditorial assumé, expliqué en détail sur notre page [À propos](/a-propos/). En résumé : chaque article étant relu par plusieurs personnes, l'attribution individuelle ne reflèterait pas la réalité du travail.
+Tous nos articles sont signés au nom de **La Rédaction Adapte-toi**. Cette signature désigne la responsabilité éditoriale du site et son processus de production, y compris lorsque des outils d'IA assistent la veille ou la rédaction. Elle ne doit pas être interprétée comme le nom d'une personne ni comme la preuve d'une relecture par plusieurs journalistes.
 
 Quand un sujet le justifie, interview, tribune extérieure, témoignage d'un expert, la personne citée est identifiée précisément dans le corps de l'article, avec ses fonctions et son rattachement. Mais la signature globale reste celle de la rédaction.
 
@@ -82,4 +82,4 @@ Les sujets que nous traitons évoluent vite. Nous mettons régulièrement à jou
 
 Une remarque sur cette politique, un signalement, une suggestion d'amélioration : **contact@adapte-toi.com**. Nous nous engageons à répondre à toute demande argumentée sous 7 jours ouvrés.
 
-Cette politique éditoriale est révisée au moins une fois par an. Dernière mise à jour : 17 mai 2026.
+Cette politique éditoriale est révisée au moins une fois par an. Dernière mise à jour : 21 juillet 2026.

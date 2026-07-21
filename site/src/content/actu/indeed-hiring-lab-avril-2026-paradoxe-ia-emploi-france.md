@@ -59,7 +59,7 @@ relatedOutils:
   - "copilot"
 keywords: "Indeed Hiring Lab avril 2026, IA emploi France, offres emploi IA, marché du travail 2026, paradoxe IA France, génération Z IA, OCDE croissance France 2026"
 lastReviewed: 2026-04-29
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 ---
 

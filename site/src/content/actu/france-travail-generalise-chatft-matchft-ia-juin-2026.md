@@ -4,7 +4,7 @@ description: "Au sommet européen de Lille le 12 juin 2026, France Travail acte 
 date: 2026-06-13
 category: "annonce"
 impactLevel: 4
-author: "Lea Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "A France Travail, l'IA n'est pas une vitrine technologique : c'est un levier concret de transformation du service public. En 2026, nous passons de l'expérimentation à la transformation."
   author: "Thibaut Guilluy"
@@ -63,7 +63,7 @@ relatedOutils:
 keywords: "France Travail IA juin 2026, ChatFT généralisation, MatchFT Offres T4 2026, MatchFT Formation 2027, Thibaut Guilluy IA, sommet IA Lille 12 juin 2026, Mistral AI France Travail, IA emploi public France, assistant conseiller France Travail, demandeur emploi IA"
 schemaFaq: true
 lastReviewed: 2026-06-13
-reviewedBy: "Lea Moreau"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 image: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Conseiller en agence France Travail accompagnant un demandeur d'emploi devant un écran d'ordinateur, ambiance service public moderne"

@@ -4,7 +4,7 @@ description: "La loi du 11 juin 2026 réduit l'indemnisation chômage après rup
 date: 2026-06-29
 category: "politique"
 impactLevel: 5
-author: "Lea Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "C'est une septième réforme de l'assurance chômage depuis 2017, qui dégrade toujours les droits des travailleurs."
   author: "Monique Lubin"
@@ -61,7 +61,7 @@ image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=63
 keywords: "rupture conventionnelle 1er septembre 2026, loi 2026-470, indemnisation chômage IA, licenciement intelligence artificielle France, restructuration IA salarié, France Travail suivi renforcé, 15 mois chômage, mutation technologique, AI Act emploi, Unedic réforme 2026"
 schemaFaq: true
 lastReviewed: 2026-06-29
-reviewedBy: "Lea Moreau"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 ---
 

@@ -4,7 +4,7 @@ description: "Ford réembauche 350 anciens pour former ses outils IA et réduire
 date: 2026-07-02
 category: "outil"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Nous avons cru, à tort, qu'il suffisait d'introduire de l'intelligence artificielle et d'y intégrer nos exigences de conception pour obtenir un produit de grande qualité."
   author: "Charles Poon, vice-président ingénierie matérielle de Ford"

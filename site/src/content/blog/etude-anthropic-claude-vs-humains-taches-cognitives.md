@@ -4,7 +4,7 @@ description: "Étude Anthropic sur Claude vs humains : exposition observée par 
 image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&h=630&fit=crop&crop=center&q=80"
 imageAlt: "Bureau avec ordinateur affichant un tableau de bord d'indicateurs liés à l'intelligence artificielle et au marché du travail"
 date: 2026-06-30
-author: "Theo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "etudes-rapports"
 tags: ["étude Anthropic Claude", "rapport Claude IA"]
 keywords: "étude Anthropic Claude, rapport Claude IA"

@@ -4,7 +4,7 @@ description: "Le 'workslop' gangrène les open-spaces : des dossiers générés 
 date: 2026-06-22
 category: "menace"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Si l'utilisation de l'IA en entreprise est claire et bien définie, elle se fera pour le bien de tous. Si ses règles restent floues, alors le workslop se diffusera comme un nouveau mal dans la vie d'une entreprise."
   author: "BFM Tech"

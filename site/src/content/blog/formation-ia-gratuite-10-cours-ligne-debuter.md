@@ -2,7 +2,7 @@
 title: "Formation IA gratuite : 10 cours en ligne pour débuter en 2026"
 description: "10 formations IA gratuites pour débuter en 2026 : Stanford, Google, Microsoft, Hugging Face. Du sans code au technique, avec un parcours clair et zéro bullshit."
 date: 2026-06-18
-author: "Camille Renard"
+author: "La Rédaction Adapte-toi"
 category: "formation"
 tags: ["formation IA gratuite", "cours IA en ligne"]
 keywords: "formation IA, formation IA gratuite, cours IA en ligne"

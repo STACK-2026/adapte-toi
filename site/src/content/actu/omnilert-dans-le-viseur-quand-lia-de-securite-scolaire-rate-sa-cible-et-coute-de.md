@@ -4,7 +4,7 @@ description: "Une plainte aux États-Unis révèle les limites d'un système d'I
 date: 2026-06-10
 category: "outil"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Comment peut-on faire confiance à un tel système ? C'est ça, votre plan pour protéger les enfants des fusillades dans les écoles ? En quoi est-ce mieux qu'un détecteur de métaux ?"
   author: "Chris Smith, avocat du plaignant"

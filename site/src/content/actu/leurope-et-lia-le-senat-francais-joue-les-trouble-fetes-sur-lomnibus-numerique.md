@@ -4,7 +4,7 @@ description: "Le Sénat français torpille l'omnibus numérique européen en acc
 date: 2026-06-22
 category: "politique"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "L'Union européenne à ne pas trembler ni transiger dans l'application de l'arsenal juridique novateur et ambitieux qu'elle a commencé à construire pour encadrer l'IA et le secteur numérique."
   author: "Résolution du Sénat français, 19 juin 2026"

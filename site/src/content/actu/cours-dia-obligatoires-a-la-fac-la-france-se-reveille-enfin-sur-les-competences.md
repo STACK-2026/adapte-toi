@@ -4,7 +4,7 @@ description: "Le ministre de l'Enseignement supérieur veut des modules IA oblig
 date: 2026-06-09
 category: "politique"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Ces questions-là, vous devriez pouvoir vous les poser, que vous soyez en agrégation de philo ou en première année dans un BUT de chaudronnerie."
   author: "Philippe Baptiste, ministre de l'Enseignement supérieur"

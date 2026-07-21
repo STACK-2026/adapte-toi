@@ -2,7 +2,7 @@
 title: "Formation IA en ligne vs présentiel : Que choisir ?"
 description: "Formation IA en ligne ou en présentiel en 2026 ? Comparatif honnête : prix, CPF, certification, profils types et taux d'achèvement réels."
 date: 2026-06-02
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 category: "formation"
 tags: ["formation IA en ligne", "formation IA présentiel"]
 keywords: "formation IA en ligne, formation IA présentiel"

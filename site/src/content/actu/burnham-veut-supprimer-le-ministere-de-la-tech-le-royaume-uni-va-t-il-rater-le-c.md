@@ -4,7 +4,7 @@ description: "Le nouveau Premier ministre britannique Andy Burnham envisage de s
 date: 2026-07-18
 category: politique
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Right now is a critical moment for tech as an economic and national security issue. Tying up our most senior science and tech officials in a [reorganisation] wastes time and energy that's desperately needed for the actual substance."
   author: "Matt Clifford, conseiller IA des ex-Premiers ministres Keir Starmer et Rishi Sunak"

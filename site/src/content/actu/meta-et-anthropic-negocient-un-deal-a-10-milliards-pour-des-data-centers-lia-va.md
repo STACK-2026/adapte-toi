@@ -4,7 +4,7 @@ description: "Meta discute avec Anthropic pour investir jusqu'à 10 milliards da
 date: 2026-07-18
 category: "annonce"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Les data centers ne sont plus des entrepôts de serveurs, mais des usines à intelligence. Ceux qui ne savent pas les faire tourner seront les ouvriers non qualifiés de demain."
   author: "Dario Amodei, CEO d'Anthropic"

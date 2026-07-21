@@ -4,7 +4,7 @@ description: "Notion AI booste vraiment la gestion de projet ? Cas d'usage concr
 image: "https://images.unsplash.com/photo-1648134859187-71dadc9f815a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Nzg4MzB8MHwxfHNlYXJjaHwyfHx3b3JrZmxvdyUyMGF1dG9tYXRpb24lMjBkYXNoYm9hcmR8ZW58MXwwfHx8MTc3ODYwMDQzOXww&ixlib=rb-4.1.0&q=80&w=1080&w=1200&h=630&fit=crop&q=80"
 imageAlt: "Notion AI pour chefs de projet : 10 cas d'usage concrets 202"
 date: 2026-05-18
-author: "Camille Renard"
+author: "La Rédaction Adapte-toi"
 category: "outils-ia"
 tags: ["Notion AI", "outils IA gestion projet", "IA productivité"]
 keywords: "Notion AI, outils IA gestion projet, IA productivité"
@@ -31,7 +31,6 @@ draft: false
 
 Notion AI est devenu en deux ans l'un des outils IA gestion projet les plus utilisés par les chefs de projet francophones. Mais entre le marketing de Notion et la réalité du terrain, il y a souvent un écart. Cet article te donne les cas d'usage concrets, le comparatif brutal avec ChatGPT et Microsoft Copilot, et les limites que personne ne mentionne.
 
-![Notion AI interface gestion projet chef de projet 2026](IMAGE_1)
 
 ---
 
@@ -89,7 +88,6 @@ Le chef de projet passe en moyenne 40% de son temps en communication selon le PM
 
 Donne-lui un brief de 3 lignes. Il génère un plan de projet structuré avec phases, livrables types et jalons indicatifs. Tu économies l'heure de réflexion à blanc sur la page vide.
 
-![Notion AI automatisation tâches répétitives chef de projet workflow](IMAGE_2)
 
 ### 6. Mise à jour automatique des statuts (Agents IA)
 
@@ -229,7 +227,6 @@ Structure une présentation CODIR de 5 slides :
 5. Prochaines étapes
 ```
 
-![Prompts Notion AI chef de projet exemples pratiques productivité](IMAGE_3)
 
 ---
 

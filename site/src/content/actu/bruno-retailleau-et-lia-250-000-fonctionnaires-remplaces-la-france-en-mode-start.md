@@ -4,7 +4,7 @@ description: "Le candidat LR à la présidentielle 2027 propose de supprimer 250
 date: 2026-07-20
 category: "voix"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "L'IA n'attend pas notre consentement. Elle s'impose, et elle décidera, dans les dix années qui viennent, du rang des nations."
   author: "Bruno Retailleau"

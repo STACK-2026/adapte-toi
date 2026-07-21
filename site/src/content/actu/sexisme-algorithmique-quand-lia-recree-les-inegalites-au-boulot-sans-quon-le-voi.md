@@ -41,7 +41,7 @@ relatedOutils:
   - "midjourney"
 keywords: "biais algorithmiques, sexisme, IA, recrutement, salaire, prêt bancaire, AI Act, discrimination, genre, reconversion"
 lastReviewed: 2026-04-24
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 ---
 

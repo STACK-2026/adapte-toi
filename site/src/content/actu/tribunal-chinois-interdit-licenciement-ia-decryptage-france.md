@@ -58,7 +58,7 @@ relatedOutils:
 keywords: "licenciement IA Chine, tribunal Hangzhou IA, AI Act licenciement, droit du travail IA France, remplacement IA emploi, jurisprudence IA 2026, PSE IA France, reconversion IA"
 schemaFaq: true
 lastReviewed: 2026-05-04
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 image: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Marteau de juge devant un écran d'ordinateur, ambiance feutrée"

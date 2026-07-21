@@ -4,7 +4,7 @@ description: "La Direction générale du Trésor publie le 30 juin 2026 la note 
 date: 2026-07-10
 category: "etude"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Le solde net entre substitution au travail et gains de productivité pouvant stimuler la demande de main-d'œuvre reste incertain, avec des risques pour certains travailleurs."
   author: "Trésor-Éco n°391"
@@ -59,7 +59,7 @@ relatedOutils:
 keywords: "Trésor-Eco 391, Direction générale du Trésor IA emploi, IA remplace travail Bercy, métiers qualifiés exposés IA 2026, effets IA emploi France, note Trésor juin 2026, IA productivité France, reconversion IA finance assurance"
 schemaFaq: true
 lastReviewed: 2026-07-10
-reviewedBy: "Redaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Une note économique posée sur le bureau du ministère de l'Économie a Bercy, avec un graphique montrant deux courbes emploi et productivité"

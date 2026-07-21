@@ -4,7 +4,7 @@ description: "Le 15 juillet 2026, Anthropic, Blackstone et Hellman & Friedman la
 date: 2026-07-17
 category: "annonce"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "It's pretty easy to imagine this as a trillion-dollar company someday if we execute well."
   author: "Chris Taylor, CEO de Ode with Anthropic"

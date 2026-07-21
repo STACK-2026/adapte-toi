@@ -4,7 +4,7 @@ description: "Microsoft supprime jusqu'à 2,5 % de ses effectifs le 1er juillet 
 date: 2026-07-02
 category: "menace"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Nous devons nous concentrer sur les priorités stratégiques, ce qui implique des choix difficiles."
   author: "Asha Sharma"
@@ -63,7 +63,7 @@ imageAlt: "Immeuble Microsoft à Redmond au petit matin avec logo Xbox estompé 
 keywords: "Microsoft licenciements juillet 2026, Xbox reset, Asha Sharma, restructuration IA, capex IA, plan social Microsoft, ventes consulting Microsoft, Satya Nadella, IA emploi, licenciements tech 2026, 2 juillet 2026, plan 5500 postes"
 schemaFaq: true
 lastReviewed: 2026-07-02
-reviewedBy: "Léa Moreau"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 ---
 

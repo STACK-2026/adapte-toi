@@ -4,7 +4,7 @@ description: "Le Royaume-Uni promet 1,1 milliard de livres pour l'infrastructure
 date: 2026-06-13
 category: "politique"
 impactLevel: 3
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "On va dépenser un milliard pour construire une infrastructure britannique... sur du silicium étranger, intégré par des fournisseurs établis et loué à des hyperscalers."
   author: "Mark Boost, PDG de Civo"

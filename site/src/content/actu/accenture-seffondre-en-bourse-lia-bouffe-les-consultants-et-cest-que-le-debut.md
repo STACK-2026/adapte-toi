@@ -4,7 +4,7 @@ description: "Les actions d'Accenture plongent à leur plus bas depuis 2017 à c
 date: 2026-06-19
 category: "menace"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Les clients d'Accenture réduisent leurs budgets de conseil traditionnels pour investir dans des solutions d'IA internes ou auprès de start-ups spécialisées."
   author: "Analyste cité par le Financial Times"

@@ -4,7 +4,7 @@ description: "Doctolib va utiliser les données de santé de 50 millions de Fran
 date: 2026-07-21
 category: "outil"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Les données de santé touchent à l'intimité la plus profonde de l'individu."
   author: "Ligue des droits de l'homme (LDH)"

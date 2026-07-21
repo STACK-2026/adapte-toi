@@ -5,7 +5,7 @@ image: "https://images.unsplash.com/photo-1642790551116-18e150f248e3?w=1200&h=63
 imageAlt: "Analyste financier consultant un tableau de bord de données financières sur un ordinateur avec graphiques et indicateurs de performance"
 date: 2026-07-11
 lastReviewed: 2026-07-11
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 category: "metiers-ia"
 tags: ["analyste financier IA", "compétences finance IA", "reconversion analyste financier", "prompt engineering finance"]
 keywords: "analyste financier IA, métier finance intelligence artificielle, compétences analyste financier 2026, Python finance, prompt engineering finance"

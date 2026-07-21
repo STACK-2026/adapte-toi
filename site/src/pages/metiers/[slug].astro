@@ -230,7 +230,7 @@ if (fiche.data.relatedTools && fiche.data.relatedTools.length > 0) {
         <p class="font-bold text-base mb-4">Fiches métier similaires</p>
         <div class="grid grid-cols-1 sm:grid-cols-3 gap-3">
           {otherFiches.slice(0, 3).map((f) => (
-            <a href={`/metiers/${f.id}`} class="flex items-center gap-3 p-3 bg-white rounded-xl border border-gray-100 hover:border-primary/30 transition-colors text-sm">
+            <a href={`/metiers/${f.id}/`} class="flex items-center gap-3 p-3 bg-white rounded-xl border border-gray-100 hover:border-primary/30 transition-colors text-sm">
               <span class="font-display font-bold text-primary">{f.data.riskScore}/10</span>
               <span class="text-gray-700 font-medium truncate">{f.data.metier}</span>
             </a>

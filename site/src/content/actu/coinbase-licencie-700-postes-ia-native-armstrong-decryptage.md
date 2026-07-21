@@ -58,7 +58,7 @@ relatedOutils:
 keywords: "Coinbase licenciements mai 2026, Coinbase 700 emplois IA, Brian Armstrong AI-native, player-coach Coinbase, pods AI-native, tiny teams IA, licenciements IA 2026, reconversion IA France, manager intermédiaire IA"
 schemaFaq: true
 lastReviewed: 2026-05-13
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 image: "https://images.unsplash.com/photo-1516387938699-a93567ec168e?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Pièce de monnaie Bitcoin posée sur un écran affichant des graphiques de marché, ambiance fintech"

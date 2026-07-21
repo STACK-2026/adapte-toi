@@ -5,7 +5,7 @@ image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=63
 imageAlt: "Bureau d'un consultant indépendant avec contrat d'assurance et ordinateur affichant un tableau de bord d'intelligence artificielle"
 date: 2026-07-10
 lastReviewed: 2026-07-10
-author: "Camille Renard"
+author: "La Rédaction Adapte-toi"
 category: "freelance-ia"
 tags: ["assurance consultant IA", "RC Pro consultant IA", "responsabilité freelance IA", "IA Act 2026"]
 keywords: "assurance consultant IA, responsabilité freelance IA, RC Pro consultant IA, cyber assurance IA, IA Act 2026, assurance intelligence artificielle"

@@ -4,7 +4,7 @@ description: "Jasper AI passé au crible pour les rédacteurs : fonctionnalités
 image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Redacteur professionnel travaillant sur un ordinateur portable avec une tasse de cafe"
 date: 2026-06-12
-author: "Camille Renard"
+author: "La Rédaction Adapte-toi"
 category: "outils-ia"
 tags: ["Jasper AI", "rédaction IA", "copywriting IA", "outils IA"]
 keywords: "Jasper AI rédaction, outils IA écriture, IA copywriting"

@@ -4,7 +4,7 @@ description: "OpenAI lance GPT-5.6 en mode furtif, réservé à une poignée d'�
 date: 2026-06-27
 category: "outil"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Nous avons fait comprendre clairement au gouvernement américain que ce n'est pas le modèle que nous privilégions sur le long terme."
   author: "Sam Altman, PDG d'OpenAI"

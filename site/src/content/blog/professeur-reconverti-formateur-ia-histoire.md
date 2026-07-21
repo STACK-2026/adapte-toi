@@ -4,7 +4,7 @@ description: "De l'Éducation nationale au métier de formateur IA : parcours co
 image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureau vide la nuit avec écran allumé affichant une interface d'agent IA en activité"
 date: 2026-05-20
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 category: "temoignages"
 tags: ["professeur formateur IA", "témoignage reconversion enseignant"]
 keywords: "professeur formateur IA, témoignage reconversion enseignant"
@@ -34,7 +34,6 @@ draft: false
 
 ---
 
-![Professeur reconverti en formateur IA devant un groupe en entreprise](IMAGE_1)
 
 ## Mon histoire : de l'Éducation nationale au métier de formateur IA {#histoire}
 
@@ -109,7 +108,6 @@ Ce profil exige un bagage technique : bac+5 en informatique, data science ou éq
 
 Le formateur IA ne passe pas ses journées devant un tableau blanc à expliquer ce qu'est un LLM. La réalité est plus variée, et franchement, plus intéressante.
 
-![Formateur IA animant un atelier pratique sur ChatGPT en entreprise](IMAGE_2)
 
 ### Une semaine type en freelance
 
@@ -241,7 +239,6 @@ LinkedIn, réseaux locaux, anciens employeurs, organismes de formation sous-trai
 
 C'est le volet que les guides concurrents survolent. Voici la réalité administrative, sans filtre.
 
-![Checklist administrative pour lancer son activité de formateur IA indépendant](IMAGE_3)
 
 ### Le statut juridique
 

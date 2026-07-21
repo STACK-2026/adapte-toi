@@ -4,7 +4,7 @@ description: "Gabriel Attal mise 200 milliards sur l'IA d'ici 2040. On décrypte
 date: 2026-06-18
 category: "politique"
 impactLevel: 5
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Les savoirs fondamentaux aujourd'hui c'est lire, écrire, compter, prompter."
   author: "Gabriel Attal"

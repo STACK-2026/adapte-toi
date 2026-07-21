@@ -4,7 +4,7 @@ description: "OpenAI lance un outil pour les équipes commerciales : ChatGPT tra
 date: 2026-06-05
 category: "outil"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "ChatGPT réduit le temps passé sur le travail de page blanche et libère plus de temps pour les parties de la vente qui nécessitent jugement, relations et élan."
   author: "OpenAI, dans son annonce du 10 avril 2026"

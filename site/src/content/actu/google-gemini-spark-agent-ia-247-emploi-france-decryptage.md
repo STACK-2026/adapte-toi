@@ -4,7 +4,7 @@ description: "Google dévoile Gemini Spark le 19 mai 2026, agent IA personnel ac
 date: 2026-05-21
 category: "annonce"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 schemaFaq: true
 keyQuote:
   text: "It's clear we're firmly in our agentic Gemini era. I am excited about how it will unlock new ways to accelerate our mission and transform our products to be radically more helpful for everyone, everywhere."
@@ -74,7 +74,7 @@ relatedOutils:
   - "perplexity"
 keywords: "Gemini Spark, Google I/O 2026, agent IA personnel, Gemini 3.5 Flash, knowledge workers, Google AI Ultra 100 dollars, agent IA emploi France, IA agentique productivité, automatisation travail bureau, AI Act haut risque"
 lastReviewed: 2026-05-21
-reviewedBy: "Léa Moreau"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureau vide la nuit avec écran allumé affichant une interface d'agent IA en activité"

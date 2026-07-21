@@ -4,7 +4,7 @@ description: "47 000 ouvriers de Hyundai en Corée du Sud votent la grève contr
 date: 2026-06-24
 category: "menace"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Nous ne sommes pas contre la technologie, mais nous refusons d'être sacrifiés sur l'autel de la productivité."
   author: "Kim Tae-hwan, secrétaire général du syndicat Hyundai Motor Union"

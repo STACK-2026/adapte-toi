@@ -4,7 +4,7 @@ description: "L'IA redessine le télétravail en 2026. Chiffres, métiers expos�
 image: "https://images.unsplash.com/photo-1587560699334-cc4ff634909a?w=1200&h=630&fit=crop&crop=center&q=80"
 imageAlt: "Télétravailleur devant son ordinateur portable utilisant des outils d'intelligence artificielle pour piloter ses missions à distance"
 date: 2026-07-04
-author: "Theo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "actu-emploi"
 tags: ["télétravail IA", "emploi distance IA"]
 keywords: "télétravail IA, travail distance intelligence artificielle, emploi remote IA"

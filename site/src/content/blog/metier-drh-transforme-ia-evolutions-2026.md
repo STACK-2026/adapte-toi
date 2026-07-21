@@ -28,7 +28,6 @@ draft: false
 
 ---
 
-![DRH et intelligence artificielle transformation du métier RH en 2026](IMAGE_1)
 
 L'IA transforme le métier de DRH plus vite que n'importe quelle réforme du droit du travail des trente dernières années. Selon Gartner, 81% des responsables RH ont déjà exploré ou mis en oeuvre des solutions d'IA en 2025. Ce n'est plus un projet pilote réservé aux grandes entreprises tech : c'est le nouveau quotidien de la fonction.
 
@@ -139,7 +138,6 @@ Au-delà des plateformes spécialisées, les DRH intègrent massivement les outi
 
 Selon Lefebvre Dalloz (2026), 1 professionnel sur 2 a adopté l'IA dans ses pratiques en moins d'un an. Les RH ne font pas exception - ils sont souvent en première ligne.
 
-![Cartographie outils intelligence artificielle ressources humaines 2026](IMAGE_2)
 
 ---
 
@@ -238,7 +236,6 @@ La négociation collective sur l'IA arrive. Les syndicats se structurent sur ces
 
 Le DRH est l'acteur qui doit conduire ce dialogue. Pas en défenseur des outils IA à tout prix, mais en arbitre honnête entre efficacité organisationnelle et protection des salariés. C'est un rôle que les directions générales commencent à comprendre - et qui valorise ceux qui l'occupent.
 
-![DRH rôle stratégique conduite du changement intelligence artificielle](IMAGE_3)
 
 ---
 

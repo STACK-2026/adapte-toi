@@ -4,7 +4,7 @@ description: "L'Administration Trump impose un contrôle strict sur les modèles
 date: 2026-07-01
 category: "politique"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "C'est un mauvais signal pour l'industrie américaine"
   author: "Un cadre d'Anthropic cité par Le Figaro"

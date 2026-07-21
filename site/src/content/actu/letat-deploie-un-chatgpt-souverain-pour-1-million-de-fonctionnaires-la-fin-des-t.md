@@ -4,7 +4,7 @@ description: "Le gouvernement lance un outil IA souverain pour ses agents, prome
 date: 2026-06-16
 category: "politique"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Il est évident que l'IA est une opportunité comme elle est une menace."
   author: "David Amiel, ministre de l'Action et des Comptes publics"

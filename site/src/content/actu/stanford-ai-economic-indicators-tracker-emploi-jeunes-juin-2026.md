@@ -4,7 +4,7 @@ description: "Le 10 juin 2026, Stanford ouvre un tableau de bord public sur l'im
 date: 2026-06-11
 category: "etude"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "We cannot afford to rely on anecdotes or lagging indicators of AI's effects. We are flying blind into one of the most consequential periods in world history."
   author: "Erik Brynjolfsson, directeur du Stanford Digital Economy Lab"

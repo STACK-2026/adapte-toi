@@ -4,7 +4,7 @@ description: "Laurent Alexandre annonce la fin des diplômes à l'ère de l'IA. 
 image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&h=630&fit=crop&crop=center&q=80"
 imageAlt: "Bureau avec ordinateur affichant un tableau de bord d'indicateurs sur les diplômes et l'intelligence artificielle"
 date: 2026-07-10
-author: "Theo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "etudes-rapports"
 tags: ["Laurent Alexandre IA diplômes", "obsolescence diplômes IA"]
 keywords: "Laurent Alexandre IA diplômes, obsolescence diplômes IA"

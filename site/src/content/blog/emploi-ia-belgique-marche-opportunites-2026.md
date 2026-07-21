@@ -2,7 +2,7 @@
 title: "Emploi IA Belgique 2026 : marché, salaires et opportunités"
 description: "Marché de l'emploi IA en Belgique 2026 : 35% des entreprises utilisent l'IA. Métiers, salaires, formations et plan de reconversion concret."
 date: 2026-06-21
-author: "Theo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "actu-emploi"
 tags: ["emploi IA Belgique", "marché travail IA Belgique", "salaires IA Belgique"]
 keywords: "emploi IA Belgique, marché travail IA Belgique"

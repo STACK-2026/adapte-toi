@@ -4,7 +4,7 @@ description: "Le résumé de la semaine sur Adapte-toi Décrypte : 21 décryptag
 date: 2026-06-21
 category: "chiffre"
 impactLevel: 3
-author: "Rédaction Adapte-toi"
+author: "La Rédaction Adapte-toi"
 tldr:
   - "Menace : Samsung vire 12 000 informaticiens à cause de l'IA : le choc qui va frapper ton secteur"
   - "Outil : L'IA coûte trop cher : les entreprises freinent brutalement (et c'est une bonne nouvelle pour toi)"

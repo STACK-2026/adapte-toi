@@ -4,7 +4,7 @@ description: "OpenAI lance ChatGPT Work le 10 juillet 2026, un agent autonome pr
 date: 2026-07-11
 category: "outil"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "ChatGPT Work est un agent qui agit dans tes apps et tes fichiers, reste sur un projet pendant des heures si nécessaire, et transforme un objectif en travail fini."
   author: "OpenAI"
@@ -63,7 +63,7 @@ relatedOutils:
 keywords: "ChatGPT Work OpenAI 10 juillet 2026, agent IA bureau ChatGPT, GPT-5.6 ChatGPT Work France, ChatGPT Work vs Claude Cowork, agent autonome travail bureau, plugins ChatGPT Slack Teams Drive, OpenAI agent workspace 2026, ChatGPT Work prix disponibilite"
 schemaFaq: true
 lastReviewed: 2026-07-11
-reviewedBy: "Redaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 image: "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Écran d'ordinateur affichant une interface ChatGPT ouverte à côté d'un tableur, symbolisant un agent IA qui pilote plusieurs applications de bureau en même temps"

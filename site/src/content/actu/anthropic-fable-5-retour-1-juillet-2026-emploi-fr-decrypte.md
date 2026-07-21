@@ -4,7 +4,7 @@ description: "Anthropic redéploie Claude Fable 5 le 1er juillet 2026 après 18 
 date: 2026-07-03
 category: "outil"
 impactLevel: 4
-author: "Lea Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Fable 5 est de retour. Après trois semaines de dialogue technique avec Commerce et CAISI, nous redéployons le modèle avec un nouveau classifieur de sécurité qui bloque plus de 99% de la technique visée."
   author: "Anthropic"
@@ -67,7 +67,7 @@ relatedOutils:
 keywords: "Claude Fable 5 retour, Anthropic export controls, 1 juillet 2026, Fable 5 France, Claude Code, Tom Brown Anthropic, CAISI classifieur, jailbreak cybersecurite, Mythos 5, recrutement IA France, Prism'emploi Fable, freelance IA, AI Act souverainete, kill switch IA"
 schemaFaq: true
 lastReviewed: 2026-07-03
-reviewedBy: "Lea Moreau"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Ecran de code avec logo Claude en arriere-plan et carte du monde symbolisant le retour mondial de Fable 5"

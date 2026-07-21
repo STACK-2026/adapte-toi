@@ -4,7 +4,7 @@ description: "Anthropic a déployé en mai 2026 Claude Opus 4.7 et Sonnet 4.6 av
 date: 2026-05-26
 category: "annonce"
 impactLevel: 5
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "With a 1M token context window, Claude can process entire codebases or hundreds of documents in a single request, enabling agents that maintain coherence across very long-running tasks."
   author: "Anthropic"
@@ -74,7 +74,7 @@ image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&h=63
 imageAlt: "Espace de travail développeur avec écran affichant un assistant IA en train de raisonner sur un long contexte"
 keywords: "Claude Opus 4.7, Anthropic mai 2026, fenêtre 1M tokens, Claude Sonnet 4.6, freelance IA France, coder IA, agent IA productivité, tarif freelance dev IA, prompt caching, SWE-bench"
 lastReviewed: 2026-05-26
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 ---
 

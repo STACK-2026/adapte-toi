@@ -4,7 +4,7 @@ description: "Le résumé de la semaine sur Adapte-toi Décrypte : 20 décryptag
 date: 2026-07-12
 category: "chiffre"
 impactLevel: 3
-author: "Rédaction Adapte-toi"
+author: "La Rédaction Adapte-toi"
 tldr:
   - "Outil : ChatGPT Work debarque le 10 juillet 2026 : l'agent IA qui execute ton boulot a ta place, decrypte"
   - "Menace : Ces métiers qui résistent à l'IA : où te reconvertir pour durer ?"

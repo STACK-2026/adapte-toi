@@ -4,7 +4,7 @@ description: "WhatsApp rouvre ses portes à ChatGPT après une décision de l'UE
 date: 2026-07-13
 category: "outil"
 impactLevel: 3
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "À part retoucher des photos ou poser des questions d'ordre général, difficile de voir un véritable intérêt à l'ajout de ChatGPT dans WhatsApp."
   author: "BFM Tech"

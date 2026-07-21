@@ -4,7 +4,7 @@ description: "Publicis, géant français de la pub, mise sur l'IA pour booster s
 date: 2026-07-16
 category: "annonce"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Nous accélérons sur tous les fronts. Dans le contexte actuel de fébrilité des marchés, c'est une vraie performance."
   author: "Arthur Sadoun, PDG de Publicis"

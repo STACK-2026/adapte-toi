@@ -57,7 +57,7 @@ relatedOutils:
 keywords: "Hassett IA emplois, Maison Blanche IA chômage, Kevin Hassett NEC IA, Challenger avril 2026 IA, licenciements IA 2026 chiffres, IA détruit emplois ou pas, AI job cuts statistiques, IA emploi France 2026, déni Maison Blanche IA travail"
 schemaFaq: true
 lastReviewed: 2026-05-14
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 image: "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Façade de la Maison Blanche au crépuscule, ambiance politique américaine"

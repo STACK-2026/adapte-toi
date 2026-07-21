@@ -4,7 +4,7 @@ description: "Hachette, Elsevier et Cengage portent plainte contre Google pour a
 date: 2026-07-16
 category: "menace"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Soucieux de conserver à tout prix sa position dominante sur internet, Google a renoncé à sa devise initiale, 'Ne soyez pas malveillants'."
   author: "Hachette Book Group, Elsevier et Cengage"

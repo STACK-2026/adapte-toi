@@ -4,7 +4,7 @@ description: "Anthropic sort un manifeste de 19 pages pour alerter Washington su
 date: 2026-06-11
 category: "voix"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Préparer la société face à l'intelligence artificielle"
   author: "Anthropic, dans son cadre politique publié le 10 juin 2026"

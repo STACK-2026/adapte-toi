@@ -4,12 +4,15 @@ description: "Témoignage d'une infirmière devenue coordinatrice IA santé : pa
 image: "https://images.unsplash.com/photo-1584515933487-779824d29309?w=1200&h=630&fit=crop&crop=center&q=80"
 imageAlt: "Infirmière coordinatrice utilisant une tablette avec un tableau de bord d'intelligence artificielle dans un service hospitalier moderne"
 date: 2026-07-09
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 category: "temoignages"
 tags: ["infirmière coordinatrice IA", "reconversion santé IA"]
 keywords: "infirmière coordinatrice IA, reconversion santé IA, IDEC IA, infirmière augmentée"
 draft: false
 ---
+
+
+> **Note de transparence :** ce témoignage composite est une reconstitution éditoriale fondée sur plusieurs parcours et sources documentés. Les prénoms, situations et chiffres individuels servent à rendre le cas concret ; ils ne décrivent pas une personne unique interrogée par la rédaction.
 
 <aside data-speakable="true" class="tldr" style="background:#f5f5f5;padding:16px;border-left:4px solid #6b46c1;margin:20px 0;"><strong>En bref :</strong> Camille, 34 ans, infirmière diplômée d'État depuis douze ans, a basculé en 2025 vers un poste d'<strong>infirmière coordinatrice IA</strong> dans un GHT du Grand Est. Elle raconte ici la trajectoire complète : déclic, formation universitaire, six premiers mois hybrides, négociation salariale à +410 euros nets, outils pilotés au quotidien et résistances internes désamorcées. Ce que les brochures institutionnelles ne disent pas sur le métier d'IDEC augmentée en 2026 : charge cognitive réelle, place de la clinique, relation aux médecins, posture face aux algorithmes de tri, vrai contenu d'une semaine. Une trajectoire duplicable pour toute infirmière qui veut évoluer sans quitter le soin.</aside>
 

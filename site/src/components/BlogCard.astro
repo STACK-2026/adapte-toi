@@ -13,7 +13,7 @@ const { title, description, date, slug, image, imageAlt, category } = Astro.prop
 ---
 
 <article class="group bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-shadow border border-gray-100">
-  <a href={`/blog/${slug}`} class="flex sm:block items-start gap-3 sm:gap-0 p-3 sm:p-0">
+  <a href={`/blog/${slug}/`} class="flex sm:block items-start gap-3 sm:gap-0 p-3 sm:p-0">
     {image ? (
       <img
         src={image}

@@ -4,7 +4,7 @@ description: "Anthropic désactive Fable 5 et Mythos 5 sur ordre de Washington a
 date: 2026-06-13
 category: "outil"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Si ce standard était appliqué à l'ensemble du secteur, nous pensons qu'il mettrait essentiellement à l'arrêt tous les nouveaux déploiements de modèles d'IA de pointe."
   author: "Anthropic"

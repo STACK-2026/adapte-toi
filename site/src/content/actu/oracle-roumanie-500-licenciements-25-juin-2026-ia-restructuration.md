@@ -4,7 +4,7 @@ description: "Oracle notifie 500 employés roumains le 25 juin 2026, deuxième v
 date: 2026-06-27
 category: "menace"
 impactLevel: 4
-author: "Lea Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "The adoption and deployment of AI technologies across our operations have resulted, and may continue to result, in reductions to our workforce."
   author: "Oracle Corporation"
@@ -55,7 +55,7 @@ relatedOutils:
 keywords: "Oracle Roumanie licenciements, Oracle 500 emplois juin 2026, Oracle IA restructuration, Larry Ellison Stargate, Oracle Cloud Infrastructure OCI, AI Act licenciement France, Bucarest Iași Oracle, reconversion IA tech, pivot IA emploi, AI layoffs Europe"
 schemaFaq: true
 lastReviewed: 2026-06-27
-reviewedBy: "Lea Moreau"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 image: "https://images.unsplash.com/photo-1551434678-e076c223a692?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureaux ouverts vides avec écrans éteints, ambiance de fin de journée dans un centre d'ingénierie tech."

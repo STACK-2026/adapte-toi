@@ -2,7 +2,7 @@
 title: "Bootcamp IA : comparatif des 5 meilleurs en France en 2026"
 description: "Comparatif honnête des 5 meilleurs bootcamps IA en France : prix réels, durée, financement CPF, taux d'emploi. Analyse critique par profil, sans bullshit."
 date: 2026-06-11
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 category: "formation"
 tags: ["bootcamp IA France", "formation intensive IA"]
 keywords: "bootcamp IA France, formation intensive IA"

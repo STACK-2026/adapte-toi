@@ -4,7 +4,7 @@ description: "Le géant chinois JD.com annonce remplacer ses 700 000 livreurs pa
 date: 2026-06-27
 category: menace
 impactLevel: 5
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Ce seront assurément des robots qui livreront les colis."
   author: "Richard Liu, PDG de JD.com"

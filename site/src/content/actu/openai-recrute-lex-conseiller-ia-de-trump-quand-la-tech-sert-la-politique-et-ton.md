@@ -4,7 +4,7 @@ description: "OpenAI embauche Dean Ball, ex-conseiller IA de Trump, pour piloter
 date: 2026-06-24
 category: "voix"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "La première phase de la gouvernance de l'IA, celle qui s'est étendue de novembre 2022 environ jusqu'à fin 2025 ou début 2026, était un 'mode facile'. Une nouvelle phase, plus difficile, vient de s'ouvrir."
   author: "Dean Ball, nouveau conseiller stratégique d'OpenAI"

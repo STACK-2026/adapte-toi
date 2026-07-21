@@ -4,7 +4,7 @@ description: "Sam Altman et Dario Amodei ont déjeuné avec les chefs d'État du
 date: 2026-06-17
 category: "voix"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "L'Administration Trump a déclenché une bombe géopolitique et technologique."
   author: "Fabrice Nodé-Langlois, Le Figaro"

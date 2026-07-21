@@ -4,7 +4,7 @@ description: "Duolingo, Babbel et Speak intègrent l'IA pour survivre face à Ch
 date: 2026-06-26
 category: "outil"
 impactLevel: 3
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "De plus en plus de gens utilisent ChatGPT pour apprendre une langue étrangère, que ce soit pour converser avec lui, ou bien simplement pour traduire une expression ou une phrase"
   author: "Connor Zwick, cofondateur de Speak"

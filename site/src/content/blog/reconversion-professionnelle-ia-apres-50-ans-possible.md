@@ -35,7 +35,6 @@ Voilà ce que la plupart des articles ne te disent pas : les métiers IA les plu
 
 Ce guide est le seul du marché français qui traite le sujet sans te vendre une formation et sans minimiser les obstacles réels. On va parler métiers, salaires, financement, psychologie, et témoignages concrets.
 
-![Professionnel senior de plus de 50 ans travaillant sur ordinateur avec outils IA](IMAGE_1)
 
 ---
 
@@ -157,7 +156,6 @@ Elle a rejoint un média digital comme "responsable production IA" : elle superv
 
 "Mon editorial eye, mes 20 ans de deadlines et de jugement qualité, c'est exactement ce qu'ils cherchaient. L'IA produit vite. Elle produit parfois mal. Il faut quelqu'un qui sache faire la différence."
 
-![Professionnel senior consultant formation IA reconversion professionnelle France](IMAGE_2)
 
 ---
 
@@ -311,7 +309,6 @@ D'après l'étude Lefebvre Dalloz de 2026, 1 professionnel sur 2 a adopté l'IA 
 
 La solution : commence demain. Ouvre ChatGPT. Pose-lui une question sur ton ancien métier. Observe le résultat. Critique-le. Tu viens de faire ton premier exercice de jugement IA.
 
-![Graphique comparaison adoption IA par tranche d age France 2026](IMAGE_3)
 
 ---
 

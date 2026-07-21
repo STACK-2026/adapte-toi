@@ -4,7 +4,7 @@ description: "Gilles Babinet et Pascale Seivy défendent une Europe souveraine s
 date: 2026-07-06
 category: "voix"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "L'IA n'est pas une promesse abstraite, mais une réalité tangible. Elle façonne dès à présent nos manières de produire, d'apprendre, de diagnostiquer ou de soigner."
   author: "Gilles Babinet, président de la Mission CaféIA"

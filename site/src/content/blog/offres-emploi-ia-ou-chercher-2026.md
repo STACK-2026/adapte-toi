@@ -4,7 +4,7 @@ description: "Où trouver des offres d'emploi IA en 2026 ? Job boards spécialis
 image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Tableau de bord d'un poste de travail montrant plusieurs offres d'emploi dans l'intelligence artificielle"
 date: 2026-06-27
-author: "Theo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "actu-emploi"
 tags: ["offres emploi IA", "site emploi IA", "recherche travail IA"]
 keywords: "offres emploi IA, site emploi IA, recherche travail IA"

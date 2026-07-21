@@ -4,7 +4,7 @@ description: "Au CHU de Lille, l'IA redessine les métiers de la santé : moins 
 date: 2026-06-06
 category: "outil"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "On demandait au radiologue de venir dessiner sur chacune des coupes le contour de l'infarctus, alors qu'il s'agit d'une urgence thérapeutique, où chaque minute représente des millions de neurones perdus."
   author: "Pr Kuchcinski, chef du service de neuroradiologie au CHU de Lille"

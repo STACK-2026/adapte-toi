@@ -19,6 +19,7 @@ DIST = ROOT / "site" / "dist"
 EXCLUDE_PATHS = {
     "/",
     "/404/",
+    "/404.html",
     "/admin/",
     "/sitemap-index.xml",
     "/sitemap-0.xml",

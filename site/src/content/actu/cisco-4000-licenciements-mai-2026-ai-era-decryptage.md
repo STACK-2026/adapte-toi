@@ -4,7 +4,7 @@ description: "Le 13 mai 2026, Cisco supprime moins de 4 000 postes (sous 5% des 
 date: 2026-05-22
 category: "menace"
 impactLevel: 4
-author: "Lea Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "The companies that will win in the AI era will be those with focus, urgency, and the discipline to continuously shift investment toward the areas where demand and long-term value creation are strongest."
   author: "Chuck Robbins"
@@ -59,7 +59,7 @@ relatedOutils:
 keywords: "Cisco licenciements mai 2026, Cisco 4000 emplois IA, Chuck Robbins AI era, Cisco Path Forward, restructuration Cisco 2026, AI orders Cisco 9 milliards, hyperscaler IA réseau, AI Act licenciement France, reconversion IA tech, salarié Cisco France"
 schemaFaq: true
 lastReviewed: 2026-05-22
-reviewedBy: "Lea Moreau"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Salle serveur d'un data center avec baies réseau alignées, lumière bleutée"

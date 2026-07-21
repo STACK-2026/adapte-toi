@@ -4,7 +4,7 @@ description: "Le sénateur Ed Markey balance un paquet de lois pour encadrer l'I
 date: 2026-07-10
 category: politique
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Nous devons nous assurer que ces datacenters ne se transforment pas en bombes à pollution."
   author: "Ed Markey, sénateur américain (Démocrate, Massachusetts)"

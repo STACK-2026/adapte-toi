@@ -4,7 +4,7 @@ description: "Les clones vocaux dopés à l'IA transforment les arnaques télép
 date: 2026-06-03
 category: "menace"
 impactLevel: 5
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Rien n'aurait pu me convaincre qu'il s'agissait d'une arnaque jusqu'à ce que je voie mon fils de mes propres yeux."
   author: "Liz Benz, victime d'une escroquerie vocale par IA"

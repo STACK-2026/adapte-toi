@@ -4,7 +4,7 @@ description: "Le résumé de la semaine sur Adapte-toi Décrypte : 12 décryptag
 date: 2026-06-07
 category: "chiffre"
 impactLevel: 3
-author: "Rédaction Adapte-toi"
+author: "La Rédaction Adapte-toi"
 tldr:
   - "Outil : L'IA à l'hôpital : quand les soignants lâchent le microscope pour l'algorithme"
   - "Menace : Uber licencie 23% de son équipe RH en juin 2026 : le décryptage budget IA Claude Code"

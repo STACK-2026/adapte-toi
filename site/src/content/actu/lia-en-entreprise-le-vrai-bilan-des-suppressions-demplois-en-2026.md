@@ -43,7 +43,7 @@ relatedOutils:
   - "notion-ai"
 keywords: "IA entreprise, suppression emplois, automatisation, reconversion professionnelle, Cobl, Damien Hontang, cols blancs, Dares, France 2026"
 lastReviewed: 2026-04-22
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 ---
 

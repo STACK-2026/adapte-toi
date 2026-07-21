@@ -4,7 +4,7 @@ description: "L'Assemblée nationale organise un hackathon pour intégrer l'IA d
 date: 2026-07-03
 category: "politique"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "On gagne un temps fou ! De toute façon on ne peut pas lutter, bien sûr qu'on l'utilise."
   author: "Un député d'opposition"

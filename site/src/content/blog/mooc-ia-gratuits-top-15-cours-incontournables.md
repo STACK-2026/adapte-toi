@@ -2,7 +2,7 @@
 title: "MOOC IA gratuits 2026 : top 15 des cours incontournables"
 description: "Top 15 des MOOCs IA gratuits en 2026 : niveau, durée, certificat, valorisation CV. Sélection testée pour reconversion, débutants et montée en compétences."
 date: 2026-06-19
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 category: "formation"
 tags: ["MOOC IA gratuit", "cours IA gratuits", "formation IA libre"]
 keywords: "MOOC IA gratuit, cours IA gratuits, formation IA libre"

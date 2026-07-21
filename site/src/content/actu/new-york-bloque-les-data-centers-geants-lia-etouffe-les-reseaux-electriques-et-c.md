@@ -4,7 +4,7 @@ description: "L'État de New York impose un moratoire d'un an sur les nouveaux c
 date: 2026-07-14
 category: politique
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "En raison des risques que représente le développement des centres de données, qui pourrait faire grimper les factures d'électricité, épuiser nos ressources naturelles et créer de l'incertitude pour les habitants de New York, il est de ma responsabilité d'agir et de montrer la voie."
   author: "Kathy Hochul, gouverneure de New York"

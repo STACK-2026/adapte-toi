@@ -4,7 +4,7 @@ description: "Google lance AI Overviews et AI Mode en France cet été. Les édi
 date: 2026-06-30
 category: "annonce"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Les éditeurs craignent l'avènement d'un Internet « zero-click » où les réponses générées par IA se substitueraient au trafic renvoyé par le « search »."
   author: "Le Figaro Éco"

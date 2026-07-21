@@ -4,7 +4,7 @@ description: "Sébastien Lecornu promet de généraliser L'Assistant, l'IA souve
 date: 2026-06-26
 category: politique
 impactLevel: 3
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "57 % considèrent que les autres IA génératives répondent mieux à leurs besoins."
   author: "Rapport d'évaluation de l'INRIA, INSA Rennes et CNRS"

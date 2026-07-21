@@ -4,7 +4,7 @@ description: "OpenAI annonce qu'un de ses modèles a résolu un problème mathé
 date: 2026-07-04
 category: "outil"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "C'est indiscutable que des problèmes d'Erdős ont été résolus par des IA génératives. Mais ce n'est pas le Saint Graal des mathématiques."
   author: "David Madore, maître de conférences en mathématiques à Télécom ParisTech"

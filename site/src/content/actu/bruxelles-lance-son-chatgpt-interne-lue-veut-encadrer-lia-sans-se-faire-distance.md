@@ -4,7 +4,7 @@ description: "Le Parlement européen crée EpGenAI Hub, un outil d'IA sécurisé
 date: 2026-07-21
 category: "politique"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Les députés européens doivent montrer l'exemple à mesure que les règles de transparence prévues par l'IA Act entrent en vigueur."
   author: "Brando Benifei, député européen"

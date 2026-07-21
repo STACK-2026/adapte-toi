@@ -4,7 +4,7 @@ description: "Schneider Electric rachète Cognite, spécialiste de l'IA industri
 date: 2026-06-30
 category: "annonce"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Cognite a développé quelque chose de rare : une véritable plateforme d'IA de niveau industriel, capable de transformer la complexité des données opérationnelles en avantage concurrentiel."
   author: "Olivier Blum, directeur général de Schneider Electric"

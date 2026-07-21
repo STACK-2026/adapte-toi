@@ -20,6 +20,8 @@ publish.py for months):
      (adapte-toi/Stanford at density 0.0). Blocking; re-accent with
      reaccent_gemini.py (not auto-fixable here).
   8. (optional, --check-links) dead internal/external links.
+  9. Editorial trust: article bylines must match the public collective-signature
+     policy, and testimonial-category pages must disclose composite provenance.
 
 ACCENT_LOW is now a native, always-on check. --with-accents ADDITIONALLY shells
 out to scripts/check_accents.py (its high-frequency folded-word signal) for the
@@ -45,6 +47,13 @@ from pathlib import Path
 
 TITLE_MAX = 65
 DESC_MAX = 180
+
+TESTIMONIAL_DISCLOSURE = (
+    "> **Note de transparence :** ce témoignage composite est une reconstitution "
+    "éditoriale fondée sur plusieurs parcours et sources documentés. Les prénoms, "
+    "situations et chiffres individuels servent à rendre le cas concret ; ils ne "
+    "décrivent pas une personne unique interrogée par la rédaction."
+)
 
 # 1. tool-call / generation artifacts. These must NEVER appear in content.
 ARTIFACT_PATTERNS = [
@@ -321,6 +330,38 @@ def analyze(path: Path, fix: bool, check_links: bool):
             if fix:
                 fm_inner = new_fm_kw
                 fixes.append("coerced keywords list -> string")
+
+        # ---- 3c. public editorial-policy invariants ----
+        # /a-propos and /politique-editoriale promise a collective newsroom
+        # signature. Persona-style bylines without verifiable author pages erode
+        # trust and also emit unsupported schema.org Person entities.
+        _am, author, _aq = fm_field(fm_inner, "author")
+        collective_authors = {
+            "La Rédaction Adapte-toi",
+            "Rédaction Adapte-toi",
+            "Adapte-toi Décrypte",
+        }
+        if author and author not in collective_authors:
+            issues.append((
+                "AUTHOR_POLICY",
+                f'byline "{author}" conflicts with the collective-signature policy',
+            ))
+
+        _cm, category, _cq = fm_field(fm_inner, "category")
+        if category == "temoignages":
+            disclosure = re.search(
+                r"(?is)(note de transparence|témoignage composite|temoignage composite|"
+                r"reconstitution éditoriale|reconstitution editoriale)",
+                body,
+            )
+            if not disclosure:
+                issues.append((
+                    "TESTIMONIAL_DISCLOSURE",
+                    "testimonial-category content must visibly disclose composite provenance",
+                ))
+                if fix:
+                    body = f"\n{TESTIMONIAL_DISCLOSURE}\n\n{body.lstrip()}"
+                    fixes.append("added composite-testimonial disclosure")
 
     # ---- 3b. dead hero image (frontmatter image: URL must resolve) ----
     # Catches dead Unsplash IDs (404): hallucinated by the model OR a 3rd-party

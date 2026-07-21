@@ -42,7 +42,7 @@ const upcoming: { name: string; category: string }[] = [];
               <h2 class="text-base sm:text-lg font-bold mb-3 sm:mb-4 text-secondary">{cat}</h2>
               <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 sm:gap-5">
                 {outilsInCat.map((outil) => (
-                  <a href={`/outils/${outil.id}`} class="flex sm:block items-center gap-3 sm:gap-0 bg-white rounded-xl sm:rounded-2xl p-4 sm:p-6 border border-gray-100 shadow-sm hover-glow transition-all active:scale-[0.98] hover:-translate-y-1">
+                  <a href={`/outils/${outil.id}/`} class="flex sm:block items-center gap-3 sm:gap-0 bg-white rounded-xl sm:rounded-2xl p-4 sm:p-6 border border-gray-100 shadow-sm hover-glow transition-all active:scale-[0.98] hover:-translate-y-1">
                     <div class="flex items-center justify-between sm:mb-3 flex-1 min-w-0">
                       <h3 class="font-bold text-sm sm:text-lg truncate">{outil.data.outil}</h3>
                       {outil.data.rating && (

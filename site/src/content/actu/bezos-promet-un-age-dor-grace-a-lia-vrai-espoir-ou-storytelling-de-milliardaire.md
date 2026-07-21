@@ -4,7 +4,7 @@ description: "Jeff Bezos assure que l'IA va créer un 'âge d'or' sans destructi
 date: 2026-06-11
 category: "voix"
 impactLevel: 3
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "L'IA va créer des âges d'or, pas des licenciements massifs."
   author: "Jeff Bezos, fondateur d'Amazon et Blue Origin"

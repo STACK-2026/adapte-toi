@@ -1,36 +1,30 @@
 ---
+const source = "https://www.bcg.com/press/3june2026-ai-reshaping-jobs-faster-than-companies-reshaping-work";
 const stats = [
-  { value: "27%", label: "des emplois français menacés", source: "OCDE", detail: "Soit plus de 4 millions de postes exposés à un risque d'automatisation élevé d'ici 2030." },
-  { value: "93%", label: "des métiers impactés par l'IA", source: "Cognizant 2026", detail: "La quasi-totalité des professions sera transformée par l'IA générative dès cette année." },
-  { value: "47%", label: "des actifs envisagent une reconversion", source: "Ipsos", detail: "Près d'un actif français sur deux pense à changer de métier face à l'IA." },
-  { value: "+270%", label: "de croissance des offres IA", source: "LinkedIn", detail: "Les offres mentionnant l'IA ont été multipliées par presque 4 entre 2019 et 2024." },
-  { value: "30%", label: "des heures automatisables d'ici 2030", source: "McKinsey", detail: "Près d'un tiers des heures travaillées pourrait être automatisé par l'IA générative." },
-  { value: "+25%", label: "de salaire pour les profils IA-ready", source: "PwC", detail: "Les professionnels qui maîtrisent les outils IA gagnent 25% de plus en moyenne." },
+  { value: "74%", label: "des employés non-managers utilisent régulièrement l'IA", detail: "L'adoption progresse de 23 points sur un an parmi les employés de première ligne interrogés." },
+  { value: "42%", label: "gagnent au moins une journée de travail par semaine", detail: "Ce résultat mondial concerne les utilisateurs réguliers parmi les employés de première ligne ; la France est à 20 %." },
+  { value: "66%", label: "reçoivent peu ou pas de consignes sur le temps gagné", detail: "Plus de la moitié ne réinvestissent pas ce temps dans un travail plus stratégique." },
+  { value: "47%", label: "pilotent davantage l'IA qu'ils n'exécutent eux-mêmes", detail: "Le travail se déplace vers la direction, le contrôle et la vérification des systèmes d'IA." },
+  { value: "67%", label: "déclarent une satisfaction au travail plus élevée", detail: "Ce gain de satisfaction coexiste avec une hausse de la charge cognitive pour une partie des répondants." },
+  { value: "41%", label: "signalent une charge cognitive accrue", detail: "BCG décrit ce contraste entre satisfaction et complexité comme un paradoxe du bien-être." },
 ];
 ---
 
 <section class="py-16 sm:py-24 px-4">
   <div class="max-w-6xl mx-auto">
     <h2 class="text-center mb-3 sm:mb-4 blur-reveal">Les chiffres qui comptent</h2>
-    <p class="text-center text-gray-500 mb-8 sm:mb-14 max-w-xl mx-auto blur-reveal text-sm sm:text-base">
-      Pas d'opinions, pas de spéculation. Que des données sourcées.
+    <p class="text-center text-gray-500 mb-8 sm:mb-14 max-w-2xl mx-auto blur-reveal text-sm sm:text-base">
+      Une seule étude primaire, un périmètre explicite : <a href={source} rel="noopener" class="text-primary font-semibold hover:underline">11 749 personnes dans 14 marchés, BCG AI at Work 2026</a>.
     </p>
     <div class="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 gap-3 sm:gap-6 stagger-children">
       {stats.map((stat) => (
-        <button
-          class="stat-card text-center p-3 sm:p-6 md:p-8 rounded-lg sm:rounded-2xl bg-white border border-gray-100 shadow-sm hover-glow cursor-pointer transition-all active:scale-[0.97] group"
-          data-detail={stat.detail}
-        >
-          <p class="font-display font-bold text-2xl sm:text-3xl md:text-5xl mb-0.5 sm:mb-2" style="color: var(--color-primary);" data-count={stat.value}>
-            0
-          </p>
+        <button class="stat-card text-center p-3 sm:p-6 md:p-8 rounded-lg sm:rounded-2xl bg-white border border-gray-100 shadow-sm hover-glow cursor-pointer transition-all active:scale-[0.97] group" data-detail={stat.detail} aria-expanded="false">
+          <p class="font-display font-bold text-2xl sm:text-3xl md:text-5xl mb-0.5 sm:mb-2" style="color: var(--color-primary);" data-count={stat.value}>0</p>
           <p class="text-gray-700 font-medium text-[11px] sm:text-sm mb-0.5 sm:mb-1 leading-tight">{stat.label}</p>
-          <p class="text-[10px] sm:text-xs text-gray-400">{stat.source}</p>
-          <p class="text-[9px] sm:text-[10px] text-primary/60 mt-1.5 group-hover:text-primary transition-colors">Voir le détail +</p>
+          <p class="text-[10px] sm:text-xs text-gray-500">BCG, juin 2026</p>
+          <p class="text-[9px] sm:text-[10px] text-primary/70 mt-1.5 group-hover:text-primary transition-colors">Voir le détail +</p>
           <div class="expand-content mt-2 sm:mt-3" data-expand>
-            <div>
-              <p class="text-[10px] sm:text-xs text-gray-500 leading-relaxed pt-2 sm:pt-3 border-t border-gray-100">{stat.detail}</p>
-            </div>
+            <div><p class="text-[10px] sm:text-xs text-gray-600 leading-relaxed pt-2 sm:pt-3 border-t border-gray-100">{stat.detail}</p></div>
           </div>
         </button>
       ))}
@@ -42,7 +36,9 @@ const stats = [
   document.querySelectorAll(".stat-card").forEach((card) => {
     card.addEventListener("click", () => {
       const expand = card.querySelector("[data-expand]");
-      if (expand) expand.classList.toggle("expanded");
+      if (!expand) return;
+      expand.classList.toggle("expanded");
+      card.setAttribute("aria-expanded", String(expand.classList.contains("expanded")));
     });
   });
 </script>

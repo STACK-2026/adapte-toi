@@ -27,9 +27,9 @@ const {
   data-wave-speed={waveSpeed}
   data-wave-spacing={waveSpacing}
   data-wave-amplitude={amplitude}
-  aria-label={text}
   style="display: inline-block;"
 >
+  <span class="sr-only">{text}</span>
   {text.split(" ").map((word, wi, arr) => (
     <span style="display: inline-block; white-space: nowrap;">
       {word.split("").map((ch) => (

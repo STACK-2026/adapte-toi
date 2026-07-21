@@ -168,30 +168,7 @@ export const siteConfig = {
       "freelance-ia",
       "études-rapports",
     ],
-    // L'équipe éditoriale est décrite par rôles, pas par noms.
-    // Le détail est consultable sur /a-propos/.
-    editorialBoard: [
-      {
-        role: "Rédaction en chef",
-        scope: "Ligne éditoriale, validation des publications, supervision factuelle",
-      },
-      {
-        role: "Cellule Décrypte",
-        scope: "Veille quotidienne sur l'actualité IA × emploi (3 publications/jour)",
-      },
-      {
-        role: "Cellule Métiers",
-        scope: "Rédaction et mise à jour des fiches métier, scoring d'exposition IA",
-      },
-      {
-        role: "Cellule Données",
-        scope: "Sourcing institutionnel (OCDE, INSEE, France Travail), agrégation Baromètre",
-      },
-      {
-        role: "Cellule Outils",
-        scope: "Tests et revues d'outils IA, comparatifs, mises à jour tarifaires",
-      },
-    ],
+    editorialBoard: [],
   },
 
   // Identité & gouvernance éditoriale (utilisée par NewsMediaOrganization).

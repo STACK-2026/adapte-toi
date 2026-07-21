@@ -4,7 +4,7 @@ description: "Décryptage de l'étude Cognizant New Work, New World 2026 : 93% d
 image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Tableau de bord d'analyse de données illustrant l'étude Cognizant sur l'exposition des emplois à l'intelligence artificielle"
 date: 2026-06-16
-author: "Theo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "etudes-rapports"
 tags: ["étude Cognizant IA emploi", "rapport jobs IA futur", "score exposition IA"]
 keywords: "étude Cognizant IA emploi, rapport jobs IA futur"

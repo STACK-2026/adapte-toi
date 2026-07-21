@@ -4,11 +4,11 @@ description: "La 4e édition de l'étude BCG AI at Work confirme le paradoxe : l
 date: 2026-07-20
 category: "etude"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
-  text: "AI is reshaping jobs faster than companies are reshaping work. Without a clear strategy, the productivity gains get absorbed into more noise, not more value."
-  author: "Vinciane Beauchene, Global leader of People & Organization practice chez BCG"
-  context: "Extrait de la conférence de presse BCG accompagnant la sortie de la 4e édition de l'étude AI at Work, relayée par CIO et Fortune la semaine du 15 juillet 2026."
+  text: "The first wave of AI focused on individual productivity. The coming wave will need to transform collective work."
+  author: "Vinciane Beauchene, directrice associée chez BCG et coauteure du rapport"
+  context: "Citation exacte de la note de presse BCG du 3 juin 2026 accompagnant la quatrième édition de l'étude AI at Work."
 tldr:
   - "La 4e édition de l'étude BCG AI at Work, publiée en juin 2026 et fortement relayée la semaine du 15 juillet, sonde près de 12 000 salariés frontline, managers et dirigeants dans plus de 15 pays."
   - "42% des utilisateurs réguliers d'IA déclarent gagner l'équivalent d'une journée entière de travail par semaine (soit 8 heures), mais 66% affirment ne recevoir aucune consigne sur l'usage de ce temps libéré."

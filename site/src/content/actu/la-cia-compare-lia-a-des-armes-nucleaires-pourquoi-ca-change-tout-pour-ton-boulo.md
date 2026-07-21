@@ -4,7 +4,7 @@ description: "Le patron de la CIA, John Ratcliffe, qualifie les modèles d'IA av
 date: 2026-07-09
 category: voix
 impactLevel: 5
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Il ne serait pas déplacé de comparer leurs capacités à des armes nucléaires numériques."
   author: "John Ratcliffe, directeur de la CIA"

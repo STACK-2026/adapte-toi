@@ -4,7 +4,7 @@ description: "Les géants de l'IA pourraient rater leur entrée en Bourse. Si ç
 date: 2026-07-06
 category: "annonce"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Les investisseurs veulent des profits, pas des promesses. Or, l'IA générative reste un gouffre financier."
   author: "Analyste du Financial Times"

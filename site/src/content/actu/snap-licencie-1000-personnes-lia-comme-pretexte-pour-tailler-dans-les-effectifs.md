@@ -41,7 +41,7 @@ relatedOutils:
   - "zapier"
 keywords: "licenciements IA, Snap, AI-washing, réalité augmentée, reconversion tech, automatisation emplois, Evan Spiegel, Silicon Valley"
 lastReviewed: 2026-04-22
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 ---
 

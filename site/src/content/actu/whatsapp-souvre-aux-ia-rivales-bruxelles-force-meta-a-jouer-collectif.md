@@ -4,7 +4,7 @@ description: "La Commission européenne impose à Meta de rouvrir WhatsApp aux a
 date: 2026-06-10
 category: "politique"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "La liberté de choix des citoyens européens quant à l'assistant IA qu'ils souhaitent utiliser avec WhatsApp, au lieu de laisser Meta en décider pour eux."
   author: "Teresa Ribera, vice-présidente de la Commission européenne en charge de la concurrence"

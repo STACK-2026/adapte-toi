@@ -45,7 +45,7 @@ relatedOutils:
   - "copilot"
 keywords: "OCDE 27% emplois, automatisation france 2030, emplois menacés IA OCDE, 4 millions emplois"
 lastReviewed: 2026-04-15
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 ---
 

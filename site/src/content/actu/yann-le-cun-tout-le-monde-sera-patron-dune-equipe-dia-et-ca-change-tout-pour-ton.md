@@ -4,7 +4,7 @@ description: "Le père de l'IA Yann Le Cun prédit un futur où chacun gérera u
 date: 2026-06-17
 category: "voix"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Tout le monde sera une sorte de patron d'une équipe de personnes virtuelles qui nous aideront dans notre vie de tous les jours."
   author: "Yann Le Cun"

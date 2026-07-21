@@ -11,6 +11,9 @@ keywords: "témoignage reconversion IA, comptable consultant IA"
 draft: false
 ---
 
+
+> **Note de transparence :** ce témoignage composite est une reconstitution éditoriale fondée sur plusieurs parcours et sources documentés. Les prénoms, situations et chiffres individuels servent à rendre le cas concret ; ils ne décrivent pas une personne unique interrogée par la rédaction.
+
 ---
 
 ## Sommaire

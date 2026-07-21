@@ -42,7 +42,7 @@ relatedOutils:
   - "cursor"
 keywords: "Anthropic, Amazon, AWS, IA générative, Trainium, cloud, reconversion, métiers IA, automatisation, puces IA"
 lastReviewed: 2026-04-22
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 ---
 

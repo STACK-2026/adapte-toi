@@ -49,7 +49,7 @@ relatedOutils:
   - "copilot"
 keywords: "licenciements IA 2026, klarna licenciements, IBM pause embauche IA, duolingo licenciements IA, vague licenciements IA"
 lastReviewed: 2026-04-15
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 ---
 

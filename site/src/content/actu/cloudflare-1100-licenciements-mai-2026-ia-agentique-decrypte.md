@@ -58,7 +58,7 @@ relatedOutils:
 keywords: "Cloudflare licenciements mai 2026, Cloudflare 1100 emplois IA, Matthew Prince agentic AI, licenciements IA 2026, support client IA remplacement, AI Act licenciement France, AI agents productivité, reconversion IA tech"
 schemaFaq: true
 lastReviewed: 2026-05-12
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Salle de serveurs avec baies réseau et câbles, infrastructure cloud"

@@ -4,7 +4,7 @@ description: "La France généralise l'IA dans l'administration avec un assistan
 date: 2026-06-20
 category: "politique"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Le temps des expérimentations est désormais derrière nous, le temps de la généralisation commence."
   author: "Sébastien Lecornu, Premier ministre"

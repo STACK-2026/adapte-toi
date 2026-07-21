@@ -2,7 +2,7 @@
 title: "Vétérinaire et IA 2026 : diagnostic animal, usages, métier"
 description: "Vétérinaire face à l'IA : diagnostic assisté, imagerie, comptes rendus, limites, revenus et plan d'action concret pour s'adapter sans être remplacé en 2026."
 date: 2026-06-23
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 category: "metiers-ia"
 tags: ["vétérinaire IA", "métier vétérinaire intelligence artificielle"]
 keywords: "vétérinaire IA, métier vétérinaire intelligence artificielle, diagnostic animal assisté IA"

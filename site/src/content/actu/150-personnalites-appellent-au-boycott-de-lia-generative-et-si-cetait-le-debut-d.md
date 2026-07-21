@@ -4,7 +4,7 @@ description: "Une tribune choc dans Le Monde appelle à boycotter l'IA générat
 date: 2026-06-18
 category: "voix"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Nous condamnons un projet de société fondé sur la marginalisation de l'être humain et la destruction de notre milieu de vie."
   author: "Les 150 signataires de la tribune"

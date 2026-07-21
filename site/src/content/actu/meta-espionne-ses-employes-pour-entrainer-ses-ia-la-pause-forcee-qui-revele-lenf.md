@@ -4,7 +4,7 @@ description: "Meta a dû suspendre son programme de surveillance des employés a
 date: 2026-06-23
 category: "menace"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Je suis furieux. Je ne vois aucune preuve d'accès malveillant, mais le fait que ces données n'aient pas été verrouillées comme promis initialement est extrêmement frustrant."
   author: "Un employé de Meta, message interne cité par Business Insider"

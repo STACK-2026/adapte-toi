@@ -2,7 +2,7 @@
 title: "Canva vs Midjourney 2026 : quel outil IA choisir pour créatifs"
 description: "Comparatif complet Canva vs Midjourney pour les créatifs en 2026 : fonctionnalités, tarifs, courbe d'apprentissage et choix selon votre métier."
 date: 2026-06-20
-author: "Camille Renard"
+author: "La Rédaction Adapte-toi"
 category: "outils-ia"
 tags: ["Canva Midjourney comparaison", "outils IA créatifs", "IA graphisme"]
 keywords: "Canva Midjourney comparaison, outils IA créatifs"

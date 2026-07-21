@@ -4,7 +4,7 @@ description: "Le gouvernement refuse de publier un rapport sur l'impact de l'IA 
 date: 2026-06-23
 category: "politique"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Tout l'intérêt de la procédure, c'est l'enchaînement des étapes pour aboutir à la divulgation du document : demander à l'administration, saisir la CADA, puis le Conseil d'État."
   author: "fred42, commentateur Next.ink"

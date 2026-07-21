@@ -36,7 +36,7 @@ relatedOutils:
   - "midjourney"
 keywords: "IA européenne, régulation IA, souveraineté numérique, IA frugale, Green Deal, AI Act, Gilles Babinet, Lombard Odier, Mistral, Kyutai, transition écologique"
 lastReviewed: 2026-04-17
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 ---
 

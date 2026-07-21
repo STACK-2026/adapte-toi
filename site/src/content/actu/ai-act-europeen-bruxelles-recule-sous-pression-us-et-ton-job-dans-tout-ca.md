@@ -42,7 +42,7 @@ relatedOutils:
   - "copilot"
 keywords: "AI Act, régulation IA, Europe, emploi, reconversion, OpenAI, Mistral, recrutement automatisé, souveraineté tech, biais algorithmiques, transparence IA, États-Unis, Chine, diplomatie tech"
 lastReviewed: 2026-04-19
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 ---
 

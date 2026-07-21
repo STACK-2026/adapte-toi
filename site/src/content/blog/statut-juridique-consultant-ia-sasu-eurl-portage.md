@@ -5,7 +5,7 @@ image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=63
 imageAlt: "Bureau lumineux avec ordinateur portable, documents administratifs et tasse de café pour la création d'entreprise"
 date: 2026-06-22
 lastReviewed: 2026-06-22
-author: "Camille Renard"
+author: "La Rédaction Adapte-toi"
 category: "freelance-ia"
 tags: ["statut juridique consultant IA", "SASU", "EURL", "portage salarial", "freelance IA"]
 keywords: "statut juridique consultant IA, SASU ou EURL consultant IA, portage salarial freelance IA, micro-entreprise consultant IA, charges sociales freelance IA"

@@ -5,7 +5,7 @@ image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=63
 imageAlt: "Bureau vide la nuit avec ecran allume affichant une interface d'agent IA en activite"
 date: 2026-04-14
 lastReviewed: 2026-04-14
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 author: "La Rédaction Adapte-toi"
 category: "reconversion"
 tags: ["reconversion professionnelle IA", "guide reconversion", "emploi IA 2026"]

@@ -4,7 +4,7 @@ description: "BlackRock et Goldman Sachs automatisent 30% de leurs analyses avec
 date: 2026-06-13
 category: "outil"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Les machines ne dorment pas, ne partent pas en vacances, et ne demandent pas de bonus. C'est le rêve de tout patron de hedge fund."
   author: "Larry Fink, PDG de BlackRock"

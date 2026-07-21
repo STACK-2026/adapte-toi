@@ -2,7 +2,7 @@
 title: "Recrutement IA en 2026 : les profils les plus recherchés"
 description: "Recrutement IA en 2026 : 79% des grandes entreprises l'utilisent. Profils recherchés, outils sérieux, et comment passer le filtre des algorithmes."
 date: 2026-06-03
-author: "Theo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "actu-emploi"
 tags: ["recrutement IA", "emploi IA France", "métier recruteur"]
 keywords: "recrutement IA, profils recherchés IA, emploi IA France"

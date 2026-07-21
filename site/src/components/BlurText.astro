@@ -23,9 +23,9 @@ const {
   class={`blur-text ${className}`}
   data-blur-stagger={stagger}
   data-blur-amount={blur}
-  aria-label={text}
   style="display: inline-block;"
 >
+  <span class="sr-only">{text}</span>
   {text.split(" ").map((word, wi, arr) => (
     <span class="blur-word" style="display: inline-block; white-space: nowrap;">
       {word.split("").map((ch, i) => (

@@ -3,8 +3,8 @@ title: "VAE en IA : valider son expérience sans diplôme"
 description: "VAE en intelligence artificielle : comment faire reconnaître votre expérience IA sans diplôme, étapes, certifications RNCP éligibles et financement en 2026."
 date: 2026-06-30
 lastReviewed: 2026-06-30
-reviewedBy: "Camille Renard"
-author: "Camille Renard"
+reviewedBy: "Rédaction Adapte-toi"
+author: "La Rédaction Adapte-toi"
 category: "reconversion"
 tags: ["validation acquis IA", "VAE intelligence artificielle"]
 keywords: "validation acquis IA, VAE intelligence artificielle, VAE IA sans diplôme"

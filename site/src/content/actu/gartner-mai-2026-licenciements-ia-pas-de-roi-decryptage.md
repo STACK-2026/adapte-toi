@@ -66,7 +66,7 @@ relatedOutils:
 keywords: "Gartner IA licenciements 2026, autonomous business ROI, Helen Poitevin Gartner, AI workforce reduction étude, IA emploi étude mai 2026, supply chain entry-level IA, AI layoffs no ROI, décryptage Gartner adapte-toi"
 schemaFaq: true
 lastReviewed: 2026-05-06
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Tableau de bord financier sur écran, lumière bleue froide"

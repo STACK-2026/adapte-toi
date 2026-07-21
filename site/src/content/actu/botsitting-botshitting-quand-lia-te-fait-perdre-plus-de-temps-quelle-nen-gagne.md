@@ -4,7 +4,7 @@ description: "75% des pros du numérique gagnent 11h/semaine avec l'IA, mais pas
 date: 2026-06-18
 category: "etude"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "La plupart des tâches liées à la supervision des modèles d'IA relèvent du travail fastidieux : recharger le contexte, repérer les erreurs de raisonnement, vérifier les résultats qui semblent sûrs d'eux, ou pire, qui flattent les utilisateurs en leur donnant les réponses qu'ils souhaitent entendre plutôt que la vérité."
   author: "Work AI Institute"

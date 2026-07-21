@@ -4,7 +4,7 @@ description: "Zapier IA en 2026 : fonctionnalités réelles, cas d'usage métier
 image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Tableau de bord d'automatisation avec courbes de productivité affichées sur un écran d'ordinateur portable"
 date: 2026-06-26
-author: "Camille Renard"
+author: "La Rédaction Adapte-toi"
 category: "outils-ia"
 tags: ["Zapier IA", "automatisation Zapier", "outils productivité IA"]
 keywords: "Zapier IA, automatisation Zapier, outils productivité IA"

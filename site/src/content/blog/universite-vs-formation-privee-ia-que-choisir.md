@@ -2,13 +2,13 @@
 title: "Université vs formation privée IA : que choisir ?"
 description: "Université ou formation privée pour l'IA en 2026 ? Comparatif honnête : coût réel, RNCP, débouchés, financement CPF et profils gagnants pour chaque voie."
 date: 2026-06-25
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 category: "formation"
 tags: ["université IA", "formation privée IA"]
 keywords: "université vs formation privée IA, master IA, école privée IA"
 draft: false
 lastReviewed: 2026-06-25
-reviewedBy: "Sarah Bellamy"
+reviewedBy: "Rédaction Adapte-toi"
 image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop&crop=center&q=80"
 imageAlt: "Étudiants travaillant ensemble dans un amphithéâtre universitaire lumineux autour de l'intelligence artificielle"
 ---

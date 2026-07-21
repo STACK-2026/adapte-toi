@@ -61,7 +61,7 @@ image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&h=630&f
 imageAlt: "Tableau de bord économique avec graphiques de tendances du marché du travail français face à l'IA en 2026"
 keywords: "marché IA emploi France 2026, France Travail BMO IA, signaux IA travail mai 2026, Indeed Hiring Lab France"
 lastReviewed: 2026-05-27
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 ---
 

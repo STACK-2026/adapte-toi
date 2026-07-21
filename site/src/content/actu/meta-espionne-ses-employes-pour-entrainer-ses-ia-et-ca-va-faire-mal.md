@@ -40,7 +40,7 @@ relatedOutils:
   - "perplexity"
 keywords: "Meta, surveillance employés, IA, RGPD, droit du travail, automatisation, emploi tech, Andrew Bosworth, Model Capability Initiative, MCI"
 lastReviewed: 2026-04-23
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 ---
 

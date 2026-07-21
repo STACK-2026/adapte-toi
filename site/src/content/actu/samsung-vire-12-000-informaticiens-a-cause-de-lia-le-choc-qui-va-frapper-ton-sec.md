@@ -4,7 +4,7 @@ description: "Samsung supprime 12 000 postes IT en 18 mois grâce à l'IA. Décr
 date: 2026-06-20
 category: "menace"
 impactLevel: 5
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Nous n'avons plus besoin de 10 000 ingénieurs pour faire tourner nos data centers. Trois modèles de langage et 200 prompts bien optimisés suffisent."
   author: "Kim Ki-nam, vice-président de Samsung Electronics"

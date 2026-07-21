@@ -4,7 +4,7 @@ description: "Une banque madrilène économise 60 à 90 minutes par jour et par 
 date: 2026-06-04
 category: "outil"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Le futur de la banque privée ne repose pas sur les produits seuls, mais sur l'intelligence appliquée."
   author: "Javier Marín, CEO de Singular Bank"

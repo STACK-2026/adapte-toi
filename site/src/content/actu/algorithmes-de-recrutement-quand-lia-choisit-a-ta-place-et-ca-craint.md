@@ -4,7 +4,7 @@ description: "Les algorithmes de recommandation envahissent les RH. Ils promette
 date: 2026-06-17
 category: "outil"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "L'algorithme n'est ni meilleur ni pire, il est neutre. Si vous lui donnez une base de données biaisée, il reproduira et amplifiera ces biais."
   author: "Alain Lacroux, professeur en sciences de gestion à l'Université Paris 1"

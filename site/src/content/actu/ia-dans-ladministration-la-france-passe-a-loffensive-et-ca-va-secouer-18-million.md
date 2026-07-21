@@ -4,7 +4,7 @@ description: "Le gouvernement lance une stratégie IA massive pour l'État : 665
 date: 2026-06-19
 category: "politique"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Car le temps des expérimentations est désormais derrière nous, le temps de la généralisation commence."
   author: "Sébastien Lecornu, Premier ministre"

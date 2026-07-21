@@ -4,7 +4,7 @@ description: "Juillet 2026 : OpenAI ouvre des postes Ads Solutions à Paris (Cli
 date: 2026-07-21
 category: "annonce"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Le Royaume-Uni, la France et l'Allemagne représentent ensemble 62% des revenus publicitaires numériques européens : impossible pour OpenAI de monétiser ChatGPT en Europe sans conquérir ces trois marchés."
   author: "Digiday, sur les offres OpenAI Ads Solutions ouvertes a Paris, Munich et Dublin"

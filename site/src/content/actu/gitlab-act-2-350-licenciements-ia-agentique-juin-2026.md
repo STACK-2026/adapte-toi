@@ -4,7 +4,7 @@ description: "Le 2 juin 2026, GitLab confirme 350 suppressions de postes (14% de
 date: 2026-06-02
 category: "menace"
 impactLevel: 4
-author: "Lea Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Software will be built by machines, directed by people."
   author: "Bill Staples"

@@ -4,7 +4,7 @@ description: "En 2026, les escrocs utilisent l'IA pour truquer des photos de log
 date: 2026-07-20
 category: "menace"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Comme s'ils avaient demandé à l'intelligence artificielle d'améliorer ce bien en le rendant plus lumineux ou en effaçant des traces de moisissures."
   author: "Manon Meslin, victime d'une arnaque locative"

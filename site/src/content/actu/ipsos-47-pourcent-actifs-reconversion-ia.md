@@ -43,7 +43,7 @@ relatedOutils:
   - "perplexity"
 keywords: "ipsos 47 pourcent reconversion, reconversion professionnelle france 2025, baromètre reconversion ipsos, actifs envisagent reconversion"
 lastReviewed: 2026-04-15
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 ---
 

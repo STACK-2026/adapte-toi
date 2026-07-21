@@ -4,7 +4,7 @@ description: "Le 30 juin 2026 devait être la date d'entrée en vigueur de la pr
 date: 2026-06-30
 category: "politique"
 impactLevel: 4
-author: "Lea Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Le pays a besoin de plus d'innovation, pas de moins."
   author: "Jared Polis"
@@ -63,7 +63,7 @@ imageAlt: "Capitole du Colorado au crépuscule avec un panneau lumineux IA en su
 keywords: "Colorado AI Act, SB 26-189, SB 24-205, IA embauche, intelligence artificielle recrutement, régulation IA emploi, automated decision making, AI Act Europe, CNIL IA, droit du travail IA, décisions conséquentielles, audit biais algorithmiques"
 schemaFaq: true
 lastReviewed: 2026-06-30
-reviewedBy: "Léa Moreau"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 ---
 

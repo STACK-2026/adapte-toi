@@ -5,7 +5,7 @@ image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=63
 imageAlt: "Bureau de freelance avec ordinateur portable affichant un tableau de business plan et un cahier de notes"
 date: 2026-05-27
 lastReviewed: 2026-05-27
-author: "Camille Renard"
+author: "La Rédaction Adapte-toi"
 category: "freelance-ia"
 tags: ["business plan consultant IA", "freelance IA", "modèle business plan", "lancement consultant IA"]
 keywords: "business plan consultant IA, créer activité freelance IA, modèle business plan IA, lancer consultant IA, freelance intelligence artificielle"

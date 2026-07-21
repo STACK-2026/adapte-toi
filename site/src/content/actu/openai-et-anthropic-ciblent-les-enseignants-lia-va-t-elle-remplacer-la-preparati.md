@@ -4,7 +4,7 @@ description: "OpenAI et Anthropic lancent des offres gratuites pour les enseigna
 date: 2026-07-17
 category: outil
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Revenir à ce qui [les] a poussés à devenir enseignants. Se concentrer sur les élèves plutôt que sur la planification, la préparation et la paperasse."
   author: "Anthropic, dans son programme 'Claude for K-12 teachers'"

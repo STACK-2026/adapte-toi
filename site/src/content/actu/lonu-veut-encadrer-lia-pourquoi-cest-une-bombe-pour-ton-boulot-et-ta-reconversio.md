@@ -4,7 +4,7 @@ description: "Le Canada pousse l'ONU à réguler l'IA pour éviter un monde à d
 date: 2026-07-04
 category: "politique"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Tous ces pays du monde, quelque 190 pays, ne veulent pas se contenter d'être de simples consommateurs de technologies. Ils veulent avoir leur mot à dire dans leur adoption."
   author: "David Lametti, ambassadeur du Canada à l'ONU"

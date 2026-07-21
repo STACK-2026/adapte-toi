@@ -2,7 +2,7 @@
 title: "Artisan vers entrepreneur IA : témoignage inspirant"
 description: "Karim, ancien menuisier, est devenu entrepreneur IA en 14 mois. Son parcours sans filtre : déclic, outils, chiffres et conseils pour franchir le pas."
 date: 2026-06-28
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 category: "temoignages"
 tags: ["artisan entrepreneur IA", "reconversion artisan IA"]
 keywords: "artisan entrepreneur IA, reconversion artisan IA, témoignage artisan IA"
@@ -10,6 +10,9 @@ draft: false
 image: "https://images.unsplash.com/photo-1581244277943-fe4a9c777189?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Artisan menuisier dans son atelier, partage l'écran d'un ordinateur portable"
 ---
+
+
+> **Note de transparence :** ce témoignage composite est une reconstitution éditoriale fondée sur plusieurs parcours et sources documentés. Les prénoms, situations et chiffres individuels servent à rendre le cas concret ; ils ne décrivent pas une personne unique interrogée par la rédaction.
 
 ---
 

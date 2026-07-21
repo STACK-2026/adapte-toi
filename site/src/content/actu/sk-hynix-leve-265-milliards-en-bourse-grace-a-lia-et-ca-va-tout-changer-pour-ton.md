@@ -4,7 +4,7 @@ description: "Le géant coréen des puces mémoire SK Hynix lève 26,5 milliards
 date: 2026-07-10
 category: "chiffre"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Funds from its US listing can support such a goal."
   author: "MS Hwang, analyste chez Counterpoint Research"

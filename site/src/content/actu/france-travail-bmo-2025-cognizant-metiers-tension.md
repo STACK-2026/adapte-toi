@@ -43,7 +43,7 @@ relatedOutils:
   - "perplexity"
 keywords: "france travail bmo 2025, cognizant new work new world, métiers tension france, 2,77 millions recrutements"
 lastReviewed: 2026-04-15
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 ---
 

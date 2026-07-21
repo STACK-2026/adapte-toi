@@ -4,7 +4,7 @@ description: "PwC analyse 1 milliard d'offres dans 27 pays. Verdict 15 juin 2026
 date: 2026-06-19
 category: "etude"
 impactLevel: 5
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "L'IA ne supprime pas le travail, elle redistribue la valeur. Les métiers qui exigent du jugement humain explosent. Les autres se font compresser."
   author: "Joe Atkinson, Global Chief AI Officer chez PwC"

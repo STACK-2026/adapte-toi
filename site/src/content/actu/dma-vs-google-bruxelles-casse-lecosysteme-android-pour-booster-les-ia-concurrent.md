@@ -4,7 +4,7 @@ description: "La Commission européenne force Google à ouvrir Android aux assis
 date: 2026-07-16
 category: "politique"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Ces décisions risquent de saper des garde-fous essentiels en matière de vie privée et de sécurité pour des millions d'Européens"
   author: "Kent Walker, président des affaires mondiales de Google"

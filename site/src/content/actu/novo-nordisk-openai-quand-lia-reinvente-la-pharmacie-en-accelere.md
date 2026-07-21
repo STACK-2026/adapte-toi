@@ -41,7 +41,7 @@ relatedOutils:
   - "copilot"
 keywords: "pharmacie, IA, médicaments, Novo Nordisk, OpenAI, reconversion, biotech, fibrose pulmonaire, Rentosertib, Insilico Medicine"
 lastReviewed: 2026-04-21
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 ---
 

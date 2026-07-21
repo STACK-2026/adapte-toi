@@ -34,16 +34,16 @@ const recentPosts = (await getCollection("blog", ({ data }) => !data.draft))
   {/* 1. Hero */}
   <Hero />
 
-  {/* 1.5 En bref : réponse front-load (GEO levier 1). Uniquement des chiffres déjà affichés plus bas (Baromètre #1, avril 2026). */}
+  {/* 1.5 En bref : réponse front-load, fondée sur des sources primaires. */}
   <section class="px-4 pt-6 pb-2">
     <div class="max-w-3xl mx-auto">
       <TLDRBox
         label="En bref"
         points={[
           "Adapte-toi est le média indépendant qui décrypte l'impact de l'IA sur le travail en France : actu, fiches métier, guides de reconversion et formations.",
-          "Baromètre #1 (avril 2026) : indice d'exposition IA de la France à 62/100, et 47 % des actifs envisagent une reconversion.",
-          "Côté emploi : -67 % d'offres dans les centres d'appels, et 12 des 25 métiers suivis restent résilients face à l'IA.",
-          "Chiffres propriétaires, méthodologie publique et données libres de citation.",
+          "BCG AI at Work 2026 : 62 % des salariés français utilisent régulièrement l'IA, mais seuls 20 % déclarent gagner au moins une journée par semaine.",
+          "À l'échelle mondiale, 66 % des utilisateurs réguliers reçoivent peu ou pas de consignes sur le temps gagné et 41 % signalent une charge cognitive accrue.",
+          "Chaque chiffre affiché sur cette page est relié à sa source primaire et à son périmètre.",
         ]}
       />
     </div>
@@ -59,7 +59,7 @@ const recentPosts = (await getCollection("blog", ({ data }) => !data.draft))
   <section class="py-20 px-4">
     <div
       class="max-w-4xl mx-auto text-center text-white rounded-2xl p-12 md:p-16 relative overflow-hidden"
-      style={`background: ${siteConfig.colors.primary};`}
+      style="background: #C92F3C;"
     >
       <div class="absolute inset-0 opacity-10" style="background-image: linear-gradient(white 1px, transparent 1px), linear-gradient(to right, white 1px, transparent 1px); background-size: 30px 30px;"></div>
       <div class="relative">
@@ -94,60 +94,60 @@ const recentPosts = (await getCollection("blog", ({ data }) => !data.draft))
   {/* 6. Features */}
   <Features />
 
-  {/* 7. Barometre teaser (remplace temoignages en attendant des vrais) */}
+  {/* 7. Baromètre vérifié */}
   <section class="py-24 px-4 bg-gray-50 overflow-hidden">
     <div class="max-w-5xl mx-auto">
       <div class="text-center mb-12">
         <span class="inline-flex items-center gap-2 bg-accent/10 text-accent text-xs sm:text-sm font-semibold px-3 sm:px-4 py-1.5 rounded-full mb-4 scale-reveal">
           <span class="w-1.5 h-1.5 bg-accent rounded-full pulse-signal"></span>
-          Édition #1 · Avril 2026
+          Édition vérifiée · Juillet 2026
         </span>
         <h2 class="mb-4">
           <BlurText text="Le Baromètre Adapte-toi" class="font-display font-bold" />
         </h2>
         <p class="text-gray-500 max-w-2xl mx-auto blur-reveal">
-          Chaque mois, on agrège les signaux les plus récents sur l'impact de l'IA sur l'emploi en France. Chiffres propriétaires, méthodologie publique, données libres de citation.
+          Une lecture transparente de l'usage de l'IA au travail : population étudiée, périmètre, source primaire et limites méthodologiques.
         </p>
       </div>
 
       <div class="grid grid-cols-2 md:grid-cols-4 gap-3 md:gap-5 mb-10 stagger-children">
         <div class="bg-white rounded-xl border border-gray-100 p-5 shadow-sm">
-          <div class="text-[10px] font-bold uppercase tracking-widest text-gray-500 mb-2">Indice d'exposition IA France</div>
+          <div class="text-[10px] font-bold uppercase tracking-widest text-gray-600 mb-2">Usage régulier en France</div>
           <div class="flex items-baseline gap-1">
             <span class="text-3xl md:text-4xl font-display font-bold text-primary">62</span>
-            <span class="text-lg font-semibold text-gray-400">/ 100</span>
+            <span class="text-lg font-semibold text-gray-500">%</span>
           </div>
-          <div class="text-xs text-primary font-medium mt-2">▲ +3 vs mars</div>
+          <div class="text-xs text-gray-600 font-medium mt-2">Salariés français · BCG</div>
         </div>
         <div class="bg-white rounded-xl border border-gray-100 p-5 shadow-sm">
-          <div class="text-[10px] font-bold uppercase tracking-widest text-gray-500 mb-2">Actifs en reconversion</div>
+          <div class="text-[10px] font-bold uppercase tracking-widest text-gray-600 mb-2">Une journée gagnée</div>
           <div class="flex items-baseline gap-1">
-            <span class="text-3xl md:text-4xl font-display font-bold text-accent">47</span>
-            <span class="text-lg font-semibold text-gray-400">%</span>
+            <span class="text-3xl md:text-4xl font-display font-bold text-accent">20</span>
+            <span class="text-lg font-semibold text-gray-500">%</span>
           </div>
-          <div class="text-xs text-accent font-medium mt-2">▲ +2 pts</div>
+          <div class="text-xs text-gray-600 font-medium mt-2">Utilisateurs réguliers FR</div>
         </div>
         <div class="bg-white rounded-xl border border-gray-100 p-5 shadow-sm">
-          <div class="text-[10px] font-bold uppercase tracking-widest text-gray-500 mb-2">Offres centres d'appels</div>
+          <div class="text-[10px] font-bold uppercase tracking-widest text-gray-600 mb-2">Sans consigne claire</div>
           <div class="flex items-baseline gap-1">
-            <span class="text-3xl md:text-4xl font-display font-bold text-secondary">-67</span>
-            <span class="text-lg font-semibold text-gray-400">%</span>
+            <span class="text-3xl md:text-4xl font-display font-bold text-secondary">66</span>
+            <span class="text-lg font-semibold text-gray-500">%</span>
           </div>
-          <div class="text-xs text-gray-500 font-medium mt-2">● stable</div>
+          <div class="text-xs text-gray-600 font-medium mt-2">Utilisateurs réguliers · monde</div>
         </div>
         <div class="bg-white rounded-xl border border-gray-100 p-5 shadow-sm">
-          <div class="text-[10px] font-bold uppercase tracking-widest text-gray-500 mb-2">Métiers résilients</div>
+          <div class="text-[10px] font-bold uppercase tracking-widest text-gray-600 mb-2">Charge cognitive accrue</div>
           <div class="flex items-baseline gap-1">
-            <span class="text-3xl md:text-4xl font-display font-bold text-green-600">12</span>
-            <span class="text-lg font-semibold text-gray-400">/ 25</span>
+            <span class="text-3xl md:text-4xl font-display font-bold text-violet-600">41</span>
+            <span class="text-lg font-semibold text-gray-500">%</span>
           </div>
-          <div class="text-xs text-gray-500 font-medium mt-2">● stable</div>
+          <div class="text-xs text-gray-600 font-medium mt-2">Utilisateurs réguliers · monde</div>
         </div>
       </div>
 
       <div class="text-center fade-up">
         <a href="/barometre" class="inline-flex items-center gap-2 text-primary font-semibold hover:underline">
-          Voir le baromètre complet + méthodologie &rarr;
+          Voir les sources et la méthodologie &rarr;
         </a>
       </div>
     </div>
@@ -204,7 +204,7 @@ const recentPosts = (await getCollection("blog", ({ data }) => !data.draft))
 
       <form id="newsletter-form" class="max-w-md mx-auto flex flex-col sm:flex-row gap-3 fade-up">
         <input type="email" aria-label="Email" name="email" required placeholder="ton@email.com" class="flex-1 px-5 py-3 rounded-full text-gray-900 text-sm focus:outline-none focus:ring-2 focus:ring-accent" />
-        <button type="submit" class="font-semibold px-6 py-3 rounded-full text-white transition-all hover:scale-[1.03] active:scale-[0.98]" style={`background: ${siteConfig.colors.primary}; box-shadow: 0 2px 4px 0 rgba(255,255,255,0.3) inset;`}>
+        <button type="submit" class="font-semibold px-6 py-3 rounded-full text-white transition-all hover:scale-[1.03] active:scale-[0.98]" style="background: #C92F3C; box-shadow: 0 2px 4px 0 rgba(255,255,255,0.3) inset;">
           S'abonner
         </button>
       </form>
@@ -254,7 +254,7 @@ const recentPosts = (await getCollection("blog", ({ data }) => !data.draft))
           N'attends pas que ton poste disparaisse pour réagir. Explore nos fiches métier, lis nos guides, et commence ta transformation dès aujourd'hui.
         </p>
         <div class="flex flex-col sm:flex-row gap-4 justify-center fade-up">
-          <a href="/metiers" class="inline-flex items-center gap-2 font-bold px-8 py-4 rounded-full text-lg transition-all hover:scale-[1.03] active:scale-[0.98]" style={`background: ${siteConfig.colors.primary}; color: white; box-shadow: 0 2px 4px 0 rgba(255,255,255,0.3) inset;`}>
+          <a href="/metiers/" class="inline-flex items-center gap-2 font-bold px-8 py-4 rounded-full text-lg transition-all hover:scale-[1.03] active:scale-[0.98]" style="background: #C92F3C; color: white; box-shadow: 0 2px 4px 0 rgba(255,255,255,0.3) inset;">
             Explorer les métiers
             <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6" /></svg>
           </a>

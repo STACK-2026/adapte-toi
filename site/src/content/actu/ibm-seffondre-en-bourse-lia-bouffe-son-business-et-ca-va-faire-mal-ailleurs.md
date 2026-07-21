@@ -4,7 +4,7 @@ description: "IBM perd 25% en Bourse parce que ses clients dépensent leur budge
 date: 2026-07-14
 category: "chiffre"
 impactLevel: 5
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Les clients d'IBM ne réduisent pas leurs dépenses IT, ils les redirigent vers des solutions d'IA plus agiles et moins chères."
   author: "Arvind Krishna, PDG d'IBM"

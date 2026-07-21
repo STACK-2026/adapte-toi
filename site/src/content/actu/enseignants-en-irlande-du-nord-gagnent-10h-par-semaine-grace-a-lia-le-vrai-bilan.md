@@ -4,7 +4,7 @@ description: "Un pilote avec Gemini dans les écoles d'Irlande du Nord fait éco
 date: 2026-07-18
 category: "outil"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "La technologie n'est pas magique, les enseignants le sont."
   author: "Lila Ibrahim, COO de Google DeepMind"

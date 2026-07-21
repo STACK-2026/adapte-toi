@@ -44,7 +44,7 @@ relatedOutils:
   - "perplexity"
 keywords: "Gemini 2.0, Google, IA agentique, automatisation, reconversion, métiers menacés, développement IA, assistants autonomes, multimodalité, Deep Research"
 lastReviewed: 2024-12-20
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 ---
 

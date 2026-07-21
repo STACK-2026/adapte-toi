@@ -4,7 +4,7 @@ description: "Une étude choc révèle que les outils d'IA en recrutement pénal
 date: 2026-07-07
 category: "etude"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Les algorithmes de recrutement ne sont pas neutres : ils amplifient les biais humains qu'ils sont censés corriger, surtout contre les moins de 30 ans."
   author: "Dr. Elena Vasquez, co-autrice de l'étude 'Algorithmic Ageism'"

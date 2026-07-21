@@ -4,7 +4,7 @@ description: "Décryptage du LinkedIn Skills Report 2026 : compétences IA qui e
 image: "https://images.unsplash.com/photo-1611944212129-29977ae1398c?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Page d'accueil LinkedIn affichée sur l'écran d'un ordinateur portable posé sur un bureau"
 date: 2026-06-04
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "etudes-rapports"
 tags: ["rapport LinkedIn compétences IA", "skills IA 2026"]
 keywords: "rapport LinkedIn compétences IA, skills IA 2026"

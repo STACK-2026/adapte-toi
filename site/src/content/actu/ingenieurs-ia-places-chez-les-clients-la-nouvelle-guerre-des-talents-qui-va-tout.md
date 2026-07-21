@@ -4,7 +4,7 @@ description: "Microsoft, Amazon, OpenAI et Google envoient leurs ingénieurs IA 
 date: 2026-07-03
 category: "annonce"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Elle constituera l'organisation d'ingénierie la plus importante, compétente et orientée vers l'obtention de résultats concrets et mesurables pour les clients"
   author: "Judson Althoff, CEO Microsoft Commercial Business"

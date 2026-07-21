@@ -4,7 +4,7 @@ description: "Le résumé de la semaine sur Adapte-toi Décrypte : 23 décryptag
 date: 2026-06-28
 category: "chiffre"
 impactLevel: 3
-author: "Rédaction Adapte-toi"
+author: "La Rédaction Adapte-toi"
 tldr:
   - "Menace : JD.com veut virer 700 000 livreurs pour des robots : le cauchemar logistique qui nous attend"
   - "Menace : Oracle Roumanie : 500 virés le 25 juin, l'IA continue"

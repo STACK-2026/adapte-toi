@@ -4,7 +4,7 @@ description: "Cisco utilise Codex d'OpenAI pour automatiser 95% des nouvelles fo
 date: 2026-06-03
 category: "outil"
 impactLevel: 5
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Le plus gros gain est venu quand on a arrêté de voir Codex comme un outil et qu'on a commencé à le traiter comme un membre de l'équipe."
   author: "Ryan Brady, Principal Engineer chez Cisco (groupe Splunk)"

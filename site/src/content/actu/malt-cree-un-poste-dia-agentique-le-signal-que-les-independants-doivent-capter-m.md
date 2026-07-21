@@ -4,7 +4,7 @@ description: "Malt nomme une VP Plateformes & Systèmes Agentiques. Derrière le
 date: 2026-06-05
 category: "annonce"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "J'ai souvent occupé des postes fraîchement créés, je connais l'incertitude et elle m'épanouit"
   author: "Anaïs Ghelfi, VP Plateformes & Systèmes Agentiques chez Malt"

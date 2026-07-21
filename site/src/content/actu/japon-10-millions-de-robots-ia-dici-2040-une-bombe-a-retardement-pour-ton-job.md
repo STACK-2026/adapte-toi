@@ -4,7 +4,7 @@ description: "Le Japon mise sur 10 millions de robots « intelligents » d'ici 2
 date: 2026-07-02
 category: politique
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Nous allons construire une infrastructure de données pour l'IA physique et les robots qui tire parti des atouts du Japon."
   author: "Ryosei Akazawa, ministre japonais de l'Industrie"

@@ -4,7 +4,7 @@ description: "Le 24 juin 2026, SignalFire publie son State of Talent Report : le
 date: 2026-06-26
 category: "etude"
 impactLevel: 4
-author: "Lea Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Within a smaller overall hiring pie, software engineers now represent a majority (55%) of all hiring at the Tech Majors, up from 46% in 2019."
   author: "SignalFire, State of Tech Talent Report 2026"
@@ -57,7 +57,7 @@ relatedOutils:
 keywords: "SignalFire 2026, ingénieurs IA résistent, juniors développeurs effondrement, Tech Majors recrutement, AI Code Apocalypse, jeunes diplômés tech, Stanford ADP entry-level, emploi tech France 2026"
 schemaFaq: true
 lastReviewed: 2026-06-26
-reviewedBy: "Lea Moreau"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Open space tech avec deux ingénieurs seniors penchés sur un écran de code, lumière froide"

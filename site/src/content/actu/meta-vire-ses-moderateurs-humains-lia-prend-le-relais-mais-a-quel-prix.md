@@ -4,7 +4,7 @@ description: "Meta accélère le remplacement de ses modérateurs humains par de
 date: 2026-06-25
 category: "menace"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "L'objectif de cette initiative est d'améliorer nos efforts de mise en application des règles : nous déployons ces systèmes d'IA plus avancés une fois que nous avons la certitude qu'ils offrent systématiquement de meilleures performances que nos méthodes actuelles de contrôle des contenus."
   author: "Meta, dans un communiqué officiel"

@@ -4,7 +4,7 @@ description: "Le résumé de la semaine sur Adapte-toi Décrypte : 21 décryptag
 date: 2026-07-19
 category: "chiffre"
 impactLevel: 3
-author: "Rédaction Adapte-toi"
+author: "La Rédaction Adapte-toi"
 tldr:
   - "Politique : Burnham veut supprimer le ministère de la Tech, le Royaume-Uni va-t-il rater le coche de l'IA ?"
   - "Annonce : Meta et Anthropic négocient un deal à 10 milliards pour des data centers : l'IA va dévorer tes compétences cloud"

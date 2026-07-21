@@ -4,7 +4,7 @@ description: "Dès août 2026, Google étiquettera les pubs créées par IA. Une
 date: 2026-07-10
 category: "politique"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Lorsque [les entreprises] utilisent les outils publicitaires basés sur l'IA générative de Google pour créer des annonces, nous ajouterons automatiquement une mention."
   author: "Google, via Vidhya Srinivasan (VP Ads and Commerce)"

@@ -4,7 +4,7 @@ description: "Amazon injecte 10 milliards d'euros en Europe, promet 25 000 emplo
 date: 2026-06-08
 category: "menace"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Chaque robot déployé réduit le besoin en bras humains sur certains postes, même si d'autres emplois apparaissent ailleurs dans la chaîne."
   author: "Jennifer Larcher, Siècle Digital"

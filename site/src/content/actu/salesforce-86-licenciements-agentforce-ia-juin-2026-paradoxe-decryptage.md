@@ -4,7 +4,7 @@ description: "Le 9 juin 2026, Salesforce coupe 86 postes en Californie, dont l'�
 date: 2026-06-15
 category: "menace"
 impactLevel: 4
-author: "Lea Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Engineering staffing levels held steady at around 15,000 for approximately two years, attributing the stagnant hiring pace to productivity tools."
   author: "Marc Benioff, PDG de Salesforce, conf. résultats mai 2026"
@@ -58,7 +58,7 @@ relatedOutils:
 keywords: "Salesforce licenciements 2026, Agentforce IA, WARN Californie juin 2026, Marc Benioff agents IA, MuleSoft Marketing Cloud, licenciement IA France, AI Act emploi, reconversion SaaS"
 schemaFaq: true
 lastReviewed: 2026-06-15
-reviewedBy: "Lea Moreau"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 image: "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Open space tech vide la nuit, écrans allumés, ambiance restructuration"

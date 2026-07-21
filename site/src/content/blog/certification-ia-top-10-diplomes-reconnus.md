@@ -30,7 +30,6 @@ draft: false
 
 Selon l'étude PwC, les profils IA-ready gagnent en moyenne 25% de plus que leurs homologues sans compétences IA. Pourtant, face à la jungle des certifications IA, des badges LinkedIn et des attestations de completion, choisir la bonne **certification IA** relève du parcours du combattant. Cet article te donne un comparatif complet, sans bullshit, adapté au marché français.
 
-![Comparatif certifications IA France 2026 tableau diplômes reconnus recruteurs](IMAGE_1)
 
 ---
 
@@ -196,7 +195,6 @@ Consulte notre guide complet sur les métiers de l'IA accessibles sans coder pou
 
 **Limite :** engagement long (6 à 18 mois). Nécessite une vraie motivation et de la régularité dans le travail.
 
-![Parcours reconversion IA France CPF RNCP financement formation certifiante](IMAGE_2)
 
 ---
 
@@ -291,7 +289,6 @@ Plusieurs certifications IA ont un coût très faible ou des parcours accessible
 - **IBM :** IBM SkillsBuild propose des parcours gratuits avec des badges reconnus
 - **MOOC France Université Numérique :** certains MOOCs en IA sont gratuits avec certification payante
 
-![Financement CPF certification IA France Travail PDC reconversion professionnelle](IMAGE_3)
 
 ---
 

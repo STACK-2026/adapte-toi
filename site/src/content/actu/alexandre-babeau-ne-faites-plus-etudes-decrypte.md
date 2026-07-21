@@ -43,7 +43,7 @@ relatedOutils:
   - "chatgpt"
 keywords: "ne faites plus d'études, laurent alexandre, olivier babeau, études inutiles IA, diplôme remise en cause"
 lastReviewed: 2026-04-15
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 ---
 

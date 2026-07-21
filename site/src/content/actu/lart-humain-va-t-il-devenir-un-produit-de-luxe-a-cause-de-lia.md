@@ -37,7 +37,7 @@ relatedOutils:
   - "notion-ai"
 keywords: "IA, art, création, culture, artistes, emploi, reconversion, label, Fabrication Humaine, droit d'auteur, automatisation"
 lastReviewed: 2026-04-24
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 ---
 

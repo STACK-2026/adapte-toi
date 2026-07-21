@@ -4,7 +4,7 @@ description: "OpenAI lance ChatGPT Pro à 200$/mois avec son modèle o1 pro mode
 date: 2026-06-03
 category: "outil"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "ChatGPT Pro provides a way for researchers, engineers, and other individuals who use research-grade intelligence daily to accelerate their productivity."
   author: "OpenAI"

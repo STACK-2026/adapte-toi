@@ -4,7 +4,7 @@ description: "Le 15 juillet 2026, Sprout Social annonce 20 % de licenciements (2
 date: 2026-07-18
 category: "menace"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "This decision reflects broader shifts in how software companies are operating as artificial intelligence reshapes business priorities and investment strategies."
   author: "Ryan Barretto, CEO de Sprout Social"

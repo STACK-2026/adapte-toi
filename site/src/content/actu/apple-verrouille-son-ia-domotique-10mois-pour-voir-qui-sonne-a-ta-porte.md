@@ -4,7 +4,7 @@ description: "Apple impose son forfait iCloud+ à 9,99€/mois pour activer l'IA
 date: 2026-07-09
 category: "outil"
 impactLevel: 3
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Apple Intelligence permet à l'application domotique de générer une description de ce qui s'est passé dans une série de vidéos et d'afficher une « notification liée »."
   author: "Mickael Bazoge, Next.ink"

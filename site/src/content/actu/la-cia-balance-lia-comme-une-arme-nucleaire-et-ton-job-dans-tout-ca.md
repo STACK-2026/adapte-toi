@@ -4,7 +4,7 @@ description: "Le patron de la CIA compare les modèles d'IA avancés à des arme
 date: 2026-07-01
 category: "voix"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Il ne serait pas déplacé de comparer leurs capacités à des armes nucléaires numériques."
   author: "Jim Ratcliffe, directeur de la CIA"

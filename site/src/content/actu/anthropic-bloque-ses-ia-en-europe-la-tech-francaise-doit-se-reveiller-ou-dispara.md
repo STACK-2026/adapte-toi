@@ -4,7 +4,7 @@ description: "Washington coupe l'accès aux modèles Mythos 5 et Fable 5 d'Anthr
 date: 2026-06-15
 category: "menace"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Il faut se bouger."
   author: "Tariq Krim, fondateur de Cybernetica.fr"

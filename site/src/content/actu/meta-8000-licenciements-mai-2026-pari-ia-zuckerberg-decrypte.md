@@ -58,7 +58,7 @@ relatedOutils:
 keywords: "Meta licenciements mai 2026, Meta 8000 emplois IA, Zuckerberg AI capex, Superintelligence Labs Alexandr Wang, licenciements IA 2026, AI Act licenciement, reconversion IA France, Meta 20 mai 2026"
 schemaFaq: true
 lastReviewed: 2026-05-05
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 image: "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Logo Meta sur une façade d'immeuble en verre, ambiance corporate moderne"

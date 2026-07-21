@@ -4,7 +4,7 @@ description: "Deux Français sur trois utilisent l'IA en 2026, mais les ouvriers
 date: 2026-06-12
 category: "chiffre"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "L'IA représente d'abord une chance pour 73% des 18-24 ans, contre seulement 37% des ouvriers."
   author: "Sondage Elabe pour les Hauts-de-France"

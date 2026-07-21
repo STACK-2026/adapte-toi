@@ -4,7 +4,7 @@ description: "Ford réembauche 350 vétérans pour corriger les ratés de son IA
 date: 2026-06-30
 category: "menace"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Nous avons cru, à tort, qu'il suffisait d'introduire de l'intelligence artificielle et d'y intégrer nos exigences de conception pour obtenir un produit de grande qualité."
   author: "Charles Poon, vice-président ingénierie matérielle de Ford"

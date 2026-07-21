@@ -4,7 +4,7 @@ description: "Formations IA éligibles CPF en 2026 : liste, critères RNCP, disp
 image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&h=630&fit=crop&crop=center&q=80"
 imageAlt: "Personne consultant les formations en intelligence artificielle éligibles au CPF sur son ordinateur portable"
 date: 2026-07-03
-author: "Sarah Bellamy"
+author: "La Rédaction Adapte-toi"
 category: "formation"
 tags: ["formation IA CPF", "CPF intelligence artificielle"]
 keywords: "formation IA CPF, CPF intelligence artificielle"

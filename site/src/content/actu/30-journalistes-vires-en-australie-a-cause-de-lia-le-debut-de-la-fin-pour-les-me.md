@@ -4,7 +4,7 @@ description: "Nine Entertainment supprime 30 postes au Sydney Morning Herald et 
 date: 2026-07-21
 category: "menace"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "L'internet et les réseaux sociaux ne nous ont pas autant perturbés que l'IA."
   author: "Tory Maguire, directrice de la publication chez Nine Entertainment"

@@ -12,10 +12,10 @@
 
 ## Spécialités
 
-- Fiches métier : analyse de l'impact de l'IA sur 50+ professions
+- Fiches métier : analyse de l'impact de l'IA sur les principales professions exposées ou transformées
 - Guides de reconversion : formation IA, compétences à acquérir, financement CPF
 - Annuaire d'outils IA : classés par métier et par usage
-- Actualités : veille hebdomadaire sur IA et emploi
+- Actualités : décryptages publiés chaque jour sur l'IA et l'emploi
 - Diagnostic : outil interactif pour évaluer l'impact de l'IA sur ton métier
 
 ## Sources citées
@@ -25,6 +25,11 @@ Les analyses s'appuient sur des études publiées par : OCDE, McKinsey, Anthropi
 ## Articles de blog
 
 Les articles sont disponibles sur https://adapte-toi.com/blog
+
+## Index éditorial complet
+
+- https://adapte-toi.com/llms-full.txt
+- Ce fichier est fourni comme index de commodité. Les pages HTML, robots.txt et les sitemaps restent les sources canoniques.
 
 ## Personas cibles
 

@@ -5,7 +5,7 @@ image: "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?w=1200&h=630&f
 imageAlt: "Petite équipe réunie autour d'une table de travail avec ordinateurs portables dans un bureau lumineux"
 date: 2026-06-15
 lastReviewed: 2026-06-15
-author: "Camille Renard"
+author: "La Rédaction Adapte-toi"
 category: "freelance-ia"
 tags: ["agence conseil IA", "créer agence IA", "consultant IA", "entreprise IA"]
 keywords: "créer agence conseil IA, entreprise consultant IA, lancer agence IA, business plan agence IA"

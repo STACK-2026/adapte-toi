@@ -2,7 +2,7 @@
 title: "Changer de voie à 35 ans grâce à l'IA : mode d'emploi 2026"
 description: "Reconversion IA à 35 ans : feuille de route concrète, formations finançables, métiers porteurs et plan d'action sans bullshit pour transformer votre carrière."
 date: 2026-06-24
-author: "Camille Renard"
+author: "La Rédaction Adapte-toi"
 category: "reconversion"
 tags: ["reconversion IA 35 ans", "changer voie IA"]
 keywords: "reconversion IA 35 ans, changer voie IA, mode emploi reconversion intelligence artificielle"

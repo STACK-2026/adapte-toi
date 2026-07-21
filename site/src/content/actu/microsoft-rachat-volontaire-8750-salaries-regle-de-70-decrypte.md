@@ -4,7 +4,7 @@ description: "Microsoft a annoncé le 23 avril 2026 un plan de départs volontai
 date: 2026-05-18
 category: "menace"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 schemaFaq: true
 keyQuote:
   text: "Microsoft expects headcount to decline as CFO Amy Hood signals continued workforce cuts."
@@ -62,7 +62,7 @@ relatedOutils:
   - "cursor"
 keywords: "Microsoft rachat volontaire 2026, Microsoft départs volontaires 8750 salariés, règle de 70 Microsoft, plan retraite Microsoft IA, Amy Hood charge 900 millions, Microsoft IA emploi France, licenciements déguisés IA, buyout Microsoft 2026"
 lastReviewed: 2026-05-18
-reviewedBy: "Léa Moreau"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Bureaux corporate avec open space et écran d'ordinateur affichant un graphique financier"

@@ -4,7 +4,7 @@ description: "L'IA va automatiser 30% des tâches d'ici 2030, mais certains sect
 date: 2026-07-11
 category: menace
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "AI can help organise information and flag risks, but it cannot decide whether treatment is safe or appropriate."
   author: "Hira Malik, pharmacienne et cofondatrice d'Oushk Pharmacy"

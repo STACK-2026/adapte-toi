@@ -30,7 +30,6 @@ draft: false
 
 Le métier de **traducteur IA** est en pleine turbulence. DeepL traduit un document juridique en 3 secondes. ChatGPT reformule un texte marketing en 10 langues sur demande. Et toi, tu te demandes si ton métier existera encore dans 5 ans. La réponse courte : oui. La réponse longue, c'est cet article.
 
-![Traducteur professionnel analysant une traduction IA sur ordinateur en 2026](IMAGE_1)
 
 ---
 
@@ -90,7 +89,6 @@ Voici un tableau comparatif construit pour les traducteurs professionnels, pas p
 
 **À noter** : la "précision brute" varie énormément selon la paire de langues et le type de texte. Ces notes sont des moyennes observées sur des textes professionnels en anglais-français. Un texte littéraire ou juridique complexe nécessite systématiquement une relecture humaine, quelle que soit l'IA utilisée.
 
-![Comparatif interfaces DeepL et ChatGPT pour traduction professionnelle](IMAGE_2)
 
 Consulte notre guide complet sur les outils IA pour les métiers du texte pour des évaluations plus détaillées, notamment sur les intégrations avec les CAT tools (Computer-Assisted Translation).
 
@@ -187,7 +185,6 @@ Selon Lefebvre Dalloz en 2026, **1 professionnel sur 2 a adopté l'IA en moins d
 
 Consulte notre guide sur la reconversion des métiers du texte face à l'IA pour un plan d'action personalise selon ton profil.
 
-![Traducteur freelance suivant une formation en ligne sur la post-édition IA](IMAGE_3)
 
 ---
 

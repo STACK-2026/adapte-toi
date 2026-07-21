@@ -40,7 +40,7 @@ relatedOutils:
   - "copilot"
 keywords: "IA, emploi, AI Index 2026, Chine, États-Unis, robotique, reconversion, développeurs, coûts IA, impact écologique"
 lastReviewed: 2026-04-20
-reviewedBy: "La Rédaction Adapte-toi"
+reviewedBy: "Rédaction Adapte-toi"
 draft: false
 ---
 

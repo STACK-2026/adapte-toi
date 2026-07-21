@@ -4,7 +4,7 @@ description: "Netflix a utilisé l'IA générative dans 300 productions en 2026 
 date: 2026-07-17
 category: "outil"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Dans certains cas, les productions auraient dû renoncer à des plans et des séquences clés sans la technologie d'IA générative."
   author: "Netflix, lettre aux actionnaires (juillet 2026)"

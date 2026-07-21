@@ -4,7 +4,7 @@ description: "Le rapport du FMI prévient : 40% des emplois mondiaux et 60% des 
 image: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200&h=630&fit=crop&q=80&auto=format"
 imageAlt: "Vue panoramique d'un quartier d'affaires international illustrant l'impact mondial de l'IA sur l'emploi"
 date: 2026-06-23
-author: "Théo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "etudes-rapports"
 tags: ["rapport FMI IA emploi", "étude FMI intelligence artificielle"]
 keywords: "rapport FMI IA emploi, étude FMI intelligence artificielle"

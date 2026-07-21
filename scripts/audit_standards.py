@@ -53,7 +53,13 @@ if DIST:
             report["missing_canonical"].append(rel)
         if 'property="og:image"' not in html or 'property="og:url"' not in html:
             report["missing_og"].append(rel)
-        if '"@type":"Organization"' not in html and '"@type": "Organization"' not in html:
+        has_org = any(marker in html for marker in (
+            '"@type":"Organization"',
+            '"@type": "Organization"',
+            '"@type":"NewsMediaOrganization"',
+            '"@type": "NewsMediaOrganization"',
+        ))
+        if not has_org:
             report["missing_jsonld_org"].append(rel)
         if "<title>" not in html:
             report["missing_title"].append(rel)

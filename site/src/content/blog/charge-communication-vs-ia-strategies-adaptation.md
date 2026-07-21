@@ -4,7 +4,7 @@ description: "L'IA transforme le métier de chargé de communication en 2026. Ci
 image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop&crop=center&q=80"
 imageAlt: "Chargé de communication devant son ordinateur travaillant sur une campagne avec des outils d'intelligence artificielle"
 date: 2026-07-02
-author: "Theo Marchand"
+author: "La Rédaction Adapte-toi"
 category: "metiers-ia"
 tags: ["chargé communication IA", "métier communication IA"]
 keywords: "chargé communication IA, métier communication IA"

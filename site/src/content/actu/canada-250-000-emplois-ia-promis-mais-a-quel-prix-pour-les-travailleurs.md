@@ -4,7 +4,7 @@ description: "Ottawa lance sa stratégie 'L'IA pour tous' avec 250 000 emplois c
 date: 2026-06-04
 category: "politique"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "L'IA doit renforcer l'expertise humaine plutôt que la supplanter, en permettant aux travailleurs d'accéder à des rôles à plus forte valeur ajoutée."
   author: "Stratégie nationale canadienne 'L'IA pour tous'"

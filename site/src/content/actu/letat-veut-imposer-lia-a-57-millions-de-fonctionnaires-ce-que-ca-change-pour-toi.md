@@ -4,7 +4,7 @@ description: "Bercy généralise un chatbot souverain et des outils d'IA dans to
 date: 2026-06-16
 category: "politique"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "L'IA n'est pas une option, c'est une méthode de transformation de l'État."
   author: "Sébastien Lecornu, ministre des Armées (cité par David Amiel)"

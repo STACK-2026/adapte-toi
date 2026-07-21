@@ -4,7 +4,7 @@ description: "Oracle licencie 21 000 employés en un an pour financer son virage
 date: 2026-06-25
 category: "menace"
 impactLevel: 4
-author: "Rédaction Adapte-toi"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Le déploiement des technologies d'IA à travers nos activités a eu pour effet, et pourrait continuer d'avoir pour effet de réduire nos effectifs"
   author: "Oracle, rapport annuel 2026"

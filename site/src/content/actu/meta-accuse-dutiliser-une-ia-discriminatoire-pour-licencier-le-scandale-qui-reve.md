@@ -4,7 +4,7 @@ description: "Meta est visé par une plainte collective pour avoir utilisé une 
 date: 2026-07-15
 category: "menace"
 impactLevel: 5
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Les décisions d'organisation et de gestion des effectifs, hier comme aujourd'hui, sont faites par des personnes, non par l'IA."
   author: "Meta, dans un communiqué"

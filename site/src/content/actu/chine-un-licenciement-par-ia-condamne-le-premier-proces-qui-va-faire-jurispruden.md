@@ -4,7 +4,7 @@ description: "Un tribunal chinois condamne une entreprise pour avoir viré un sa
 date: 2026-06-12
 category: "menace"
 impactLevel: 5
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "Le recours à l'intelligence artificielle était bien un choix économique de la direction, pas une fatalité ou une crise imprévisible."
   author: "Juge de la cour populaire intermédiaire de Hangzhou"

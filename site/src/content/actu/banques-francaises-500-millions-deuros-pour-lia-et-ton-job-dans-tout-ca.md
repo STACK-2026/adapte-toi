@@ -4,7 +4,7 @@ description: "Crédit Agricole investit 500 millions sur 3 ans pour industrialis
 date: 2026-06-10
 category: "annonce"
 impactLevel: 4
-author: "Léa Moreau"
+author: "La Rédaction Adapte-toi"
 keyQuote:
   text: "L'IA va sans aucun doute redessiner nos modèles économiques, nos organisations, nos façons de travailler et donc notre performance future."
   author: "Olivier Gavalda, directeur général de Crédit Agricole SA"
