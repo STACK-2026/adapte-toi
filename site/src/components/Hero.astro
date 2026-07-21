@@ -3,17 +3,6 @@ import { siteConfig } from "../../site.config";
 import TextMorph from "./TextMorph.astro";
 import G from "./Glossaire.astro";
 
-// Phrases courtes pour que le TextMorph ne coupe pas sur mobile
-const heroPhrasesLine2 = [
-  "Toi aussi, change.",
-  "Adapte-toi maintenant.",
-  "Ton métier va changer.",
-  "L'IA n'attend pas.",
-  "Il est temps d'agir.",
-  "Ne reste pas passif.",
-  "Anticipe. Adapte. Avance.",
-];
-
 const ctaPhrases = [
   "Fais le diagnostic",
   "Évalue ton risque",
@@ -41,13 +30,7 @@ const ctaPhrases = [
     <!-- H1 - sizing adapté mobile -->
     <h1 class="mb-6 sm:mb-8 text-[1.75rem] sm:text-[2.5rem] md:text-[3.5rem] leading-[1.1]" data-speakable>
       <span class="block">Le monde du travail change.</span>
-      <span class="block mt-1 sm:mt-2" style={`color: ${siteConfig.colors.primary};`}>
-        <TextMorph
-          phrases={heroPhrasesLine2}
-          interval={3200}
-          class="font-display font-bold"
-        />
-      </span>
+      <span class="block mt-1 sm:mt-2 font-display font-bold" style={`color: ${siteConfig.colors.primary};`}>Adapte-toi maintenant.</span>
     </h1>
 
     <p class="text-base sm:text-lg md:text-xl text-gray-600 max-w-2xl mx-auto mb-8 sm:mb-12 leading-relaxed px-2" data-speakable>
