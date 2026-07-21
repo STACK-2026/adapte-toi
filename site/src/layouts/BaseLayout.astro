@@ -72,9 +72,8 @@ const jsonLdArray = brandRef ? [brandRef, ...pageJsonLd] : pageJsonLd;
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="theme-color" content="#ffffff" />
 
-    <!-- Self-hosted fonts (no render-blocking external request) -->
+    <!-- The body font is preloaded; @font-face rules ship with the inlined critical CSS. -->
     <link rel="preload" href="/fonts/gf-dm-sans-400-normal-40fe3cf7.woff2" as="font" type="font/woff2" crossorigin />
-    <link rel="stylesheet" href="/fonts/fonts.css" />
 
     <!-- SEO -->
     <title>{documentTitle}</title>

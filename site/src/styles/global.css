@@ -1,5 +1,21 @@
 @import "tailwindcss";
 
+@font-face {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400 600;
+  font-display: swap;
+  src: url("/fonts/gf-dm-sans-400-normal-40fe3cf7.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 600 700;
+  font-display: swap;
+  src: url("/fonts/gf-space-grotesk-600-normal-ecea81d5.woff2") format("woff2");
+}
+
 /* === Design Tokens - adapte-toi.com === */
 :root {
   --color-primary: #e63946;
