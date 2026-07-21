@@ -94,6 +94,34 @@ def _call_gemini(text: str, key: str) -> str:
     return ""
 
 
+def _call_mistral(text: str, key: str) -> str:
+    """Fallback when Gemini succeeds technically but returns the folded input."""
+    payload = {
+        "model": os.getenv("REACCENT_MISTRAL_MODEL", "mistral-small-latest"),
+        "messages": [
+            {"role": "system", "content": _SYS},
+            {"role": "user", "content": text},
+        ],
+        "temperature": 0,
+        "max_tokens": 32_000,
+    }
+    req = urllib.request.Request(
+        "https://api.mistral.ai/v1/chat/completions",
+        data=json.dumps(payload).encode(),
+        headers={
+            "Authorization": "Bearer " + key,
+            "Content-Type": "application/json",
+        },
+    )
+    with urllib.request.urlopen(req, timeout=180) as response:
+        body = json.loads(response.read())
+    out = ((body.get("choices") or [{}])[0].get("message") or {}).get("content", "")
+    if out.startswith("```"):
+        out = re.sub(r"^```[a-z]*\n", "", out)
+        out = re.sub(r"\n```\s*$", "", out)
+    return out
+
+
 def _reconcile(orig: str, model: str) -> str:
     a, b = _TOKEN.findall(orig), _TOKEN.findall(model)
     out: list[str] = []
@@ -106,6 +134,32 @@ def _reconcile(orig: str, model: str) -> str:
         elif op == "delete":
             out.extend(a[i1:i2])
     result = "".join(out)
+    # Some correctors also insert apostrophes ("l IA" -> "l'IA"). The token
+    # alignment above then rejects the whole replacement span, including valid
+    # accents. Retry by aligning words only: punctuation stays byte-identical,
+    # while fold-identical words can still carry their restored diacritics.
+    if result == orig:
+        orig_words = list(re.finditer(r"\w+", orig, re.UNICODE))
+        model_words = list(re.finditer(r"\w+", model, re.UNICODE))
+        matcher = difflib.SequenceMatcher(
+            None,
+            [_fold(match.group(0)) for match in orig_words],
+            [_fold(match.group(0)) for match in model_words],
+            autojunk=False,
+        )
+        replacements = {}
+        for op, i1, i2, j1, j2 in matcher.get_opcodes():
+            if op != "equal" or i2 - i1 != j2 - j1:
+                continue
+            for left, right in zip(orig_words[i1:i2], model_words[j1:j2]):
+                if _fold(left.group(0)) == _fold(right.group(0)):
+                    replacements[left.span()] = right.group(0)
+        rebuilt, cursor = [], 0
+        for (start, end), word in sorted(replacements.items()):
+            rebuilt.extend((orig[cursor:start], word))
+            cursor = end
+        rebuilt.append(orig[cursor:])
+        result = "".join(rebuilt)
     ol, rl = orig.split("\n"), result.split("\n")
     if len(ol) == len(rl):
         for i, a_line in enumerate(ol):
@@ -130,20 +184,31 @@ def _guarded(orig: str, new: str) -> bool:
     return True
 
 
-def reaccent_text(md: str, key: str | None = None) -> str:
+def reaccent_text(md: str, key: str | None = None, force: bool = False) -> str:
     """Return `md` with French accents restored. SAFE: returns `md` unchanged on
     a missing key, an API error, content that isn't folded French, or any guard
     failure. Never raises."""
     # GOOGLE_API_KEY is the same Google AI Studio key and is already present in
     # the blog-auto cron envs that only declared GOOGLE_API_KEY (decryptebot,
     # bebedecrypte, pulsari), so reaccent activates with no secret/workflow change.
-    key = key or os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")
-    if not key:
+    gemini_key = key or os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")
+    mistral_key = os.getenv("MISTRAL_API_KEY")
+    if not gemini_key and not mistral_key:
         return md
-    try:
-        if not _is_folded_french(md):
-            return md
-        new = _reconcile(md, _call_gemini(md, key))
-        return new if (new != md and _guarded(md, new)) else md
-    except Exception:
+    if not force and not _is_folded_french(md):
         return md
+    if gemini_key:
+        try:
+            new = _reconcile(md, _call_gemini(md, gemini_key))
+            if new != md and _guarded(md, new):
+                return new
+        except Exception:
+            pass
+    if mistral_key:
+        try:
+            new = _reconcile(md, _call_mistral(md, mistral_key))
+            if new != md and _guarded(md, new):
+                return new
+        except Exception:
+            pass
+    return md

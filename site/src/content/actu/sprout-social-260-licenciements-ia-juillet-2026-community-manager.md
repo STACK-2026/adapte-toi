@@ -1,6 +1,6 @@
 ---
 title: "Sprout Social vire 260 personnes pour financer son IA : le signal qui doit alerter les community managers"
-description: "Le 15 juillet 2026, Sprout Social annonce 20 % de licenciements (260 postes) pour financer ses agents IA, dépasse ses prévisions Q2 et voit son cours grimper de 7 %. On décrypte pourquoi ce pattern SaaS menace directement les community managers et les métiers du marketing digital en France."
+description: "Le 15 juillet 2026, Sprout Social annonce 20 % de licenciements (260 postes) pour financer ses agents IA. Décryptage des conséquences pour les community managers et les métiers du marketing digital en France."
 date: 2026-07-18
 category: "menace"
 impactLevel: 4
