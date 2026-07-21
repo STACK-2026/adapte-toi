@@ -6,6 +6,7 @@
 set -e
 
 GUARD="$(CDPATH= cd "$(dirname "$0")" && pwd)/content_guard.py"
+REPO_ROOT="$(CDPATH= cd "$(dirname "$0")/../.." && pwd)"
 CONTENT_DIR="${CONTENT_DIR:-src/content}"
 
 if ! command -v python3 >/dev/null 2>&1; then
@@ -18,13 +19,13 @@ if [ ! -f "$GUARD" ]; then
   exit 0
 fi
 
-# Re-accent ASCII-folded FR files before the blocking --check, when a Gemini key
-# is available. content_guard.py flags ACCENT_LOW but cannot fix it; reaccent_gemini.py
-# (stdlib + Gemini REST, no pip deps) restores diacritics so a freshly-published
+# Re-accent ASCII-folded FR files before the blocking --check when a correction
+# API key is available. content_guard.py flags ACCENT_LOW but cannot fix it; the
+# repository-local wrapper restores diacritics so a freshly-published
 # unaccented FR article self-heals at build instead of blocking the deploy.
 reaccent_low() {
-  if [ -n "${GEMINI_API_KEY:-}" ]; then
-    RX="$HOME/stack-2026/scripts/reaccent_gemini.py"
+  if [ -n "${GEMINI_API_KEY:-}" ] || [ -n "${MISTRAL_API_KEY:-}" ]; then
+    RX="$REPO_ROOT/blog-auto/reaccent_file.py"
     if [ -f "$RX" ]; then
       BAD=$(python3 "$GUARD" --check "$@" 2>&1 | awk '/^\[FAIL\] /{f=$2} /ACCENT_LOW/{if(f)print f}' | sort -u || true)
       if [ -n "$BAD" ]; then
