@@ -1,13 +1,6 @@
 ---
 import { siteConfig } from "../../site.config";
-import TextMorph from "./TextMorph.astro";
 import G from "./Glossaire.astro";
-
-const ctaPhrases = [
-  "Fais le diagnostic",
-  "Évalue ton risque",
-  "Teste gratuitement",
-];
 ---
 
 <section class="relative overflow-hidden py-16 sm:py-24 md:py-36 px-4">
@@ -43,11 +36,7 @@ const ctaPhrases = [
         class="group inline-flex items-center justify-center gap-2 text-white font-bold px-6 sm:px-8 py-4 sm:py-4 rounded-full text-base sm:text-lg transition-all hover:scale-[1.03] hover:shadow-xl active:scale-[0.97] w-full sm:w-auto"
         style={`background: ${siteConfig.colors.primary}; box-shadow: 0 2px 4px 0 rgba(255,255,255,0.3) inset, 0 4px 12px -2px rgba(230,57,70,0.3);`}
       >
-        <TextMorph
-          phrases={ctaPhrases}
-          interval={4000}
-          class="font-bold"
-        />
+        Fais le diagnostic
         <svg class="w-5 h-5 transition-transform group-hover:translate-x-1 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6" />
         </svg>
