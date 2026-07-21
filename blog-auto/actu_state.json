@@ -1,8 +1,5 @@
 {
   "seen_urls": [
-    "https://www.letemps.ch/articles/comment-la-suisse-a-change-d-avis-sur-l-onu",
-    "https://www.letemps.ch/articles/omer-bartov-historien-de-l-holocauste-le-sionisme-ne-peut-plus-etre-repare",
-    "https://www.numerama.com/pop-culture/2298101-le-remake-dassassins-creed-black-flag-se-trouve-deja-sous-la-barre-des-40-e.html",
     "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LWmxId29ZLW5xaVFXVWUwNndTT0VYS1NGNEo0SkluMDRaUWJoQzJWYjY0NDJtSjZWQzAyUGlIMzVqZk1BRVZvTnJlaURYV083TVk4WXNiUzUwdkRJNG55WA",
     "https://openai.com/index/openai-gtm-assistant",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOTVhRnpmekVmTUlJcnVPbU14dC1adzljcGd5cWdpRUVLNWpfemwxNUtIUnFYeXFtN3Q0Mm5Id21Jc0E5cm1HaEJUOU9TbkF4akU5NEg1dF94SVZQd3F0cDdITjJheUwtU0l2aHZyVUtfX1pLZkVZQmpJTVFnOWp6ZTVpeTBNMGRtWUtkbzhSWEI0MmpBa0xpTEFTVFRySUQ2VDVoRUtsQ3JzVXJaM3ozXzRiOTNTQnIzSV9ZQW5B",
@@ -4999,7 +4996,10 @@
     "https://courriercadres.com/management-les-3-methodes-inspirantes-de-larmee-de-lair-et-de-lespace",
     "https://huggingface.co/blog/langchain",
     "https://huggingface.co/blog/pricing-update",
-    "https://openai.com/index/affective-use-study"
+    "https://openai.com/index/affective-use-study",
+    "https://digiday.com/marketing/openai-set-to-expand-ads-to-france-germany-and-ireland/",
+    "https://siecledigital.fr/2026/07/09/apres-les-etats-unis-chatgpt-sapprete-a-lancer-la-publicite-en-france/",
+    "https://www.clubic.com/actualite-620677-en-silence-openai-recrute-a-paris-pour-transformer-chatgpt-en-regie-publicitaire.html"
   ],
   "seen_hashes": [
     "b5f6fc4f683f9eb3",
