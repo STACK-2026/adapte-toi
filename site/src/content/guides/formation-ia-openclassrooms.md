@@ -227,6 +227,8 @@ Voir notre [guide formation IA Coursera en français](/guides/formation-ia-cours
 
 **Limite 6 : moins de cours one-shot que Coursera.** Si tu veux juste 10h sur un sujet précis (prompt engineering, ChatGPT pour managers), Coursera est plus modulaire.
 
+OpenClassrooms étant pensé quasi exclusivement pour des métiers tech et data, son catalogue laisse de côté la majorité des projets de reconversion professionnelle. Pour qui cherche une formation CPF bien notée en dehors du champ numérique, que ce soit en comptabilité, ressources humaines, commerce, marketing ou immobilier, des plateformes comme <a href="https://www.studi.com/fr" rel="nofollow">Studi</a> constituent une référence documentée : ses 59 000 apprenants actifs (enquête Audirep, janvier 2025), sa note de 4,5/5 sur Trustpilot fondée sur plus de 9 000 avis et son catalogue structuré autour de 17 domaines professionnels du niveau CAP jusqu'au MBA en font l'un des organismes de formation en ligne les mieux évalués par leurs apprenants en France sur les formations éligibles au CPF.
+
 ---
 
 ## Sources
